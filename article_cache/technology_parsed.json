@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/",
+    "title": "Inside the US Government's Unpublished Report on AI Safety",
+    "summary": "More importantly, they showed shortcomings in a new US government standard designed to help companies test AI systems.\nTrump\u2019s administration has since steered experts away from studying issues such as algorithmic bias or fairness in AI systems.\nParticipants were asked to use the NIST AI 600-1 framework to assess AI tools.\nThe framework covers risk categories including generating misinformation or cybersecurity attacks, leaking private user information or critical information about related AI systems, and the potential for users to become emotionally attached to AI tools.\nThe report says that those involved saw that some elements of the NIST framework were more useful than others.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2025-08-06T18:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "url": "https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad",
+    "title": "Google dunks on Apple Intelligence in new Pixel 10 ad",
+    "summary": "Apple sold its iPhone 16 devices last year with a promise that a new AI-powered version of Siri would soon be a lot more personalized thanks to Apple Intelligence.\nAlmost a year later, that Siri upgrade still isn\u2019t here, and Apple was forced to delay its promised improvements and remove an iPhone 16 commercial instead.\nNow, Google doesn\u2019t want anyone to forget about this Apple Intelligence debacle.\nGoogle\u2019s latest ad comes just a day after a report from Bloomberg\u2019s Mark Gurman shed some additional light on Apple\u2019s AI delays.\nApple is now reportedly working on a new version of Siri with an updated architecture.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-04T16:47:55Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://www.wired.com/story/wired-ai-power-summit/",
+    "title": "Join Us for WIRED\u2019s AI Power Summit",
+    "summary": "The strength and capabilities of generative AI are accelerating at a dizzying pace.\nIf you\u2019re finding it difficult to keep up, we get it.\nThat\u2019s why WIRED is hosting its first AI Power Summit on September 15 in New York City.\nWe\u2019ve curated a series of panels and conversations with experts who will distill and discuss the implications of today\u2019s most crucial AI-related news.\nExpect to hear from some of your favorite WIRED writers and editors, and leaders across technology, politics, and media.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-07-31T13:16:34Z",
+    "source": "Wired"
+  },
+  {
+    "url": "https://www.wired.com/story/missing-hiker-ai-drone-recovery/",
+    "title": "A Hiker Was Missing for Nearly a Year\u2014Until an AI System Recognized His Helmet",
+    "summary": "How long does it take to identify the helmet of a hiker lost in a 183-hectare mountain area, analyzing 2,600 frames taken by a drone from approximately 50 meters away?\nIf analyzed by an artificial intelligence system, one afternoon.\nThe team collected all the images in five hours with just two drones on the morning of Tuesday, July 29, and analyzed them using AI software during the afternoon of the same day.\nThe two drone pilots who navigated the area were aided by the experience and knowledge of four expert mountain rescuers.\n\"It's a human achievement, but without technology, it would have been an impossible mission.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-04T09:30:00Z",
+    "source": "Wired"
+  },
+  {
+    "url": "https://gizmodo.com/ai-wont-boost-human-productivity-just-yet-a-new-paper-from-the-federal-reserve-says-2000637521",
+    "title": "AI Won\u2019t Boost Human Productivity Yet, U.S. Federal Reserve Says",
+    "summary": "Generative AI is not just another tech hype cycle that is bound to die down but is instead a game-changer for human productivity, according to the Federal Reserve.\nIt\u2019s been lauded by corporate executives and many AI bulls alike since OpenAI\u2019s generative AI model ChatGPT sparked the AI craze.\nGenerative AI has been helpful in simulations to understand the nature of the universe, in novel drug discoveries, and more.\nSo while generative AI is likely to boost how productive we are overall, the impact will be slow.\nA widespread adoption of generative AI means significant need for investment in data centers and electricity generation.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-08-01T11:00:13Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/",
+    "title": "Google Will Use AI to Guess People\u2019s Ages Based on Search History",
+    "summary": "The UK\u2019s Online Safety Act is just one part of a wave of age-verification efforts around the world.\nAnd while these laws may keep some kids from accessing adult content, some experts warn that they also create security and privacy risks for everyone.\nEach week, we round up the security and privacy news we didn\u2019t cover in depth ourselves.\nGoogle is rolling out an AI-powered age-estimation system to apply content protections to Search and YouTube, even for users who haven\u2019t provided their age.\nGoogle claims the changes align with regulatory expectations and will help protect younger users from inappropriate content.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-02T10:30:00Z",
+    "source": "Wired"
+  },
+  {
+    "url": "https://gizmodo.com/disney-ai-moana-tron-ares-backlash-lawsuits-2000638481",
+    "title": "Report: Disney\u2019s Attempts to Experiment With Generative AI Have Already Hit Major Hurdles",
+    "summary": "As Silicon Valley has pushed the world more and more into trying to make the generative AI boom sustain itself, Hollywood is still standing on the precipice of a transformative moment.\nDisney is certainly no exception, as the company is already familiar with both the legal headaches and the PR nightmare generative AI can represent.\nBut a new report from the Wall Street Journal claims that there\u2019ve been even more attempts behind the scenes at Disney\u2019s studio to try and utilize generative AI technologies\u2026 neither of which purportedly went very far or well, for very different reasons.\nTwo upcoming productions that tried to navigate potential use of generative AI mentioned in the WSJ report are the upcoming live-action Moana remake and Tron: Ares.\nPlayers promptly figured out ways to get around Epic\u2019s content restrictions and get the generative Vader to swear and use slurs.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-04T15:00:51Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://gizmodo.com/read-this-before-you-trust-any-ai-written-code-2000637243",
+    "title": "Read This Before You Trust Any AI-Written Code",
+    "summary": "According to a recent report published by data security firm Veracode, about half of all AI-generated code contains security flaws.\nThe results were not exactly inspiring if security is your top priority, with just 55% of tasks completed ultimately generating \u201csecure\u201d code.\nPerhaps the most interesting finding of the study, though, is not simply that AI models are regularly producing insecure code.\nRecent research out of the University of California, Berkeley, found that AI models are getting very good at identifying exploitable bugs in code.\nSo AI models are consistently generating insecure code, and other AI models are getting really good at spotting those vulnerabilities and exploiting them.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2025-07-31T18:10:08Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://gizmodo.com/apple-ceo-tim-cook-calls-ai-bigger-than-the-internet-in-rare-all-hands-meeting-2000638858",
+    "title": "Apple CEO Tim Cook Calls AI \u2018Bigger Than the Internet\u2019 in Rare All-Hands Meeting",
+    "summary": "This is sort of ours to grab,\u201d Cook said, according to Bloomberg, and called the AI revolution \u201cas big or bigger\u201d than the internet.\nThe meeting took place a day after Apple reported better than expected revenue in its quarterly earnings report, and that sent the company\u2019s stock soaring.\nThe report came in a week already marked by great tech earnings results, partially driven by AI.\nIn the earnings call following the report, Cook told investors that Apple was planning to \u201csignificantly\u201d increase its investments in AI and was open to acquisitions to do so.\nAnd if Apple makes the right moves in developing and scaling its AI product offerings, Cook could potentially add AI to that list as well.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-04T23:04:02Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://tech.yahoo.com/ai/articles/google-commits-1-billion-ai-160316025.html",
+    "title": "Google commits $1 billion for AI training at US universities",
+    "summary": "By Kenrick CaiSAN FRANCISCO (Reuters) -Alphabet's Google on Wednesday announced a three-year, $1 billion commitment to provide artificial intelligence training and tools to U.S. higher education institutions and nonprofits.\nAdvertisement AdvertisementAdvertisementParticipating schools may receive cash funding and resources, such as cloud computing credits towards AI training for students as well as research on AI-related topics.\nThe billion-dollar figure also includes the value of paid AI tools, such as an advanced version of the Gemini chatbot, which Google will give to college students for free.\nAdvertisement AdvertisementAdvertisementThe announcement comes as rivals like OpenAI, Anthropic and Amazon have made similar pushes around AI in education as the technology pervades society.\nMicrosoft in July pledged $4 billion to bolster AI in education globally.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-06T16:03:16Z",
+    "source": "Yahoo Entertainment"
+  }
+]
