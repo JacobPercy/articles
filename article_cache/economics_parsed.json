@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://www.npr.org/2025/08/01/nx-s1-5488804/stocks-trump-tariffs-economy",
-    "title": "Stock markets drop as Trump unleashes new round of global tariffs",
-    "summary": "Stock markets drop as Trump unleashes new round of global tariffstoggle caption Spencer Platt/Getty ImagesStock markets fell sharply on Friday, as U.S. unemployment rose and President Trump unveiled steep tariffs on a wide range of countries.\nTrump's latest tariffs, announced late Thursday, are reigniting concerns about how these import taxes would impact the U.S. and the global economies.\nMarkets went into a tailspin in April when Trump first unveiled his tariffs, before he started pausing and softening some of those tax rates.\nSince then, global investors have largely been shrugging off his updated plans.\nThe jobs weakness is likely to increase calls for the Federal Reserve to lower interest rates when it next meets in September.",
-    "category": "economics",
-    "bias": "center",
-    "publishedAt": "2025-08-01T13:32:17Z",
-    "source": "NPR"
-  },
-  {
     "url": "https://abcnews.go.com/Business/trumps-new-tariffs-economy-experts-weigh/story?id=124273016",
     "title": "What do Trump's new tariffs mean for the economy? Experts weigh in",
     "summary": "What do Trump's new tariffs mean for the economy?\nExperts weigh inDonald Trump signs an executive order restarting the Presidential Fitness Test in public schools, July 31, 2025, in the Roosevelt Room of the White House in Washington.\nU.S. stocks tumbled on Friday in the immediate aftermath of sweeping new tariffs issued by President Donald Trump.\n\"Obviously, they're not what we want to see,\" Stephen Miran, chair of the White House Council of Economic Advisors, said on Friday.\nCongress passed Trump's spending measure earlier this month; more recently, Trump announced a fresh round of tariffs late Thursday.",
@@ -45,24 +36,6 @@
     "source": "Business Insider"
   },
   {
-    "url": "https://www.businessinsider.com/economy-job-market-home-prices-household-debt-defaults-us-outlook-2025-7",
-    "title": "There are 4 signs the economy may be on a weaker footing than the latest data suggests",
-    "summary": "But Dutta suggested that things could be weaker at second glance, showcasing various signs of weakness across the housing market, job market, and consumer and corporate finances.\nKevin Carter/Getty ImagesThe housing market isn't nearly as hot as it used to be.\nOther signs have emerged in the past year to suggest that the US housing market is frozen over.\n\"The deterioration in the Labor Differential is a sign that labor market conditions are somewhat weaker than one would expect given the low unemployment rate,\" he wrote.\nDutta says the trend can largely be explained by a weaker job market for white-collar workers.",
-    "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2025-07-31T15:39:14Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://www.npr.org/2025/08/04/nx-s1-5487592/global-economy-tariffs-inflation-prices",
-    "title": "As Trump's tariffs take shape, is America really winning?",
-    "summary": "As Trump's tariffs take shape, is America really winning?\nSponsor MessageThe U.S. is starting to feel the effectsFor months, the full impact of Trump's tariffs was not quite clear.\nThere is one consolation: For the most part, Trump's tariffs are not as high as the ones he first unveiled in April.\nSince last fall, the U.S. has raised about $150 billion, the bulk of which has come in since Trump's tariffs took effect.\nThat may lead to a near-term reaction by foreign consumers against the U.S. \u2014 akin to how Canadians retaliated against Trump's tariffs by avoiding American products.",
-    "category": "economics",
-    "bias": "center",
-    "publishedAt": "2025-08-04T09:00:00Z",
-    "source": "NPR"
-  },
-  {
     "url": "https://www.businessinsider.com/trump-says-he-will-fire-bureau-of-labor-statistics-commissioner-2025-8",
     "title": "Trump fires Bureau of Labor Statistics commissioner",
     "summary": "Following a disappointing jobs report on Friday, President Donald Trump fired the Bureau of Labor Statistics commissioner.\nShe will be replaced with someone much more competent and qualified,\" Trump wrote in a Truth Social post.\nDuring the search for McEntarfer's replacement, Deputy Commissioner William Wiatrowski will serve as Acting Commissioner, Labor Secretary Lori Chavez-DeRemer said on X.\nTrump wrote that the Friday jobs report was a \"major mistake\" and \"The Economy is BOOMING under 'TRUMP.'\"\n\"The totally groundless firing of Dr. Erika McEntarfer, my successor as Commissioner of Labor Statistics at BLS, sets a dangerous precedent and undermines the statistical mission of the Bureau,\" William Beach, an economist and former Commissioner of Labor Statistics, said in a post on X.",
@@ -88,5 +61,14 @@
     "bias": "lean right",
     "publishedAt": "2025-08-04T11:31:36Z",
     "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.theatlantic.com/economy/archive/2025/08/trump-tariffs-economic-data/683740/",
+    "title": "The Mystery of the Strong Economy Has Finally Been Solved",
+    "summary": "The Trump economy doesn\u2019t look so hot after all.\nInstead, according to the available numbers, inflation remained stable, job growth remained strong, and the stock market set new records.\nIn recent months, Trump has imposed 25 percent tariffs on car parts and 50 percent tariffs on copper, steel, and aluminum.\n(The prior month\u2019s inflation report was also revised upward to show a slight increase in May.)\nThe Trump administration has found itself caught between deflecting blame for the weak economic numbers and denying the numbers\u2019 validity.",
+    "category": "economics",
+    "bias": "left",
+    "publishedAt": "2025-08-01T20:02:00Z",
+    "source": "The Atlantic"
   }
 ]
