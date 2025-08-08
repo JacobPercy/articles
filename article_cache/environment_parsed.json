@@ -20,9 +20,9 @@
   {
     "url": "https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/",
     "title": "Inside the US Government's Unpublished Report on AI Safety",
-    "summary": "More importantly, they showed shortcomings in a new US government standard designed to help companies test AI systems.\nTrump\u2019s administration has since steered experts away from studying issues such as algorithmic bias or fairness in AI systems.\nParticipants were asked to use the NIST AI 600-1 framework to assess AI tools.\nThe framework covers risk categories including generating misinformation or cybersecurity attacks, leaking private user information or critical information about related AI systems, and the potential for users to become emotionally attached to AI tools.\nThe report says that those involved saw that some elements of the NIST framework were more useful than others.",
+    "summary": "More importantly, they showed shortcomings in a new US government standard designed to help companies test AI systems.\nTrump\u2019s administration has since steered experts away from studying issues such as algorithmic bias or fairness in AI systems.\nThe event took place at the Conference on Applied Machine Learning in Information Security (CAMLIS).\nParticipants were asked to use the NIST AI 600-1 framework to assess AI tools.\nThe framework covers risk categories including generating misinformation or cybersecurity attacks, leaking private user information or critical information about related AI systems, and the potential for users to become emotionally attached to AI tools.",
     "category": "environment",
-    "bias": "right",
+    "bias": "left",
     "publishedAt": "2025-08-06T18:00:00Z",
     "source": "Wired"
   },
