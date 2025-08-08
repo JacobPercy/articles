@@ -9,60 +9,6 @@
     "source": "Wired"
   },
   {
-    "url": "https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad",
-    "title": "Google dunks on Apple Intelligence in new Pixel 10 ad",
-    "summary": "Apple sold its iPhone 16 devices last year with a promise that a new AI-powered version of Siri would soon be a lot more personalized thanks to Apple Intelligence.\nAlmost a year later, that Siri upgrade still isn\u2019t here, and Apple was forced to delay its promised improvements and remove an iPhone 16 commercial instead.\nNow, Google doesn\u2019t want anyone to forget about this Apple Intelligence debacle.\nGoogle\u2019s latest ad comes just a day after a report from Bloomberg\u2019s Mark Gurman shed some additional light on Apple\u2019s AI delays.\nApple is now reportedly working on a new version of Siri with an updated architecture.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-04T16:47:55Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.wired.com/story/missing-hiker-ai-drone-recovery/",
-    "title": "A Hiker Was Missing for Nearly a Year\u2014Until an AI System Recognized His Helmet",
-    "summary": "How long does it take to identify the helmet of a hiker lost in a 183-hectare mountain area, analyzing 2,600 frames taken by a drone from approximately 50 meters away?\nIf analyzed by an artificial intelligence system, one afternoon.\nThe team collected all the images in five hours with just two drones on the morning of Tuesday, July 29, and analyzed them using AI software during the afternoon of the same day.\nThe two drone pilots who navigated the area were aided by the experience and knowledge of four expert mountain rescuers.\n\"It's a human achievement, but without technology, it would have been an impossible mission.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-04T09:30:00Z",
-    "source": "Wired"
-  },
-  {
-    "url": "https://gizmodo.com/ai-wont-boost-human-productivity-just-yet-a-new-paper-from-the-federal-reserve-says-2000637521",
-    "title": "AI Won\u2019t Boost Human Productivity Yet, U.S. Federal Reserve Says",
-    "summary": "Generative AI is not just another tech hype cycle that is bound to die down but is instead a game-changer for human productivity, according to the Federal Reserve.\nIt\u2019s been lauded by corporate executives and many AI bulls alike since OpenAI\u2019s generative AI model ChatGPT sparked the AI craze.\nGenerative AI has been helpful in simulations to understand the nature of the universe, in novel drug discoveries, and more.\nSo while generative AI is likely to boost how productive we are overall, the impact will be slow.\nA widespread adoption of generative AI means significant need for investment in data centers and electricity generation.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-08-01T11:00:13Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/",
-    "title": "Google Will Use AI to Guess People\u2019s Ages Based on Search History",
-    "summary": "The UK\u2019s Online Safety Act is just one part of a wave of age-verification efforts around the world.\nAnd while these laws may keep some kids from accessing adult content, some experts warn that they also create security and privacy risks for everyone.\nEach week, we round up the security and privacy news we didn\u2019t cover in depth ourselves.\nGoogle is rolling out an AI-powered age-estimation system to apply content protections to Search and YouTube, even for users who haven\u2019t provided their age.\nGoogle claims the changes align with regulatory expectations and will help protect younger users from inappropriate content.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-02T10:30:00Z",
-    "source": "Wired"
-  },
-  {
-    "url": "https://gizmodo.com/disney-ai-moana-tron-ares-backlash-lawsuits-2000638481",
-    "title": "Report: Disney\u2019s Attempts to Experiment With Generative AI Have Already Hit Major Hurdles",
-    "summary": "As Silicon Valley has pushed the world more and more into trying to make the generative AI boom sustain itself, Hollywood is still standing on the precipice of a transformative moment.\nDisney is certainly no exception, as the company is already familiar with both the legal headaches and the PR nightmare generative AI can represent.\nBut a new report from the Wall Street Journal claims that there\u2019ve been even more attempts behind the scenes at Disney\u2019s studio to try and utilize generative AI technologies\u2026 neither of which purportedly went very far or well, for very different reasons.\nTwo upcoming productions that tried to navigate potential use of generative AI mentioned in the WSJ report are the upcoming live-action Moana remake and Tron: Ares.\nPlayers promptly figured out ways to get around Epic\u2019s content restrictions and get the generative Vader to swear and use slurs.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-04T15:00:51Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://gizmodo.com/apple-ceo-tim-cook-calls-ai-bigger-than-the-internet-in-rare-all-hands-meeting-2000638858",
-    "title": "Apple CEO Tim Cook Calls AI \u2018Bigger Than the Internet\u2019 in Rare All-Hands Meeting",
-    "summary": "This is sort of ours to grab,\u201d Cook said, according to Bloomberg, and called the AI revolution \u201cas big or bigger\u201d than the internet.\nThe meeting took place a day after Apple reported better than expected revenue in its quarterly earnings report, and that sent the company\u2019s stock soaring.\nThe report came in a week already marked by great tech earnings results, partially driven by AI.\nIn the earnings call following the report, Cook told investors that Apple was planning to \u201csignificantly\u201d increase its investments in AI and was open to acquisitions to do so.\nAnd if Apple makes the right moves in developing and scaling its AI product offerings, Cook could potentially add AI to that list as well.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-04T23:04:02Z",
-    "source": "Gizmodo.com"
-  },
-  {
     "url": "https://tech.yahoo.com/ai/articles/google-commits-1-billion-ai-160316025.html",
     "title": "Google commits $1 billion for AI training at US universities",
     "summary": "By Kenrick CaiSAN FRANCISCO (Reuters) -Alphabet's Google on Wednesday announced a three-year, $1 billion commitment to provide artificial intelligence training and tools to U.S. higher education institutions and nonprofits.\nAdvertisement AdvertisementAdvertisementParticipating schools may receive cash funding and resources, such as cloud computing credits towards AI training for students as well as research on AI-related topics.\nThe billion-dollar figure also includes the value of paid AI tools, such as an advanced version of the Gemini chatbot, which Google will give to college students for free.\nAdvertisement AdvertisementAdvertisementThe announcement comes as rivals like OpenAI, Anthropic and Amazon have made similar pushes around AI in education as the technology pervades society.\nMicrosoft in July pledged $4 billion to bolster AI in education globally.",
@@ -79,5 +25,68 @@
     "bias": "lean left",
     "publishedAt": "2025-08-05T12:00:40Z",
     "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://gizmodo.com/get-ready-the-ai-hacks-are-coming-2000639625",
+    "title": "Get Ready, the AI Hacks Are Coming",
+    "summary": "Others have used prompt injection to hijack code assistants like Cursor.\nIt\u2019s also becoming increasingly clear that AI models appear to engage with hidden commands.\nIn the case of these attacks, the researchers informed Google of the vulnerability, and the company addressed the issue, per Wired.\nBut as AI gets integrated into more platforms and more areas of the public\u2019s lives, the more risk that such weaknesses present.\nIt\u2019s particularly concerning as AI agents, which have the ability to interact with apps and websites to complete multi-step tasks, are starting to roll out.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-06T18:10:25Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release",
+    "title": "OpenAI releases a free GPT model that can run on your laptop",
+    "summary": "OpenAI is releasing a new open-weight model dubbed GPT-OSS that can be downloaded for free, be customized, and even run on a laptop.\nBoth model versions are being released today via platforms like Hugging Face, Databricks, Azure, and AWS under the \u202dApache 2.0 license, which allows them to be widely modified for commercial purposes.\nMeanwhile, developers have flocked to open models due to their lower cost and customizability.\nIts output is text-only and, like all of OpenAI\u2019s models, GPT-OSS\u2019s training data is undisclosed.\n\u201cThe team really cooked with this one.\u201dOpenAI hasn\u2019t shared benchmarks comparing GPT-OSS to other open models like Llama, DeepSeek, or Google\u2019s Gemma.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-05T17:07:05Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/chip-startup-oxmiq-launches-gpu-070649653.html",
+    "title": "Chip startup Oxmiq launches GPU tech for license",
+    "summary": "By Max A. CherneySAN FRANCISCO (Reuters) -Oxmiq Labs said on Tuesday that it planned to launch licensable graphics processor tech geared for artificial intelligence data crunching.\nFounded by Intel's former chief architect, Raja Koduri, Oxmiq said that it has raised $20 million in seed capital to help launch the new GPU intellectual property.\nThe funding round includes investments from angel investors, and corporate strategic investors, including MediaTek, Oxmiq said.\nThe company said it can customize the GPU architecture for specific types of computing.\nThe company said it opted to pursue building intellectual property instead of a complete chip design because it would avoid the high costs.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-05T07:06:49Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.businessinsider.com/palantir-calls-llms-a-jagged-intelligence-outlines-ai-race-plan-2025-8",
+    "title": "Palantir exec calls LLMs a 'jagged intelligence' and outlines AI race plan",
+    "summary": "A Palantir exec had some strong words for Large Language Models.\nThe Denver-based AI software company reported its first-ever billion-dollar quarter in Monday's Q2 earnings report, and the executives opened the investors call with comments on LLMs and how it plans to win the AI race.\n\"LLMs, on their own, are at best a jagged intelligence divorced from even basic understanding,\" Ryan Taylor, the company's chief revenue officer and chief legal officer, told shareholders on the earnings call.\nCompany executives also outlined how it plans to win the AI race and what kind of talent would thrive at Palantir.\nPalantir did not immediately respond to a request for comment from Business Insider.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-08-05T01:27:57Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a",
+    "title": "How AI Conquered the US Economy: A Visual FAQ",
+    "summary": "Nobody can say for sure whether the AI boom is evidence of the next Industrial Revolution or the next big bubble.\nWe can all stop talking about \u201cwhat will happen if AI dominates the economy at such-and-such future date?\u201d No, the AI economy is here and now.\nToday, in a bit of a throwback to my early blogging years, I\u2019m going to try to walk through an FAQ with graphs to create a visual guide to the question:How big is the AI boom?\n\u201cAI companies are reaching revenue milestones faster than previous generations of startups,\u201d the company announced in a recent report.\nBut independent evaluators in the study actually concluded that using AI did the opposite: it increased task completion time by about 20 percent.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-08-07T10:12:54Z",
+    "source": "Derekthompson.org"
+  },
+  {
+    "url": "https://www.cnet.com/tech/services-and-software/trump-media-is-testing-an-ai-search-engine-powered-by-perplexity/",
+    "title": "Trump Media Is Testing an AI Search Engine Powered by Perplexity",
+    "summary": "President Donald Trump's media company, Trump Media, is beta-testing an AI search feature on the Truth Social platform, drawing on Perplexity's AI technology.\nGenerative AI technology has been upending traditional internet search, which has been dominated by Google for decades.\nTrump Media and Technology Group is perhaps best known for its social media program, Truth Social.\nRepresentatives for Trump Media and Perplexity didn't immediately respond to a request for comment.\nIn today's divided political landscape, one immediate concern is that a search engine from a conservative president's media company will select only search results that favor conservative opinions.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-07T00:35:09Z",
+    "source": "CNET"
+  },
+  {
+    "url": "https://www.macrumors.com/2025/08/07/apples-ai-problem-not-just-siri-talent-leaving/",
+    "title": "Apple's Real AI Crisis Isn't Siri, But the Talent It's Losing to Rivals",
+    "summary": "The exodus of staff from Apple's AI team over the last seven months has seen senior researchers leave variously for Meta, OpenAI, xAI, Cohere, and others.\nThe most notable recent departure was that of Ruoming Pang, head of Apple's Foundational Models team, who joined Meta last month after being lured by CEO Mark Zuckerberg with a $200 million pay package.\nFT reports that industry recruiters see the departures as \"a crisis of confidence\" around Apple's AI future.\nAaron Sines from recruiting firm Razoroo said companies now view elite AI talent as \"strategic assets,\" on par with intellectual property or even entire business units.\nA chatbot-like version of the virtual assistant was one of the key Apple Intelligence features that Apple promoted at last year's WWWDC, but it has yet to arrive.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-08-07T12:22:34Z",
+    "source": "MacRumors"
   }
 ]
