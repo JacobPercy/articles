@@ -9,6 +9,15 @@
     "source": "Wired"
   },
   {
+    "url": "https://gizmodo.com/the-end-of-bullshit-ai-2000640302",
+    "title": "The End of Bullshit AI",
+    "summary": "In every conversation about AI, you hear the same refrains: \u201cYeah, but it\u2019s amazing,\u201d quickly followed by, \u201cbut it makes stuff up,\u201d and \u201cyou can\u2019t really trust it.\u201d Even among the most dedicated AI enthusiasts, these complaints are legion.\n\u201cI like it, but it never says \u2018I don\u2019t know.\u2019 It just makes you think it knows,\u201d she told me.\nThis makes it the first consumer AI explicitly designed to reject bullshit, especially its own.\nLess Flattery, More FrictionEarlier this year, many ChatGPT users noticed the AI had become strangely sycophantic.\nOthers, however, may find themselves frustrated by an AI that no longer just tells them what they want to hear.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-08-07T20:50:47Z",
+    "source": "Gizmodo.com"
+  },
+  {
     "url": "https://tech.yahoo.com/ai/articles/google-commits-1-billion-ai-160316025.html",
     "title": "Google commits $1 billion for AI training at US universities",
     "summary": "By Kenrick CaiSAN FRANCISCO (Reuters) -Alphabet's Google on Wednesday announced a three-year, $1 billion commitment to provide artificial intelligence training and tools to U.S. higher education institutions and nonprofits.\nAdvertisement AdvertisementAdvertisementParticipating schools may receive cash funding and resources, such as cloud computing credits towards AI training for students as well as research on AI-related topics.\nThe billion-dollar figure also includes the value of paid AI tools, such as an advanced version of the Gemini chatbot, which Google will give to college students for free.\nAdvertisement AdvertisementAdvertisementThe announcement comes as rivals like OpenAI, Anthropic and Amazon have made similar pushes around AI in education as the technology pervades society.\nMicrosoft in July pledged $4 billion to bolster AI in education globally.",
@@ -18,13 +27,13 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "url": "https://gizmodo.com/the-mysterious-ai-easter-egg-at-the-heart-of-ari-asters-eddington-2000633209",
-    "title": "The Mysterious AI Easter Egg at the Heart of Ari Aster\u2019s \u2018Eddington\u2019",
-    "summary": "Tokens, entered into LLMs during the AI training process, are a critical part of teaching a program how to talk to humans.\nSolidGoldMagikarp is one such \u201cglitch token\u201d that, in the past, has introduced bizarre behavior into LLMs.\nShe and her research partner, Matthew Watkins, discovered this particular glitch token when they were looking into the anomalous token phenomenon.\n\u201cWe think it\u2019s what happens when the model has not seen that token during its training process,\u201d said Rumbelow.\nIn short, phrases like SolidGoldMagikarp are obscure utterances that can make an AI model go temporarily crazy.",
+    "url": "https://www.businessinsider.com/sam-altman-openai-gpt-5-agi-2025-8",
+    "title": "Here's why Sam Altman says OpenAI's GPT-5 falls short of AGI",
+    "summary": "Sam Altman says OpenAI has yet to crack AGI.\nDeveloping AGI that benefits all of humanity is OpenAI's core mission.\nAltman said that looking back at OpenAI's previous releases, GPT-5 is still a step in the right direction.\nWhile AGI remains the company's mission, Altman says OpenAI is already looking beyond it to superintelligence, a still theoretical advancement in which artificial intelligence can reason far beyond human capability.\n\"Superintelligent tools could massively accelerate scientific discovery and innovation well beyond what we are capable of doing on our own, and in turn massively increase abundance and prosperity,\" Altman wrote in January.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-08-05T12:00:40Z",
-    "source": "Gizmodo.com"
+    "bias": "left",
+    "publishedAt": "2025-08-07T18:01:39Z",
+    "source": "Business Insider"
   },
   {
     "url": "https://gizmodo.com/get-ready-the-ai-hacks-are-coming-2000639625",
@@ -34,33 +43,6 @@
     "bias": "left",
     "publishedAt": "2025-08-06T18:10:25Z",
     "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release",
-    "title": "OpenAI releases a free GPT model that can run on your laptop",
-    "summary": "OpenAI is releasing a new open-weight model dubbed GPT-OSS that can be downloaded for free, be customized, and even run on a laptop.\nBoth model versions are being released today via platforms like Hugging Face, Databricks, Azure, and AWS under the \u202dApache 2.0 license, which allows them to be widely modified for commercial purposes.\nMeanwhile, developers have flocked to open models due to their lower cost and customizability.\nIts output is text-only and, like all of OpenAI\u2019s models, GPT-OSS\u2019s training data is undisclosed.\n\u201cThe team really cooked with this one.\u201dOpenAI hasn\u2019t shared benchmarks comparing GPT-OSS to other open models like Llama, DeepSeek, or Google\u2019s Gemma.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-05T17:07:05Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://finance.yahoo.com/news/chip-startup-oxmiq-launches-gpu-070649653.html",
-    "title": "Chip startup Oxmiq launches GPU tech for license",
-    "summary": "By Max A. CherneySAN FRANCISCO (Reuters) -Oxmiq Labs said on Tuesday that it planned to launch licensable graphics processor tech geared for artificial intelligence data crunching.\nFounded by Intel's former chief architect, Raja Koduri, Oxmiq said that it has raised $20 million in seed capital to help launch the new GPU intellectual property.\nThe funding round includes investments from angel investors, and corporate strategic investors, including MediaTek, Oxmiq said.\nThe company said it can customize the GPU architecture for specific types of computing.\nThe company said it opted to pursue building intellectual property instead of a complete chip design because it would avoid the high costs.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-05T07:06:49Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "url": "https://www.businessinsider.com/palantir-calls-llms-a-jagged-intelligence-outlines-ai-race-plan-2025-8",
-    "title": "Palantir exec calls LLMs a 'jagged intelligence' and outlines AI race plan",
-    "summary": "A Palantir exec had some strong words for Large Language Models.\nThe Denver-based AI software company reported its first-ever billion-dollar quarter in Monday's Q2 earnings report, and the executives opened the investors call with comments on LLMs and how it plans to win the AI race.\n\"LLMs, on their own, are at best a jagged intelligence divorced from even basic understanding,\" Ryan Taylor, the company's chief revenue officer and chief legal officer, told shareholders on the earnings call.\nCompany executives also outlined how it plans to win the AI race and what kind of talent would thrive at Palantir.\nPalantir did not immediately respond to a request for comment from Business Insider.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-08-05T01:27:57Z",
-    "source": "Business Insider"
   },
   {
     "url": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a",
@@ -88,5 +70,23 @@
     "bias": "lean right",
     "publishedAt": "2025-08-07T12:22:34Z",
     "source": "MacRumors"
+  },
+  {
+    "url": "https://www.businessinsider.com/openai-sam-altman-ai-talent-war-meta-labor-market-jobs-2025-8",
+    "title": "Sam Altman says the talent pool for AI superstars is probably bigger than people think",
+    "summary": "OpenAI CEO Sam Altman called it the \"most intense talent market I have seen in my career,\" on CNBC's Squawk Box on Friday, a day after OpenAI released GPT-5, the latest iteration of its flagship model.\n\"I bet it's much bigger than people think,\" he said, referring to the available talent pool.\nBusiness Insider earlier reported that researchers at many of the top AI startups are earning in the mid-six-figures for their skills.\nMore than any other field, AI bets on potential over proven track records, as companies race toward still-theoretical goals like artificial general intelligence and superintelligence.\nThe real value of top AI talent, Altman said, lies in their capacity for breakthroughs.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-08-08T15:36:33Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/vibe-coding-limits-use-cases-software-companies-airtable-redis-2025-7",
+    "title": "Vibe coding is the future \u2014 just don't trust it (yet)",
+    "summary": "Companies have found, however, that despite the excitement \u2014 and the millions in funding pouring into vibe coding companies \u2014 the technology is still limited.\nSo, many CEOs are developing new policies and tools to maximize the benefits of vibe coding while mitigating the pitfalls.\nCompanies from Visa to Reddit to DoorDash are posting jobs that require vibe coding experience or familiarity with AI coding tools.\nWhile still limited, this new, more freewheeling approach has gained momentum in part thanks to the money flowing into vibe coding platforms.\nWix, a web-development platform, announced that it had acquired the vibe coding platform Base44 for $80 million.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-06T19:44:04Z",
+    "source": "Business Insider"
   }
 ]
