@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump",
+    "title": "Why Donald Trump\u2019s environmental data purge is so much worse this time",
+    "summary": "A watchdog group that monitors publicly-available environmental data has recorded 70 percent more federal website changes during Trump\u2019s first 100 days in office in 2025 compared to the start of his first term in 2017.\nThat includes changes to content, like replacing the term \u201cclimate change\u201d with \u201cextreme weather,\u201d and the wholesale removal of entire webpages.\n\u201cThe thing that is the most different is this total erasure of information about environmental racism and the evidence of environmental racism,\u201d Gehrke says.\n\u201cThat story is yet to unfold.\u201d So far, the EPA\u2019s climate change website is still intact.\nFarmers and environmental groups have also filed suit to force the Trump administration to restore federal resources.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-08-08T23:25:48Z",
+    "source": "The Verge"
+  },
+  {
     "url": "https://www.cnn.com/2025/08/08/climate/scientists-respond-trump-report",
     "title": "Scientists launch coordinated response after Trump admin attempts to wipe credible climate research off the record",
     "summary": "Climate change Air quality Pollution See all topics FollowDozens of veteran climate scientists are launching a coordinated response to a Trump administration report that casts doubt on the severity of climate change.\nThe scientists, responsible for authoring or contributing research to hundreds of peer-reviewed studies, want to counter what they interpret as the Trump administration\u2019s attempts to wipe credible, widely accepted climate science off the record.\n\u201cDecades of climate research and data have yielded expanded understanding of how greenhouse gases affect the climate,\u201d NAS president Marcia McNutt said in a statement.\nSeveral climate scientists whose research was cited in the Trump report said it misused or misrepresented their work.\n\u201cIt\u2019s giving me flashbacks to 2005, when such false debates raged.\u201dCobb said she hopes to help \u201cset the record straight\u201d on climate science in their response to the DOE report.",
@@ -7,15 +16,6 @@
     "bias": "lean left",
     "publishedAt": "2025-08-08T14:00:44Z",
     "source": "CNN"
-  },
-  {
-    "url": "https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/",
-    "title": "Inside the US Government's Unpublished Report on AI Safety",
-    "summary": "More importantly, they showed shortcomings in a new US government standard designed to help companies test AI systems.\nTrump\u2019s administration has since steered experts away from studying issues such as algorithmic bias or fairness in AI systems.\nThe event took place at the Conference on Applied Machine Learning in Information Security (CAMLIS).\nParticipants were asked to use the NIST AI 600-1 framework to assess AI tools.\nThe framework covers risk categories including generating misinformation or cybersecurity attacks, leaking private user information or critical information about related AI systems, and the potential for users to become emotionally attached to AI tools.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2025-08-06T18:00:00Z",
-    "source": "Wired"
   },
   {
     "url": "https://gizmodo.com/nasa-told-to-overhaul-its-plans-to-replace-the-international-space-station-2000639959",
@@ -36,24 +36,6 @@
     "source": "The Atlantic"
   },
   {
-    "url": "https://www.scientificamerican.com/article/why-the-epas-latest-move-could-worsen-the-climate-crisis/",
-    "title": "Why the EPA\u2019s Latest Move Could Worsen the Climate Crisis",
-    "summary": "As such, if the finding is successfully rescinded, EPA will have actively and intentionally walked away from its responsibility to address climate change.\nBut in addition to being crafted by five known climate contrarians, the report is riddled with climate denial tropes, cherry-picked evidence, and distortions of the indisputably well-established facts on climate change.\nSharply cutting those emissions is crucial to limiting dangerous climate change.\nHundreds of scientists have come together to write major globally relevant reports, including the U.S. Fifth National Climate Assessment (NCA5) and the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (AR6), documenting the latest science.\nLost homes, rising insurance premiums, unhealthy outdoor working conditions, business interruptions and damaged infrastructure are all effects of a worsening climate.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-08-06T15:00:00Z",
-    "source": "Scientific American"
-  },
-  {
-    "url": "https://www.theverge.com/tesla/720157/tesla-death-lawsuit-verdict-lawyer-brett-schreiber-interview",
-    "title": "The lawyer who beat Tesla is ready for \u2018round two\u2019",
-    "summary": "The day before posting the reel, he stood in a Florida courtroom alongside his clients as a jury handed Tesla a major defeat.\nThere\u2019s Tesla in the showroom and then there\u2019s Tesla in the courtroom.\nAnd Tesla in the showroom tells you that they\u2019ve invented the greatest full self-driving car the world has ever seen.\nBut to that end, I can say that Tesla has a system of gathering data.\nTesla\u2019s going to find out.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-08-06T20:54:41Z",
-    "source": "The Verge"
-  },
-  {
     "url": "https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers",
     "title": "Apple\u2019s lock on iPhone browser engines gets a December deadline",
     "summary": "is a news writer focused on creative industries, computing, and internet culture.\nPosts from this author will be added to your daily email digest and your homepage feed.\nWe might finally see the first iPhone browsers built on top of third-party engines now that Japanese regulators have taken up the issue.\nNot only do they set a December deadline for restrictions to be lifted, but also specify that Apple can\u2019t enforce alternative rules that make it difficult to adopt alternatives to the company\u2019s own WebKit browser engine.\nAccording to a translation provided by the Open Web Advocacy organization, the guidelines prevent Apple from doing the following:\u201cImposing unreasonable technical restrictions on individual app providers while allowing them to adopt alternative browser engines, placing excessive financial burdens on individual app providers for adopting alternative browser engines, and steering smartphone users away from using individual software that incorporates alternative browser engines.\u201d",
@@ -64,10 +46,10 @@
   },
   {
     "url": "https://www.bbc.com/weather/articles/czjm4zl20wzo",
-    "title": "UK weather: Heat health alerts issued with 30C heatwave expected next week",
-    "summary": "Yellow heat health alerts have been issued for parts of England with temperatures set to climb above 30C (86F) next week.\nThe alerts, issued by the UK Health Security Agency, external, cover all regions apart from the north-east and north-west and are valid from 12:00 BST on Monday until 18:00 BST on Wednesday.\nEngland and Wales will have the best of the sunshine, although a few scattered thunderstorms are likely.\nNorthern Ireland and Scotland can expect outbreaks of rain at times.\nIt marks a big change in weather fortunes after Storm Floris battered parts of the UK earlier this week.",
+    "title": "UK weather: Fourth summer heatwave with 34C forecast in coming days",
+    "summary": "Warm air will be drawn up from the south thanks to the interaction between high pressure drifting across the south of the UK and an area of low pressure - containing remnants of Tropical Storm Dexter - in the Atlantic.\nEngland and Wales will have the best of the sunshine, although a few scattered thunderstorms are likely.\nThis will be the first day of the heat where the official heatwave criteria is met across many areas.\nFor an official heatwave to be defined, there needs to be three consecutive days with temperatures above 25 to 28C, dependant on where you are in the UK.\nWith very warm and humid air around until Wednesday, that will make it the fourth heatwave of the summer, particularly for east Wales, the Midlands, eastern and south-eastern areas of England.",
     "category": "environment",
-    "bias": "lean right",
+    "bias": "lean left",
     "publishedAt": "2025-08-08T11:48:49Z",
     "source": "BBC News"
   },
@@ -79,5 +61,23 @@
     "bias": "left",
     "publishedAt": "2025-08-08T18:54:30Z",
     "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://gizmodo.com/the-atlantic-hurricane-season-is-about-to-get-real-2000640747",
+    "title": "The Atlantic Hurricane Season Is About to Get Real",
+    "summary": "After an unusually slow start to hurricane season, it\u2019s looking like storm activity is about to ramp up.\nSo far, the 2025 Atlantic hurricane season has produced four tropical storms and no hurricanes.\n\u201cAs the 2025 Atlantic Hurricane Season enters its historical peak, atmospheric and oceanic conditions continue to favor an above-normal season as NOAA first predicted in May,\u201d NOAA stated in an update on Thursday, August 7.\nThe 2023 Atlantic hurricane season was also characterized by extreme sea surface temperatures, producing the fourth-highest number of named storms since record keeping began in 1950.\nThe Atlantic hurricane season historically peaks in September, so seeing storm activity increase in August isn\u2019t unusual.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-08-08T17:40:04Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cyvn3qe0jpgo",
+    "title": "Is Perrier as pure as it claims? The bottled water scandal gripping France",
+    "summary": "At issue is whether some world-famous brands, notably the iconic Perrier label, can even continue calling themselves \"natural mineral water\".\nIt raises the possibility that for the first time in its 160-year history, Perrier water may soon not be labelled as what people assume it to be.\nThe advantage for Perrier is that the new beverages do not claim to be \"natural mineral water\".\nPerrier says the new brand is part of the mix, and that it has no intention of abandoning its original Source Perrier natural mineral water.\nIt has applied for \"natural mineral water\" status for just two out of the five drilling wells it was using for Perrier mineral water.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-08-08T04:58:33Z",
+    "source": "BBC News"
   }
 ]
