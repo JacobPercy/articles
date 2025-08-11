@@ -1,57 +1,39 @@
 [
   {
-    "url": "https://gizmodo.com/the-end-of-bullshit-ai-2000640302",
-    "title": "The End of Bullshit AI",
-    "summary": "In every conversation about AI, you hear the same refrains: \u201cYeah, but it\u2019s amazing,\u201d quickly followed by, \u201cbut it makes stuff up,\u201d and \u201cyou can\u2019t really trust it.\u201d Even among the most dedicated AI enthusiasts, these complaints are legion.\n\u201cI like it, but it never says \u2018I don\u2019t know.\u2019 It just makes you think it knows,\u201d she told me.\nThis makes it the first consumer AI explicitly designed to reject bullshit, especially its own.\nLess Flattery, More FrictionEarlier this year, many ChatGPT users noticed the AI had become strangely sycophantic.\nOthers, however, may find themselves frustrated by an AI that no longer just tells them what they want to hear.",
+    "url": "https://www.businessinsider.com/ai-doomsday-taking-jobs-overhyped-david-sacks-agi-2025-8",
+    "title": "David Sacks says the doomsday scenario of AI wiping out jobs is 'overhyped'",
+    "summary": "White House AI and crypto czar David Sacks said the idea that AI will lead to massive job losses is \"overhyped.\"\nDavid Sacks, the White House AI and crypto czar, is throwing cold water on the AGI hype train.\nAI companies are racing to achieve AGI, or artificial general intelligence, commonly considered a form of AI that can reach human levels of reasoning.\nThis is the stuff of great engineering and should be celebrated,\" Sacks wrote in his post.\nOne of the doomsday scenarios Sacks rejected in his post is the fear that AI will lead to massive job losses.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-08-07T20:50:47Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.businessinsider.com/sam-altman-openai-gpt-5-agi-2025-8",
-    "title": "Here's why Sam Altman says OpenAI's GPT-5 falls short of AGI",
-    "summary": "Sam Altman says OpenAI has yet to crack AGI.\nDeveloping AGI that benefits all of humanity is OpenAI's core mission.\nAltman said that looking back at OpenAI's previous releases, GPT-5 is still a step in the right direction.\nWhile AGI remains the company's mission, Altman says OpenAI is already looking beyond it to superintelligence, a still theoretical advancement in which artificial intelligence can reason far beyond human capability.\n\"Superintelligent tools could massively accelerate scientific discovery and innovation well beyond what we are capable of doing on our own, and in turn massively increase abundance and prosperity,\" Altman wrote in January.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-07T18:01:39Z",
+    "bias": "center",
+    "publishedAt": "2025-08-10T01:13:07Z",
     "source": "Business Insider"
   },
   {
-    "url": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a",
-    "title": "How AI Conquered the US Economy: A Visual FAQ",
-    "summary": "Nobody can say for sure whether the AI boom is evidence of the next Industrial Revolution or the next big bubble.\nWe can all stop talking about \u201cwhat will happen if AI dominates the economy at such-and-such future date?\u201d No, the AI economy is here and now.\nToday, in a bit of a throwback to my early blogging years, I\u2019m going to try to walk through an FAQ with graphs to create a visual guide to the question:How big is the AI boom?\n\u201cAI companies are reaching revenue milestones faster than previous generations of startups,\u201d the company announced in a recent report.\nBut independent evaluators in the study actually concluded that using AI did the opposite: it increased task completion time by about 20 percent.",
+    "url": "https://gizmodo.com/nvidia-just-dodged-an-8-billion-bullet-thanks-to-donald-trump-2000641188",
+    "title": "Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump",
+    "summary": "According to the Financial Times, the breakthrough came after Huang\u2019s visit to the White House on August 6 to meet with President Donald Trump.\nTo prevent this, the U.S. has imposed strict export controls, blocking the sale of top-tier AI chips to China.\nThe Power of Personal DiplomacyReversing this policy took months of intense diplomacy and lobbying, culminating in Huang\u2019s personal visits to the White House.\nDuring a White House AI summit last month, Trump admitted he had initially considered taking antitrust action against the chip giant before he got to know its CEO.\nWith the $8 billion revenue threat now averted and the $50 billion China market reopened, investors will be watching closely when Nvidia reports its quarterly earnings later this month.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-08-07T10:12:54Z",
-    "source": "Derekthompson.org"
-  },
-  {
-    "url": "https://www.cnet.com/tech/services-and-software/trump-media-is-testing-an-ai-search-engine-powered-by-perplexity/",
-    "title": "Trump Media Is Testing an AI Search Engine Powered by Perplexity",
-    "summary": "President Donald Trump's media company, Trump Media, is beta-testing an AI search feature on the Truth Social platform, drawing on Perplexity's AI technology.\nGenerative AI technology has been upending traditional internet search, which has been dominated by Google for decades.\nTrump Media and Technology Group is perhaps best known for its social media program, Truth Social.\nRepresentatives for Trump Media and Perplexity didn't immediately respond to a request for comment.\nIn today's divided political landscape, one immediate concern is that a search engine from a conservative president's media company will select only search results that favor conservative opinions.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-07T00:35:09Z",
-    "source": "CNET"
+    "bias": "lean left",
+    "publishedAt": "2025-08-10T13:18:16Z",
+    "source": "Gizmodo.com"
   },
   {
     "url": "https://news.slashdot.org/story/25/08/09/0624254/students-have-been-called-to-the-office---or-arrested---for-false-alarms-from-ai-powered-surveillance-systems",
     "title": "for False Alarms from AI-Powered Surveillance Systems",
-    "summary": "How can you work when the system's so crowded?",
+    "summary": "Slashdot is powered by your submissions, so send in your scoop",
     "category": "technology",
-    "bias": "center",
+    "bias": "lean right",
     "publishedAt": "2025-08-09T16:34:00Z",
     "source": "Slashdot.org"
   },
   {
-    "url": "https://www.macrumors.com/2025/08/07/apples-ai-problem-not-just-siri-talent-leaving/",
-    "title": "Apple's Real AI Crisis Isn't Siri, But the Talent It's Losing to Rivals",
-    "summary": "The exodus of staff from Apple's AI team over the last seven months has seen senior researchers leave variously for Meta, OpenAI, xAI, Cohere, and others.\nThe most notable recent departure was that of Ruoming Pang, head of Apple's Foundational Models team, who joined Meta last month after being lured by CEO Mark Zuckerberg with a $200 million pay package.\nFT reports that industry recruiters see the departures as \"a crisis of confidence\" around Apple's AI future.\nAaron Sines from recruiting firm Razoroo said companies now view elite AI talent as \"strategic assets,\" on par with intellectual property or even entire business units.\nA chatbot-like version of the virtual assistant was one of the key Apple Intelligence features that Apple promoted at last year's WWWDC, but it has yet to arrive.",
+    "url": "https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai",
+    "title": "'Hour of Code' Announces It's Now Evolving Into 'Hour of AI'",
+    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2025-08-07T12:22:34Z",
-    "source": "MacRumors"
+    "publishedAt": "2025-08-10T03:34:00Z",
+    "source": "Slashdot.org"
   },
   {
     "url": "https://www.businessinsider.com/openai-sam-altman-ai-talent-war-meta-labor-market-jobs-2025-8",
@@ -63,15 +45,6 @@
     "source": "Business Insider"
   },
   {
-    "url": "https://www.theverge.com/news/753863/trump-truth-social-ai-search-perplexity-conservative-bias",
-    "title": "Truth Social\u2019s new AI search engine basically just pushes Fox News",
-    "summary": "Donald Trump\u2019s Truth Social has launched a new AI search feature that consistently pushes conservative media sources.\nThe feature, Truth Search AI, is powered by the AI startup Perlexity and is now available on the web version of Trump\u2019s social media platform, with public testing coming to the iOS and Android apps \u201cin the near future.\u201dIn our testing, all of the source links that Truth Search AI cited were for conservative publications, including Fox News, Fox Business, The Washington Times, and The Federalist.\nThe vast majority of these links directed users to articles published by Fox outlets, which suggests the Perplexity-powered search engine is limiting results to Trump-supporting media.\n\u201cCurrent evidence indicates that Trump\u2019s tariffs have not improved the overall U.S. economy and are associated with a net negative effect, though some specific sectors benefit,\u201d Truth Search AI wrote in response.\nThe sourcing pool for Truth Social\u2019s AI search tool seems, unsuprisingly, very narrow.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-07T14:04:06Z",
-    "source": "The Verge"
-  },
-  {
     "url": "https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion",
     "title": "How Wikipedia is fighting AI slop content",
     "summary": "With the rise of AI writing tools, Wikipedia editors have had to deal with an onslaught of AI-generated content filled with false information and phony citations.\nAlready, the community of Wikipedia volunteers has mobilized to fight back against AI slop, something Wikimedia Foundation product director Marshall Miller likens to a sort of \u201cimmune system\u201d response.\nThat means looking for three main signs:Writing directed toward the user, such as \u201cHere is your Wikipedia article on\u2026,\u201d or \u201cI hope that helps!\u201d\u201cNonsensical\u201d citations, including those with incorrect references to authors or publications.\nAs part of the WikiProject AI Cleanup, which aims to tackle an \u201cincreasing problem of unsourced, poorly written AI-generated content,\u201d editors put together a list of phrases and formatting characteristics that chatbot-written articles typically exhibit.\nDespite varying viewpoints about AI across the Wikipedia community, the Wikimedia Foundation isn\u2019t against using it as long as it results in accurate, high-quality writing.",
@@ -81,12 +54,21 @@
     "source": "The Verge"
   },
   {
-    "url": "https://www.theverge.com/news/754168/dji-romo-robot-vacuum",
-    "title": "The Romo is DJI\u2019s first robovac and features a transparent design",
-    "summary": "And like DJI\u2019s latest drone, which debuted last May, the DJI Romo lineup won\u2019t be available in the US for a while.\nThe DJI Romo P (left) features a transparent robovac and dock while the Romo A (center) only has a transparent top for the vacuum.\nIt remains to be seen if the transparent design of the Romo P will look as good after months of use.\nOnce the Romo P reaches consumers, we\u2019ll see how clean the interior of the bot and docking station look after a few months\u2019 use.\nThe pricier Romo P also includes an additional compartment for an alternate mopping solution.",
+    "url": "https://www.theverge.com/podcast/756701/ai-tools-chatgpt-gemini-vergecast",
+    "title": "We found stuff AI is pretty good at",
+    "summary": "Tech companies keep telling everyone that this or that AI feature is going to change everything.\nBut when you press them for examples, real, concrete examples of how those AI tools should be used, the answers tend to be lackluster.\nSometimes AI tools feel so open-ended, it\u2019s hard to know where to start or what the best way to use them might beWell, here at The Verge, we have to test all these AI tools to better report on the features and the companies building them.\nIf you have any examples where AI was useful to you, we\u2019d love to hear them.\nYou can email [email protected] or call into the Verge Hotline at 866-VERGE11.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-08-07T14:33:01Z",
+    "publishedAt": "2025-08-10T14:53:02Z",
     "source": "The Verge"
+  },
+  {
+    "url": "https://gizmodo.com/the-world-will-enter-a-15-year-ai-dystopia-in-2027-former-google-exec-says-2000641195",
+    "title": "The World Will Enter a 15-Year AI Dystopia in 2027, Former Google Exec Says",
+    "summary": "The world is hurtling towards an inevitable AI dystopia in the very near future, according to Mo Gawdat, the former chief business officer of Alphabet\u2019s moonshot factory, formerly known as Google X.\nThe beginning of the descent into Gawdat\u2019s dystopia, he predicts, will begin in 2027 and last for the next 12 to 15 years.\nBut Gawdat says AI is not necessarily the main driver of this dystopia, and especially not in the way most people imagine (that is, existential risks from scenarios that have AI assuming full control).\nRather, Gawdat says that AI acts as a magnifier of existing societal issues and \u201cour stupidities as humans.\u201d\u201cThere is absolutely nothing wrong with AI,\u201d Gawdat said.\nA report from blockchain intelligence firm TRM Labs found that crypto scams were up 456% over the last year thanks to AI deepfake technology.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-10T15:45:58Z",
+    "source": "Gizmodo.com"
   }
 ]
