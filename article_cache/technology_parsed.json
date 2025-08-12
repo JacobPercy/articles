@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://gizmodo.com/a-kentucky-town-experimented-with-ai-the-results-were-stunning-2000641233",
+    "title": "A Kentucky Town Experimented With AI. The Results Were Stunning",
+    "summary": "A county in Kentucky conducted a month-long \u201ctown hall\u201d with nearly 8,000 residents in attendance earlier this year, thanks to artificial intelligence technology.\nBowling Green, Kentucky\u2019s third largest city and a part of Warren County, is facing a huge population spike by 2050.\nInstead, county officials in Bowling Green had AI do that part.\nAgreement Beyond Party LinesThe Bowling Green experiment was Sensemaker\u2019s first large-scale proof of concept, Jigsaw wrote in a blog article from earlier this year.\nUnlike the Bowling Green experiment, the aim is not policy but to get an understanding of where the nation stands.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-08-10T22:34:47Z",
+    "source": "Gizmodo.com"
+  },
+  {
     "url": "https://www.businessinsider.com/ai-doomsday-taking-jobs-overhyped-david-sacks-agi-2025-8",
     "title": "David Sacks says the doomsday scenario of AI wiping out jobs is 'overhyped'",
     "summary": "White House AI and crypto czar David Sacks said the idea that AI will lead to massive job losses is \"overhyped.\"\nDavid Sacks, the White House AI and crypto czar, is throwing cold water on the AGI hype train.\nAI companies are racing to achieve AGI, or artificial general intelligence, commonly considered a form of AI that can reach human levels of reasoning.\nThis is the stuff of great engineering and should be celebrated,\" Sacks wrote in his post.\nOne of the doomsday scenarios Sacks rejected in his post is the fear that AI will lead to massive job losses.",
@@ -7,6 +16,24 @@
     "bias": "center",
     "publishedAt": "2025-08-10T01:13:07Z",
     "source": "Business Insider"
+  },
+  {
+    "url": "https://gizmodo.com/the-real-reason-you-havent-been-replaced-by-ai-yet-2000641235",
+    "title": "The Real Reason You Haven\u2019t Been Replaced by AI Yet",
+    "summary": "It\u2019s the ticking time bomb in the global economy, and every CEO knows it: AI is already powerful enough to replace millions of jobs.\nThe AI revolution isn\u2019t being held back because the technology isn\u2019t ready.\nWe have now 4,100.\u201dThe subtext is clear: Palantir already considers 500 of its employees to be a surplus that AI could replace.\nIncreasingly, managers are being forced to justify why a human is needed for a role that an AI could potentially perform.\nIt\u2019s not that AI can\u2019t replace us, especially in knowledge jobs.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-10T22:44:46Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://gizmodo.com/apple-is-betting-everything-on-a-voice-controlled-ai-siri-2000641286",
+    "title": "Apple Is Betting Everything on a Voice-Controlled AI Siri",
+    "summary": "Writing for his weekly Power On newsletter, Bloomberg\u2019s Apple scoop machine, Mark Gurman, says Apple is working on a supercharged Siri with vastly improved voice controls.\nBut a new Siri\u2014powered by AI\u2014could finally make the promise of voice controls performing actions within apps a reality.\nUsing voice controls via Siri to navigate and operate apps would be a major shift from using a touchscreen and, as Gurman astutely notes, would fulfill the original vision that Apple had for Siri.\nWhen Siri launched on the iPhone 4S in 2011, it marked the beginning for voice-controlled digital assistants at scale (Apple scale).\nThe consequences will be damaging, and consumers will look elsewhere, like OpenAI and whatever AI hardware former Apple design god Jony Ive is cooking up with Sam Altman, if the new Siri voice controls don\u2019t live up to expectations.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-11T14:38:44Z",
+    "source": "Gizmodo.com"
   },
   {
     "url": "https://gizmodo.com/nvidia-just-dodged-an-8-billion-bullet-thanks-to-donald-trump-2000641188",
@@ -20,55 +47,46 @@
   {
     "url": "https://news.slashdot.org/story/25/08/09/0624254/students-have-been-called-to-the-office---or-arrested---for-false-alarms-from-ai-powered-surveillance-systems",
     "title": "for False Alarms from AI-Powered Surveillance Systems",
-    "summary": "Slashdot is powered by your submissions, so send in your scoop",
+    "summary": "",
     "category": "technology",
-    "bias": "lean right",
+    "bias": "center",
     "publishedAt": "2025-08-09T16:34:00Z",
     "source": "Slashdot.org"
   },
   {
+    "url": "https://gizmodo.com/nvidias-six-word-response-to-china-2000641571",
+    "title": "Nvidia\u2019s Six-Word Response to China",
+    "summary": "\u201cEmbedding backdoors and kill switches into chips would be a gift to hackers and hostile actors,\u201d the company wrote.\nThe Deal That Sparked the FireThis new firestorm in Beijing was ignited by the unconventional deal Nvidia just struck with Washington.\nTo return to China after months of a federal ban, the company agreed to pay the Trump administration 15% of the revenue generated by its H2O chip sales there.\nTrump then dismissed the H2O chips as \u201cobsolete\u201d and \u201can old chip that China already has.\u201dThe president\u2019s comments perfectly capture the absurd tightrope Nvidia is now forced to walk.\nThe U.S. President is calling it old news, while Chinese state media is calling it a security risk.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2025-08-11T20:16:50Z",
+    "source": "Gizmodo.com"
+  },
+  {
     "url": "https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai",
     "title": "'Hour of Code' Announces It's Now Evolving Into 'Hour of AI'",
-    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
+    "summary": "Become a fan of Slashdot on Facebook",
     "category": "technology",
-    "bias": "lean right",
+    "bias": "center",
     "publishedAt": "2025-08-10T03:34:00Z",
     "source": "Slashdot.org"
   },
   {
-    "url": "https://www.businessinsider.com/openai-sam-altman-ai-talent-war-meta-labor-market-jobs-2025-8",
-    "title": "Sam Altman says the talent pool for AI superstars is probably bigger than people think",
-    "summary": "OpenAI CEO Sam Altman called it the \"most intense talent market I have seen in my career,\" on CNBC's Squawk Box on Friday, a day after OpenAI released GPT-5, the latest iteration of its flagship model.\n\"I bet it's much bigger than people think,\" he said, referring to the available talent pool.\nBusiness Insider earlier reported that researchers at many of the top AI startups are earning in the mid-six-figures for their skills.\nMore than any other field, AI bets on potential over proven track records, as companies race toward still-theoretical goals like artificial general intelligence and superintelligence.\nThe real value of top AI talent, Altman said, lies in their capacity for breakthroughs.",
+    "url": "https://news.slashdot.org/story/25/08/11/1650253/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world",
+    "title": "Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World",
+    "summary": "",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-08-11T16:50:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "url": "https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063",
+    "title": "Theft is not fair use",
+    "summary": "In another lawsuit, Getty Images accuses Stability AI of using millions of Getty\u2019s copyrighted images in its training data.\nAs proof, Getty submitted multiple images where a distorted version of the Getty watermark is included in the output from Stability AI.\nPress enter or click to view image in full size A screenshot from Getty\u2019s lawsuit against Stability AI.\nContent Credentials also features a box that can be checked that asks AI companies not to train on images.\nNews organizations, photographers, writers and all copyright holders should be fairly compensated for the billions in valuation AI companies have achieved by stealing the content.",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2025-08-08T15:36:33Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion",
-    "title": "How Wikipedia is fighting AI slop content",
-    "summary": "With the rise of AI writing tools, Wikipedia editors have had to deal with an onslaught of AI-generated content filled with false information and phony citations.\nAlready, the community of Wikipedia volunteers has mobilized to fight back against AI slop, something Wikimedia Foundation product director Marshall Miller likens to a sort of \u201cimmune system\u201d response.\nThat means looking for three main signs:Writing directed toward the user, such as \u201cHere is your Wikipedia article on\u2026,\u201d or \u201cI hope that helps!\u201d\u201cNonsensical\u201d citations, including those with incorrect references to authors or publications.\nAs part of the WikiProject AI Cleanup, which aims to tackle an \u201cincreasing problem of unsourced, poorly written AI-generated content,\u201d editors put together a list of phrases and formatting characteristics that chatbot-written articles typically exhibit.\nDespite varying viewpoints about AI across the Wikipedia community, the Wikimedia Foundation isn\u2019t against using it as long as it results in accurate, high-quality writing.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2025-08-08T18:30:47Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/756701/ai-tools-chatgpt-gemini-vergecast",
-    "title": "We found stuff AI is pretty good at",
-    "summary": "Tech companies keep telling everyone that this or that AI feature is going to change everything.\nBut when you press them for examples, real, concrete examples of how those AI tools should be used, the answers tend to be lackluster.\nSometimes AI tools feel so open-ended, it\u2019s hard to know where to start or what the best way to use them might beWell, here at The Verge, we have to test all these AI tools to better report on the features and the companies building them.\nIf you have any examples where AI was useful to you, we\u2019d love to hear them.\nYou can email [email protected] or call into the Verge Hotline at 866-VERGE11.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-10T14:53:02Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://gizmodo.com/the-world-will-enter-a-15-year-ai-dystopia-in-2027-former-google-exec-says-2000641195",
-    "title": "The World Will Enter a 15-Year AI Dystopia in 2027, Former Google Exec Says",
-    "summary": "The world is hurtling towards an inevitable AI dystopia in the very near future, according to Mo Gawdat, the former chief business officer of Alphabet\u2019s moonshot factory, formerly known as Google X.\nThe beginning of the descent into Gawdat\u2019s dystopia, he predicts, will begin in 2027 and last for the next 12 to 15 years.\nBut Gawdat says AI is not necessarily the main driver of this dystopia, and especially not in the way most people imagine (that is, existential risks from scenarios that have AI assuming full control).\nRather, Gawdat says that AI acts as a magnifier of existing societal issues and \u201cour stupidities as humans.\u201d\u201cThere is absolutely nothing wrong with AI,\u201d Gawdat said.\nA report from blockchain intelligence firm TRM Labs found that crypto scams were up 456% over the last year thanks to AI deepfake technology.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-08-10T15:45:58Z",
-    "source": "Gizmodo.com"
+    "publishedAt": "2025-08-11T06:55:37Z",
+    "source": "Stanford.edu"
   }
 ]
