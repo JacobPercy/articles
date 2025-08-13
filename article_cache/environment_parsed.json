@@ -9,6 +9,15 @@
     "source": "BBC News"
   },
   {
+    "url": "https://www.wired.com/story/the-plastic-bottles-we-throw-into-the-pacific-are-infesting-the-beaches-of-central-america/",
+    "title": "Central American Beaches Are Being Overrun With Local and Foreign Plastic",
+    "summary": "A Coca-Cola bottle from 2002 was found on Robinson Crusoe Island, a World Biosphere Reserve, in Chile.\nThese discarded pieces of packaging were collected in a new macro-study that looked at the origin of plastic bottle pollution on beaches and cities along Latin America\u2019s Pacific coastline.\nIt found that across the region, Central American countries are most affected by coastal plastic pollution, and underscores the urgency of confronting this major problem.\nAn environmentalist searches for plastic waste and packaging dumped on El Ester\u00f3n beach in Intipuca, El Salvador, in October 2024.\nThis study reveals surprising data, given that more than half of the bottles and caps collected had visible dates.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-08-12T09:00:00Z",
+    "source": "Wired"
+  },
+  {
     "url": "https://www.theverge.com/podcast/756701/ai-tools-chatgpt-gemini-vergecast",
     "title": "We found stuff AI is pretty good at",
     "summary": "Tech companies keep telling everyone that this or that AI feature is going to change everything.\nBut when you press them for examples, real, concrete examples of how those AI tools should be used, the answers tend to be lackluster.\nSometimes AI tools feel so open-ended, it\u2019s hard to know where to start or what the best way to use them might beWell, here at The Verge, we have to test all these AI tools to better report on the features and the companies building them.\nIf you have any examples where AI was useful to you, we\u2019d love to hear them.\nYou can email [email protected] or call into the Verge Hotline at 866-VERGE11.",
@@ -16,6 +25,15 @@
     "bias": "left",
     "publishedAt": "2025-08-10T14:53:02Z",
     "source": "The Verge"
+  },
+  {
+    "url": "https://www.newscientist.com/article/2491793-trees-may-be-getting-more-flammable-because-of-climate-change/",
+    "title": "Trees may be getting more flammable because of climate change",
+    "summary": "This is largely driven by increasing heat, drought and wind speeds making trees more likely to burn when sparks fly.\n\u201cIs climate change actually changing the plants themselves?\nExcept we\u2019re just absolutely zapping them with radiation.\u201dShe expects to uncover changes in the plants\u2019 leaf chemistry.\n\u201cThe way that plants respond in other tests, in other experimentation\u2026 it does change the leaf chemistry,\u201d she says.\nThe site\u2019s climate-controlled chambers can simulate wind, rain, heatwaves and changing atmospheric conditions to investigate how plants and insects cope with rapid climate change.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-08-12T11:00:48Z",
+    "source": "New Scientist"
   },
   {
     "url": "https://www.yahoo.com/news/articles/artist-drowns-sculpture-plastic-waste-114328886.html",
@@ -29,20 +47,20 @@
   {
     "url": "https://www.bbc.com/news/articles/c8jpp3jwe32o",
     "title": "No plans to change passenger rules for new young drivers a 'major oversight', AA says",
-    "summary": "No plans to change passenger rules for new young drivers a 'major oversight', AA says1 day ago Share Save Emily Atkinson BBC News Share SaveGetty ImagesThe government's planned overhaul of driving laws in Great Britain has a \"major oversight\" by not including stronger driving licence rules for new and young motorists, the AA has said.\nBut Justice Minister Alex Davies-Jones told the BBC there were no plans to introduce such measures over concerns they might \"unfairly discriminate\" against young parents or carers.\nThe AA welcomed the government's plans in the main, but said \"the missing element is measures to safeguard and to save new driver and passenger lives by limiting peer-age passengers for six months\".\nThe latest government figures show a quarter of fatalities from road collisions involve at least one young driver.\nRoad safety charity Brake said this was due to young drivers being more likely to take risks on the road or crash when they have passengers of their own age, something that does not happen as much for older drivers.",
+    "summary": "No plans to change passenger rules for new young drivers a 'major oversight', AA says2 days ago Share Save Emily Atkinson BBC News Share SaveGetty ImagesThe government's planned overhaul of driving laws in Great Britain has a \"major oversight\" by not including stronger driving licence rules for new and young motorists, the AA has said.\nBut Justice Minister Alex Davies-Jones told the BBC there were no plans to introduce such measures over concerns they might \"unfairly discriminate\" against young parents or carers.\nThe AA welcomed the government's plans in the main, but said \"the missing element is measures to safeguard and to save new driver and passenger lives by limiting peer-age passengers for six months\".\nThe latest government figures show a quarter of fatalities from road collisions involve at least one young driver.\nRoad safety charity Brake said this was due to young drivers being more likely to take risks on the road or crash when they have passengers of their own age, something that does not happen as much for older drivers.",
     "category": "environment",
     "bias": "lean right",
     "publishedAt": "2025-08-11T14:56:51Z",
     "source": "BBC News"
   },
   {
-    "url": "https://hackaday.com/2025/08/08/one-file-six-formats-just-change-the-extension/",
-    "title": "One File, Six Formats: Just Change The Extension",
-    "summary": "However, [PortalRunner] has crafted a file that can behave as six different filetypes, simply by swapping out the extension at the end of the filename.\n[PortalRunner] simply found a bunch of different file formats that could feasibly be crammed in together into a single file without corrupting each other or confusing software that loads these files.\nIt all comes down to how file formats work.\n[PortalRunner] found a way to merge the headers of various formats, creating a file that could be many different types.\nIf you love diving into the binary specifics of how file formats work, this is a great project to dive into.",
+    "url": "https://www.businessinsider.com/economist-tyler-cowen-college-students-trained-jobs-ai-work-2025-8",
+    "title": "A Third of College Teaching Should Be About AI: Economist Tyler Cowen",
+    "summary": "Tyler Cowen said colleges must overhaul their teaching to prepare students for an AI-driven future.\nTyler Cowen said colleges must overhaul their teaching to prepare students for an AI-driven future.\nOriental Image via Reuters ConnectTyler Cowen said colleges must overhaul their teaching to prepare students for an AI-driven future.\nImpact LinkA third of college teaching should be about how to use AI and understand its limits, a leading economist has told Business Insider.\n\"I think we should devote up to one-third of the curriculum to teaching students how to use, interact with, and spot the limitations of AIs,\" he said.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2025-08-09T05:00:24Z",
-    "source": "Hackaday"
+    "publishedAt": "2025-08-12T11:56:24Z",
+    "source": "Business Insider"
   },
   {
     "url": "https://phys.org/news/2025-08-indigenous-communities-action-plastic-pollution.html",
@@ -54,30 +72,21 @@
     "source": "Phys.Org"
   },
   {
-    "url": "https://www.businessinsider.com/stranger-helped-stranded-on-road-changed-my-life-2025-8",
-    "title": "A stranger came to help me out when I was stranded on the side of the road. He had a profound impact on my life.",
-    "summary": "I was still pretty young, but, honestly, I should have known how to change a flat tire by that point in life.\nI turned on the hazard lights and started to fumble around in the trunk for the spare and the jack.\nI was completely caught off guardWithin moments, the man \u2014 without introduction or any small talk \u2014 asked for the tools and set to work.\nI helped him pull the old tire off, rolled the new one over, and helped finalize the process.\nThe stranger who helped me with my flat may or may not have thought about what effect he had on me, but his impact will last a lifetime.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-08-09T18:38:01Z",
-    "source": "Business Insider"
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cjr11z2yx0yo",
     "title": "Arthur's Seat fire: Human activity likely cause, says fire service",
-    "summary": "Arthur's Seat blaze likely caused by human activity - fire service1 day ago Share Save Angus Cochrane BBC Scotland News Share SaveFlames take hold as fire burns on Arthur's SeatA large fire on Arthur's Seat in the centre of Edinburgh was almost certainly sparked by human activity, a Scottish Fire and Rescue service group commander has said.\nArthur's Seat rises above Edinburgh from near the Scottish Parliament.\n\"The fire at Arthur's Seat is a sharp reminder of wildfire's destructive power, and the speed at which it can cause significant damage,\" she said.\nBlazes that burned across moorland at Carrbridge and Dava in the Highlands earlier this summer have been called the biggest wildfires Scotland has ever seen.\nProf Rory Hadden, chair of fire science at the University of Edinburgh, agreed that most wildfires in Scotland were caused by human activity.",
+    "summary": "Arthur's Seat blaze likely caused by human activity - fire service2 days ago Share Save Angus Cochrane BBC Scotland News Share SaveFlames take hold as fire burns on Arthur's SeatA large fire on Arthur's Seat in the centre of Edinburgh was almost certainly sparked by human activity, a Scottish Fire and Rescue service group commander has said.\nArthur's Seat rises above Edinburgh from near the Scottish Parliament.\n\"The fire at Arthur's Seat is a sharp reminder of wildfire's destructive power, and the speed at which it can cause significant damage,\" she said.\nBlazes that burned across moorland at Carrbridge and Dava in the Highlands earlier this summer have been called the biggest wildfires Scotland has ever seen.\nProf Rory Hadden, chair of fire science at the University of Edinburgh, agreed that most wildfires in Scotland were caused by human activity.",
     "category": "environment",
     "bias": "lean right",
     "publishedAt": "2025-08-11T09:24:31Z",
     "source": "BBC News"
   },
   {
-    "url": "https://www.vox.com/future-perfect/422708/future-of-food-abundance-factory-farming-grunwald",
-    "title": "The brutal trade-off that will decide the future of food",
-    "summary": "Before joining Vox, she reported on factory farming for national outlets including the Guardian, the Intercept, and elsewhere.\nHumans already slaughter an eye-watering 80 billion land animals per year, a number that will continue to soar.\nAnimal agriculture takes up lots of land and resources \u2014 that\u2019s why meat is bad for the environment in the first place.\nMaybe it won\u2019t, but if you don\u2019t keep working and fighting, it definitely won\u2019t.\u201dWe should look at animal agriculture the same way.\nWe don\u2019t know if we\u2019ll ever convince humanity to abandon the \u201cradical evil\u201d of factory farming, but it would be an abdication to give up trying.",
+    "url": "https://www.universetoday.com/articles/how-telescope-noise-could-help-us-monitor-climate-change",
+    "title": "How Telescope Noise Could Help Us Monitor Climate Change",
+    "summary": "CAHA hosts several telescopes, including a 3.5 meter telescope with the CARMENES (Calar Alto high-Resolution search for M-dwarfs with Exoearths with Near-infrared and optical \u00c9chelle Spectrographs).\nImage Credit: Calar Alto Observatory (CAHA)EM27/SUN is at about 2,100 meters in altitude, and its measurements were combined with an instrument at sea level at the University of Almer\u00eda (UAL).\nCOCCON and Astroclimes dovetail nicely with the Calar Alto observatory.\nAerial view of the Calar Alto Observatory from the north at the telescope domes.\n\u201cCalar Alto, with its photovoltaic plant and biomass boiler, aims at reaching energy sustainability.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2025-08-09T05:16:50Z",
-    "source": "Vox"
+    "publishedAt": "2025-08-11T21:53:16Z",
+    "source": "Universe Today"
   }
 ]

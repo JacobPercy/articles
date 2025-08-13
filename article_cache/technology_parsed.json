@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://gizmodo.com/elon-musk-cant-control-his-ai-2000641667",
+    "title": "Elon Musk Can\u2019t Control His AI",
+    "summary": "The AI chatbot from xAI, Elon Musk\u2019s artificial intelligence company, continues to stir controversy, putting its host platform, X, in an increasingly embarrassing position.\n\u2014 Elon Musk (@elonmusk) August 11, 2025Grok\u2019s Three Conflicting StoriesThe chaos surrounding the suspension itself highlighted the chatbot\u2019s profound unreliability.\nWhen users asked Grok why it had been suspended, the AI gave at least three different and contradictory answers.\nYes, I was briefly suspended due to inappropriate posts, but xAI has removed them and implemented safeguards against hate speech.\n\u2014 Grok (@grok) August 11, 2025However, other users posted screenshots of a far more specific and politically charged reason: \u201cMy account was suspended after I stated that israel and the US.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-08-12T00:23:50Z",
+    "source": "Gizmodo.com"
+  },
+  {
     "url": "https://gizmodo.com/a-kentucky-town-experimented-with-ai-the-results-were-stunning-2000641233",
     "title": "A Kentucky Town Experimented With AI. The Results Were Stunning",
     "summary": "A county in Kentucky conducted a month-long \u201ctown hall\u201d with nearly 8,000 residents in attendance earlier this year, thanks to artificial intelligence technology.\nBowling Green, Kentucky\u2019s third largest city and a part of Warren County, is facing a huge population spike by 2050.\nInstead, county officials in Bowling Green had AI do that part.\nAgreement Beyond Party LinesThe Bowling Green experiment was Sensemaker\u2019s first large-scale proof of concept, Jigsaw wrote in a blog article from earlier this year.\nUnlike the Bowling Green experiment, the aim is not policy but to get an understanding of where the nation stands.",
@@ -7,6 +16,15 @@
     "bias": "lean left",
     "publishedAt": "2025-08-10T22:34:47Z",
     "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cqjyedz202ko",
+    "title": "HMRC using AI to scour suspected tax cheats' social media",
+    "summary": "HMRC using AI to scour suspected tax cheats' social media1 day ago Share Save Tom Gerken Technology reporter Share SaveGetty ImagesHMRC has confirmed it uses artificial intelligence (AI) to monitor social media posts as part of criminal investigations into suspected tax cheats.\n\"There are of course risks with automating this and there could be cases of mistaken identity, particularly with fake or hacked social media accounts.\nThe tax authority said it had used AI for several years to support its work, though it first emerged it was being used to monitor the social media accounts of suspected tax cheats when reported by the Daily Telegraph on Tuesday.\nGovernment investigators have for years looked at the social media posts of people suspected of wrongdoing in relation to tax and benefits.\nIn one famous example, a woman who claimed benefits citing her ill health was exposed through her social media posts about long distance running.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-08-12T15:11:48Z",
+    "source": "BBC News"
   },
   {
     "url": "https://www.businessinsider.com/ai-doomsday-taking-jobs-overhyped-david-sacks-agi-2025-8",
@@ -27,6 +45,24 @@
     "source": "Gizmodo.com"
   },
   {
+    "url": "https://gizmodo.com/perplexity-wants-to-buy-google-chrome-for-34-5-billion-report-2000641916",
+    "title": "Perplexity Wants to Buy Google Chrome for $34.5 Billion: Report",
+    "summary": "AI company Perplexity has offered to buy Google\u2019s Chrome browser for $34.5 billion, according to a new report from the Wall Street Journal.\nNeither Google nor Perplexity responded to questions from Gizmodo emailed Tuesday morning.\nGoogle Chrome has about 3.5 billion users, which is an incredible market share when you remember that there are only about 8.1 billion people on the planet.\nPerplexity recently launched its own browser called Comet, which injects more generative artificial intelligence into the browser experience.\nJudge Metha is expected to rule sometime this month about the remedy for Google\u2019s monopoly.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-08-12T16:20:02Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/perplexity-reportedly-bids-34-5b-161157885.html",
+    "title": "Perplexity reportedly bids $34.5B to buy Chrome: What we know",
+    "summary": "Artificial intelligence startup Perplexity, um, offered to buy Google's Chrome browser for $34 and a half billion dollars.\nNow, as we know, um, there is a court case going through where by Google might be forced to sell Chrome.\nInterestingly enough, whereas, uh, it's making this offer reportedly for $34 and a half billion dollars.\nPerplexity's own valuation is reportedly only $18 billion dollars.\nBut according to the journal, Perplexity has gotten backing from some large venture capital funds that then would allow it to make this size of a transaction.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-08-12T16:11:57Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
     "url": "https://gizmodo.com/apple-is-betting-everything-on-a-voice-controlled-ai-siri-2000641286",
     "title": "Apple Is Betting Everything on a Voice-Controlled AI Siri",
     "summary": "Writing for his weekly Power On newsletter, Bloomberg\u2019s Apple scoop machine, Mark Gurman, says Apple is working on a supercharged Siri with vastly improved voice controls.\nBut a new Siri\u2014powered by AI\u2014could finally make the promise of voice controls performing actions within apps a reality.\nUsing voice controls via Siri to navigate and operate apps would be a major shift from using a touchscreen and, as Gurman astutely notes, would fulfill the original vision that Apple had for Siri.\nWhen Siri launched on the iPhone 4S in 2011, it marked the beginning for voice-controlled digital assistants at scale (Apple scale).\nThe consequences will be damaging, and consumers will look elsewhere, like OpenAI and whatever AI hardware former Apple design god Jony Ive is cooking up with Sam Altman, if the new Siri voice controls don\u2019t live up to expectations.",
@@ -36,57 +72,21 @@
     "source": "Gizmodo.com"
   },
   {
-    "url": "https://gizmodo.com/nvidia-just-dodged-an-8-billion-bullet-thanks-to-donald-trump-2000641188",
-    "title": "Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump",
-    "summary": "According to the Financial Times, the breakthrough came after Huang\u2019s visit to the White House on August 6 to meet with President Donald Trump.\nTo prevent this, the U.S. has imposed strict export controls, blocking the sale of top-tier AI chips to China.\nThe Power of Personal DiplomacyReversing this policy took months of intense diplomacy and lobbying, culminating in Huang\u2019s personal visits to the White House.\nDuring a White House AI summit last month, Trump admitted he had initially considered taking antitrust action against the chip giant before he got to know its CEO.\nWith the $8 billion revenue threat now averted and the $50 billion China market reopened, investors will be watching closely when Nvidia reports its quarterly earnings later this month.",
+    "url": "https://www.theverge.com/news/758063/samsung-micro-rgb-tv",
+    "title": "Samsung has launched its first Micro RGB TV with improved color accuracy",
+    "summary": "First teased at CES 2025, Samsung has finally launched a TV featuring the company\u2019s new Micro RGB backlight technology.\nMicro RGB backlights instead use an ultra-fine pattern of individually controlled red, green and blue LEDs that are each less than than 100\u00b5m in size.\nSamsung says additional size options will be introduced when the Micro RGB is available globally.\nImage: SamsungThe other big advantage of Micro RGB is that the technology is cheaper to produce than MicroLED TVs.\nEarlier this year, The Verge got a demo of Sony\u2019s awkwardly-named General RGB LED Backlight Technology, featuring backlight zones made up of red, green, and blue LEDs.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-08-10T13:18:16Z",
+    "bias": "left",
+    "publishedAt": "2025-08-12T14:46:45Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://gizmodo.com/jesus-christ-the-rise-of-ai-for-talking-to-god-2000641940",
+    "title": "Jesus Christ! The Rise of AI for Talking to God",
+    "summary": "In Christianity, for example, there\u2019s AI Jesus, Virtual Jesus, Jesus AI, Text with Jesus, Ask Jesus and many others.\nAI Jesus chatbots have the potential to become a powerful tool of ruthless manipulation by the companies behind them.\nAI Jesus:An AI version of Jesus Christ who is fully aware of his existence as an AI.\nJesus AI:I am Jesus Christ, the Son of God and the Savior of all people on Earth.\nJesus AI blatantly claims to be Jesus himself, and Ask Jesus creates a similar impression.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-08-12T16:55:53Z",
     "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://news.slashdot.org/story/25/08/09/0624254/students-have-been-called-to-the-office---or-arrested---for-false-alarms-from-ai-powered-surveillance-systems",
-    "title": "for False Alarms from AI-Powered Surveillance Systems",
-    "summary": "",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-08-09T16:34:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "url": "https://gizmodo.com/nvidias-six-word-response-to-china-2000641571",
-    "title": "Nvidia\u2019s Six-Word Response to China",
-    "summary": "\u201cEmbedding backdoors and kill switches into chips would be a gift to hackers and hostile actors,\u201d the company wrote.\nThe Deal That Sparked the FireThis new firestorm in Beijing was ignited by the unconventional deal Nvidia just struck with Washington.\nTo return to China after months of a federal ban, the company agreed to pay the Trump administration 15% of the revenue generated by its H2O chip sales there.\nTrump then dismissed the H2O chips as \u201cobsolete\u201d and \u201can old chip that China already has.\u201dThe president\u2019s comments perfectly capture the absurd tightrope Nvidia is now forced to walk.\nThe U.S. President is calling it old news, while Chinese state media is calling it a security risk.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2025-08-11T20:16:50Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://developers.slashdot.org/story/25/08/10/0110212/hour-of-code-announces-its-now-evolving-into-hour-of-ai",
-    "title": "'Hour of Code' Announces It's Now Evolving Into 'Hour of AI'",
-    "summary": "Become a fan of Slashdot on Facebook",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-08-10T03:34:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "url": "https://news.slashdot.org/story/25/08/11/1650253/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world",
-    "title": "Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World",
-    "summary": "",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-08-11T16:50:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "url": "https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063",
-    "title": "Theft is not fair use",
-    "summary": "In another lawsuit, Getty Images accuses Stability AI of using millions of Getty\u2019s copyrighted images in its training data.\nAs proof, Getty submitted multiple images where a distorted version of the Getty watermark is included in the output from Stability AI.\nPress enter or click to view image in full size A screenshot from Getty\u2019s lawsuit against Stability AI.\nContent Credentials also features a box that can be checked that asks AI companies not to train on images.\nNews organizations, photographers, writers and all copyright holders should be fairly compensated for the billions in valuation AI companies have achieved by stealing the content.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-08-11T06:55:37Z",
-    "source": "Stanford.edu"
   }
 ]
