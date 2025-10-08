@@ -1,92 +1,92 @@
 [
   {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation",
-    "title": "Silicon Valley\u2019s latest anti-regulation argument: AI laws will summon the Antichrist",
-    "summary": "These are, incidentally, areas where the tech billionaire, venture capitalist, and cofounder of Palantir has a vested financial interest.\nThe Antichrist, Thiel argued, would take the form of a one-world government that promised to regulate these technologies.\n\u2018The slogan of the Antichrist is peace and safety,\u2019 which is nothing wrong with peace and safety.\n\u201cAnd so the US is ground zero of globalization and it\u2019s ground zero of the resistance to bad globalization.\nAs humans race toward a last battle\u2014the Armageddon\u2014a one-world government will form, promising peace and safety.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-09-25T20:49:43Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/",
-    "title": "OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers",
-    "summary": "OpenAI is planning to build five new data centers in the United States as part of the Stargate initiative, the company announced on Tuesday.\nThe move follows an agreement Oracle and OpenAI announced in July to develop up to 4.5 gigawatts of US data center capacity on top of what the two companies are already building at the first Stargate facility in Abilene.\nThe two remaining sites are being helmed by OpenAI and SB Energy, a SoftBank subsidiary that develops solar and battery projects.\nThe flagship site in Abilene is primarily owned and operated by Oracle, with OpenAI acting as the primary tenant, according to executives close to the project.\nIt is already running on Oracle Cloud Infrastructure and supporting OpenAI training and inference workloads, those sources add.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-09-23T20:59:50Z",
-    "source": "Wired"
-  },
-  {
-    "url": "https://gizmodo.com/qualcomm-6g-estimated-2028-arrival-2000663048",
-    "title": "Tired of 5G? Qualcomm Says 6G Will Be Here Before the End of the World",
-    "summary": "Currently, 5G and 4G LTE are the standard the world over.\n6G could allow for faster internet speeds, and the first \u201cpre-commercial devices\u201d with the standard will be here in three years.\nQualcomm, of course, imagines 6G will have something\u2014anything\u2014to do with AI.\nAnd if all these devices are increasingly pushing AI for everything you do, then Qualcomm needs to facilitate that.\nAnd in any case, by 2028, 6G will be the least of our concerns.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-09-24T12:25:24Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://gizmodo.com/google-warns-that-china-linked-malware-will-haunt-networks-for-years-2000663320",
-    "title": "Google Warns That China-Linked Malware Will Haunt Networks for Years",
-    "summary": "Companies may uncover traces of a Chinese-linked hacking campaign lurking in their networks for at least the next two years, Google warns.\nEvidence from Google\u2019s investigations suggests legal groups are targeted for information related to U.S. national security and international trade.\nThe activity is primarily attributed to a group identified by Google as UNC5221, along with other closely related China-linked clusters.\nTo help organizations detect the malware, Mandiant has released a free scanner that looks for BRICKSTORM activity.\nIt works \u201cby searching for a combination of strings and hex patterns unique to the backdoor,\u201d Google said.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-09-24T19:30:22Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/",
-    "title": "This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw",
-    "summary": "A four-legged robot that keeps crawling even after all four of its legs have been hacked off with a chainsaw is the stuff of nightmares for most people.\n\u201cThis is something we call an omni-bodied brain,\u201d Pathak tells me.\nHis startup developed the generalist artificial intelligence algorithm to address a key challenge with advancing robotics: \u201cAny robot, any task, one brain.\nThe AI-controlled robot is able to adapt to new, extreme circumstances, such as the loss of limbs.\nWhat do you think of Skild\u2019s multitalented robot brain?",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-09-24T18:00:00Z",
-    "source": "Wired"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/784865/ai-safety-military-defense-openai-anthropic-ethics",
-    "title": "How AI safety took a backseat to military money",
-    "summary": "is The Verge\u2019s senior AI reporter.\nI\u2019m Hayden Field, senior AI repoter at The Verge \u2014 and your Thursday episode guest host.\nToday, I\u2019m talking with Heidy Khlaaf, who is chief AI scientist at the AI Now Institute and one of the industry\u2019s leading experts in the safety of AI within autonomous weapons systems.\nI also wanted to know what this push to deploy military-grade AI means for bad actors who might want to use AI systems to develop chemical, biological, radiological, and nuclear weapons \u2014 a risk the AI companies themselves say they\u2019re increasingly worried about.\nOkay, here\u2019s Heidy Khlaaf on AI in the military.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-09-25T13:46:39Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.businessinsider.com/sam-altman-predicts-ai-agi-surpass-human-intelligence-2030-2025-9",
-    "title": "Sam Altman predicts AI will surpass human intelligence by 2030",
-    "summary": "In many ways, GPT5 is already smarter than me, at least, I think a lot of other people too.\nI don't think it'll treat humans like ants.\nDon't expect anything very soon.\nWhat do you think of the idea of simply letting AI govern instead of a US president in the future?\nI don't think people want that anytime soon.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-09-26T09:00:02Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://www.businessinsider.com/sam-altman-ai-infrastructure-1-gw-per-week-stargate-2025-9",
-    "title": "Sam Altman wants to build 'the coolest and most important infrastructure project ever'",
-    "summary": "Sam Altman wrote in a blog post that a lot of the AI infrastructure will be built in the US.\nSam Altman wrote in a blog post that a lot of the AI infrastructure will be built in the US.\nAndrew Harnik/Getty ImagesSam Altman wrote in a blog post that a lot of the AI infrastructure will be built in the US.\nImpact LinkSam Altman just shared an ambitious goal for rapidly scaling artificial intelligence: Build a factory capable of producing one gigawatt of new \"AI infrastructure every week.\"\nA gigawatt of AI infrastructure \u2014 enough to power 876,000 households for a year \u2014 per week could also support some of OpenAI's other recently announced ventures.",
+    "url": "https://www.androidcentral.com/apps-software/ai/best-android-ai-apps",
+    "title": "Best AI apps for Android",
+    "summary": "In fact, finding the best AI apps for your particular use cases and workflows can actually add convenience and save time.\nYou can find productivity apps, social media apps, photo apps, and more that all leverage some form of machine learning and artificial intelligence to help you get stuff done.\nThe best AI chatbots and voice assistants(Image credit: Derrek Lee / Android Central)Chances are, chatbots and voice assistants were probably your first introduction to mobile AI.\nDownload from: Google Play StoreThe best AI productivity apps(Image credit: Jay Bonggolto / Android Central)AI is most useful in streamlining workflows and enhancing productivity, and it's built into some of the best productivity apps for Android.\nIt's hands-down the best AI app for Android users, thanks to its deep integration with Android and Google services.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2025-09-23T22:40:08Z",
-    "source": "Business Insider"
+    "publishedAt": "2025-10-06T18:45:56Z",
+    "source": "Android Central"
   },
   {
-    "url": "https://www.wired.com/story/alexa-von-tobel-quantum-venture-capital/",
-    "title": "Why One VC Thinks Quantum Is a Bigger Unlock Than AGI",
-    "summary": "Alexa von Tobel is fully aware that her big bet on quantum computing may never pay off.\nInspired Capital recently invested in a quantum startup called Logiqal, which is seeking to build the world\u2019s first scaled quantum computer.\nI suspect you knew about quantum computing for years before you decided to invest.\nIf you talk to some of the best experts in the field, they would tell you there's only hundreds of quantum experts in the world.\nAnd I say quantum computers with an asterisk, because a quantum computer, even a quantum computer with 10,000 qubits, 50,000 qubits, 100,000 qubits, would begin to create a significant amount of value for society, but it wouldn't hit the bar of a perfect quantum computer, which is ideally hundreds of thousands of qubits.",
+    "url": "https://www.bbc.com/news/articles/cgmz2vm3yv8o",
+    "title": "How China is challenging Nvidia's AI chip dominance",
+    "summary": "How China is challenging Nvidia's AI chip dominance3 days ago Share Save Osmond Chia Business reporter Share SaveGetty Images Jensen Huang, the boss of Silicon Valley-based Nvidia, has warned China is \"nanoseconds behind\" the US in chipsThe US has dominated the global technology market for decades.\nLast month, Jensen Huang - the boss of Silicon Valley-based AI chip giant Nvidia - warned that China was just \"nanoseconds behind\" the US in chip development.\nThere has also been no shortage of state-backed trade shows, promoting Chinese technology companies in a bid to attract investors.\nChina's chip industry has also yet to overcome criticism that its products can be less user-friendly than those of Western rivals like Nvidia.\nGetty Images Chinese tech giant Huawei unveiled its plans to rival Nvidia's dominance in AI chips'Bargaining chip' for China",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-10-05T23:00:21Z",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://gizmodo.com/jeff-bezos-has-a-plan-to-curb-ais-carbon-footprint-send-data-centers-to-space-2000668833",
+    "title": "Jeff Bezos Has a Plan to Curb AI\u2019s Carbon Footprint: Send Data Centers to Space",
+    "summary": "Jeff Bezos believes that for artificial intelligence to keep expanding, data centers will eventually need to move off the Earth and into space.\nIn turn, Bezos predicted that humans will start building gigawatt-scale orbital data centers within the next 10 to 20 years.\nThe next step is going to be data centers and other kinds of manufacturing.\u201dData centers are straining Earth\u2019s resourcesAs tech giants pour billions into AI, data center construction is skyrocketing.\nThe concept of orbital data centers as a potential solution isn\u2019t new.\nWe will be able to beat the cost of terrestrial data centers in space in the next couple of decades.\u201dWhat\u2019s more, orbital data centers would help reduce air and water pollution on Earth.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-09-23T16:00:00Z",
+    "publishedAt": "2025-10-07T18:00:28Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.wired.com/story/apple-ipad-prime-day-sale-october-2025/",
+    "title": "Best Prime Day Apple iPad Deals",
+    "summary": "It's Amazon Prime day once again, and our favorite Apple iPad is on deep discount for Prime members.\nThe 11-inch Apple iPad with the A16 chip (8/10, WIRED Recommends) is marked down to just $328 for the 128GB Wi-Fi only model, and you can save some cash on basically ever Apple iPad model, from the compact iPad Mini up to the biggest iPad Pro with a cellular antenna.\nIf you're after more deals, don't forget to check out our Absolute Best Prime Big Deal Days roundup and our Prime Day Liveblog for up-to-the-minute sales on all of our favorite things, all tested and approved by WIRED staff.\nIt supports extra accessories like the Apple Pencil Pro, as well as the Magic Keyboard Case.\nEven though it wasn't updated in 2025, it sports the A17 Pro chip for Apple Intelligence features, as well as compatibility with the Apple Pencil Pro.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-10-07T18:26:37Z",
     "source": "Wired"
   },
   {
-    "url": "https://blog.google/technology/developers/ai-agents-intensive/",
-    "title": "Google and Kaggle launch AI Agents Intensive course",
-    "summary": "Earlier this year, we launched the second iteration of our GenAI Intensive course, which attracted over 280,000 learners.\nNow, we're taking things to the next level with the 5-Day AI Agents Intensive, designed to help you master AI agents: the next frontier of artificial intelligence.\nCrafted by Google\u2019s own AI researchers and engineers, you\u2019ll learn to build everything from simple AI agents to sophisticated multi-agent systems.\nApply your new skills in a capstone project for a chance to win prizes and be featured on Google\u2019s and Kaggle\u2019s social channels.\nWhether you're just starting out or advancing your expertise, this is your chance to build the future of intelligent, autonomous systems.",
+    "url": "https://science.slashdot.org/story/25/10/06/2255243/astrazeneca-signs-up-for-555-million-ai-deal-with-algen-to-develop-therapies",
+    "title": "AstraZeneca Signs Up For $555 Million AI Deal With Algen To Develop Therapies",
+    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2025-09-23T16:00:00Z",
-    "source": "Blog.google"
+    "bias": "lean right",
+    "publishedAt": "2025-10-07T01:30:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/impact-anthropics-china-ban-unlikely-093000589.html",
+    "title": "Impact of Anthropic's China ban unlikely to 'move the needle', expert says",
+    "summary": "While noting that the move was consistent with Anthropic's stance of advocating restricted Chinese access to US AI and chip technologies, Reynolds said mainland companies had been \"extremely innovative\" in developing AI models.\n\"Chinese users easily skirt Anthropic and OpenAI's geoblocking restrictions using mirror sites and VPNs,\" Ding said.\nAnthropic's aggressive anti-abuse policy has seen many users lose their accounts even if they managed to register with the company.\nAdvertisement AdvertisementAdvertisement AdvertisementMeanwhile, Chinese companies have seized the opportunity to engage with more domestic users.\nAnalyst Reynolds said Anthropic's tough stance on China was \"potentially [creating] a small opportunity for some of the Chinese players to pick up the business\".",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-10-07T09:30:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.businessinsider.com/openai-amd-chips-deal-nvidia-ai-2025-10",
+    "title": "OpenAI just gave AMD a big boost in the AI chip wars",
+    "summary": "lighning bolt icon An icon in the shape of a lightning bolt.\nThe multi-year deal, announced Monday, will see OpenAI deploy 6 gigawatts of AMD GPUs, with the first 1 gigawatt deployment set to begin in the second half of 2026.\nThe move provides a significant boost to AMD against Nvidia, which is the dominant player in the AI chip market.\nIt's the latest example of OpenAI striking major AI chip partnerships.\nIn response to requests for comment, AMD and OpenAI directed Business Insider to statements on their press pages.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-10-06T11:16:04Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.cnet.com/home/security/eufy-offered-2-payments-for-real-or-staged-package-theft-footage/",
+    "title": "Eufy Offered $2 Payments for Real or Staged Footage of Package Theft",
+    "summary": "Smart security camera company Eufy offered owners of its products $2 to submit videos it could use to train its artificial intelligence software in a campaign that ran last winter.\nAs reported earlier by TechCrunch, Eufy launched a promotion to collect 20,000 videos of package thefts and 20,000 videos of people pulling on car doors.\nFor the purposes of the campaign, it didn't matter if the videos were real or if owners staged the videos.\nThe concept of services directly paying customers for data or content that will be used to train AI software is still fairly uncommon.\nThat app is currently on hold while the company addresses security issues, but the company's founder said it will return soon.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-10-06T18:36:23Z",
+    "source": "CNET"
+  },
+  {
+    "url": "https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast",
+    "title": "Google\u2019s extreme smart home makeover",
+    "summary": "Over the last few years, you\u2019d be forgiven for thinking the smart home was one of those things, as Google Home and Nest products seemed to languish behind their competitors.\nBut Google says it\u2019s still in the game, and that Gemini is the key to making the smart home truly great.\nOn this episode of The Vergecast, David and The Verge\u2019s Jennifer Pattison Tuohy are joined by Anish Kattukaran, head of product for Google\u2019s smart home efforts, to talk about the state of the connected home.\nVee knows the pros and cons of multiple devices more than most, and helps our caller make the most of their wrists.\nIf you want to know more about everything we discuss in this episode, here are a few links to get you started:",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-10-07T13:22:21Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/why-lattice-semiconductor-lscc-stock-155601633.html",
+    "title": "Why Lattice Semiconductor (LSCC) Stock Is Trading Up Today",
+    "summary": "Shares of semiconductor designer Lattice Semiconductor (NASDAQ:LSCC) jumped 3.3% in the morning session after a major AI-focused partnership in the chip sector boosted sentiment for stocks with exposure to the AI market.\nIs now the time to buy Lattice Semiconductor?\nLattice Semiconductor is up 33% since the beginning of the year, and at $74.43 per share, it is trading close to its 52-week high of $74.71 from September 2025.\nInvestors who bought $1,000 worth of Lattice Semiconductor\u2019s shares 5 years ago would now be looking at an investment worth $2,497.\nSo, in that spirit, we\u2019ve identified a relatively under-the-radar profitable growth stock benefiting from the rise of AI, available to you FREE via this link.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-10-06T15:56:01Z",
+    "source": "Yahoo Entertainment"
   }
 ]
