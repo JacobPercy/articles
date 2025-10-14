@@ -1,92 +1,83 @@
 [
   {
-    "url": "https://www.androidcentral.com/apps-software/ai/best-android-ai-apps",
-    "title": "Best AI apps for Android",
-    "summary": "In fact, finding the best AI apps for your particular use cases and workflows can actually add convenience and save time.\nYou can find productivity apps, social media apps, photo apps, and more that all leverage some form of machine learning and artificial intelligence to help you get stuff done.\nThe best AI chatbots and voice assistants(Image credit: Derrek Lee / Android Central)Chances are, chatbots and voice assistants were probably your first introduction to mobile AI.\nDownload from: Google Play StoreThe best AI productivity apps(Image credit: Jay Bonggolto / Android Central)AI is most useful in streamlining workflows and enhancing productivity, and it's built into some of the best productivity apps for Android.\nIt's hands-down the best AI app for Android users, thanks to its deep integration with Android and Google services.",
+    "url": "https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/",
+    "title": "'Happy Gilmore' Producer Buys Spyware Maker NSO Group",
+    "summary": "Under pressure from the Department of Justice, Apple removed a series of apps from its iOS App Store this month related to monitoring US Immigration and Customs Enforcement activity and archiving content related to ICE's actions.\nEach week, we round up the security and privacy news we didn\u2019t report in depth ourselves.\nUse of mercenary spyware has increased within some US federal government agencies since the beginning of the Trump administration.\nWorkers have been moved to agencies including Immigration and Customs Enforcement, Customs and Border Protection, and the Federal Protective Service.\nUS Immigration and Customs Enforcement inked a $825,000 contract in May with TechOps Specialty Vehicles (TOSV), a Maryland-based company that manufactures equipment and vehicles for law enforcement.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-06T18:45:56Z",
-    "source": "Android Central"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cgmz2vm3yv8o",
-    "title": "How China is challenging Nvidia's AI chip dominance",
-    "summary": "How China is challenging Nvidia's AI chip dominance3 days ago Share Save Osmond Chia Business reporter Share SaveGetty Images Jensen Huang, the boss of Silicon Valley-based Nvidia, has warned China is \"nanoseconds behind\" the US in chipsThe US has dominated the global technology market for decades.\nLast month, Jensen Huang - the boss of Silicon Valley-based AI chip giant Nvidia - warned that China was just \"nanoseconds behind\" the US in chip development.\nThere has also been no shortage of state-backed trade shows, promoting Chinese technology companies in a bid to attract investors.\nChina's chip industry has also yet to overcome criticism that its products can be less user-friendly than those of Western rivals like Nvidia.\nGetty Images Chinese tech giant Huawei unveiled its plans to rival Nvidia's dominance in AI chips'Bargaining chip' for China",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-10-05T23:00:21Z",
-    "source": "BBC News"
-  },
-  {
-    "url": "https://gizmodo.com/jeff-bezos-has-a-plan-to-curb-ais-carbon-footprint-send-data-centers-to-space-2000668833",
-    "title": "Jeff Bezos Has a Plan to Curb AI\u2019s Carbon Footprint: Send Data Centers to Space",
-    "summary": "Jeff Bezos believes that for artificial intelligence to keep expanding, data centers will eventually need to move off the Earth and into space.\nIn turn, Bezos predicted that humans will start building gigawatt-scale orbital data centers within the next 10 to 20 years.\nThe next step is going to be data centers and other kinds of manufacturing.\u201dData centers are straining Earth\u2019s resourcesAs tech giants pour billions into AI, data center construction is skyrocketing.\nThe concept of orbital data centers as a potential solution isn\u2019t new.\nWe will be able to beat the cost of terrestrial data centers in space in the next couple of decades.\u201dWhat\u2019s more, orbital data centers would help reduce air and water pollution on Earth.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-07T18:00:28Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.wired.com/story/apple-ipad-prime-day-sale-october-2025/",
-    "title": "Best Prime Day Apple iPad Deals",
-    "summary": "It's Amazon Prime day once again, and our favorite Apple iPad is on deep discount for Prime members.\nThe 11-inch Apple iPad with the A16 chip (8/10, WIRED Recommends) is marked down to just $328 for the 128GB Wi-Fi only model, and you can save some cash on basically ever Apple iPad model, from the compact iPad Mini up to the biggest iPad Pro with a cellular antenna.\nIf you're after more deals, don't forget to check out our Absolute Best Prime Big Deal Days roundup and our Prime Day Liveblog for up-to-the-minute sales on all of our favorite things, all tested and approved by WIRED staff.\nIt supports extra accessories like the Apple Pencil Pro, as well as the Magic Keyboard Case.\nEven though it wasn't updated in 2025, it sports the A17 Pro chip for Apple Intelligence features, as well as compatibility with the Apple Pencil Pro.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-10-07T18:26:37Z",
+    "bias": "center",
+    "publishedAt": "2025-10-11T10:30:00Z",
     "source": "Wired"
   },
   {
-    "url": "https://science.slashdot.org/story/25/10/06/2255243/astrazeneca-signs-up-for-555-million-ai-deal-with-algen-to-develop-therapies",
-    "title": "AstraZeneca Signs Up For $555 Million AI Deal With Algen To Develop Therapies",
-    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-10-07T01:30:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "url": "https://www.yahoo.com/news/articles/impact-anthropics-china-ban-unlikely-093000589.html",
-    "title": "Impact of Anthropic's China ban unlikely to 'move the needle', expert says",
-    "summary": "While noting that the move was consistent with Anthropic's stance of advocating restricted Chinese access to US AI and chip technologies, Reynolds said mainland companies had been \"extremely innovative\" in developing AI models.\n\"Chinese users easily skirt Anthropic and OpenAI's geoblocking restrictions using mirror sites and VPNs,\" Ding said.\nAnthropic's aggressive anti-abuse policy has seen many users lose their accounts even if they managed to register with the company.\nAdvertisement AdvertisementAdvertisement AdvertisementMeanwhile, Chinese companies have seized the opportunity to engage with more domestic users.\nAnalyst Reynolds said Anthropic's tough stance on China was \"potentially [creating] a small opportunity for some of the Chinese players to pick up the business\".",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-10-07T09:30:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "url": "https://www.businessinsider.com/openai-amd-chips-deal-nvidia-ai-2025-10",
-    "title": "OpenAI just gave AMD a big boost in the AI chip wars",
-    "summary": "lighning bolt icon An icon in the shape of a lightning bolt.\nThe multi-year deal, announced Monday, will see OpenAI deploy 6 gigawatts of AMD GPUs, with the first 1 gigawatt deployment set to begin in the second half of 2026.\nThe move provides a significant boost to AMD against Nvidia, which is the dominant player in the AI chip market.\nIt's the latest example of OpenAI striking major AI chip partnerships.\nIn response to requests for comment, AMD and OpenAI directed Business Insider to statements on their press pages.",
+    "url": "https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai",
+    "title": "New California law requires AI to tell you it\u2019s AI",
+    "summary": "A bill attempting to regulate the ever-growing industry of companion AI chatbots is now law in California, as of October 13th.\nGavin Newsom signed into law Senate Bill 243, billed as \u201cfirst-in-the-nation AI chatbot safeguards\u201d by state senator Steve Padilla.\n\u201cWe can continue to lead in AI and technology, but we must do it responsibly \u2014 protecting our children every step of the way.\nOur children\u2019s safety is not for sale.\u201dThe news comes after Governor Newsom officially signed Senate Bill 53, the landmark AI transparency bill that divided AI companies and made headlines for months, into law in California.\nIt\u2019s Steve Padilla, not Anthony Padilla.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2025-10-06T11:16:04Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://www.cnet.com/home/security/eufy-offered-2-payments-for-real-or-staged-package-theft-footage/",
-    "title": "Eufy Offered $2 Payments for Real or Staged Footage of Package Theft",
-    "summary": "Smart security camera company Eufy offered owners of its products $2 to submit videos it could use to train its artificial intelligence software in a campaign that ran last winter.\nAs reported earlier by TechCrunch, Eufy launched a promotion to collect 20,000 videos of package thefts and 20,000 videos of people pulling on car doors.\nFor the purposes of the campaign, it didn't matter if the videos were real or if owners staged the videos.\nThe concept of services directly paying customers for data or content that will be used to train AI software is still fairly uncommon.\nThat app is currently on hold while the company addresses security issues, but the company's founder said it will return soon.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-10-06T18:36:23Z",
-    "source": "CNET"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast",
-    "title": "Google\u2019s extreme smart home makeover",
-    "summary": "Over the last few years, you\u2019d be forgiven for thinking the smart home was one of those things, as Google Home and Nest products seemed to languish behind their competitors.\nBut Google says it\u2019s still in the game, and that Gemini is the key to making the smart home truly great.\nOn this episode of The Vergecast, David and The Verge\u2019s Jennifer Pattison Tuohy are joined by Anish Kattukaran, head of product for Google\u2019s smart home efforts, to talk about the state of the connected home.\nVee knows the pros and cons of multiple devices more than most, and helps our caller make the most of their wrists.\nIf you want to know more about everything we discuss in this episode, here are a few links to get you started:",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-07T13:22:21Z",
+    "publishedAt": "2025-10-13T17:13:58Z",
     "source": "The Verge"
   },
   {
-    "url": "https://finance.yahoo.com/news/why-lattice-semiconductor-lscc-stock-155601633.html",
-    "title": "Why Lattice Semiconductor (LSCC) Stock Is Trading Up Today",
-    "summary": "Shares of semiconductor designer Lattice Semiconductor (NASDAQ:LSCC) jumped 3.3% in the morning session after a major AI-focused partnership in the chip sector boosted sentiment for stocks with exposure to the AI market.\nIs now the time to buy Lattice Semiconductor?\nLattice Semiconductor is up 33% since the beginning of the year, and at $74.43 per share, it is trading close to its 52-week high of $74.71 from September 2025.\nInvestors who bought $1,000 worth of Lattice Semiconductor\u2019s shares 5 years ago would now be looking at an investment worth $2,497.\nSo, in that spirit, we\u2019ve identified a relatively under-the-radar profitable growth stock benefiting from the rise of AI, available to you FREE via this link.",
+    "url": "https://www.yahoo.com/news/articles/nobel-economist-warns-ai-dangers-194529501.html",
+    "title": "Nobel economist warns of AI dangers",
+    "summary": "A winner of this year\u2019s Nobel prize in economics warned Monday that artificial intelligence offers \"amazing possibilities\" but should be regulated because of its job-destroying potential.\nCalifornia Governor Gavin Newsom on Monday signed a first-of-its-kind law regulating interactions with AI chatbots, defying a push from the White House to leave the technology unchecked.\nThe third economist to honored Monday, American-Israeli Joel Mokyr, was more sanguine about the impact of AI on the labor market.\nMokyr won his Nobel for his work on identifying the \"prerequisites for sustained growth through technological progress.\"\nI said, 'Sure, sure, sure,'\" Howitt recalled.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-10-06T15:56:01Z",
+    "bias": "left",
+    "publishedAt": "2025-10-13T19:45:29Z",
     "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips",
+    "title": "OpenAI partners with Broadcom to produce its own AI chips",
+    "summary": "is a London-based reporter at The Verge covering all things AI and Senior Tarbell Fellow.\nOpenAI is teaming up with Broadcom to produce its own computer chips to power its AI data centers.\nThe infrastructure partnerships have only recently become possible after OpenAI altered its exclusive arrangement with Microsoft for AI compute.\nCreating custom chips is part of a growing movement within the tech industry as major players like Meta, Google, and Microsoft work to bolster vital supply lines amid soaring demand and reduce their reliance on Nvidia\u2019s AI chips.\nTo date, custom chip projects have not posed a plausible threat to the chipmaking behemoth, though they have handsomely benefited other chipmakers like Broadcom.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-10-13T14:59:44Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309",
+    "title": "TrumpRx Is a Narcissistic, AI-Generated Nightmare",
+    "summary": "The TrumpRx website was first launched on Friday and initially contained text that read: \u201cTune in to the Oval Office @5PM EST,\u201d according to the Internet Archive\u2019s Wayback Machine.\nThe president insisted during his press conference, which was livestreamed on YouTube, that it wasn\u2019t his idea to call the website TrumpRX.\nAnd the text on the one-page site includes snarky claims about him saving the day by supposedly lowering drug prices.\nPresident Trump is changing that with TrumpRx.\nAnd only time will tell whether TrumpRx actually does some good in the world.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-10-11T00:04:56Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://slashdot.org/story/25/10/13/1334226/openai-broadcom-forge-multibillion-dollar-chip-development-deal",
+    "title": "OpenAI, Broadcom Forge Multibillion-Dollar Chip-Development Deal",
+    "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-10-13T14:00:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "url": "https://www.cnet.com/tech/services-and-software/new-california-law-wants-companion-chatbots-to-tell-kids-to-take-breaks/",
+    "title": "New California Law Wants Companion Chatbots to Tell Kids to Take Breaks",
+    "summary": "AI companion chatbots will have to remind users in California that they're not human under a new law signed Monday by Gov.\nThe law, SB 243, also requires companion chatbot companies to maintain protocols for identifying and addressing cases in which users express suicidal ideation or self-harm.\nLast week, Newsom signed measures requiring internet browsers to make it easy for people to tell websites they don't want them to sell their data and banning loud advertisements on streaming platforms.\nAI companion chatbots have drawn particular scrutiny from lawmakers and regulators in recent months.\nOpenAI spokesperson Jamie Radice called the bill a \"meaningful move forward\" for AI safety.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-10-13T20:54:27Z",
+    "source": "CNET"
+  },
+  {
+    "url": "https://gizmodo.com/is-the-ai-conveyor-belt-of-capital-about-to-stop-2000671017",
+    "title": "Is the AI Conveyor Belt of Capital About to Stop?",
+    "summary": "Morgan Stanley investor Ruchir Sharma recently noted that money poured into AI investments now accounts for about 40% of the United States\u2019 GDP growth in 2025, and AI companies are responsible for 80% of growth in American stocks.\n\u201cIf that doesn\u2019t happen, if there is no real enterprise AI adoption, then it\u2019s all round-tripping,\u201d Jaluria said.\nWhere these investments are generating a return is in the stock market.\n\u201cIn many ways, we\u2019re seeing the same developing web of capital flows across the AI space.\u201dThis creates some obvious problems.\nTo talk about AI today, it means we have to talk about the credit market, we have to talk about the credit market.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2025-10-13T19:40:03Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.yankodesign.com/2025/10/12/designer-reimagines-ai-through-victorian-craft-philosophy/",
+    "title": "Designer Reimagines AI Through Victorian Craft Philosophy",
+    "summary": "This AI machine is unique not just because of its form but also because of its unconventional power source.\nUnlike mainstream language models, Park\u2019s system has been specifically trained on data relating to William Morris and his philosophies.\nThe designer has also created a portable version of his concept in the form of a hand-cranked box, which he brought to discussions at the William Morris Gallery.\nThrough this ingenious marriage of Victorian craftsmanship and cutting-edge AI, Park demonstrates that the future of artificial intelligence doesn\u2019t have to follow predetermined paths.\nPark\u2019s project offers a compelling perspective on alternative approaches to AI development .",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-10-12T13:20:05Z",
+    "source": "Yanko Design"
   }
 ]

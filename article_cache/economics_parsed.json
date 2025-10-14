@@ -1,74 +1,83 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cly147075p2o",
-    "title": "First-year resident doctors back strike action over jobs shortage",
-    "summary": "First-year resident doctors back strike action over jobs shortageSome 97% of those who voted back strike action on a turnout of 65%.\nBut by formally gaining a mandate for strike action it opens up a new avenue for industrial action.\nThe British Medical Association (BMA) union says thousands of resident doctors are ending up without speciality training places when they finish year two of training.\nNewly-qualified doctors in their first year of practice in England have voted in favour of strike action in a row over a shortage of jobs.\nDr Jack Fletcher, chair of the BMA's resident doctors committee, said: \"Doctors have spoken clearly - they won't accept that they face a career of insecurity at a time when the demand for doctors is huge.",
+    "url": "https://gizmodo.com/is-the-ai-conveyor-belt-of-capital-about-to-stop-2000671017",
+    "title": "Is the AI Conveyor Belt of Capital About to Stop?",
+    "summary": "Morgan Stanley investor Ruchir Sharma recently noted that money poured into AI investments now accounts for about 40% of the United States\u2019 GDP growth in 2025, and AI companies are responsible for 80% of growth in American stocks.\n\u201cIf that doesn\u2019t happen, if there is no real enterprise AI adoption, then it\u2019s all round-tripping,\u201d Jaluria said.\nWhere these investments are generating a return is in the stock market.\n\u201cIn many ways, we\u2019re seeing the same developing web of capital flows across the AI space.\u201dThis creates some obvious problems.\nTo talk about AI today, it means we have to talk about the credit market, we have to talk about the credit market.",
     "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2025-10-06T16:28:08Z",
-    "source": "BBC News"
+    "bias": "right",
+    "publishedAt": "2025-10-13T19:40:03Z",
+    "source": "Gizmodo.com"
   },
   {
-    "url": "https://www.businessinsider.com/recession-consumer-spending-uneployment-jobs-business-investment-real-estate-2025-10",
-    "title": "America Are Spending, but Weak Job Market Could Still Cause Recession",
-    "summary": "It's true that consumer spending represents a significant share of the economy, accounting for roughly two-thirds of the country's GDP.\nThe notion that consumer spending can save the country from a recession contradicts several historical trends.\nAmerica's job market is looking weakThe better indicator to watch, if you were trying to anticipate a recession, is the labor market.\nWhile consumer spending has been doing quite well in recent years, the job market has been cooling.\nAnd even as this asset-driven boom has marched on, that has not kept broader labor market conditions from continuing to worsen.",
+    "url": "https://www.businessinsider.com/government-shutdown-economic-data-earnings-calls-2025-10",
+    "title": "Government Shutdown Masks Economic Data, Despite Earnings Calls' Clues",
+    "summary": "FilippoBacci/Getty ImagesThis week, America will get an off-brand clue of how the economy is faring as earnings season heats up.\nHowever, a trio of economists said it won't replace key data that isn't being published during the government shutdown .\n\"If the shutdown continues, private data and earnings calls offer useful clues \u2014 especially around company performance relative to expectations,\" Gregory Daco, EY's chief economist, said.\n\"Earnings calls will help to give us color, \" Hamrick said, \"but it doesn't give us that fully fleshed out view that things like the CPI and the monthly employment situation read.\"\nThe Bureau of Labor Statistics' jobs report is closely watched to see how the workforce is evolving.",
     "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2025-10-07T08:08:02Z",
+    "bias": "left",
+    "publishedAt": "2025-10-13T09:20:02Z",
     "source": "Business Insider"
   },
   {
-    "url": "https://abcnews.go.com/Business/government-shutdown-halts-data-stokes-risk-economy-wobbles/story?id=126259604",
-    "title": "Government shutdown halts data, stokes risk as economy wobbles, experts say",
-    "summary": "The government shutdown halted the release of key economic data, choking off the flow of information as some experts warn the economy may be slipping toward a recession, some economists told ABC News.\nThe absence of government data heightens uncertainty at a fraught moment for the U.S. economy, potentially hamstringing responses from consumers, businesses and policymakers, some economists told ABC News.\n\"It adds to risk and uncertainty at a most inopportune time,\" Mark Hamrick, senior economic analyst at Bankrate, told ABC News.\nSome experts noted the continued availability of private sector data sources, though observers typically view such data as inferior to government statistics.\nAn absence of economic data could make it more difficult for observers to identify the economic impact of the shutdown, some experts said.",
+    "url": "https://finance.yahoo.com/news/gofundme-ceo-says-economy-bad-182843671.html",
+    "title": "GoFundMe CEO says the economy is so bad that more of his customers are crowdfunding just to pay for their groceries",
+    "summary": "GoFundMe\u2019s CEO just said the quiet part out loud: in this economy, more Americans are crowdfunding groceries to get by.\nFor instance, groceries cost more than they did two or three years ago, rents have reset higher, and child care is straining paychecks.\nFor families without savings buffers, a higher cost baseline is the real story.\nThat backdrop explains why an uptick in grocery campaigns on GoFundMe isn\u2019t a curiosity\u2014it\u2019s a barometer of the current economy.\nCrowdfunding groceries is a last-mile solution in a system where wages, benefits, and public supports haven\u2019t fully bridged the gap.",
     "category": "economics",
     "bias": "left",
-    "publishedAt": "2025-10-06T17:44:02Z",
+    "publishedAt": "2025-10-13T18:28:43Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.businessinsider.com/impact-ai-job-market-change-role-2025-10",
+    "title": "Don't panic: AI isn't here for your job (yet)",
+    "summary": "Several examinations of the labor market suggest that AI is not having a significant impact \u2014 yet.\nCarlin Stiehl/Los Angeles Times via Getty ImagesSeveral examinations of the labor market suggest that AI is not having a significant impact \u2014 yet.\nYet, for now, AI isn't as likely to steal your job as it is to reshape it.\nThe next couple of years will likely be bumpy as companies and employees figure out what AI can do, workplace observers told Business Insider.\n\"It's still very, very early,\" Martha Gimbel, executive director and cofounder of the Budget Lab at Yale, told Business Insider.",
+    "category": "economics",
+    "bias": "lean left",
+    "publishedAt": "2025-10-13T09:29:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/firms-blaming-ai-for-layoffs-driven-by-fear-work-guru-2025-10",
+    "title": "Companies are blaming AI for layoffs \u2014 but the real reason is fear of making the wrong move, a workplace guru says",
+    "summary": "Cambridge University professor Thomas Roulet says firms are using AI as a scapegoat for corporate indecision.\nCambridge University professor Thomas Roulet says firms are using AI as a scapegoat for corporate indecision.\nBERTRAND GUAY/AFP via Getty ImagesCambridge University professor Thomas Roulet says firms are using AI as a scapegoat for corporate indecision.\nBERTRAND GUAY/AFP via Getty Imageslighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.",
+    "category": "economics",
+    "bias": "center",
+    "publishedAt": "2025-10-13T10:06:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://abcnews.go.com/Business/wireStory/uncertainty-economy-tariffs-forces-retailers-cautious-holiday-hiring-126473160",
+    "title": "Uncertainty over economy, tariffs forces retailers to be cautious on holiday hiring",
+    "summary": "And he's also seeing companies hiring workers closer to when they need them.\nMeanwhile, the list of companies staying mum about their specific holiday hiring goals keeps growing.\nMastercard SpendingPulse, which tracks spending across all payment methods including cash, predicts that holiday sales will be up 3.6% from Nov. 1 through Dec. 24.\nGiven the uncertainty, companies increasingly want to hire workers closer to when they need them, experts said.\nThe Minneapolis-based company also hires seasonal workers across its nearly 2,000 stores and more than 60 distribution facilities to meet demand, it said.",
+    "category": "economics",
+    "bias": "center",
+    "publishedAt": "2025-10-13T13:29:46Z",
     "source": "ABC News"
   },
   {
-    "url": "https://www.macrumors.com/2025/10/05/remembering-steve/",
-    "title": "Remembering Steve Jobs",
-    "summary": "Today marks the 14th anniversary of Steve Jobs passing away, at the age of 56.\nCook also reflected on Jobs while opening Apple's first-ever event at Steve Jobs Theater in 2017.\nAt that event, Apple unveiled the iPhone X, which was a major update to the smartphone that Jobs had famously unveiled in 2007.\nThe Steve Jobs Archive website contains a collection of quotes, photos, videos, and emails from Jobs, and offers fellowships to young creators to follow in his footsteps.\nApple still has a \"Remembering Steve\" page on its website.",
+    "url": "https://www.businessinsider.com/rich-list-trump-trade-war-musk-bezos-zuck-ai-stocks-2025-10",
+    "title": "The world's 10 richest people lost nearly $70 billion in Friday's market rout",
+    "summary": "The world's 10 richest people lost nearly $70 billion on Friday as fresh fears of a global trade war rattled markets.\nTesla stock slid 5% on Friday, shrinking CEO Elon Musk's wealth by about $16 billion, the Bloomberg Billionaires Index shows.\nIn all, the world's 10 wealthiest people saw a $69 billion wealth reduction.\nThe 10 richest people's wealth loss sounds painful, but they were still collectively worth over $2.9 trillion at Friday's close, led by Musk's $437 billion, Ellison's $351 billion, Zuckerberg's $248 billion, and Bezos' $240 billion.\nThey were still $385 billion in the green for this year as of Friday, with a $159 billion year-to-date wealth gain for Ellison alone, fueled by Oracle's 75% stock surge in 2025.",
     "category": "economics",
-    "bias": "center",
-    "publishedAt": "2025-10-05T14:22:02Z",
-    "source": "MacRumors"
-  },
-  {
-    "url": "https://finance.yahoo.com/news/america-economy-sugar-high-warns-103054042.html",
-    "title": "America\u2019s economy is on a \u2018sugar high\u2019 warns Ken Griffin, and investors retreating to gold is one sign of a comedown",
-    "summary": "Citadel founder and CEO Ken Griffin cautioned that America\u2019s market rally is being propped up by policies better suited to a recession than a growing economy.\nSpeaking in New York, he said fiscal and monetary policies have created a \u201csugar high\u201d that masks underlying risks like inflation and dollar weakness.\nDespite booming equities, Griffin pointed to gold\u2019s record surge\u2014up more than 50% this year\u2014as evidence investors are quietly hedging against U.S. sovereign risk.\nMoreover, consumer spending is continuing to hold up despite sticky inflation and a weaker job market, providing a steady foundation for growing business confidence.\nThis environment means \u201cwe\u2019re definitely on a bit of a sugar high in the U.S. economy right now,\u201d according to Griffin.",
-    "category": "economics",
-    "bias": "left",
-    "publishedAt": "2025-10-07T10:30:54Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cg5e9zlpz6eo",
-    "title": "British parts found in Russian drones, Zelesnky says",
-    "summary": "British parts found in Russian drones, Zelensky says\"We take reports of goods from UK companies being found in Russian weaponry incredibly seriously,\" a government spokesperson said.\nThe Ukrainian president called for further \"effective\" sanctions after saying parts originating in allied countries including Germany, Japan and the US have been identified in Russian weapons.\nBritish microcomputers were among more than 100,000 foreign-made parts contained in Russian missiles and drones used in Sunday's deadly strikes on Ukraine , Volodymyr Zelensky has said.\nComponents originating in China, Taiwan and the Netherlands have also been identified in Russian weapons, he continued.\nSince Russia launched its full-scale invasion of Ukraine in February 2022, it has become the most-sanctioned nation in the world.",
-    "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2025-10-06T18:03:55Z",
-    "source": "BBC News"
-  },
-  {
-    "url": "https://www.businessinsider.com/saved-over-100000-working-two-remote-jobs-same-time-2025-10",
-    "title": "I saved over $100,000 by working two full-time remote jobs for a year. It was chaos at times but worth it.",
-    "summary": "When I picked up the second job, it was always meant to be short-term.\nThe second job was always the one I planned to leaveI didn't care about it.\nI think you can have 10 jobs if you want to \u2014 if you're willing to get the work done.\nThat's when I started thinking: If I have two jobs and one lets me go, I'll still have a job.\nI quit the second job after 12 months, and now I have a different job, but I'm happy with just the one.",
-    "category": "economics",
-    "bias": "left",
-    "publishedAt": "2025-10-06T09:05:01Z",
+    "bias": "right",
+    "publishedAt": "2025-10-13T10:45:50Z",
     "source": "Business Insider"
   },
   {
-    "url": "https://finance.yahoo.com/news/strong-buy-stocks-october-6th-094200682.html",
-    "title": "New Strong Buy Stocks for October 6th",
-    "summary": "Here are five stocks added to the Zacks Rank #1 (Strong Buy) List today:Pagaya Technologies Ltd. PGY: This product-focused technology company has seen the Zacks Consensus Estimate for its current year earnings increasing 12.3% over the last 60 days.\nSumitomo Mitsui Financial Group Inc Price and ConsensusSumitomo Mitsui Financial Group Inc Price and ConsensusSumitomo Mitsui Financial Group Inc price-consensus-chart | Sumitomo Mitsui Financial Group Inc QuoteHF Sinclair Corporation DINO: This independent energy company has seen the Zacks Consensus Estimate for its current year earnings increasing 24.8% over the last 60 days.\nTPG Inc. Price and ConsensusTPG Inc. Price and ConsensusTPG Inc. price-consensus-chart | TPG Inc. QuoteOkeanis Eco Tankers Corp. ECO: This shipping company has seen the Zacks Consensus Estimate for its current year earnings increasing 13.9% over the last 60 days.\nOkeanis Eco Tankers Corp. Price and ConsensusOkeanis Eco Tankers Corp. Price and ConsensusOkeanis Eco Tankers Corp. price-consensus-chart | Okeanis Eco Tankers Corp. QuoteYou can see the complete list of today\u2019s Zacks #1 Rank (Strong Buy) stocks here.\nToday, you can download 7 Best Stocks for the Next 30 Days.",
+    "url": "https://hbr.org/2025/10/how-to-lead-when-the-conditions-for-success-suddenly-disappear",
+    "title": "How to Lead When the Conditions for Success Suddenly Disappear",
+    "summary": "In today\u2019s workplace, uncertainty has become the norm.\nEconomic headwinds and a volatile stock market have been prompting companies to slash or reallocate budgets mid-course.\nGenerative AI and other forms of automation are reshaping jobs, workflows, and enterprise priorities at a pace few leaders anticipated.\nAt the same time, the constant drive for productivity and rapid technological advancement leaves organizations stretched thin, demanding more with fewer resources, tighter timelines, and heightened scrutiny from boards and investors.",
     "category": "economics",
-    "bias": "center",
-    "publishedAt": "2025-10-06T09:42:00Z",
-    "source": "Yahoo Entertainment"
+    "bias": "right",
+    "publishedAt": "2025-10-13T12:05:36Z",
+    "source": "Harvard Business Review"
+  },
+  {
+    "url": "https://www.businessinsider.com/jamie-dimon-warns-us-is-too-reliant-unreliable-foreign-resources-2025-10",
+    "title": "'We need to act now': Jamie Dimon warns the US is too reliant on 'unreliable sources' as JPMorgan launches huge investment plan",
+    "summary": "Jamie Dimon warned that the US is dangerously overdependent on foreign suppliers.\nJamie Dimon warned that the US is dangerously overdependent on foreign suppliers.\nNoam Galai/Getty ImagesJamie Dimon warned that the US is dangerously overdependent on foreign suppliers.\nNoam Galai/Getty Imageslighning bolt icon An icon in the shape of a lightning bolt.\nJamie Dimon said the US has become too dependent on foreign suppliers for the materials and technologies that underpin its economy and national security.",
+    "category": "economics",
+    "bias": "left",
+    "publishedAt": "2025-10-13T11:09:26Z",
+    "source": "Business Insider"
   }
 ]
