@@ -1,29 +1,29 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cx2lmnvj3n5o",
-    "title": "Red Tractor ad banned for misleading environmental claims",
-    "summary": "Red Tractor ad banned for misleading environmental claims4 days ago Share Save Esme Stallard Climate and science reporter, BBC News Share SaveRed Tractor The Red Tractor advert was last shown in 2023 but will now be banned for future use unless it is updatedA TV advert by Red Tractor, the UK's biggest certifier of farm products on supermarket shelves, has been banned for exaggerating the scheme's environmental benefits and misleading the public.\nBut Red Tractor called the watchdog's decision \"fundamentally flawed\" and argued that the scheme's focus was animal welfare not environmental standards.\nIn 2021, Red Tractor aired an advert in which it said: \"From field to store all our standards are met.\nIt said that Red Tractor had failed to provide \"sufficient evidence\" that its farms met \"basic\" environmental laws and had a good environmental outcome to substantiate the claims in the ad.\nJim Mosley, CEO of Red Tractor, told the BBC: \"They believe that we have implied an environmental claim.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-10-15T02:40:44Z",
-    "source": "BBC News"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/ce3xynwwx4yo",
-    "title": "Mysterious 'warm blob' breaks records in the North Pacific Ocean",
-    "summary": "While climate change is known to make marine heatwaves more likely, scientists are struggling to explain why the north Pacific has been so hot for so long.\n\"There's definitely something unusual going on in the north Pacific,\" said Zeke Hausfather, a climate scientist at Berkeley Earth, a research group in the US.\nSo removing that cooling effect in shipping hotspots like the north Pacific could be revealing the full impact of human-caused warming.\nAnd a warm north Pacific appears to have different effects later in the winter, favouring milder and wetter conditions in some parts of Europe.\n\"But since the La Ni\u00f1a is quite weak this year, the extreme warmth in the north Pacific could be more important for forecasting the winter ahead.\"",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-10-17T23:26:57Z",
-    "source": "BBC News"
-  },
-  {
     "url": "https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look",
     "title": "Amazon shares a \u2018first look\u2019 at new nuclear facility",
     "summary": "Amazon shared some new details about its plans to help deploy more nuclear energy across Washington State, where the company is headquartered.\nA rendering of the Cascade Advanced Energy Facility.\nA rendering of the Cascade Advanced Energy Facility.\nCalled the Cascade Advanced Energy Facility, it\u2019ll include three sections with a combined capacity of 960 megawatts, about enough electricity to power 770,000 homes in the US.\nImage: X-energy via AmazonAmazon\u2019s blog post today says that the Cascade facility should create about 100 permanent jobs, as well as more than 1,000 construction jobs.",
     "category": "environment",
-    "bias": "lean left",
+    "bias": "left",
     "publishedAt": "2025-10-16T22:35:54Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cx2lmnvj3n5o",
+    "title": "Red Tractor ad banned for misleading environmental claims",
+    "summary": "Red Tractor ad banned for misleading environmental claims4 days ago Share Save Esme Stallard Climate and science reporter, BBC News Share SaveRed Tractor The Red Tractor advert was last shown in 2023 but will now be banned for future use unless it is updatedA TV advert by Red Tractor, the UK's biggest certifier of farm products on supermarket shelves, has been banned for exaggerating the scheme's environmental benefits and misleading the public.\nBut Red Tractor called the watchdog's decision \"fundamentally flawed\" and argued that the scheme's focus was animal welfare not environmental standards.\nIn 2021, Red Tractor aired an advert in which it said: \"From field to store all our standards are met.\nIt said that Red Tractor had failed to provide \"sufficient evidence\" that its farms met \"basic\" environmental laws and had a good environmental outcome to substantiate the claims in the ad.\nJim Mosley, CEO of Red Tractor, told the BBC: \"They believe that we have implied an environmental claim.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-10-15T02:40:44Z",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap",
+    "title": "The US has a new roadmap for fusion energy, without the funds to back it up",
+    "summary": "The Department of Energy (DOE) released a new roadmap for the US to realize the decades-long dream of harnessing fusion energy.\nIt\u2019s a commitment to support research and development efforts and pursue public-private partnerships to finally build the first generation of fusion power plants.\nNuclear fusion plants, in contrast, would fuse atoms together to generate energy in a controlled way.\nBoth Google and Microsoft have announced plans to purchase electricity from forthcoming fusion power plants that are supposed to be online by the late 2020s or 2030s.\nThe DOE dedicates an entire section of the roadmap to AI, which it calls a \u201ctransformative tool for fusion energy.\u201d Researchers can use AI models to construct \u201cdigital twins\u201d to more quickly study how experimental facilities would perform, the roadmap says as an example.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-10-17T22:21:39Z",
     "source": "The Verge"
   },
   {
@@ -31,18 +31,144 @@
     "title": "NOAA Forecast Maps Reveal What\u2019s in Store for Your State This Winter",
     "summary": "Under normal conditions in the Pacific, trade winds blow west along the equator, transporting warm water from South America to Asia.\nEl Ni\u00f1o and La Ni\u00f1a are two opposing climate patterns that disrupt these normal conditions, according to NOAA.\nUnder La Ni\u00f1a conditions, winter temperatures also tend to be above average in the south and below average in the north.\nPeriods of El Ni\u00f1o and La Ni\u00f1a typically last 9 to 12 months, but they can last years.\nThe CPC expects weak La Ni\u00f1a conditions to persist through the winter, then shift to ENSO-neutral conditions sometime between January and March 2026.",
     "category": "environment",
-    "bias": "center",
+    "bias": "lean right",
     "publishedAt": "2025-10-17T15:20:51Z",
     "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/ce3xynwwx4yo",
+    "title": "Mysterious 'warm blob' breaks records in the North Pacific Ocean",
+    "summary": "While climate change is known to make marine heatwaves more likely, scientists are struggling to explain why the north Pacific has been so hot for so long.\n\"There's definitely something unusual going on in the north Pacific,\" said Zeke Hausfather, a climate scientist at Berkeley Earth, a research group in the US.\nSo removing that cooling effect in shipping hotspots like the north Pacific could be revealing the full impact of human-caused warming.\nAnd a warm north Pacific appears to have different effects later in the winter, favouring milder and wetter conditions in some parts of Europe.\n\"But since the La Ni\u00f1a is quite weak this year, the extreme warmth in the north Pacific could be more important for forecasting the winter ahead.\"",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-10-17T23:26:57Z",
+    "source": "BBC News"
   },
   {
     "url": "https://gizmodo.com/i-think-its-quite-a-scandal-plug-in-hybrids-not-as-climate-friendly-as-they-seem-researchers-say-2000673189",
     "title": "\u2018I Think It\u2019s Quite a Scandal\u2019: Plug-in Hybrids Not as Climate-Friendly as They Seem, Researchers Say",
     "summary": "In a new study published on Thursday, the researchers claim that plug-in hybrids actually only emit 19% less than cars with internal combustion engines.\nBut, unlike standard hybrids, plug-in hybrids have a larger battery.\nGimbert said that European drivers might not be incentivized to drive it fully in electric mode.\n\u201cIt\u2019s actually 68 grams of CO2 per kilometer in electric mode, instead of being zero emission,\u201d Gimbert said.\nThe American Automobile Association thinks consumers might show more interest in hybrids and plug-in hybrids as electric vehicle demand continues to wane.",
     "category": "environment",
-    "bias": "lean left",
+    "bias": "left",
     "publishedAt": "2025-10-16T20:15:17Z",
     "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://gizmodo.com/geomagnetic-storm-watch-northern-lights-could-dazzle-15-states-tonight-2000673109",
+    "title": "Geomagnetic Storm Watch: Northern Lights Could Dazzle 15 States Tonight",
+    "summary": "Space weather forecasters expect them to arrive tonight and cause the northern lights\u2014or Aurora Borealis\u2014to stretch farther south than usual.\nNOAA\u2019s Space Weather Prediction Center issued a G2 (moderate) geomagnetic storm watch for Thursday, October 16, with the strongest impact expected between late Thursday night and Friday morning.\nNOAA\u2019s aurora forecast for tonight shows 15 states above the aurora view line, meaning they have a decent chance of seeing the northern lights.\nDepending on its severity, a geomagnetic storm may increase the likelihood of visible auroras, disrupt power grids, satellites, and other infrastructure, and cause radio blackouts.\nStill, geomagnetic storm impacts are difficult to predict due to the complexity of the Sun\u2019s processes and the evolving nature of CMEs.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2025-10-16T15:00:42Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cew418r5rxdo",
+    "title": "UK sanctions Russia's oil giants over Ukraine war",
+    "summary": "The UK government is also pursuing a major Indian oil refinery and four Chinese oil terminals in a package of 90 new sanctions.\nBritain is targeting Russia's largest oil companies and the country's \"shadow fleet\" of oil tankers in a bid to cut off Vladimir Putin's ability to fund the war in Ukraine.\nThe two Russian oil firms export 3.1 million barrels of oil per day.\nA Russian embassy spokesperson said: \"Attacks on leading Russian oil and gas companies destabilise global energy markets and ultimately hit consumers worldwide.\"\nThe US separately has discussed putting additional tariffs on goods from China, up to 500%, tied to Beijing's purchases of Russian oil.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-10-15T14:24:39Z",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/lawmakers-propose-game-changing-law-011500864.html",
+    "title": "Lawmakers propose game-changing law to combat skyrocketing electricity costs: 'Everyone should be able to benefit from it'",
+    "summary": "Lawmakers in New York are proposing a bill that would not only support solar energy but would also potentially help alleviate rising electricity costs.\nThe act aims to increase energy independence and affordability for more New Yorkers and reduce demand on the electric grid.\nPlug-in solar panels are small, easy-to-install systems that are not typically intended to provide massive amounts of power.\nPlug-in solar panels can also provide much-needed benefits to the environment by drastically reducing gas pollution and air pollutants from dirty fuel production, ultimately improving air quality.\nAdvertisement AdvertisementAdvertisement Advertisement\"Mass adoption of plug-in solar could also reduce demand on the grid, saving all ratepayers money by avoiding the need for costly grid upgrades.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-10-16T01:15:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.theverge.com/transportation/801780/gm-ev-battery-lab-lmr-range-cost",
+    "title": "The lab where GM is cooking up new EV batteries to beat China",
+    "summary": "GM says its affordable, more sustainable LMR batteries will decisively outperform China\u2019s best lithium iron phosphate (LFP) specimens \u2014 currently the world\u2019s favored low-cost solution.\nGM plans to keep on the EV offensive\u201cThis unlocks premium long-distance range at an affordable cost,\u201d says Andy Oury, a lead GM battery engineer.\nAmong North American automakers, GM placed early bets on building its own \u201chigh nickel\u201d or \u201cnickel rich\u201d batteries.\nChina\u2019s answer was those LFP batteries, which sparked that nation\u2019s EV revolution, especially for small budget models that dominate that market.\nThe Wallace lab can now produce up to 100 cells a day, and has created 26 variants of LMR cells in three form factors.",
+    "category": "environment",
+    "bias": "right",
+    "publishedAt": "2025-10-17T20:48:08Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://tech.slashdot.org/story/25/10/17/1948248/plug-in-hybrids-pollute-almost-as-much-as-petrol-cars-report-finds",
+    "title": "Plug-in Hybrids Pollute Almost As Much As Petrol Cars, Report Finds",
+    "summary": "",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2025-10-17T21:20:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "url": "https://hbr.org/sponsored/2025/10/what-happens-when-your-buildings-can-manage-themselves",
+    "title": "What Happens When Your Buildings Can Manage Themselves?",
+    "summary": "",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2025-10-17T19:19:49Z",
+    "source": "Harvard Business Review"
+  },
+  {
+    "url": "https://hardware.slashdot.org/story/25/10/17/2314242/first-look-at-the-amazons-nuclear-facility-planned-for-washington-state",
+    "title": "First Look at the Amazon's Nuclear Facility Planned For Washington State",
+    "summary": "",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2025-10-18T01:25:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "url": "https://gizmodo.com/the-original-manhattan-project-site-is-about-to-make-nuclear-history-again-2000672631",
+    "title": "The Original Manhattan Project Site Is About to Make Nuclear History Again",
+    "summary": "Oak Ridge, Tennessee, has a long history with nuclear power.\nIt\u2019s home to the Oak Ridge National Laboratory, the leading institution for nuclear research in the U.S., but more famously, the city was the production hub for materials used in the Manhattan Project.\nAnd now, Oak Ridge is set to host the world\u2019s first factory for mass-produced nuclear reactors.\n\u201cWhat was formerly the first Manhattan Project site will now be the site of the first portable nuclear generator production,\u201d Radiant CEO Doug Bernauer said in the statement.\nThat keeps the company \u201con track to deliver its first mass-produced Kaleidos nuclear generator by 2028,\u201d it said.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-10-15T15:25:15Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/walmart-employee-sparks-anger-online-100000736.html",
+    "title": "Walmart employee sparks anger online after sharing photo of dumpster outside store: 'Talk about a lot of waste'",
+    "summary": "In fact, the United Nations and various companies worldwide recognize food waste as a pressing issue due to its environmental impact.\nDespite the high levels of food waste, many people \u2014 around 1 in 10 Americans \u2014 experience food insecurity.\nWalmart has previously taken steps to reduce food waste, including partnerships with food banks and improving its recycling of food.\nSome businesses have implemented better refrigeration backup systems or partnered with local food charities to redistribute soon-to-expire goods.\nOn an individual level, reducing personal food waste and supporting local sustainability initiatives can help alleviate this pressing issue.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-10-16T10:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.wired.com/story/how-to-see-comet-lemmon-this-october/",
+    "title": "How to See Comet Lemmon This October",
+    "summary": "Follow-up observations revealed that the object was a comet visiting from the outer edge of the solar system, and it was named Comet Lemmon (C/2025 A6).\nAccording to NASA, Comet Lemmon will be closest to Earth around October 21, 2025, passing at a distance of about 0.60 astronomical units, or au (1 au is the distance between Earth and the sun).\nComet Lemmon is notable for its greenish tint.\nComet Lemmon (C/2025 A6) photographed in Slovenia in early October.\nPhotograph: Uro\u0161 FinkHow to View the CometAs of early October, Comet Lemmon can be found slightly below the handle in the Big Dipper (or the Plough, as it's known in the UK), which forms part of the Ursa Major constellation.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-10-17T09:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/officials-weigh-sweeping-ban-common-020000431.html",
+    "title": "Officials weigh sweeping ban on common item to protect iconic US oasis \u2014 here's what you need to know",
+    "summary": "Community leaders in California are weighing the benefits of outlawing certain single-use plastics in an effort to better protect the environment.\nExtruded polystyrene, more commonly known as Styrofoam, has long been the target of sweeping bans across the country because of its nonbiodegradable nature.\nIn addition to outright plastic bans, the promotion of sustainable alternatives can go a long way in reducing our reliance on fossil fuels.\nBans also raise awareness about single-use plastic waste and can encourage a shift toward a circular economy through increased use of recyclable or biodegradable materials.\nNo way Definitely Only certain tools I don't know Click your choice to see results and speak your mind.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-10-18T02:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/researchers-issue-warning-overlooked-factor-231500005.html",
+    "title": "Researchers issue warning about overlooked factor increasing heart disease risk \u2014 here's what you need to know",
+    "summary": "For decades, experts have warned that plastic pollution has been quietly infiltrating our air, water, and food.\nNow, researchers say it may be invading something even more personal \u2014 our arteries.\nA new study published in Cardiovascular Research warns that tiny plastic particles \u2014 microplastics and nanoplastics \u2014 may be emerging risk factors for heart disease.\nThese particles, which originate from the breakdown of plastic waste, have already been detected in the brain, lungs, liver, and bloodstream.\nNow, researchers say their findings on the buildup inside arteries could be reshaping how we understand and prevent heart disease.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-10-17T23:15:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.aljazeera.com/opinions/2025/10/17/clean-air-is-the-new-frontier-of-global-cooperation",
+    "title": "Clean air is the new frontier of global cooperation",
+    "summary": "Outdoor air pollution claims 5.7 million lives each year, and a report released last week highlights the lack of international development finance for clean air.\nThis year, we sought to treat the right to breathe clean air with the urgency it deserves.\nThe burden of air pollution is already visible in hospital admissions, school absenteeism, and productivity losses across the continent.\nThrough the National Air Quality Framework and the National Environmental Management Act, we have built a foundation for accountability and transparency in monitoring air quality.\nAdvertisementThe message from Cape Town is clear: clean air belongs at the top table.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-10-17T11:05:40Z",
+    "source": "Al Jazeera English"
   },
   {
     "url": "https://www.wired.com/review/jabra-enhance-select-700/",
@@ -52,32 +178,5 @@
     "bias": "lean left",
     "publishedAt": "2025-10-17T11:30:00Z",
     "source": "Wired"
-  },
-  {
-    "url": "https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting",
-    "title": "Pok\u00e9mon Legends: Z-A makes a big, welcome change for shiny hunters",
-    "summary": "Pok\u00e9mon Legends: Z-A hadn\u2019t been out even a few hours before the tweets started rolling in: Shiny pok\u00e9mon don\u2019t despawn.\nIn other Pok\u00e9mon games, like Scarlet and Violet, pok\u00e9mon despawn after you get a certain distance away from them or trigger a loading screen.\nYou can still miss out on shiny pok\u00e9mon in Z-A, but we\u2019ll get to that in a bit.\nFleeing pok\u00e9mon aside, the new shiny spawning mechanics are great for a game so heavy on roundabout, vertical, on-foot exploration.\nIt\u2019s a relief knowing that most shiny pok\u00e9mon will be waiting for you to reach them on your own terms.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-10-17T22:16:04Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.theverge.com/news/800104/amazon-fire-tv-stick-4k-plus-new-name",
-    "title": "Amazon\u2019s new name for the Fire TV Stick 4K only adds more confusion",
-    "summary": "Following the debut of Amazon\u2019s $39.99 Fire TV Stick 4K Select, the company told The Verge that a name change was coming to the existing \u201cFire TV Stick 4K\u201d to clarify where it sat in the lineup.\nNow, Amazon has introduced that new branding, relaunching the product as the Amazon Fire TV Stick 4K Plus.\nSure, the original name was confusing (is 4K better or worse than 4K Select?\nRelated Amazon picked up the Plus that Apple TV dropped this weekThe differences between Amazon\u2019s 4K-ready Fire TV Sticks are small.\nThe 4K Select includes half the RAM of the 4K Plus and the 4K Max, meaning it\u2019ll almost certainly be slower to navigate between menus and jump into apps.",
-    "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2025-10-15T18:45:07Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.scientificamerican.com/article/how-wood-vaulting-could-help-slow-climate-change/",
-    "title": "How \u2018Wood Vaulting\u2019 Could Help Slow Climate Change",
-    "summary": "How Wood Vaulting WorksThe concept is straightforward: instead of constructing massive machines to collect atmospheric carbon dioxide and inject it miles into the Earth\u2019s crust, wood vaulters simply divert materials from Earth\u2019s fast-paced biological carbon cycle into the much-slower geological carbon cycle.\nAs they await the axe, trees in logging-focused forests take up roughly 170 billion tons of carbon every year, 14 billion tons of which finds its way into wood.\nAnother start-up, Mast Reforestation, has buried burned trees on a plot of private land in Montana.\nClay\u2019s fine-grained structure ensures that little to no oxygen reaches buried wood, preventing bacteria from decomposing it.\nConstruction of the first trench of the world\u2019s first commercial-scale wood vault, near the Potomac River, where the equivalent of 100 metric tons of carbon dioxide were buried.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-10-16T11:00:00Z",
-    "source": "Scientific American"
   }
 ]
