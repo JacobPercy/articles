@@ -1,83 +1,74 @@
 [
   {
-    "url": "https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/",
-    "title": "'Happy Gilmore' Producer Buys Spyware Maker NSO Group",
-    "summary": "Under pressure from the Department of Justice, Apple removed a series of apps from its iOS App Store this month related to monitoring US Immigration and Customs Enforcement activity and archiving content related to ICE's actions.\nEach week, we round up the security and privacy news we didn\u2019t report in depth ourselves.\nUse of mercenary spyware has increased within some US federal government agencies since the beginning of the Trump administration.\nWorkers have been moved to agencies including Immigration and Customs Enforcement, Customs and Border Protection, and the Federal Protective Service.\nUS Immigration and Customs Enforcement inked a $825,000 contract in May with TechOps Specialty Vehicles (TOSV), a Maryland-based company that manufactures equipment and vehicles for law enforcement.",
+    "url": "https://gizmodo.com/welcome-to-the-jobless-growth-economy-2000673236",
+    "title": "Welcome to the \u2018Jobless Growth\u2019 Economy",
+    "summary": "America is entering an era of \u201cjobless growth,\u201d according to analysts at Goldman Sachs.\nThe memo, written by economists David Mericle and Pierfrancesco Mei and spotted by Fortune, warns that the current market of \u201cmodest job growth alongside robust GDP growth\u201d is likely the new normal going forward.\nThe thing about senior roles is that you need people with experience to fill them.\nThat hasn\u2019t materialized even a little thus far, but the idea that it will has severely messed up the job market.\nOne thing is for sure: AI is going to be transformative for the economy.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2025-10-11T10:30:00Z",
+    "publishedAt": "2025-10-17T12:30:59Z",
+    "source": "Gizmodo.com"
+  },
+  {
+    "url": "https://www.theverge.com/news/801205/new-york-rent-price-fixing-ban-software",
+    "title": "New York bans AI-enabled rent price fixing",
+    "summary": "is a NYC-based AI reporter and is currently supported by the Tarbell Center for AI Journalism.\nShe covers AI companies, policies, and products.\nKathy Hochul signed into law legislation banning the use of price-fixing software by landlords to set rental rates.\nNew York is the first state to outlaw algorithmic pricing by landlords, following a number of city-wide bans in Jersey City, Philadelphia, San Francisco, and Seattle.\nSoftware companies such as RealPage offer landlords algorithms that can set rental prices.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-10-16T21:24:52Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/",
+    "title": "Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor",
+    "summary": "Prices start at $325 for the carry-on version, $375 for the checked size, $395 for a larger checked version, or $995 for the entire family set.\nI am planning on using the carry-on version this weekend, and it easily paired with my iPhone.\n\u2014Adrienne SoFujifilm\u2019s New Instax Has Two CamerasCourtesy of FujifilmFujifilm announced the Instax Mini LiPlay+ this week, an update to its 2019 Mini LiPlay camera.\nThe Fujifilm Instax Mini LiPlay+ will be available later this month for $235.\nThe GrapheneOS developers do say that whichever phone it turns out to be, it will be similarly priced.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-10-18T10:00:00Z",
     "source": "Wired"
   },
   {
-    "url": "https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai",
-    "title": "New California law requires AI to tell you it\u2019s AI",
-    "summary": "A bill attempting to regulate the ever-growing industry of companion AI chatbots is now law in California, as of October 13th.\nGavin Newsom signed into law Senate Bill 243, billed as \u201cfirst-in-the-nation AI chatbot safeguards\u201d by state senator Steve Padilla.\n\u201cWe can continue to lead in AI and technology, but we must do it responsibly \u2014 protecting our children every step of the way.\nOur children\u2019s safety is not for sale.\u201dThe news comes after Governor Newsom officially signed Senate Bill 53, the landmark AI transparency bill that divided AI companies and made headlines for months, into law in California.\nIt\u2019s Steve Padilla, not Anthony Padilla.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-13T17:13:58Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.yahoo.com/news/articles/nobel-economist-warns-ai-dangers-194529501.html",
-    "title": "Nobel economist warns of AI dangers",
-    "summary": "A winner of this year\u2019s Nobel prize in economics warned Monday that artificial intelligence offers \"amazing possibilities\" but should be regulated because of its job-destroying potential.\nCalifornia Governor Gavin Newsom on Monday signed a first-of-its-kind law regulating interactions with AI chatbots, defying a push from the White House to leave the technology unchecked.\nThe third economist to honored Monday, American-Israeli Joel Mokyr, was more sanguine about the impact of AI on the labor market.\nMokyr won his Nobel for his work on identifying the \"prerequisites for sustained growth through technological progress.\"\nI said, 'Sure, sure, sure,'\" Howitt recalled.",
+    "url": "https://www.macrumors.com/2025/10/16/apple-ai-search-head-leaves-for-meta/",
+    "title": "Head of Apple's AI Search Project Leaves to Join Meta",
+    "summary": "Apple's artificial intelligence division has lost another senior executive, with Ke Yang, who was recently appointed to lead the company's AI-driven web search effort, departing for Meta, according to Bloomberg's Mark Gurman.\nYang had only recently taken over Apple's newly created Answers, Knowledge, and Information group, known internally as \"AKI.\"\nThe AKI project is said to be a central component of Apple's planned \u200cSiri\u200c overhaul, which is currently scheduled for release in March 2026.\nWith Yang's exit, the AKI team will now report to Benoit Dupin, one of Giannandrea's deputies responsible for Apple's machine learning infrastructure.\nMany of those departures were from the company's Foundation Models team, which is tasked with developing Apple's core generative AI models.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-10-13T19:45:29Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2025-10-16T10:24:34Z",
+    "source": "MacRumors"
   },
   {
-    "url": "https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips",
-    "title": "OpenAI partners with Broadcom to produce its own AI chips",
-    "summary": "is a London-based reporter at The Verge covering all things AI and Senior Tarbell Fellow.\nOpenAI is teaming up with Broadcom to produce its own computer chips to power its AI data centers.\nThe infrastructure partnerships have only recently become possible after OpenAI altered its exclusive arrangement with Microsoft for AI compute.\nCreating custom chips is part of a growing movement within the tech industry as major players like Meta, Google, and Microsoft work to bolster vital supply lines amid soaring demand and reduce their reliance on Nvidia\u2019s AI chips.\nTo date, custom chip projects have not posed a plausible threat to the chipmaking behemoth, though they have handsomely benefited other chipmakers like Broadcom.",
+    "url": "https://www.wired.com/story/bytedance-doubao-chatbot-popularity/",
+    "title": "How ByteDance Made China\u2019s Most Popular AI Chatbot",
+    "summary": "When Chinese AI startup DeepSeek became a global sensation in January, it not only shocked Silicon Valley but also startled ByteDance, TikTok\u2019s parent company.\nThe Chinese tech giant had already launched Doubao, its own flagship AI assistant app with tens of millions of users.\nBut when DeepSeek became the best-known Chinese AI company overnight, no one was talking about Doubao anymore.\nA little over two years since its launch, Doubao has quietly become the AI app that Chinese people\u2014particularly those who aren\u2019t very AI savvy\u2014are actually using.\n\u201cSome of the earliest Doubao users I heard of were my friends\u2019 grandmothers and aunties.\u201d",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-10-13T14:59:44Z",
-    "source": "The Verge"
+    "publishedAt": "2025-10-16T16:07:50Z",
+    "source": "Wired"
   },
   {
-    "url": "https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309",
-    "title": "TrumpRx Is a Narcissistic, AI-Generated Nightmare",
-    "summary": "The TrumpRx website was first launched on Friday and initially contained text that read: \u201cTune in to the Oval Office @5PM EST,\u201d according to the Internet Archive\u2019s Wayback Machine.\nThe president insisted during his press conference, which was livestreamed on YouTube, that it wasn\u2019t his idea to call the website TrumpRX.\nAnd the text on the one-page site includes snarky claims about him saving the day by supposedly lowering drug prices.\nPresident Trump is changing that with TrumpRx.\nAnd only time will tell whether TrumpRx actually does some good in the world.",
+    "url": "https://gizmodo.com/ai-wont-replace-jobs-tech-bros-want-you-terrified-2000670808",
+    "title": "AI Won\u2019t Replace Jobs, but Tech Bros Want You to Be Afraid It Will",
+    "summary": "During her tenure in the Biden administration, Khan was known for her firm regulatory stance against big tech monopolies.\n\u201cThe way that tech bosses motivated tech workers was appealing to their sense of mission,\u201d Doctorow said.\nMeanwhile, big tech companies are spending big and making record profits.\nThe AI bubble is worse than 2008If Doctorow\u2019s estimates are true, then AI won\u2019t take over any jobs.\n\u201cThere have been increasing discussion about how we may actually be just seeing a big AI bubble,\u201d the former FTC chair said.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-10-11T00:04:56Z",
+    "publishedAt": "2025-10-15T14:20:54Z",
     "source": "Gizmodo.com"
   },
   {
-    "url": "https://slashdot.org/story/25/10/13/1334226/openai-broadcom-forge-multibillion-dollar-chip-development-deal",
-    "title": "OpenAI, Broadcom Forge Multibillion-Dollar Chip-Development Deal",
-    "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-13T14:00:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "url": "https://www.cnet.com/tech/services-and-software/new-california-law-wants-companion-chatbots-to-tell-kids-to-take-breaks/",
-    "title": "New California Law Wants Companion Chatbots to Tell Kids to Take Breaks",
-    "summary": "AI companion chatbots will have to remind users in California that they're not human under a new law signed Monday by Gov.\nThe law, SB 243, also requires companion chatbot companies to maintain protocols for identifying and addressing cases in which users express suicidal ideation or self-harm.\nLast week, Newsom signed measures requiring internet browsers to make it easy for people to tell websites they don't want them to sell their data and banning loud advertisements on streaming platforms.\nAI companion chatbots have drawn particular scrutiny from lawmakers and regulators in recent months.\nOpenAI spokesperson Jamie Radice called the bill a \"meaningful move forward\" for AI safety.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-13T20:54:27Z",
-    "source": "CNET"
-  },
-  {
-    "url": "https://gizmodo.com/is-the-ai-conveyor-belt-of-capital-about-to-stop-2000671017",
-    "title": "Is the AI Conveyor Belt of Capital About to Stop?",
-    "summary": "Morgan Stanley investor Ruchir Sharma recently noted that money poured into AI investments now accounts for about 40% of the United States\u2019 GDP growth in 2025, and AI companies are responsible for 80% of growth in American stocks.\n\u201cIf that doesn\u2019t happen, if there is no real enterprise AI adoption, then it\u2019s all round-tripping,\u201d Jaluria said.\nWhere these investments are generating a return is in the stock market.\n\u201cIn many ways, we\u2019re seeing the same developing web of capital flows across the AI space.\u201dThis creates some obvious problems.\nTo talk about AI today, it means we have to talk about the credit market, we have to talk about the credit market.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2025-10-13T19:40:03Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.yankodesign.com/2025/10/12/designer-reimagines-ai-through-victorian-craft-philosophy/",
-    "title": "Designer Reimagines AI Through Victorian Craft Philosophy",
-    "summary": "This AI machine is unique not just because of its form but also because of its unconventional power source.\nUnlike mainstream language models, Park\u2019s system has been specifically trained on data relating to William Morris and his philosophies.\nThe designer has also created a portable version of his concept in the form of a hand-cranked box, which he brought to discussions at the William Morris Gallery.\nThrough this ingenious marriage of Victorian craftsmanship and cutting-edge AI, Park demonstrates that the future of artificial intelligence doesn\u2019t have to follow predetermined paths.\nPark\u2019s project offers a compelling perspective on alternative approaches to AI development .",
+    "url": "https://www.businessinsider.com/oxford-warns-ai-making-teens-faster-but-shallower-thinkers-2025-10",
+    "title": "AI is reshaping the teenage brain \u2014 and an Oxford study says it is making students faster, but shallower thinkers",
+    "summary": "Oxford researchers say teenagers are learning faster with AI \u2014 but losing the depth to think critically.\nOxford researchers say teenagers are learning faster with AI \u2014 but losing the depth to think critically.\nXinhua News Agency via Getty ImagesOxford researchers say teenagers are learning faster with AI \u2014 but losing the depth to think critically.\nXinhua News Agency via Getty ImagesArtificial intelligence is changing how a generation learns, and Oxford researchers say it could also be changing how they think.\nOxford researchers argued that education systems must evolve to teach with AI without letting students think like it.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2025-10-12T13:20:05Z",
-    "source": "Yanko Design"
+    "publishedAt": "2025-10-16T10:03:45Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/scale-ai-shutters-dallas-contractor-team-shift-to-expert-data-2025-10",
+    "title": "Scale AI cuts more contractors as it shifts toward more specialized AI training",
+    "summary": "Scale AI shuttered a team of contractors in its Dallas office on Monday, as it shifts towards more technical, expert-level training, the startup confirmed to Business Insider.\nThe cuts mark the latest shake-up since Meta took a stake in Scale AI in a $14.3 billion deal.\nBased in San Francisco, Scale AI helps tech companies improve their latest chatbots by doing things like rewriting their responses.\nScale AI offered the workers four weeks of severance pay and healthcare coverage through October, according to an email from HireArt, a staffing agency used extensively by Scale AI.\nxAI has also made similar moves to focus on specialized AI training, recently downsizing its team of generalist AI tutors in September.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-10-15T20:09:44Z",
+    "source": "Business Insider"
   }
 ]
