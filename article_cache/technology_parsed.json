@@ -31,7 +31,7 @@
     "title": "This startup uses AI agents to place people in jobs. Read the pitch deck it used to raise $20 million.",
     "summary": "A startup that's built AI agents to autonomously match job seekers with hiring companies has raised $20 million in funding.\nLondon-based Jack & Jill has developed two conversational AI agents for each side of the recruitment process.\nThe two AI agents can also interact with each other and make introductions over email.\nInvestors pumped $2.8 billion into agentic AI startups globally in the first half of 2025, according to Dealroom data.\nHere's an exclusive look at the pitch deck that Jack & Jill used to raise its $20 million seed round.",
     "category": "technology",
-    "bias": "left",
+    "bias": "lean left",
     "publishedAt": "2025-10-16T04:30:02Z",
     "source": "Business Insider"
   },
@@ -40,7 +40,7 @@
     "title": "Amazon faces a 'fundamental' shift in how AI startups spend on the cloud, internal documents show",
     "summary": "Internal documents obtained by Business Insider reveal that AWS has flagged a \"fundamental\" shift in how startups are allocating their cloud budgets.\nStartups continue to build on AWS, including leading AI startups such as Perplexity and Luma AI, which \"recently chose\" AWS, the spokesperson added.\nIt didn't mention specific neoclouds, but some of these newer AI cloud vendors include CoreWeave, Crusoe, Lambda Labs, and Nebius.\nIn July, Morgan Stanley estimated that Amazon could generate $5.6 billion in revenue by 2027 from Anthropic's use of AWS cloud services.\nSome of the money startups are channeling into new AI services likely flows back to major cloud providers that supply GPUs and other AI cloud infrastructure.",
     "category": "technology",
-    "bias": "left",
+    "bias": "lean left",
     "publishedAt": "2025-10-16T16:40:11Z",
     "source": "Business Insider"
   },
@@ -49,7 +49,7 @@
     "title": "Docusign CEO discusses the emerging capabilities of AI startups",
     "summary": "00:09 Speaker BYou know, Open AI is a hugely important partner for us.\nA lot of our AI is is built on theirs and and other uh frontier LLM models.\nIt's the most important data a company has and so I think those those three factors position us very well to help bring AI to agreements.\n01:32 Speaker AThe pace that uh in OpenAI is moving to uh release new products, update models, whatever it is.\nUh, we do that, I think Doy is going to be very well positioned in the long term.",
     "category": "technology",
-    "bias": "lean left",
+    "bias": "center",
     "publishedAt": "2025-10-17T11:27:52Z",
     "source": "Yahoo Entertainment"
   },
@@ -58,7 +58,7 @@
     "title": "Marc Benioff Warns in Dreamforce Keynote Firms Lag on AI Adoption",
     "summary": "Marc Benioff, CEO of Salesforce, believes that not enough companies have figured out how to effectively adopt AI.\nMarc Benioff, CEO of Salesforce, believes that not enough companies have figured out how to effectively adopt AI.\nYves Herman/REUTERSMarc Benioff, CEO of Salesforce, believes that not enough companies have figured out how to effectively adopt AI.\nYves Herman/REUTERSMarc Benioff doesn't think enough companies have figured out how to adopt AI.\n\"Customers are getting their head around how to deploy AI,\" Benioff, the CEO of Salesforce, told CNBC host Jim Cramer on Tuesday.",
     "category": "technology",
-    "bias": "right",
+    "bias": "lean right",
     "publishedAt": "2025-10-15T10:32:01Z",
     "source": "Business Insider"
   },
@@ -76,7 +76,7 @@
     "title": "New Pinterest Settings Let You Reduce How Much AI Slop You See on Your Feed",
     "summary": "Creating AI content is easier than ever now.\nImage-pinning site Pinterest will now allow you to do something about it.\nHow to reduce AI in your Pinterest feedYou can find the new settings in the home feed tuner section of your Pinterest account, where a new \"GenAI Interests\" tab will be.\nFrom there, users can limit the number of AI posts they see on their home feed by toggling the switch to the off position.\nIt's important to note that nowhere does it say that the new settings will eliminate the generated AI content, only reduce it in specific categories.",
     "category": "technology",
-    "bias": "left",
+    "bias": "lean left",
     "publishedAt": "2025-10-16T20:01:32Z",
     "source": "CNET"
   },
@@ -85,7 +85,7 @@
     "title": "Welcome to the \u2018Jobless Growth\u2019 Economy",
     "summary": "America is entering an era of \u201cjobless growth,\u201d according to analysts at Goldman Sachs.\nThe memo, written by economists David Mericle and Pierfrancesco Mei and spotted by Fortune, warns that the current market of \u201cmodest job growth alongside robust GDP growth\u201d is likely the new normal going forward.\nThe thing about senior roles is that you need people with experience to fill them.\nThat hasn\u2019t materialized even a little thus far, but the idea that it will has severely messed up the job market.\nOne thing is for sure: AI is going to be transformative for the economy.",
     "category": "technology",
-    "bias": "lean right",
+    "bias": "center",
     "publishedAt": "2025-10-17T12:30:59Z",
     "source": "Gizmodo.com"
   },
@@ -130,7 +130,7 @@
     "title": "The quants who built computer-run trading strategies aren't ready to hand it over to AI",
     "summary": "What's the latest edge in quant finance, which relies on math whizzes to drive computer-driven funds?\nIn an ironic twist, the people behind quant funds are using some of the same language human-run stockpickers and investors have used for decades to defend their style against computer-run alternatives.\n\"Human creativity\" is what will get quants ahead, said Amadeo Alentorn, head of systematic equities at Jupiter Asset Management, adding that there might be \"too much hype\" for what generative AI can do for investment management right now.\n\"By far the most important part of generative AI is the end user,\" said Timothee Consigny, CTO of H2O Asset Management, a Paris-based macro manager.\nNone other than Citadel founder Ken Griffin agrees with the assessment, saying at Wednesday's Robin Hood conference in New York that generative AI \"falls short\" when it comes to finding market-beating ideas, according to Bloomberg.",
     "category": "technology",
-    "bias": "left",
+    "bias": "lean left",
     "publishedAt": "2025-10-17T08:29:01Z",
     "source": "Business Insider"
   },
@@ -139,7 +139,7 @@
     "title": "How ByteDance Made China\u2019s Most Popular AI Chatbot",
     "summary": "When Chinese AI startup DeepSeek became a global sensation in January, it not only shocked Silicon Valley but also startled ByteDance, TikTok\u2019s parent company.\nThe Chinese tech giant had already launched Doubao, its own flagship AI assistant app with tens of millions of users.\nBut when DeepSeek became the best-known Chinese AI company overnight, no one was talking about Doubao anymore.\nA little over two years since its launch, Doubao has quietly become the AI app that Chinese people\u2014particularly those who aren\u2019t very AI savvy\u2014are actually using.\n\u201cSome of the earliest Doubao users I heard of were my friends\u2019 grandmothers and aunties.\u201d",
     "category": "technology",
-    "bias": "left",
+    "bias": "lean left",
     "publishedAt": "2025-10-16T16:07:50Z",
     "source": "Wired"
   },
@@ -148,7 +148,7 @@
     "title": "Here's the deck Dialogue AI used to land $6 million to transform $140 billion customer research industry",
     "summary": "Dialogue AI cofounders Justin Hoang, Hubert Chen, and Benjamin Lo are drawing on their experience at Nextdoor to reinvent market research.\nDialogue AI cofounders Justin Hoang, Hubert Chen, and Benjamin Lo are drawing on their experience at Nextdoor to reinvent market research.\nOn Friday, Dialogue AI, an AI-powered market research platform, launched with an aim to speed up the way companies conduct research \u2014 from designing studies and recruiting participants, to conducting interviews.\n\"We were basically conducting a lot of customer and user research,\" Lo told Business Insider.\nI think that's one of our visions \u2014 can we almost democratize market research,\" Hoang said.",
     "category": "technology",
-    "bias": "left",
+    "bias": "lean left",
     "publishedAt": "2025-10-17T16:44:47Z",
     "source": "Business Insider"
   },
