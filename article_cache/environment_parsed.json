@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look",
-    "title": "Amazon shares a \u2018first look\u2019 at new nuclear facility",
-    "summary": "Amazon shared some new details about its plans to help deploy more nuclear energy across Washington State, where the company is headquartered.\nA rendering of the Cascade Advanced Energy Facility.\nA rendering of the Cascade Advanced Energy Facility.\nCalled the Cascade Advanced Energy Facility, it\u2019ll include three sections with a combined capacity of 960 megawatts, about enough electricity to power 770,000 homes in the US.\nImage: X-energy via AmazonAmazon\u2019s blog post today says that the Cascade facility should create about 100 permanent jobs, as well as more than 1,000 construction jobs.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2025-10-16T22:35:54Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cx2lmnvj3n5o",
-    "title": "Red Tractor ad banned for misleading environmental claims",
-    "summary": "Red Tractor ad banned for misleading environmental claims4 days ago Share Save Esme Stallard Climate and science reporter, BBC News Share SaveRed Tractor The Red Tractor advert was last shown in 2023 but will now be banned for future use unless it is updatedA TV advert by Red Tractor, the UK's biggest certifier of farm products on supermarket shelves, has been banned for exaggerating the scheme's environmental benefits and misleading the public.\nBut Red Tractor called the watchdog's decision \"fundamentally flawed\" and argued that the scheme's focus was animal welfare not environmental standards.\nIn 2021, Red Tractor aired an advert in which it said: \"From field to store all our standards are met.\nIt said that Red Tractor had failed to provide \"sufficient evidence\" that its farms met \"basic\" environmental laws and had a good environmental outcome to substantiate the claims in the ad.\nJim Mosley, CEO of Red Tractor, told the BBC: \"They believe that we have implied an environmental claim.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-10-15T02:40:44Z",
-    "source": "BBC News"
-  },
-  {
     "url": "https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap",
     "title": "The US has a new roadmap for fusion energy, without the funds to back it up",
     "summary": "The Department of Energy (DOE) released a new roadmap for the US to realize the decades-long dream of harnessing fusion energy.\nIt\u2019s a commitment to support research and development efforts and pursue public-private partnerships to finally build the first generation of fusion power plants.\nNuclear fusion plants, in contrast, would fuse atoms together to generate energy in a controlled way.\nBoth Google and Microsoft have announced plans to purchase electricity from forthcoming fusion power plants that are supposed to be online by the late 2020s or 2030s.\nThe DOE dedicates an entire section of the roadmap to AI, which it calls a \u201ctransformative tool for fusion energy.\u201d Researchers can use AI models to construct \u201cdigital twins\u201d to more quickly study how experimental facilities would perform, the roadmap says as an example.",
@@ -45,40 +27,22 @@
     "source": "BBC News"
   },
   {
-    "url": "https://gizmodo.com/i-think-its-quite-a-scandal-plug-in-hybrids-not-as-climate-friendly-as-they-seem-researchers-say-2000673189",
-    "title": "\u2018I Think It\u2019s Quite a Scandal\u2019: Plug-in Hybrids Not as Climate-Friendly as They Seem, Researchers Say",
-    "summary": "In a new study published on Thursday, the researchers claim that plug-in hybrids actually only emit 19% less than cars with internal combustion engines.\nBut, unlike standard hybrids, plug-in hybrids have a larger battery.\nGimbert said that European drivers might not be incentivized to drive it fully in electric mode.\n\u201cIt\u2019s actually 68 grams of CO2 per kilometer in electric mode, instead of being zero emission,\u201d Gimbert said.\nThe American Automobile Association thinks consumers might show more interest in hybrids and plug-in hybrids as electric vehicle demand continues to wane.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-10-16T20:15:17Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://gizmodo.com/geomagnetic-storm-watch-northern-lights-could-dazzle-15-states-tonight-2000673109",
-    "title": "Geomagnetic Storm Watch: Northern Lights Could Dazzle 15 States Tonight",
-    "summary": "Space weather forecasters expect them to arrive tonight and cause the northern lights\u2014or Aurora Borealis\u2014to stretch farther south than usual.\nNOAA\u2019s Space Weather Prediction Center issued a G2 (moderate) geomagnetic storm watch for Thursday, October 16, with the strongest impact expected between late Thursday night and Friday morning.\nNOAA\u2019s aurora forecast for tonight shows 15 states above the aurora view line, meaning they have a decent chance of seeing the northern lights.\nDepending on its severity, a geomagnetic storm may increase the likelihood of visible auroras, disrupt power grids, satellites, and other infrastructure, and cause radio blackouts.\nStill, geomagnetic storm impacts are difficult to predict due to the complexity of the Sun\u2019s processes and the evolving nature of CMEs.",
+    "url": "https://www.bbc.com/weather/articles/c0jdp9wynn7o",
+    "title": "Rising temperatures are threatening UK trees - but these species could save our forests",
+    "summary": "Some of the United Kingdom's most valued trees are struggling to keep pace with climate change and increasing extreme weather.\n\"We are very concerned that changing conditions are putting our trees under significant stress,\" warns Dr Eleanor Tew from Forestry England.\nTo future-proof our forests, a 'species for the future' list has been released highlighting thirty trees likely to thrive in a warmer climate.\nIt includes familiar names like oak, birch, and alder, alongside less common species such as coast redwood and Corsican pine, which it is hoped will lead to a more resilient woodland.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2025-10-16T15:00:42Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cew418r5rxdo",
-    "title": "UK sanctions Russia's oil giants over Ukraine war",
-    "summary": "The UK government is also pursuing a major Indian oil refinery and four Chinese oil terminals in a package of 90 new sanctions.\nBritain is targeting Russia's largest oil companies and the country's \"shadow fleet\" of oil tankers in a bid to cut off Vladimir Putin's ability to fund the war in Ukraine.\nThe two Russian oil firms export 3.1 million barrels of oil per day.\nA Russian embassy spokesperson said: \"Attacks on leading Russian oil and gas companies destabilise global energy markets and ultimately hit consumers worldwide.\"\nThe US separately has discussed putting additional tariffs on goods from China, up to 500%, tied to Beijing's purchases of Russian oil.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-10-15T14:24:39Z",
+    "publishedAt": "2025-10-19T04:12:39Z",
     "source": "BBC News"
   },
   {
-    "url": "https://www.yahoo.com/news/articles/lawmakers-propose-game-changing-law-011500864.html",
-    "title": "Lawmakers propose game-changing law to combat skyrocketing electricity costs: 'Everyone should be able to benefit from it'",
-    "summary": "Lawmakers in New York are proposing a bill that would not only support solar energy but would also potentially help alleviate rising electricity costs.\nThe act aims to increase energy independence and affordability for more New Yorkers and reduce demand on the electric grid.\nPlug-in solar panels are small, easy-to-install systems that are not typically intended to provide massive amounts of power.\nPlug-in solar panels can also provide much-needed benefits to the environment by drastically reducing gas pollution and air pollutants from dirty fuel production, ultimately improving air quality.\nAdvertisement AdvertisementAdvertisement Advertisement\"Mass adoption of plug-in solar could also reduce demand on the grid, saving all ratepayers money by avoiding the need for costly grid upgrades.",
+    "url": "https://www.bbc.com/news/articles/c3vnr45x5qyo",
+    "title": "Government vows to create 400,000 jobs in clean energy sector",
+    "summary": "Government vows to create 400,000 jobs in energy sector1 day ago Share Save Pritti Mistry Business reporter Share SaveEd Miliband says 400,000 jobs is \"not a target, it's what we need\"The government has announced plans to train and recruit more workers for the UK's clean energy sector, promising to create 400,000 extra jobs by 2030.\nSpeaking on the BBC's Sunday with Laura Kuenssberg programme, Energy Secretary Ed Miliband said thousands of jobs were needed to develop Britain's clean energy sector to \"get bills down for good\".\nAs part of the government's strategy, five \"technical excellence colleges\" will be set up to train workers with clean energy skills, with \u00a32.5m in funding going towards pilot schemes in Cheshire, Lincolnshire, and Pembrokeshire, according to the Department for Energy Security and Net Zero (DESNZ).\nPA Media The Siemens wind turbine factory in Hull, where hundreds are employed, is \"booming\", a minister has saidThere would be also be tailored schemes for ex-offenders, school leavers and the unemployed.\nHe said 10,000 extra jobs would be needed to support the construction of the Sizewell C nuclear power station in Suffolk and described how the Siemen's wind turbine factory in Hull was \"booming\".",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-10-16T01:15:00Z",
-    "source": "Yahoo Entertainment"
+    "bias": "lean right",
+    "publishedAt": "2025-10-19T09:52:42Z",
+    "source": "BBC News"
   },
   {
     "url": "https://www.theverge.com/transportation/801780/gm-ev-battery-lab-lmr-range-cost",
@@ -90,11 +54,20 @@
     "source": "The Verge"
   },
   {
+    "url": "https://finance.yahoo.com/news/tesla-announces-bold-offer-entice-231500219.html",
+    "title": "Tesla announces bold new offer to entice buyers: 'Act now for the best deal'",
+    "summary": "The lease credit coincided with the expiration of the EV tax credit.\nThe company said that the lease credit is subject to change or end at any time.\nIn an apparent attempt to compensate for the profit loss from the lease credit, Tesla increased the prices of the Model 3 and Model Y by up to 11%.\nAlthough the EV tax credit has expired, there are still ways to save money when purchasing or leasing an EV.\nTesla's lease credit may help more widespread adoption of electric vehicles, which would greatly benefit the environment.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2025-10-18T23:15:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
     "url": "https://tech.slashdot.org/story/25/10/17/1948248/plug-in-hybrids-pollute-almost-as-much-as-petrol-cars-report-finds",
     "title": "Plug-in Hybrids Pollute Almost As Much As Petrol Cars, Report Finds",
-    "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
+    "summary": "If at first you don't succeed, you must be a programmer.",
     "category": "environment",
-    "bias": "lean left",
+    "bias": "center",
     "publishedAt": "2025-10-17T21:20:00Z",
     "source": "Slashdot.org"
   },
@@ -110,29 +83,20 @@
   {
     "url": "https://hardware.slashdot.org/story/25/10/17/2314242/first-look-at-the-amazons-nuclear-facility-planned-for-washington-state",
     "title": "First Look at the Amazon's Nuclear Facility Planned For Washington State",
-    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
+    "summary": "If at first you don't succeed, you must be a programmer.",
     "category": "environment",
-    "bias": "lean right",
+    "bias": "center",
     "publishedAt": "2025-10-18T01:25:00Z",
     "source": "Slashdot.org"
   },
   {
-    "url": "https://gizmodo.com/the-original-manhattan-project-site-is-about-to-make-nuclear-history-again-2000672631",
-    "title": "The Original Manhattan Project Site Is About to Make Nuclear History Again",
-    "summary": "Oak Ridge, Tennessee, has a long history with nuclear power.\nIt\u2019s home to the Oak Ridge National Laboratory, the leading institution for nuclear research in the U.S., but more famously, the city was the production hub for materials used in the Manhattan Project.\nAnd now, Oak Ridge is set to host the world\u2019s first factory for mass-produced nuclear reactors.\n\u201cWhat was formerly the first Manhattan Project site will now be the site of the first portable nuclear generator production,\u201d Radiant CEO Doug Bernauer said in the statement.\nThat keeps the company \u201con track to deliver its first mass-produced Kaleidos nuclear generator by 2028,\u201d it said.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-10-15T15:25:15Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.yahoo.com/news/articles/walmart-employee-sparks-anger-online-100000736.html",
-    "title": "Walmart employee sparks anger online after sharing photo of dumpster outside store: 'Talk about a lot of waste'",
-    "summary": "In fact, the United Nations and various companies worldwide recognize food waste as a pressing issue due to its environmental impact.\nDespite the high levels of food waste, many people \u2014 around 1 in 10 Americans \u2014 experience food insecurity.\nWalmart has previously taken steps to reduce food waste, including partnerships with food banks and improving its recycling of food.\nSome businesses have implemented better refrigeration backup systems or partnered with local food charities to redistribute soon-to-expire goods.\nOn an individual level, reducing personal food waste and supporting local sustainability initiatives can help alleviate this pressing issue.",
+    "url": "https://www.businessinsider.com/moved-kids-family-big-city-to-rural-small-town-2025-10",
+    "title": "We Moved Our Kids From a Big City to a Rural Town; Our Life Is Great",
+    "summary": "The author, shown with her family, says moving from a big city to a small town was one of the best decisions her family has made.\nThe author, shown with her family, says moving from a big city to a small town was one of the best decisions her family has made.\nCourtesy of Kathy LarsonThe author, shown with her family, says moving from a big city to a small town was one of the best decisions her family has made.\nWe were also concerned about leaving the great restaurants and things to do in the big city we had called home for 18 years.\nAnd we didn't know what to expect when it came to the small town everybody-knows-everybody's-business thing.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2025-10-16T10:00:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2025-10-19T10:36:01Z",
+    "source": "Business Insider"
   },
   {
     "url": "https://www.wired.com/story/how-to-see-comet-lemmon-this-october/",
@@ -171,6 +135,15 @@
     "source": "Al Jazeera English"
   },
   {
+    "url": "https://www.yahoo.com/entertainment/celebrity/articles/john-travolta-speaks-disgusting-photo-002500713.html",
+    "title": "John Travolta speaks out after 'disgusting' photo of home sparked outrage online: 'It's a practical reason'",
+    "summary": "Aside from the lavish lifestyle, a conversation can be had about what private jet travel represents in a time of major pollution concerns.\nThis use of private planes directly impacts the changing climate.\nThe ripple effect from rising global temperatures results in extreme weather events such as destructive storms, longer droughts, and severe wildfires.\nBezos bought his fourth private jet for $80 million in direct contradiction to Amazon's public stance on its environmentally friendly goals.\nAdvertisement AdvertisementAdvertisement AdvertisementWhen the planet is experiencing extreme weather events due to human-caused rising global temperatures, indulgence to this degree may be less practical and more harmful.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2025-10-19T00:25:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
     "url": "https://www.wired.com/review/jabra-enhance-select-700/",
     "title": "Jabra Enhance Select 700 Review: Still Great Hearing Aids",
     "summary": "So what is it about the Enhance Select 700 aids that makes them 200 better than the Select 500?\nThe big sell is a new audio feature called SoundScape Auto Focus.\nI struggled a bit with Auto Focus when I first started using the Enhance Select 700, as I had trouble hearing my wife in a restaurant playing loudish music over the PA\u2014exactly the scenario Auto Focus was designed for.\nThe bottom line is that if you\u2019re happy with your Enhance Select 500 (or 300), there is absolutely no need to rush to upgrade to the Select 700.\nFor that reason, the Jabra Enhance Select 300 remains my top pick for over-the-counter hearing aids, with the 700 making for a compelling product if price is no object.",
@@ -178,5 +151,32 @@
     "bias": "lean left",
     "publishedAt": "2025-10-17T11:30:00Z",
     "source": "Wired"
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/officials-stunned-crucial-water-supply-110000653.html",
+    "title": "Officials stunned as crucial water supply recovers from months of abysmal drought \u2014 here's what's happening",
+    "summary": "Gangneung, Korea, is finally showing signs of recovery after one of the worst droughts in decades.\nOverall, 45,000 households were limited to two hours of water usage a day, with additional hours on the weekends.\nAdvertisement AdvertisementAdvertisement AdvertisementDroughts affect far more than farming and agriculture, and they're happening all across the globe in historical fashion.\nWith 2025 predicted to be the hottest and deadliest year to date, human health is at risk as food and water supplies are threatened.\nThe intensity and frequency of droughts and other extreme weather events can be linked to human activity, warming the Earth.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-10-18T11:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.theverge.com/games/800733/easy-delivery-co-review-steam",
+    "title": "Easy Delivery Co. is a cozy, Lynchian dream",
+    "summary": "Image: Oro InteractiveIf I have one glaring issue with Easy Delivery Co., it\u2019s the balance between direction and freedom.\nThough that, I think, comes from a desire to spend more time in Easy Delivery Co.\u2019s eerier side.\nIt\u2019s a sign of how versatile Easy Delivery Co. can be, however.\nI might be biased, if only because Easy Delivery Co. feels like it\u2019s been developed from a Venn diagram of my specific interests (especially adorably proportioned motor vehicles).\nEasy Delivery Co. is available now on Steam.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2025-10-17T17:21:32Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://www.yahoo.com/news/articles/scientists-raise-alarm-over-common-100000320.html",
+    "title": "Scientists raise alarm over common yet 'deeply concerning' practice for pet owners: 'That doesn't sound healthy to me'",
+    "summary": "For a pet owner who wants to keep their dog or cat free of fleas, flea treatments seem like a good idea.\nMany flea treatments, especially those by prescription, do not contain either ingredient; The New York Times recently published an unrelated list of common flea treatments and their active ingredients here.\nMany veterinarians have already been advising dog owners against using flea treatments such as Frontline for this reason for years, and the new study helps to reinforce that.\nPet owners will also be upset to learn that they are accidentally polluting our rivers by using these products.\"\nAnd unfortunately, it seems that flea treatments are a much larger contributor than previously thought.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-10-19T10:00:00Z",
+    "source": "Yahoo Entertainment"
   }
 ]

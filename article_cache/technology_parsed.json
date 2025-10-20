@@ -1,14 +1,5 @@
 [
   {
-    "url": "https://www.businessinsider.com/jensen-huang-hot-ai-startups-nvidia-vibe-coding-cursor-openai-2025-10",
-    "title": "Jensen Huang name-checks 6 AI companies \u2014 and says 100% of Nvidia engineers use one of them",
-    "summary": "Nvidia CEO Jensen Huang name-dropped six startups playing in the AI agent space.\npicture alliance via Getty ImagesNvidia CEO Jensen Huang name-dropped six startups playing in the AI agent space.\nImpact LinkSix AI startups are part of Jensen Huang's vision for human-digital workforces.\nAI agents break down a task into multiple smaller steps, each tackling a specific part to achieve a broader objective.\nSome AI agents are going to manage humans,\" he said on a podcast appearance.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-15T08:57:52Z",
-    "source": "Business Insider"
-  },
-  {
     "url": "https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap",
     "title": "The US has a new roadmap for fusion energy, without the funds to back it up",
     "summary": "The Department of Energy (DOE) released a new roadmap for the US to realize the decades-long dream of harnessing fusion energy.\nIt\u2019s a commitment to support research and development efforts and pursue public-private partnerships to finally build the first generation of fusion power plants.\nNuclear fusion plants, in contrast, would fuse atoms together to generate energy in a controlled way.\nBoth Google and Microsoft have announced plans to purchase electricity from forthcoming fusion power plants that are supposed to be online by the late 2020s or 2030s.\nThe DOE dedicates an entire section of the roadmap to AI, which it calls a \u201ctransformative tool for fusion energy.\u201d Researchers can use AI models to construct \u201cdigital twins\u201d to more quickly study how experimental facilities would perform, the roadmap says as an example.",
@@ -27,24 +18,6 @@
     "source": "The Verge"
   },
   {
-    "url": "https://www.businessinsider.com/jack-jill-startup-funding-pitch-deck-ai-recruitment-2025-10",
-    "title": "This startup uses AI agents to place people in jobs. Read the pitch deck it used to raise $20 million.",
-    "summary": "A startup that's built AI agents to autonomously match job seekers with hiring companies has raised $20 million in funding.\nLondon-based Jack & Jill has developed two conversational AI agents for each side of the recruitment process.\nThe two AI agents can also interact with each other and make introductions over email.\nInvestors pumped $2.8 billion into agentic AI startups globally in the first half of 2025, according to Dealroom data.\nHere's an exclusive look at the pitch deck that Jack & Jill used to raise its $20 million seed round.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-16T04:30:02Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10",
-    "title": "Amazon faces a 'fundamental' shift in how AI startups spend on the cloud, internal documents show",
-    "summary": "Internal documents obtained by Business Insider reveal that AWS has flagged a \"fundamental\" shift in how startups are allocating their cloud budgets.\nStartups continue to build on AWS, including leading AI startups such as Perplexity and Luma AI, which \"recently chose\" AWS, the spokesperson added.\nIt didn't mention specific neoclouds, but some of these newer AI cloud vendors include CoreWeave, Crusoe, Lambda Labs, and Nebius.\nIn July, Morgan Stanley estimated that Amazon could generate $5.6 billion in revenue by 2027 from Anthropic's use of AWS cloud services.\nSome of the money startups are channeling into new AI services likely flows back to major cloud providers that supply GPUs and other AI cloud infrastructure.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-16T16:40:11Z",
-    "source": "Business Insider"
-  },
-  {
     "url": "https://finance.yahoo.com/video/docusign-ceo-discusses-emerging-capabilities-112752991.html",
     "title": "Docusign CEO discusses the emerging capabilities of AI startups",
     "summary": "00:09 Speaker BYou know, Open AI is a hugely important partner for us.\nA lot of our AI is is built on theirs and and other uh frontier LLM models.\nIt's the most important data a company has and so I think those those three factors position us very well to help bring AI to agreements.\n01:32 Speaker AThe pace that uh in OpenAI is moving to uh release new products, update models, whatever it is.\nUh, we do that, I think Doy is going to be very well positioned in the long term.",
@@ -52,15 +25,6 @@
     "bias": "center",
     "publishedAt": "2025-10-17T11:27:52Z",
     "source": "Yahoo Entertainment"
-  },
-  {
-    "url": "https://www.businessinsider.com/salesforce-ceo-says-ai-innovation-is-far-exceeding-customer-adoption-2025-10",
-    "title": "Marc Benioff Warns in Dreamforce Keynote Firms Lag on AI Adoption",
-    "summary": "Marc Benioff, CEO of Salesforce, believes that not enough companies have figured out how to effectively adopt AI.\nMarc Benioff, CEO of Salesforce, believes that not enough companies have figured out how to effectively adopt AI.\nYves Herman/REUTERSMarc Benioff, CEO of Salesforce, believes that not enough companies have figured out how to effectively adopt AI.\nYves Herman/REUTERSMarc Benioff doesn't think enough companies have figured out how to adopt AI.\n\"Customers are getting their head around how to deploy AI,\" Benioff, the CEO of Salesforce, told CNBC host Jim Cramer on Tuesday.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-10-15T10:32:01Z",
-    "source": "Business Insider"
   },
   {
     "url": "https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/",
@@ -72,15 +36,6 @@
     "source": "Wired"
   },
   {
-    "url": "https://www.cnet.com/news/social-media/new-pinterest-settings-let-you-reduce-how-much-ai-slop-you-see-on-your-feed/",
-    "title": "New Pinterest Settings Let You Reduce How Much AI Slop You See on Your Feed",
-    "summary": "Creating AI content is easier than ever now.\nImage-pinning site Pinterest will now allow you to do something about it.\nHow to reduce AI in your Pinterest feedYou can find the new settings in the home feed tuner section of your Pinterest account, where a new \"GenAI Interests\" tab will be.\nFrom there, users can limit the number of AI posts they see on their home feed by toggling the switch to the off position.\nIt's important to note that nowhere does it say that the new settings will eliminate the generated AI content, only reduce it in specific categories.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-16T20:01:32Z",
-    "source": "CNET"
-  },
-  {
     "url": "https://gizmodo.com/welcome-to-the-jobless-growth-economy-2000673236",
     "title": "Welcome to the \u2018Jobless Growth\u2019 Economy",
     "summary": "America is entering an era of \u201cjobless growth,\u201d according to analysts at Goldman Sachs.\nThe memo, written by economists David Mericle and Pierfrancesco Mei and spotted by Fortune, warns that the current market of \u201cmodest job growth alongside robust GDP growth\u201d is likely the new normal going forward.\nThe thing about senior roles is that you need people with experience to fill them.\nThat hasn\u2019t materialized even a little thus far, but the idea that it will has severely messed up the job market.\nOne thing is for sure: AI is going to be transformative for the economy.",
@@ -88,15 +43,6 @@
     "bias": "center",
     "publishedAt": "2025-10-17T12:30:59Z",
     "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.businessinsider.com/anthropic-cpo-companies-success-metrics-avoid-ai-fomo-2025-10",
-    "title": "Anthropic CPO says 'AI FOMO' pushed companies to use the technology. Now, they want success metrics",
-    "summary": "On the \"Superhuman AI: Decoding the Future\" podcast, Krieger said that companies are starting to measure the productivity of these tools, rather than blindly investing.\nRelated stories Business Insider tells the innovative stories you want to know Business Insider tells the innovative stories you want to knowGoogle CEO Sundar Pichai said in June that AI had created a 10% boost in engineering velocity.\nTwo years ago, Krieger said that many AI tools didn't have metrics attached to them at all.\n\"They were driven by this AI FOMO that was happening in the the CIO suite,\" he said.\nUsage metrics are booming, as bosses look more closesly at which workers are using AI tools and which are falling behind.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-10-15T15:21:45Z",
-    "source": "Business Insider"
   },
   {
     "url": "https://www.businessinsider.com/spotify-ai-tools-copyright-infringement-big-tech-openai-anthropic-2025-10",
@@ -135,13 +81,13 @@
     "source": "Business Insider"
   },
   {
-    "url": "https://www.wired.com/story/bytedance-doubao-chatbot-popularity/",
-    "title": "How ByteDance Made China\u2019s Most Popular AI Chatbot",
-    "summary": "When Chinese AI startup DeepSeek became a global sensation in January, it not only shocked Silicon Valley but also startled ByteDance, TikTok\u2019s parent company.\nThe Chinese tech giant had already launched Doubao, its own flagship AI assistant app with tens of millions of users.\nBut when DeepSeek became the best-known Chinese AI company overnight, no one was talking about Doubao anymore.\nA little over two years since its launch, Doubao has quietly become the AI app that Chinese people\u2014particularly those who aren\u2019t very AI savvy\u2014are actually using.\n\u201cSome of the earliest Doubao users I heard of were my friends\u2019 grandmothers and aunties.\u201d",
+    "url": "https://www.theverge.com/column/802022/ai-sexting-openai-chatbot-chatgpt",
+    "title": "The AI sexting era has arrived",
+    "summary": "An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.\nFor more on AI and the industry\u2019s power dynamics and societal implications, follow Hayden Field.\nHis AI startup, xAI, rolled out \u201ccompanion\u201d avatars, including an anime-style woman and man, over the summer.\nGavin Newsom signed into law Senate Bill 243, billed as the \u201cfirst-in-the-nation AI chatbot safeguards\u201d by State Sen. Steve Padilla.\nThe news went wide, with some social media users meme-ifying it to no end, mocking the company for \u201cpivoting\u201d from its AGI mission to erotica.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-16T16:07:50Z",
-    "source": "Wired"
+    "bias": "left",
+    "publishedAt": "2025-10-17T23:25:55Z",
+    "source": "The Verge"
   },
   {
     "url": "https://www.businessinsider.com/dialogue-ai-pitch-deck-seed-round-market-research-2025-10",
@@ -153,30 +99,84 @@
     "source": "Business Insider"
   },
   {
-    "url": "https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/",
-    "title": "The AI Industry\u2019s Scaling Obsession Is Headed for a Cliff",
-    "summary": "A new study from MIT suggests the biggest and most computationally intensive AI models may soon offer diminishing returns compared to smaller models.\nBy mapping scaling laws against continued improvements in model efficiency, the researchers found that it could become harder to wring leaps in performance from giant models whereas efficiency gains could make models running on more modest hardware increasingly capable over the next decade.\nThompson says the results show the value of honing an algorithm as well as scaling up compute.\nThe study is particularly interesting given today\u2019s AI infrastructure boom (or should we say \u201cbubble\u201d?\nOpenAI and other US tech firms have signed hundred-billion-dollar deals to build AI infrastructure in the United States.",
+    "url": "https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram",
+    "title": "Meta\u2019s Instagram is adding parental AI chatbot controls next year",
+    "summary": "After enthusiastically rolling AI chatbots out everywhere, Meta has announced new options for parents to get an idea of how teens are chatting with the digital characters and set some limits on use.\nThe new controls will let parents stop their children from speaking with AI chatbots entirely or block access to specific characters they don\u2019t like, Instagram lead Adam Mosseri and Meta chief AI officer Alexandr Wang wrote in a blog post announcing the changes on Friday.\nMeta\u2019s AI assistant is a notable exception to this rule.\nFrom Meta\u2019s description, it looks like the \u201cinsights\u201d will take the form of a high-level summary of \u201cthe topics their teens are chatting about with AI characters\u201d and Meta\u2019s AI assistant.\nIt comes on the heels of another major update pushed only this week that limits what content teen Instagram accounts can view, in line with what you\u2019d see in a PG-13 movie.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2025-10-15T18:00:00Z",
+    "publishedAt": "2025-10-17T09:52:29Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://www.businessinsider.com/marc-andreessen-ai-hollywood-movies-2025-10",
+    "title": "Marc Andreessen says AI will give rise to a new type of filmmaker: 'That's a reason for profound optimism'",
+    "summary": "Legendary investor and movie buff Marc Andreessen doesn't think that will be an issue for future creatives.\nAndreessen said AI has made the art of filmmaking more accessible to people who may have creative skills but lack the financial resources or technical expertise.\nOn Thursday, Spotify announced a partnership with major record labels and music companies to develop \"artist-first AI music products.\"\n\"If the music industry doesn't lead in this moment, AI-powered innovation will happen elsewhere, without rights, consent, or compensation.\"\nRepresentatives for Andreessen Horowitz did not respond to a request for comment from Business Insider.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-10-17T20:01:11Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/broadcom-layoffs-rifs-cuts-sales-staff-ai-expansion-2025-10",
+    "title": "$1.65 trillion chip giant Broadcom cuts staff in units like sales and accounts",
+    "summary": "lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nThe $1.65 trillion chip giant Broadcom cut staff earlier this week.\nThe cuts on Thursday affected staff largely in sales, as well as customer success, account management, and solutions, according to LinkedIn posts and a person familiar with the matter.\nBroadcom has been making rolling cuts at the company, including at software firm VMware, which it acquired in late 2023.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-10-18T00:48:57Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://tech.slashdot.org/story/25/10/17/1011256/army-general-says-hes-using-ai-to-improve-decision-making",
+    "title": "Army General Says He's Using AI To Improve 'Decision-Making'",
+    "summary": "If at first you don't succeed, you must be a programmer.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-10-17T15:20:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "url": "https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/",
+    "title": "Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor",
+    "summary": "Prices start at $325 for the carry-on version, $375 for the checked size, $395 for a larger checked version, or $995 for the entire family set.\nI am planning on using the carry-on version this weekend, and it easily paired with my iPhone.\n\u2014Adrienne SoFujifilm\u2019s New Instax Has Two CamerasCourtesy of FujifilmFujifilm announced the Instax Mini LiPlay+ this week, an update to its 2019 Mini LiPlay camera.\nThe Fujifilm Instax Mini LiPlay+ will be available later this month for $235.\nThe GrapheneOS developers do say that whichever phone it turns out to be, it will be similarly priced.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-10-18T10:00:00Z",
     "source": "Wired"
   },
   {
-    "url": "https://gizmodo.com/ai-wont-replace-jobs-tech-bros-want-you-terrified-2000670808",
-    "title": "AI Won\u2019t Replace Jobs, but Tech Bros Want You to Be Afraid It Will",
-    "summary": "During her tenure in the Biden administration, Khan was known for her firm regulatory stance against big tech monopolies.\n\u201cThe way that tech bosses motivated tech workers was appealing to their sense of mission,\u201d Doctorow said.\nMeanwhile, big tech companies are spending big and making record profits.\nThe AI bubble is worse than 2008If Doctorow\u2019s estimates are true, then AI won\u2019t take over any jobs.\n\u201cThere have been increasing discussion about how we may actually be just seeing a big AI bubble,\u201d the former FTC chair said.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-15T14:20:54Z",
-    "source": "Gizmodo.com"
-  },
-  {
-    "url": "https://www.cnet.com/tech/computing/meta-ray-ban-display-glasses-review-my-life-as-a-cyborg/",
-    "title": "Meta Ray-Ban Display Glasses Review: Halfway to the Future",
-    "summary": "Numi Prasarn/CNETAs they currently exist, the Meta display glasses I review here are not as useful as a smartwatch or as good a value as display-free smart glasses, such as the standard Meta Ray-Bans.\nThe tiny screen embedded in Meta's Ray-Ban Display glasses is only visible to the wearer.\nThe display in Meta's Display Glasses isn't as capable as a VR headset or Tony Stark specs, however.\nMeta Ray-Ban Display glasses on my face, transition lenses activating.\n(Shot on Meta Ray-Ban Display glasses and cropped.)",
+    "url": "https://www.businessinsider.com/bi-today-sunday-newsletter-ai-gig-economy-2025-10",
+    "title": "The AI revolution's next casualty could be the gig economy",
+    "summary": "lighning bolt icon An icon in the shape of a lightning bolt.\nShuji Kajiyama/AP ImagesThe gig economy is facing a reckoning.\nBoth moves point toward the same future: one where the very workers who built the gig economy may soon find themselves training the technology that replaces them.\nBy helping Uber strengthen its AI, drivers could be accelerating the very driverless world they fear.\nStill, he has warned that the eventual decline of driving jobs poses a significant societal challenge to the gig economy.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2025-10-16T12:00:06Z",
+    "publishedAt": "2025-10-19T10:45:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai",
+    "title": "Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive",
+    "summary": "Anthropic is integrating its Claude AI assistant with Microsoft 365 services so it can surface content from Word documents, Teams messages, and Outlook emails in conversations with the chatbot.\nClaude will now connect with Microsoft SharePoint and OneDrive to search and analyze documents without you needing to upload them manually.\nThe Microsoft Outlook integration with Claude lets the chatbot access email threads and analyze communications to surface relevant context in its answers.\nThe Claude and Microsoft 365 integration works by using a Model Context Protocol (MCP) connector, Anthropic\u2019s open-source standard for connecting AI applications to other data sources and apps.\nMicrosoft has also been increasingly relying on Anthropic AI models to improve its Microsoft 365 apps.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-10-17T08:53:02Z",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://www.businessinsider.com/bcg-how-companies-deploy-ai-advice-steven-mills-2025-10",
+    "title": "There's one key thing companies must do when they bring AI into the workplace, BCG's AI ethics officer says",
+    "summary": "\"What we found is that employees want about five hours of hands-on training, and coaching, and mentoring,\" Boston Consulting Group Global Chief AI Ethics Officer Steven Mills told Business Insider.\nMills, who spoke to Business Insider on the sidelines of Semafor's World Economic Summit, said the real value starts once employees see what AI can do.\nLast month, BCG released a report that found that only 5% of companies are deriving value from AI.\nAt BCG, Mills works with governments worldwide.\nLeading AI companies, including OpenAI, which partners with BCG, Anthropic, Meta, Google, and Microsoft, have offered their AI agents at almost no cost to federal agencies.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-10-18T12:06:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.cnet.com/tech/mobile/agentic-ai-is-here-to-improve-your-life-you-just-have-to-believe-in-it/",
+    "title": "Agentic AI Is Here to Improve Your Life, You Just Have to Believe in It",
+    "summary": "Lining up the right LLMs and hardware is part of paving the way for AI agents.\nBut it'll take a lot of familiarization for people to understand how to use AI agents and become accustomed to them.\nAI agents could help people become power users of their devices without digging deep into their settings.\nWhether those AI capabilities, combined with performance improvements over last year's chip, will herald an era of AI agents on PCs has yet to be seen.\nPeople will ask questions on phones, and the AI agent will run through one or more LLMs to get the answers.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-10-17T20:16:00Z",
     "source": "CNET"
   }
 ]
