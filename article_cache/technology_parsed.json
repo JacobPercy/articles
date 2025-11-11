@@ -1,182 +1,182 @@
 [
   {
-    "url": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems",
-    "title": "AI browsers are a cybersecurity time bomb",
-    "summary": "Flaws discovered in Comet could allow attackers to hijack the browser\u2019s AI with hidden instructions.\nWith AI browsers, the threats are numerous.\nWith AI browsers, \u201cthe biggest immediate threat is the market rush,\u201d Haddadi says.\n\u201cThese agentic browsers have not been thoroughly tested and validated.\u201dBut AI browsers\u2019 defining feature, AI, is where the worst threats are brewing.\nFor some threats, experts say the only real way to keep safe using AI browsers is to simply avoid the marquee features entirely.",
+    "url": "https://www.theverge.com/policy/816882/cisa-cybersecurity-elections-infrastructure-shutdown",
+    "title": "America\u2019s cybersecurity defenses are cracking",
+    "summary": "Arizona Secretary of State Adrian Fontes\u2019 office took action to contain the threat, which he says did not impact personal voter information.\nBut one thing he didn\u2019t do was contact the federal agency that would have once been among Fontes\u2019 first calls: the Cybersecurity and Infrastructure Security Agency (CISA).\nCISA, housed within the Department of Homeland Security (DHS), is America\u2019s central coordinator of cybersecurity information.\nEarlier this year, DHS moved to disband a public-private partnership that gave utilities legal cover to share more sensitive security information with the government.\n\u201cWe do not do these kinds of cuts and everything\u2019s fine\u201dThe Trump administration has denied CISA is having problems.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-10-30T15:53:23Z",
+    "bias": "left",
+    "publishedAt": "2025-11-07T22:36:39Z",
     "source": "The Verge"
   },
   {
-    "url": "https://www.businessinsider.com/sequoia-partner-ai-gold-rush-experimental-revenue-alfred-lin-2025-10",
-    "title": "A Sequoia partner says a lot of the AI industry's revenue is 'experimental'",
-    "summary": "Sequoia partner Alfred Lin says the AI boom could be fueled by \"experimental revenue\" that might not last.\nSequoia partner Alfred Lin says the AI boom could be fueled by \"experimental revenue\" that might not last.\nBig Event Media/Getty Images for HumanX ConferenceSequoia partner Alfred Lin says the AI boom could be fueled by \"experimental revenue\" that might not last.\nImpact LinkWhile AI startups are riding a wave of record valuations, a Sequoia Capital partner said investors should examine the numbers more closely.\n\"A lot of founders know it's a joke, but they don't have any problems just taking whatever month's revenue is, that's all pilot revenue, and multiplying by 12,\" he said.",
+    "url": "https://www.businessinsider.com/5-ai-powered-consulting-startups-aily-promptql-profound-dialogue-2025-10",
+    "title": "4 AI-powered consulting startups to watch into 2026",
+    "summary": "lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nOver the past year, a new wave of consulting tech startups has emerged in Silicon Valley.\nBusiness Insider asked a handful of investors to identify a few of the most promising startups to watch in this emerging category of consulting tech.\nHere are four AI-powered consulting startups to watch, according to five investors who are backing them.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-29T06:33:51Z",
+    "bias": "center",
+    "publishedAt": "2025-11-07T10:41:01Z",
     "source": "Business Insider"
   },
   {
-    "url": "https://www.bbc.com/news/articles/cq6z8r7n6d1o",
-    "title": "NHS to offer same-day prostate cancer diagnosis",
-    "summary": "NHS to offer same-day prostate cancer diagnosisAround one in eight men will develop prostate cancer in their lives, according to Prostate Cancer UK, with research showing it has overtaken breast cancer as the most commonly diagnosed form of the disease in the UK.\nMen with suspected prostate cancer will be able to get a diagnosis from the NHS within a day, under a new trial hailed as a potential \"game changer\" for identifying and treating the disease.\nBut unlike breast cancer, there is currently no national screening programme for prostate cancer.\nAccording to the National Prostate Cancer Audit, 58,218 men were diagnosed with prostate cancer in England in 2024 - with a rise of more than 5000 diagnoses from the year prior.\nThe announcement of the trial precedes the release of the government's National Cancer Plan, expected later this year.",
+    "url": "https://www.businessinsider.com/cisco-innovation-officer-says-humanities-skills-are-critical-ai-era-2025-11",
+    "title": "Cisco Innovation Exec Says These Skills Are Critical in AI Era",
+    "summary": "This as-told-to essay is based on a conversation with Guy Diedrich, Cisco's global innovation officer, based in Austin.\nI left academia in 2014, but there's been a 24% drop in interest in the humanities between 2012 and 2022.\nThe option will be there to do just about anything, which raises questions about ethics, philosophy, and problem-solving.\nIt's going to become ubiquitous, and we're soon going to transition from AI to the quantum age.\nI think that's going to happen in the next three to five years \u2014 and the humanities are going to play a critical role moving forward.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-11-08T10:46:02Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/legal-ai-startup-legora-client-portal-2025-11",
+    "title": "One of legal's hottest AI startups says it's cracked a way for law firms to get richer",
+    "summary": "Legora's pitch is that software helps law firms provide a better client experience and actually grow revenue.\nLegora says Portal will centralize all legal work, replace email chains, and keep data out of AI training by default.\nLegora is riding a tailwind as law firms scramble to test and adopt new tools in response to client demands for efficiency.\nLegora isn't the first to build a law firm client portal.\nHarvey also partners with law firms to build bespoke software that clients pay to use, and Harvey itself takes a cut of the revenue.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2025-10-28T05:53:30Z",
+    "publishedAt": "2025-11-07T11:00:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/pluribus-disclaimer-apple-tv-made-by-humans-ai-vince-gilligan-2025-11",
+    "title": "'Pluribus' Includes Disclaimer on Apple TV: 'Made by Humans'",
+    "summary": "Impact LinkTucked away at the end of the credits of Apple TV's newest show, \"Pluribus,\" is an unusual disclaimer:\"This show was made by humans.\"\nIn another interview with Variety, Gilligan was even more blunt:\"I hate AI,\" Gilligan told Variety.\nIt might be a minute, however, before TV and film fans see AI actors on their screens.\nBusiness Insider reported last month that even brands are cooling off on \"hiring\" AI actors or influencers, citing data from marketing firm Collabstr.\nBut Dulay had another theory: AI-generated content is simply not as engaging as content created by real humans.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-11-09T14:55:52Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.androidcentral.com/accessories/smart-home/not-a-typo-i-found-a-black-friday-vpn-deal-that-gives-you-a-lifetime-of-security-for-only-30-bucks",
+    "title": "Not a typo \u2014 I found a Black Friday VPN deal that gives you a lifetime of security (!!) for only 30 bucks",
+    "summary": "The rumors are true: the popular brand FastestVPN is running an exclusive deal that gets you a lifetime of protection for only $30, all-in, when you use the code FUTUREBF2025 at checkout.\nTo make the deal even sweeter, the company will also throw in two years of FastestPass password management, just for kicks.\nFastestVPN clearly has something to prove by running budget-friendly deals like this, but that doesn't mean that it's cutting corners.\nOf course, all of this doesn't necessarily mean that FastestVPN is the best VPN ever created for Android users.\nBut again, this Black Friday VPN deal offers a lifetime of service for your family, and it'll cost you less than a tank of gas.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-11-10T20:24:42Z",
+    "source": "Android Central"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/coreweave-beats-third-quarter-revenue-211211858.html",
+    "title": "CoreWeave flags hit from data center delay, shares fall",
+    "summary": "(Reuters) -Nvidia-backed CoreWeave trimmed annual revenue forecast on Monday, hurt by a delay at a third-party data center partner, \u200btaking the shine off a strong September quarter driven by burgeoning demand for AI \u200ccloud services.\nIts shares fell more than 6% in extended trading, after Chief Financial Officer Nitin Agrawal forecast 2025 \u200crevenue between $5.05 billion and $5.15 billion.\nThat was lower than CoreWeave's previous projection of $5.15 billion to $5.35 billion, and analysts' estimate of $5.29 billion, according to data compiled by LSEG.\nIts third-quarter revenue more than doubled \u200cto $1.36 billion, beating the estimate of $1.29 billion.\nIts aggressive expansion plans, however, hit a snag \u200bin late October when crypto miner Core Scientific terminated a $9 billion all-stock merger agreement.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-11-10T21:12:11Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/jpmorgan-chase-ceo-jamie-dimon-160250770.html",
+    "title": "JPMorgan Chase CEO Jamie Dimon Says AI Could Bring 3-Day Work Weeks And Thinks \u2018People Should Stop Sticking Their Heads In The Sand\u2019",
+    "summary": "JPMorgan Chase CEO Jamie Dimon believes AI will eventually shorten the work week and says people should embrace it now, before it transforms every corner of the workforce.\nPeople should stop sticking their heads in the sand,\u201d Dimon warned, per Fortune.\nIn the end, Dimon\u2019s message about preparing operators for an AI-driven future \u2014 one that could mean three-day work weeks \u2014 is clear and consistent.\nThe post JPMorgan Chase CEO Jamie Dimon Says AI Could Bring 3-Day Work Weeks And Thinks \u2018People Should Stop Sticking Their Heads In The Sand\u2019 appeared first on AfroTech.\nThe post JPMorgan Chase CEO Jamie Dimon Says AI Could Bring 3-Day Work Weeks And Thinks \u2018People Should Stop Sticking Their Heads In The Sand\u2019 appeared first on AfroTech.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2025-11-07T16:02:50Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://tech.yahoo.com/transportation/articles/breakthrough-south-korean-technology-could-090000501.html",
+    "title": "Breakthrough South Korean technology could be a game-changer in the future of transportation: 'We can \u2026 make a significant impact'",
+    "summary": "The innovation uses temperatures of around 1,112 degrees Fahrenheit to decompose the ammonia, according to TechXplore.\nTo eliminate the need for fossil fuels, the team uses ruthenium, a platinum metal, as a \"catalyst\" during a process called pressure swing adsorption.\nIt's a complex mix of elements, compounds, and technology that can create high temperatures and, ultimately, hydrogen fuel.\nThe Korean method doesn't use fossil fuels, as the experts can produce high temperatures with the mix of elements used in the technique.\nThe TechXplore story mentioned KIER's research into hydrogen fuel cells to cleanly power buildings as one way the technology can provide for a more planet-friendly energy future.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-11-09T09:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://finance.yahoo.com/video/market-correction-overdue-not-because-200000664.html",
+    "title": "Market correction is 'overdue,' but not because of an AI bubble",
+    "summary": "Our next guest says bubble talk is overdone, but indeed the market could be due for a correction.\nOur sense is that going into the end of the year, uh the market will continue to do well.\n01:04 Nancy CurtinWe should talk a little bit about the bubble talk uh on on01:06 Speaker AYeah, let's do.\nBecause an innovation driven bull market unlike a cyclical or liquidity or recovery from recession type of bull market, uh fundamentally, you are adding earnings and productivity uh in infrastructure investment to the economy and that's very powerful.\nUltimately, all bull markets are killed by the Fed, but they seem to be in an easing mode at the moment.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-11-07T20:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/ce3xgwyywe4o",
+    "title": "Mothers say AI chatbots encouraged their sons to kill themselves",
+    "summary": "\"It's like having a predator or a stranger in your home,\" Ms Garcia tells me in her first UK interview.\nIn our interview - to be broadcast tomorrow on Sunday with Laura Kuenssberg - Ms Garcia welcomed the change, but said it was bittersweet.\nJust like Ms Garcia, the child's mother knew nothing about it.\n\"The Act covers 'user chatbots' and AI search chatbots, which must protect all UK users from illegal content and protect children from material that's harmful to them,\" the regulator said.\nSocial Media Victims Law CenterBut Ms Garcia is convinced that if her son had never downloaded Character.ai, he'd still be alive.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-11-08T13:20:52Z",
     "source": "BBC News"
   },
   {
-    "url": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings",
-    "title": "Mark Zuckerberg is excited to add more AI content to all your social feeds",
-    "summary": "is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nMeta CEO Mark Zuckerberg is getting ready to dump even more AI-generated posts into your social feeds.\n\u201cSocial media has gone through two eras so far,\u201d Zuckerberg said.\nThe second was when we added all of the Creator content.\u201d Though Zuckerberg stops short of calling AI the third era of social media, it\u2019s clear that the technology will be heavily involved in what comes next.\n\u201cI think that Vibes is an example of a new content type enabled by AI, and I think that there are more opportunities to build many more novel types of content ahead,\u201d Zuckerberg added.",
+    "url": "https://www.businessinsider.com/meta-600-billion-us-investment-ai-infrastructure-data-center-jobs-2025-11",
+    "title": "Meta details $600 billion US investment pledge that led to a hot-mic moment between Zuckerberg and Trump",
+    "summary": "The $600 billion US investment that Mark Zuckerberg previously floated at a White House dinner with Trump is set to become a reality.\nIn a blog post published by Meta on Friday, the company said that it would commit over $600 billion to the US by 2028 to \"support AI technology, infrastructure, and workforce expansion.\"\nThe details follow a September pledge by Zuckerberg during a meal with Trump and other AI leaders, where he said Meta would invest \"something like, I don't know, at least $600 billion through 2028 in the US.\"\nFast forward to today, and Meta is now formalizing the $600 billion figure and providing more details about how it will allocate the money.\nZuckerberg has said the risk of overbuilding AI infrastructure is worth it if it means not falling behind in the race to superintelligence.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-11-07T21:23:27Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026",
+    "title": "Paramount Plus is getting a price hike in early 2026",
+    "summary": "Paramount Plus is going up in price again.\nLike many other streamers, Paramount has hiked the price of its streaming service on an almost yearly basis.\nParamount Plus raised prices in 2023 before hiking them further last June.\nDuring Skydance\u2019s first few months of ownership, Paramount Plus added 1.4 million subscribers, bringing its total to 79.1 million.\nParamount struck a $7.7 billion deal that will bring live UFC fights to its streaming service as well.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-10-29T21:41:31Z",
+    "publishedAt": "2025-11-10T22:09:14Z",
     "source": "The Verge"
   },
   {
-    "url": "https://www.businessinsider.com/palantir-lawsuit-employees-ai-startup-general-catalyst-2025-10",
-    "title": "Palantir sues ex-engineers at new AI startup backed by General Catalyst, claiming they stole its 'crown jewels'",
-    "summary": "Palantir Technologies has its claws out for a new startup on the block.\nGeneral Catalyst, a venture capital firm with IPO ambitions that recently bought a hospital chain, launched the company in early October.\nIn a Federal lawsuit, Palantir claims the two ex-engineers \"exploited their prior access of Palantir's confidential information, proprietary methodologies, and customer relationships to the benefit of a copycat 'version' of Palantir.\"\nPalantir alleges it hadn't known where either former employee was working until General Catalyst announced Percepta's launch.\nRelated stories Business Insider tells the innovative stories you want to know Business Insider tells the innovative stories you want to knowGeneral Catalyst, one of Silicon Valley's most formidable venture capital firms, has been laying the groundwork to potentially become one of the first VCs to go public, Business Insider reported in May.",
+    "url": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+    "title": "Reimagining cybersecurity in the era of AI and quantum",
+    "summary": "Quantum computing has the potential to seriously undermine current encryption standards if developed unchecked.\nQuantum algorithms can solve the mathematical problems underlying most modern cryptography, particularly public-key systems like RSA and Elliptic Curve, widely used for secure online communication, digital signatures, and cryptocurrency.\n\u201cMost organizations are understandably focused on the immediacy of AI threats,\" says Bailey.\nIt\u2019s critical to start investing now in defenses that can withstand both AI and quantum attacks.\u201dCritical to this defense is a zero trust approach to cybersecurity, which assumes no user or device can be inherently trusted.\nBy enforcing continuous verification, zero trust enables constant monitoring and ensures that any attempts to exploit vulnerabilities are quickly detected and addressed in real time.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2025-10-30T21:05:33Z",
-    "source": "Business Insider"
+    "publishedAt": "2025-11-10T14:19:28Z",
+    "source": "MIT Technology Review"
   },
   {
-    "url": "https://www.businessinsider.com/openai-anthropic-perplexity-expand-india-next-billion-ai-users-2025-10",
-    "title": "OpenAI, Anthropic, Perplexity Expand in India for Next Billion Users",
-    "summary": "In recent months, American AI companies, such as OpenAI and Perplexity, have also steadily expanded their footprint in India, the world's largest open internet market outside the US.\nFor the big AI companies, however, \"India is not the 'next billion users' market.\nBy the time Anadan left Google in 2019, he said that India was the single largest market for all the company's largest products.\nIndia's AI infrastructureWestern tech companies are also racing to build the infrastructure needed to power AI in India.\nAs AI companies scale up in India, they're bringing new forms of risk with them.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-10-29T09:00:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://www.businessinsider.com/amazon-layoffs-hit-mgm-studios-jobs-cut-gen-ai-2025-10",
-    "title": "Amazon's TV and movie arm was hit during the company's broad layoffs. Here's what we know.",
-    "summary": "Amazon MGM Studios, the company's TV and movie arm, was hit during the broader company layoffs announced Tuesday.\nAmong the big names affected at Amazon MGM Studios were Donna Rosenstein, who was head of series casting; and Genna Terranova, head of global programming for MGM Studios and Prime Video.\nAlso cut were drama series exec Meggie Choi and creative exec Nathan Kitada.\nOthers impacted included Liz Cohen, a senior creative exec for overall deals; Christina Pope, a creative exec working in comedy/drama; and Sahhara Assafiri, a creative exec on tentpoles.\nAs part of Amazon's AI efforts, it has begun to leverage the tech across its entertainment arm, which is led by Mike Hopkins.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-28T21:51:39Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://slashdot.org/story/25/10/30/1942215/ai-cheating-app-founder-says-engineers-cant-make-good-viral-content-and-thats-why-their-startups-flop",
-    "title": "AI 'Cheating' App Founder Says Engineers Can't Make Good, Viral Content and That's Why Their Startups Flop",
-    "summary": "\"Little prigs and three-quarter madmen may have the conceit that the laws of nature are constantly broken for their sakes.\"\n-- Friedrich Nietzsche",
+    "url": "https://finance.yahoo.com/news/deepseek-researcher-pessimistic-over-ais-101119928.html",
+    "title": "DeepSeek researcher pessimistic over AI's impact in startup's first public appearance since success",
+    "summary": "By Liam Mo and Brenda GohWUZHEN, China (Reuters) -Chinese artificial intelligence (AI) developer DeepSeek made its first public appearance in almost a year after it became a global sensation,\u200b fielding a senior researcher who told a government-organised internet conference that he was pessimistic about AI's \u200cfuture impact on humanity.\n\"I'm \u200bextremely positive about the technology but I view the impact it could have on society negatively.\"\nNeither Liang or the company have commented publicly on their success and they have skipped major Chinese technology conferences in the country in the months since.\nWhile DeepSeek \u200bhas not released a major model upgrade since January, the company's subsequent announcements have continued to draw significant attention.\nThe company has also emerged as a key player in China's efforts to build its own AI ecosystem and advance the \u2060domestic chip sector.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-10-30T20:41:00Z",
+    "publishedAt": "2025-11-07T10:13:22Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "url": "https://slashdot.org/story/25/11/08/0533205/stratospheric-ai-spending-by-four-wealthy-companies-reaches-360b-just-for-data-centers",
+    "title": "'Stratospheric' AI Spending By Four Wealthy Companies Reaches $360B Just For Data Centers",
+    "summary": "",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-11-08T15:34:00Z",
     "source": "Slashdot.org"
   },
   {
-    "url": "https://www.businessinsider.com/servicenow-ceo-bill-mc-dermott-ai-reorienting-global-economy-2025-10",
-    "title": "ServiceNow CEO says AI is reorienting the global economy",
-    "summary": "Impact LinkAI is reorienting the global economy in radical ways, and the effects are spreading from consumers to companies, says Bill McDermott, CEO of ServiceNow, an enterprise software giant.\nWe spoke about AI disruptions to the job market, the AI spending boom, and the threat of generative AI to the software industry.\nServiceNow's hiring plansFor ServiceNow itself, the CEO said generative AI is encouraging the company to hire more in certain areas, while re-skilling existing staff.\nServiceNow also highlighted the success of its new AI Experience interface and the Zurich product for building scalable AI systems.\nThe company's investments in AI innovation and partnerships, spanning Nvidia, FedEx, and government agencies, show deepening integration of AI into enterprise workflows.",
+    "url": "https://www.businessinsider.com/dropped-out-of-college-ai-founder-sacrifice-trade-off-cancer-2025-11",
+    "title": "I quit college to run my company. The 80-hour weeks were worth it.",
+    "summary": "David Kobrosky dropped out of the University of Michigan to start Intros AI.\nCourtesy of Sam GoldinDavid Kobrosky dropped out of the University of Michigan to start Intros AI.\nCourtesy of Sam GoldinThis as-told-to essay is based on a conversation with 26-year-old David Kobrosky, the founder of Intros AI, from Brooklyn.\nAlthough I returned to college in late 2019, I dropped out again in late 2020, at the age of 21, to start my company, Intros AI.\nIn 2024, I was the CEO of Intros AI and, for that year, paid myself a salary of around $100,000.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-29T20:19:37Z",
+    "bias": "left",
+    "publishedAt": "2025-11-07T10:49:01Z",
     "source": "Business Insider"
   },
   {
-    "url": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements",
-    "title": "Adobe Max 2025: all the latest creative tools and AI announcements",
-    "summary": "Adobe has kicked off its annual Max design conference, where it\u2019ll be giving us a first glimpse at the latest updates coming to its Creative Cloud apps and Firefly AI models.\nThe creative software giant is launching new generative AI tools that make digital voiceovers and custom soundtracks for videos, and adding AI assistants to Express and Photoshop for web that edit entire projects using descriptive prompts.\nAnd that\u2019s just the start, because Adobe is planning to eventually bring AI assistants to all of its design apps.",
+    "url": "https://www.businessinsider.com/latham-watkins-ai-academy-associate-training-2025-11",
+    "title": "A Big Law Firm Tells Young Lawyers to Stay Vigilant As They Embrace AI",
+    "summary": "The Big Law firm hit $7 billion in revenue last year, making it the second-highest-grossing firm in the US, and employs over 3,500 lawyers globally.\nFears are growing that law firms will reduce their associate class sizes because of AI efficiencies.\nMany believe that law firms will need fewer associates to drive profits even higher, and in-house legal teams are already exploring ways to reduce head count.\nIn-house counsel want efficiency gains and are asking law firms about their AI plans.\nRubin says the firm is also developing a virtual AI Academy for lawyers of any experience level, launching early next year.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-10-28T13:16:17Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.theverge.com/news/809882/universal-music-udio-settlement",
-    "title": "Universal partners with AI startup Udio after settling copyright suit",
-    "summary": "is a London-based reporter at The Verge covering all things AI and Senior Tarbell Fellow.\nUniversal Music Group says it has made \u201cindustry-first strategic agreements\u201d to \u201csettle copyright infringement litigation\u201d with AI startup Udio and license music for a new AI-powered music platform.\nThe deal includes some form of compensation and \u201cwill provide further revenue opportunities for UMG artists and songwriters,\u201d Universal says.\nUdio, the company behind \u201cBBL Drizzy,\u201d will launch the platform as a subscription service next year.\nUniversal, alongside other industry giants Sony and Warner, sued Udio and another startup Suno for \u201cen masse\u201d copyright infringement last year.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-30T13:02:23Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://hbr.org/2025/10/why-ai-at-work-makes-us-so-anxious",
-    "title": "Why AI at Work Makes Us So Anxious",
-    "summary": "If 21st-century capitalism has one central tenet, it\u2019s that innovation rules and disruption drives progress.\nYes, innovation is amazing\u2014and it\u2019s also stressful.\nThe act of disruption inherently creates anxiety because it asks us to change abruptly and dive into the unknown.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2025-10-28T12:05:44Z",
-    "source": "Harvard Business Review"
-  },
-  {
-    "url": "https://www.businessinsider.com/palantir-shyam-sankar-skeptical-ai-jobs-2025-10",
-    "title": "Palantir CTO says AI doomerism is driven by a lack of religion",
-    "summary": "\"I think the secularists in Silicon Valley are filling the God-shaped hole in their heart,\" Sankar said in an interview.\n\"I think the secularists in Silicon Valley are filling the God-shaped hole in their heart,\" Sankar said in an interview.\nDominic Gwinn / Middle East Images via AFP\"I think the secularists in Silicon Valley are filling the God-shaped hole in their heart,\" Sankar said in an interview.\n\"Doomerism\" refers to the idea that AI will cause a catastrophic scenario, such as mass unemployment or extinction.\n\"They are sitting in Silicon Valley, building these models, spending no time on the front lines of how are people using this,\" Sankar said.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-10-30T16:18:04Z",
+    "bias": "lean left",
+    "publishedAt": "2025-11-10T19:44:14Z",
     "source": "Business Insider"
   },
   {
-    "url": "https://www.wired.com/story/adobe-max-2025-firefly-photoshop-updates/",
-    "title": "Adobe Now Lets You Generate Soundtracks and Speech in Firefly",
-    "summary": "Custom Models in Adobe FireflyAdobe's new darling app is Firefly, which launched in 2023 and offers the ability to create images and videos through generative AI.\nFirst, the company says it's opening up support for custom models, allowing creatives to train their own AI models to create specific characters and tones.\nBusinesses have been able to leverage custom models in Firefly for some time, but Adobe is rolling out the feature to individual customers.\nThe basis of the model remains Adobe\u2019s own Firefly model, which means it\u2019s trained on proprietary data and commercially safe to use.\nCustom models will roll out at the end of the year, and you can join a waiting list in November for early access.",
+    "url": "https://entertainment.slashdot.org/story/25/11/07/0057237/why-does-so-much-new-technology-feel-inspired-by-dystopian-sci-fi-movies",
+    "title": "Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies?",
+    "summary": "Please create an account to participate in the Slashdot moderation system",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2025-10-28T12:00:00Z",
-    "source": "Wired"
-  },
-  {
-    "url": "https://www.wired.com/story/greenhouse-gas-protocol-caught-in-big-techs-friendly-fire/",
-    "title": "A Fight Over Big Tech\u2019s Emissions Has the Greenhouse Gas Protocol Caught in the Crossfire",
-    "summary": "Last week\u2019s request for public comment from the Greenhouse Gas Protocol (GHGP) doesn\u2019t look like a major win for a tech giant to the naked eye.\nBut for Google and Microsoft, the announcement constitutes a considerable win in their years-long battle against their competitors over how to account for the carbon emissions of data centers and, by extension, AI.\nOut of ScopeScope 2 is a subcategory used by the GHGP to account for a company\u2019s indirect emissions from purchased electricity, steam, heat, or cooling.\nFor tech giants, Scope 2 emissions have surged as AI has driven massive growth in data center energy use.\nAs these loads have grown, so too has the pressure to find a new way to account for them.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-30T10:31:37Z",
-    "source": "Wired"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban",
-    "title": "Character.AI is banning minors from AI character chats",
-    "summary": "Character.AI is gradually shutting down chats for people under 18 and rolling out new ways to figure out if users are adults.\nCharacter.AI is banning minors from chatting with AI characters.\nOther AI companies have recently imposed restrictions on teen users, like Meta, which changed its policies after Reuters reported on internal rules allowing AI chatbots to talk to minors in sensual ways.\nNow, Character.AI is also founding and bankrolling, at least initially, an independent nonprofit called the AI Safety Lab.\nThe organization will focus on issues related to the AI entertainment industry, which, Anand said, encounters different problems than other AI sectors.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-10-29T12:21:02Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban",
-    "title": "Senators propose banning teens from using AI chatbots",
-    "summary": "A new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots.\nJosh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI chatbots, as reported earlier by NBC News.\nThe bill comes just weeks after safety advocates and parents attended a Senate hearing to call attention to the impact of AI chatbots on kids.\nAI chatbots would be required to disclose that they aren\u2019t human at 30-minute intervals under the bill.\nThey would also have to include safeguards that prevent them from claiming that they are a human, similar to an AI safety bill recently passed in California.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-28T22:42:04Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.businessinsider.com/mercor-pays-million-per-day-human-contractors-training-ai-ceo-2025-10",
-    "title": "Mercor pays over $1.5 million a day to humans training AI, says its CEO",
-    "summary": "Taylor Hill/FilmMagic/Getty ImagesBrendan Foody, the CEO of Mercor, said an IPO could be on the horizon.\nBrendan Foody, the CEO and cofounder of Mercor, said the company is paying over $1.5 million daily to contractors who are training AI.\nIn a blog post about the latest funding round, Foody described humans training AI as a \"new category of work.\"\nTraining AI chatbots is tech's new gold rushTech's latest gold rush is getting humans to train AI chatbots.\nIn a report published last month, Business Insider spoke with more than 60 data labelers worldwide.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-28T06:54:44Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch",
-    "title": "Grammarly is changing its name to Superhuman",
-    "summary": "AI writing aid Grammarly is now part of Superhuman, alongside Coda, Superhuman Mail, and a new AI assistant called Superhuman Go.\nThe new Superhuman suite, including all those tools, will be available starting today for everyone with a paid Grammarly Pro subscription.\nGrammarly is adopting its new name from AI email app Superhuman Mail, which Grammarly acquired in June, following its December 2024 acquisition of Coda, a collaborative workspace app.\nBut the reality is, the Grammarly brand isn\u2019t going anywhere,\u201d Noam Lovinsky, chief product officer at Superhuman, said in an interview with The Verge.\nA core part of Superhuman is its AI assistant, Superhuman Go, which is effectively Grammarly\u2019s existing generative AI assistant with a fresh coat of paint and more features.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-29T12:33:52Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://slashdot.org/story/25/10/28/149254/openai-finalizes-corporate-restructuring-gives-microsoft-27-stake-and-technology-access-until-2032",
-    "title": "OpenAI Finalizes Corporate Restructuring, Gives Microsoft 27% Stake and Technology Access Until 2032",
-    "summary": "\"Little prigs and three-quarter madmen may have the conceit that the laws of nature are constantly broken for their sakes.\"\n-- Friedrich Nietzsche",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-10-28T14:41:00Z",
+    "publishedAt": "2025-11-07T07:00:00Z",
     "source": "Slashdot.org"
+  },
+  {
+    "url": "https://finance.yahoo.com/news/intel-ceo-oversee-companys-ai-225721565.html",
+    "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
+    "summary": "By Max A. Cherney and Stephen NellisSAN FRANCISCO (Reuters) -Intel said on Monday its CEO Lip-Bu Tan would oversee the chipmaker's artificial \u200bintelligence efforts after the firm's chief technology officer departed for ChatGPT maker OpenAI.\nSachin Katti,\u200c who has led Intel's AI efforts since a management reorganization at the chipmaker in January, said on social \u200cmedia site X that he had joined OpenAI.\nKatti joined Intel roughly four \u2060years ago and worked in the networking group, which \u200bhe eventually ran under former CEO Pat Gelsinger.\nTan \u200bpromoted Katti to chief technology officer and chief AI officer in April, when he flattened the company's leadership structure.\nNaga Chandrasekaran, who was running Intel's manufacturing subsidiary, was given more responsibility for working with external contract manufacturing customers.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-11-10T22:57:21Z",
+    "source": "Yahoo Entertainment"
   }
 ]
