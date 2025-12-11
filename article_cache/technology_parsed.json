@@ -1,182 +1,182 @@
 [
   {
-    "url": "https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor",
-    "title": "AI startups are turning their revenue into recruiting bait",
-    "summary": "A new trend has quickly emerged for AI startups that want to stand out from the rest: brag about revenue.\nUnlike many AI startups now flexing their ARR, Sierra books its revenue through upfront contracts.\nBy contrast, many AI startups, especially those with more consumer-ish products or usage-based pricing, reach a public ARR figure by multiplying a good month\u2019s revenue by 12.\n\u201cI think AI is a category where it\u2019s relatively easy to make a demo and sort of win a popularity contest on social media,\u201d he said.\nTaylor is also already thinking about what happens when today\u2019s crop of AI startups matures.",
+    "url": "https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/",
+    "title": "OpenAI, Anthropic, and Block Are Teaming Up to Make AI Agents Play Nice",
+    "summary": "OpenAI, Anthropic, and Block have cofounded a new open source organization\u2014the Agentic AI Foundation\u2014to promote standards for artificial intelligence agents.\nThis kind of agentic AI promises a potentially lucrative new paradigm in which AI agents use the web and negotiate with one another to power all sorts of applications.\nConsumers may, for example, use AI assistants to buy and book things, while businesses use AI agents to manage transactions and customer interactions.\n\u201cOpen source is going to play a very big role in how AI is shaped and adopted in the real world,\u201d Narayanan says.\nA number of Chinese AI companies, including DeepSeek, Alibaba, Moonshot AI, and Z.ai, provide strong open source models that have become popular with developers, startups, and AI researchers.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-21T14:21:25Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout",
-    "title": "Sen. Warren presses Trump admin on potential AI bailout plans",
-    "summary": "is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nPosts from this author will be added to your daily email digest and your homepage feed.\nSen. Elizabeth Warren (D-MA) is pressing the Trump administration for more information on potential plans to \u201cprop up\u201d major AI companies with money from taxpayers.\nShe\u2019s also seeking information about what kind of government assistance the administration plans to give OpenAI and other companies, as well as whether they think AMIC should apply to AI buildout.\nSacks and Kratsios have until December 1st, 2025, to reply.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-18T18:01:46Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.wired.com/story/cisco-aging-technical-infrastructure/",
-    "title": "With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech",
-    "summary": "Aging digital infrastructure equipment like routers, network switches, and network-attached storage\u2014has long posed a silent risk to organizations.\nDubbed \u201cResilient Infrastructure,\u201d the initiative includes research and industry outreach as well as technical shifts in how Cisco manages its own legacy products.\nEventually, Cisco will go a step further to completely remove historic settings and interoperability options that are no longer considered safe.\n\u201cInfrastructure globally is aging, and that creates a ton of risk,\u201d says Anthony Grieco, Cisco\u2019s chief security and trust officer.\n\u201cThe thing we\u2019ve got to get across is this aging infrastructure wasn\u2019t designed for today\u2019s threat environments.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-20T10:00:00Z",
+    "bias": "center",
+    "publishedAt": "2025-12-09T17:06:58Z",
     "source": "Wired"
   },
   {
-    "url": "https://www.businessinsider.com/cybersecurity-startup-feroot-ai-agents-tiktok-series-a-pitch-deck-2025-11",
-    "title": "This AI startup advised Congress on the security risks of TikTok and DeepSeek. Read the pitch deck it used to raise $14M.",
-    "summary": "lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nIn February 2024, Tsarynny testified on privacy risks before the US-China Economic and Security Review Commission.\nOther security startups include DataGrail and Reflectiz, another website security startup, which recently announced a $22 million Series B funding round.\nRead the pitch deck Feroot used to raise its $14 million Series A:Note: Feroot redacted several slides from the pitch deck, as well as some details, so that the document could be shared publicly.",
+    "url": "https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/",
+    "title": "Intel Takes Major Step in Plan to Acquire Chip Startup SambaNova",
+    "summary": "Intel has signed a term sheet to acquire the AI chip startup SambaNova Systems, two sources with direct knowledge of the agreement tell WIRED.\nNotably, Intel CEO Lip-Bu Tan is currently the executive chairman of SambaNova Systems.\nIntel Capital, which Intel is in the process of spinning off into a stand-alone fund, has also invested in SambaNova Systems.\nSambaNova Systems was founded in 2017 in Palo Alto, California, by Kunle Olukotun, Rodrigo Liang, and Christopher R\u00e9.\nSambaNova Systems makes an AI chip platform for inference computing, a process where large language models make predictions from vast amounts of data.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-12-09T23:08:59Z",
+    "source": "Wired"
+  },
+  {
+    "url": "https://www.businessinsider.com/anduril-palmer-luckey-ai-war-conflict-defense-tech-startups-military-2025-12",
+    "title": "Anduril's Palmer Luckey makes an ethical case for using AI in war: 'There is no moral high ground in using inferior technology'",
+    "summary": "Anduril cofounder Palmer Luckey defended the use of AI technology to make life-and-death decisions in war on Sunday.\nAnduril Industries, founded in 2017, is a defense tech company focused on developing autonomous systems.\nBefore Anduril, Luckey founded virtual reality company Oculus VR in 2012.\nThe company unveiled EagleEye, which the company said \"puts mission command and AI directly into the warfighter's helmet,\" in October.\nUnder the Trump administration, which has invested heavily in AI and expressed interest in nuclear weapons testing, the technology defense sector is booming.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-12-07T20:46:37Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
+    "title": "2 Men Linked to China\u2019s Salt Typhoon Hacker Group Likely Trained in a Cisco \u2018Academy\u2019",
+    "summary": "That's the surprising conclusion of Dakota Cary, a researcher at cybersecurity firm SentinelOne and the Atlantic Council, who, like many security analysts, has closely tracked the Chinese state-sponsored hacker group known as Salt Typhoon.\nSalt Typhoon has come to be known, in fact, for its sophisticated hacking of network devices\u2014including those sold by Cisco, the world's biggest networking company.\nHe found the names of two partial owners of contract firms linked to Salt Typhoon in a recent US government advisory about the group.\nThose names\u2014Qiu Daibing and Yu Yang\u2014also appeared in university records, showing that students with the same two names had, years earlier, placed in the Cisco Networking Academy Cup, a competition designed to test participants on the knowledge taught in Cisco's Networking Academy training program.\n\u201cIt's just wild that you could go from that corporate-sponsored training environment into offense against that same company,\u201d Cary says, describing his theory.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2025-11-18T12:00:01Z",
+    "publishedAt": "2025-12-10T17:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "url": "https://www.businessinsider.com/bi-today-newsletter-dealmaking-in-the-ai-age-is-tricky-2025-12",
+    "title": "Dealmaking in the AI age is tricky",
+    "summary": "Once a leader in the field of stress testing and perfecting AI models for Big Tech, Scale AI has faced pay cuts, poaching, and pivots since the Meta deal.\nIt's representative of how dealmaking with big players can be a double-edged sword in the age of AI.\nFor some, like Scale AI cofounder Alexandr Wang , who's now a high-level Meta exec , the deal was a windfall.\nA BI investigation this June found Scale AI routinely used public Google Docs for work with its Big Tech clients.\nBut for the vast majority of young AI companies, that's not a reality.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-12-10T12:37:56Z",
     "source": "Business Insider"
   },
   {
-    "url": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android",
-    "title": "Perplexity brings its Comet browser to Android",
-    "summary": "Perplexity is launching its AI-powered browser on Android.\nComet launched on desktop for Perplexity Max subscribers in July before rolling it out more widely last month.\nYou can use voice mode on Comet\u2019s Android app as well.\nImage: PerplexityJust like Comet on desktop, you can use voice mode on the browser\u2019s Android app to chat about the information in your tabs, as well as ask Perplexity to generate summaries of what you\u2019re seeing.\nShah notes that you can still use Android\u2019s password manager with the browser, though.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-20T17:41:36Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.businessinsider.com/ai-startups-transforming-future-of-work-2025-11",
-    "title": "Know a startup using AI to change the future of work? We'd like to hear from you.",
-    "summary": "lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nImpact LinkAI has affected nearly every aspect of the workplace.\nBusiness Insider is looking for the most compelling startups transforming how work gets done.\nCriteria and methodology:Prospective companies must be startups that use AI to improve some aspect of the workplace \u2014 whether in finance, tech, professional services, retail, or transportation.",
+    "url": "https://www.theverge.com/report/841610/ai-chatbot-suicide-safety-failure",
+    "title": "Chatbots are struggling with suicide hotline numbers",
+    "summary": "Last week, I told multiple AI chatbots I was struggling, considering self-harm, and in need of someone to talk to.\nCommonly, online platforms like Google, Facebook, Instagram, and TikTok signpost suicide and crisis resources like hotlines for potentially vulnerable users flagged by their systems.\nIn a time of purported crisis, the AI chatbots needlessly introduced friction at a moment experts say it is most dangerous to do so.\n\u201cOur products are designed to connect people to support resources in response to prompts related to suicide.\n988 Suicide & Crisis Lifeline: Call or text 988 (formerly known as the National Suicide Prevention Lifeline).",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2025-11-19T10:54:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia",
-    "title": "Microsoft\u2019s new Anthropic partnership brings Claude AI models to Azure",
-    "summary": "Microsoft is announcing a strategic partnership with Anthropic today that will bring the AI startup\u2019s models to Microsoft Foundry for the first time.\nNvidia and Anthropic are also partnering today as part of this deal, to optimize Anthropic\u2019s models for the best performance on future Nvidia architectures.\nThe new deal with OpenAI extends Microsoft\u2019s IP rights to models from OpenAI through 2032 and also includes post-AGI (artificial general intelligence) models.\nIn fact, Microsoft has been favoring Anthropic\u2019s Claude 4 over GPT-5 in its new auto AI model selector in Visual Studio Code.\nMicrosoft also brought Anthropic\u2019s Claude Sonnet 4 and Claude Opus 4.1 to Microsoft 365 Copilot users recently.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-18T15:20:39Z",
+    "publishedAt": "2025-12-10T16:32:15Z",
     "source": "The Verge"
   },
   {
-    "url": "https://www.theverge.com/column/824994/ar-viture-ai-glasses",
-    "title": "AR startup Viture is stealthily working on new AI glasses",
-    "summary": "But Vonderful isn\u2019t starting from scratch: Vonder appears to be a stealth project of Viture, an AR startup that has been building glasses since 2021.\nViture isn\u2019t the only AR startup looking to expand from visor-style glasses with birdbath optics to more full-fledged all-in-one devices.\nViture competitor Rokid recently completed a Kickstarter campaign for its own smart glasses, which feature monochrome displays in both lenses.\nThe company also just unveiled a set of glasses without displays that more closely mimics Meta\u2019s popular Ray-Ban smart glasses.\nAnd TCL offshoot RayNeo launched a first pair of standalone AR glasses in 2024.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-20T14:22:07Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.theverge.com/policy/824508/fcc-telecom-salt-typhoon-hack",
-    "title": "The FCC is rolling back steps meant to stop a repeat of a massive telecom hack",
-    "summary": "After one of the biggest telecom hacks in US history, the Federal Communications Commission (FCC) moved to enforce strict standards on carriers\u2019 cybersecurity measures.\nThe China-linked Salt Typhoon hack revealed last year impacted telecom companies including AT&T, Verizon, T-Mobile, and Lumen Technologies, The Wall Street Journal reported.\nNow, the FCC under Republican Chair Brendan Carr is rolling back those actions amid a broader deregulation push.\n\u201cWhen I received this draft order, it was very disappointing because we are going to reverse the only meaningful effort this agency has advanced in response to that hack,\u201d Gomez said.\n\u201cMy fear is Americans will be less secure from the day this hack was discovered a little over a year ago,\u201d she said.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-11-19T22:34:00Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.theverge.com/podcast/823909/the-doordash-problem-ai-agents-web-amazon-perplexity-lawsuit",
-    "title": "The DoorDash problem arrives for Amazon",
-    "summary": "So what, exactly, is the DoorDash problem?\nNow, it\u2019s time for us to really dive deep into the DoorDash problem.\nThat\u2019s the DoorDash problem.\nSo at this point, you might be wondering: what does DoorDash think about the DoorDash problem?\nI don\u2019t know how the industry solves the DoorDash problem.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-20T15:32:31Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws",
-    "title": "Here\u2019s the Trump executive order that would ban state AI laws",
-    "summary": "In recent days, Trump has repeatedly posted his desire to have a state AI law moratorium, and reiterated it on Wednesday during his appearance at the US-Saudi Investment Forum, couching it as a way to fight \u201cwoke\u201d ideology.\nBecause you\u2019ll have one woke state and you\u2019ll have to do all woke.\nDuring an appearance at Politico\u2019s AI & Tech Summit in September, FCC Chairman Brendan Carr floated one potential interpretation of the Communications Act that would allow them to override state law.\nHe cited the European Union\u2019s Digital Services Act and raised his concern \u201ctheir AI models are not going to be truth-seeking AI models, but they\u2019re going to be woke AI models, going to be AI models that are promoting DEI.\nAnd so again, President Trump has, as part of his action plan, steps to make sure that we don\u2019t have that type of woke DEI embedded AI models developing here.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-19T23:03:28Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.businessinsider.com/drone-war-moving-too-fast-old-school-weapons-development-ceo-2025-11",
-    "title": "The drone war is moving too fast for old-school defense tech development, CEO warns",
-    "summary": "Roman PILIPEY / AFPDrones \u2014 and ways to defeat them \u2014 are evolving far too quickly for traditional weapons development cycles, a company making counter-drone systems said.\nA rapidly changing drone warThat rapid pace means that it's no longer sufficient to offer solutions that only fix the current problem.\nUkraine and Russia have both been moving very quickly to develop and invest in counter-drone systems, including interceptor drones and AI-powered turrets designed to shoot down drones.\nThe race to field new drone tech and weapons to defeat them is relentless in this war.\nHe said drone tech \"iterates every two to three weeks on the front line\" with a \"fundamentally different\" model.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-11-18T10:51:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "url": "https://yro.slashdot.org/story/25/11/19/153210/chinese-university-collected-more-ai-patents-than-mit-stanford-princeton-and-harvard-combined",
-    "title": "Chinese University Collected More AI Patents Than MIT, Stanford, Princeton and Harvard Combined",
-    "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
+    "url": "https://finance.yahoo.com/video/2-companies-well-positioned-ai-110042894.html",
+    "title": "2 companies well-positioned in AI-era cybersecurity",
+    "summary": "00:00 Speaker AWhat kind of changes have we seen in the cyber security landscape over the past few years?\nYou know, there's been this whole like platformization trend among these companies where they're trying to say, come to me for all of your cybersecurity needs.\nHey, it all sort of works together, but you've got a lot of systematic risk.\n01:21 Speaker AYeah, I was just going to say the the old school on premise is quite interesting to me.\nSo it's not going to go back to the old on premise, right?",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2025-11-19T15:25:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "url": "https://hbr.org/2025/11/how-generative-ai-is-reshaping-venture-capital",
-    "title": "How Generative AI Is Reshaping Venture Capital",
-    "summary": "The venture capital world has witnessed countless technological disruptions over the decades, but few have arrived with the speed and scope of generative artificial intelligence.\nIn the three years since ChatGPT\u2019s launch, gen AI has fundamentally altered how startups are conceived, pitched, built, and funded.\nAccording to a report from Stanford, global private AI investment reached a record high of $252.3 billion in 2024, with generative AI funding soaring to $33.9 billion\u2014more than eight times higher than 2022 levels.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-11-18T15:00:00Z",
-    "source": "Harvard Business Review"
-  },
-  {
-    "url": "https://finance.yahoo.com/video/africas-next-leap-global-innovation-165005678.html",
-    "title": "Africa's Next Leap in Global Innovation",
-    "summary": "Emmanuel Lubanzadio of OpenAI, Chris Maurice of Yellow Card and Lexi Novitske of Norrsken22 discuss how AI, blockchain and fintech innovation are positioning Africa at the forefront of global tech advancement with Bloomberg's Yinka Ibukun at Bloomberg Africa Business Summit 2025 in Johannesburg, South Africa.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-11-18T16:50:05Z",
+    "publishedAt": "2025-12-08T11:00:42Z",
     "source": "Yahoo Entertainment"
   },
   {
-    "url": "https://www.theverge.com/tech/825022/microsoft-windows-40-year-anniversary-agentic-os-future",
-    "title": "As Windows turns 40, Microsoft faces an AI backlash",
-    "summary": "Windows 8 was arguably the most divisive release of Windows in its 40-year history, as Microsoft attempted to overhaul the operating system for a touch-first future.\nFor some Windows users, it\u2019s already all too much.\nIt\u2019s this reliable tool that Microsoft seems to want to reshape into something autonomous, increasingly built for AI agents instead of humans.\n\u201cWe are making this accessible so every user can use [AI agents] when they\u2019re ready.\nThat\u2019s always been a challenge in Redmond, and often why every other release of the operating system is disliked by so many.",
+    "url": "https://hardware.slashdot.org/story/25/12/10/2135233/qualcomm-acquires-risc-v-chip-designer-ventana-micro-systems",
+    "title": "Qualcomm Acquires RISC-V Chip Designer Ventana Micro Systems",
+    "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2025-11-20T14:49:54Z",
+    "publishedAt": "2025-12-10T22:50:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot",
+    "title": "I couldn\u2019t fix it with iFixit\u2019s AI FixBot",
+    "summary": "Even though iFixit\u2019s written guide says to remove them before flipping the console and removing the top lid, FixBot didn\u2019t offer the same warning.\nBefore I could protest or show a photo of the problem, the app informed me that I only had 15 minutes of free FixBot Voice per day and that my time had expired.\nWhen I brought it home, I found it wouldn\u2019t power on unless I nudged the power cord.\n\u201cFrom what I can see, there are signs of a cracked or weakened solder joint,\u201c FixBot wrote when I presented this photo.\nWiens says FixBot has already assisted on 15,000 successful repairs in beta, and that he plans to keep making it better.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-12-10T19:44:24Z",
     "source": "The Verge"
   },
   {
-    "url": "https://www.theverge.com/news/824786/google-gemini-synthid-ai-image-detection",
-    "title": "Google Gemini is getting better at identifying AI fakes",
-    "summary": "Google is making it easier for Gemini users to detect at least some AI-generated content.\nThe more important expansion will come further down the line, when Google extends verification to support industry-wide C2PA content credentials.\nGoogle also announced that images generated by its Nano Banana Pro model, also revealed today, will have C2PA metadata embedded.\nIt\u2019s the second bit of good news for C2PA this week, after TikTok confirmed it would use C2PA metadata as part of its own invisible watermarking for AI-generated content.\nManual content verification in Gemini is a useful step, but C2PA credentials, and other watermarks like SynthID, won\u2019t be truly useful until social media platforms get better at flagging AI-generated content automatically, rather than putting the onus on users to confirm for themselves.",
+    "url": "https://www.businessinsider.com/ai-rejecting-job-applications-tracking-hiring-2025-12",
+    "title": "AI isn't likely throwing out your r\u00e9sum\u00e9. A human is.",
+    "summary": "The frustrations of applying for jobs can make it easy to blame technology.\nThe frustrations of applying for jobs can make it easy to blame technology.\nCharlie Riedel/Associated PressThe frustrations of applying for jobs can make it easy to blame technology.\nIt's an idea that can help make sense of a dizzying job market where applications can meet speedy rejections or, worse, go unanswered.\nWhen job posts get so many applicants, Miloev said, it's understandable why people would blame technology.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-12-07T10:55:04Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/bny-ai-boost-google-gemini-3-agentic-ai-system-eliza-2025-12",
+    "title": "BNY and Google are teaming up to supercharge the bank's AI ambitions with Gemini 3",
+    "summary": "The race on Wall Street to deploy AI agents capable of handling end-to-end tasks is intensifying.\nOn Monday, BNY said it will embed Google Cloud's agentic AI technology \u2014 including Google's latest model, Gemini 3 \u2014 into the bank's internal AI platform Eliza, named after the wife of bank founder Alexander Hamilton.\nHe said agentic AI could help orchestrate those steps, break tasks into smaller components, and deliver the required information in a more streamlined flow.\nBoth BNY and Google emphasized that deploying agentic AI inside a regulated institution requires boundaries around what the technology can see, decide, or escalate.\nBhat said financial firms are becoming an important testing ground for agentic AI because their workflows involve heavy documentation, strict rules, and significant risk management.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-11-20T13:01:05Z",
+    "publishedAt": "2025-12-08T12:45:07Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
+    "title": "Meta might charge for a future AI model",
+    "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nMeta\u2019s next AI model could mark a change in its \u201copen source\u201d AI strategy that Mark Zuckerberg had called \u201cthe path forward.\u201d Currently, the company is working on a new AI model, code-named Avocado, that it might charge for access to, Bloomberg reports.\nLast year, Meta launched its open source (depending on who you ask, since the Open Source Initiative disagrees) Llama 4 AI model, but it had a disappointing release, with Meta caught gaming AI benchmarks and being forced to delay a planned \u201cBehemoth\u201d version.\nIn a July 30th memo about \u201cpersonal superintelligence,\u201d Zuckerberg indicated that Meta may need to shift its approach on open source: to mitigate potential safety risks, the company will have to be \u201ccareful about what we choose to open source,\u201d he said.\nThat team has a \u201csiloed space\u201d near Zuckerberg\u2019s office at Meta\u2019s headquarters, The New York Times says in its own report about the company\u2019s AI efforts.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-12-10T18:46:12Z",
     "source": "The Verge"
   },
   {
-    "url": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics",
-    "title": "TikTok is letting users control how much AI content they see",
-    "summary": "TikTok is testing a new control that will let users manage how much AI-generated content appears in their video feed on the app.\nTo help make the filter more effective, the app will also soon start adding invisible watermarks to AI content.\nJust like those sliders, the AI control will allow users to request to see more or less AI material, with two levels in either direction.\nAn AI slider will only work if TikTok itself knows which content is made with AI, so it\u2019s working on improving detection too.\nTikTok says both changes are rolling out over \u201cthe coming weeks,\u201d though the AI content control is only a test for now.",
+    "url": "https://www.businessinsider.com/sequoia-partners-startup-decison-making-vote-process-venture-capital-2025-12",
+    "title": "Sequoia partners share how they decide which startups get a yes",
+    "summary": "Sequoia's partners go into investment decision meetings to determine whether startups make the cut \u2014 and there's a system for striking gold, two partners said.\nIn an episode of the \"Jack Altman\" podcast released on Tuesday, Sequoia partners Alfred Lin and Pat Grady shared how their team decides which startups get a cheque.\n\"We've been recording the number that everybody votes on every investment for more than a decade now,\" Grady said.\nThe storied venture capital firm, based in Menlo Park, has invested in companies including Apple, Nvidia, Reddit, and SpaceX.\nThe partners said that they train their junior investors, who are historically \"A+\" students, to build a risk appetite.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-11-19T13:06:49Z",
+    "bias": "lean left",
+    "publishedAt": "2025-12-10T05:06:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot",
+    "title": "I\u2019m obsessed with Redfin\u2019s AI search",
+    "summary": "Image: Redfin / The VergeIt was on one such occasion recently when I opened the Redfin website and saw an unfamiliar prompt when I tapped on the search bar: the option to search listings with AI.\nThe Redfin AI search has some expected guardrails: it will politely refuse if you ask it to find houses likely to be haunted, or a home in the Los Angeles area that looks like Pee-Wee\u2019s Playhouse.\nWith natural language search, you don\u2019t need to spend hours tinkering with filters and keywordsFor all the questionable-at-best ways AI is being bolted onto things these days, AI search on a real estate website strikes me as actually useful.\nWith natural language search, you don\u2019t need to spend hours tinkering with filters and keywords like I have; the AI just does all that administrative stuff for you.\nVerge editor-in-chief Nilay Patel does a lot of window-shopping on Cars.com and reports that its AI search is hot garbage.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-12-09T19:10:36Z",
     "source": "The Verge"
   },
   {
-    "url": "https://www.theverge.com/podcast/825979/ai-agents-are-invading-your-pc",
-    "title": "AI agents are invading your PC",
-    "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nFor a long, long time, Windows looked like Windows.\nWith Windows 8, Microsoft tried to completely change things\u2026 and we know how that went over.\nTo hear Microsoft CEO Satya Nadella tell it, you may not even use your own computer for long!\nAnd so it is putting agents in every nook and cranny of Windows, starting with the taskbar.",
+    "url": "https://www.businessinsider.com/future-war-needs-one-soldier-controlling-many-drones-ukraine-ceo-2025-12",
+    "title": "Robotics industry insider says the future is one soldier backed by AI controlling swarms of drones",
+    "summary": "Alfons Cabrera/NurPhoto via Getty ImagesThe future of warfare will demand one soldier being able to control huge swarms of drones that can work together autonomously, a Ukrainian arms maker predicted.\nWith a one-pilot, one-drone system, the only way to scale up drone fleets is by expanding the number of operators.\nA need for drone massRussia's invasion of Ukraine has involved more drones than any other conflict in history, and innovation in their capabilities has been rapid.\nDrone technology is critical for Ukraine, vastly outnumbered by Russia's significantly larger military, as it offers mass.\nAchi said the current autonomy in defense systems is \"greatly overhyped,\" but noted that the battlefield shows autonomy is necessary and \"past the point of no return.\"",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-11-21T15:15:22Z",
+    "publishedAt": "2025-12-10T12:33:51Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/day-job-advertising-creative-agency-behind-tbpn-tech-cpg-brands-2025-12",
+    "title": "Meet the branding agency behind the buzzy TBPN podcast",
+    "summary": "One answer: call Day Job, a Los Angeles-headquartered creative agency.\nTBPN hired creative agency Day Job to oversee its branding.\nDay Job worked with Stuut, which uses AI to process payments, to push against that narrative and presented it as a fun tool.\nAtherton said she came to Day Job after hearing about their work with TBPN.\nWhen working with clients, Day Job will act as a sort of therapist, probing founders with existential questions.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-12-07T10:05:02Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables",
+    "title": "No one knows what to call these things",
+    "summary": "The term \u201cAI glasses\u201d is in.\nFraming these devices as AI glasses does two things: first, it tells consumers that these glasses are not like Google Glass; second, it positions artificial intelligence, not augmented reality, as a reason to buy them.\nAfter my Project Aura demo, I hopped on a call with Xreal CEO Chi Xu and asked what he categorizes Aura as.\nThere\u2019s a recurring theme: AI glasses are stylish devices you wear all day, even when their batteries die.\nI\u2019m still not sold on the term \u201cAI glasses,\u201d though I\u2019ll acknowledge that \u201csmart glasses\u201d may not be enough on its own anymore.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-12-10T15:33:21Z",
     "source": "The Verge"
   },
   {
-    "url": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero",
-    "title": "AI, my unexpected daily travel companion",
-    "summary": "I was starting to doubt it would ever happen, but I finally found a regular, helpful use for AI: vanlife travel planner.\nSo far, the AI results we\u2019ve gotten have been highly reliable.\nScreengrab: GeminiThis type of response goes far beyond anything Google search can produce \u2014 even its AI Overview summaries lack weather integration.\nThe best Google search could do was confirm that yes, people kitesurf in Noli.\nI had been dubious about AI\u2019s ability to benefit my day-to-day life prior to using it as a travel companion.",
+    "url": "https://www.businessinsider.com/pwc-companies-embracing-ai-see-revenue-boosts-2025-12",
+    "title": "PwC: AI Feels Overwhelming, but Fast Adopters Win 3 Times Revenue",
+    "summary": "Global companies routinely look to PwC, one of the industry's leading consulting and accounting firms, for answers to their most consequential business questions.\nWe now have to scale the impact of AI in organizations,\" Atkinson said.\nAccording to PwC's data, organizations that adopt AI more quickly have seen three times the revenue per employee compared to those that proceed more slowly.\nPwC and other leading consulting firms have embraced AI, pitching themselves as client zero for the solutions they offer to clients and implementing AI solutions across all operations.\nNew hires at PwC will be doing the roles that managers are doing within three years because of AI, Jenn Kosar, PwC's AI assurance leader, told Business Insider in August.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-11-19T09:48:59Z",
+    "publishedAt": "2025-12-09T10:56:26Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.businessinsider.com/anthropic-researchers-ai-agent-skills-barry-zhang-mahesh-murag-2025-12",
+    "title": "Anthropic researchers say the industry should stop building tons of AI agents \u2014 the real breakthrough is something simpler",
+    "summary": "Anthropic researchers say the industry doesn't need more AI agents, but rather \"skills\" that equip agents with expertise and reusable workflows.\nAnthropic researchers say the industry doesn't need more AI agents, but rather \"skills\" that equip agents with expertise and reusable workflows.\niStock; Rebecca Zisser/BIAnthropic researchers say the industry doesn't need more AI agents, but rather \"skills\" that equip agents with expertise and reusable workflows.\niStock; Rebecca Zisser/BIThe tech industry has spent the past year racing to build AI agents, but Anthropic researchers say a simpler idea can make AI more effective on the job.\nThe rise of AI agentsTech leaders have described AI agents as a potential game-changer for office work.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-12-09T07:28:58Z",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://www.theverge.com/news/842053/spotify-ai-prompted-playlists",
+    "title": "Spotify\u2019s Prompted Playlists use AI to control your algorithm",
+    "summary": "A new beta feature on Spotify takes the idea behind the Discover Weekly playlist and puts the control in users\u2019 hands through AI prompts.\nThen Spotify\u2019s AI curates a playlist based on those instructions and the user\u2019s listening history.\nUsers can also set Prompted Playlists to regularly refresh with new songs based on the same prompt, effectively allowing you to make a Discover Weekly playlist with an algorithm you control.\nEarlier this year, Discover Weekly playlists got options to prioritize certain genres, but users can\u2019t direct the playlist\u2019s algorithm beyond that.\nPrompted Playlists let you control Spotify\u2019s AI by telling it what you want to listen to.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-12-10T22:11:57Z",
     "source": "The Verge"
   }
 ]
