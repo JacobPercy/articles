@@ -1,182 +1,92 @@
 [
   {
+    "id": "MTI=",
     "url": "https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill",
     "title": "Next-generation nuclear reactors could get a boost from the National Defense Authorization Act",
     "summary": "President Trump signed the National Defense Authorization Act (NDAA) for Fiscal Year 2026 Thursday with measures that further the bipartisan push for next-generation nuclear power plants.\nThe Trump administration has embraced the technology as a new energy source for data centers demanding greater amounts of electricity for AI.\nMany Democrats, meanwhile, have championed smaller and ostensibly cheaper and easier-to-build nuclear reactors as a carbon pollution-free energy source that can help fight climate change.\nThe International Nuclear Energy Act establishes working groups and boosts funding and interagency cooperation on the development and export of US nuclear technologies.\nThe bill also directs the Department of Defense to create an executive agent role \u201cfor installation and operational nuclear energy.\u201d",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2025-12-19T22:04:48Z",
-    "source": "The Verge"
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
   },
   {
-    "url": "https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae",
-    "title": "Don\u2019t expect Trump Media\u2019s nuclear fusion power plant to generate electricity soon",
-    "summary": "Trump Media \u2014 yup, the parent company of Truth Social \u2014 is the latest entrant in the near century-long race to develop a nuclear fusion power plant.\nGoogle and Microsoft have announced agreements to purchase electricity from fusion power plants that other companies plan to complete by the late 2020s or 2030s.\nThere are no utility scale nuclear fusion power plants yet, despite the rush of initiatives to design one that might actually work.\nHow do we know TAE and Trump Media can actually make fusion power plants a reality?\nA laser fusion power plant would likely need to achieve a gain of 50 to 100.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-12-19T18:05:38Z",
-    "source": "The Verge"
-  },
-  {
+    "id": "MzY=",
     "url": "https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/",
     "title": "Pumped Hydro Energy Storage Is Having a Renaissance",
     "summary": "But today grid operators increasingly value pumped hydro plants as workhorses able to mediate highly variable wind and solar assets.\nPumped hydro plants could help to solve this problem but building them has often been expensive and difficult.\nVast reservoirs and towering mountains, historically associated with pumped hydro projects, may no longer be essential.\nThe IHA estimates that 600 GW of pumped hydro projects are in the global pipeline.\nOne project that helped boost that total was the 3.6 GW pumped hydro plant in Fengning, China.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2025-12-18T10:30:00Z",
-    "source": "Wired"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c5ydzl0nwqeo",
-    "title": "Australian PM announces intelligence review as country mourns Bondi attack",
-    "summary": "Australian PM announces intelligence review as country mourns Bondi attack17 hours ago Share Save Share SaveWatch: 'You can't let fear win' - Bondi beachgoers return after fatal attackKaty Watson , Australia Correspondent at Bondi Beach and Harry SekulichAustralia's Prime Minister Anthony Albanese has announced a review into the police and national intelligence agencies after the Bondi Beach attack in Sydney.\nAt least one member of the crowd shouted \"blood on your hands\" while another was tackled by police after moving towards the prime minister.\nAfter the Bondi Beach attack last Sunday, Netanyahu said Albanese's government \"did nothing to stop the spread of antisemitism in Australia\".\nThe Australian prime minister denies the accusation.\nThe bridge where two gunmen opened fire on a crowd of people at a Jewish festival at Bondi beach on Sunday, 14 December.",
-    "category": "environment",
-    "bias": "right",
-    "publishedAt": "2025-12-21T04:43:19Z",
+    "publishedAt": "2025-12-21T11:11:13Z",
     "source": "BBC News"
   },
   {
-    "url": "https://hardware.slashdot.org/story/25/12/18/200251/ais-water-and-electricity-use-soars-in-2025",
-    "title": "AI's Water and Electricity Use Soars In 2025",
-    "summary": "\"It is better for civilization to be going down the drain than to be coming up it.\"\n-- Henry Allen",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2025-12-18T22:40:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "url": "https://www.yahoo.com/news/articles/residents-multibillion-dollar-giant-court-033000078.html",
-    "title": "Residents take multibillion-dollar giant to court as their homes begin to vanish: 'We are the ones suffering'",
-    "summary": "Residents face eroding beaches and the threat of homes being submerged, and they accused the company of contributing to rising sea levels.\nThe country has seen sea levels rise by about 4.25 millimeters a year since 1992, per the report.\nWhy is Indonesia's island erosion concerning?\nRising sea levels can destroy homes, livelihoods, and vital ecosystems like coral reefs.\nA fisherman quoted in the TRF report said the shrubs are \"breeding grounds for fish, sea cucumbers, and crabs.\"",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2025-12-20T03:30:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "url": "https://www.yahoo.com/news/articles/officials-spark-backlash-decision-shutdown-190000301.html",
-    "title": "Officials spark backlash with decision on shutdown nuclear submarine: 'It is disappointing'",
-    "summary": "An ambitious submarine dismantling project has been halted due to safety concerns regarding the reactor material contained inside.\nAdvertisement AdvertisementAdvertisement AdvertisementThere's been a nuclear submarine dismantling process underway at the dockyard for the past 10 years.\nBut without a safe facility to further dispose of the radioactive waste, the dismantling plan has been put on hold.\nPreventing exposure to radioactive waste is a positive step because it addresses a significant concern about nuclear energy.\nFor example, nuclear energy could support national energy security, generate large amounts of low-carbon electricity with minimal pollution, and help diversify the world's energy mix.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-12-21T19:00:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
+    "id": "Mzk=",
     "url": "https://news.slashdot.org/story/25/12/18/1716218/2026-will-bring-heat-more-than-14c-above-preindustrial-levels-uk-met-office-says",
     "title": "2026 Will Bring Heat More Than 1.4C Above Preindustrial Levels, UK Met Office Says",
-    "summary": "\"It is better for civilization to be going down the drain than to be coming up it.\"\n-- Henry Allen",
+    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
     "category": "environment",
-    "bias": "left",
-    "publishedAt": "2025-12-18T17:25:00Z",
-    "source": "Slashdot.org"
+    "bias": "lean right",
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
   },
   {
-    "url": "https://www.yahoo.com/news/articles/scientists-disturbing-discovery-human-urine-000000754.html",
-    "title": "Scientists make disturbing discovery in human urine samples: 'We urgently need to classify [this]'",
-    "summary": "Over the course of the study, 150 urine samples were collected from three different populations across South China.\nWhy is the discovery of tire chemicals in urine important?\nWhat's being done about toxic tire chemicals?\n\"We urgently need to classify tire particles as a unique pollution category,\" Obanya wrote.\n\"This means the consequences of tire pollution can be unexpected and far reaching.\"",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-12-19T00:00:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
+    "id": "NDA=",
     "url": "https://www.yahoo.com/news/articles/scientists-uncover-potentially-game-changing-235000029.html",
     "title": "Scientists uncover potentially game-changing universal new benefit after planting mushrooms: 'Unsung hero'",
     "summary": "As the BBC reported, the architecture firm Redhouse Studio developed a \"mycotecture\" method that uses fungal mycelium to break down toxic materials.\nRedhouse Studio is changing the way people think about toxic demolition debris, construction scrap materials, and polluted soils.\nThis news is encouraging because it offers a natural solution to address mounting construction waste as development demand steadily increases.\nRedhouse Studio has already been using its fungi technology to address housing and health crises in Cleveland, Ohio.\n\"Decades of racist city planning, banking, and industrial practices have poisoned communities and blighted neighborhoods,\" Redhouse Studio wrote.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2025-12-19T23:50:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
   },
   {
-    "url": "https://www.yahoo.com/news/articles/video-captures-moment-900-000-012000372.html",
-    "title": "Video captures moment $900,000 yacht sinks minutes after launch: 'Shocking'",
-    "summary": "A maiden launch turned into an unfortunate event when a newly built yacht tipped over and sank within minutes.\nAccording to The Economic Times, the 24-meter luxury yacht Dolce Vento had just completed construction and was on its maiden launch when it abruptly listed sideways and sank roughly 200 meters off the coast of Ere\u011fli, Turkey.\nSHOCKING: Luxury yacht Dolce Vento sinks just 15 minutes after launch off Ere\u011fli, Turkey!\npic.twitter.com/dLi8NejsGF \u2014 Greek City Times (@greekcitytimes) September 3, 2025The Greek City Times (@greekcitytimes) shared the video on X, saying, \"Shocking: Luxury yacht Dolce Vento sinks just 15 minutes after launch.\"\nIt also prompted discussions on the environmental toll of luxury yachts and other extravagances.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2025-12-20T01:20:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "url": "https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion",
-    "title": "Trump Media is merging with a nuclear fusion company",
-    "summary": "Trump Media, the company that runs social network Truth Social, is pivoting to nuclear fusion.\nIt has announced a merger with California-based fusion power company TAE Technologies and plans to start construction on a fusion power plant in 2026.\nTrump Media & Technology Group will become the holding company of the new organization, though shareholders from each company will own approximately half of the newly formed firm, which the companies say will be valued at more than $6 billion.\nPresident Trump previously owned a majority share in Trump Media, but transferred that to a trust managed by his son, Donald Trump Jr., before taking office in January.\nAs for Trump Media, it posted a loss of almost $55 million in Q3 2025, but has substantial digital assets after branching out into crypto this May.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2025-12-18T13:06:16Z",
-    "source": "The Verge"
-  },
-  {
-    "url": "https://www.wired.com/story/opposed-to-data-centers-the-working-families-party-wants-you-to-run-for-office/",
-    "title": "Opposed to Data Centers? The Working Families Party Wants You to Run for Office",
-    "summary": "The Working Families Party said Thursday that it is putting out a specific recruitment call for people who are organizing against data centers in their communities to run for office.\nThe announcement comes amid a period of heightened political turmoil around data centers, as some high-profile Democrats wade into the fight.\n\u201cWe see our role as responding to what working families and working people are concerned about, what issues are keeping them up at night,\u201d says Ravi Mangla, the national press secretary for the Working Families Party.\nThe political ripple around data centers has lasted beyond the midterms\u2014and stretched beyond just Virginia.\n\u201cThere are people who are clearly stepping up in their communities, organizing their neighbors, and leading the charge to push back against these data centers.\u201d",
-    "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2025-12-18T14:00:00Z",
-    "source": "Wired"
-  },
-  {
+    "id": "NDE=",
     "url": "https://www.yahoo.com/news/articles/researchers-raise-concerns-discovering-powerful-011500704.html",
     "title": "Researchers raise concerns after discovering powerful ocean phenomenon: 'Expected to increase significantly'",
     "summary": "As polar sea ice continues to shrink, small-scale churning and mixing in the Arctic Ocean are becoming stronger.\nIn a recent study published in the journal Nature Climate Change, researchers at the Institute for Basic Science examined the future of mesoscale horizontal stirring in the Arctic Ocean.\nThey discovered that as polar sea ice continues to melt due to rising global temperatures, the level of churning in the Arctic Ocean is intensifying.\n\"Nevertheless, if global warming continues, horizontal mixing is expected to increase significantly in both regions.\"\nIn an effort to combat rising global temperatures, many countries are enacting policies focused on reducing the use of fossil fuels.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2025-12-18T01:15:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
   },
   {
+    "id": "NDI=",
     "url": "https://www.yahoo.com/news/articles/scientists-discover-concerning-phenomenon-could-011500264.html",
     "title": "Scientists discover concerning phenomenon that could cause devastating floods: 'Even more intense'",
     "summary": "Dr. Pepin explained, \"Mountains share many characteristics with Arctic regions and are experiencing similarly rapid changes.\"\nAdvertisement AdvertisementAdvertisement AdvertisementHe added that both areas are experiencing significant snow and ice loss, and it's changing the ecosystems.\nWhy is snow and ice loss in the mountains concerning?\nWhile the loss of snow and ice is harmful to mountain communities, it's not just those communities that suffer.\nDr. Pepin also noted, \"When you transition from snowfall to rain because it has become warmer, you're more likely to get devastating floods.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2025-12-19T01:15:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
   },
   {
+    "id": "NDM=",
     "url": "https://www.yahoo.com/news/articles/schools-told-keep-children-inside-111000982.html",
     "title": "Schools told to keep children inside as polluted fog envelops Bosnian capital",
     "summary": "SARAJEVO, Bosnia-Herzegovina (AP) \u2014 Flights were cancelled, children were told to stay indoors and outdoors construction work was banned in Sarajevo Thursday as a thick layer of fog enveloped the Bosnian capital.\nAdvertisement AdvertisementAdvertisement AdvertisementThe Swiss air quality technology company IQAir on Thursday ranked air quality in Sarajevo as \u201cunhealthy.\"\nThe city often tops the list of places with poor air quality globally.\nAuthorities on Wednesday banned trucks of over 3.5 tons in the Sarajevo city center along with cars and trucks that do not meet European Union environmental standards.\nAny construction work outside has been banned as well as public gatherings.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2025-12-18T11:10:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
   },
   {
-    "url": "https://www.yahoo.com/news/articles/government-research-exposes-culprits-behind-072000708.html",
-    "title": "New government research exposes the culprits behind massive energy cost increases: 'Prices are expected to continue rising'",
-    "summary": "U.S. energy prices are expected to continue to go up next year, according to new data from the Energy Information Administration.\nWhy are rising energy costs concerning?\nFor Americans already dealing with higher prices for things like groceries and rent, higher energy costs are a punch in the gut.\nOne way to help protect yourself from rising energy prices is to invest in solar.\nTCD's Solar Explorer is a great resource to help you make sense of all the options available.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2025-12-21T07:20:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "url": "https://shopping.yahoo.com/home-garden/gardening/articles/expert-explains-homeowners-avoid-cleaning-173000578.html",
-    "title": "Expert explains what homeowners should avoid cleaning on their property: 'So much easier'",
-    "summary": "\"Finding (invasive species) is so much easier this time of year!\"\nAdvertisement AdvertisementAdvertisementThe fallen leaves can also help suppress weeds and retain moisture in the soil.\nThe original poster said that it is important to get rid of invasive species in the fall, when they are typically much easier to spot.\nHome gardeners can help the local ecosystem and biodiversity by fostering natural lawns and rewilding their yards with native species.\nNative species require less maintenance and resources because they are acclimated to the climate and conditions.",
+    "id": "NDU=",
+    "url": "https://www.npr.org/2025/12/19/nx-s1-5648270/trump-weather-climate-national-center-atmospheric-research-ncar",
+    "title": "Scientists push back on Trump plan to break up a critical climate and weather center",
+    "summary": "Scientists push back on Trump plan to break up a critical climate and weather centertoggle caption Chip Somodevilla/Getty ImagesThe White House plans to break up a key weather and climate research center in Colorado, a move experts say could jeopardize the accuracy of forecasting and prediction systems.\nIt's the latest climate-related move by President Trump, who has called climate change a hoax, cut funding for climate research, and removed climate and weather scientists from their posts across the federal government.\nAmerican Meteorological Society President David Stensrud says he has used NCAR weather models throughout his career.\nHe calls NCAR \"a world-envied research center for atmospheric science\" and \"a beating heart for the atmospheric science community.\"\nThe administration has also rolled back National Science Foundation funding for climate science.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2025-12-21T17:30:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
   },
   {
-    "url": "https://finance.yahoo.com/news/boeing-seeks-faa-emissions-waiver-225330159.html",
-    "title": "Boeing seeks FAA emissions waiver to sell 35 additional 777F freighters",
-    "summary": "By David ShepardsonWASHINGTON, Dec 19 (Reuters) - Boeing (BA) on Friday asked the Federal Aviation Administration for a waiver of airplane emissions rules to allow it to \u200bsell another 35 Boeing 777F freighters, citing strong customer demand and a \u200cdelay in the next-generation plane's certification.\nBoeing said the waiver would allow it to meet anticipated customer demand for cargo planes prior to the 777-8F entering service.\nBoeing said large widebody freighters are crucial to the export of goods.\n\"Of \u200cthe $600 billion in goods exported by air cargo in 2024, more than $260 billion were transported on large widebody freighters,\" Boeing said.\nBoeing \u2060said the 777F is the most fuel-efficient airplane for \u200bthe global freight market and the only large \u200bwidebody freighter in production.",
+    "id": "NDc=",
+    "url": "https://www.yahoo.com/news/articles/researchers-sound-alarm-discovering-warning-003000373.html",
+    "title": "Researchers sound alarm after discovering 'warning signal' in Dead Sea: 'It was a jarring moment'",
+    "summary": "The Press Service of Israel caught up with the authors of a study titled, \"Warning signal from the Dead Sea: Plastic pollution at the deepest hypersaline lake.\"\nAdvertisement AdvertisementAdvertisement AdvertisementThe researchers relayed that the Kidron Stream is taking heaping amounts of trash from Jerusalem to the Dead Sea.\nNewer formations of plastic trash called \"plastic rings\" are now reaching hundreds of kilograms in size.\nIf left alone, plastic pollution could completely take over the area, making getting to the Dead Sea difficult.\nAdvertisement AdvertisementAdvertisement AdvertisementTheir work in documenting just how bad the problem is getting at the Dead Sea should play a large role in the education front.",
     "category": "environment",
-    "bias": "left",
-    "publishedAt": "2025-12-19T22:53:30Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "url": "https://www.yahoo.com/news/articles/viewers-laugh-watching-test-run-131500076.html",
-    "title": "Viewers laugh after watching test run of Japan's new high-speed train \u2014 here's what happened",
-    "summary": "Reporters stood by waiting to catch a glimpse of Japan's fast high-speed train on the new Chuo Shinkansen rail line, and if any of them blinked, they missed it.\nAccording to SupercarBlondie, what the reporters witnessed was a test run for Japan's next-gen rail system, currently in development.\nThe railway will eventually connect from Tokyo to Osaka with a ride time of about an hour, compared to the roughly 2.5 hours it currently takes on conventional high-speed rail.\nThe top speed of a train on the Chuo Shinkansen line is 314 mph.\nAdvertisement AdvertisementAdvertisement AdvertisementWhen finished, the Chuo Shinkansen line will run about 286 kilometers (177 miles).",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-12-21T13:15:00Z",
-    "source": "Yahoo Entertainment"
+    "bias": "lean left",
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
   }
 ]
