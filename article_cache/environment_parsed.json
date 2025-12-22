@@ -1,6 +1,6 @@
 [
   {
-    "id": "MTI=",
+    "id": "MTA=",
     "url": "https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill",
     "title": "Next-generation nuclear reactors could get a boost from the National Defense Authorization Act",
     "summary": "President Trump signed the National Defense Authorization Act (NDAA) for Fiscal Year 2026 Thursday with measures that further the bipartisan push for next-generation nuclear power plants.\nThe Trump administration has embraced the technology as a new energy source for data centers demanding greater amounts of electricity for AI.\nMany Democrats, meanwhile, have championed smaller and ostensibly cheaper and easier-to-build nuclear reactors as a carbon pollution-free energy source that can help fight climate change.\nThe International Nuclear Energy Act establishes working groups and boosts funding and interagency cooperation on the development and export of US nuclear technologies.\nThe bill also directs the Department of Defense to create an executive agent role \u201cfor installation and operational nuclear energy.\u201d",
@@ -10,7 +10,7 @@
     "source": "BBC News"
   },
   {
-    "id": "MzY=",
+    "id": "MzI=",
     "url": "https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/",
     "title": "Pumped Hydro Energy Storage Is Having a Renaissance",
     "summary": "But today grid operators increasingly value pumped hydro plants as workhorses able to mediate highly variable wind and solar assets.\nPumped hydro plants could help to solve this problem but building them has often been expensive and difficult.\nVast reservoirs and towering mountains, historically associated with pumped hydro projects, may no longer be essential.\nThe IHA estimates that 600 GW of pumped hydro projects are in the global pipeline.\nOne project that helped boost that total was the 3.6 GW pumped hydro plant in Fengning, China.",
@@ -20,17 +20,37 @@
     "source": "BBC News"
   },
   {
-    "id": "Mzk=",
+    "id": "MzM=",
+    "url": "https://hardware.slashdot.org/story/25/12/18/200251/ais-water-and-electricity-use-soars-in-2025",
+    "title": "AI's Water and Electricity Use Soars In 2025",
+    "summary": "What we anticipate seldom occurs; what we least expect generally happens.\n-- Bengamin Disraeli",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MzQ=",
+    "url": "https://www.yahoo.com/news/articles/officials-spark-backlash-decision-shutdown-190000301.html",
+    "title": "Officials spark backlash with decision on shutdown nuclear submarine: 'It is disappointing'",
+    "summary": "An ambitious submarine dismantling project has been halted due to safety concerns regarding the reactor material contained inside.\nAdvertisement AdvertisementAdvertisement AdvertisementThere's been a nuclear submarine dismantling process underway at the dockyard for the past 10 years.\nBut without a safe facility to further dispose of the radioactive waste, the dismantling plan has been put on hold.\nPreventing exposure to radioactive waste is a positive step because it addresses a significant concern about nuclear energy.\nFor example, nuclear energy could support national energy security, generate large amounts of low-carbon electricity with minimal pollution, and help diversify the world's energy mix.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2025-12-21T11:11:13Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MzU=",
     "url": "https://news.slashdot.org/story/25/12/18/1716218/2026-will-bring-heat-more-than-14c-above-preindustrial-levels-uk-met-office-says",
     "title": "2026 Will Bring Heat More Than 1.4C Above Preindustrial Levels, UK Met Office Says",
-    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
+    "summary": "Slashdot is powered by your submissions, so send in your scoop",
     "category": "environment",
     "bias": "lean right",
     "publishedAt": "2025-12-21T11:11:13Z",
     "source": "BBC News"
   },
   {
-    "id": "NDA=",
+    "id": "MzY=",
     "url": "https://www.yahoo.com/news/articles/scientists-uncover-potentially-game-changing-235000029.html",
     "title": "Scientists uncover potentially game-changing universal new benefit after planting mushrooms: 'Unsung hero'",
     "summary": "As the BBC reported, the architecture firm Redhouse Studio developed a \"mycotecture\" method that uses fungal mycelium to break down toxic materials.\nRedhouse Studio is changing the way people think about toxic demolition debris, construction scrap materials, and polluted soils.\nThis news is encouraging because it offers a natural solution to address mounting construction waste as development demand steadily increases.\nRedhouse Studio has already been using its fungi technology to address housing and health crises in Cleveland, Ohio.\n\"Decades of racist city planning, banking, and industrial practices have poisoned communities and blighted neighborhoods,\" Redhouse Studio wrote.",
@@ -40,7 +60,7 @@
     "source": "BBC News"
   },
   {
-    "id": "NDE=",
+    "id": "Mzc=",
     "url": "https://www.yahoo.com/news/articles/researchers-raise-concerns-discovering-powerful-011500704.html",
     "title": "Researchers raise concerns after discovering powerful ocean phenomenon: 'Expected to increase significantly'",
     "summary": "As polar sea ice continues to shrink, small-scale churning and mixing in the Arctic Ocean are becoming stronger.\nIn a recent study published in the journal Nature Climate Change, researchers at the Institute for Basic Science examined the future of mesoscale horizontal stirring in the Arctic Ocean.\nThey discovered that as polar sea ice continues to melt due to rising global temperatures, the level of churning in the Arctic Ocean is intensifying.\n\"Nevertheless, if global warming continues, horizontal mixing is expected to increase significantly in both regions.\"\nIn an effort to combat rising global temperatures, many countries are enacting policies focused on reducing the use of fossil fuels.",
@@ -50,7 +70,7 @@
     "source": "BBC News"
   },
   {
-    "id": "NDI=",
+    "id": "Mzg=",
     "url": "https://www.yahoo.com/news/articles/scientists-discover-concerning-phenomenon-could-011500264.html",
     "title": "Scientists discover concerning phenomenon that could cause devastating floods: 'Even more intense'",
     "summary": "Dr. Pepin explained, \"Mountains share many characteristics with Arctic regions and are experiencing similarly rapid changes.\"\nAdvertisement AdvertisementAdvertisement AdvertisementHe added that both areas are experiencing significant snow and ice loss, and it's changing the ecosystems.\nWhy is snow and ice loss in the mountains concerning?\nWhile the loss of snow and ice is harmful to mountain communities, it's not just those communities that suffer.\nDr. Pepin also noted, \"When you transition from snowfall to rain because it has become warmer, you're more likely to get devastating floods.",
@@ -60,7 +80,7 @@
     "source": "BBC News"
   },
   {
-    "id": "NDM=",
+    "id": "Mzk=",
     "url": "https://www.yahoo.com/news/articles/schools-told-keep-children-inside-111000982.html",
     "title": "Schools told to keep children inside as polluted fog envelops Bosnian capital",
     "summary": "SARAJEVO, Bosnia-Herzegovina (AP) \u2014 Flights were cancelled, children were told to stay indoors and outdoors construction work was banned in Sarajevo Thursday as a thick layer of fog enveloped the Bosnian capital.\nAdvertisement AdvertisementAdvertisement AdvertisementThe Swiss air quality technology company IQAir on Thursday ranked air quality in Sarajevo as \u201cunhealthy.\"\nThe city often tops the list of places with poor air quality globally.\nAuthorities on Wednesday banned trucks of over 3.5 tons in the Sarajevo city center along with cars and trucks that do not meet European Union environmental standards.\nAny construction work outside has been banned as well as public gatherings.",
@@ -70,17 +90,7 @@
     "source": "BBC News"
   },
   {
-    "id": "NDU=",
-    "url": "https://www.npr.org/2025/12/19/nx-s1-5648270/trump-weather-climate-national-center-atmospheric-research-ncar",
-    "title": "Scientists push back on Trump plan to break up a critical climate and weather center",
-    "summary": "Scientists push back on Trump plan to break up a critical climate and weather centertoggle caption Chip Somodevilla/Getty ImagesThe White House plans to break up a key weather and climate research center in Colorado, a move experts say could jeopardize the accuracy of forecasting and prediction systems.\nIt's the latest climate-related move by President Trump, who has called climate change a hoax, cut funding for climate research, and removed climate and weather scientists from their posts across the federal government.\nAmerican Meteorological Society President David Stensrud says he has used NCAR weather models throughout his career.\nHe calls NCAR \"a world-envied research center for atmospheric science\" and \"a beating heart for the atmospheric science community.\"\nThe administration has also rolled back National Science Foundation funding for climate science.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2025-12-21T11:11:13Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "NDc=",
+    "id": "NDQ=",
     "url": "https://www.yahoo.com/news/articles/researchers-sound-alarm-discovering-warning-003000373.html",
     "title": "Researchers sound alarm after discovering 'warning signal' in Dead Sea: 'It was a jarring moment'",
     "summary": "The Press Service of Israel caught up with the authors of a study titled, \"Warning signal from the Dead Sea: Plastic pollution at the deepest hypersaline lake.\"\nAdvertisement AdvertisementAdvertisement AdvertisementThe researchers relayed that the Kidron Stream is taking heaping amounts of trash from Jerusalem to the Dead Sea.\nNewer formations of plastic trash called \"plastic rings\" are now reaching hundreds of kilograms in size.\nIf left alone, plastic pollution could completely take over the area, making getting to the Dead Sea difficult.\nAdvertisement AdvertisementAdvertisement AdvertisementTheir work in documenting just how bad the problem is getting at the Dead Sea should play a large role in the education front.",
