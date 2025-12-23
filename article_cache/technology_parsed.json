@@ -1,116 +1,56 @@
 [
   {
-    "id": "MA==",
-    "url": "https://www.bbc.com/news/articles/c0r9280gvelo",
-    "title": "AI likely to displace jobs, says Bank of England governor",
-    "summary": "AI likely to displace jobs, says Bank of England governorHowever, he warned that there was an issue with younger, inexperienced professionals finding it difficult to secure entry-level roles due to AI.\nAndrew Bailey said the UK needed to have the \"training, education, [and] skills in place\" so workers could shift into jobs that use AI.\nThe widespread adoption of artificial intelligence (AI) is likely to displace people from jobs in a similar way seen during the Industrial Revolution, the governor of the Bank of England has said.\nEntry-level professional jobs are thought to be most impacted by AI, particularly in sectors such as law, accountancy and administration.\nMr Bailey said AI was the \"most likely source of the next leg up\" for UK economic growth.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-12-19T06:00:08Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "OA==",
-    "url": "https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill",
-    "title": "Next-generation nuclear reactors could get a boost from the National Defense Authorization Act",
-    "summary": "President Trump signed the National Defense Authorization Act (NDAA) for Fiscal Year 2026 Thursday with measures that further the bipartisan push for next-generation nuclear power plants.\nThe Trump administration has embraced the technology as a new energy source for data centers demanding greater amounts of electricity for AI.\nMany Democrats, meanwhile, have championed smaller and ostensibly cheaper and easier-to-build nuclear reactors as a carbon pollution-free energy source that can help fight climate change.\nThe International Nuclear Energy Act establishes working groups and boosts funding and interagency cooperation on the development and export of US nuclear technologies.\nThe bill also directs the Department of Defense to create an executive agent role \u201cfor installation and operational nuclear energy.\u201d",
+    "id": "Nw==",
+    "url": "https://finance.yahoo.com/news/bitcoin-hit-200-000-2026-043106493.html",
+    "title": "Bitcoin Will Hit $200,000 In 2026 Thanks To This New Federal Reserve Program, Arthur Hayes Says",
+    "summary": "Bitcoin (CRYPTO: BTC) is consolidating below $90,000, but BitMEX co-founder Arthur Hayes says the pause masks a powerful liquidity-driven move that could send the cryptocurrency to $200,000 in 2026.\nWhat Happened: In his latest essay, \"Love Language,\" Hayes argues the Federal Reserve's newly introduced \"Reserve Management Purchases\" (RMP) program is effectively a rebranded form of Quantitative Easing (QE).\nIn that environment, he believes hard assets such as Bitcoin and gold are the most effective hedges against currency debasement.\nHe also argues the traditional four-year Bitcoin cycle has been replaced by a \"permanent\" cycle of debt monetization.\nPrice Target: Hayes expects Bitcoin to reclaim $124,000 before accelerating toward $200,000 in 2026.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-12-19T22:04:48Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTE=",
-    "url": "https://www.yahoo.com/news/articles/bernie-sanders-calls-halt-ai-143107669.html",
-    "title": "Bernie Sanders Calls For Halt On AI Data Center Construction, Alleges 'Very Very Rich Men' Like Musk, Bezos, Zuckerberg Want More Power And Wealth",
-    "summary": "On Tuesday, Sen. Bernie Sanders (I-Vt.) called for a halt to new AI data center construction, warning that the rapid, billionaire-driven expansion of artificial intelligence is threatening jobs, democracy and public resources.\nSanders Says AI Boom Is Being Driven By Billionaires, Not Public InterestIn a video posted on X, Sanders said AI and robotics are moving faster than society can keep up.\nJob Losses And Social Impact Fuel Sanders' AI ConcernsThe senator pointed to comments from tech executives themselves, noting that Musk has said AI and robots could replace all jobs, making work optional.\nI will be pushing for a moratorium on the construction of data centers that are powering the unregulated sprint to develop & deploy AI.\nEnergy-Hungry Data Centers At Center Of Moratorium PushSanders' call for a moratorium focuses on the data centers that power AI systems.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-12-19T14:31:07Z",
+    "publishedAt": "2025-12-22T04:31:06Z",
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MTM=",
+    "id": "OQ==",
     "url": "https://hardware.slashdot.org/story/25/12/20/0733202/ev-battery-swapping-startup-that-raised-330-million-files-for-bankruptcy",
     "title": "EV Battery-Swapping Startup That Raised $330 Million Files for Bankruptcy",
-    "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
+    "summary": "I've got a bad feeling about this.",
     "category": "technology",
-    "bias": "lean left",
+    "bias": "center",
     "publishedAt": "2025-12-20T17:34:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MTU=",
-    "url": "https://www.theverge.com/report/847956/robot-crime-wave-europe-police-prediction",
-    "title": "Europol imagines robot crime waves in 2035",
-    "summary": "The report continues in an increasingly theoretical manner, suggesting that future robots are likely to give police a tough time.\nAs far-fetched as some of these predictions sound, Europol doesn\u2019t think they\u2019re that far off the mark with their vision for 2035.\nIt also \u201cdepends also on the market, the cost, the ability to produce en masse,\u201d all of which could prevent the kind of robotic uptake imagined in Europol\u2019s report.\nThat said, Masala says he agrees with the overall recommendations of Europol\u2019s researchers.\n\u201cI\u2019m more concerned about police and intelligence agencies exploiting robot vulnerabilities than terrorists, especially given the ongoing authoritarian shifts across the world.\u201d",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-12-19T15:16:27Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTY=",
-    "url": "https://www.yahoo.com/news/articles/russian-defense-firms-targeted-hackers-110543326.html",
-    "title": "Russian defense firms targeted by hackers using AI, other tactics",
-    "summary": "(Corrects spelling in story identifier to RUSSIA-CYBER/UKRAINE)By AJ VicensDec 19 (Reuters) - Russian technology companies working on air defense, sensitive electronics and other defense applications were targeted in recent weeks by a cyber espionage group using AI-generated decoy documents, according to \u200ba cybersecurity analyst.\nThe hacking campaign targeted several Russian companies, according to suspected AI-generated decoy documents discovered by Fishbein, who is the lead author of an \u200danalysis prepared by Intezer.\nThe group's use of AI-generated decoy documents also demonstrates how \"accessible AI tools can be repurposed for malicious goals,\" Fishbein said.\nOthers, however, have suggested a link between the group and other \u2060known pro-Ukrainian hacking efforts.\nA September 2025 report published by Russian cybersecurity firm Kaspersky said Paper Werewolf has potential overlaps with Cloud Atlas, a pro-Ukrainian hacking group dating back more \u200cthan a decade.",
+    "id": "MTM=",
+    "url": "https://www.businessinsider.com/ai-security-gap-companies-researcher-sander-schulhoff-2025-12",
+    "title": "AI is creating a security problem most companies aren't staffed to handle, says an AI researcher",
+    "summary": "An AI security researcher says traditional cybersecurity teams aren't ready for how AI systems fail.\nAn AI security researcher says traditional cybersecurity teams aren't ready for how AI systems fail.\nCravetiger/Getty ImagesAn AI security researcher says traditional cybersecurity teams aren't ready for how AI systems fail.\nImpact LinkCompanies may have cybersecurity teams in place, but many still aren't prepared for how AI systems actually fail, says an AI security researcher.\nThe rise of AI security startupsSchulhoff also said that many AI security startups are pitching guardrails that don't offer real protection.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-12-19T11:05:43Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "MTc=",
-    "url": "https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae",
-    "title": "Don\u2019t expect Trump Media\u2019s nuclear fusion power plant to generate electricity soon",
-    "summary": "Trump Media \u2014 yup, the parent company of Truth Social \u2014 is the latest entrant in the near century-long race to develop a nuclear fusion power plant.\nGoogle and Microsoft have announced agreements to purchase electricity from fusion power plants that other companies plan to complete by the late 2020s or 2030s.\nThere are no utility scale nuclear fusion power plants yet, despite the rush of initiatives to design one that might actually work.\nHow do we know TAE and Trump Media can actually make fusion power plants a reality?\nA laser fusion power plant would likely need to achieve a gain of 50 to 100.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-12-19T18:05:38Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTg=",
-    "url": "https://www.businessinsider.com/nvidia-memo-capital-one-explores-aws-alternatives-ai-control-costs-2025-12",
-    "title": "Capital One is wary about its rising Amazon cloud AI costs, Nvidia memo shows",
-    "summary": "Capital One is concerned about AI costs rising via its cloud-computing relationship with Amazon and may be looking for alternatives, according to an internal Nvidia document obtained by Business Insider.\nNeoclouds are upstart cloud providers, often powered by Nvidia hardware, that focus on AI workloads, whereas AWS supports a much broader range of computing needs.\nCompanies are racing to adopt generative AI but also trying to mitigate rising cloud costs.\nForty-three percent of companies use more than two public cloud providers, according to a recent RBC Capital report.\nThe documents said that 90% of startups in Radical Ventures' portfolio were building primarily on rival clouds due to AWS costs.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-12-19T10:00:01Z",
+    "publishedAt": "2025-12-22T05:29:35Z",
     "source": "Business Insider"
   },
   {
-    "id": "MTk=",
-    "url": "https://finance.yahoo.com/news/google-cloud-lands-deal-palo-130205661.html",
-    "title": "Google Cloud lands deal with Palo Alto Networks 'approaching $10 billion,' per source",
-    "summary": "The contract comprises a commitment by Palo Alto to pay a sum \"approaching $10 \u200cbillion\" to Google Cloud over several years, according to the person with direct knowledge of the matter.\n\"AI has spawned a tremendous amount of demand for security,\" said Matt Renner, chief revenue officer for Google Cloud.\nBoth Google and Palo Alto have invested heavily into security \u2060software as enterprises seek to adopt AI.\nPalo Alto launched AI-driven offerings in October and announced plans to buy software company Chronosphere for $3.35 billion last month.\nPalo Alto CEO Nikesh Arora was a longtime Google executive, serving \u200cas its chief business officer until 2014.",
+    "id": "MTQ=",
+    "url": "https://www.businessinsider.com/healthcare-vc-predictions-2026-more-ai-acquisitions-few-ipos-2025-12",
+    "title": "Healthcare VCs predict more AI transparency investment, private equity M&A, and a quiet year for IPOs in 2026",
+    "summary": "2025 saw a welcome surge in healthcare venture funding as investors rushed to back top AI startups.\nTwo venture-backed digital health companies went public this year: Hinge Health in May, and Omada Health in June.\nAI behind the scenesThis year, investment surged for AI startups tackling administrative burdens for large health systems.\nVaughn Ridley/Sportsfile for Collision via Getty ImagesCautious IPO candidatesThere are a few healthcare companies that could be eyeing the exits next year.\nBut he's anticipating more M&A activity as interest rates come down and private equity buyers look for healthcare AI acquisitions in the VC world.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-12-19T13:02:05Z",
-    "source": "Yahoo Entertainment"
+    "bias": "lean left",
+    "publishedAt": "2025-12-22T10:00:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MjA=",
+    "id": "MTU=",
     "url": "https://developers.slashdot.org/story/25/12/19/236259/stanford-computer-science-grads-find-their-degrees-no-longer-guarantee-jobs",
     "title": "Stanford Computer Science Grads Find Their Degrees No Longer Guarantee Jobs",
-    "summary": "The amount of weight an evangelist carries with the almighty is measured in billigrahams.",
+    "summary": "Please create an account to participate in the Slashdot moderation system",
     "category": "technology",
-    "bias": "left",
+    "bias": "lean right",
     "publishedAt": "2025-12-20T01:00:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MjE=",
-    "url": "https://hbr.org/2025/12/ai-tools-make-coders-more-important-not-less",
-    "title": "AI Tools Make Coders More Important, Not Less",
-    "summary": "Of all the possible applications of generative AI, the value proposition of using it to write code was perhaps the clearest.\nCoding can be slow and it requires expertise, both of which can be expensive.\nMoreover, the promise that anyone who could describe their idea in plain text could create apps, features, or other value-adding products meant that innovation would no longer be limited to those with the skills to execute, but could be done by anyone with an idea.\nThe strength of this promise has created a $7.37 billion market for these tools.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2025-12-19T14:00:00Z",
-    "source": "Harvard Business Review"
-  },
-  {
-    "id": "MjI=",
+    "id": "MTY=",
     "url": "https://finance.yahoo.com/news/moore-threads-unveils-ai-chips-093000651.html",
     "title": "Moore Threads unveils new AI chips to challenge Nvidia",
     "summary": "Chinese chip designer Moore Threads Technology has unveiled a suite of new products, including its next generation of chip architecture and artificial intelligence chips as it looks to challenge US chip-making heavyweights Nvidia and AMD.\nThe launch marks Moore Threads' latest bid to challenge foreign rivals like Nvidia, and comes close on the heels of the company's blockbuster initial public offering on the Shanghai Stock Exchange on December 5.\nZhang Jianzhong, founder and CEO of Moore Threads, pictured in November 2023.\nPhoto: Handout alt=Zhang Jianzhong, founder and CEO of Moore Threads, pictured in November 2023.\nZhang, 59, an Nvidia veteran and former China market general manager who left to found Moore Threads in 2020, acknowledged that local AI developers had previously hesitated to use domestic chips to train their AI models, fearing subpar outcomes.",
@@ -120,37 +60,17 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MjM=",
-    "url": "https://tech.slashdot.org/story/25/12/19/1717228/uber-is-hiring-more-engineers-because-ai-is-making-them-more-valuable-ceo-says",
-    "title": "Uber is Hiring More Engineers Because AI is Making Them More Valuable, CEO Says",
-    "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2025-12-19T17:30:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/",
-    "title": "WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025",
-    "summary": "Articles mentioned in this episode:You can follow Zo\u00eb Schiffer on Bluesky at @zoeschiffer and Brian Barrett on Bluesky at @brbarrett.\nToday on the show, we're wrapping up our news episode series by reflecting on the trends and stories that shaped 2025.\nAnd who better to do that with than Brian Barrett, our executive editor who works tirelessly in the shadows?\nBrian Barrett: Zo\u00eb, thank you.\nBrian Barrett: What a year it's been, and I'm so excited for it to be almost over.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2025-12-19T22:58:41Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/",
-    "title": "Scammers in China Are Using AI-Generated Images to Get Refunds",
-    "summary": "Online shopping platforms have long depended on photos submitted by customers to confirm that refund requests are legitimate.\n\u201cThis is a ceramic cup, not a cardboard cup.\nWho could tear apart a ceramic cup into layers like this?\u201d the seller wrote.\nThe buyer even sent videos showing the dead crabs being poked by a human finger.\nThe case drew widespread attention on Chinese social media, in part because it was the first known AI refund scam of its kind to trigger a regulatory response.",
+    "id": "MTg=",
+    "url": "https://www.businessinsider.com/yoshua-bengio-godfather-beautiful-human-ai-2025-12",
+    "title": "Godfather of AI Shares Advice to His Grandson in the Age of AI: Be a 'Beautiful Human'",
+    "summary": "\"Work on the beautiful human being that you can become,\" Bengio said.\n\"Work on the beautiful human being that you can become,\" Bengio said.\nANGELA WEISS/AFP via Getty Images\"Work on the beautiful human being that you can become,\" Bengio said.\nANGELA WEISS/AFP via Getty ImagesAs AI displaces jobs, one of the \"godfathers of AI\" shared the career advice he'd give to his 4-year-old grandson to prepare him for the future.\n\"Work on the beautiful human being that you can become.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-12-19T19:31:43Z",
-    "source": "Wired"
+    "publishedAt": "2025-12-22T13:04:18Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MjY=",
+    "id": "MTk=",
     "url": "https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/",
     "title": "We May Not Know How Strong AI Humanoid Robots Really Are",
     "summary": "First in the spotlight is the robotics company Figure AI, which is facing a lawsuit from former safety engineer Robert Gruendel.\nThe lawsuit alleges the company's Figure 02 humanoid was shown in tests to be strong enough to \"fracture a human skull,\" and that Gruendel was fired after raising concerns.\nA recent lawsuit alleges the Figure 02 humanoid showed in testing was strong enough to \"fracture a human skull.\"\nEngine AI's T800 humanoid robot squares up.\nTaken together, these two parallel news stories raise questions about what kind of information humanoid robot developers should share so that the risks of this technology are properly understood.",
@@ -160,7 +80,7 @@
     "source": "CNET"
   },
   {
-    "id": "Mjc=",
+    "id": "MjA=",
     "url": "https://www.businessinsider.com/former-tesla-waymo-employee-leadership-lessons-from-elon-musk-2025-12",
     "title": "I worked at Tesla and Waymo. Here are the leadership lessons I bring to my startup.",
     "summary": "My friends and family were telling me it was a big career mistake to work at Tesla.\nJust because it's a flat org structure, doesn't mean it's a horizontal power dynamic.\nIt's a very vertical org structure.\nEven though it's a very vertical org structure, it's a horizontal power structure.\nAt Tesla, it was very clear that Elon and his lieutenants were driving a lot of the decisions.",
@@ -170,17 +90,27 @@
     "source": "Business Insider"
   },
   {
-    "id": "Mjg=",
-    "url": "https://www.androidcentral.com/apps-software/ai/gemini-can-now-tell-you-whether-a-video-was-generated-with-google-ai",
-    "title": "Gemini can now tell you whether a video was generated with Google AI",
-    "summary": "This tool can reveal whether a video was generated or modified with Google AI.\nStarting now, Gemini can verify the authenticity of videos using SynthID in the Gemini app.\nThis video checker can reveal if uploaded content was created or edited with Google AI in any way.\nGoogle says over 20 billion pieces of AI-generated content have been watermarked using SynthID, which digitally watermarks Google AI creations from Veo generations to AI edits in Google Photos.\nTo use the feature, upload a video to the Gemini app and ask a question like \"was this generated using Google AI?\"",
+    "id": "MjE=",
+    "url": "https://www.businessinsider.com/yann-lecun-advice-ai-careers-computer-science-degree-2025-12",
+    "title": "Yann LeCun's advice for young students wanting to go into AI",
+    "summary": "Yann LeCun said if computer science majors don't spend their time wisely, they may find out their degree doesn't add up.\nLeCun, who teaches computer science at NYU, said during a recent podcast appearance that he jokes that he's \"a computer science professor arguing against studying computer science\" based on his push on where students should focus their time.\nThe former chief AI scientist at Meta said his advice is that students \"learn things with a long shelf life.\"\nDepending on the computer science program, not all of these skills may be baked into a degree.\nUniversities and computer science students continue to grapple with how to adapt their programs to the age of generative and increasingly agentic AI.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-12-19T17:11:00Z",
-    "source": "Android Central"
+    "bias": "left",
+    "publishedAt": "2025-12-22T09:03:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "Mjk=",
+    "id": "MjI=",
+    "url": "https://www.theatlantic.com/culture/2025/12/ai-music-suno-warner-bros/685331/",
+    "title": "AI Is Democratizing Music. Unfortunately.",
+    "summary": "The case against AI music feels, to many, intuitive.\nAnother problem: AI music tends to be, and I don\u2019t know how else to put this, creepy.\nAversion to AI music is so widespread that corporate interests are now selling themselves as part of the resistance.\nThese developments will not end AI music, but they may slightly rein in the creative and copyright free-for-all, at least temporarily.\nBut the generative possibilities and consumer demand demonstrated in the brief history of AI music to date aren\u2019t going to be forgotten.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-12-22T13:00:00Z",
+    "source": "The Atlantic"
+  },
+  {
+    "id": "MjM=",
     "url": "https://www.androidcentral.com/phones/the-biggest-tech-stories-of-2025",
     "title": "From foldables to AI: How 2025 reshapes the smartphone landscape",
     "summary": "Trifold devices have arrived, ultra-thin designs are on the rise, and smart glasses are gaining popularity.\n(Image credit: Harish Jonnalagadda / Android Central)Essentially, making the form factor more valid and widely available to the broader smartphone market.\nTariffs, Tariffs and, more Tariffs(Image credit: Android Central)Well, all wasn't merry in the town of Tech.\nThat said, it created enough confusion for consumers and tech companies alike.\nGalaxy XR came built on Android XR, and with Google\u2019s Gemini AI baked right in.",
@@ -190,63 +120,83 @@
     "source": "Android Central"
   },
   {
-    "id": "MzY=",
-    "url": "https://uk.finance.yahoo.com/news/underfloor-heating-energy-savings-wunda-060043188.html",
-    "title": "'We've all grown up with radiators - underfloor heating is a no-brainer'",
-    "summary": "Sam Jump, pictured with Wunda's pioneering Rapid Response underfloor heating system, is the grandson of the entrepreneurial founders.\nWhen entrepreneurs Charles and Josephine Pugh rented a property with \"uncomfortable and uncontrollable\" underfloor heating (UFH), it sparked a move away from the made-to-order furniture world they had been invested in since the late 1970s.\nThe Pughs\u2019 home heating issue had centred on underfloor screed \u2014 a level layer of concrete where piping has traditionally been embedded into \u2014 with pipe centres too far apart.\nWith no controls, there was a slow response time to heat and the floor became too hot.\nWunda Group founders Charles and Josephine Pugh, left, with daughter Josephine and grandson Sam.",
+    "id": "MjQ=",
+    "url": "https://www.businessinsider.com/gop-critics-trump-ai-preemption-policy-2025-12",
+    "title": "Trump's AI policy is dividing his party. Here's what key GOP critics are saying about it.",
+    "summary": "Trump signed an executive order earlier this month aimed at restricting states' ability to regulate AI.\nTrump signed an executive order earlier this month aimed at restricting states' ability to regulate AI.\nAlex Wong/Getty ImagesTrump signed an executive order earlier this month aimed at restricting states' ability to regulate AI.\nTrump's AI policy has been broadly friendly toward the industry.\nHere's what key GOP critics are saying about Trump's AI policy.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-12-20T10:59:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.androidcentral.com/gaming/virtual-reality/xreal-deals-blow-to-viture-with-patent-victory-and-german-sales-ban",
+    "title": "Xreal and Viture enter a patent battle in Europe, marking a milestone in XR",
+    "summary": "What you need to knowA German court granted a temporary preliminary injunction on Viture\u2019s smart glasses, citing Xreal's suit over hardware patents.\nAmazon listings for most of Viture's products remain available for purchase, and a final ruling is expected sometime after the New Year.\nNow, though, the rivalry between Xreal and Viture has shifted from product features to a legal battle.\nHowever, Viture products in those countries are still available for sale on Amazon as of this time of writing.\nXreal started preliminary injunction proceedings in September 2025 against both Viture Inc. and Eden Future.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-12-20T12:02:00Z",
+    "source": "Android Central"
+  },
+  {
+    "id": "MjY=",
+    "url": "https://www.yahoo.com/news/articles/analysis-chinas-power-reforms-global-230907043.html",
+    "title": "Analysis-China's power reforms, global data centre buildout usher in battery boom",
+    "summary": "The boom \"is one of the biggest surprises of the year, I think, in China's energy space.\"\nThe International Energy Agency forecasts global investment in battery storage facilities will rise 16% this year to $66 billion.\n\"U.S. AI data centre power demand is very robust, but power is the biggest bottleneck, and U.S. baseload power - gas, nuclear, thermal - they \u200cwon't grow much in the next five years.\"\nHowever, much of that battery storage capacity has sat idle because it was not profitable to operate.\nIt is \"the most decisive policy shift for energy storage in over \u200ca decade\", Jefferies analyst Johnson Wan wrote in a note.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2025-12-21T06:00:43Z",
+    "publishedAt": "2025-12-21T23:09:07Z",
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "Mzg=",
-    "url": "https://www.yahoo.com/news/articles/chinas-heat-pump-tech-tokyo-093000465.html",
-    "title": "China's heat pump tech, Tokyo clarifies Taiwan stance to Beijing: SCMP's 7 highlights",
-    "summary": "For over a century, the dream of efficiently concentrating low-grade heat into high-temperature industrial energy has been constrained by a stubborn ceiling: 200 degrees Celsius (392 degrees Fahrenheit).\nThis article originally appeared in the South China Morning Post (SCMP), the most authoritative voice reporting on China and Asia for more than a century.\nFor more SCMP stories, please explore the SCMP app or visit the SCMP's Facebook and Twitter pages.\nCopyright \u00a9 2025 South China Morning Post Publishers Ltd. All rights reserved.\nSouth China Morning Post Publishers Ltd. All rights reserved.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-12-19T09:30:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "NTI=",
-    "url": "https://www.macrumors.com/2025/12/18/tiktok-sale-closing-january/",
-    "title": "TikTok U.S. Sale to Oracle-Led Group Set to Close in January",
-    "summary": "TikTok has agreed to sell its U.S. operations to an investment group that includes Oracle, Silver Lake, and UAE-based company MGX, reports Axios.\nThe \"TikTok USDS Joint Venture LLC\" that includes the three companies will own 45 percent of TikTok, while ByteDance will keep close to 20 percent.\nThe U.S. group will handle U.S. data protection and content moderation, while also maintaining algorithm security.\nWith the sale, TikTok will be able to continue operating in the United States while complying with the 2024 Protecting Americans From Foreign Adversary Controlled Applications Act.\nThe act required TikTok parent company ByteDance to sell TikTok's U.S. operations to a non-Chinese company or be banned from operating in the United States.",
+    "id": "Mjg=",
+    "url": "https://www.yahoo.com/news/articles/viewers-laugh-watching-test-run-131500076.html",
+    "title": "Viewers laugh after watching test run of Japan's new high-speed train \u2014 here's what happened",
+    "summary": "Reporters stood by waiting to catch a glimpse of Japan's fast high-speed train on the new Chuo Shinkansen rail line, and if any of them blinked, they missed it.\nAccording to SupercarBlondie, what the reporters witnessed was a test run for Japan's next-gen rail system, currently in development.\nThe railway will eventually connect from Tokyo to Osaka with a ride time of about an hour, compared to the roughly 2.5 hours it currently takes on conventional high-speed rail.\nThe top speed of a train on the Chuo Shinkansen line is 314 mph.\nAdvertisement AdvertisementAdvertisement AdvertisementWhen finished, the Chuo Shinkansen line will run about 286 kilometers (177 miles).",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2025-12-19T00:41:45Z",
-    "source": "MacRumors"
-  },
-  {
-    "id": "NTM=",
-    "url": "https://www.bbc.com/news/articles/cj4qpwprw9vo",
-    "title": "Probe ongoing after UK government hacked, says minister",
-    "summary": "Inquiry ongoing after UK government hacked, says minister3 days ago Share Save Sam Francis Political reporter Share SaveGetty ImagesCyber security officials have confirmed they are aiding an investigation after a minister said the UK government had been hacked.\nTrade Minister Sir Chris Bryant said earlier that investigations were \"ongoing\" after an attack in October.\nThe UK government has not named who it thinks is responsible, with a spokesperson saying it has been \"working to investigate\" the incident.\nLast year, responding to the UK government's National Security Strategy, a spokesperson for the Chinese embassy in London said \"accusations such as Chinese espionage, cyber-attacks, and transnational repression against the UK are entirely fabricated, malicious slander\".\nEarlier this month, Sir Keir said UK government policy towards China could not continue to blow \"hot and cold\".",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-12-19T08:03:22Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "NTU=",
-    "url": "https://www.yahoo.com/news/articles/china-still-targeting-us-based-093000574.html",
-    "title": "China still targeting US-based researchers for 'malign' purposes, lawmakers warned",
-    "summary": "The comments came during a House science committee hearing focused on protecting US research from China.\nShe and other witnesses stressed that US agencies had responded to outreach efforts from China by tightening vetting procedures for foreign researchers, but warned against measures that could deter legitimate international cooperation.\nDaniel Evans, a senior research official at Nasa, said concerns about China's \"malign\" foreign talent recruitment programmes should not obscure the parallel challenge of retaining foreign-born researchers trained in the US.\nThis article originally appeared in the South China Morning Post (SCMP), the most authoritative voice reporting on China and Asia for more than a century.\nFor more SCMP stories, please explore the SCMP app or visit the SCMP's Facebook and Twitter pages.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-12-19T09:30:00Z",
+    "publishedAt": "2025-12-21T13:15:00Z",
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "NTk=",
-    "url": "https://www.theregister.com/2025/12/19/uk_foreign_office_hack/",
-    "title": "Ministers confirm breach at UK Foreign Office",
-    "summary": "The UK's Foreign Office is investigating a confirmed cyberattack it learned about in October, senior ministers say.\nThe tabloid claimed that Chinese state-sponsored attackers were behind the intrusion and stole details related to tens of thousands of visa applications.\nSir Chris told Sky News: \"We managed to close the hole, as it were, very quickly.\nOf the four major geopolitical adversaries, the UK has repeatedly singled out China as an \"epoch-defining challenge.\"\n\"China poses a genuine and increasing cyber risk to the UK,\" she said at the time.",
+    "id": "MzI=",
+    "url": "https://www.windowscentral.com/gaming/a-kinect-style-console-outsold-xbox-and-nexs-ceo-breaks-down-the-strategy-that-made-it-a-surprise-hit-nintendo-expanded-the-audience",
+    "title": "Why this Kinect-style console beat Xbox in sales",
+    "summary": "You may or may not have heard of the Nex Playground, a small Kinect-inspired, Wii-like device that has made headlines after outselling Xbox hardware in the U.S. during November.\nThis is a particularly telling moment for console sales, given the impact of Black Friday and Cyber Monday.\nLikely helped by weaker Xbox performance overall due to its lack of sales, Nex Playground edged past Xbox Series X|S to claim third place in units sold for the month, I\u2019m sure in part thanks to its $250 price tag.\nDavid Lee, CEO of NEXThe Nex Playground has since found success with younger audiences, offering games based on popular IP such as Bluey, Peppa Pig, Fruit Ninja, and more.\nGet the Windows Central Newsletter All the latest news, reviews, and guides for Windows and Xbox diehards.",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2025-12-19T11:14:15Z",
-    "source": "Theregister.com"
+    "bias": "lean left",
+    "publishedAt": "2025-12-20T15:08:17Z",
+    "source": "Windows Central"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://tech.yahoo.com/transportation/articles/aviation-startup-shares-incredible-video-090000938.html",
+    "title": "Aviation startup shares incredible video of prototype EV's maiden takeoff flight: 'A major milestone'",
+    "summary": "Austrian aviation company CycloTech recently began flight testing its personal electric vertical takeoff and landing \u2014 or eVTOL \u2014 aircraft prototype.\nIn a video documenting the flight, CycloTech chief technology officer Tahsin Kart said it took 11 months to bring the BlackBird from concept to first flight.\nAdvertisement AdvertisementAdvertisementThe BlackBird prototype uses six CycloRotors \u2014 four mounted horizontally and two vertically \u2014 to facilitate vertical takeoff and landing.\nAdvertisement AdvertisementAdvertisementSimilar to electric vehicles, eVTOL aircraft offer a promising path to more practical and efficient sustainable transportation.\nIn the wake of the successful demo flight, CycloTech said it is now accelerating its flight test program and refining the tech for use in the CruiseUp.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-12-22T09:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MzQ=",
+    "url": "https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center",
+    "title": "Satellites reveal heat leaking from largest US cryptocurrency mining center",
+    "summary": "The image reveals the thermal footprint of a major Bitcoin-mining data center in Rockdale, Texas, which has been widely criticized for its electricity consumption and carbon footprint.\nThe satellite image reveals in a resolution of 11.5 feet (3.5 meters) where and how much heat leaks into the environment from the plant.\n\"Thermal data gives an objective view of operational activity as it occurs \u2014 not weeks later through reports or announcements.\"\nWith the newly released image, the company shows how satellites could keep an objective eye on a fast-growing and controversial sector.\nA labeled image taken from Earth satellite company SatVu.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-12-22T15:00:00Z",
+    "source": "Space.com"
+  },
+  {
+    "id": "NTc=",
+    "url": "https://news.slashdot.org/story/25/12/22/042225/the-us-could-ban-chinese-made-drones-used-by-police-departments",
+    "title": "The U.S. Could Ban Chinese-Made Drones Used By Police Departments",
+    "summary": "I've got a bad feeling about this.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-12-22T04:05:00Z",
+    "source": "Slashdot.org"
   }
 ]
