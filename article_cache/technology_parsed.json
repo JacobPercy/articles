@@ -10,17 +10,27 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "NQ==",
+    "id": "NA==",
     "url": "https://news.slashdot.org/story/25/12/29/186242/vc-sees-ai-generated-video-gutting-the-creator-economy",
     "title": "VC Sees AI-generated Video Gutting the Creator Economy",
-    "summary": "Become a fan of Slashdot on Facebook",
+    "summary": "The universe does not have laws -- it has habits, and habits can be broken.",
     "category": "technology",
-    "bias": "center",
+    "bias": "left",
     "publishedAt": "2025-12-29T18:06:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MTc=",
+    "id": "MTU=",
+    "url": "https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html",
+    "title": "Schneier on Security",
+    "summary": "LinkedIn Job ScamsInteresting article on the variety of LinkedIn job scams around the world:In India, tech jobs are used as bait because the industry employs millions of people and offers high-paying roles.\nIn Kenya, the recruitment industry is largely unorganized, so scamsters leverage fake personal referrals.\nIn Mexico, bad actors capitalize on the informal nature of the job economy by advertising fake formal roles that carry a promise of security.\nThese are scams involving fraudulent employers convincing prospective employees to send them money for various fees.\nThere is an entirely different set of scams involving fraudulent employees getting hired for remote jobs.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-12-30T17:05:59Z",
+    "source": "Schneier.com"
+  },
+  {
+    "id": "MTY=",
     "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
     "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
     "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nPosts from this author will be added to your daily email digest and your homepage feed.\nTwo former employees at cybersecurity firms \u2014 one of whom was a ransomware negotiator \u2014 have pleaded guilty to carrying out a series of ransomware attacks in 2023.\nGoldberg, Martin, and an unnamed co-conspirator were indicted for the attacks in October, which involved using ALPHV / BlackCat ransomware to encrypt and steal data from their victims.\n\u201cThese defendants used their sophisticated cybersecurity training and experience to commit ransomware attacks \u2014 the very type of crime that they should have been working to stop,\u201d Assistant Attorney General A. Tysen Duva of the DOJ\u2019s Criminal Division says in a statement.",
@@ -30,7 +40,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTg=",
+    "id": "MTc=",
     "url": "https://www.wired.com/story/worst-hacks-of-2025/",
     "title": "The Worst Hacks of 2025",
     "summary": "Through it all, the steady drumbeat kept pounding of data breaches, leaks, ransomware attacks, digital extortion cases, and state-sponsored attacks that have unfortunately become a backdrop of daily life.\nClop\u2019s Oracle E-Business Hacking SpreeThe ransomware group Clop is known for carrying out mass exploitation of vulnerabilities for data breaches and extortion attacks.\nThis year, the group did it again, exploiting a vulnerability in Oracle\u2019s E-Business internal management platform to steal data from numerous companies and organizations.\nThe data included email addresses, phone numbers, physical addresses, event attendance records, information about donations to the university and other fundraising details.\nPrinceton University was hit with a similar attack that same month, although the scope of affected data seems more limited.",
@@ -40,17 +50,17 @@
     "source": "Wired"
   },
   {
-    "id": "MTk=",
+    "id": "MTg=",
     "url": "https://thenextweb.com/news/a-2025-recap-for-tech-ai",
     "title": "A 2025 recap for Tech & AI",
-    "summary": "The \ud83d\udc9c of EU tech The latest rumblings from the EU tech scene, a story from our wise ol' founder Boris, and some questionable AI art.\nTech leaders and investors had begun asking harder questions: beyond impressive demos, could these models drive real products and revenue?\nThe hunger for AI computers in 2025 was insatiable, and chipmakers raced to deliver.\nThe editor\u2019s verdict: Lovable wins 2025Lovable (Stockholm, Sweden) came as one of the most remarkable AI software stories of the year, for me.\nIf 2024 was the year the world grasped the power of generative AI, 2025 was the year it began deciding how that power should be used.",
+    "summary": "Tech leaders and investors had begun asking harder questions: beyond impressive demos, could these models drive real products and revenue?\nThe hunger for AI computers in 2025 was insatiable, and chipmakers raced to deliver.\nWorkplace AI adoption soared this year; tools like Microsoft 365 Copilot and a host of AI assistants became common on office desktops.\nThe editor\u2019s verdict: Lovable wins 2025Lovable (Stockholm, Sweden) came as one of the most remarkable AI software stories of the year, for me.\nIf 2024 was the year the world grasped the power of generative AI, 2025 was the year it began deciding how that power should be used.",
     "category": "technology",
-    "bias": "lean left",
+    "bias": "left",
     "publishedAt": "2025-12-31T10:28:33Z",
     "source": "The Next Web"
   },
   {
-    "id": "MjA=",
+    "id": "MTk=",
     "url": "https://www.businessinsider.com/how-ai-changed-big-four-workflow-hiring-jobs-2025-12",
     "title": "4 key ways AI changed the Big Four in 2025",
     "summary": "Here are my four key takeaways about how the Big Four approached AI in 2025.\nThe year of the AI agentThe Big Four have invested heavily in automation and AI for years, but 2025 was the year those tools went mainstream.\nKPMG followed in June with KPMG Workbench, an agentic AI platform developed with Microsoft that connects 50 AI agents and chatbots, with nearly 1,000 more in development.\nIn 2025, organizations fit AI around their existing workflows, Matt Wood, PwC's global and US Chief Technology and Innovation Officer, told Business Insider.\nThey'll be managing teams of AI agents and play a greater role in strategy decisions, he said.",
@@ -60,17 +70,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjE=",
-    "url": "https://www.businessinsider.com/retail-startups-raised-millions-in-2025-gopuff-stickerbox-2025-12",
-    "title": "These 11 retail startups raised millions from VCs this year, from Gopuff to Stickerbox",
-    "summary": "Stickerbox is among the companies that raised the most money in 2025.\nStickerboxlighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nImpact LinkWith venture capital pouring into artificial intelligence, retail startups are struggling to compete for funding.\nIn 2025, at least 11 retail startups still managed to raise $2 million or more in new funding, according to PitchBook.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2025-12-28T10:59:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjI=",
+    "id": "MjA=",
     "url": "https://www.businessinsider.com/how-three-people-used-college-to-break-into-ai-2025-12",
     "title": "3 people who pivoted into AI share how they used their college experience to break into the field",
     "summary": "For one AI startup engineer, returning to school provided an opportunity to explore what an AI career would be like before committing to it.\nBelow are three people who pivoted into AI roles and shared with Business Insider how they leveraged their college experience to break into the field.\nWithout going back for my master's, I wouldn't have had this opportunity, and I love working in AI.\nI leaned on college mentors and peers to build my AI career at GoogleDeep Shah has been an engineer at Google since 2018.\nI'm now part of the Foundation Model main framework team for a major Big Tech company in the US.",
@@ -80,7 +80,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjU=",
+    "id": "MjE=",
+    "url": "https://www.businessinsider.com/israel-tech-staff-increasingly-seek-relocation-abroad-report-2025-12",
+    "title": "Israeli innovation is under threat as tech employees seek relocation abroad: report",
+    "summary": "Some of the world's largest tech companies have a presence in Israel, including Apple, Meta, Nvidia, Amazon, Microsoft, IBM, and Google.\nIsrael's tech sector is a key driver of its economy.\nThe Israel Innovation Authority, a government body, said the tech industry contributed one-fifth of the country's GDP in 2023.\nThe IATI report said that there are around 430 multinational companies in Israel, with around 90,000 high-tech employees working for them.\nDror Bin, the CEO of the Israel Innovation Authority, previously said that the Israeli economy's dependence on the high-tech sector had \"significantly grown in the past decade.\"",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-12-29T13:33:17Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjM=",
     "url": "https://www.businessinsider.com/cato-networks-ceo-says-in-ai-bubble-2025-12",
     "title": "Cato Networks CEO says we are in an AI bubble",
     "summary": "The CEO of cybersecurity company Cato Networks may have just validated the fears of many: that the dot-com era could be repeating itself.\n\"We are in a bubble,\" Shlomo Kramer, who runs the company aimed at securing organizations' digital and AI transformation, told Business Insider.\nHe said AI may be able to increase effectiveness and productivity to them in specific areas or situations, but it can't replace engineers.\nKramer is the latest CEO to weigh in on the debate about an AI bubble.\nThe CEO of Nvidia, the chipmaker that's fueling the AI revolution, has denied the existence of an AI bubble, while Mark Zuckerberg has said the bigger risk is not spending enough.",
@@ -90,7 +100,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjY=",
+    "id": "MjQ=",
     "url": "https://www.cnet.com/roadshow/news/ces-2026-automotive-predictions-flying-cars-ai-and-more/",
     "title": "I've Spent 18 Years Covering Autos at CES. Flying, Thinking, Autonomous Cars Are Closer Than Ever",
     "summary": "At my first CES, car tech was mostly aftermarket car audio equipment and portable GPS devices.\nRise of the 'flying cars'At this point, it's basically a given that there will be at least one \"flying car\" showcased at CES 2026.\nIn 2024, the big news was Hyundai's air mobility wing, Supernal, debuting its flight-ready electric air taxi.\nAn AI friend in your dashboardAbout the only CES automotive prediction more certain than cars that fly are cars that think.\nI'm talking about autonomous delivery robots, electric go-karts, self-balancing motorcycles and crazy alternative mobility concepts.",
@@ -100,7 +110,7 @@
     "source": "CNET"
   },
   {
-    "id": "Mjc=",
+    "id": "MjU=",
     "url": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/",
     "title": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade",
     "summary": "Gemini Live is the more conversational, natural language way of interacting with the Google Gemini AI bot using your voice.\nTo access Gemini Live, launch the Gemini app, then tap the Live button in the lower right hand corner (it looks vaguely like a sound wave) and start talking.\nThe Gemini Live interface.\nYou can even get Gemini Live to teach you a language.\nIf you need Gemini Live to slow down, speed up, or repeat something, then just say so.",
@@ -110,17 +120,17 @@
     "source": "Wired"
   },
   {
-    "id": "Mjk=",
-    "url": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
-    "title": "LG announces new UltraGear evo gaming monitors with AI upscaling",
-    "summary": "LG unveiled a whole new line of gaming monitors ahead of CES on Friday.\nThe UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling.\nThe 27-inch GM9 uses \u201cNew\u201d MiniLEDs, which promise to deliver brighter images compared to OLED, without the blooming often associated with MiniLEDs.\nThe GM9 model is particularly interesting since LG makes the panels for Apple\u2019s Pro Display XDR, and word is that the monitor is finally getting a long-overdue update in the near future.\nAll three monitors will be on display at CES next month, but there\u2019s no word on pricing or availability just yet.",
+    "id": "MjY=",
+    "url": "https://www.businessinsider.com/vc-fomo-a-reckoning-might-be-coming-in-2026-2025-12",
+    "title": "2025 was the year of VC FOMO. A 'reckoning' might be coming in 2026.",
+    "summary": "Photo: Marijan Murat/dpa (Photo by Marijan Murat/picture alliance via Getty Images)A girl reaches up to burst a large bubble on the Palace Plaza in Stuttgart, Germany, 19 October 2017.\nPhoto: Marijan Murat/dpa (Photo by Marijan Murat/picture alliance via Getty Images) Marijan Murat/picture alliance via Getty ImagesA girl reaches up to burst a large bubble on the Palace Plaza in Stuttgart, Germany, 19 October 2017.\n\"2026 will be a year of reckoning,\" said Deedy Das, a partner at Menlo Ventures focused on AI and machine learning.\nVCs have been writing big checks into AI startups at the same time as it becomes harder for them to replenish their coffers.\n\"And on top of that, I think we are underestimating the potential total addressable market for a lot of these AI companies.\"",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2025-12-28T21:42:15Z",
-    "source": "The Verge"
+    "bias": "center",
+    "publishedAt": "2025-12-30T10:00:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MzA=",
+    "id": "Mjc=",
     "url": "https://www.macrumors.com/2025/12/30/apple-ai-strategy-could-pay-off-in-2026/",
     "title": "Report: Apple's AI Strategy Could Finally Pay Off in 2026",
     "summary": "Apple's restrained artificial intelligence strategy may pay off in 2026 amid the arrival of a revamped Siri and concerns around the AI market \"bubble\" bursting, The Information argues.\nThe report argues that market sentiment toward AI spending is beginning to show signs of skepticism, with questions emerging over whether such large investments can be justified by near-term revenue.\nApple's biggest AI-related move in 2026 will be the long-anticipated overhaul of \u200cSiri\u200c, which is expected to arrive in the spring.\nIn addition, Apple's AI chief John Giannandrea announced his retirement earlier in December, with parts of his organization redistributed into product-focused teams amid internal concerns about a lack of clear product direction.\n2026 may be an inflection point in which Apple's cautious strategy could appear prescient if enthusiasm for large-scale AI spending continues to cool and the company finally delivers a more capable version of \u200cSiri\u200c.",
@@ -130,17 +140,17 @@
     "source": "MacRumors"
   },
   {
-    "id": "MzE=",
+    "id": "Mjg=",
     "url": "https://news.slashdot.org/story/25/12/29/2136221/sam-altman-offers-555k-salary-to-fill-most-daunting-role-in-ai",
     "title": "Sam Altman Offers $555K Salary To Fill Most Daunting Role In AI",
-    "summary": "Slashdot is powered by your submissions, so send in your scoop",
+    "summary": "The universe does not have laws -- it has habits, and habits can be broken.",
     "category": "technology",
-    "bias": "lean right",
+    "bias": "left",
     "publishedAt": "2025-12-29T23:20:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MzI=",
+    "id": "Mjk=",
     "url": "https://www.businessinsider.com/china-ai-chat-logs-train-models-safety-privacy-2025-12",
     "title": "China is considering a raft of new controls for training AI on chat log data. Here's what it means.",
     "summary": "China is proposing new rules that require user consent before AI companies can use chat logs to train their models.\nChina is proposing new rules that require user consent before AI companies can use chat logs to train their models.\nd3sign/Getty ImagesChina is proposing new rules that require user consent before AI companies can use chat logs to train their models.\nTightening controls over chat logs signals that certain user conversations are too sensitive to be treated as free training data, he added.\nAI chatlog safetyChina's new draft rules on chatlog data come as concerns grow over how AI companies handle deeply personal user conversations.",
@@ -150,7 +160,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MzM=",
+    "id": "MzA=",
     "url": "https://finance.yahoo.com/news/mongodb-applovin-soundhound-ai-stocks-200043388.html",
     "title": "MongoDB, AppLovin, and SoundHound AI Stocks Trade Down, What You Need To Know",
     "summary": "The S&P 500 and Nasdaq were under pressure as the dominant artificial intelligence trade cooled off.\nThe stock market overreacts to news, and big price drops can present good opportunities to buy high-quality stocks.\nAmong others, the following stocks were impacted:Zooming In On AppLovin (APP)AppLovin\u2019s shares are extremely volatile and have had 58 moves greater than 5% over the last year.\nTechnology stocks with a focus on artificial intelligence once again led the market higher, boosting the Nasdaq and S&P 500.\nThe rally reflected a renewed belief among investors in the transformative potential of AI technology to drive future growth and productivity.",
@@ -160,7 +170,7 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MzQ=",
+    "id": "MzE=",
     "url": "https://www.businessinsider.com/how-creative-agencies-can-future-proof-their-teams-for-ai-2025-10",
     "title": "6 ways creative agencies can future-proof their teams for the AI era",
     "summary": "Jules Love, founder of Spark AI, a consultancy that helps creative firms weave AI into their day-to-day work.\nJules Love, founder of Spark AI, a consultancy that helps creative firms weave AI into their day-to-day work.\nCourtesy of Jules LoveJules Love, founder of Spark AI, a consultancy that helps creative firms weave AI into their day-to-day work.\nJules Love, founder of Spark AI, a consultancy that helps creative firms weave AI into their day-to-day work, says the real challenge isn't technical \u2014 it's psychological.\nDrawing on his work with more than 60 agencies through Spark AI, he shares six ways leaders can future-proof their teams for the AI era.",
@@ -170,7 +180,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MzU=",
+    "id": "MzI=",
     "url": "https://finance.yahoo.com/news/3-semiconductor-stocks-well-poised-124000935.html",
     "title": "3 Semiconductor Stocks Well-Poised for a Comeback in 2026",
     "summary": "Semiconductor stocks have experienced a significant rally in 2025 despite a highly volatile market environment due to tariffs, inflationary pressures, high interest rates and geopolitical issues.\nAccording to the World Semiconductor Trade Statistics report, global semiconductor sales are expected to surge 26.3% year over year to $975.4 billion in 2026.\nAI accelerators, high-bandwidth memory (HBM), advanced logic chips and supporting infrastructure are expected to be the primary growth engines.\nInvestors looking to benefit from this trend should consider investing in semiconductor stocks.\nIn our opinion, NVIDIA Corporation NVDA, Micron Technology, Inc. MU and Amphenol Corporation APH are some of the stocks that are positioned to benefit as semiconductor demand spikes in 2026.",
@@ -180,7 +190,67 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "NTg=",
+    "id": "MzM=",
+    "url": "https://www.businessinsider.com/what-is-manus-ai-meta-acquisition-chinese-startup-singapore-agent-2025-12",
+    "title": "What is Manus, the Chinese-founded AI startup Meta is buying for over $2 billion?",
+    "summary": "Manus grabbed headlines in March when it unveiled an AI agent designed to autonomously execute tasks like r\u00e9sum\u00e9 screening and stock analysis.\nLaunched in March by the Chinese AI product studio Butterfly Effect, Manus has been pitched by its creators as the world's first \"general\" AI agent \u2014 a system designed to carry out tasks independently.\nBuying Manus could give Meta an AI revenue boost and give it a distribution advantage, Business Insider's Hugh Langley wrote.\n\"There will be no continuing Chinese ownership interests in Manus AI following the transaction, and Manus AI will discontinue its services and operations in China,\" the spokesperson told Business Insider.\nManus employees who join Meta will not have access to customer data, and Meta will continue to geo-block access to its AI models, the spokesperson added.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-12-31T07:01:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://www.yahoo.com/news/articles/shocking-research-reveals-were-told-113000373.html",
+    "title": "Study reveals we were told a 50-year-long lie about common household appliance \u2014 here's why it was covered up",
+    "summary": "A shocking study from December 2022 revealed that gas stoves cause one in eight cases of childhood asthma, in addition to contributing to a wide range of other health issues.\nMore recent reporting from the accountability site DeSmog reveals that both the gas industry and the government knew about these risks as far back as 50 years ago.\nHowever, as Grist reports, the gas industry managed to cover up these health hazards for decades.\nThe group showed evidence that gas appliances, such as gas stoves, were likely leaking poisonous carbon monoxide and nitrogen oxide into homes.\nAccording to Mayo Clinic, \"childhood asthma is the leading cause of emergency department visits, hospitalizations, and missed school days.\"",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2025-12-30T14:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://makezine.com/article/maker-news/20-years-of-make-triumph-of-the-makers/",
+    "title": "20 Years of Make: Triumph of the Makers",
+    "summary": "Twenty years ago, I wrote a column called \u201cNews from the Future\u201d for the first issue of Make: magazine.\nI based it on the notion from science-fiction writer William Gibson that \u201cThe future is here.\nIt\u2019s just not evenly distributed yet.\u201d Makers, hackers, hobbyists, and enthusiasts, I argued, are living in a future that we will all one day catch up to.\nThe list of projects from early issues of Make: did indeed bring momentous news from the future.\nEveryone is going to learn to use AI, just as everyone learns to use a smartphone today.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-12-29T18:26:56Z",
+    "source": "Makezine.com"
+  },
+  {
+    "id": "NDU=",
+    "url": "https://www.foxbusiness.com/technology/us-fusion-strategy-stuck-past-china-moves-ahead-ceo-warns",
+    "title": "US fusion strategy stuck in past as China moves ahead, CEO warns",
+    "summary": "\"Fusion is at an inflection point,\" Commonwealth Fusion Systems (CFS) CEO Bob Mumgaard told FOX Business.\nTHIS DEAL IS ABOUT ENERGY OF THE FUTURE, EXPERT REVEALSMumgaard sees China as the U.S.\u2019s main competitor as Beijing ramps up investment and coordination around fusion energy.\nIn July, People's Daily Online, the Chinese Communist Party\u2019s (CCP) official newspaper, reported that Beijing had launched the China Fusion Energy Co. Ltd (CFEC), a subsidiary of the China National Nuclear Corporation (CNNC).\nWe have a fusion program that looks like it did when it was in the 90s, and so we need to modernize that.\"\n\"In the early 2030s, all eyes will be on the Richmond region, and more specifically Chesterfield County, Virginia, as the birthplace of commercial fusion energy.\"",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2025-12-30T16:46:19Z",
+    "source": "Fox Business"
+  },
+  {
+    "id": "NDg=",
+    "url": "https://www.wired.com/story/expired-tired-wired-surveillance-state/",
+    "title": "The New Surveillance State Is You",
+    "summary": "Many of these agents are hiding their identities on the administration-approved basis that they are the ones at risk.\nUS residents, in response, have ramped up their documentation of law enforcement activity to seemingly unprecedented levels.\nexpired: opposing surveillance tired: getting surveilled by the cops wired: surveilling the cops \u0011\u201cICE watch\u201d groups have appeared across the country.\nApps for tracking immigration enforcement activity have popped up on (then disappeared from) Apple and Google app stores.\n\u201cThe difference [today] is that technology has made it so everybody has a video recorder with them at all times,\u201d Granick says.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2025-12-29T11:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "NTI=",
+    "url": "https://news.slashdot.org/story/25/12/30/2341244/foreign-tech-workers-are-avoiding-travel-to-the-us",
+    "title": "'Foreign Tech Workers Are Avoiding Travel To the US'",
+    "summary": "The universe does not have laws -- it has habits, and habits can be broken.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2025-12-31T02:02:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NjM=",
     "url": "https://finance.yahoo.com/news/tsmc-says-started-mass-production-003648419.html",
     "title": "TSMC says started mass production of 'most advanced' 2nm chips",
     "summary": "A worker walks past the 2-nanometer fabrication plant of TSMC at Nanzih Technology Industrial Park in Kaohsiung on December 23, 2025 (I-Hwa Cheng)Taiwanese tech titan TSMC has started mass producing its cutting-edge 2-nanometre semiconductor chips, the company said in a statement seen by AFP on Wednesday.\nTSMC is the world's largest contract maker of chips, used in everything from smartphones to missiles, and counts Nvidia and Apple among its clients.\n\"TSMC's 2nm (N2) technology has started volume production in 4Q25 as planned,\" TSMC said in an undated statement on its website.\nThe chips will be the \"most advanced technology in the semiconductor industry in terms of both density and energy efficiency\", the company said.\nBut in an interview with AFP this month, Taiwanese Deputy Foreign Minister Francois Chih-chung Wu said the island planned to keep making the \"most advanced\" chips on home soil and remain \"indispensable\" to the global semiconductor industry.",
