@@ -1,6 +1,6 @@
 [
   {
-    "id": "Mw==",
+    "id": "Nw==",
     "url": "https://finance.yahoo.com/news/godfather-ai-says-technology-create-184754671.html",
     "title": "\u2018Godfather of AI\u2019 says the technology will create massive unemployment and send profits soaring \u2014 \u2018that is the capitalist system\u2019",
     "summary": "Pioneering computer scientist Geoffrey Hinton, whose work has earned him a Nobel Prize and the moniker \u201cgodfather of AI,\u201d said artificial intelligence will spark a surge in unemployment and profits.\n\u201cWhat\u2019s actually going to happen is rich people are going to use AI to replace workers,\u201d Hinton said in September.\n\u201cIt\u2019s going to create massive unemployment and a huge rise in profits.\nHinton said earlier healthcare is the one industry that will be safe from the potential jobs armageddon.\nHinton has long warned about the dangers of AI without guardrails, estimating a 10% to 20% chance of the technology wiping out humans after the development of superintelligence.",
@@ -10,17 +10,27 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "NA==",
+    "id": "OA==",
     "url": "https://slashdot.org/story/26/01/12/2324253/european-firms-hit-hiring-brakes-over-ai-and-slowing-growth",
     "title": "European Firms Hit Hiring Brakes Over AI and Slowing Growth",
-    "summary": "The nicest thing about the Alto is that it doesn't run faster at night.",
+    "summary": "One way to make your old car run better is to look up the price of a new model.",
     "category": "technology",
     "bias": "center",
     "publishedAt": "2026-01-13T02:10:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MTM=",
+    "id": "MTg=",
+    "url": "https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/",
+    "title": "How AI Companies Got Caught Up in US Military Efforts",
+    "summary": "At the start of 2024, Anthropic, Google, Meta, and OpenAI were united against military use of their AI tools.\nResearch on general-purpose technologies (the other GPTs) has often highlighted the importance of the defense sector as a way to overcome issues of adoption.\nGiven the need of AI startups, in particular, to secure large and patient investments, the turn to military funding was perhaps inevitable.\nThe Silicon Valley ConsensusUp until about the mid-2010s, the United States was dominated by what might be called the Silicon Valley Consensus.\nIn practice, this meant a free hand was given to the tech sector, with regulations either conspicuously absent or curiously facilitating.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-01-14T12:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MTk=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means",
     "title": "What Apple and Google\u2019s Gemini deal means for both companies",
     "summary": "For years, Apple and Google have had a will-they-won\u2019t-they type of relationship, as far as which AI company Apple would pick to underpin its Siri virtual assistant and give it new AI-fueled personalization and agentic capabilities.\nApple has spent the last year or two playing the field, reportedly considering working with OpenAI or Anthropic to support the new Siri.\n\u201cAfter careful evaluation, Apple determined that Google\u2019s Al technology provides the most capable foundation for Apple Foundation Models and is excited about the innovative new experiences it will unlock for Apple users,\u201d Google and Apple wrote in a joint statement.\nOn the surface, Apple and Google might appear to be rival tech giants, but the two companies have had a close, complex relationship for more than a decade.\nApple\u2019s initial statement indicates that they will use Google\u2019s technology as more of a white-labeled technology stack that they will customize and deploy as an Apple service.",
@@ -30,7 +40,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTQ=",
+    "id": "MjA=",
     "url": "https://www.macrumors.com/2026/01/13/apple-patents-declined-in-2025/",
     "title": "Apple's Patent Grants Declined in 2025 as Innovation Slows",
     "summary": "Apple's U.S. patent activity declined sharply in 2025 amid a broader slowdown in patent filings, according to newly released data from IFI CLAIMS Patent Services.\nTotal U.S. patent grants in 2025 fell to 323,272, a decline of less than 1% from the previous year, while U.S. patent applications dropped more steeply, falling 9% to 393,344.\nApple's decline occurred as several competitors either held steady or increased their patent output.\nSamsung retained the top position for the fourth consecutive year with 7,054 U.S. patent grants, accounting for more than 2% of all patents issued in the United States in 2025.\nApple chip supplier Taiwan Semiconductor Manufacturing Company (TSMC) ranked second with 4,194 grants, followed by Qualcomm in third place with 3,749.",
@@ -40,7 +50,7 @@
     "source": "MacRumors"
   },
   {
-    "id": "MTU=",
+    "id": "MjE=",
     "url": "https://www.theverge.com/podcast/861148/lego-smart-brick-claude-code-vergecast",
     "title": "How Lego\u2019s Smart Brick works",
     "summary": "The most interesting story at this year\u2019s CES was just a little tiny bundle of technology.\nOne way to look at Lego\u2019s new Smart Brick is as something like a Raspberry Pi, an endlessly remixable gizmo with infinite hacking potential \u2014 it can be anything, in the best possible way.\nOn this episode of The Vergecast, The Verge\u2019s Sean Hollister explains how the Smart Brick works and why this tiny square feels so complicated.\nHe explains why Lego might want to make the Smart Brick an open platform and all the reasons it might not to do so.\nIf you want to know more about everything we discuss in this episode, here are some links to get you started:",
@@ -50,7 +60,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTY=",
+    "id": "MjI=",
     "url": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini",
     "title": "Google brings buy buttons to Gemini and AI search",
     "summary": "In other words, it sets up a common language for agents \u2014 AI tools capable of acting independently \u2014 and online shopping systems.\nUCP is open-source, meaning companies can freely use it rather than having to develop their own tools to deal with AI agents.\nMany of these partners are likely to \u2014 or already \u2014 partner with other AI companies as well.\nShopify merchants, for example, can sell in AI modes on Gemini, ChatGPT, and Microsoft Copilot, and PayPal has also partnered with OpenAI.\nAs well as the buy button on Gemini and the UCP standard, Google also said it is launching a business agent on Monday that will allow shoppers to chat with brands directly on Search.",
@@ -60,7 +70,27 @@
     "source": "The Verge"
   },
   {
-    "id": "MTc=",
+    "id": "MjM=",
+    "url": "https://www.businessinsider.com/four-day-workweek-might-incentivize-employees-embrace-ai-2026-1",
+    "title": "One thing that might get workers to embrace AI? The 4-day workweek.",
+    "summary": "Working fewer days might help create buy-in among workers for adopting AI, authors of a book on the four-day workweek suggest.\nWorking fewer days might help create buy-in among workers for adopting AI, authors of a book on the four-day workweek suggest.\nDrew Angerer/Getty ImagesWorking fewer days might help create buy-in among workers for adopting AI, authors of a book on the four-day workweek suggest.\nDrew Angerer/Getty ImagesBosses, if you're struggling to get your people excited about AI, here's one idea: Embrace the four-day workweek.\nThere hasn't yet been widespread adoption of the four-day workweek, likely in part because employers wield more power in many parts of the job market.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-01-14T10:19:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjQ=",
+    "url": "http://coolhunting.com/design/bmws-designworks-studio-uses-ai-to-design-for-the-future/",
+    "title": "BMW\u2019s Designworks Studio Uses AI to Design for the Future",
+    "summary": "Read Design BMW\u2019s Designworks Studio Uses AI to Design for the Future The studio designs with the future in mind, treating AI as a world-building collaborator that helps define the environment a product will live in Alexandra Cheney Courtesy of BMWTo celebrate a half-century of its innovation in the U.S., BMW opened the doors of its Designworks studio in Santa Monica, California.\nFerraiolo emphasized that the studio is not using AI to design the product, but rather to imagine the future vision and world, then using that story to design a better product or service for that future.\nCourtesy of BMWAt the center of that future is Neue Klasse, BMW\u2019s next generation vehicle platform and design philosophy.\nThe studio contributed to the Neue Klasse design language and in-car experience, while also supporting BMW\u2019s \u201cDesign for Circularity\u201d strategy.\nWhat makes Designworks unusual is that it still operates as both BMW\u2019s internal design arm and an external-facing studio serving non-automotive clients.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-01-14T12:48:10Z",
+    "source": "Cool Hunting"
+  },
+  {
+    "id": "MjU=",
     "url": "https://www.androidcentral.com/phones/google-pixel/apple-chooses-googles-gemini-to-transform-siri-starting-this-year",
     "title": "Apple partners with Google for Gemini: What this means for users",
     "summary": "What you need to knowApple and Google collaborate to integrate Gemini into Apple's next-gen devices for enhanced AI features.\nApple retains user privacy while leveraging Google\u2019s AI technology for innovative advancements.\nAfter what is described as \"careful evaluation,\" Apple decided that \"Google's AI technology provides the most capable foundation, and is excited about the innovative new experiences it will unlock for Apple users.\"\nThat partnership gave Apple a fast way to catch up with GenAI; however, ChatGPT didn't become the foundation of Apple's devices.\nThings look different for Gemini as it now sits at the very core of Apple's AI strategy.",
@@ -70,7 +100,17 @@
     "source": "Android Central"
   },
   {
-    "id": "MTg=",
+    "id": "MjY=",
+    "url": "https://www.businessinsider.com/ben-horowitz-investing-teams-size-a16z-vc-venture-capital-2026-1",
+    "title": "Ben Horowitz says that investing teams shouldn't be 'too much bigger than basketball teams'",
+    "summary": "Ben Horowitz said investment teams should be the size of a playing five in basketball.\nBen Horowitz said investment teams should be the size of a playing five in basketball.\nPhillip Faraone/Getty Images for WIREDBen Horowitz said investment teams should be the size of a playing five in basketball.\nPhillip Faraone/Getty Images for WIREDBen Horowitz is a big fan of tiny teams.\n\"An investing team shouldn't be too much bigger than a basketball team,\" he said, referring to advice he got from famed American investor David Swensen in 2009.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-01-14T05:06:49Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mjc=",
     "url": "https://www.businessinsider.com/sandstone-raises-seed-funding-sequoia-legal-ai-2026-1",
     "title": "Ex-McKinsey Founder Wins Sequoia Funds for Legal AI Startup, Sandstone",
     "summary": "His startup, Sandstone, is aimed squarely at in-house legal teams instead of law firms, and Sequoia Capital is backing the idea.\nThe Brooklyn-based startup has raised $10 million in a seed funding round led by Sequoia Capital, Business Insider has learned.\nSandstone uses AI to help lawyers inside companies draft and review contracts based on how they've handled similar agreements in the past.\nHe landed on a team advising major law firms and worked closely with QuantumBlack, the firm's AI unit, including on a project with the American Arbitration Association to develop an \"AI arbitrator\" for construction disputes.\nHarvey got its start selling tools to elite law firms and has since expanded into large enterprises.",
@@ -80,17 +120,37 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1",
-    "title": "Anthropic expands into healthcare a week after OpenAI launched a similar product",
-    "summary": "The company on Sunday announced Claude for Healthcare, a product that allows healthcare providers, insurers, and consumers to use Claude for medical purposes through HIPAA-ready infrastructure.\nThe move also underscores intensifying competition in healthcare AI.\nOpenAI recently unveiled a rival product, and startups including Abridge and Sword Health have attracted multibillion-dollar valuations as investors pour money into AI tools for medicine.\nAnthropic said Claude for Healthcare is designed to reduce administrative work and help both clinicians and patients better understand medical information.\nAnthropic said data accessed through these integrations isn't stored in Claude's memory or used to train its models.",
+    "id": "Mjg=",
+    "url": "https://www.businessinsider.com/in-house-legal-tech-ai-cost-cutting-2026-1",
+    "title": "Corporate Legal Departments Are Cutting Costs With AI",
+    "summary": "Legal bills from outside law firms are some of the biggest checks companies write each year.\nArtificial intelligence is suddenly giving in-house lawyers a way to shrink those costs.\nWhen Doug Mandell, the general counsel of chatbot-maker Inflection AI, was working on a new data security policy, he turned to a tool from the legal AI startup GC AI.\nThe more aggressive adoption is coming from in-house legal teams, where efficiency isn't a threat, but a mandate.\nAs in-house legal teams move faster, they're quietly resetting expectations for the law firms they hire.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-01-11T22:00:01Z",
+    "bias": "left",
+    "publishedAt": "2026-01-14T10:00:01Z",
     "source": "Business Insider"
   },
   {
-    "id": "MjA=",
+    "id": "Mjk=",
+    "url": "https://www.businessinsider.com/steve-cohens-point72-sells-parts-of-fintech-startups-2026-1",
+    "title": "Point72 Ventures sells off stakes of fintech startups to Goldman Sachs and others",
+    "summary": "Steve Cohen is the owner of the New York Mets.\nSteve Cohen is the owner of the New York Mets.\nJoe Raedle/Getty ImagesSteve Cohen is the owner of the New York Mets.\nSeparately, Portage will also manage some Point72 Ventures assets that are not part of the new fund.\nPoint72 declined to comment, while Goldman Sachs did not respond to a request to comment.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-01-14T13:00:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://www.businessinsider.com/ben-horowitz-says-ai-is-bigger-than-internet-not-bubble-2026-1",
+    "title": "Ben Horowitz Says AI Is Bigger Than the Internet \u2014 and Not a Bubble",
+    "summary": "Ben Horowitz said fears of an AI bubble miss the point because unprecedented demand makes this tech boom unlike any before.\nBen Horowitz said fears of an AI bubble miss the point because unprecedented demand makes this tech boom unlike any before.\nMIKE BLAKE/ReutersBen Horowitz said fears of an AI bubble miss the point because unprecedented demand makes this tech boom unlike any before.\nMIKE BLAKE/ReutersSilicon Valley leaders have debated for months whether the AI boom is a bubble.\n\"But if you look at what's going on underneath in terms of the customer adoption, the revenue growth rates \u2014 we've never seen demand like this.\"",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-01-14T11:57:47Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzE=",
     "url": "https://www.theverge.com/news/861080/microsoft-ai-data-center-infrastructure-electricity-rates",
     "title": "Microsoft scrambles to quell fury around its new AI data centers",
     "summary": "It looks like the wave of campaigns against data centers are getting under big tech companies\u2019 skin \u2014 and Microsoft is the latest giant to promise to address frustrations on the ground in communities around their data centers.\nThe company is also promising more transparency around where it plans to build data centers and how much energy it\u2019s using.\nMeta similarly reiterated a pledge in December to restore water sources in places where it has data centers.\nAmazon commissioned a study late last year that says the company\u2019s data centers generate more in revenue for utilities than it costs for utilities to serve those facilities.\nIn a Truth Social post yesterday, he says his team has been \u201cworking with\u201d Microsoft and other tech companies to make sure Americans don\u2019t \u201cpick up the tab\u201d for data center power consumption.",
@@ -100,7 +160,17 @@
     "source": "The Verge"
   },
   {
-    "id": "MjE=",
+    "id": "MzI=",
+    "url": "https://tech.slashdot.org/story/26/01/13/2046204/global-tech-sector-layoffs-surpass-244000-in-2025",
+    "title": "Global Tech-Sector Layoffs Surpass 244,000 In 2025",
+    "summary": "One way to make your old car run better is to look up the price of a new model.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-01-14T00:02:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MzM=",
     "url": "https://thenextweb.com/news/ai-skills",
     "title": "AI Skills",
     "summary": "If models represent intelligence and agents represent coordination, Skills are where AI becomes operational and valuable in the real world.\nWhat they experience are Skills, because Skills are the part of AI that delivers outcomes.\nThe AI Stack: Where Skills FitTo understand why Skills matter, it helps to look at the modern AI stack.\nOne of the most important distinctions is that Skills encode procedural knowledge rather than descriptive knowledge.\nSkills Are Products, Not Just TechnologyAnother critical point is that Skills are products, not just technology.",
@@ -110,47 +180,47 @@
     "source": "The Next Web"
   },
   {
-    "id": "MjI=",
-    "url": "https://www.businessinsider.com/snowflake-ceo-explains-what-people-get-wrong-about-ai-2026-1",
-    "title": "Snowflake's CEO says people often fall into 2 camps when it comes to AI \u2014 and both are wrong",
-    "summary": "The CEO said that the other extreme includes those who believe AI will lead to a doomsday scenario.\n\"The biggest misconception would be that of thinking about AI as an all or nothing,\" Ramaswamy said.\nRamaswamy added that his advice to customers is to \"be very incremental\" with AI adoption.\n\"I want them to tell me which direction they are headed, but very much be in this mode of iterating, because this is a world of rapid change,\" Ramaswamy said.\n\"I worry a lot about making sure that we are state-of-the-art, especially in the critical areas with regards to how we utilize AI,\" Ramaswamy said.",
+    "id": "Mzg=",
+    "url": "https://finance.yahoo.com/video/wallace-crypto-volumes-not-large-104414297.html",
+    "title": "Wallace: Crypto Volumes Not Large in DIFC But Growing",
+    "summary": "Dubai's financial regulator is rolling out major updates to its crypto-token framework to bolster & regulate its digital asset environment.\nElisabeth Wallace, Associate Director of Policy & Legal at the Dubai Financial Services Authority spoke to Bloomberg's Horizons Middle East and Africa anchor Joumanna Bercetche on how the new framework will help Dubai continue to function on par with International standards.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-01-11T10:38:01Z",
+    "bias": "center",
+    "publishedAt": "2026-01-12T10:44:14Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NDQ=",
+    "url": "https://www.businessinsider.com/microsoft-energy-prices-data-centers-ai-trump-water-2026-1",
+    "title": "Microsoft explains how it plans to keep energy prices down for Americans from its data center buildout",
+    "summary": "Lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nMicrosoft's AI data centers need a lot of energy \u2014 and it doesn't want Americans to foot the bill.\nData centers are essential for powering AI models, but they have been increasingly putting a strain on US infrastructure.\nHe added that Microsoft would be \"first up,\" suggesting that announcements from other tech companies may follow.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-01-13T14:17:23Z",
     "source": "Business Insider"
   },
   {
-    "id": "MjM=",
-    "url": "https://www.bbc.com/news/articles/clyg63e3mq4o",
-    "title": "Is this the year domestic robots come in our homes?",
-    "summary": "Eggie, Neo, Isaac and Memo are domestic robots.\nBut now, thanks to AI, it's genuinely happening and this year the first truly multi-purpose domestic bots will start to enter homes.\nSo I went to meet Eggie, NEO, Isaac and Memo.\nIn Noe Valley in San Francisco, another domestic robot company has already deployed its stationary bot to gather real world data, albeit in the narrow task of folding laundry.\nThe last company we visited has a completely different angle on how to make the domestic robot a reality.",
+    "id": "NDU=",
+    "url": "https://finance.yahoo.com/news/kraken-robotics-tsxv-png-18-171414130.html",
+    "title": "Kraken Robotics (TSXV:PNG) Is Up 18.7% After Securing US$35M in SeaPower Battery Orders",
+    "summary": "Kraken Robotics Inc. recently announced US$35,000,000 in SeaPower battery sales to three unnamed customers, supplying high\u2011energy\u2011density systems for long-endurance unmanned underwater vehicle missions across defence, commercial, and marine research sectors.\nWe\u2019ll now examine how this SeaPower battery order momentum shapes Kraken Robotics\u2019 investment narrative, particularly around higher-value defence and subsea applications.\nWhat Is Kraken Robotics' Investment Narrative?\nTo own Kraken Robotics, you need to believe that its niche in subsea robotics and sensors can support premium pricing despite a rich valuation and a relatively new management bench.\nKraken Robotics' shares are on the way up, but could they be overextended?",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-01-12T00:07:23Z",
-    "source": "BBC News"
+    "publishedAt": "2026-01-13T17:14:14Z",
+    "source": "Yahoo Entertainment"
   },
   {
-    "id": "MjQ=",
-    "url": "https://www.businessinsider.com/mckinsey-consultant-ai-startup-founder-isaac-health-julius-bruch-2026-1",
-    "title": "After 7 years at McKinsey, I left to build an AI healthtech startup. I had to unlearn the pursuit of perfection.",
-    "summary": "Julius Bruch, a former McKinsey consultant, explains why he left to build an AI healthtech startup \u2014and how consulting prepared him for the leap.\nJulius Bruch, a former McKinsey consultant, explains why he left to build an AI healthtech startup \u2014and how consulting prepared him for the leap.\nJulius BruchJulius Bruch, a former McKinsey consultant, explains why he left to build an AI healthtech startup \u2014and how consulting prepared him for the leap.\nJulius BruchThis as-told-to essay is based on a conversation with Julius Bruch, the 39-year-old cofounder and CEO of AI healthtech startup Isaac Health.\nHow consulting prepared me to be a startup founderConsulting was a fantastic training opportunity.",
+    "id": "NDc=",
+    "url": "https://hackaday.com/2026/01/14/pushing-chinas-east-tokamak-past-the-greenwald-density-limit/",
+    "title": "Pushing China\u2019s EAST Tokamak Past The Greenwald Density Limit",
+    "summary": "Recently Chinese researchers have reported that they managed to increase the plasma density in the EAST tokamak beyond the previously known upper Greenwald Density Limit (GDL), as this phenomenon is known.\nWe covered these details with nuclear fusion reactors in great detail last year, noting the importance of plasma edge stability, as this causes tokamak wall erosion as well as loss of energy.\nThe EAST tokamak (HT-7U) is a superconducting tokamak that was upgraded and resumed operations in 2014, featuring a 1.85 meter major radius and 7.5 MW heating power.\nAs a tokamak the issue of plasma and edge stability are major concerns, even in H-mode, requiring constant intervention.\nIt\u2019s therefore not surprising that W7-X is so far the most efficient fusion reactor to achieve the highest triple product.",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-01-12T00:00:01Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-01-14T12:00:34Z",
+    "source": "Hackaday"
   },
   {
-    "id": "MjY=",
-    "url": "https://www.businessinsider.com/apple-google-gemini-to-power-siri-ai-capabilities-2026-1",
-    "title": "Your Siri is about to be powered by Google's AI",
-    "summary": "Lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nImpact LinkSiri is about to get a little AI help from a twin.\nApple had a head start in the AI assistant race when it launched Siri on its iOS devices in 2011.\nApple has delayed several upgrades to Siri , and Apple shook up its AI division late last year.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-01-12T16:32:48Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjc=",
+    "id": "NDg=",
     "url": "https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam",
     "title": "Insta360\u2019s face-tracking webcams get bigger sensors and more expensive",
     "summary": "Insta360 has announced new Pro versions of its Link 2 and Link 2C webcams that first launched in September 2024.\nBoth webcams are now available worldwide through Insta360\u2019s online store and Amazon, but are slightly more expensive than the $199 Link 2 and $149 Link 2C.\nVideo resolutions stay the same, however, with both the Link 2 Pro and Link 2C Pro maxing out at 4K/30fps, or up to 60fps at 1080p.\nThe Insta360 Link 2C Pro is smaller than the Link 2 Pro but doesn\u2019t have a two-axis gimbal to physically move its camera while tracking.\nThe Stream Deck support will also be coming to the Link 2 and Link 2C webcams.",
