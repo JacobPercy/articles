@@ -1,42 +1,52 @@
 [
   {
-    "id": "MzY=",
-    "url": "https://www.wired.com/story/china-renewable-energy-revolution/",
-    "title": "China\u2019s Renewable Energy Revolution Is a Huge Mess That Might Save the World",
-    "summary": "If we could only harness the engine of the stars, it would uncork near limitless energy and neatly sweep away a whole mess of humanity\u2019s problems.\nSolar panels and wind turbines capture the fusion of the sun and convert it to electricity.\nAcross the entire country, those 12 months saw some 50 gigawatts of new solar capacity added.\nIn China, the first three months of 2025 alone saw 60 gigawatts of new solar capacity added to the national grid.\nAny solar capacity that went in after May 2025, Beijing declared, would no longer get this deal.",
+    "id": "MzU=",
+    "url": "https://news.slashdot.org/story/26/01/22/0054237/half-of-fossil-fuel-carbon-emissions-in-2024-came-from-32-companies",
+    "title": "Half of Fossil Fuel Carbon Emissions In 2024 Came From 32 Companies",
+    "summary": "An anonymous reader quotes a report from Inside Climate News:\"Each year, global emissions become increasingly concentrated among a shrinking group of high-emitting producers, while overall production continues to grow.\nSimultaneously, these heavy emitters continue to use lobbying to obstruct a transition that the scientific community has known for decades is essential,\" said Emmett Connaire, senior analyst at InfluenceMap.\nThe findings of the new analysis, he added, \"underscore the growing importance of this kind of rigorous evidence in efforts to determine accountability for climate-related losses.\"",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-01-20T11:00:00Z",
-    "source": "Wired"
+    "bias": "left",
+    "publishedAt": "2026-01-22T13:00:00Z",
+    "source": "Slashdot.org"
   },
   {
-    "id": "NDA=",
-    "url": "https://uk.news.yahoo.com/americans-more-energy-090800527.html",
-    "title": "What would Americans do with more energy?",
-    "summary": "Americans hit their daily energy low at 2:06 p.m., according to new survey data.\nA survey examining the energy levels and lifestyle goals of 2,000 people saw that on average, respondents said they\u2019d need double their current energy levels to feel fully capable of keeping up with daily demands.\nNo wonder then that the majority of Americans surveyed felt added energy would be life-changing, not just for health and happiness boosts but also for their wallets.\nSeventy-four percent of respondents feel they\u2019d be earning more if they had higher energy levels.\nWhen asked what they\u2019d do with unlimited energy, the top response was spending more time with friends or family (18%).",
+    "id": "MzY=",
+    "url": "https://www.npr.org/2026/01/23/nx-s1-5684971/winter-storm-ice-texas-new-england-climate-science",
+    "title": "How cuts to federal climate funds could threaten polar vortex research",
+    "summary": "How cuts to federal climate funds could threaten polar vortex researchtoggle caption George Walker IV/APA major snow and ice storm is expected to affect tens of millions of people from Texas to New England over the weekend.\nBut winter weather patterns are shifting as the global climate warms, and scientists are working to understand those changes.\nCuts made by the Trump administration to federal climate research could threaten that work.\nPredicting jet stream changes is also important for weather forecasts more broadly, because weather systems move with the jet stream.\nFederal science cuts threaten research on the jet stream and polar vortexMany of the scientists who study the jet stream are employed directly by federal agencies, including NASA and the National Oceanic and Atmospheric Administration (NOAA).",
     "category": "environment",
-    "bias": "right",
-    "publishedAt": "2026-01-19T09:08:00Z",
+    "bias": "center",
+    "publishedAt": "2026-01-23T10:12:00Z",
+    "source": "NPR"
+  },
+  {
+    "id": "Mzg=",
+    "url": "https://www.yahoo.com/news/articles/ukraines-grid-operator-says-energy-143425853.html",
+    "title": "Ukraine's grid operator says energy situation has 'significantly' worsened",
+    "summary": "KYIV, Jan 23 (Reuters) - Ukraine's energy situation \"significantly\" worsened on Friday after recent Russian air attacks, triggering emergency power outages in most regions, Kyiv's grid operator said.\nThe grim assessment followed a remark by \u200bEnergy Minister Denys Shmyhal on Thursday that Ukraine's energy system had endured its most difficult day \u200csince a widespread blackout in November 2022, when Russia began bombing the power grid.\nIn new comments on Friday, Shmyhal said the situation with \u200cthe grid remained difficult, but he expected things to stabilise somewhat.\nSeveral power generation facilities are undergoing emergency repairs as a result of the combined drone and missile attacks, Ukrenergo said on the \u2060Telegram messaging app.\nUkraine's energy grid relies almost entirely on electricity produced by nuclear power plants, and has already lost half \u200cof its generating capacity.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-01-23T22:02:16Z",
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "NDE=",
-    "url": "https://www.bbc.com/news/articles/ckgj7me00p0o",
-    "title": "UK households to get \u00a315bn for solar and green tech to lower energy bills",
-    "summary": "But for an average three bedroom semi-detached home, installing these three technologies, could save \u00a3500 annually on energy bills, it estimates.\n\"\u00a315 billion is a substantial commitment, it provides certainty to investors and businesses in the energy market,\" said Dhara Vyas, chief executive of trade body Energy UK.\nTwo thirds (68%) of the solar panels imported by the UK came from China in 2024, according to HMRC trade data.\nUnlike insulation, he said heat pumps are a technology in its infancy, and needed government support to catalyse the industry.\nThe Warm Homes Plan will encourage households to opt for the trio of low carbon technologies - heat pumps, solar panels and batteries.",
+    "id": "NDA=",
+    "url": "https://www.cnet.com/home/energy-and-utilities/5-simple-ways-to-lower-your-heat-and-electric-bills/",
+    "title": "Keep Cozy With These 5 Tips for Lowering Your Heat and Electric Bills This Winter",
+    "summary": "Rather than huddling under a blanket and dealing with the chill, there are options to keep your heating costs within budget this winter.\n(You can also save on heating costs with this small home upgrade and set your thermostat to this temperature.)\nIf you find you don't mind it or even like it, you just found an easy way to save on heating costs this winter.\nYou might have to invest in a solar array and a solar battery and even install central electric heating.\nThat will help reduce the urge to scream when you open your winter energy bill in the future, as well as other utility bills.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-01-20T22:32:47Z",
-    "source": "BBC News"
+    "bias": "left",
+    "publishedAt": "2026-01-22T20:34:00Z",
+    "source": "CNET"
   },
   {
-    "id": "NDU=",
-    "url": "https://www.yankodesign.com/2026/01/20/winter-proof-luxury-this-tiny-house-brings-full-time-comfort-to-colorados-harsh-climate/",
-    "title": "Winter-Proof Luxury: This Tiny House Brings Full-Time Comfort to Colorado\u2019s Harsh Climate",
-    "summary": "Living small is often romanticized as a sun-drenched, coastal fantasy or a nomadic life on the road, but tiny houses are increasingly proving their worth in far harsher environments.\nOne of the latest examples is a luxurious new model from Tru Form Tiny, designed specifically to handle brutal winters without compromising on comfort or aesthetics.\nDesigner: Tru Form TinyCold-climate performance was a driving force behind the design.\nTru Form Tiny has wrapped the structure in high-R-value insulation and fitted energy-efficient Low-E windows to reduce heat loss and solar gain.\nOn the opposite side of the house, the bathroom feels unusually generous for a tiny home.",
+    "id": "NDQ=",
+    "url": "https://www.statesman.com/weather/article/texas-power-outages-live-map-ercot-updates-21306837.php",
+    "title": "Arctic blast hits Texas: See power outage maps, how to report outage",
+    "summary": "Texas power outage mapSee Texas energy provider outage maps, how to report an outageAustin EnergyAustin Energy serves the city of Austin.\nSee an outage mapTo report an outage: Call 888-883-3379, text \"outage\" to 25022 or go to https://www.pec.coop/reportoutageAdvertisement Article continues below this adCenterPoint EnergyCenterPoint Energy serves the Houston metro area.\nSee an outage mapTo report an outage: Call 800-227-1376.\nTo report an electric outage, email or text Lubbock Power & Light at LightsOut@LPandL.com or call (806) 775-2509.\nAdvertisement Article continues below this adAtmos EnergyPotter County's main energy provider is Atmos Energy.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-01-21T00:30:30Z",
-    "source": "Yanko Design"
+    "bias": "lean left",
+    "publishedAt": "2026-01-24T11:00:00Z",
+    "source": "Austin American-Statesman"
   }
 ]
