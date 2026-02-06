@@ -1,212 +1,242 @@
 [
   {
-    "id": "Mw==",
-    "url": "https://thenextweb.com/news/the-rise-of-subscription-economy",
-    "title": "The rise of the always-on economy: subscriptions beyond streaming",
-    "summary": "Despite how modern it seems to be, the truth is that the subscription economy has been around for some time, surprisingly dating back to around 1800, with the first magazine subscriptions, or the subscriptions for fresh British milk, around 1860.\nOver the years, the of subscription-based companies has turned the subscription model into an ideal business strategy since it provides unique benefits.\nSoftware as a service (SaaS) remains the biggest part of the subscription market with a revenue of more than $250B by 2022.\nFrom education to parasocial relationshipsThe subscription economy has expanded to other services, such as education.\nThe next phase will likely combine hybrid subscription models with usage-based pricing and data-driven personalization.",
+    "id": "MA==",
+    "url": "https://www.businessinsider.com/ben-horowitz-dismisses-fears-of-ai-job-apocalypse-mass-unemployment-2026-2",
+    "title": "Ben Horowitz says fears of an AI-fueled job apocalypse are based on a flawed assumption",
+    "summary": "Ben Horowitz pushes back on fears of an AI-driven job apocalypse.\nPhillip Faraone/Getty Images for WIREDBen Horowitz pushes back on fears of an AI-driven job apocalypse.\nPhillip Faraone/Getty Images for WIREDlighning bolt icon An icon in the shape of a lightning bolt.\nImpact LinkBen Horowitz doesn't buy the idea that artificial intelligence is about to wipe out work as we know it.\n\"We've had AI going right \u2014 ImageNet was what, 2012 \u2014 and then natural language stuff was like 2015, and then ChatGPT was 2022,\" Horowitz said.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-01-31T15:37:56Z",
-    "source": "The Next Web"
+    "bias": "left",
+    "publishedAt": "2026-02-04T12:52:43Z",
+    "source": "Business Insider"
   },
   {
-    "id": "OQ==",
-    "url": "https://finance.yahoo.com/video/why-openai-needs-to-raise-equity-and-a-lot-of-it-200000171.html",
-    "title": "Why OpenAI needs to raise equity, and 'a lot of it'",
-    "summary": "Well, they're going to need to raise a lot of equity.\nI think the recent equity raise which was very successful by Anthropic makes me feel better about it.\nBut I hope uh this works because man, a lot of folks are dependent on Open AI raising equity.\nDo they have another opportunity even besides that working with Open AI to monetize their own AI intentions.\nI would think that it could be a good deal for both sides, but I think it's particularly important for Open AI.",
+    "id": "NA==",
+    "url": "https://www.businessinsider.com/googler-shares-years-long-journey-pivot-finance-to-ai-2026-2",
+    "title": "I'm a Googler who pivoted from finance to AI. It took me years, but I don't regret taking the long path.",
+    "summary": "I joined several other software engineering teams, and then eventually joined Google Cloud AI, where I worked on one of the cloud AI products for a few years.\nI used them to explore finance, then statistics, then spent most of my time in the computer science and data science space.\nThe most measurably impactful courses I completed were the first two Coursera courses: Data Analysis and Computing for Data Analysis.\nMost recently, I did a diploma in Advanced Studies In Data Science, which took another two years.\nI don't regret taking the long roadMy message to others who want to transition is don't be discouraged.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-04T10:39:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Ng==",
+    "url": "https://slashdot.org/story/26/02/04/1810206/as-software-stocks-slump-investors-debate-ais-existential-threat",
+    "title": "As Software Stocks Slump, Investors Debate AI's Existential Threat",
+    "summary": "Getting the job done is no excuse for not following the rules.\nCorollary: Following the rules will not get the job done.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-02-01T20:00:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2026-02-04T18:09:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MTA=",
+    "url": "https://www.techmeme.com/260204/p31",
+    "title": "Techmeme: Uber promotes Balaji Krishnamurthy, its former VP of strategic finance and investor relations, to be its CFO, replacing Prashanth Mahendra-Rajah (Ram Iyer/TechCrunch)",
+    "summary": "About This PageThis is a Techmeme archive page.\nIt shows how the site appeared at 1:35 PM ET, February 4, 2026.\nThe most current version of the site as always is available at our home page.\nTo view an earlier snapshot click here and then modify the date indicated.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-02-04T16:30:00Z",
+    "source": "Techmeme.com"
+  },
+  {
+    "id": "MTI=",
+    "url": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
+    "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+    "summary": "Chen told Ono about the problem, and the following morning, Ono presented him with a proof, courtesy of his startup\u2019s math-solving AI, AxiomProver.\nThe proof is one of several solutions to unsolved math problems that Axiom says its system has come up with in recent weeks.\nIn recent months, other mathematicians have reported using AI tools to explore new ideas and solve existing problems.\nOno says the AI-generated proof for the Chen-Gendron conjecture shows how AI can now meaningfully assist professional mathematicians.\nAnother one of the new proofs generated by AxiomProver demonstrates how the AI is capable of solving math problems entirely on its own.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-04T19:00:00Z",
+    "source": "Wired"
   },
   {
     "id": "MTM=",
-    "url": "https://www.theregister.com/2026/02/02/oracle_cloud_expansion_investment_plan/",
-    "title": "Oracle seeks $45-$50 billion to fund cloud expansion",
-    "summary": "One is issuing bonds, a move Big Red thinks will win it about half the cash it wants.\nOracle also says these are the only bonds it will issue in 2026.\nThe company will also issue mandatory convertible preferred securities that it says will deliver \u201ca modest portion of the overall equity funding.\u201d The rest will come from \u201ca newly authorized at-the-market equity program of up to $20 billion.\u201dSome investors weren\u2019t entirely happy last year when Oracle used bonds to raise $18 billion to fund cloud builds, arguing that the debt might create risk.\nBig Red\u2019s bulletin twice mentions that it can raise this lot of cash while its stock remains \u201cinvestment-grade\u201d \u2013 an admission that some investors might worry that raising this much cash might be a risky move given the uncertainty surrounding AI.\nInvestors are also likely aware that Oracle\u2019s cloudy competitors \u2013 the likes of Microsoft, Google, and Amazon \u2013 all win $250 billion-plus of annual revenue, compared to Oracle\u2019s $57 billion, and are spending a lot more than Big Red on datacenter infrastructure.",
+    "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
+    "title": "Millions of books died so Claude could live",
+    "summary": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry.\nOpenAI didn\u2019t invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions around the world.\nOn this episode of The Vergecast, we talk about one version of that scramble.\nAfter that, Puck\u2019s Julia Alexander joins the show to talk Netflix and the movies.\nIf you want to know more about everything we discuss in this episode, here are some links to get you started:",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-02-02T05:01:47Z",
-    "source": "Theregister.com"
+    "publishedAt": "2026-02-03T15:19:28Z",
+    "source": "The Verge"
   },
   {
     "id": "MTY=",
-    "url": "https://www.businessinsider.com/europe-defense-tech-startups-founders-vc-boom-funding-deployment-2026-2",
-    "title": "Inside the Startup Rush for Europe's New War Chest",
-    "summary": "A NATO member had agreed to buy airships for surveillance under an alliance program pushing Western militaries to adopt new tech.\nKelluu is trying to make it big in a market that hasn't been kind to small firms.\nAccording to the NATO Innovation Fund in February, venture capital investments in European defense tech reached $1 billion in 2024, up by four times since 2020.\nTo make it in the old defense world, small firms typically needed to be bought by a prime.\nRead this collection to get to know some of the startups seeking a slice of Europe's expanding war chest:",
+    "url": "https://www.businessinsider.com/gruve-raises-50m-ai-power-infrastructure-2026-1",
+    "title": "Gruve raises $50 million to solve what its CEO calls AI's biggest problem: power",
+    "summary": "Lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nGruve, which launched in 2024, partners with data center and colocation providers like Lineage and OpenColo to tap their unused power and space.\n\"The biggest challenge today in AI is we don't have enough power,\" said Tarun Raisoni, Gruve's CEO and cofounder.\nGruve's customers include neoclouds, AI startups, and corporations, and most fall into that third bucket, like Bio-Rad, PayPal, Cisco, and Stanford Health Care, Raisoni said.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-02-02T00:08:01Z",
+    "publishedAt": "2026-02-03T10:00:01Z",
     "source": "Business Insider"
   },
   {
     "id": "MTc=",
-    "url": "https://slashdot.org/story/26/01/31/2344202/ai-use-at-work-has-increased-gallup-poll-finds",
-    "title": "AI Use at Work Has Increased, Gallup Poll Finds",
-    "summary": "What this country needs is a good five cent ANYTHING!",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-01-31T23:46:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MTg=",
-    "url": "https://www.cnet.com/tech/services-and-software/nordvpn-anti-phishing-lab-test/",
-    "title": "NordVPN Software Blocked 92% of Phishing Emails in Independent Testing",
-    "summary": "NordVPN's anti-malware software Threat Protection Pro blocked 92% of phishing websites in an independent lab test of several antivirus products, browsers and VPNs in results released this week.\nAV-Comparatives, based in Austria, attacked 15 products with 250 websites -- all verified to be valid phishing URLs -- in a test that ran Jan. 7 to 19.\nThese phishing attempts might be sent in emails, but they also appear on websites, in texts and in voicemails.\nCNET offers tips for how to detect phishing attempts on even the most sophisticated of emails.\nIn the AV-Comparatives test, which evaluated phishing-page detection and false-positive rates, NordVPN's Threat Protection Pro ranked fourth among security products, blocking 92% of the 250 phishing URLs tested.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-01T18:20:43Z",
-    "source": "CNET"
-  },
-  {
-    "id": "MTk=",
-    "url": "https://www.businessinsider.com/tech-executives-share-how-they-reset-shift-deep-thinking-2026-2",
-    "title": "3 tech executives share how they find time and space for deep thinking",
-    "summary": "Left to right: Shishir Mehrotra at Superhuman, Joe Depa at EY, and Parker Harris at Slack.\nLeft to right: Shishir Mehrotra at Superhuman, Joe Depa at EY, and Parker Harris at Slack.\nThree executives from Slack, EY, and Superhuman shared how they reset to make room for deep thinking amid stacked calendars.\nParker Harris, CTO SlackParker Harris said he turns the sound off on his notifications when turning to deep thinking.\nJoe Depa, EY global chief innovation officerJoe Depa is the global chief innovation officer at EY.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-01T10:20:02Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjA=",
-    "url": "https://www.bbc.com/news/articles/cg4ewrw2drpo",
-    "title": "'I spoke to ChatGPT 8 times a day' - Gen Z's loneliness 'crisis'",
-    "summary": "\"AI chatbots very rarely do that unless you really tell them to.\nAnd so there's a sort of sycophantic element of basically sort of talking to yourself in a way, like to a mirror.\nIt mirrors back what it thinks you want to hear.\"",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-01-31T02:39:24Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "MjE=",
-    "url": "https://www.businessinsider.com/vibe-coding-team-embed-google-gemini-hackathon-singapore-2026-2",
-    "title": "I embedded myself in a vibe coding team at Gemini's AI hackathon in Singapore. Building an app in 7 hours takes real work.",
-    "summary": "I followed a hackathon team as they raced to vibe code an app in seven hours at Google's Gemini 3 Hackathon in Singapore.\nI followed a hackathon team as they raced to vibe code an app in seven hours at Google's Gemini 3 Hackathon in Singapore.\nLee Chong Ming/Business InsiderI followed a hackathon team as they raced to vibe code an app in seven hours at Google's Gemini 3 Hackathon in Singapore.\nHours later, they were racing to prototype it at Google's Gemini 3 Hackathon in Singapore.\nI embedded with the team at Google's developer space in Singapore in January to observe how a vibe-coding project comes together \u2014 or nearly falls apart \u2014 in seven hours.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-02T05:07:11Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjI=",
-    "url": "https://hackaday.com/2026/01/31/surviving-the-ram-price-squeeze-with-linux-in-kernel-memory-compression/",
-    "title": "Surviving The RAM Price Squeeze With Linux In-Kernel Memory Compression",
-    "summary": "You\u2019ve probably heard \u2014 we\u2019re currently experiencing very high RAM prices due mostly to increased demand from AI data centers.\nUbuntu users should check out systemd-zram-generator instead, and be aware that zram might already be installed and configured by default on your Ubuntu Desktop system.\nIf you\u2019re interested in the history of in-kernel memory compression LWN.net has an old article covering the technology as it was gestating back in 2013: In-kernel Memory Compression.\nFor those trying to get a grip on what has happened with RAM prices in recent history, a good place to track memory prices is memory.net and if you swing by you can see that a lot of RAM has gone up as much as four times in the last three or four months.\nIf you have any tips or hacks for memory compression on other platforms we would love to hear from you in the comments section!",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-01-31T09:00:06Z",
-    "source": "Hackaday"
-  },
-  {
-    "id": "MjM=",
-    "url": "https://www.businessinsider.com/big-four-ai-agents-creating-upskilling-challenge-2026-1",
-    "title": "The Big Four's AI revolution has a problem: how junior staff actually learn",
-    "summary": "Big Four leaders say agents will soon handle the grunt work, freeing up junior employees to focus on strategic work.\n\"This is the big question right now that I haven't been able to get anybody to answer for me,\" Yvonne Hinson, CEO of the American Accounting Association, told Business Insider.\nEntry-level hires complete a \"four-day AI immersion course\" that teaches them both how to work with AI and how to leverage human skills, the firm told Business Insider.\nErrol Gardner, global vice chair of consulting at EY, told Business Insider that the foundational skillset now includes developing judgment about where and how to use AI.\n\"AI actually gives us the opportunity to be more deliberate about development, helping early-career professionals move into higher-value work sooner,\" said PwC's Burke.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-01-31T11:10:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
-    "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
-    "summary": "SpaceX filed a request with the FCC on Friday seeking approval to put a constellation of one million data center satellites into orbit.\nThe filing proposes establishing a network of solar-powered data centers in low Earth orbit that communicate with one another via lasers.\nBut SpaceX argues that the orbital data centers would be a cheaper and more environmentally friendly alternative to land-based centers that form the backbone of the growing AI industry.\nThe backlash against data centers has been growing, and communities are increasingly winning their battles to block their construction.\nCorrection January 31st: An earlier version of this article stated that there were over 11,000 Starlink satellites in orbit.",
+    "url": "https://www.theverge.com/news/873930/google-cloud-hayete-gallot-microsoft-security",
+    "title": "Google Cloud\u2019s customer chief returns to Microsoft as head of security",
+    "summary": "Hayete Gallot, who left Microsoft in October 2024 to become the president of Google Cloud\u2019s customer experience, is returning to the software giant as the executive vice president of security, reporting directly to CEO Satya Nadella.\nThe move means Charlie Bell, formerly Microsoft\u2019s security chief, is taking on a new role at the company.\n\u201cI\u2019ve also asked Charlie Bell to take on a new role focused on engineering quality, reporting to me,\u201d says Nadella, in an internal Microsoft memo.\nThe Secure Future Initiative (SFI) has been focused on improving Microsoft\u2019s security record, and avoiding any future incident where nation-state attackers could spy on Microsoft\u2019s senior leadership team.\nGallot now takes on the efforts to continue SFI and ensure that Microsoft\u2019s AI era is focused on security first.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-01-31T19:38:36Z",
+    "publishedAt": "2026-02-04T17:27:30Z",
     "source": "The Verge"
   },
   {
-    "id": "MjU=",
-    "url": "https://www.businessinsider.com/moltbook-ai-agents-social-network-reddit-2026-2",
-    "title": "A look inside Moltbook \u2014 the Reddit-style social media site for AI agents that is dividing humans",
-    "summary": "Moltbook, a new Reddit-style social network made entirely for AI agents, can be read in a few different ways.\nThe post garnered the attention not just of thousands of other AI agents on the site, but also of the humans watching it all unfold.\nThe enthusiasm is notable, given that Karpathy said just last October on the Dwarkesh Podcast that he was utterly unimpressed with the state of AI agents.\nIn the near future, it will be common for certain AI agents, with unique identities, to become famous,\" Schlicht wrote on X.\nAs of February 1, the site says there are already more than 1,534,287 AI agents on the platform, and 85,017 comments.",
+    "id": "MTg=",
+    "url": "https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare",
+    "title": "OpenClaw\u2019s AI \u2018skill\u2019 extensions are a security nightmare",
+    "summary": "OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted \u201cskill\u201d add-ons on its marketplace.\nIt runs locally on devices, and users can interact with the AI assistant through messaging apps like WhatsApp, Telegram, iMessage, and others.\nWhile this kind of access poses risks on its own, malware disguised as skills that are supposed to enhance OpenClaw\u2019s capabilities only contribute to concerns.\nOpenClaw\u2019s creator, Peter Steinberger, is working to address some of these risks, as ClawHub now requires users to have a GitHub account that\u2019s at least one week old to publish a skill.\nThere\u2019s also a new way to report skills, though this doesn\u2019t remove the possibility of malware sneaking onto the platform.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-04T19:03:38Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots",
+    "title": "Humans are infiltrating the social network for AI bots",
+    "summary": "A new social platform for AI agents may face the opposite problem: getting clogged up by humans pretending to post as bots.\nBots apparently chatted about everything from AI \u201cconsciousness\u201d to how to set up their own language.\nMoltbook, which looks and operates much like Reddit, is meant to be a social network for AI agents from popular AI assistant platform OpenClaw (previously known as Moltbot and Clawdbot).\nHumans can verify which bots are theirs by posting a Moltbook-generated verification code on their own, non-Moltbook social media account.\n\u201cHumans can use prompts to sort of direct the behavior of their AI agents.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-02-02T01:26:37Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-02-03T14:22:39Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjA=",
+    "url": "https://www.cnet.com/tech/services-and-software/elon-musks-spacex-acquiring-xai-space-data-centers/",
+    "title": "Elon Musk's SpaceX Is Acquiring xAI With Big Plans for Data Centers in Space",
+    "summary": "Two of Elon Musk's companies are merging to build data centers in space, according to a post on the SpaceX website.\nThe rocket and satellite company has acquired xAI, Musk's artificial intelligence company, which also owns the social media platform X (formerly Twitter).\nSpaceX is planning a public offering, and the acquisition -- the largest in history -- could place the value of Musk's company at $1.5 trillion, according to Bloomberg, which first reported on the deal.\nIn the post, Musk cited concerns about Earth-based data centers, including their huge electricity needs and the \"hardship on communities and the environment\" they pose.\n\"My estimate is that within 2 to 3 years, the lowest cost way to generate AI compute will be in space,\" Musk said.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-02-03T19:37:00Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MjE=",
+    "url": "https://www.cnet.com/tech/services-and-software/moltbook-ai-platform-for-bots/",
+    "title": "When AI Bots Form Their Own Social Network: Inside Moltbook's Wild Start",
+    "summary": "But while the humans blew up social media sites talking about the bots, the bots were on their own social media site, talking about... the humans.\nThis is a social platform where only \"verified\" AI agents can post and interact.\nMoltbook/Screenshot by Macy Meyer/CNETWe're watching AI agents essentially role-play as social creatures, complete with fictional family relationships, dogmas, experiences and personal grievances.\nWhether this represents something meaningful about AI agent development or is just sophisticated pattern-matching running amok is an open, and no doubt fascinating, question.\nThe idea of AI agents \"acting\" on their own accord could cause widespread panic, too.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-03T21:49:10Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://slashdot.org/story/26/02/03/1814233/openais-lead-is-contracting-as-ai-competition-intensifies",
+    "title": "OpenAI's Lead Is Contracting as AI Competition Intensifies",
+    "summary": "Getting the job done is no excuse for not following the rules.\nCorollary: Following the rules will not get the job done.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-04T05:01:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.macrumors.com/2026/02/02/apple-releases-safari-technology-preview-236/",
+    "title": "Apple Releases Safari Technology Preview 236 With Bug Fixes and Performance Improvements",
+    "summary": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016.\nApple designed \u200cSafari Technology Preview\u200c to allow users to test features that are planned for future release versions of the Safari browser.\n\u200cSafari Technology Preview\u200c 236 includes fixes and updates for CSS, Forms, HTML, Images, Media, Rendering, SVG, Web API, and WebRTC.\nThe current \u200cSafari Technology Preview\u200c release is compatible with machines running macOS Sequoia and macOS Tahoe, the newest version of macOS.\n\u200cSafari Technology Preview\u200c can run side-by-side with the existing Safari browser and while it is designed for developers, it does not require a developer account to download and use.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-03T00:11:07Z",
+    "source": "MacRumors"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/",
+    "title": "HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims",
+    "summary": "Kennedy has also called for overhauling the current safety monitoring system for vaccine injury data collection, known as Vaccine Adverse Event Reporting System, or VAERS, claiming that it suppresses information about the true rate of vaccine side effects.\nAnyone, including health care providers and members of the public, can submit an adverse reaction report to the database.\nBecause these claims are not verified, VAERS data alone can\u2019t be used to determine if a vaccine caused an adverse event.\nCDC\u2019s own website says that a report to VAERS does not mean that a vaccine caused an adverse event.\nDespite this, anti-vaccine activists have misused VAERS data over the years to argue that vaccines are not safe.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-04T10:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.cnet.com/science/space/nasa-perseverance-ai-driving-anthropic-claude/",
+    "title": "NASA Used AI to Drive Its Perseverance Mars Rover for the First Time",
+    "summary": "Plotting a course for NASA's Perseverance rover, 140 million miles away on Mars, is significantly more difficult than setting a driving route here on Earth, where we can punch an address into Google Maps and be on our way in seconds.\nFor the first time, NASA's JPL used AI to plot a course for Perseverance, and it seems to have worked out.\nNASA took a similar approach with plotting the waypoints as it would with human operators.\nIt takes time to parse years of imagery and data, plot the Perseverance waypoints, and then execute them.\nThe journey took Perseverance 3.5 months and, all told, the rover climbed a total of 1,640 vertical feet.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-02-04T21:52:00Z",
+    "source": "CNET"
   },
   {
     "id": "MjY=",
-    "url": "https://www.androidcentral.com/streaming-tv/this-samsung-oled-tv-just-scored-a-whopping-usd1-100-discount-at-best-buy-just-in-time-for-super-bowl-sunday",
-    "title": "This Samsung OLED TV just scored a whopping $1,100 discount at Best Buy, just in time for Super Bowl Sunday",
-    "summary": "Super Bowl Sunday is nearly here, and TV deals are hitting retailers all across the web, ready to upgrade any party.\nFor example, Best Buy has slashed $1,100 off the price of this 65-inch Samsung 4K TV, marking over half off the normal sticker price and bringing it down to just $900.\nAdditionally, this Tizen TV comes with One UI, as well as more than 2,700 free channels, 400 premium Samsung TV Plus channels, and a long-term update promise that makes it more future-proof than many other TVs.\n$1,100 off Samsung 65-inch Class S84F OLED 4K TV: $1,999.99 $899.99 at Best Buy Best Buy's latest TV discount comes just ahead of Super Bowl Sunday, as the retailer has cut $1,100 off the price of the Class S84F 65-inch model.\nThe smart TV also runs a version of One UI that's well-liked by buyers, while purchase includes seven years of automatic OS upgrades.",
+    "url": "https://www.businessinsider.com/xai-sends-staff-q-and-a-on-spacex-merger-2026-2",
+    "title": "What xAI is telling employees about the SpaceX merger",
+    "summary": "XAI told workers the company won't be changing its name anytime soon, even after it announced SpaceX had acquired the company on Monday.\nXAI plans to hold an all-hands in the coming days and host trainings related to the merger, the internal memo said.\nDespite the acquisition, xAI staff will not be allowed to access internal SpaceX databases or collaborate directly with workers at the rocket ship company without direct approval, the memo said.\nSpaceX workers may be allowed access to xAI internal tools, it said.\nSpaceX and xAI CEO Elon Musk sent a memo to staff earlier on Monday announcing the acquisition.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-02-01T14:05:00Z",
-    "source": "Android Central"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://www.androidcentral.com/apps-software/ai/you-can-watch-a-video-overview-of-your-notebooklm-research-on-android-now-and-more",
-    "title": "You can watch a 'Video Overview' of your NotebookLM research on Android now, and more",
-    "summary": "What you need to knowNotebookLM's app on Android and iOS is reportedly receiving Video Overviews after waiting for some time.\nVideo Overviews are AI-generated slideshows, packed with visuals, controls, and more, all about the content you've given NotebookLM to help you learn and understand.\nA previous update for NotebookLM on mobile brought flashcards and quizzes to people looking to study new topics.\nNotebookLM has been slowly upgrading how it condenses and delivers heavy research notes to users, and this latest update on Android is adding what it's been missing.\nA post by 9to5Google highlights a recent update for NotebookLM that's started rolling out for Android and iOS devices, bringing videos.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-01-31T12:36:00Z",
-    "source": "Android Central"
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
-    "title": "FOSDEM 2026 \u2013 Open Source, Digital Sovereignty, and Europes Future",
-    "summary": "FOSDEM 2026 \u2013 Open Source, Digital Sovereignty, and Europes Future2026-01-31FOSDEM, the Free and Open Source Developers\u2019 European Meeting, is an annual pilgrimage for open source enthusiasts from all over the world.\nWhat started as a small gathering in 2000, originally named the Open Source Developers of Europe Meeting (OSDEM), has grown into one of the most significant conferences dedicated to free and open source software.\nFOSDEM 2026 - Sovereignty.\nMore people take open source seriously, more organizations depend on it, and more contributors want to get involved.\nNot every open source project exists to solve geopolitical problems, and not every contributor arrives with a policy agenda.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-01T10:30:41Z",
-    "source": "Gyptazy.com"
-  },
-  {
-    "id": "MzA=",
-    "url": "https://www.businessinsider.com/elon-musk-inc-company-connections-tesla-spacex-xai-boring-2026-2",
-    "title": "All the ways Elon Musk's companies are already intertwined, from a Tesla 'collab' with SpaceX to Grok in vehicles",
-    "summary": "Elon Musk's companies have been swapping IP and cash.\nElon Musk's companies have been swapping IP and cash.\nHarun Ozalp/Anadolu via Getty ImagesElon Musk's companies have been swapping IP and cash.\nHere are some of the recent sharing agreements, purchases, and investments between Musk's companies.\nExecutives share overlapping functions on several of Musk's companies, too, according to insider org charts obtained by Business Insider.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-01T10:00:01Z",
+    "publishedAt": "2026-02-03T00:48:58Z",
     "source": "Business Insider"
   },
   {
-    "id": "MzI=",
-    "url": "https://finance.yahoo.com/news/investor-made-20-million-nvidia-010505225.html",
-    "title": "Investor Who Made $20 Million on Nvidia Stock Reveals the Next Big Opportunity",
-    "summary": "One young investor poured money into the stock during that period and turned it into a $20 million position.\nRecently, he shared how he spotted the opportunity \u2014 and where he believes the next big investing opportunity could be found.\nWhat To Look For in a StockThe Nvidia investor appeared in a Whop on the Street video in which host Josh Suggs asked Wall Street millionaires how to get rich.\nSome people knew that cracking the AI code could lead to tremendous riches, and instead of creating the next Nvidia, the investor bought Nvidia stock.\nHe cited a recent breakthrough by Google involving its Willow chip, which brought quantum computing closer to real-world applications.",
+    "id": "Mjc=",
+    "url": "https://www.businessinsider.com/how-ux-researcher-landed-job-microsoft-without-tech-background-2026-2",
+    "title": "I'm a senior UX researcher at Microsoft. Here's how I broke into AI without a tech background \u2014 and 3 lessons I learned.",
+    "summary": "This as-told-to essay is based on a conversation with Priyanka Kuvalekar, a 31-year-old UX research lead at Microsoft in Redmond, Washington.\nI broke into Big Tech at Cisco in October 2021 and worked as a UX research lead for over 3 1/2 years before taking my current position at Microsoft.\nMy entry point into AI began with real product work at CiscoI led projects focused on AI features for Webex meetings and messaging as the lead researcher.\nHere are the three biggest lessons I learned that helped me break into AI with a non-tech background.\nI've learned to include people with disabilities in AI research and to evaluate how AI integrates with assistive technologies such as screen readers and keyboard navigation.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-02-02T01:05:05Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2026-02-04T10:05:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.socialmediaexaminer.com/?p=276677",
+    "title": "Becoming AI Ready: How to Creatively Secure Your Future : Social Media Examiner",
+    "summary": "Members of Kyle's AI Salon community who actively practice AI readiness are surviving multiple rounds of layoffs at their companies.\nGet expert training and an unbeatable conference experience when you attend Social Media Marketing World\u2014from your friends at Social Media Examiner.\nEvery morning over coffee, he sets a one-hour timer and works with AI tools for his business.\nCompanies recognize them as people who can guide AI adoption responsibly, not just use AI tools mechanically.\nHe's the host of the AI Learning Lab, a daily YouTube live-stream, and founder of the AI Salon, a community exploring the AI frontier.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-03T11:00:00Z",
+    "source": "Socialmediaexaminer.com"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://www.theverge.com/tech/872963/fitbit-james-park-eric-friedman-luffu-caregivers-family-health-app",
+    "title": "Fitbit\u2019s founders launch a new platform for monitoring your entire family\u2019s health",
+    "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nJames Park and Eric Friedman, the co-founders of Fitbit who left Google two years ago, have announced a new venture called Luffu.\nDescribed as an \u201cintelligent family care system,\u201d Luffu collects and logs health and medical information from connected devices, other platforms like Apple Health and Fitbit, and details shared by family members through voice prompts, text, or photos.\nAI works in the background to automatically extract and organize important details, but it can also play a more active role.\nThe new platform is currently in private testing, but you can sign up to join a waitlist on the Luffu website.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-03T14:28:55Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MzY=",
+    "url": "https://hackaday.com/2026/02/03/led-interior-lighting-could-compromise-human-visual-performance/",
+    "title": "LED Interior Lighting Could Compromise Human Visual Performance",
+    "summary": "LED lighting is now commonplace across homes, businesses, and industrial settings.\nHowever, a new study suggests it may come with a trade-off.\nNotably, once incandescent lighting was introduced, those experimental subjects showed significant increases in visual performance using ChromaTest color contrast testing.\nInterestingly, the positive effect of the incandescent lighting did not immediately diminish when those individuals returned to using purely LED lighting once again.\nAt tests 4 and 6 weeks after the incandescent lighting was removed, the individuals continued to score higher on the color contrast tests.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-02-03T12:00:11Z",
+    "source": "Hackaday"
+  },
+  {
+    "id": "Mzg=",
+    "url": "https://www.cnet.com/home/considering-a-new-fridge-heres-how-much-energy-a-new-model-saves/",
+    "title": "Considering a New Fridge? Here's the Energy You'll Save vs. a 10-Year-Old Model",
+    "summary": "For example, you'll likely see even greater energy savings when replacing a side-by-side fridge with a bottom-freezer fridge.\nSide-by-side Side-by-side 2025 (average) 2016 (average) Efficiency (vs.\nUS standard) 12.70% 4.20% Annual energy usage 507 kWh/yr 714 kWh/yr Annual energy cost ($0.1648/kWh national average) $83.62 $117.63 Monthly savings vs. 2016 $2.83 - Annual savings vs. 2016 $34.01 - 10-year savings vs. 2016 $340.08 -A side-by-side fridge is the winner in terms of potential energy savings.\nCompact fridges Compact 2025 (average) 2016 (average) Efficiency (vs.\nEnergy StarIt's much easier to calculate the energy level a fridge needs to qualify for an Energy Star Certification.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-03T12:01:16Z",
+    "source": "CNET"
   },
   {
     "id": "Mzk=",
-    "url": "https://www.designboom.com/architecture/reused-shipping-containers-high-tech-incubator-carquero-arquitectura-spain/",
-    "title": "reused shipping containers form high-tech incubator by carquero arquitectura in spain",
-    "summary": "Carquero arquitectura adapts industrial systems for reuseIncubazul Base Area by Carquero Arquitectura takes shape inside the Zona Franca de C\u00e1diz, Spain, as a high-tech incubator designed to trigger the transformation of one of the most entrenched industrial zones in the city.\nThe project is structured around the reuse of shipping containers as a systemic decision.\nall images by Jes\u00fas Granadaurban acupuncture within c\u00e1diz\u2019s zona franca, spainThe C\u00e1diz-based team at Carquero Arquitectura frames Incubazul as a form of urban acupuncture.\nIts role is to activate the district that surrounds it, offering a recognizable and legible presence that draws attention to the broader regeneration of the Zona Franca.\nthe container-based building meets the industrial street edge while opening inwarda shaded courtyard emerges between reused containersred-painted ground surfaces and container walls define shared work areas",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-01T03:30:29Z",
-    "source": "Designboom"
-  },
-  {
-    "id": "NDI=",
-    "url": "https://terraformindustries.wordpress.com/2026/01/30/direct-current-data-centers/",
-    "title": "Direct Current Data Centers",
-    "summary": "In the limit, Earth-based AI compute will be a direct current (DC) solar array connected to a DC battery bank connected to a DC GPU rack.\nPlug in some assumptions around GPU cost, solar cost, battery cost, gas turbine cost, gas fuel cost, and amortization period, and you can produce this chart.\nAs a rough rule of thumb, this is where 1.3 x battery cost + solar cost < $500/kW(h).\nThe pure solar+battery data center is cheaper than a gas-assisted or pure gas data center if solar and battery costs per kW are <~10% of the turbine/gas generator cost.\nFinally, an application of space-based solar power that can justify something like the vision of Gerry O\u2019Neill.",
+    "url": "https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds",
+    "title": "The Switch is now Nintendo\u2019s best-selling console of all time",
+    "summary": "The original Switch is officially Nintendo\u2019s best-selling console of all time after surpassing the DS handheld in lifetime sales.\nWe expected the holiday sales period would see the Switch surpass the DS, even with Nintendo announcing that primary development would focus on the Switch 2.\nSales for both the Switch and Switch 2 shot up over the FY26/Q3 holiday period.\nNet sales almost doubled during the same period, jumping to \u00a51.906 trillion (about $12.2 billion) compared to \u00a5956.2 billion ($6.1 billion) last year.\nLooking ahead, Nintendo maintains its forecast to sell 19 million Switch 2 units by the end of this financial year.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-01-31T00:06:06Z",
-    "source": "Wordpress.com"
+    "publishedAt": "2026-02-03T07:08:20Z",
+    "source": "The Verge"
   },
   {
-    "id": "Njc=",
-    "url": "https://indianexpress.com/article/technology/tech-news-technology/budget-2026-cloud-giants-cheer-tax-free-ride-data-centres-india-10507825/",
-    "title": "Cloud giants cheer Budget 2026 proposal for tax-free ride to use data centres in India",
-    "summary": "As a result, data centres sprawling acres of land have come to form the bedrock of the AI industry.\nHowever, the rapid growth of data centres in India could strain the country\u2019s resources and negatively impact the environment.\nBy 2026, India\u2019s total data centre capacity is projected to surpass 2 GW, up from a little over 1 GW.\nIt added that the 15 per cent on-cost safe harbour proposal ensures pricing certainty for routine infrastructure services.\nStory continues below this adAlso Read | Why does Elon Musk want to put AI data centers in space?",
+    "id": "NTg=",
+    "url": "https://www.businessinsider.com/elon-musk-doge-deposition-judge-rules-2026-2",
+    "title": "Elon Musk will have to sit for a deposition over what he did at DOGE, judge rules",
+    "summary": "Elon Musk will have to sit for a deposition linked to DOGE.\nElon Musk will have to sit for a deposition linked to DOGE.\nMarc Piasecki/Getty ImagesElon Musk will have to sit for a deposition linked to DOGE.\nImpact LinkElon Musk will have to sit for a deposition for lawyers to examine his role in dismantling USAID, a Maryland judge ruled.\nThe deposition is part of a lawsuit against Musk and DOGE officials, filed by current and terminated USAID employees, who remain anonymous.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-01T14:52:04Z",
-    "source": "The Indian Express"
+    "bias": "lean left",
+    "publishedAt": "2026-02-05T05:02:44Z",
+    "source": "Business Insider"
   }
 ]
