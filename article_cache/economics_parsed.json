@@ -1,152 +1,132 @@
 [
   {
     "id": "MA==",
-    "url": "https://www.yahoo.com/news/articles/economic-speeches-trump-claims-inflation-110129026.html",
-    "title": "In economic speeches, Trump claims inflation victory nearly 20 times even as prices bite",
-    "summary": "Advertisement AdvertisementOnly twice in the five speeches did Trump acknowledge that prices are still too high, but he blamed them on Biden.\nIn four of the speeches Trump repeatedly and haphazardly switches topics, often when he is in the middle of talking about the economy, the Reuters review found.\n\"But they have no memory of what Trump says about economic issues because of the volume of his own rhetoric.\"\nPrices remain high, even though the inflation rate has inched down since Trump took office, from 3% to 2.7%.\nIn \u2060some of the speeches Trump correctly identifies a drop in prices for a few everyday goods, including eggs and gas.",
+    "url": "https://www.bbc.co.uk/sounds/play/p0n1p693",
+    "title": "Is There A Gen Z Jobs Crisis?",
+    "summary": "Adam and Alex are joined by BBC business editor Simon Jack to unpack some of the factors driving the trend.\nPlus Alex updates us on Nigel Farage appointing Reform UK\u2019s new top team, which he is calling his \u2018shadow cabinet\u2019.\nYou can now listen to Newscast on a smart speaker.\nIf you want to listen, just say \"Ask BBC Sounds to play Newscast\u201d.\nIf you're in the UK, for more News and Current Affairs podcasts from the BBC, listen on BBC Sounds: https://bbc.in/4guXgXd Newscast brings you daily analysis of the latest political news stories from the BBC.",
+    "category": "economics",
+    "bias": "right",
+    "publishedAt": "2026-02-17T20:43:00Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MQ==",
+    "url": "https://uk.finance.yahoo.com/news/gold-prices-oil-pound-commodities-dollar-interest-rates-federal-reserve-uk-inflation-093233998.html",
+    "title": "Gold price below $5,000 as investors wait on Fed guidance for clues",
+    "summary": "Gold prices remained below the $5,000 threshold on Wednesday as investors awaited the release of minutes from the Federal Reserve\u2019s January meeting for further guidance on the outlook for US interest rates.\n\u201cGold prices are taking support above $4,850 today... this is a technical bounce\u201d after prices fell in the previous session on easing geopolitical tensions\", Ajay Kedia, director at Kedia Commodities, told Reuters.\nNon-yielding bullion typically benefits from lower interest rate environments.\nHowever, Fed governor Michael Barr said another rate cut could come somewhere well down the road, citing ongoing risks to the US inflation outlook.\n\u201cOur primary interest here is we don't want Iran to get a nuclear weapon,\u201d the vice president said during an interview with Fox News.",
     "category": "economics",
     "bias": "left",
-    "publishedAt": "2026-02-08T09:50:00Z",
+    "publishedAt": "2026-02-18T09:32:33Z",
     "source": "Yahoo Entertainment"
   },
   {
     "id": "Mg==",
-    "url": "https://abcnews.go.com/US/consumer-sentiment-brightens-defying-economists-expectations/story?id=129917452",
-    "title": "Consumer sentiment brightens, defying economists' expectations",
-    "summary": "Customers shops for fruit in a supermarket in New York City, January 22, 2026.\nCustomers shops for fruit in a supermarket in New York City, January 22, 2026.\nCustomers shops for fruit in a supermarket in New York City, January 22, 2026.\nCustomers shops for fruit in a supermarket in New York City, January 22, 2026.\nThe reading exceeded economists' expectationsAt its low point in November, consumer sentiment fell close to its worst level since a pandemic-era bout of acute inflation.",
+    "url": "https://www.businessinsider.com/nevada-sues-kalshi-trump-cftc-with-prediction-markets-2026-2",
+    "title": "Nevada sues Kalshi as federal regulators say back off",
+    "summary": "Nevada gambling regulators sued the prediction markets company Kalshi on Tuesday, saying the platform's rapid growth forced their hand.\nA Kalshi spokesperson declined to comment on Tuesday afternoon, but the company swiftly asked a federal court to take over the new state case.\nThe CFTC on Tuesday sided with another events-contracts company that is fighting with Nevada regulators, and its chairman, Michael Selig, filmed a video statement defending the new platforms.\nEconomists and political scientists have long been fascinated by prediction markets as a way to channel the so-called wisdom of the crowds.\nLegal battles are pending on the East Coast as well, with regulators in Maryland and New Jersey having clashed with prediction markets.",
     "category": "economics",
-    "bias": "center",
-    "publishedAt": "2026-02-06T15:40:15Z",
-    "source": "ABC News"
+    "bias": "lean left",
+    "publishedAt": "2026-02-18T01:17:02Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mw==",
+    "url": "https://www.bbc.com/news/articles/c5y6g57j3meo",
+    "title": "Plan to increase youth minimum wage could be delayed",
+    "summary": "He argued that it was fair to pay a lower rate to young workers because \"if someone is less experienced and less well trained than someone who has been doing the job for a while they are not necessarily going to be as productive\".",
+    "category": "economics",
+    "bias": "lean left",
+    "publishedAt": "2026-02-18T07:33:24Z",
+    "source": "BBC News"
   },
   {
     "id": "NA==",
-    "url": "https://www.wired.com/story/your-annual-personal-finance-checklist/",
-    "title": "Your Annual Personal Finance Checklist",
-    "summary": "Get on your path to better financial health by taking care of some routine personal finance tasks.\nAdjust Your Retirement and Savings PlansSet-it-and-forget-it retirement savings?\nCheck Your Credit ReportA credit report is a history of your financial accounts and a way to gauge your financial responsibility.\nChecking your credit report is a security task as much as a finance task.\nIf someone uses your identity to open a line of credit, the new account will appear on your credit report.",
+    "url": "https://www.bbc.com/news/articles/c80jy2lkdg3o",
+    "title": "Reform plans to keep UK's budget watchdog",
+    "summary": "In January, Reform UK leader Nigel Farage told the Telegraph he had \"questioned the need\" for the OBR, which he accused of \"effectively dictating to elected politicians what they should or should not do\".",
     "category": "economics",
-    "bias": "left",
-    "publishedAt": "2026-02-07T10:00:00Z",
-    "source": "Wired"
+    "bias": "lean right",
+    "publishedAt": "2026-02-18T01:39:39Z",
+    "source": "BBC News"
   },
   {
     "id": "Ng==",
-    "url": "https://tech.slashdot.org/story/26/02/09/1548222/google-lines-up-100-year-sterling-bond-sale",
-    "title": "Google Lines Up 100-Year Sterling Bond Sale",
-    "summary": "Different all twisty a of in maze are you, passages little.",
+    "url": "https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession",
+    "title": "Why Affordability and the Vibecession Are Real Economic Problems",
+    "summary": "This argument often emphasizes that incomes at the bottom of the distribution rose faster than those at the top, producing a durable wage compression.\nOne could correctly say that these affordability problems existed in 2019 and are independent of the inflation wave.\nAnd I think it\u2019s worth being explicit about why a wave of inflation can generate real affordability problems.\nGraphic 2 has some prices that have increased faster than overall prices during that time, ones that are pretty important for people.\nFrom end of 2013 to 2019, core essentials rose about 14.3%, essentials rose about 10.5%, and overall PCE rose about 7.9%.",
     "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2026-02-09T17:01:00Z",
-    "source": "Slashdot.org"
+    "bias": "left",
+    "publishedAt": "2026-02-17T02:49:04Z",
+    "source": "Mikekonczal.com"
+  },
+  {
+    "id": "Nw==",
+    "url": "https://finance.yahoo.com/news/top-trump-advisor-furious-true-210501303.html",
+    "title": "Top Trump advisor furious about true cost of tariffs being revealed, vows to punish New York Fed for \u2018worst paper\u2019 ever in history",
+    "summary": "A top White House economic official on Wednesday blasted independent research on tariffs, dismissing its findings as inaccurate and misleading.\nMore from Yahoo Scout How does the White House defend current tariff policy?\nWhy did White House officials criticize Federal Reserve research?\nThe exact findings from the New York Fed show a dire scenario for Americans.\nThe New York Fed declined to comment.",
+    "category": "economics",
+    "bias": "right",
+    "publishedAt": "2026-02-18T21:05:01Z",
+    "source": "Yahoo Entertainment"
   },
   {
     "id": "OA==",
-    "url": "https://www.businessinsider.com/prediction-markets-capitol-hill-lawmakers-concerns-2026-2",
-    "title": "The DC lawmakers who think prediction markets are 'bad' and 'kind of sad'",
-    "summary": "Sen. Chris Murphy of Connecticut is among the lawmakers sounding a note of deep skepticism about prediction markets.\nSen. Chris Murphy of Connecticut is among the lawmakers sounding a note of deep skepticism about prediction markets.\nNathan Posner/Anadolu via Getty ImagesAsk a member of Congress about the rise of prediction markets, and there's a decent chance they'll air some concerns.\nAnd many on Capitol Hill still have yet to make up their minds when it comes to prediction markets.\nTorres, who said that he monitored prediction markets during the 2024 election alongside polling, said he could see the potential in that respect.",
+    "url": "https://www.bbc.com/news/articles/c1mjrgkk1m8o",
+    "title": "Food prices are surging in Russia. Is the war hitting Russians in the pocket?",
+    "summary": "Kristina, a Moscow marketing specialist in her mid-40s, also had dig into her savings to buy food last month.\nShe lives with her husband, who is a personal trainer, and says she has started paying attention to discounts and has noticed others in supermarkets doing so as well.",
     "category": "economics",
-    "bias": "right",
-    "publishedAt": "2026-02-07T09:49:01Z",
-    "source": "Business Insider"
+    "bias": "lean left",
+    "publishedAt": "2026-02-18T00:19:54Z",
+    "source": "BBC News"
   },
   {
-    "id": "MTA=",
-    "url": "https://uk.finance.yahoo.com/news/silver-heads-towards-70-precious-metals-end-volatile-week-lower-105012693.html",
-    "title": "Silver dips nearer $70 as precious metals end volatile week lower",
-    "summary": "Gold (GC=F) and silver (SI=F)Silver prices took the headlines in precious metals on Friday, with a dip below the $74 per ounce mark and a 4.7% selloff for silver futures (SI=F) contracts.\nSilver is ending the week nearly 5.7% lower overall.\nMeanwhile, gold futures (GC=F) traded slightly lower, around the $4,880 per ounce mark, while spot prices were at $4,872.\nGold futures are set to end the week about 3.6% higher.\nOil prices headed for their first weekly dip of the year, despite an uptick on Friday, as the risk of a military conflict between Iran and the US waned.",
+    "id": "OQ==",
+    "url": "https://www.businessinsider.com/vinod-khosla-ai-taxes-capital-labor-job-losses-billionaires-musk-2026-2",
+    "title": "Vinod Khosla: Scrap Taxes on Most Americans to Counter AI Job Losses",
+    "summary": "Venture capitalist Vinod Khosla said that AI might warrant a rethink of the tax system.\nVenture capitalist Vinod Khosla said that AI might warrant a rethink of the tax system.\nMert Alper Dervis/Anadolu via Getty ImagesVenture capitalist Vinod Khosla said that AI might warrant a rethink of the tax system.\nShould we eliminate preferential treatment of capital gains tax and equalize to ordinary income?\"\nShould we eliminate preferential treatment of capital gains tax and equalize to ordinary income?",
     "category": "economics",
-    "bias": "center",
-    "publishedAt": "2026-02-06T10:50:12Z",
-    "source": "Yahoo Entertainment"
+    "bias": "right",
+    "publishedAt": "2026-02-17T13:49:53Z",
+    "source": "Business Insider"
   },
   {
     "id": "MTE=",
-    "url": "https://www.businessinsider.com/investment-banking-advising-secondaries-became-hottest-job-wall-street-2026-2",
-    "title": "How this job went from the Wall Street equivalent of a used car dealer to the hottest gig for 2026",
-    "summary": "In late January, JPMorgan Chase announced a new \"center of excellence\" in its investment bank: the Private Capital Advisory and Solutions group.\nMiller told Business Insider that the pace of the activity has become breathless.\nLast month, London-based banker Andrei Brougham joined Goldman Sachs from Rothschild to steer its EMEA secondaries advisory business.\nA February report from JPMorgan found that 76% of family offices still have no secondary private equity exposure, illustrating how much runway remains.\n\"I think it's a really big hiring story,\" she told Business Insider.",
-    "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2026-02-09T10:34:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTU=",
-    "url": "https://www.businessinsider.com/giannis-antetokounmpo-kalshi-prediction-market-nba-gambling-2026-2",
-    "title": "Giannis Antetokounmpo invests in Kalshi, a day after fans traded over $23 million on his NBA future",
-    "summary": "\"I love the Kalshi markets and have been checking them often recently,\" Antetokounmpo said in a press release.\nKalshi users wagered on Giannis Antetokounmpo.\nKalshiSome Kalshi users, for instance, got a payday earlier this week by wagering on Antetokounmpo's future in the NBA.\nSome US lawmakers have also raised concerns that prediction markets veer too closely to traditional gambling, which is subject to stricter regulations.\nIn January, a lawmaker introduced a bill to ban government officials from engaging in insider trading in prediction markets.",
-    "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2026-02-07T20:07:38Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTY=",
-    "url": "https://www.businessinsider.com/kalshi-transfers-delayed-in-the-middle-of-super-bowl-2026-2",
-    "title": "Some Kalshi transfers are delayed during the Super Bowl",
-    "summary": "Kalshi said that some transfers on its prediction markets app are delayed because of the high volume of traffic during the Super Bowl.\n\"Some deposits are delayed because of the amount of traffic and deposits we're getting,\" Kalshi cofounder Luana Lopes Lara wrote on X on Sunday evening.\nOn X, some Kalshi users said that they felt relieved to receive an explanation for why their deposits did not go through.\nIn an X post, Kalshi said it saw over $325 million in volume less than an hour before the championship game started.\nKalshi, founded in 2018, lets users bet on the outcome of events such as elections, sports matches, and economic indicators.",
+    "url": "https://kottke.org/26/02/the-k-shaped-economy",
+    "title": "The K-Shaped Economy",
+    "summary": "I think I\u2019d heard the term \u201ck-shaped economy\u201d somewhere before but didn\u2019t really know what it meant until I watched this video:American Airlines is changing the layout of some of their aircraft to add 31 first class and premium seats while cutting out 73 economy seats.\nMeanwhile, economy is getting more cramped and low-cost carriers are going bankrupt.\nIt\u2019s because wealthy passengers are where the money\u2019s at.\nAnd these days, premium seating is bringing in more revenue than the economy cabin.\nIt\u2019s a perfect example of the K-shaped economy.",
     "category": "economics",
     "bias": "left",
-    "publishedAt": "2026-02-09T02:07:33Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-02-17T20:31:34Z",
+    "source": "kottke.org"
   },
   {
-    "id": "MTc=",
-    "url": "https://www.theverge.com/policy/875665/live-nation-ticketmaster-settlement-doj-discussions-monopoly-trial",
-    "title": "Live Nation\u2019s monopoly trial is reportedly fracturing Trump\u2019s Justice Department",
-    "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nLive Nation executives have reportedly sidestepped the Justice Department\u2019s antitrust division to negotiate directly with more sympathetic senior officials in the hopes of avoiding a monopoly trial.\nCiting \u201cpeople familiar with the matter,\u201d Semafor reports that some talks have excluded antitrust chief Gail Slater, who has pushed for a trial to take place in March after inheriting the case from the Biden administration.\n\u201cThis report contains misinformation about an ongoing matter that is confidential, but what can be said is that AAG Slater is very much involved\u201d in the Live Nation matter, a Justice Department spokesman told Semafor.\nThis DOJ will always pursue what is in the best interest of the American people.\u201d",
-    "category": "economics",
-    "bias": "center",
-    "publishedAt": "2026-02-09T12:22:41Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTg=",
-    "url": "https://finance.yahoo.com/news/tony-robbins-says-us-congress-120100463.html",
-    "title": "Tony Robbins says US Congress quietly unlocked a door that America\u2019s ultra-rich have used for decades. Capitalize now",
-    "summary": "Those thresholds have historically restricted participation in private equity, venture capital and other alternative investments to institutions and high-net-worth households.\nHere's howBut according to best-selling author and motivational speaker Tony Robbins, that long-standing divide may soon be starting to close.\nVenture capital is where the early bets on future giants are placed.\nBut, for decades, venture capital has been one of the few remaining tables in finance where retail investors can\u2019t get a seat.\nFundrise finally disrupted that dynamic a few years ago by launching a venture capital product with two goals.",
+    "id": "MTI=",
+    "url": "https://www.theatlantic.com/ideas/2026/02/for-europe-its-not-back-to-business-as-usual/686023/",
+    "title": "No, It\u2019s Not Back to Business as Usual",
+    "summary": "Just like last year, I watched the most important American speech at the Munich Security Conference in the overflow room, sitting on the floor, underneath the speakers.\nJust like last year, this group was hoping to hear how the U.S. administration is planning to contribute to these projects.\nIn the hours and days afterward, I did not meet a single person of any nationality who thinks that the American-European relationship is returning to business as usual.\nJust after Munich, Rubio flew to Bratislava and Budapest, where he heaped praise upon Viktor Orb\u00e1n, the Hungarian prime minister.\nNone of that is business as usual either.",
     "category": "economics",
     "bias": "left",
-    "publishedAt": "2026-02-06T12:01:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2026-02-17T11:27:47Z",
+    "source": "The Atlantic"
   },
   {
-    "id": "MTk=",
-    "url": "https://hbr.org/2026/02/do-you-know-what-your-customers-aspirations-are",
-    "title": "Do You Know What Your Customers\u2019 Aspirations Are?",
-    "summary": "In his new book The Transformation Economy: Guiding Customers to Achieve Their Aspirations, B. Joseph Pine II argues that there is a new offering companies can provide: change.\nIn this adapted excerpt, he explores four types of aspirations people have and how companies can tap into them when creating their products, services, or experiences.",
+    "id": "MzI=",
+    "url": "https://www.businessinsider.com/ai-energy-utilities-tech-stocks-investing-nvda-msft-says-strategist-2026-2",
+    "title": "A technical strategist says Mag 7 stocks are now 'dead money.' Here's what he thinks investors should buy instead.",
+    "summary": "\"I don't want to short Microsoft but I certainly don't want to buy it,\" he told the podcast host, George Noble.\nShannon also ascribed the \"dead money\" label to Nvidia, highlighting what he sees as a lack of real growth.\nBut Shannon still cautions investors, using Sandisk's bull run to illustrate the trend of companies surging before a correction.\nNow that he's looking past the AI trade, Shannon sees more opportunity in overlooked sectors that many investors don't seem to be focused on: energy and utilities.\n\"Everyones obsessed with the tech stocks that are breaking down and that fact that bitcoin has been having a lot of difficulty,\" he stated.",
     "category": "economics",
     "bias": "lean left",
-    "publishedAt": "2026-02-06T14:00:00Z",
-    "source": "Harvard Business Review"
-  },
-  {
-    "id": "MjE=",
-    "url": "https://www.cbc.ca/news/business/job-numbers-january-2026-9.7077050",
-    "title": "Canada's economy lost 25,000 jobs in January, but unemployment rate ticked down to 6.5%",
-    "summary": "The Canadian employment landscape was a mixed bag in January, with the economy losing 25,000 jobs but the unemployment rate cooling to 6.5 per cent, Statistics Canada said on Friday.\nWATCH | The Canadian employment landscape was a mixed bag last month: Canada's economy loses 25,000 jobs in January | Duration 3:27 Canada's economy lost 25,000 jobs in January, mostly due to a decline in part-time work, Statistics Canada said Friday.\nThe unemployment rate ticked down to 6.5 per cent \u2014 the lowest since September 2024 \u2014 as a result of fewer people actively searching for work.\n\"Is this bad news (drop in employment, with notable weakness in manufacturing) or good news (bigger drop in the unemployment rate, and a rise in hours worked)?\nMeanwhile, Alberta gained 20,000 jobs, Saskatchewan gained 6,100 jobs and Newfoundland and Labrador gained 3,800 jobs.",
-    "category": "economics",
-    "bias": "center",
-    "publishedAt": "2026-02-06T13:39:37Z",
-    "source": "CBC News"
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://www.businessinsider.com/angel-investor-mentor-startups-became-better-founder-2026-2",
-    "title": "I left Amazon and became an angel investor. Mentoring startups for 6 years made me a better founder.",
-    "summary": "This as-told-to essay is based on a conversation with William Tunstall-Pedoe, 56, an angel investor and founder based in the UK.\nThat gave me the capital to invest in the next generation of startups when I left Amazon in 2016.\nI leaned into that opportunity, becoming both a mentor and a very active angel investor.\nI started saying yes to thingsWhen I left Amazon, I suddenly found myself with an empty calendar.\nWhen I later raised a friends-and-family round, it was largely made up of prominent angel investors I'd met through mentoring and angel investing.",
-    "category": "economics",
-    "bias": "left",
-    "publishedAt": "2026-02-06T08:58:01Z",
+    "publishedAt": "2026-02-17T16:17:09Z",
     "source": "Business Insider"
   },
   {
-    "id": "NDY=",
-    "url": "https://www.businessinsider.com/nominations-entry-form-most-innovative-cmo-list-2026-2",
-    "title": "Seeking nominations for Business Insider's most innovative CMOs of 2026 list \u2014 submit entries by March 27",
-    "summary": "Business Insider is seeking nominations for our 11th annual list of the most innovative CMOs in the world.\nWe want to showcase the CMOs who are leading from the top and inspiring the next generation of marketers.\nWhile information about the individual's broader career history will be helpful context, the entries should focus on the impact nominees have had over the past 12 months.\nBusiness Insider's editorial team will judge and determine the list based on the nominations we receive and our own reporting.\nWe may contact you with follow-up questions or invitations for your nominee to be interviewed for additional articles and features.",
+    "id": "NjU=",
+    "url": "https://www.project-syndicate.org/commentary/trump-administration-financial-reforms-could-have-far-reaching-consequences-by-dambisa-moyo-2026-02",
+    "title": "Five US Policy Shifts Could Reshape Financial Markets",
+    "summary": "Email requiredPassword required Remember me?\nPlease enter your email address and click on the reset-password button.\nIf your email exists in our system, we'll send you an email with a link to reset your password.\nPlease note that the link will expire twenty-four hours after the email is sent.\nIf you can't find this email, please check your spam folder.",
     "category": "economics",
     "bias": "lean right",
-    "publishedAt": "2026-02-09T13:56:11Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-02-18T15:03:30Z",
+    "source": "Project Syndicate"
   }
 ]
