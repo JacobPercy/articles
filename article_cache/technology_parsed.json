@@ -1,6 +1,16 @@
 [
   {
-    "id": "NQ==",
+    "id": "OQ==",
+    "url": "https://www.businessinsider.com/prediction-markets-susquehanna-traders-options-betting-kalshi-wall-street-2026-2",
+    "title": "A top options firm is hiring traders to bet on the weather and other 'event-driven outcomes'",
+    "summary": "Lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nThe roles will center on designing and implementing real-time models to assist with betting on the type of event-driven outcomes that made prediction markets popular, including what tomorrow's weather might be.\nOne of the biggest options trading firms in the world is hiring a Senior Trader for Prediction Markets.\nSusquehanna (SIG) is looking for someone to build real-time models for uncertain, event-driven outcomes (weather, probabilistic events, etc.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-19T18:42:43Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTE=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
     "title": "Meta\u2019s new deal with Nvidia buys up millions of AI chips",
     "summary": "Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\nMeta has struck a multiyear deal to expand its data centers with millions of Nvidia\u2019s Grace and Vera CPUs and Blackwell and Rubin GPUs.\nWhile Meta has long been using Nvidia\u2019s hardware for its AI products, this deal \u201crepresents the first large-scale Nvidia Grace-only deployment,\u201d which Nvidia says will deliver \u201csignificant performance-per-watt improvements in [Meta\u2019s] data centers.\u201d The deal also includes plans to add Nvidia\u2019s next-generation Vera CPUs to Meta\u2019s data centers in 2027.\nNvidia is also dealing with concerns about depreciation and chip-back loans used to finance AI build-outs, as well as the pressure of competition.\nNvidia and Meta did not disclose how much the deal cost, but this year\u2019s AI spending from Meta, Microsoft, Google, and Amazon is estimated to cost more than the entire Apollo space program.",
@@ -10,47 +20,37 @@
     "source": "The Verge"
   },
   {
-    "id": "MTA=",
-    "url": "https://www.businessinsider.com/natilus-redesigned-flying-wing-horizon-jet-cargo-space-airbus-boeing-2026-2",
-    "title": "Natilus Redesigned Its 'Flying Wing' Jet With Lucrative Cargo Space",
-    "summary": "A US startup wants to lure customers with lucrative cargo space unavailable on today's narrowbodies.\nA US startup wants to lure customers with lucrative cargo space unavailable on today's narrowbodies.\nNatliusA US startup wants to lure customers with lucrative cargo space unavailable on today's narrowbodies.\nEvo is expected to boast 2,600 cubic feet of dedicated cargo space on the lower level.\nNatilus doesn't have a prototype of Evo, but a subscale model of its blended-wing cargo plane, called Kona, has been test-flying since 2023.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-18T15:31:29Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTM=",
-    "url": "https://tech.slashdot.org/story/26/02/17/1445232/software-isnt-dead-but-its-cosy-business-model-might-be",
-    "title": "'Software Isn't Dead, But Its Cosy Business Model Might Be'",
-    "summary": "Become a fan of Slashdot on Facebook",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-17T14:45:00Z",
-    "source": "Slashdot.org"
-  },
-  {
     "id": "MTQ=",
-    "url": "https://www.businessinsider.com/palantir-moves-headquarters-miami-florida-2026-2",
-    "title": "Palantir says it's moved its HQ to Miami",
-    "summary": "The company said on Tuesday that it had moved its headquarters to Miami.\nWe have moved our headquarters to Miami, Florida.\n\u2014 Palantir (@PalantirTech) February 17, 2026In 2020, Palantir moved its HQ from Palo Alto, California, to Denver, with CEO Alex Karp at the time citing an \"increasing intolerance and monoculture\" in Silicon Valley.\nA Palantir spokesperson did not respond to a request for comment on what the HQ move means for its Colorado employees and whether Karp plans on spending more time in Miami.\nThiel Capital, created by billionaire Palantir cofounder Peter Thiel, opened a Miami office in December.",
+    "url": "https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/",
+    "title": "What Happened to Software is Happening to Finance and Accounting",
+    "summary": "What happened to software is now happening to finance.\nWhat happened to software is now happening to finance.\nSo I became a finance person who codes \u2014 a weird niche that turned out to be excellent preparation for what's happening right now.\nIf you're already deep in this: I'd love to see what you're building.\nI'm thinking of putting together a mini hackathon for people building at this intersection \u2014 finance, AI, automation.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-17T16:31:27Z",
-    "source": "Business Insider"
+    "bias": "lean left",
+    "publishedAt": "2026-02-21T10:45:52Z",
+    "source": "Doempke.com"
   },
   {
     "id": "MTU=",
-    "url": "https://www.businessinsider.com/basware-ceo-jason-kurtz-ai-software-apocalypse-advice-2026-2",
-    "title": "A software CEO explains why he's not worried about the AI apocalypse coming for his industry",
-    "summary": "It's the end of the world as software companies know it, and this CEO feels fine.\nJudging by what some AI experts are saying, and the state of the stock market, you'd think software companies were on their last legs.\nBasware CEO Jason Kurtz, whose company sells software for financial processes, sees it slightly differently.\nKurtz told me the company saw a 20% year-over-year increase in sales in 2025, primarily driven by a surge in the back-half of the year.\nI asked Kurtz for advice for fellow software companies looking to protect themselves.",
+    "url": "https://finance.yahoo.com/news/sam-altman-says-quiet-part-165405075.html",
+    "title": "Sam Altman says the quiet part out loud, confirming some companies are \u2018AI washing\u2019 by blaming unrelated layoffs on the technology",
+    "summary": "As debate continues over AI\u2019s true impact on the labor force, OpenAI CEO Sam Altman said some companies are engaging in \u201cAI washing\u201d when it comes to layoffs, or falsely attributing workforce reductions to the technology\u2019s impact.\n\u201cI don\u2019t know what the exact percentage is, but there\u2019s some AI washing where people are blaming AI for layoffs that they would otherwise do, and then there\u2019s some real displacement by AI of different kinds of jobs,\u201d Altman told CNBC-TV18 at the India AI Impact Summit on Thursday.\nWhat is AI washing in corporate layoffs?\nHowever, prominent tech leaders like Anthropic CEO Dario Amodei have warned of a white-collar bloodbath, with AI potentially wiping out 50% of entry-level office jobs.\nAltman clarified he anticipates more job displacement as a result of AI, as well as the emergence of new roles complementing the technology.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-17T13:13:24Z",
-    "source": "Business Insider"
+    "bias": "right",
+    "publishedAt": "2026-02-19T16:54:05Z",
+    "source": "Yahoo Entertainment"
   },
   {
     "id": "MTY=",
+    "url": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
+    "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry\u2019s Code With AI",
+    "summary": "Code Metal, a Boston-based startup that uses AI to write code and translate it into other programming languages, just closed a $125 million Series B funding round from new and existing investors.\nCode Metal is part of a new wave of startups aiming to modernize the tech industry by using AI to generate code and translate it across programming languages.\nCode Metal, which was founded in 2023, has focused its efforts on code translation and code verification for the defense industry.\nIt needs to be modernized.\u201d\u201cBut in the course of translation,\u201d Erlich added, \u201cyou might be inserting bugs\u2014which is catastrophically problematic.\u201dThat\u2019s where Code Metal says its proprietary tech comes in.\nWhen asked about Code Metal\u2019s error rate for translation, Morales says it depends largely on how difficult the code conversion is, but that for the pipelines Code Metal currently runs, \u201cthere\u2019s no way to generate an error.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-19T19:30:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MTg=",
     "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
     "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn\u2019t Offer Much Proof",
     "summary": "A few years ago, Ketan Joshi read a statistic about artificial intelligence and climate change that caught his eye.\nIn late 2023, Google began claiming that AI could help cut global greenhouse gas emissions by between 5 and 10 percent by 2030.\nJoshi, an energy researcher, was shocked by the massive numbers Google was touting\u2014especially AI\u2019s purported ability to effectively cut the equivalent of what the European Union emits each year.\n\u201cI found [the emissions claim] really compelling because there's very few things that can do that,\u201d he says.\nTech companies are locked in a battle to develop AI as fast as possible\u2014one with potentially massive implications for climate change.",
@@ -60,7 +60,7 @@
     "source": "Wired"
   },
   {
-    "id": "MTc=",
+    "id": "MTk=",
     "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
     "title": "\u201cNo technology has me dreaming bigger than AI\u201d",
     "summary": "Editor\u2019s note: Today, Google CEO Sundar Pichai addressed world leaders gathered at the AI Impact Summit in New Delhi, India.\nNow, in that same city, Google is establishing a full-stack AI hub, part of our $15 billion infrastructure investment in India.\nAnd no technology has me dreaming bigger than AI.\nWe\u2019ve trained 100 million people in digital skills, and our new Google AI Professional Certificate will help people master AI in their jobs, available globally.\nThere are glimmers of this from around the globe:From the Ugandan government using AI and satellite imagery to locate priority areas for electrification\u2026 to getting potholes fixed for residents more efficiently in Memphis, Tennessee by using AI scans of road surfaces from buses.",
@@ -70,7 +70,7 @@
     "source": "Blog.google"
   },
   {
-    "id": "MTg=",
+    "id": "MjA=",
     "url": "https://www.businessinsider.com/millennials-gen-z-internet-simpler-times-old-technology-ai-rejection-2026-2",
     "title": "The Internet Is Pining for the Simpler Days of Old Technology",
     "summary": "De-digitalizing your life is the new status symbol in 2026.\nMat Szwajkos/Getty ImagesDe-digitalizing your life is the new status symbol in 2026.\nMat Szwajkos/Getty Imageslighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nIn an uncertain time, one thing that's sure in 2026: de-digitalizing your life is officially a status symbol.",
@@ -80,47 +80,47 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods",
-    "title": "Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods",
-    "summary": "Apple is pushing ahead with plans to launch its first pair of smart glasses, along with an AI-powered pendant and camera-equipped AirPods, according to a report from Bloomberg\u2019s Mark Gurman.\nApple is reportedly aiming to start production of its smart glasses in December, ahead of a 2027 launch.\nThe company is reportedly planning to develop the frames for the smart glasses in-house, instead of partnering with a third-party company like Meta does with Ray-Ban and Oakley.\nThe company is still working on AI-powered smart glasses with a display, though their launch \u201cremains many years away,\u201d Bloomberg says.\nApple could also launch upgraded AirPods this year, which Gurman previously said could pair low-resolution cameras with AI to analyze a wearer\u2019s surroundings.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-17T19:26:21Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MjA=",
-    "url": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
-    "title": "Google\u2019s AI search results will make links more obvious",
-    "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nGoogle says it will now display links more prominently inside its AI-powered features in Search.\nRobby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of each linked article and accompanying images.\nStein adds that Google will also show these \u201cmore descriptive and prominent link icons\u201d in its AI responses on desktop and mobile.\nImage: GoogleLast year, the European Commission also began investigating the company\u2019s AI search features, including whether Google violated competition rules by using content from digital publishers in its AI responses without \u201cappropriate compensation.\u201d Google has since said that it\u2019s \u201cexploring\u201d allowing publishers to opt out of appearing in its AI search features, and also started linking to more sources in AI Mode.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-17T22:38:24Z",
-    "source": "The Verge"
-  },
-  {
     "id": "MjE=",
-    "url": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
-    "title": "Samsung is slopping AI ads all over its social channels",
-    "summary": "After cramming AI into every inch of its smartphones, appliances, and other devices, Samsung is now increasingly slapping it across social media.\nSeveral videos posted to the company\u2019s YouTube, Instagram, and TikTok accounts in recent weeks were made or edited using generative AI tools, including its latest teaser for the upcoming Galaxy S26 series.\nFine print appears at the bottom of the screen toward the end of the video, flagging that it was \u201cgenerated with the assistance of AI tools,\u201d but there are obvious signs even without the disclosure.\nSamsung has also been posting low-quality cartoons (which look suspiciously Disney-styled) to promote AI home appliances, cat edits, and snowmen who are ironically struggling to determine what\u2019s real \u2014 all made or manipulated using AI.\nWe have reached out to Samsung, Meta, and Google for comment.",
+    "url": "https://it.slashdot.org/story/26/02/20/003230/how-private-equity-debt-left-a-leading-vpn-open-to-chinese-hackers",
+    "title": "How Private Equity Debt Left a Leading VPN Open To Chinese Hackers",
+    "summary": "Please create an account to participate in the Slashdot moderation system",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-17T10:55:32Z",
-    "source": "The Verge"
+    "bias": "lean right",
+    "publishedAt": "2026-02-20T13:00:00Z",
+    "source": "Slashdot.org"
   },
   {
     "id": "MjI=",
-    "url": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
-    "title": "Google announces dates for I/O 2026",
-    "summary": "It\u2019s official: Google I/O 2026 will take place from May 19th to 20th.\nSimilar to previous years, Google I/O 2026 will feature keynotes from company leaders, fireside chats, product demos, and more.\nYou can also interact with a \u201csave the date experience\u201d on Google\u2019s website, which contains a series of minigames built by the company\u2019s Gemini AI model.\nGoogle announced a ton of AI-related news at last year\u2019s I/O, including the broader expansion of AI Mode for Google Search and the launch of its AI filmmaking app Flow.\nDevelopers can register for Google I/O 2026 starting today.",
+    "url": "https://www.businessinsider.com/pwc-engineers-launch-ai-agent-enterprise-grade-spreadsheets-big-four-2026-2",
+    "title": "PwC engineers built an AI agent to tackle the corporate world's least sexy task: spreadsheets",
+    "summary": "PwC, like many consulting firms, is investing heavily in engineering talent.\nArtur Widak/NurPhoto via Getty ImagesPwC, like many consulting firms, is investing heavily in engineering talent.\nThese files often underpin business-critical decisions, yet PwC \"found that even today's modern AI was very poorly suited to managing these big enterprise spreadsheets,\" Wood said.\nIn January, PwC launched a dedicated tech engineering career track to attract more technical talent, saying it wants to become \"a destination for top engineering talent.\"\nThe second reimagines professional services from scratch: \"If you were to start from a blank piece of paper, what would professional services look like in an AI agent world?\"",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-17T20:56:56Z",
-    "source": "The Verge"
+    "bias": "lean left",
+    "publishedAt": "2026-02-20T10:33:45Z",
+    "source": "Business Insider"
   },
   {
     "id": "MjM=",
+    "url": "https://www.anthropic.com/news/claude-code-security",
+    "title": "Making frontier cybersecurity capabilities available to defenders",
+    "summary": "Claude Code Security, a new capability built into Claude Code on the web, is now available in a limited research preview.\nClaude Code Security is intended to put this power squarely in the hands of defenders and protect code against this new category of AI-enabled attack.\nHow Claude Code Security worksStatic analysis\u2014a widely deployed form of automated security testing\u2014is typically rule-based, meaning it matches code against known vulnerability patterns.\nNothing is applied without human approval: Claude Code Security identifies problems and suggests solutions, but developers always make the call.\nClaude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-02-20T18:03:19Z",
+    "source": "Anthropic.com"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+    "title": "The AI security nightmare is here and it looks suspiciously like lobster",
+    "summary": "Is a London-based reporter at The Verge covering all things AI and Senior Tarbell Fellow.\nA hacker tricked a popular AI coding tool into installing OpenClaw \u2014 the viral, open-source AI agent OpenClaw that \u201cactually does things\u201d \u2014 absolutely everywhere.\nThe hacker used their access to slip through instructions to automatically install software on users\u2019 computers.\nIt\u2019s a sign of how quickly things can unravel when AI agents are given control over our computers.\nThey may look like clever wordplay \u2014 one group wooed chatbots into committing crimes with poetry \u2014 but in a world of increasingly autonomous software, prompt injections are massive security risks that are very difficult to defend against.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-19T18:58:56Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjc=",
     "url": "https://www.businessinsider.com/miami-next-silicon-valley-weirder-palantir-zuck-2026-2",
     "title": "Miami isn't the next Silicon Valley. It's something much weirder.",
     "summary": "Is Miami the next Silicon Valley?\nBillboards went up in San Francisco featuring a mock tweet from then-Miami mayor Francis Suarez: \"Thinking about moving to Miami?\nHere's the thing: It's easy to fall for Miami when a big chunk of the workforce is stuck at home and online.\nSilicon Valley practically runs on a conveyor belt from Stanford and Caltech to Y Combinator's Dogpatch offices.\nBefore that, Adam Neumann, the ousted WeWork cofounder, debuted his Miami residential real-estate venture, Flow, at a $1 billion valuation in 2022.",
@@ -130,7 +130,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjQ=",
+    "id": "Mjg=",
     "url": "https://hbr.org/2026/02/when-every-company-can-use-the-same-ai-models-context-becomes-a-competitive-advantage",
     "title": "When Every Company Can Use the Same AI Models, Context Becomes a Competitive Advantage",
     "summary": "When Every Company Can Use the Same AI Models, Context Becomes a Competitive AdvantageAt a glance, the two large B2B companies were almost identical.\nBoth sell complex, multi-year technology services; they compete for many of the same enterprise customers.\nSales stages, forecasting cadence, and executive review rhythms were the same.\nGoing by their customer relationship management (CRM) systems, their processes looked indistinguishable.",
@@ -140,7 +140,7 @@
     "source": "Harvard Business Review"
   },
   {
-    "id": "MjU=",
+    "id": "Mjk=",
     "url": "https://www.businessinsider.com/perplexity-shifts-to-subscriptions-business-growth-2026-2",
     "title": "Perplexity Doubles Down on Subscriptions, Eyes Business Growth",
     "summary": "One Perplexity executive said the startup is increasingly targeting large businesses.\nPerplexity will focus more on revenue and revenue retention than on other metrics, such as the number of questions it answers, the executive said.\nPerplexity generated over $150 million in annual recurring revenue by mid-last year, its head of communications Jesse Dwyer told Business Insider in August.\nThe news comes after several months of the AI startup lying low, as Perplexity said in a press invite.\nOne consistent issue with ads in AI-generated answers is that users won't believe them, the Perplexity executive said.",
@@ -150,103 +150,23 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjY=",
-    "url": "https://www.businessinsider.com/ai-mistakes-to-avoid-freshworks-strategy-director-2026-2",
-    "title": "Freshworks Strategy Leader: 3 Mistakes to Avoid When Using AI",
-    "summary": "This as-told-to essay is based on a conversation with Geetha Rajan, a director on the global strategy team at Freshworks, a SaaS company.\nI'm a director on the global strategy team at Freshworks, where I drive high-priority strategic initiatives that shape the company's growth, investment decisions, and execution, including on AI adoption.\nA lot of employers will keep expecting that you use AI every day without really understanding the consequences.\nApproaching AI without contextYou need to know exactly who you're solving for and what the purpose of solving that exercise is.\nIf AI throws 50 ideas at you, you need to know which one of those is going to stick.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-17T10:30:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://247wallst.com/investing/2026/02/17/ai-panic-grips-software-stocks-2-stocks-you-should-buy-anyway/",
-    "title": "AI Panic Grips Software Stocks: 2 Stocks You Should Buy Anyway",
-    "summary": "Cloudflare (NET)Cloudflare shares declined 26% from their November highs, aligning with the broader software sector rout.\nThe company\u2019s fourth-quarter results exceeded expectations, with revenue growth fueled by record annual contract values tied to AI demand, including a $130 million five-year deal and a $42.5 million annual contract.\nThe decline stemmed from investor concerns over escalating capital expenditures, which reached $37.5 billion in the quarter as the company ramps up AI infrastructure investments.\nMicrosoft\u2019s transition to an AI-first entity enhances its cloud dominance, with exploding AI adoption driving demand for secure infrastructure.\nAs AI integrates across industries, Microsoft\u2019s Azure and partnerships position it for sustained growth, outpacing sector peers in scale and innovation.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-17T17:57:57Z",
-    "source": "24/7 Wall St."
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://www.cnet.com/tech/gaming/tmr-vs-hall-effect-joysticks-battle-of-the-magnetic-sensing-tech/",
-    "title": "TMR vs. Hall Effect Controllers: Battle of the Magnetic Sensing Tech",
-    "summary": "How Hall effect joysticks workGameSir incorporates Hall effect sticks into many of its game controllers.\nGameSirWe've previously broken down the difference between Hall effect tech and traditional potentiometers in controller joysticks, but here's a quick rundown on how Hall effect sensors work.\nA Hall effect joystick moves a magnet over a sensor circuit, and the magnetic field affects the circuit's voltage.\nHow TMR joysticks workWhile TMR works differently, it's a similar concept to Hall effect devices.\nJust like Hall effect joysticks, TMR joysticks don't rely on physical contact to register inputs and therefore won't suffer the wear and drift that affects potentiometer-based joysticks.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-18T12:01:01Z",
-    "source": "CNET"
-  },
-  {
-    "id": "MzQ=",
-    "url": "https://science.nasa.gov/climate-change/evidence/",
-    "title": "NASA Science",
-    "summary": "Evidence There is unequivocal evidence that Earth is warming at an unprecedented rate.\nTakeawaysWhile Earth\u2019s climate has changed throughout its history, the current warming is happening at a rate not seen in the past 10,000 years.\nFrom global temperature rise to melting ice sheets, the evidence of a warming planet abounds.\nScientists demonstrated the heat-trapping nature of carbon dioxide and other gases in the mid-19th century.2 Many of the science instruments NASA uses to study our climate focus on how these gases affect the movement of infrared radiation through the atmosphere.\nImage credit: Kelsey Roberts/USGSThe Ice Sheets Are Shrinking The Greenland and Antarctic ice sheets have decreased in mass.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-18T20:09:10Z",
-    "source": "NASA"
-  },
-  {
-    "id": "Mzk=",
-    "url": "https://shiro.computer/show",
-    "title": "Shiro \u2014 A Unix environment in one HTML file",
-    "summary": "A static HTML file that boots into a Unix shell.\nThe filesystem is IndexedDB.\nCommands are JavaScript.\nFiles survive page reloads.\nEverything runs client-side \u2014 the page works offline with no server at all.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-18T16:26:08Z",
-    "source": "Shiro.computer"
-  },
-  {
-    "id": "NDA=",
-    "url": "https://tech.slashdot.org/story/26/02/17/1528202/mazda-finally-admits-its-infotainment-system-is-the-worst",
-    "title": "Mazda Finally Admits Its Infotainment System Is the Worst",
+    "id": "MzU=",
+    "url": "https://news.slashdot.org/story/26/02/21/1932253/codeorg-president-steps-down-citing-upending-of-cs-by-ai",
+    "title": "Code.org President Steps Down Citing 'Upending' of CS By AI",
     "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-02-17T15:27:00Z",
+    "publishedAt": "2026-02-21T20:35:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "NDQ=",
-    "url": "https://www.sciencedaily.com/releases/2026/02/260218031603.htm",
-    "title": "New sodium ion battery stores twice the energy and desalinates seawater",
-    "summary": "Sodium-ion batteries are emerging as a promising option for cleaner, more sustainable energy storage.\nWater Boosts Sodium Vanadium Oxide PerformanceIn research published in the Journal of Materials Chemistry A, scientists examined sodium vanadium oxide, a well-known sodium-based compound.\nToward Safer, Low Cost Alternatives to LithiumThis advance could speed up the adoption of sodium-ion batteries as a practical alternative to lithium-based technology.\nPossible uses include large-scale renewable energy storage for power grids as well as applications in electric vehicles.\nBy simplifying the production of high-performance sodium-ion batteries, the Surrey team's findings move commercially viable, sustainable energy storage one step closer to reality.",
+    "id": "NjM=",
+    "url": "https://www.theatlantic.com/national-security/2026/02/big-story-signalgate-one-year-later-jeffrey-goldberg/686072/",
+    "title": "The Big Story: Signalgate, One Year Later",
+    "summary": "On Tuesday, March 10, Atlantic editor in chief Jeffrey Goldberg will discuss the political fallout after publishing the Signal story last year.\nAt this virtual event just for subscribers, Goldberg and executive editor Adrienne LaFrance will offer insight into how the unprecedented security breach has influenced the Pentagon\u2019s handling of the country\u2019s sensitive information and restrictions on the press.\nThey\u2019ll also highlight the real-world implications of the latest foreign-policy news from the Trump administration.\nSubscribers can submit questions in advance for Goldberg and LaFrance to answer live during the session.\nSubmit your questions here.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-19T05:17:03Z",
-    "source": "Science Daily"
-  },
-  {
-    "id": "NDU=",
-    "url": "https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/",
-    "title": "42 Years of Measuring the Sun, the Earth and the Energy in Between",
-    "summary": "By Denise LineberryNASA's Earth Radiation Budget Satellite (ERBS), a part of the NASA's three satellite Earth Radiation Budget Experiment (ERBE), was designed to investigate how energy from the Sun is absorbed and re-emitted by the Earth.\nThis helped confirm and improve the earliest climate models and laid the groundwork for NASA\u2019s Earth Radiation Budget Experiment (ERBE).\nFor 42 years, NASA has observed Earth\u2019s energy budget.\nNASA Langley\u2019s Earth Radiation Budget Science Team is the only group producing ERB data globally.\nEarth's energy budget is a metaphor for the delicate equilibrium between energy from the Sun versus energy radiated back into space.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-18T19:23:36Z",
-    "source": "NASA"
-  },
-  {
-    "id": "NTU=",
-    "url": "https://www.businessinsider.com/what-palantir-headquarters-move-miami-florida-signals-2026-2",
-    "title": "Palantir's Florida move is more than just a change of address",
-    "summary": "When a company moves its headquarters, it's making a statement \u2014 whether leadership spells it out or not.\nThat's the case with Palantir's surprise announcement Tuesday that it has relocated its home base to Florida from Colorado.\nThe defense-tech contractor disclosed the change in a one-sentence press release citing a new address just outside Miami.\nColorado is a blue state, Florida is red.\nWhatever the incentives are behind Palantir's change of address, headquarters moves in general are rarely about real estate, said Jeff LeBlanc, a management professor at Bentley University.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-18T22:00:51Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NjQ=",
-    "url": "https://www.businessinsider.com/european-union-privacy-watchdog-investigating-x-sexualized-ai-images-2026-2",
-    "title": "The EU's privacy watchdog is investigating X over sexualized AI images",
-    "summary": "Lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nThe platform came under fire worldwide in January after reports emerged of Grok users generating sexualized images of real people, including minors.\nCalifornia's Attorney General, Rob Bonta, also said in early January that he had launched a probe into Grok's AI deepfakes.\nIn response, X made Grok's AI image generation tool a premium feature limited to paying subscribers and later stopped it from generating sexualized images altogether.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-17T05:04:54Z",
-    "source": "Business Insider"
+    "bias": "right",
+    "publishedAt": "2026-02-20T15:48:00Z",
+    "source": "The Atlantic"
   }
 ]
