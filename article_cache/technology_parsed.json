@@ -1,26 +1,16 @@
 [
   {
-    "id": "OQ==",
-    "url": "https://www.businessinsider.com/prediction-markets-susquehanna-traders-options-betting-kalshi-wall-street-2026-2",
-    "title": "A top options firm is hiring traders to bet on the weather and other 'event-driven outcomes'",
-    "summary": "Lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nThe roles will center on designing and implementing real-time models to assist with betting on the type of event-driven outcomes that made prediction markets popular, including what tomorrow's weather might be.\nOne of the biggest options trading firms in the world is hiring a Senior Trader for Prediction Markets.\nSusquehanna (SIG) is looking for someone to build real-time models for uncertain, event-driven outcomes (weather, probabilistic events, etc.",
+    "id": "OA==",
+    "url": "https://www.businessinsider.com/ai-job-market-english-majors-humanities-demand-2026-2",
+    "title": "AI Is Giving English Majors Some Unexpected Leverage in the Job Market",
+    "summary": "Pre-pandemic, the number of English majors at the university was shrinking, part of a broader decline in English across the country, he said.\nBut there's been a rebound, with the number of English majors rising 9% since 2021.\nCourtesy of CU BoulderDerided by some as useless, the utility of the English major has long been questioned.\nThat means that, after years of mocking, English majors are finally getting recognized for their usefulness.\nStill, it's a dreary labor market for everyone \u2014 English majors includedThere are signs of employment hope for the English majors.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-19T18:42:43Z",
+    "bias": "left",
+    "publishedAt": "2026-02-22T09:50:01Z",
     "source": "Business Insider"
   },
   {
-    "id": "MTE=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-    "title": "Meta\u2019s new deal with Nvidia buys up millions of AI chips",
-    "summary": "Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\nMeta has struck a multiyear deal to expand its data centers with millions of Nvidia\u2019s Grace and Vera CPUs and Blackwell and Rubin GPUs.\nWhile Meta has long been using Nvidia\u2019s hardware for its AI products, this deal \u201crepresents the first large-scale Nvidia Grace-only deployment,\u201d which Nvidia says will deliver \u201csignificant performance-per-watt improvements in [Meta\u2019s] data centers.\u201d The deal also includes plans to add Nvidia\u2019s next-generation Vera CPUs to Meta\u2019s data centers in 2027.\nNvidia is also dealing with concerns about depreciation and chip-back loans used to finance AI build-outs, as well as the pressure of competition.\nNvidia and Meta did not disclose how much the deal cost, but this year\u2019s AI spending from Meta, Microsoft, Google, and Amazon is estimated to cost more than the entire Apollo space program.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-18T00:27:08Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTQ=",
+    "id": "OQ==",
     "url": "https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/",
     "title": "What Happened to Software is Happening to Finance and Accounting",
     "summary": "What happened to software is now happening to finance.\nWhat happened to software is now happening to finance.\nSo I became a finance person who codes \u2014 a weird niche that turned out to be excellent preparation for what's happening right now.\nIf you're already deep in this: I'd love to see what you're building.\nI'm thinking of putting together a mini hackathon for people building at this intersection \u2014 finance, AI, automation.",
@@ -30,67 +20,37 @@
     "source": "Doempke.com"
   },
   {
-    "id": "MTU=",
-    "url": "https://finance.yahoo.com/news/sam-altman-says-quiet-part-165405075.html",
-    "title": "Sam Altman says the quiet part out loud, confirming some companies are \u2018AI washing\u2019 by blaming unrelated layoffs on the technology",
-    "summary": "As debate continues over AI\u2019s true impact on the labor force, OpenAI CEO Sam Altman said some companies are engaging in \u201cAI washing\u201d when it comes to layoffs, or falsely attributing workforce reductions to the technology\u2019s impact.\n\u201cI don\u2019t know what the exact percentage is, but there\u2019s some AI washing where people are blaming AI for layoffs that they would otherwise do, and then there\u2019s some real displacement by AI of different kinds of jobs,\u201d Altman told CNBC-TV18 at the India AI Impact Summit on Thursday.\nWhat is AI washing in corporate layoffs?\nHowever, prominent tech leaders like Anthropic CEO Dario Amodei have warned of a white-collar bloodbath, with AI potentially wiping out 50% of entry-level office jobs.\nAltman clarified he anticipates more job displacement as a result of AI, as well as the emergence of new roles complementing the technology.",
+    "id": "MTE=",
+    "url": "https://news.slashdot.org/story/26/02/20/2134238/goldman-sachs-launches-ai-free-index",
+    "title": "Goldman Sachs Launches AI-Free Index",
+    "summary": "Can anyone remember when the times were not hard, and money not scarce?",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-02-19T16:54:05Z",
-    "source": "Yahoo Entertainment"
+    "bias": "center",
+    "publishedAt": "2026-02-20T23:20:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MTQ=",
+    "url": "https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners",
+    "title": "Uber launches robotaxi support project to aid AV partners",
+    "summary": "Now, the ridehail giant is launching a new initiative to support its third-party robotaxi partners called Uber Autonomous Solutions.\nIt\u2019s an acknowledgement that many AV developers aren\u2019t as cash rich as Waymo, Tesla, and other leading AV developers.\nUber says this data can help its partners improve their own autonomous vehicles as they seek to scale their robotaxi business more quickly.\nEssentially, Uber is telling its AV partners to stick to the important stuff \u2014 developing software to power autonomous driving \u2014 and it will take care of the rest.\nThe company has said it wants to use its reach and scale to help autonomous vehicles proliferate across the globe.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-21T19:31:36Z",
+    "source": "The Verge"
   },
   {
     "id": "MTY=",
-    "url": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
-    "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry\u2019s Code With AI",
-    "summary": "Code Metal, a Boston-based startup that uses AI to write code and translate it into other programming languages, just closed a $125 million Series B funding round from new and existing investors.\nCode Metal is part of a new wave of startups aiming to modernize the tech industry by using AI to generate code and translate it across programming languages.\nCode Metal, which was founded in 2023, has focused its efforts on code translation and code verification for the defense industry.\nIt needs to be modernized.\u201d\u201cBut in the course of translation,\u201d Erlich added, \u201cyou might be inserting bugs\u2014which is catastrophically problematic.\u201dThat\u2019s where Code Metal says its proprietary tech comes in.\nWhen asked about Code Metal\u2019s error rate for translation, Morales says it depends largely on how difficult the code conversion is, but that for the pipelines Code Metal currently runs, \u201cthere\u2019s no way to generate an error.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-19T19:30:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MTg=",
-    "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-    "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn\u2019t Offer Much Proof",
-    "summary": "A few years ago, Ketan Joshi read a statistic about artificial intelligence and climate change that caught his eye.\nIn late 2023, Google began claiming that AI could help cut global greenhouse gas emissions by between 5 and 10 percent by 2030.\nJoshi, an energy researcher, was shocked by the massive numbers Google was touting\u2014especially AI\u2019s purported ability to effectively cut the equivalent of what the European Union emits each year.\n\u201cI found [the emissions claim] really compelling because there's very few things that can do that,\u201d he says.\nTech companies are locked in a battle to develop AI as fast as possible\u2014one with potentially massive implications for climate change.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-18T15:17:31Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MTk=",
-    "url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
-    "title": "\u201cNo technology has me dreaming bigger than AI\u201d",
-    "summary": "Editor\u2019s note: Today, Google CEO Sundar Pichai addressed world leaders gathered at the AI Impact Summit in New Delhi, India.\nNow, in that same city, Google is establishing a full-stack AI hub, part of our $15 billion infrastructure investment in India.\nAnd no technology has me dreaming bigger than AI.\nWe\u2019ve trained 100 million people in digital skills, and our new Google AI Professional Certificate will help people master AI in their jobs, available globally.\nThere are glimmers of this from around the globe:From the Ugandan government using AI and satellite imagery to locate priority areas for electrification\u2026 to getting potholes fixed for residents more efficiently in Memphis, Tennessee by using AI scans of road surfaces from buses.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-02-19T04:30:00Z",
-    "source": "Blog.google"
-  },
-  {
-    "id": "MjA=",
-    "url": "https://www.businessinsider.com/millennials-gen-z-internet-simpler-times-old-technology-ai-rejection-2026-2",
-    "title": "The Internet Is Pining for the Simpler Days of Old Technology",
-    "summary": "De-digitalizing your life is the new status symbol in 2026.\nMat Szwajkos/Getty ImagesDe-digitalizing your life is the new status symbol in 2026.\nMat Szwajkos/Getty Imageslighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nIn an uncertain time, one thing that's sure in 2026: de-digitalizing your life is officially a status symbol.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-19T11:47:08Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjE=",
     "url": "https://it.slashdot.org/story/26/02/20/003230/how-private-equity-debt-left-a-leading-vpn-open-to-chinese-hackers",
     "title": "How Private Equity Debt Left a Leading VPN Open To Chinese Hackers",
-    "summary": "Please create an account to participate in the Slashdot moderation system",
+    "summary": "Can anyone remember when the times were not hard, and money not scarce?",
     "category": "technology",
-    "bias": "lean right",
+    "bias": "center",
     "publishedAt": "2026-02-20T13:00:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MjI=",
+    "id": "MTc=",
     "url": "https://www.businessinsider.com/pwc-engineers-launch-ai-agent-enterprise-grade-spreadsheets-big-four-2026-2",
     "title": "PwC engineers built an AI agent to tackle the corporate world's least sexy task: spreadsheets",
     "summary": "PwC, like many consulting firms, is investing heavily in engineering talent.\nArtur Widak/NurPhoto via Getty ImagesPwC, like many consulting firms, is investing heavily in engineering talent.\nThese files often underpin business-critical decisions, yet PwC \"found that even today's modern AI was very poorly suited to managing these big enterprise spreadsheets,\" Wood said.\nIn January, PwC launched a dedicated tech engineering career track to attract more technical talent, saying it wants to become \"a destination for top engineering talent.\"\nThe second reimagines professional services from scratch: \"If you were to start from a blank piece of paper, what would professional services look like in an AI agent world?\"",
@@ -100,7 +60,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjM=",
+    "id": "MTg=",
+    "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+    "title": "How to Hide Google\u2019s AI Overviews From Your Search Results",
+    "summary": "While there\u2019s no off switch to avoid this smorgasbord of AI tools entirely, there is one keyboard trick you can use to dodge Google\u2019s AI Overviews for a brief respite.\nIt\u2019s an option WIRED readers highlighted under a recent article about scams found in Google\u2019s AI Overviews.\n\u201cPeople find Search more helpful with AI Overviews, and they're coming back to search more as a result,\u201d a Google spokesperson tells WIRED.\nThe exception seems to be on Android\u2014at least on a Google Pixel phone we tested with, using \u201c\u2013ai\u201d removed AI Overviews.\nWhen Google launched AI Overviews in 2024, it was a major turning point for the search engine.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-02-22T11:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MTk=",
     "url": "https://www.anthropic.com/news/claude-code-security",
     "title": "Making frontier cybersecurity capabilities available to defenders",
     "summary": "Claude Code Security, a new capability built into Claude Code on the web, is now available in a limited research preview.\nClaude Code Security is intended to put this power squarely in the hands of defenders and protect code against this new category of AI-enabled attack.\nHow Claude Code Security worksStatic analysis\u2014a widely deployed form of automated security testing\u2014is typically rule-based, meaning it matches code against known vulnerability patterns.\nNothing is applied without human approval: Claude Code Security identifies problems and suggests solutions, but developers always make the call.\nClaude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry.",
@@ -110,47 +80,67 @@
     "source": "Anthropic.com"
   },
   {
-    "id": "MjU=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
-    "title": "The AI security nightmare is here and it looks suspiciously like lobster",
-    "summary": "Is a London-based reporter at The Verge covering all things AI and Senior Tarbell Fellow.\nA hacker tricked a popular AI coding tool into installing OpenClaw \u2014 the viral, open-source AI agent OpenClaw that \u201cactually does things\u201d \u2014 absolutely everywhere.\nThe hacker used their access to slip through instructions to automatically install software on users\u2019 computers.\nIt\u2019s a sign of how quickly things can unravel when AI agents are given control over our computers.\nThey may look like clever wordplay \u2014 one group wooed chatbots into committing crimes with poetry \u2014 but in a world of increasingly autonomous software, prompt injections are massive security risks that are very difficult to defend against.",
+    "id": "MjE=",
+    "url": "https://www.businessinsider.com/mark-cuban-two-types-of-people-using-ai-learning-lazy-2026-2",
+    "title": "Mark Cuban on 2 Types of AI Users: Learners and Non-Learners",
+    "summary": "Mark Cuban said people who use AI either use it to learn everything or to avoid learning.\nMark Cuban said people who use AI either use it to learn everything or to avoid learning.\nTom Williams/CQ-Roll Call, Inc via Getty ImagesMark Cuban said people who use AI either use it to learn everything or to avoid learning.\nlighning bolt icon An icon in the shape of a lightning bolt.\nBill Gurley, a partner at the Silicon Valley venture capitalist firm Benchmark, agrees \"100%\" with Cuban that there are two types of AI users.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-20T00:07:49Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://www.businessinsider.com/deepmind-ceo-demis-hassabis-ai-lazy-way-hurts-thinking-skills-2026-2",
+    "title": "DeepMind's CEO says using AI can make you a genius \u2014 or hurt your critical thinking skills",
+    "summary": "The Google DeepMind CEO said that AI is just like the internet when it comes to learning.\nIn a Thursday interview with entrepreneur Varun Mayya on the sidelines of the India AI Impact Summit, the Google DeepMind CEO said that AI is just like the internet.\n\"With AI, if you use it in a lazy way, it will make you worse at critical thinking and so on,\" he said.\nIt merged with Google Brain in 2023 to form Google DeepMind, the lab behind tools such as Gemini and Nano Banana.\nAt a June conference, the CEO of French AI lab Mistral said that a risk of using AI for everything is that humans will stop trying.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-02-19T18:58:56Z",
-    "source": "The Verge"
+    "publishedAt": "2026-02-20T05:01:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.businessinsider.com/scott-adams-death-ai-avatar-resurrection-ethics-debate-family-backlash-2026-2",
+    "title": "Scott Adams' AI Resurrection Sparks Backlash and an Ethics Debate",
+    "summary": "\"The real Scott Adams gave explicit permission on the record multiple times for people to create and operate an AI version of him,\" the AI Adams said in a post on February 5.\nThe Adams estate did not respond to requests for comment from Business Insider.\n\"It's my belief this is something that he wanted,\" John Arrow, an AI venture capitalist who created the digital Adams, said.\nThe AI Adams identifies itself as artificial intelligence at the start of its clips and does not appear to solicit money.\nFor now, the AI \"Scott Adams\" fight is one family's public line-drawing exercise.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-20T09:14:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://slashdot.org/story/26/02/22/1632217/ai-now-helps-manage-16-of-americas-apartments",
+    "title": "AI Now Helps Manage 16% of America's Apartments",
+    "summary": "Can anyone remember when the times were not hard, and money not scarce?",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-22T18:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MjY=",
+    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "title": "The path to ubiquitous AI",
+    "summary": "The path to ubiquitous AIBy Ljubisa BajicMany believe AI is the real deal.\nAbout TaalasFounded 2.5 years ago, Taalas developed a platform for transforming any AI model into custom silicon.\nAI inference is the most critical computational workload that humanity has ever faced, and the one that stands to gain the most from specialization.\nThe Silicon Llama is aggressively quantized, combining 3-bit and 6-bit parameters, which introduces some quality degradations relative to GPU benchmarks.\nOur first products, beginning with our hard-wired Llama and rapidly expanding to more capable models, eliminate high latency and cost, the core barriers to ubiquitous AI.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-02-20T10:32:52Z",
+    "source": "Taalas.com"
   },
   {
     "id": "Mjc=",
-    "url": "https://www.businessinsider.com/miami-next-silicon-valley-weirder-palantir-zuck-2026-2",
-    "title": "Miami isn't the next Silicon Valley. It's something much weirder.",
-    "summary": "Is Miami the next Silicon Valley?\nBillboards went up in San Francisco featuring a mock tweet from then-Miami mayor Francis Suarez: \"Thinking about moving to Miami?\nHere's the thing: It's easy to fall for Miami when a big chunk of the workforce is stuck at home and online.\nSilicon Valley practically runs on a conveyor belt from Stanford and Caltech to Y Combinator's Dogpatch offices.\nBefore that, Adam Neumann, the ousted WeWork cofounder, debuted his Miami residential real-estate venture, Flow, at a $1 billion valuation in 2022.",
+    "url": "https://www.bbc.com/news/articles/c4g8r23yv71o",
+    "title": "Why fake AI videos of UK urban decline are taking over social media",
+    "summary": "\"If people saw it and they immediately knew it was fake, then they would just scroll.\nThe selling point of generative AI models is that they look real,\" RadialB tells me over the phone.\nHe refuses to share his real name but reveals he is in his 20s and from the north-west of England.\nHe has never been to Croydon.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-18T14:30:56Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://hbr.org/2026/02/when-every-company-can-use-the-same-ai-models-context-becomes-a-competitive-advantage",
-    "title": "When Every Company Can Use the Same AI Models, Context Becomes a Competitive Advantage",
-    "summary": "When Every Company Can Use the Same AI Models, Context Becomes a Competitive AdvantageAt a glance, the two large B2B companies were almost identical.\nBoth sell complex, multi-year technology services; they compete for many of the same enterprise customers.\nSales stages, forecasting cadence, and executive review rhythms were the same.\nGoing by their customer relationship management (CRM) systems, their processes looked indistinguishable.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-02-18T15:00:00Z",
-    "source": "Harvard Business Review"
+    "bias": "lean left",
+    "publishedAt": "2026-02-21T06:04:41Z",
+    "source": "BBC News"
   },
   {
     "id": "Mjk=",
-    "url": "https://www.businessinsider.com/perplexity-shifts-to-subscriptions-business-growth-2026-2",
-    "title": "Perplexity Doubles Down on Subscriptions, Eyes Business Growth",
-    "summary": "One Perplexity executive said the startup is increasingly targeting large businesses.\nPerplexity will focus more on revenue and revenue retention than on other metrics, such as the number of questions it answers, the executive said.\nPerplexity generated over $150 million in annual recurring revenue by mid-last year, its head of communications Jesse Dwyer told Business Insider in August.\nThe news comes after several months of the AI startup lying low, as Perplexity said in a press invite.\nOne consistent issue with ads in AI-generated answers is that users won't believe them, the Perplexity executive said.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-02-18T01:47:44Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MzU=",
     "url": "https://news.slashdot.org/story/26/02/21/1932253/codeorg-president-steps-down-citing-upending-of-cs-by-ai",
     "title": "Code.org President Steps Down Citing 'Upending' of CS By AI",
     "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
@@ -160,13 +150,43 @@
     "source": "Slashdot.org"
   },
   {
-    "id": "NjM=",
-    "url": "https://www.theatlantic.com/national-security/2026/02/big-story-signalgate-one-year-later-jeffrey-goldberg/686072/",
-    "title": "The Big Story: Signalgate, One Year Later",
-    "summary": "On Tuesday, March 10, Atlantic editor in chief Jeffrey Goldberg will discuss the political fallout after publishing the Signal story last year.\nAt this virtual event just for subscribers, Goldberg and executive editor Adrienne LaFrance will offer insight into how the unprecedented security breach has influenced the Pentagon\u2019s handling of the country\u2019s sensitive information and restrictions on the press.\nThey\u2019ll also highlight the real-world implications of the latest foreign-policy news from the Trump administration.\nSubscribers can submit questions in advance for Goldberg and LaFrance to answer live during the session.\nSubmit your questions here.",
+    "id": "MzA=",
+    "url": "https://www.wired.com/story/sony-wh-ch720n-deal-february-2026/",
+    "title": "Sony\u2019s WH-CH720N headphones offer excellent value at full price, but right now they're a steal.",
+    "summary": "We've tested oodles of noise-canceling headphones and the Sony WH-CH720N might have an unfortunate name, but they're the best budget-friendly pair we've tried.\nThey usually offer good value when selling for the full $178 MSRP, but right now they've fallen to $95 shipped on Amazon and $100 on Best Buy.\nThese headphones are well-built and well-designed, with great active noise cancellation and robust sound.\nMoreover, if you want a pair of over-hear wireless headphones with active noise cancellation, it's very difficult to get that in a package this affordable.\nCheck those stories out if you're on the hunt for wireless gaming earbuds or open earbuds.",
     "category": "technology",
     "bias": "right",
-    "publishedAt": "2026-02-20T15:48:00Z",
-    "source": "The Atlantic"
+    "publishedAt": "2026-02-21T20:30:46Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://www.businessinsider.com/sam-altman-elon-musk-data-centers-space-timeline-2026-2",
+    "title": "Sam Altman says Elon Musk's idea of putting data centers in space is 'ridiculous'",
+    "summary": "Lighning bolt icon An icon in the shape of a lightning bolt.\nOrbital data centers are not something that's going to matter at scale this decade.\"\nIn February, SpaceX said its goal is to launch a \"constellation of a million satellites that operate as orbital data centers.\"\nTech and AI companies rely on data centers to power their products, like large language models and chatbots.\nThose data centers, however, can deplete water resources, strain power grids, increase pollution, and decrease the overall quality of life.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-02-21T22:57:42Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzU=",
+    "url": "https://www.businessinsider.com/americas-hottest-nimby-issue-data-centers-sanders-desantis-2026-2",
+    "title": "Politicians can't ignore data centers anymore",
+    "summary": "National and local politicians are calling for data centers to pay their fare share of rising utility costs.\nUntil recently, most states have courted data centers, enticed by promises that they will create jobs and sprout long-term revenue from vacant land.\nThere's still about a fifth of people in the middle who don't have feelings on data centers yet, but their numbers are shrinking.\nIf data centers don't start footing the bill for higher energy use, voters are likely to keep turning on them.\nIn Virginia, home to the world's largest concentration of data centers, aka Data Center Alley, backlash has been mounting for several years.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-22T09:13:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NTY=",
+    "url": "https://news.slashdot.org/story/26/02/22/0213244/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister",
+    "title": "F-35 Software Could Be Jailbreaked Like an IPhone: Dutch Defense Minister",
+    "summary": "Can anyone remember when the times were not hard, and money not scarce?",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-22T15:34:00Z",
+    "source": "Slashdot.org"
   }
 ]
