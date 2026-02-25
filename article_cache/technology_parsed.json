@@ -1,6 +1,56 @@
 [
   {
-    "id": "OA==",
+    "id": "MA==",
+    "url": "https://www.businessinsider.com/ai-economy-jobs-unemployment-citrini-disruption-openai-anthropic-2026-02",
+    "title": "Investors Face Harsh Reality: If AI Hype Is Real, so Are the Layoffs",
+    "summary": "Thomas Fuller/NurPhoto via Getty ImagesYou know all that money and effort everyone's putting into AI because they're convinced it's a technology that will change everything?\nAnd now the blowback: AI boosters are calling the Citrini post \"AI doomerism\" and are poking at some of its doomsday scenarios.\nIt's what accounts for the enormous investments tech companies are making in AI, and the crazy valuations we're seeing for the likes of Anthropic ($380 billion) and OpenAI ($850 billion).\nBut a lot of the value will come from the fact that AI will let computers do lots of work humans do now.\nNor do you have to be an AI \"doomer\" to think this way \u2014 it's baked into the pitch of the biggest AI companies.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-02-24T19:02:50Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NA==",
+    "url": "https://www.businessinsider.com/economists-business-leaderss-react-citrini-report-ai-recession-stock-crash-2026-2",
+    "title": "What smart people in economics and business are saying about a viral report warning of an AI-driven recession and stock crash",
+    "summary": "A Wall Street trader works on the floor at the New York Stock Exchange.\nA Wall Street trader works on the floor at the New York Stock Exchange.\nBrendan McDermid/ReutersA Wall Street trader works on the floor at the New York Stock Exchange.\nBrendan McDermid/Reuterslighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-02-24T12:47:21Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NQ==",
+    "url": "https://slashdot.org/story/26/02/23/2338242/viral-doomsday-report-lays-bare-wall-streets-deep-anxiety-about-ai-future",
+    "title": "Viral Doomsday Report Lays Bare Wall Street's Deep Anxiety About AI Future",
+    "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-02-24T00:45:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "Nw==",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
+    "title": "Anthropic\u2019s Claude Cowork is plugging AI into more boring enterprise stuff",
+    "summary": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks.\nClaude Cowork can now connect with several popular office apps, including Google Workspace, Docusign, and WordPress.\nNew pre-built plug-ins can also automate tasks in a range of fields, including HR, design, engineering, and finance.\nAdditionally, according to Anthropic, \u201cClaude can now also handle multi-step tasks end-to-end across Excel and PowerPoint,\u201d passing context between the two apps.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-02-24T16:50:31Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTA=",
+    "url": "https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-global-push-challenge",
+    "title": "US AI firm accelerates international rollout of Chinese humanoid robots",
+    "summary": "As Chinese humanoid robot manufacturers ramp up international ambitions, OpenMind is positioning itself as a gateway to global markets.\nHe added that OpenMind is already collaborating with several Chinese firms \u2013 including Unitree Robotics, UBTech Robotics, AgiBot, LimX Dynamics, Booster Robotics and Engine AI \u2013 as they expand their focus beyond the Chinese market.\nSilicon Valley sees growing presence of Chinese robotics Chinese robotics companies have established a significant footprint in Silicon Valley, reflecting their growing engagement with the US technology ecosystem, Liphardt added.\nIn addition to leading OpenMind, Liphardt serves as a professor of bioengineering at Stanford University.\nAlthough several Chinese robotics firms are entering Western markets, many struggle to build brand recognition or cultivate a dedicated following outside Asia, Wong noted.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-22T20:13:08Z",
+    "source": "Interesting Engineering"
+  },
+  {
+    "id": "MTE=",
     "url": "https://www.businessinsider.com/ai-job-market-english-majors-humanities-demand-2026-2",
     "title": "AI Is Giving English Majors Some Unexpected Leverage in the Job Market",
     "summary": "Pre-pandemic, the number of English majors at the university was shrinking, part of a broader decline in English across the country, he said.\nBut there's been a rebound, with the number of English majors rising 9% since 2021.\nCourtesy of CU BoulderDerided by some as useless, the utility of the English major has long been questioned.\nThat means that, after years of mocking, English majors are finally getting recognized for their usefulness.\nStill, it's a dreary labor market for everyone \u2014 English majors includedThere are signs of employment hope for the English majors.",
@@ -10,57 +60,67 @@
     "source": "Business Insider"
   },
   {
-    "id": "OQ==",
+    "id": "MTI=",
     "url": "https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/",
     "title": "What Happened to Software is Happening to Finance and Accounting",
-    "summary": "What happened to software is now happening to finance.\nWhat happened to software is now happening to finance.\nSo I became a finance person who codes \u2014 a weird niche that turned out to be excellent preparation for what's happening right now.\nIf you're already deep in this: I'd love to see what you're building.\nI'm thinking of putting together a mini hackathon for people building at this intersection \u2014 finance, AI, automation.",
+    "summary": "What happened to software is now happening to finance.\nSo I became a finance person who codes \u2014 a weird niche that turned out to be excellent preparation for what's happening right now.\nAnd they do it well \u2014 if you give them the right context and guardrails.\nIf you're already deep in this: I'd love to see what you're building.\nI'm thinking of putting together a mini hackathon for people building at this intersection \u2014 finance, AI, automation.",
     "category": "technology",
-    "bias": "lean left",
+    "bias": "left",
     "publishedAt": "2026-02-21T10:45:52Z",
     "source": "Doempke.com"
   },
   {
-    "id": "MTE=",
-    "url": "https://news.slashdot.org/story/26/02/20/2134238/goldman-sachs-launches-ai-free-index",
-    "title": "Goldman Sachs Launches AI-Free Index",
-    "summary": "Can anyone remember when the times were not hard, and money not scarce?",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-20T23:20:00Z",
-    "source": "Slashdot.org"
-  },
-  {
     "id": "MTQ=",
-    "url": "https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners",
-    "title": "Uber launches robotaxi support project to aid AV partners",
-    "summary": "Now, the ridehail giant is launching a new initiative to support its third-party robotaxi partners called Uber Autonomous Solutions.\nIt\u2019s an acknowledgement that many AV developers aren\u2019t as cash rich as Waymo, Tesla, and other leading AV developers.\nUber says this data can help its partners improve their own autonomous vehicles as they seek to scale their robotaxi business more quickly.\nEssentially, Uber is telling its AV partners to stick to the important stuff \u2014 developing software to power autonomous driving \u2014 and it will take care of the rest.\nThe company has said it wants to use its reach and scale to help autonomous vehicles proliferate across the globe.",
+    "url": "https://www.theverge.com/tech/883307/google-producerai-deal-music",
+    "title": "This Chainsmokers-approved AI music producer is joining Google",
+    "summary": "ProducerAI, an AI-powered music-making platform, is joining Google.\nAs part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria 3 music-making AI model.\nProducerAI is a music-making platform that allows users to work with an AI agent to generate sounds, workshop lyrics, remix songs, and even create new instruments based on a prompt.\nThe platform launched in July 2025 as a successor to the AI music-making tool Riffusion, and initially used the startup\u2019s own AI model to help you generate songs and tweak existing ones.\nProducerAI will remain a standalone service after joining Labs, adding yet another platform to Google\u2019s growing AI toolset.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-02-21T19:31:36Z",
+    "publishedAt": "2026-02-23T23:36:06Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTU=",
+    "url": "https://www.theverge.com/tech/883661/adt-smart-home-security-origin-wireless-ai-wi-fi-motion-presence-sensing",
+    "title": "ADT just bought the company that invented Wi-Fi motion sensing",
+    "summary": "ADT, the 150-year-old company best known for home security, has acquired Origin Wireless in a $170 million deal to expand the capabilities of its security and smart home offerings.\nOrigin Wireless developed algorithms that analyze how wireless RF signals bounce around a space to detect the presence and movements of people and objects without the need for additional sensors.\nADT plans to integrate Original Wireless\u2019 technology into its smart home and security systems to add more context when security alarms are triggered, and potentially reduce false alarms.\nBy leveraging existing technologies like Wi-Fi, future ADT systems may also require fewer sensors around a home, streamlining installation.\nADT said it will continue to license Origin Wireless\u2019 technology to Verisure, a security system provider in Europe and South America, and other existing partners, while also evaluating new ones.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-02-24T15:20:07Z",
     "source": "The Verge"
   },
   {
     "id": "MTY=",
-    "url": "https://it.slashdot.org/story/26/02/20/003230/how-private-equity-debt-left-a-leading-vpn-open-to-chinese-hackers",
-    "title": "How Private Equity Debt Left a Leading VPN Open To Chinese Hackers",
-    "summary": "Can anyone remember when the times were not hard, and money not scarce?",
+    "url": "https://www.businessinsider.com/cybersecurity-ai-astelia-ceo-interview-vc-seed-funding-advice-2",
+    "title": "Cybersecurity Firm Astelia Raises $35M, Founder Says AI Changed the Game",
+    "summary": "Noy is the CEO and cofounder of Astelia, a cybersecurity startup that uses AI to analyze an enterprise's systems, identify the tiny fraction of vulnerabilities that attackers can exploit, and help plug those holes in its defenses.\nNoy's cofounders, Nadav Ostrovsky and Roy Rajwan, also worked on Israel's National Red Team, mimicking attackers to test the country's critical infrastructure defenses.\nAstelia combines AI agents with network and environment analysis of a customer's systems to pinpoint the 1% or 2% of vulnerabilities that are genuinely risky, he said.\n\"Astelia cuts through vulnerability noise by grounding decisions in real exposure, and we believe this team is redefining how enterprises operationalize security,\" he added.\nHe also offered advice to young people worried about an affordability crisis and AI replacing humans in many jobs.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-02-20T13:00:00Z",
-    "source": "Slashdot.org"
+    "publishedAt": "2026-02-24T14:00:16Z",
+    "source": "Business Insider"
   },
   {
     "id": "MTc=",
-    "url": "https://www.businessinsider.com/pwc-engineers-launch-ai-agent-enterprise-grade-spreadsheets-big-four-2026-2",
-    "title": "PwC engineers built an AI agent to tackle the corporate world's least sexy task: spreadsheets",
-    "summary": "PwC, like many consulting firms, is investing heavily in engineering talent.\nArtur Widak/NurPhoto via Getty ImagesPwC, like many consulting firms, is investing heavily in engineering talent.\nThese files often underpin business-critical decisions, yet PwC \"found that even today's modern AI was very poorly suited to managing these big enterprise spreadsheets,\" Wood said.\nIn January, PwC launched a dedicated tech engineering career track to attract more technical talent, saying it wants to become \"a destination for top engineering talent.\"\nThe second reimagines professional services from scratch: \"If you were to start from a blank piece of paper, what would professional services look like in an AI agent world?\"",
+    "url": "https://www.businessinsider.com/jpmorgan-tech-budget-ai-20-billion-jamie-dimon-2026-2",
+    "title": "JPMorgan will spend almost $20 billion on technology this year",
+    "summary": "JPMorgan plans to boost its technology budget by almost $2 billion this year, to $19.8 billion \u2014 a roughly 10% increase compared to 2025.\nAnswering a question from Wells Fargo analyst Mike Mayo, who pressed him on the bank's technology spend on a recent earnings call, Dimon said that time saved is often \"too vague\" to measure concretely.\nA slide from the company update presentation breaks down technology spending.\nJPMorgan isn't the only bank spending big on technology.\nBank of America said it plans to spend around $14 billion on technology this year.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-20T10:33:45Z",
+    "bias": "left",
+    "publishedAt": "2026-02-24T00:04:03Z",
     "source": "Business Insider"
   },
   {
     "id": "MTg=",
+    "url": "https://www.businessinsider.com/anthropic-ai-software-claude-microsoft-powerpoint-excel-slack-2026-2",
+    "title": "Anthropic pushes Claude into Excel and PowerPoint, escalating AI battle with Microsoft and OpenAI",
+    "summary": "Anthropic is pushing deeper into the enterprise, embedding its AI model Claude directly into the workplace software employees use every day.\nOn Tuesday, the AI startup unveiled \"Cowork & Plugins for the Enterprise,\" a package of AI tools that get Claude operating inside popular work applications, such as Microsoft Excel and PowerPoint.\n\"Until now, enterprise AI has followed a persistent pattern: you go to the AI, get an answer, then go back to your actual tools to do the work,\" Anthropic wrote in its announcement on Tuesday.\nThe launch signals Anthropic's clearest attempt yet to challenge Microsoft and OpenAI for control of the digital workplace in the era of AI.\nWith this launch, Anthropic is making clear that it no longer wants to be known primarily as a tool for developers.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-02-24T14:30:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTk=",
     "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
     "title": "How to Hide Google\u2019s AI Overviews From Your Search Results",
     "summary": "While there\u2019s no off switch to avoid this smorgasbord of AI tools entirely, there is one keyboard trick you can use to dodge Google\u2019s AI Overviews for a brief respite.\nIt\u2019s an option WIRED readers highlighted under a recent article about scams found in Google\u2019s AI Overviews.\n\u201cPeople find Search more helpful with AI Overviews, and they're coming back to search more as a result,\u201d a Google spokesperson tells WIRED.\nThe exception seems to be on Android\u2014at least on a Google Pixel phone we tested with, using \u201c\u2013ai\u201d removed AI Overviews.\nWhen Google launched AI Overviews in 2024, it was a major turning point for the search engine.",
@@ -70,123 +130,103 @@
     "source": "Wired"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.anthropic.com/news/claude-code-security",
-    "title": "Making frontier cybersecurity capabilities available to defenders",
-    "summary": "Claude Code Security, a new capability built into Claude Code on the web, is now available in a limited research preview.\nClaude Code Security is intended to put this power squarely in the hands of defenders and protect code against this new category of AI-enabled attack.\nHow Claude Code Security worksStatic analysis\u2014a widely deployed form of automated security testing\u2014is typically rule-based, meaning it matches code against known vulnerability patterns.\nNothing is applied without human approval: Claude Code Security identifies problems and suggests solutions, but developers always make the call.\nClaude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry.",
+    "id": "MjA=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+    "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+    "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products.\nIn an announcement on Monday, Anthropic says the \u201cindustrial-scale campaigns\u201d involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal.\nThe three companies \u2014 DeepSeek, MiniMax, and Moonshot \u2014 are accused of \u201cdistilling\u201d Claude, or training a smaller AI model based on a more advanced one.\nDeepSeek, which caused a stir in the AI industry for its powerful but more efficient models, held over 150,000 exchanges with Claude and targeted its reasoning capabilities, according to Anthropic.\nAnthropic is calling on other members in the AI industry, cloud providers, and lawmakers to address distillation, adding that \u201crestricted chip access\u201d could limit model training and \u201cthe scale of illicit distillation.\u201d",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-02-20T18:03:19Z",
-    "source": "Anthropic.com"
+    "publishedAt": "2026-02-23T20:22:55Z",
+    "source": "The Verge"
   },
   {
     "id": "MjE=",
-    "url": "https://www.businessinsider.com/mark-cuban-two-types-of-people-using-ai-learning-lazy-2026-2",
-    "title": "Mark Cuban on 2 Types of AI Users: Learners and Non-Learners",
-    "summary": "Mark Cuban said people who use AI either use it to learn everything or to avoid learning.\nMark Cuban said people who use AI either use it to learn everything or to avoid learning.\nTom Williams/CQ-Roll Call, Inc via Getty ImagesMark Cuban said people who use AI either use it to learn everything or to avoid learning.\nlighning bolt icon An icon in the shape of a lightning bolt.\nBill Gurley, a partner at the Silicon Valley venture capitalist firm Benchmark, agrees \"100%\" with Cuban that there are two types of AI users.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+    "title": "Why is AI so bad at reading PDFs?",
+    "summary": "In a half-joking timeline of AI development, the researcher Pierre-Carl Langlais placed \u201cPDF parsing is solved!\u201d shortly before AGI.\nThis has begun to change, partly because AI developers are increasingly desperate for high-quality data, and PDFs contain a disproportionate amount of it.\nA PDF reading AI doesn\u2019t capture the spotlight like those models, Soldaini said, but people are actually using it.\nAbraham cofounded the company as a service that managed customers\u2019 long-term histories with language models, similar to the \u201cmemory\u201d feature that is now standard in chatbots.\nA vision language model then takes a pass on the output to correct errors.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-20T00:07:49Z",
-    "source": "Business Insider"
+    "bias": "left",
+    "publishedAt": "2026-02-23T11:04:40Z",
+    "source": "The Verge"
   },
   {
     "id": "MjI=",
-    "url": "https://www.businessinsider.com/deepmind-ceo-demis-hassabis-ai-lazy-way-hurts-thinking-skills-2026-2",
-    "title": "DeepMind's CEO says using AI can make you a genius \u2014 or hurt your critical thinking skills",
-    "summary": "The Google DeepMind CEO said that AI is just like the internet when it comes to learning.\nIn a Thursday interview with entrepreneur Varun Mayya on the sidelines of the India AI Impact Summit, the Google DeepMind CEO said that AI is just like the internet.\n\"With AI, if you use it in a lazy way, it will make you worse at critical thinking and so on,\" he said.\nIt merged with Google Brain in 2023 to form Google DeepMind, the lab behind tools such as Gemini and Nano Banana.\nAt a June conference, the CEO of French AI lab Mistral said that a risk of using AI for everything is that humans will stop trying.",
+    "url": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
+    "title": "Inside Microsoft\u2019s big Xbox leadership shake-up",
+    "summary": "Phil Spencer, Microsoft\u2019s long-term Xbox chief, made the decision to resign from Microsoft last year after a tough few years for Xbox.\nSix months after Bond\u2019s promotion, Xbox executive Kareem Choudhry, who reported directly to Bond, departed Microsoft and triggered another shake-up of some teams inside Xbox.\nThe message was that \u201cyou don\u2019t need an Xbox to play Xbox,\u201d because games were available through Xbox Cloud Gaming on TVs.\nPhil Spencer\u2019s retirement has seemed inevitable to Xbox employees, particularly over the past year.\nSome Xbox employees worry she\u2019ll force AI into everything Xbox does, but Sharma was clearly ready for that reaction.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-20T05:01:01Z",
-    "source": "Business Insider"
+    "bias": "lean right",
+    "publishedAt": "2026-02-23T15:06:05Z",
+    "source": "The Verge"
   },
   {
     "id": "MjM=",
-    "url": "https://www.businessinsider.com/scott-adams-death-ai-avatar-resurrection-ethics-debate-family-backlash-2026-2",
-    "title": "Scott Adams' AI Resurrection Sparks Backlash and an Ethics Debate",
-    "summary": "\"The real Scott Adams gave explicit permission on the record multiple times for people to create and operate an AI version of him,\" the AI Adams said in a post on February 5.\nThe Adams estate did not respond to requests for comment from Business Insider.\n\"It's my belief this is something that he wanted,\" John Arrow, an AI venture capitalist who created the digital Adams, said.\nThe AI Adams identifies itself as artificial intelligence at the start of its clips and does not appear to solicit money.\nFor now, the AI \"Scott Adams\" fight is one family's public line-drawing exercise.",
+    "url": "https://yro.slashdot.org/story/26/02/21/2140216/americas-peace-corps-announces-tech-corps-volunteers-to-help-bring-ai-to-foreign-countries",
+    "title": "America's Peace Corps Announces 'Tech Corps' Volunteers to Help Bring AI to Foreign Countries",
+    "summary": "Slashdot is powered by your submissions, so send in your scoop",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-20T09:14:01Z",
-    "source": "Business Insider"
+    "bias": "lean right",
+    "publishedAt": "2026-02-21T21:43:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
+    "title": "Seedance 2.0 might be gen AI video\u2019s next big hope, but it\u2019s still slop",
+    "summary": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 \u2014 TikTok developer ByteDance\u2019s newest video generation model \u2014 it was hard to deny that the footage was much more impressive than what we\u2019ve seen from other gen AI outfits.\nBut the fact that churning out very polished ripoffs is the new model\u2019s main claim to fame makes Seedance 2.0 just another slop generator \u2014 albeit a more fancy one.\nWhen we refer to gen AI video as \u201cslop,\u201d we are usually commenting on aesthetics and presentation.\nJia Zhangke\u2019s Dance is a shining example of how filmmakers can make passable things with gen AI provided that they\u2019re skilled enough to know how to work around the technology\u2019s limitations.\nBut until we start seeing quality work coming out of this new wave of AI programs, it\u2019s going to be slop all the way down.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-02-24T18:28:51Z",
+    "source": "The Verge"
   },
   {
     "id": "MjU=",
-    "url": "https://slashdot.org/story/26/02/22/1632217/ai-now-helps-manage-16-of-americas-apartments",
-    "title": "AI Now Helps Manage 16% of America's Apartments",
-    "summary": "Can anyone remember when the times were not hard, and money not scarce?",
+    "url": "https://finance.yahoo.com/news/last-accenture-trained-550-000-163301915.html",
+    "title": "Last year, Accenture trained 550,000 workers in AI\u2014now it\u2019s warning senior staff to use it or don\u2019t get promoted",
+    "summary": "Bosses have long warned staffers who are slacking in AI adoption that they will get overtaken by their tech-savvy coworkers\u2014and now, having the skill can make or break a career.\nMore from Yahoo Scout What training has Accenture provided for AI skill development?\nWhat other major companies are tying AI skills to performance?\nEmployers set a new standard: Workers need AI skills to succeedAccenture isn\u2019t the only one setting a new AI benchmark for promotions.\nLast year, fellow consulting giant KPMG announced that bosses will assess employees\u2019 use of AI tools as part of their annual performance reviews, according to Bloomberg.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-22T18:34:00Z",
-    "source": "Slashdot.org"
+    "bias": "right",
+    "publishedAt": "2026-02-23T16:33:01Z",
+    "source": "Yahoo Entertainment"
   },
   {
     "id": "MjY=",
-    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-    "title": "The path to ubiquitous AI",
-    "summary": "The path to ubiquitous AIBy Ljubisa BajicMany believe AI is the real deal.\nAbout TaalasFounded 2.5 years ago, Taalas developed a platform for transforming any AI model into custom silicon.\nAI inference is the most critical computational workload that humanity has ever faced, and the one that stands to gain the most from specialization.\nThe Silicon Llama is aggressively quantized, combining 3-bit and 6-bit parameters, which introduces some quality degradations relative to GPU benchmarks.\nOur first products, beginning with our hard-wired Llama and rapidly expanding to more capable models, eliminate high latency and cost, the core barriers to ubiquitous AI.",
+    "url": "https://www.yahoo.com/news/articles/sam-altman-defends-ai-energy-163832426.html",
+    "title": "Sam Altman defends AI\u2019s energy toll by saying it also takes a lot to \u2018train a human\u2019",
+    "summary": "The OpenAI boss, Sam Altman, has tried to ease concerns about how much power is used by artificial intelligence models by comparing it to the amount of energy required by human development.\n\u201cPeople talk about how much energy it takes to train an AI model \u2013 but it also takes a lot of energy to train a human,\u201d Altman told the Indian Express recently while in India for the AI Impact summit.\nDatacenters accounted for about 1.5% of global electricity consumption in 2024, according to the International Energy Agency.\nAt the AI conference, Altman also downplayed concerns about the water datacenters require.\nWe used to do evaporative cooling in datacenters, but now \u2026 we don\u2019t do that,\u201d Altman said.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-02-20T10:32:52Z",
-    "source": "Taalas.com"
+    "publishedAt": "2026-02-23T17:40:08Z",
+    "source": "Yahoo Entertainment"
   },
   {
-    "id": "Mjc=",
-    "url": "https://www.bbc.com/news/articles/c4g8r23yv71o",
-    "title": "Why fake AI videos of UK urban decline are taking over social media",
-    "summary": "\"If people saw it and they immediately knew it was fake, then they would just scroll.\nThe selling point of generative AI models is that they look real,\" RadialB tells me over the phone.\nHe refuses to share his real name but reveals he is in his 20s and from the north-west of England.\nHe has never been to Croydon.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-21T06:04:41Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "Mjk=",
-    "url": "https://news.slashdot.org/story/26/02/21/1932253/codeorg-president-steps-down-citing-upending-of-cs-by-ai",
-    "title": "Code.org President Steps Down Citing 'Upending' of CS By AI",
-    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
+    "id": "Mjg=",
+    "url": "https://www.businessinsider.com/sam-altman-ai-energy-use-training-human-water-chatgpt-2026-2",
+    "title": "Sam Altman says concerns of ChatGPT's energy use are overblown: 'It also takes a lot of energy to train a human'",
+    "summary": "OpenAI CEO Sam Altman said it's unfair to compare the energy AI uses to that of humans unless you account for someone's entire early life.\nOpenAI CEO Sam Altman said it's unfair to compare the energy AI uses to that of humans unless you account for someone's entire early life.\nMandel Ngan/AFP/Getty ImagesOpenAI CEO Sam Altman said it's unfair to compare the energy AI uses to that of humans unless you account for someone's entire early life.\n\"But it also takes a lot of energy to train a human.\"\n\"It takes a lot of energy to train a human,\" he said, prompting some laughter in the crowd.",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-02-21T20:35:00Z",
-    "source": "Slashdot.org"
+    "publishedAt": "2026-02-23T18:02:00Z",
+    "source": "Business Insider"
   },
   {
     "id": "MzA=",
-    "url": "https://www.wired.com/story/sony-wh-ch720n-deal-february-2026/",
-    "title": "Sony\u2019s WH-CH720N headphones offer excellent value at full price, but right now they're a steal.",
-    "summary": "We've tested oodles of noise-canceling headphones and the Sony WH-CH720N might have an unfortunate name, but they're the best budget-friendly pair we've tried.\nThey usually offer good value when selling for the full $178 MSRP, but right now they've fallen to $95 shipped on Amazon and $100 on Best Buy.\nThese headphones are well-built and well-designed, with great active noise cancellation and robust sound.\nMoreover, if you want a pair of over-hear wireless headphones with active noise cancellation, it's very difficult to get that in a package this affordable.\nCheck those stories out if you're on the hunt for wireless gaming earbuds or open earbuds.",
+    "url": "https://slashdot.org/story/26/02/23/1430235/sam-altman-would-like-to-remind-you-that-humans-use-a-lot-of-energy-too",
+    "title": "Sam Altman Would Like To Remind You That Humans Use a Lot of Energy, Too",
+    "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-02-21T20:30:46Z",
-    "source": "Wired"
+    "bias": "lean right",
+    "publishedAt": "2026-02-23T14:40:00Z",
+    "source": "Slashdot.org"
   },
   {
     "id": "MzM=",
-    "url": "https://www.businessinsider.com/sam-altman-elon-musk-data-centers-space-timeline-2026-2",
-    "title": "Sam Altman says Elon Musk's idea of putting data centers in space is 'ridiculous'",
-    "summary": "Lighning bolt icon An icon in the shape of a lightning bolt.\nOrbital data centers are not something that's going to matter at scale this decade.\"\nIn February, SpaceX said its goal is to launch a \"constellation of a million satellites that operate as orbital data centers.\"\nTech and AI companies rely on data centers to power their products, like large language models and chatbots.\nThose data centers, however, can deplete water resources, strain power grids, increase pollution, and decrease the overall quality of life.",
+    "url": "https://9to5mac.com/2026/02/24/apple-vision-pro-team-talks-process-behind-designing-newest-visionos-26-environment/",
+    "title": "Apple Vision Pro team talks process behind designing newest visionOS 26 Environment",
+    "summary": "Apple Vision Pro has the power to transport users from their physical surroundings into a variety of immersive Environments, whether it\u2019s the shores of Mount Hood or the surface of the Moon looking back at Earth.\nWith visionOS 26, Apple expanded its library with another planetary view that takes the immersive experience even further.\nNow, two of the people behind the work are revealing new details about the intricate design process required to bring these virtual spaces to life.\nTo ensure the scale and \u201cfeel\u201d were correct, they designed the environments while wearing the Vision Pro itself.\n\u201cThe composition of what you\u2019re seeing here was all done through me guiding an artist while inside headset,\u201d Dessero explains.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-02-21T22:57:42Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MzU=",
-    "url": "https://www.businessinsider.com/americas-hottest-nimby-issue-data-centers-sanders-desantis-2026-2",
-    "title": "Politicians can't ignore data centers anymore",
-    "summary": "National and local politicians are calling for data centers to pay their fare share of rising utility costs.\nUntil recently, most states have courted data centers, enticed by promises that they will create jobs and sprout long-term revenue from vacant land.\nThere's still about a fifth of people in the middle who don't have feelings on data centers yet, but their numbers are shrinking.\nIf data centers don't start footing the bill for higher energy use, voters are likely to keep turning on them.\nIn Virginia, home to the world's largest concentration of data centers, aka Data Center Alley, backlash has been mounting for several years.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-02-22T09:13:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NTY=",
-    "url": "https://news.slashdot.org/story/26/02/22/0213244/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister",
-    "title": "F-35 Software Could Be Jailbreaked Like an IPhone: Dutch Defense Minister",
-    "summary": "Can anyone remember when the times were not hard, and money not scarce?",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-02-22T15:34:00Z",
-    "source": "Slashdot.org"
+    "bias": "lean right",
+    "publishedAt": "2026-02-24T18:57:31Z",
+    "source": "9to5Mac"
   }
 ]
