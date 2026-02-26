@@ -1,16 +1,6 @@
 [
   {
-    "id": "OA==",
-    "url": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
-    "title": "New law on more sustainable, circular and safe batteries enters into force",
-    "summary": "A new law to ensure that batteries are collected, reused and recycled in Europe is entering into force today.\nThis will support the shift to a circular economy, increase security of supply for raw materials and energy, and enhance the EU\u2019s strategic autonomy.\nThe Batteries Regulation will ensure that batteries placed on the EU single market will only be allowed to contain a restricted amount of harmful substances that are necessary.\nBackgroundSince 2006, batteries and waste batteries have been regulated at EU level under the Batteries Directive.\nSuch exponential growth in demand for batteries will lead to an equivalent increase in demand for raw materials, hence the need to minimise their environmental impact.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-02-21T08:28:42Z",
-    "source": "Europa.eu"
-  },
-  {
-    "id": "Mjc=",
+    "id": "MjY=",
     "url": "https://www.bbc.com/news/articles/cqj9y9xw5v8o",
     "title": "Government relaunches green payment scheme for farmers after sudden closures",
     "summary": "Reynolds said the illegal dumping of waste - described by one farmer as \"a travesty of justice that surely must be righted\" - was an issue that had been \"seized\" by the prime minister, with more resources being given to the Environment Agency.",
@@ -21,6 +11,16 @@
   },
   {
     "id": "Mjk=",
+    "url": "https://www.nature.com/articles/d41586-026-00560-6",
+    "title": "EU leaders should not rush to revamp green-hydrogen rules",
+    "summary": "But before EU leaders rush to change the rules, they need to know more about the reasons for the delays.\nBut necessary detail\u2014 such as the relative impact of different factors \u2014 is lacking, and EU leaders need that information before they act.\nEU rules say that proposed green-hydrogen plants need to be powered by new sources of renewable energy, to incentivize the development of more renewable-energy facilities.\nAs a next step, researchers could ask the same question, but model only renewable energy as the green-hydrogen power source \u2014 as required under the existing EU rules.\nResearchers can help by devising ways to ensure that green hydrogen is produced sustainably, while not unduly hampering the technology\u2019s adoption.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-02-25T00:00:00Z",
+    "source": "Nature.com"
+  },
+  {
+    "id": "MzA=",
     "url": "https://hackaday.com/2026/02/23/a-candle-powered-light/",
     "title": "A Candle-Powered Light",
     "summary": "For a little over two thousand years, the primary light sources after the sun had set were oil lamps and candles.\nThis was well before the age of fossil fuels, so these oil lamps were often fueled with a labor-intensive agricultural product like olive oil.\nLabor and materials costs aside, though, there\u2019s a surprising amount of energy in these fuels and [Maciej Nowak Projects] has a generator that help these ancient light sources generate some electricity on the side.\nThe generator is based around a piece of technology called a thermoelectric generator (TEG), which produces a voltage potential when placed in a temperature gradient.\nIt would make a fitting addition to anyone\u2019s emergency power outage kit as it really increases the amount of available light produced from any given candle.",
@@ -30,7 +30,7 @@
     "source": "Hackaday"
   },
   {
-    "id": "MzE=",
+    "id": "MzI=",
     "url": "https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle",
     "title": "Kohler\u2019s new shower reuses dirty water to get you clean",
     "summary": "Kohler claims its new Anthem EvoCycle smart shower system can deliver \u201cup to 80% water savings\u201d without the use of showerheads that limit flow or pressure.\nPricing starts at $7,500, or $5,625 with discounts, but you\u2019ll need to buy fixtures and the $825 water tank base separately.\nSwitching to \u201cCycle Mode\u201d mixes a half gallon of that fresh water with dirty used water that\u2019s sent through a closed loop filtration system before being pumped up to the showerhead.\nThe system not only reduces water usage, but it can also potentially reduce energy usage by using the hot water heater less.\nThe EvoCycle smart shower connects to Kohler\u2019s mobile app so you can track water savings and activate a self-cleaning mode.",
@@ -38,5 +38,15 @@
     "bias": "left",
     "publishedAt": "2026-02-23T16:17:26Z",
     "source": "The Verge"
+  },
+  {
+    "id": "MzY=",
+    "url": "https://www.futurity.org/lab-made-algae-microplastics-water-3323412/",
+    "title": "Lab-made algae gets microplastics out of water",
+    "summary": "University University of MissouriResearchers are pioneering an innovative solution to remove tiny bits of plastic pollution from our water.\nThe University of Missouri\u2019s Susie Dai recently applied a revolutionary strain of algae toward capturing and removing harmful microplastics from polluted water.\nThe specially engineered algae can grow in wastewater, feeding on excess nutrients and cleaning the water as it grows.\n\u201cBy removing the microplastics, cleaning the wastewater and eventually using the removed microplastics to create bioplastic products for good, we can tackle three issues with one approach,\u201d Dai says.\nDai hopes to build bigger versions of Shrek going forward that could be adapted for wastewater treatment and other pollutant removal purposes.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-02-24T16:31:06Z",
+    "source": "Futurity: Research News"
   }
 ]

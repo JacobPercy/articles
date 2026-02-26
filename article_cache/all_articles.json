@@ -5,7 +5,7 @@
       "url": "https://www.businessinsider.com/ai-economy-jobs-unemployment-citrini-disruption-openai-anthropic-2026-02",
       "title": "Investors Face Harsh Reality: If AI Hype Is Real, so Are the Layoffs",
       "summary": "Thomas Fuller/NurPhoto via Getty ImagesYou know all that money and effort everyone's putting into AI because they're convinced it's a technology that will change everything?\nAnd now the blowback: AI boosters are calling the Citrini post \"AI doomerism\" and are poking at some of its doomsday scenarios.\nIt's what accounts for the enormous investments tech companies are making in AI, and the crazy valuations we're seeing for the likes of Anthropic ($380 billion) and OpenAI ($850 billion).\nBut a lot of the value will come from the fact that AI will let computers do lots of work humans do now.\nNor do you have to be an AI \"doomer\" to think this way \u2014 it's baked into the pitch of the biggest AI companies.",
-      "category": "technology",
+      "category": "economics",
       "bias": "lean right",
       "publishedAt": "2026-02-24T19:02:50Z",
       "source": "Business Insider"
@@ -14,18 +14,6 @@
   {
     "article": {
       "id": "MQ==",
-      "url": "https://www.businessinsider.com/economy-job-market-divide-k-shape-economy-2026-2",
-      "title": "The economy grew strongly last year, but hiring stagnated. It's making the gap between the rich and everyone else worse.",
-      "summary": "The data is in, and last year presents an economic conundrum: Overall growth was relatively strong, but job growth was virtually nonexistent.\nZipRecruiter economist Nicole Bachaud thinks the job market could be at a \"pivot point\" after stronger hiring in January.\nThey don't have to worry as much about rising prices of necessities and slowing wage growth.\n\"They're also enjoying faster wage growth, while lower-income families are seeing reduced wage growth, near-zero real wage growth, and not much wealth appreciation outside of real estate, if they have that.\"\nLower-income wage growth surged between 2021 and 2022, but has since cooled down a lot from the late 2022 peak.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-02-22T10:12:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mg==",
       "url": "https://www.businessinsider.com/supreme-court-trump-tariffs-ruling-impact-consumer-prices-goldman-sachs-2026-2",
       "title": "Sorry, shoppers: prices aren't coming down post-tariffs ruling, Goldman Sachs says",
       "summary": "Retail prices are unlikely to fall even after the Supreme Court struck down Trump's tariffs, Goldman Sachs says.\nRetail prices are unlikely to fall even after the Supreme Court struck down Trump's tariffs, Goldman Sachs says.\nMyung J Chun/Los Angeles Times/Getty ImagesRetail prices are unlikely to fall even after the Supreme Court struck down Trump's tariffs, Goldman Sachs says.\nImpact LinkDon't expect prices at the store to fall just because the Supreme Court struck down President Donald Trump's tariffs.\nBut they're unlikely to cut prices outright, economists at Goldman Sachs wrote in a note published Sunday.",
@@ -37,23 +25,11 @@
   },
   {
     "article": {
-      "id": "Mw==",
-      "url": "https://www.businessinsider.com/finding-job-search-struggles-savings-americans-federal-reserve-amazon-tech-2026-2",
-      "title": "Job Searches Lengthen, Savings Dwindle for Americans",
-      "summary": "Joanelle Cobos (left), Clair Todd (right)Job searches are taking longer, and some Americans' savings aren't keeping up.\nWilke's experience underscores how quickly a prolonged job search can unravel someone's finances \u2014 especially for workers without much savings to fall back on.\nBusiness Insider is speaking with workers who've found themselves at a corporate crossroads \u2014 whether due to a layoff, resignation, job search, or shifting workplace expectations.\nMany Americans aren't prepared financially for unemploymentAs unemployment spells lengthen, the financial risks of a prolonged job search are rising for many Americans.\nBut if her job search stretches on, she knows that sense of security will gradually fade.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-02-22T10:05:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NA==",
+      "id": "Mg==",
       "url": "https://www.businessinsider.com/economists-business-leaderss-react-citrini-report-ai-recession-stock-crash-2026-2",
       "title": "What smart people in economics and business are saying about a viral report warning of an AI-driven recession and stock crash",
       "summary": "A Wall Street trader works on the floor at the New York Stock Exchange.\nA Wall Street trader works on the floor at the New York Stock Exchange.\nBrendan McDermid/ReutersA Wall Street trader works on the floor at the New York Stock Exchange.\nBrendan McDermid/Reuterslighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.",
-      "category": "technology",
+      "category": "economics",
       "bias": "center",
       "publishedAt": "2026-02-24T12:47:21Z",
       "source": "Business Insider"
@@ -61,12 +37,36 @@
   },
   {
     "article": {
+      "id": "Mw==",
+      "url": "https://www.businessinsider.com/trump-state-of-union-speech-economy-taxes-inflation-fed-housing-2026-2",
+      "title": "Trump touted his economic agenda on prices, taxes, and healthcare in his State of the Union",
+      "summary": "President Donald Trump gave his annual State of the Union speech before Congress.\nPresident Donald Trump gave his annual State of the Union speech before Congress.\nHe opened the event focused on his administration's economic agenda, especially inflation rates and consumer prices.\nThe Trump administration officially launched TrumpRx a few weeks ago, a direct-to-consumer prescription platform.\nEconomic outlookThroughout his second term, the Trump administration has leaned into affordability issues, especially high prices on consumer goods.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-02-25T02:35:31Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NA==",
+      "url": "https://www.bbc.com/news/videos/crrx2y0jwpvo",
+      "title": "Analysis: Trump's main themes and who he hoped to win over",
+      "summary": "US President Donald Trump delivered his State of the Union address at the US Capitol, outlining his administration's accomplishments and his vision for the year ahead.\nDuring his wide-ranging speech, which lasted 1 hour and 48 minutes, Trump made the case that America had improved under his watch.\nThe BBC's Daniel Bush takes a closer look at Trump's main themes of immigration and the economy - and who he was looking to appeal to with his address.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-02-25T08:08:52Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
       "id": "NQ==",
       "url": "https://slashdot.org/story/26/02/23/2338242/viral-doomsday-report-lays-bare-wall-streets-deep-anxiety-about-ai-future",
       "title": "Viral Doomsday Report Lays Bare Wall Street's Deep Anxiety About AI Future",
-      "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
+      "summary": "Man will never fly.\nSpace travel is merely a dream.\nAll aspirin is alike.",
       "category": "technology",
-      "bias": "lean left",
+      "bias": "center",
       "publishedAt": "2026-02-24T00:45:00Z",
       "source": "Slashdot.org"
     }
@@ -74,13 +74,13 @@
   {
     "article": {
       "id": "Ng==",
-      "url": "https://finance.yahoo.com/news/russian-economy-now-eating-itself-231031777.html",
-      "title": "The Russian economy is eating its own muscle to survive as Putin\u2019s war on Ukraine destroys future capacity, former central bank advisor says",
-      "summary": "Four years after Vladimir Putin ordered an invasion of Ukraine, Russia\u2019s economy has entered a \u201cdeath zone,\u201d said Alexandra Prokopenko, a fellow at the Carnegie Russia Eurasia Center.\nMore from Yahoo Scout What makes Russia's economy a 'death zone'?\nWhy can't monetary policies fix Russia's economic problems?\n\u201cRussia\u2019s economy is stuck in what might be described as negative equilibrium: holding itself together while steadily destroying its own future capacity,\u201d she wrote.\nAnd rather than end the war, Putin insists on continuing as he waits to see if Ukraine or its Western backers crack first.",
-      "category": "international",
-      "bias": "right",
-      "publishedAt": "2026-02-22T23:10:31Z",
-      "source": "Yahoo Entertainment"
+      "url": "https://www.businessinsider.com/zachary-squire-tekmerion-capital-brevan-howard-spinout-hedge-fund-2026-2",
+      "title": "Meet Tekmerion: The classics-obsessed macro investor spinning out of Brevan Howard with $1 billion",
+      "summary": "Even in the eccentric world of macro investors, though, Squire stands out.\n\"We want investors who understand what macro is, we want investors who understand hedge funds,\" he added.\nAdding to his macro toolkit, Squire spent the next three years in London for credit investor HBK, focused on emerging markets.\nThe manager caught the eye of billionaire Brevan Howard cofounder Alan Howard, who personally backed the young fund.\nBecause of the slow frequency of many macro datasets, the firm typically holds positions for weeks at a time, Morrissey said.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-02-25T10:57:01Z",
+      "source": "Business Insider"
     }
   },
   {
@@ -98,78 +98,66 @@
   {
     "article": {
       "id": "OA==",
-      "url": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
-      "title": "New law on more sustainable, circular and safe batteries enters into force",
-      "summary": "A new law to ensure that batteries are collected, reused and recycled in Europe is entering into force today.\nThis will support the shift to a circular economy, increase security of supply for raw materials and energy, and enhance the EU\u2019s strategic autonomy.\nThe Batteries Regulation will ensure that batteries placed on the EU single market will only be allowed to contain a restricted amount of harmful substances that are necessary.\nBackgroundSince 2006, batteries and waste batteries have been regulated at EU level under the Batteries Directive.\nSuch exponential growth in demand for batteries will lead to an equivalent increase in demand for raw materials, hence the need to minimise their environmental impact.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-02-21T08:28:42Z",
-      "source": "Europa.eu"
+      "url": "https://abcnews.com/Politics/fact-checking-trumps-state-union-address/story?id=130459365",
+      "title": "Fact-checking Trump's State of the Union address",
+      "summary": "President Donald Trump delivers the State of the Union address in the House Chamber of the US Capitol in Washington, February 24, 2026.\nPresident Donald Trump delivers the State of the Union address in the House Chamber of the US Capitol in Washington, February 24, 2026.\nPresident Donald Trump delivers the State of the Union address in the House Chamber of the US Capitol in Washington, February 24, 2026.\nPresident Donald Trump delivers the State of the Union address in the House Chamber of the US Capitol in Washington, February 24, 2026.\n\"Every branch of our armed forces is setting records for recruitment,\" Trump said during the State of the Union address.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-02-25T02:32:33Z",
+      "source": "Abcnews.com"
     }
   },
   {
     "article": {
       "id": "OQ==",
+      "url": "https://www.businessinsider.com/spirit-budget-carrier-with-premium-seats-beat-bankruptcy-2026-2",
+      "title": "Spirit Expands Premiums Seats, Loyalty Rewards to Beat Bankruptcy",
+      "summary": "Its debts and costs will be reduced, allowing the airline to keep fares low while doubling down on two of the industry's biggest moneymakers: premium seats and loyalty programs.\nThis includes new Spirit First loungers in the first few rows, extra-legroom premium economy seats, and expanded loyalty perks, giving travelers more choices while generating additional revenue.\nAmerican, Delta, and United have led this trend by doubling down on expanding and revamping their own high-dollar premium seats.\nThis push toward premium isn't newSpirit first began experimenting with higher-end offerings in 2024, as travelers showed a willingness to pay extra for premium perks.\nThe barebones seats on Spirit don't recline, have screens, or have a proper seatback pocket.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-02-25T10:01:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTA=",
+      "url": "https://www.businessinsider.com/trump-calls-scotus-tariff-ruling-unfortunate-state-of-the-union2026-2",
+      "title": "Trump Calls the SCOTUS Tariff Ruling 'Unfortunate' in National Address",
+      "summary": "President Donald Trump called the Supreme Court's decision that overturned his signature tariffs \"unfortunate\" during his State of the Union address.\nTrump addressed the nation several days after the Supreme Court ruled against most of his 2025 tariffs that were enacted under the International Emergency Economic Powers Act.\nImmediately after the SCOTUS ruling, Trump signed an executive order to impose a 10% \"global tariff\" under Section 122 of the Trade Act of 1974.\nCongressional action will not be necessary,\" said Trump of his new 10% \"global tariffs\" at the State of the Union.\nThe landmark SCOTUS ruling was made at a time when concerns about affordability and economic health were widespread.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-02-25T03:32:34Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTE=",
       "url": "https://finance.yahoo.com/news/stocks-sell-off-traders-wake-111342816.html",
       "title": "Stocks sell off as traders wake up to the realization that Trump has \u2018highly punitive\u2019 options for new trade tariffs",
-      "summary": "More from Yahoo Scout How do different tariff sections impact trade policy complexity?\nWhat caused global markets to decline after Trump's Supreme Court reaction?\nAt first glance, ending the tariffs looked broadly good for stocks because it makes international trade easier and cheaper for companies.\nAs UBS\u2019s Paul Donovan put it, \u201cWelcome back uncertainty.\u201dBNP analyst William Bratton published a research note summarizing Trump\u2019s options.\nSection 232 tariffs also \u201chave no upper limit and can be expanded in scope once implemented.",
+      "summary": "Goldman Sachs also reported that its in-house \u201cRisk Appetite Indicator\u201d had sunk back from its recent peak.\nAt first glance, ending the tariffs looked broadly good for stocks because it makes international trade easier and cheaper for companies.\nAs UBS\u2019s Paul Donovan put it, \u201cWelcome back uncertainty.\u201dBNP analyst William Bratton published a research note summarizing Trump\u2019s options.\nIt is not applicable to agricultural products, metals, minerals, chemicals, oil, gas, pharmaceuticals, aircraft, some electronics, and various automobiles.\nSection 232 tariffs also \u201chave no upper limit and can be expanded in scope once implemented.",
       "category": "economics",
-      "bias": "right",
+      "bias": "center",
       "publishedAt": "2026-02-23T11:13:42Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "MTA=",
-      "url": "https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-global-push-challenge",
-      "title": "US AI firm accelerates international rollout of Chinese humanoid robots",
-      "summary": "As Chinese humanoid robot manufacturers ramp up international ambitions, OpenMind is positioning itself as a gateway to global markets.\nHe added that OpenMind is already collaborating with several Chinese firms \u2013 including Unitree Robotics, UBTech Robotics, AgiBot, LimX Dynamics, Booster Robotics and Engine AI \u2013 as they expand their focus beyond the Chinese market.\nSilicon Valley sees growing presence of Chinese robotics Chinese robotics companies have established a significant footprint in Silicon Valley, reflecting their growing engagement with the US technology ecosystem, Liphardt added.\nIn addition to leading OpenMind, Liphardt serves as a professor of bioengineering at Stanford University.\nAlthough several Chinese robotics firms are entering Western markets, many struggle to build brand recognition or cultivate a dedicated following outside Asia, Wong noted.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-22T20:13:08Z",
-      "source": "Interesting Engineering"
-    }
-  },
-  {
-    "article": {
-      "id": "MTE=",
-      "url": "https://www.businessinsider.com/ai-job-market-english-majors-humanities-demand-2026-2",
-      "title": "AI Is Giving English Majors Some Unexpected Leverage in the Job Market",
-      "summary": "Pre-pandemic, the number of English majors at the university was shrinking, part of a broader decline in English across the country, he said.\nBut there's been a rebound, with the number of English majors rising 9% since 2021.\nCourtesy of CU BoulderDerided by some as useless, the utility of the English major has long been questioned.\nThat means that, after years of mocking, English majors are finally getting recognized for their usefulness.\nStill, it's a dreary labor market for everyone \u2014 English majors includedThere are signs of employment hope for the English majors.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-22T09:50:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
       "id": "MTI=",
-      "url": "https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/",
-      "title": "What Happened to Software is Happening to Finance and Accounting",
-      "summary": "What happened to software is now happening to finance.\nSo I became a finance person who codes \u2014 a weird niche that turned out to be excellent preparation for what's happening right now.\nAnd they do it well \u2014 if you give them the right context and guardrails.\nIf you're already deep in this: I'd love to see what you're building.\nI'm thinking of putting together a mini hackathon for people building at this intersection \u2014 finance, AI, automation.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-21T10:45:52Z",
-      "source": "Doempke.com"
+      "url": "https://abcnews.com/Politics/state-union-trump-expected-tout-achievements-ahead-midterms/story?id=130387697",
+      "title": "State of the Union: Trump expected to tout achievements ahead of midterms",
+      "summary": "Earlier, she posted on X that \u201cIn one year, President Trump has turned our country around from the brink of disaster, and he will rightly declare the State of Our Union is strong, prosperous and respected.\"\nPresident Donald Trump speaks during a press briefing at the White House, Friday, Feb. 20, 2026, in Washington.\nPresident Donald Trump visits Coosa Steel Corporation in Rome, Ga., Thursday, Feb. 19, 2026.\nDonald Trump delivers remarks during a working breakfast with governors in the State Dining Room at the White House on February 20, 2026 in Washington, DC.\nPresident Donald Trump during an event to proclaim \"Angel Family Day\" in the East Room of the White House, February 23, 2026, in Washington.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-02-24T11:19:45Z",
+      "source": "Abcnews.com"
     }
   },
   {
     "article": {
       "id": "MTM=",
-      "url": "https://www.businessinsider.com/jamie-dimon-banks-doing-dumb-things-2008-credit-crisis-warning-2026-2",
-      "title": "Jamie Dimon on the loan rush: 'I see a couple of people doing some dumb things'",
-      "summary": "Jamie Dimon said he sees echoes of pre-2008 excess as competition heats up.\nJamie Dimon said he sees echoes of pre-2008 excess as competition heats up.\nFabrice Coffrini/AFP/Getty ImagesJamie Dimon said he sees echoes of pre-2008 excess as competition heats up.\nFabrice Coffrini/AFP/Getty Imageslighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-02-24T05:01:12Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MTQ=",
       "url": "https://www.theverge.com/tech/883307/google-producerai-deal-music",
       "title": "This Chainsmokers-approved AI music producer is joining Google",
       "summary": "ProducerAI, an AI-powered music-making platform, is joining Google.\nAs part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria 3 music-making AI model.\nProducerAI is a music-making platform that allows users to work with an AI agent to generate sounds, workshop lyrics, remix songs, and even create new instruments based on a prompt.\nThe platform launched in July 2025 as a successor to the AI music-making tool Riffusion, and initially used the startup\u2019s own AI model to help you generate songs and tweak existing ones.\nProducerAI will remain a standalone service after joining Labs, adding yet another platform to Google\u2019s growing AI toolset.",
@@ -181,7 +169,7 @@
   },
   {
     "article": {
-      "id": "MTU=",
+      "id": "MTQ=",
       "url": "https://www.theverge.com/tech/883661/adt-smart-home-security-origin-wireless-ai-wi-fi-motion-presence-sensing",
       "title": "ADT just bought the company that invented Wi-Fi motion sensing",
       "summary": "ADT, the 150-year-old company best known for home security, has acquired Origin Wireless in a $170 million deal to expand the capabilities of its security and smart home offerings.\nOrigin Wireless developed algorithms that analyze how wireless RF signals bounce around a space to detect the presence and movements of people and objects without the need for additional sensors.\nADT plans to integrate Original Wireless\u2019 technology into its smart home and security systems to add more context when security alarms are triggered, and potentially reduce false alarms.\nBy leveraging existing technologies like Wi-Fi, future ADT systems may also require fewer sensors around a home, streamlining installation.\nADT said it will continue to license Origin Wireless\u2019 technology to Verisure, a security system provider in Europe and South America, and other existing partners, while also evaluating new ones.",
@@ -193,7 +181,7 @@
   },
   {
     "article": {
-      "id": "MTY=",
+      "id": "MTU=",
       "url": "https://www.businessinsider.com/cybersecurity-ai-astelia-ceo-interview-vc-seed-funding-advice-2",
       "title": "Cybersecurity Firm Astelia Raises $35M, Founder Says AI Changed the Game",
       "summary": "Noy is the CEO and cofounder of Astelia, a cybersecurity startup that uses AI to analyze an enterprise's systems, identify the tiny fraction of vulnerabilities that attackers can exploit, and help plug those holes in its defenses.\nNoy's cofounders, Nadav Ostrovsky and Roy Rajwan, also worked on Israel's National Red Team, mimicking attackers to test the country's critical infrastructure defenses.\nAstelia combines AI agents with network and environment analysis of a customer's systems to pinpoint the 1% or 2% of vulnerabilities that are genuinely risky, he said.\n\"Astelia cuts through vulnerability noise by grounding decisions in real exposure, and we believe this team is redefining how enterprises operationalize security,\" he added.\nHe also offered advice to young people worried about an affordability crisis and AI replacing humans in many jobs.",
@@ -205,13 +193,25 @@
   },
   {
     "article": {
-      "id": "MTc=",
+      "id": "MTY=",
       "url": "https://www.businessinsider.com/jpmorgan-tech-budget-ai-20-billion-jamie-dimon-2026-2",
       "title": "JPMorgan will spend almost $20 billion on technology this year",
       "summary": "JPMorgan plans to boost its technology budget by almost $2 billion this year, to $19.8 billion \u2014 a roughly 10% increase compared to 2025.\nAnswering a question from Wells Fargo analyst Mike Mayo, who pressed him on the bank's technology spend on a recent earnings call, Dimon said that time saved is often \"too vague\" to measure concretely.\nA slide from the company update presentation breaks down technology spending.\nJPMorgan isn't the only bank spending big on technology.\nBank of America said it plans to spend around $14 billion on technology this year.",
       "category": "technology",
       "bias": "left",
       "publishedAt": "2026-02-24T00:04:03Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTc=",
+      "url": "https://www.businessinsider.com/evident-ai-ranking-payments-index-visa-mastercard-paypal-2026-2",
+      "title": "Visa is winning the AI race in payments, but the question is whether it will pay off",
+      "summary": "Visa is winning the AI race in the payments industry, according to a brand new ranking \u2014 but no company is revealing quite how much the technology is paying off.\n1 among 12 global payments companies.\nThat 6.5% figure, she added, is the highest concentration of AI talent Evident has found across the sectors it tracks.\nPayPal alone accounts for 18% of the AI talent among the indexed companies and employs more than 4,000 AI workers.\nPayments companies aren't alone, of course, in focusing on AI talent \u2014 technologists specializing in AI are among the most in-demand jobs in the broader financial sector.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-02-25T08:00:01Z",
       "source": "Business Insider"
     }
   },
@@ -230,18 +230,30 @@
   {
     "article": {
       "id": "MTk=",
-      "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
-      "title": "How to Hide Google\u2019s AI Overviews From Your Search Results",
-      "summary": "While there\u2019s no off switch to avoid this smorgasbord of AI tools entirely, there is one keyboard trick you can use to dodge Google\u2019s AI Overviews for a brief respite.\nIt\u2019s an option WIRED readers highlighted under a recent article about scams found in Google\u2019s AI Overviews.\n\u201cPeople find Search more helpful with AI Overviews, and they're coming back to search more as a result,\u201d a Google spokesperson tells WIRED.\nThe exception seems to be on Android\u2014at least on a Google Pixel phone we tested with, using \u201c\u2013ai\u201d removed AI Overviews.\nWhen Google launched AI Overviews in 2024, it was a major turning point for the search engine.",
+      "url": "https://www.businessinsider.com/gucci-ai-ads-backlash-branding-experts-culturally-relevant-2026-2",
+      "title": "Gucci's new AI-generated ads have hit a nerve online",
+      "summary": "For luxury fashion houses like Gucci, experts say the challenge is balancing craftsmanship and staying relevant.\nJeremy Moeller/Getty ImagesFor luxury fashion houses like Gucci, experts say the challenge is balancing craftsmanship and staying relevant.\nImpact LinkGucci's new AI-generated ads have hit a nerve online.\nPRIMAVERAFebruary 272 p.m. CETCreated with AI pic.twitter.com/sNbcFrpTX9 \u2014 gucci (@gucci) February 23, 2026This isn't the first time the Italian luxury fashion house has dipped its toes into AI.\nMichele served as Gucci's creative director from 2015 to 2022.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-02-22T11:00:00Z",
-      "source": "Wired"
+      "bias": "lean left",
+      "publishedAt": "2026-02-25T11:54:50Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MjA=",
+      "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-151600066.html",
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Taiwan Semiconductor, Micron Technology and Super Micro Computer",
+      "summary": "For Immediate ReleaseChicago, IL \u2013 February 24, 2026 \u2013 Zacks.com announces the list of stocks featured in the Analyst Blog.\nStocks recently featured in the blog include: NVIDIA Corp. NVDA, Taiwan Semiconductor Manufacturing Company Ltd. TSM, or TSMC, Micron Technology, Inc. MU and Super Micro Computer, Inc. SMCI.\nHere are highlights from Monday\u2019s Analyst Blog:3 AI Stocks Outperforming NVIDIA in 2026NVIDIA Corp.has consistently posted strong quarter-over-quarter earnings, and its fiscal 2026 fourth quarter looks no different.\nRelentless demand for its Blackwell chips, expanding artificial intelligence (AI)-driven partnerships, and an increase in data center investment all signal continued long-term growth.\nOn the other hand, other AI heavyweights, including Taiwan Semiconductor Manufacturing Company Ltd., or TSMC, Micron Technology, Inc. and Super Micro Computer, Inc., have significantly outperformed, climbing 21.9%, 50%, and 10.8%, respectively.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-02-24T15:16:00Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "MjE=",
       "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
       "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
       "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products.\nIn an announcement on Monday, Anthropic says the \u201cindustrial-scale campaigns\u201d involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal.\nThe three companies \u2014 DeepSeek, MiniMax, and Moonshot \u2014 are accused of \u201cdistilling\u201d Claude, or training a smaller AI model based on a more advanced one.\nDeepSeek, which caused a stir in the AI industry for its powerful but more efficient models, held over 150,000 exchanges with Claude and targeted its reasoning capabilities, according to Anthropic.\nAnthropic is calling on other members in the AI industry, cloud providers, and lawmakers to address distillation, adding that \u201crestricted chip access\u201d could limit model training and \u201cthe scale of illicit distillation.\u201d",
@@ -253,7 +265,7 @@
   },
   {
     "article": {
-      "id": "MjE=",
+      "id": "MjI=",
       "url": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
       "title": "Why is AI so bad at reading PDFs?",
       "summary": "In a half-joking timeline of AI development, the researcher Pierre-Carl Langlais placed \u201cPDF parsing is solved!\u201d shortly before AGI.\nThis has begun to change, partly because AI developers are increasingly desperate for high-quality data, and PDFs contain a disproportionate amount of it.\nA PDF reading AI doesn\u2019t capture the spotlight like those models, Soldaini said, but people are actually using it.\nAbraham cofounded the company as a service that managed customers\u2019 long-term histories with language models, similar to the \u201cmemory\u201d feature that is now standard in chatbots.\nA vision language model then takes a pass on the output to correct errors.",
@@ -265,7 +277,7 @@
   },
   {
     "article": {
-      "id": "MjI=",
+      "id": "MjM=",
       "url": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
       "title": "Inside Microsoft\u2019s big Xbox leadership shake-up",
       "summary": "Phil Spencer, Microsoft\u2019s long-term Xbox chief, made the decision to resign from Microsoft last year after a tough few years for Xbox.\nSix months after Bond\u2019s promotion, Xbox executive Kareem Choudhry, who reported directly to Bond, departed Microsoft and triggered another shake-up of some teams inside Xbox.\nThe message was that \u201cyou don\u2019t need an Xbox to play Xbox,\u201d because games were available through Xbox Cloud Gaming on TVs.\nPhil Spencer\u2019s retirement has seemed inevitable to Xbox employees, particularly over the past year.\nSome Xbox employees worry she\u2019ll force AI into everything Xbox does, but Sharma was clearly ready for that reaction.",
@@ -273,18 +285,6 @@
       "bias": "lean right",
       "publishedAt": "2026-02-23T15:06:05Z",
       "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MjM=",
-      "url": "https://yro.slashdot.org/story/26/02/21/2140216/americas-peace-corps-announces-tech-corps-volunteers-to-help-bring-ai-to-foreign-countries",
-      "title": "America's Peace Corps Announces 'Tech Corps' Volunteers to Help Bring AI to Foreign Countries",
-      "summary": "Slashdot is powered by your submissions, so send in your scoop",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-02-21T21:43:00Z",
-      "source": "Slashdot.org"
     }
   },
   {
@@ -302,18 +302,6 @@
   {
     "article": {
       "id": "MjU=",
-      "url": "https://finance.yahoo.com/news/last-accenture-trained-550-000-163301915.html",
-      "title": "Last year, Accenture trained 550,000 workers in AI\u2014now it\u2019s warning senior staff to use it or don\u2019t get promoted",
-      "summary": "Bosses have long warned staffers who are slacking in AI adoption that they will get overtaken by their tech-savvy coworkers\u2014and now, having the skill can make or break a career.\nMore from Yahoo Scout What training has Accenture provided for AI skill development?\nWhat other major companies are tying AI skills to performance?\nEmployers set a new standard: Workers need AI skills to succeedAccenture isn\u2019t the only one setting a new AI benchmark for promotions.\nLast year, fellow consulting giant KPMG announced that bosses will assess employees\u2019 use of AI tools as part of their annual performance reviews, according to Bloomberg.",
-      "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-02-23T16:33:01Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "MjY=",
       "url": "https://www.yahoo.com/news/articles/sam-altman-defends-ai-energy-163832426.html",
       "title": "Sam Altman defends AI\u2019s energy toll by saying it also takes a lot to \u2018train a human\u2019",
       "summary": "The OpenAI boss, Sam Altman, has tried to ease concerns about how much power is used by artificial intelligence models by comparing it to the amount of energy required by human development.\n\u201cPeople talk about how much energy it takes to train an AI model \u2013 but it also takes a lot of energy to train a human,\u201d Altman told the Indian Express recently while in India for the AI Impact summit.\nDatacenters accounted for about 1.5% of global electricity consumption in 2024, according to the International Energy Agency.\nAt the AI conference, Altman also downplayed concerns about the water datacenters require.\nWe used to do evaporative cooling in datacenters, but now \u2026 we don\u2019t do that,\u201d Altman said.",
@@ -325,7 +313,7 @@
   },
   {
     "article": {
-      "id": "Mjc=",
+      "id": "MjY=",
       "url": "https://www.bbc.com/news/articles/cqj9y9xw5v8o",
       "title": "Government relaunches green payment scheme for farmers after sudden closures",
       "summary": "Reynolds said the illegal dumping of waste - described by one farmer as \"a travesty of justice that surely must be righted\" - was an issue that had been \"seized\" by the prime minister, with more resources being given to the Environment Agency.",
@@ -337,7 +325,7 @@
   },
   {
     "article": {
-      "id": "Mjg=",
+      "id": "Mjc=",
       "url": "https://www.businessinsider.com/sam-altman-ai-energy-use-training-human-water-chatgpt-2026-2",
       "title": "Sam Altman says concerns of ChatGPT's energy use are overblown: 'It also takes a lot of energy to train a human'",
       "summary": "OpenAI CEO Sam Altman said it's unfair to compare the energy AI uses to that of humans unless you account for someone's entire early life.\nOpenAI CEO Sam Altman said it's unfair to compare the energy AI uses to that of humans unless you account for someone's entire early life.\nMandel Ngan/AFP/Getty ImagesOpenAI CEO Sam Altman said it's unfair to compare the energy AI uses to that of humans unless you account for someone's entire early life.\n\"But it also takes a lot of energy to train a human.\"\n\"It takes a lot of energy to train a human,\" he said, prompting some laughter in the crowd.",
@@ -349,7 +337,31 @@
   },
   {
     "article": {
+      "id": "Mjg=",
+      "url": "https://www.bbc.com/news/articles/c875edj1qeno",
+      "title": "Reform vows to overhaul pension schemes for new local government workers",
+      "summary": "Reform plans to bar any new entrants to the current schemes and, like most of the private sector, enrol new employees into defined contribution schemes.\nIn those schemes payout is not guaranteed, but instead depends on contributions made by the employee and employer, and gains (or losses) from market investments.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-02-23T22:14:36Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
       "id": "Mjk=",
+      "url": "https://www.nature.com/articles/d41586-026-00560-6",
+      "title": "EU leaders should not rush to revamp green-hydrogen rules",
+      "summary": "But before EU leaders rush to change the rules, they need to know more about the reasons for the delays.\nBut necessary detail\u2014 such as the relative impact of different factors \u2014 is lacking, and EU leaders need that information before they act.\nEU rules say that proposed green-hydrogen plants need to be powered by new sources of renewable energy, to incentivize the development of more renewable-energy facilities.\nAs a next step, researchers could ask the same question, but model only renewable energy as the green-hydrogen power source \u2014 as required under the existing EU rules.\nResearchers can help by devising ways to ensure that green hydrogen is produced sustainably, while not unduly hampering the technology\u2019s adoption.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-02-25T00:00:00Z",
+      "source": "Nature.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
       "url": "https://hackaday.com/2026/02/23/a-candle-powered-light/",
       "title": "A Candle-Powered Light",
       "summary": "For a little over two thousand years, the primary light sources after the sun had set were oil lamps and candles.\nThis was well before the age of fossil fuels, so these oil lamps were often fueled with a labor-intensive agricultural product like olive oil.\nLabor and materials costs aside, though, there\u2019s a surprising amount of energy in these fuels and [Maciej Nowak Projects] has a generator that help these ancient light sources generate some electricity on the side.\nThe generator is based around a piece of technology called a thermoelectric generator (TEG), which produces a voltage potential when placed in a temperature gradient.\nIt would make a fitting addition to anyone\u2019s emergency power outage kit as it really increases the amount of available light produced from any given candle.",
@@ -361,19 +373,19 @@
   },
   {
     "article": {
-      "id": "MzA=",
+      "id": "MzE=",
       "url": "https://slashdot.org/story/26/02/23/1430235/sam-altman-would-like-to-remind-you-that-humans-use-a-lot-of-energy-too",
       "title": "Sam Altman Would Like To Remind You That Humans Use a Lot of Energy, Too",
-      "summary": "Want to read Slashdot from your mobile device?\nPoint it at m.slashdot.org and keep reading!",
+      "summary": "Catch up on stories from the past week (and beyond) at the Slashdot story archive",
       "category": "technology",
-      "bias": "lean right",
+      "bias": "lean left",
       "publishedAt": "2026-02-23T14:40:00Z",
       "source": "Slashdot.org"
     }
   },
   {
     "article": {
-      "id": "MzE=",
+      "id": "MzI=",
       "url": "https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle",
       "title": "Kohler\u2019s new shower reuses dirty water to get you clean",
       "summary": "Kohler claims its new Anthem EvoCycle smart shower system can deliver \u201cup to 80% water savings\u201d without the use of showerheads that limit flow or pressure.\nPricing starts at $7,500, or $5,625 with discounts, but you\u2019ll need to buy fixtures and the $825 water tank base separately.\nSwitching to \u201cCycle Mode\u201d mixes a half gallon of that fresh water with dirty used water that\u2019s sent through a closed loop filtration system before being pumped up to the showerhead.\nThe system not only reduces water usage, but it can also potentially reduce energy usage by using the hot water heater less.\nThe EvoCycle smart shower connects to Kohler\u2019s mobile app so you can track water savings and activate a self-cleaning mode.",
@@ -385,7 +397,7 @@
   },
   {
     "article": {
-      "id": "MzI=",
+      "id": "MzM=",
       "url": "https://www.yahoo.com/news/articles/putin-tells-fsb-better-protect-140100982.html",
       "title": "Putin tells FSB to better protect energy sector, warns foes against pushing Moscow too far",
       "summary": "MOSCOW, Feb 24 (Reuters) - President Vladimir Putin on Tuesday ordered the FSB security service to step \u200cup protection of Russia's energy and transport infrastructure in \u200cresponse to Ukrainian attacks that he said were conducted with the \u200bhelp of Western intelligence.\nPutin, speaking on the fourth anniversary of the war, said Russia's enemies would regret it if they pushed Moscow too far.\nUkraine has repeatedly attacked Russian oil depots, refineries and ports in the course of the \u200cwar, and Moscow blames it for \u200ba series of assassinations of \u200bsenior military figures.\nPutin, in \u200btelevised remarks, suggested that Russian energy pipelines \u200cunder the Black Sea could \u200bbe targeted.\nHe issued \u200ban order to \"strengthen the anti-terrorist protection of energy and transport infrastructure and public gathering places, provide maximum \u200bcoverage for critical \u200cfacilities, and, if necessary, equip them with additional \u200bsecurity measures.\"",
@@ -397,7 +409,7 @@
   },
   {
     "article": {
-      "id": "MzM=",
+      "id": "MzQ=",
       "url": "https://9to5mac.com/2026/02/24/apple-vision-pro-team-talks-process-behind-designing-newest-visionos-26-environment/",
       "title": "Apple Vision Pro team talks process behind designing newest visionOS 26 Environment",
       "summary": "Apple Vision Pro has the power to transport users from their physical surroundings into a variety of immersive Environments, whether it\u2019s the shores of Mount Hood or the surface of the Moon looking back at Earth.\nWith visionOS 26, Apple expanded its library with another planetary view that takes the immersive experience even further.\nNow, two of the people behind the work are revealing new details about the intricate design process required to bring these virtual spaces to life.\nTo ensure the scale and \u201cfeel\u201d were correct, they designed the environments while wearing the Vision Pro itself.\n\u201cThe composition of what you\u2019re seeing here was all done through me guiding an artist while inside headset,\u201d Dessero explains.",
@@ -409,11 +421,11 @@
   },
   {
     "article": {
-      "id": "MzQ=",
+      "id": "MzU=",
       "url": "https://www.businessinsider.com/what-country-richest-people-moving-2026-2",
       "title": "The mega-rich are moving. Here's where they're going.",
       "summary": "In 2018, only 108,000 extremely wealthy individuals emigrated to a new country.\nSwitzerland, for example, has a lump-sum tax scheme that uses a taxpayer's lifestyle expenses as a surrogate tax base, rather than taxing global income and assets.\nThe UAE doesn't levy income tax; instead, it relies on a 5% value-added tax.\nMany of the global wealthy are relocating to cities that offer entrepreneurial freedom, often lacking in more bureaucratic regions.\nWith growing restrictions on travel to many countries, wealthy individuals are applying for second residencies or even multiple citizenships as a safeguard.",
-      "category": "economics",
+      "category": "international",
       "bias": "center",
       "publishedAt": "2026-02-23T08:33:01Z",
       "source": "Business Insider"
@@ -421,19 +433,19 @@
   },
   {
     "article": {
-      "id": "MzU=",
-      "url": "https://www.yahoo.com/news/articles/india-brazil-sign-mining-pact-122938477.html",
-      "title": "India, Brazil sign mining pact as Modi targets $20 billion trade in five years",
-      "summary": "Advertisement AdvertisementBrazil is among the world's top producers of iron ore and holds large reserves of minerals critical to steelmaking.\nINFRASTRUCTURE INVESTMENTThe cooperation will \u2060focus on attracting investment in exploration, mining and steel sector infrastructure, the statement said.\n\"We are committed to taking bilateral trade much beyond $20 billion in the next five years,\" Modi said.\n\"Our nations will also work closely in areas such as technology, innovation, digital public infrastructure, AI, semiconductors and more,\" \u200cModi said.\nLula on Thursday advocated for Brazil and India to conduct trade in their own currencies \u200brather than settling transactions in \u200cU.S.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-02-21T12:29:38Z",
-      "source": "Yahoo Entertainment"
+      "id": "MzY=",
+      "url": "https://www.futurity.org/lab-made-algae-microplastics-water-3323412/",
+      "title": "Lab-made algae gets microplastics out of water",
+      "summary": "University University of MissouriResearchers are pioneering an innovative solution to remove tiny bits of plastic pollution from our water.\nThe University of Missouri\u2019s Susie Dai recently applied a revolutionary strain of algae toward capturing and removing harmful microplastics from polluted water.\nThe specially engineered algae can grow in wastewater, feeding on excess nutrients and cleaning the water as it grows.\n\u201cBy removing the microplastics, cleaning the wastewater and eventually using the removed microplastics to create bioplastic products for good, we can tackle three issues with one approach,\u201d Dai says.\nDai hopes to build bigger versions of Shrek going forward that could be adapted for wastewater treatment and other pollutant removal purposes.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-02-24T16:31:06Z",
+      "source": "Futurity: Research News"
     }
   },
   {
     "article": {
-      "id": "MzY=",
+      "id": "Mzc=",
       "url": "https://www.npr.org/2026/02/23/nx-s1-5719485/italy-migrants-milan",
       "title": "In the shadow of the Olympics, migrants search for a welcome in Milan",
       "summary": "In the shadow of the Olympics, migrants search for a welcome in Milantoggle caption Valerio Muscella for NPRMILAN \u2014 Three Afghan men stand together in the freezing fog outside of Milan's central train station on a recent night \u2014 their first moments in Italy.\ntoggle caption Valerio Muscella for NPR\"Milan is and wants to be an open city \u2014 open to the world and to change,\" says Lamberto Bertol\u00e9, Milan's commissioner for health and welfare.\ntoggle caption Valerio Muscella for NPRThese efforts have reduced the number of people arriving in Italy by sea compared to 2023.\ntoggle caption Valerio Muscella for NPRFor some in the room this is a second attempt at settling in a European country.\ntoggle caption Valerio Muscella for NPRtoggle caption Valerio Muscella for NPRtoggle caption Valerio Muscella for NPR\"Imagine, after taking a very long time to get to your dream country and, to be told that you will be deported back to your home country after fighting for years to get here,\" she says.",
@@ -445,31 +457,7 @@
   },
   {
     "article": {
-      "id": "Mzc=",
-      "url": "https://www.wired.com/story/the-supreme-courts-tariff-ruling-wont-bring-car-prices-back-to-earth/",
-      "title": "The Supreme Court\u2019s Tariff Ruling Won\u2019t Bring Car Prices Back to Earth",
-      "summary": "Now, despite a US Supreme Court ruling that will nix some of those Trump tariffs, car buyers will likely get no respite.\nAutomakers have actually done an OK job shielding consumers from the effects of tariffs, Caldwell says.\nEven as retailers have blamed tariffs for steadily rising prices of consumer goods like electronics and appliances, car prices are up just 1 percent since this time last year, the firm\u2019s data shows.\nBut as the tariff regime drags on, that could change in ways that make new-car buyers even less happy.\n\u201cIf cost pressures continue to build, automakers may have less room to shield shoppers from higher prices,\u201d Caldwell says, \u201cbut for now, the broader market impact is still playing out.\u201d",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-02-21T00:10:01Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
       "id": "Mzg=",
-      "url": "https://www.bbc.com/news/articles/c5yvvjw8pdvo",
-      "title": "From Venezuela to immigration, Project 2025 provided Trump's roadmap",
-      "summary": "The 2025 US National Security Strategy identifies China as a leading adversary and, in a section on the Western Hemisphere, states: \"The choice all countries should face is whether they want to live in an American-led world of sovereign countries and free economies or in a parallel one in which they are influenced by countries on the other side of the world.\"",
-      "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-02-22T00:02:26Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzk=",
       "url": "https://www.bbc.com/news/articles/c4gj20xzw39o",
       "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
       "summary": "The Russian authorities do not release casualty figures for the so-called \"special military operation\".\nBut Russia is known to have suffered huge battlefield losses.\nSo many of the towns and villages I've visited in the last two years have had museums and monuments dedicated to soldiers killed in Ukraine, as well as separate sections for recent war dead at local cemeteries.",
@@ -481,14 +469,26 @@
   },
   {
     "article": {
-      "id": "NDA=",
-      "url": "https://www.npr.org/2026/02/22/nx-s1-5722854/pakistan-border-strikes-afghanistan-70-killed",
-      "title": "Pakistan claims to have killed at least 70 militants in strikes along Afghan border",
-      "summary": "Pakistan claims to have killed at least 70 militants in strikes along Afghan bordertoggle caption Hedayat Shah/APKABUL, Afghanistan \u2014 Pakistan's military killed at least 70 militants in strikes along the border with Afghanistan early Sunday, targeting what it described as hideouts of Pakistani militants it blamed for recent attacks inside the country, the deputy interior minister said.\nTalal Chaudhry, Pakistan's deputy interior minister, told Geo News that at least 70 militants were killed in the strikes.\nClearing rubble and burying the deadAfghanistan's Ministry of Foreign Affairs summoned Pakistan's ambassador to Kabul and handed him a note of protest over the Pakistani strikes.\nHabib Ullah, a local tribal elder, said those killed in the strikes were not militants.\nHours before the Pakistani strikes, a suicide bomber targeted a security convoy in the border district of Bannu in Pakistan's northwest, killing two soldiers, including a lieutenant colonel.",
+      "id": "Mzk=",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5717096/trump-congress-state-union-highlights",
+      "title": "5 takeaways from Trump's State of the Union address",
+      "summary": "5 takeaways from Trump's State of the Union addresstoggle caption Chip Somodevilla/Getty ImagesStay up to date with our Politics newsletter, sent weekly.\nOnly one president in U.S. history has gone before Congress during a State of the Union address and said that the state of the union was \"not good.\"\nIt wasn't President Trump on Tuesday.\nState of the Union addresses can sometimes descend into laundry lists of things the president wants Congress to accomplish.\nThere were only about half a dozen specific things Trump asked Congress to do:\"Codify\" Trump's attempts to lower drug prices , though it's unclear how.",
       "category": "international",
       "bias": "center",
-      "publishedAt": "2026-02-22T15:55:39Z",
+      "publishedAt": "2026-02-25T09:08:29Z",
       "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NDA=",
+      "url": "https://www.businessinsider.com/biggest-moments-from-donald-trumps-state-of-the-union-2026-2",
+      "title": "Biggest moments from Trump's State of the Union",
+      "summary": "Share icon An curved arrow pointing right.\nLinkedIn Copy LinkDescription Angle down icon An icon in the shape of an angle pointing down.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-02-25T05:37:10Z",
+      "source": "Business Insider"
     }
   },
   {
@@ -506,22 +506,10 @@
   {
     "article": {
       "id": "NDI=",
-      "url": "https://www.yahoo.com/news/articles/ice-begins-purchase-warehouses-owners-130708782.html",
-      "title": "ICE begins to purchase warehouses, but some owners are backing out of deals",
-      "summary": "In some cases, warehouse owners are refusing to sell.\nFloridaA TV reporter in Orlando spotted private contractors and federal officials last month touring a 439,945-square-foot (40,872-square-meter) industrial warehouse.\nAdvertisement AdvertisementPlans also are in the works to convert a warehouse in Oakwood into an ICE processing facility, Republican U.S. Rep. Andrew Clyde said in a statement, although no deed has been filed.\nKelly Ayotte sparred with federal officials after ICE disclosed plans to spend $158 million to convert a warehouse in Merrimack into a 500-bed processing center.\nThe announcement came just two days after ICE said it had made a \u201cmistake\u201d when it previously announced the purchase.",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-02-21T13:07:08Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NDM=",
       "url": "https://www.aljazeera.com/features/2026/2/24/yemens-mogadishu-somali-refugees-face-poverty-instability-in-aden",
       "title": "Yemen\u2019s \u2018Mogadishu\u2019: Somali refugees face poverty, instability in Aden",
       "summary": "Aden, Yemen \u2013 Lying on the outskirts of Yemen\u2019s interim capital, Aden, al-Basateen district starts where the paved roads end, stretching into narrow, sandy alleyways.\nIt reveals a decades-old refugee story in which Arabic blends with Somali and the faces harbour memories of a different place, across the sea.\nToday, local sources estimate the district\u2019s population at more than 40,000, with people of Somali origin making up the majority.\nSome arrived as children holding the hands of relatives, while others were born in Aden and have known no other home.\nA mother of four, she was born in Aden to Somali parents.",
-      "category": "immigration",
+      "category": "international",
       "bias": "left",
       "publishedAt": "2026-02-24T19:12:47Z",
       "source": "Al Jazeera English"
@@ -529,7 +517,7 @@
   },
   {
     "article": {
-      "id": "NDQ=",
+      "id": "NDM=",
       "url": "https://abcnews.com/US/maryland-sues-trump-administration-stop-construction-ice-detention/story?id=130426708",
       "title": "Maryland sues Trump administration to stop construction of ICE detention facility",
       "summary": "Maryland is suing the Trump administration to stop the construction of an immigration detention facility in the state, according to a complaint filed Monday.\n\"The Trump Administration will stop at nothing to pursue its extreme immigration agenda -- including breaking the law,\" Brown said in a statement.\nThe lawsuit says the purchase is part of a broader \"mass immigration detention scheme\" to convert warehouses across the country into detention centers as part of the administration's immigration crackdown.\n\"Defendants are purchasing warehouses across the country and seeking to retrofit them into immigration detention and processing centers that can hold tens of thousands of immigrants,\" the lawsuit states.\n\u201cThese will not be warehouses -- they will be very well-structured detention facilities meeting our regular detention standards,\" the statement said.",
@@ -541,7 +529,7 @@
   },
   {
     "article": {
-      "id": "NDU=",
+      "id": "NDQ=",
       "url": "https://www.yahoo.com/news/articles/maryland-sues-trump-administration-halt-212045952.html",
       "title": "Maryland sues Trump administration to halt construction of ICE facility",
       "summary": "By Jasper WardWASHINGTON, Feb 23 (Reuters) - Maryland Attorney General Anthony Brown said on Monday that the state had filed a lawsuit against the \u200cTrump administration to halt construction of a new federal immigration detention center \u200cin the state.\nAdvertisement AdvertisementThe Trump administration, according to Maryland's attorney general and government, purchased the property without conducting an environmental \u200creview or receiving public input.\nThis would \u200bincrease Immigration and Customs Enforcement's (ICE) total bed capacity \u200bto 92,600 at its detention \u200bcenters.\nThere are currently more than 200 federal immigration detention centers in \u200cthe United States.\nThe move to increase \u200bdetention centers in states \u200bacross the U.S. states has been met with some bipartisan criticism.",
@@ -553,11 +541,11 @@
   },
   {
     "article": {
-      "id": "NDY=",
+      "id": "NDU=",
       "url": "https://www.aljazeera.com/news/2026/2/23/chad-shuts-border-with-sudan-after-clashes-from-conflict-kills-five-troops",
       "title": "Chad shuts border with Sudan after cross-border incursion kills soldiers",
       "summary": "Chad\u2019s government says the border will remain \u200bclosed until further \u2060notice, citing repeated violations by Sudan\u2019s warring parties.\nChad has closed its eastern border with Sudan, the government says, after several Chadian soldiers and civilians were killed in recent days in clashes linked to the Sudanese civil war.\nTwo sources told Reuters that more Chadian soldiers were being deployed to the area.\nLast year, a drone attack killed two Chadian soldiers, according to local authorities and a security source, although it was unclear who carried out the attack.\nChad has reportedly served as a transit route for supplies, including weapons and drones, to the RSF although the Chadian government denies involvement.",
-      "category": "international",
+      "category": "immigration",
       "bias": "left",
       "publishedAt": "2026-02-23T13:15:07Z",
       "source": "Al Jazeera English"
@@ -565,10 +553,10 @@
   },
   {
     "article": {
-      "id": "NDc=",
+      "id": "NDY=",
       "url": "https://www.npr.org/2026/02/24/nx-s1-5711346/china-trump-us-foreign-aid-withdrawal",
-      "title": "China and the US alter foreign aid strategies",
-      "summary": "In those days, China itself was receiving aid from the Soviet Union, says Carrie Dolan, an expert on Chinese health aid at the College of William and Mary.\nChina framed its foreign aid as mutually beneficial with countries in the global south, promoting economic cooperation and increasing trade.\nU.S. foreign aid grants, Brazys says, also tended to focus on long-term solutions and came with conditions for governments, such as improving human rights, democracy and corruption.\nDolan's research in Kenya and Sierra Leone on the efficacy of Chinese aid showed mixed reactions from local medical officials, aid and health workers.\nHowever, it's clear that China will try to increase its influence through foreign aid, as the U.S presence appears to wane, she says.",
+      "title": "China and the U.S. alter foreign aid strategies",
+      "summary": "In those days, China itself was receiving aid from the Soviet Union, says Carrie Dolan, an expert on Chinese health aid at the College of William and Mary.\nChina framed its foreign aid as mutually beneficial with countries in the global south, promoting economic cooperation and increasing trade.\nU.S. foreign aid grants, Brazys says, also tended to focus on long-term solutions and came with conditions for governments, such as improving human rights, democracy and corruption.\nStill, China spent about the same overall on foreign aid in 2025 as it did in previous years, says Bryan Burgess , who tracks China's aid spending at the College of William and Mary.\nHowever, it's clear that China will try to increase its influence through foreign aid, as the U.S presence appears to wane, she says.",
       "category": "international",
       "bias": "center",
       "publishedAt": "2026-02-24T20:50:39Z",
@@ -577,19 +565,19 @@
   },
   {
     "article": {
-      "id": "NDg=",
-      "url": "https://www.npr.org/2026/02/21/nx-s1-5720226/kenya-ukraine-russia-war",
-      "title": "'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine",
-      "summary": "'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukrainetoggle caption Simon Maina/AFP via Getty ImagesNAIROBI, Kenya \u2014 In Sikonga village, Kisii County, a mother's wails fill the house.\nAccording to the intelligence report, 89 Kenyans remain on the frontline, 39 have been hospitalized, and 28 are missing in action.\nSponsor Message\"More telling is the collusion by officers at the Russian Embassy and the Kenyan Embassy in Moscow,\" Ichung'wah told Parliament.\nOpposition MP Joseph Makilap, who pushed for the intelligence report to be released, said the scale of the recruitment was staggering.\nAccording to the Kenyan intelligence report the recruitment networks involve both Kenyan and foreign actors.",
+      "id": "NDc=",
+      "url": "https://abcnews.com/Politics/iran-looms-large-trumps-state-union-address-analysis/story?id=130387861",
+      "title": "Iran looms large over Trump's State of the Union address: ANALYSIS",
+      "summary": "\"Everything that has been written about a potential War with Iran has been written incorrectly, and purposefully so,\" Trump continued.\n\"I think Iran is harder to do.\"\nPresident Donald Trump delivers his State of the Union address to a joint session of Congress on Capitol Hill in Washington, Jan. 30, 2018.\nAmbiguity on exactly what he wants out of any military action in Iran could play to his favor, O\u2019Hanlon says.\n\"I don't think he's going to get caught up in just the Iran specifics,\" O\u2019Hanlon said.",
       "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-02-21T11:20:58Z",
-      "source": "NPR"
+      "bias": "left",
+      "publishedAt": "2026-02-24T19:50:36Z",
+      "source": "Abcnews.com"
     }
   },
   {
     "article": {
-      "id": "NDk=",
+      "id": "NDg=",
       "url": "https://www.yahoo.com/news/articles/canada-prepares-aid-package-cuba-174726102.html",
       "title": "Canada prepares aid package for Cuba as it faces fuel shortages worsened by US oil embargo",
       "summary": "TORONTO (AP) \u2014 Canada announced Monday that it is working on an aid package for Cuba as it faces blackouts and severe fuel shortages worsened by a U.S oil embargo.\nAdvertisement AdvertisementAir Canada and other airlines have canceled flights to the Caribbean island because of a shortage of aviation fuel on the island.\nGlobal Affairs Canada, a governmental office, has said Canada is Cuba\u2019s second-largest source of direct investment to the island, particularly in the mining and tourism sectors.\nAdvertisement AdvertisementThe economic crisis gripping Cuba since 2020 has been compounded by intensified U.S. sanctions aimed at forcing a change in the island\u2019s political model.\nBecause Cuba produces only 40% of its required fuel, it remains highly vulnerable to external blockades.",
@@ -601,14 +589,26 @@
   },
   {
     "article": {
-      "id": "NTA=",
-      "url": "https://www.npr.org/2026/02/21/nx-s1-5720966/trump-iran",
-      "title": "With U.S. forces in position, Trump mulls his options for Iran",
-      "summary": "With U.S. forces in position, Trump mulls his options for Irantoggle caption Saul Loeb/AFP via Getty ImagesPresident Trump says he hasn't decided whether he'll launch a military strike on Iran.\nSome days he sounds like he would be satisfied with a negotiated deal on the country's nuclear program.\n\"There is no military solution for Iran's nuclear program,\" he told the MS NOW program Morning Joe.\nTrump wants Iran to effectively give up its nuclear program.\nHowever, Trump has so far not made a major speech to the American people about the prospect of a new Middle East war.",
+      "id": "NDk=",
+      "url": "https://www.yahoo.com/news/articles/trump-state-union-address-sell-050314428.html",
+      "title": "How Trump will use his State of the Union address to sell skeptical midterm voters on his plans",
+      "summary": "WASHINGTON (AP) \u2014 President Donald Trump's State of the Union address on Tuesday is likely to be a test run of the message Republicans will give to voters in November's elections for control of the House and the Senate.\nHe might even minimize foreign policy in his State of the Union despite his belief that it's been a major success.\nTrump has made the State of the Union his ownThe State of the Union used to be about recapping accomplishments and seeking to unite the country, but it increasingly reflects divisions in society.\nWhen Trump delivered his 2020 State of the Union, then-House Speaker Nancy Pelosi theatrically ripped up a copy of the speech afterward, overshadowing much of what Trump said.\nState of the Unions have short shelf livesWhile some presidential phrases endure, much of the rhetoric in State of the Unions is forgettable.",
       "category": "international",
       "bias": "center",
-      "publishedAt": "2026-02-21T11:00:00Z",
-      "source": "NPR"
+      "publishedAt": "2026-02-23T05:03:14Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NTA=",
+      "url": "https://www.aljazeera.com/news/2026/2/25/irans-fm-says-deal-with-us-within-reach-if-diplomacy-given-priority",
+      "title": "Iran\u2019s FM says deal with US \u2018within reach\u2019; Trump says he prefers diplomacy",
+      "summary": "Foreign Minister Abbas Araghchi\u2019s remarks in advance of Geneva talks come as a second US aircraft carrier heads towards the Middle East.\nWhile saying that he preferred diplomacy, he accused Iran of developing missiles that could \u201csoon reach the United States of America\u201d.\nBut one thing is certain, I will never allow the world\u2019s number one sponsor of terror, which they are, by far, to have a nuclear weapon.\nTrump said that after the US attack on Iran\u2019s nuclear sites in June 2025, \u201cthey were warned to make no future attempts to rebuild their weapons programme, in particular, nuclear weapons \u2013 yet they continue\u201d.\nThey want to make a deal, but we haven\u2019t heard those secret words: \u2018We will never have a nuclear weapon\u2019,\u201d he added.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-02-25T03:39:03Z",
+      "source": "Al Jazeera English"
     }
   },
   {
@@ -629,7 +629,7 @@
       "url": "https://abcnews.com/Politics/trump-continues-lash-supreme-court-after-tariff-ruling/story?id=130407379",
       "title": "Trump continues to lash out at Supreme Court after tariff ruling",
       "summary": "Trump continues to lash out at Supreme Court after tariff rulingPresident Donald Trump arrives for an event to proclaim \"Angel Family Day\" in the East Room of the White House, Feb. 23, 2026.\n\"The supreme court (will be using lower case letters for a while based on a complete lack of respect!)\nTrump will face some of the Supreme Court justices in person on Tuesday night when he delivers his State of the Union address.\nThe Supreme Court will hear an expedited appeal of Trump's case seeking to effectively end birthright citizenship by executive order.\n\"But this supreme court will find a way to come to the wrong conclusion, one that again will make China, and various other Nations, happy and rich.",
-      "category": "economics",
+      "category": "international",
       "bias": "center",
       "publishedAt": "2026-02-23T17:20:21Z",
       "source": "Abcnews.com"
@@ -638,30 +638,54 @@
   {
     "article": {
       "id": "NTM=",
-      "url": "https://indianexpress.com/article/cities/lucknow/yogi-to-leave-for-4-day-visit-to-singapore-japan-expansion-on-agenda-10545313/",
-      "title": "Yogi to leave for 4-day visit to Singapore, Japan today; investment diplomacy boost, industrial expansion on agenda",
-      "summary": "Yogi Adityanath has departed for a four-day visit to Singapore and Japan to attract investments and deepen industrial partnerships.\n(File Photo)Uttar Pradesh Chief Minister Yogi Adityanath will leave on Sunday evening for his four-day visit to Singapore and Japan aimed at strengthening the state\u2019s investment diplomacy and industrial expansion.\nThis will be his first foreign visit after his Myanmar trip in 2017.\nA key highlight of the visit will be Government-to-Business (G2B) meetings and roundtable interactions, where CM Adityanath will engage directly with the investors.\nActing in the role of the state\u2019s CEO, he will also present Uttar Pradesh\u2019s industrial roadmap, policy stability, and business potential.",
-      "category": "international",
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5724002/trump-tariffs-consumer-prices",
+      "title": "Why prices won't drop after the Trump tariff ruling, according to economists",
+      "summary": "Why prices won't drop after the Trump tariff ruling, according to economiststoggle caption Timothy A. Clary/AFP via Getty ImagesConsumers likely won't see cheaper prices at the grocery store or shopping mall, economists say, despite the Supreme Court striking down many of President Trump's tariffs.\nWithin hours of the ruling, Trump said he was using a different law to reimpose taxes on global imports.\nBy Saturday, Trump said he was using Section 122 of the Trade Act of 1974 to implement worldwide tariffs of 15%, after initially saying he would impose them at 10%.\nThere's also Section 338 of the Tariff Act of 1930, a never-used authority to use tariffs to retaliate against foreign discrimination against American goods.\nBut in this case, tariffs have led to higher prices for consumers, and they could stay that way.",
+      "category": "economics",
       "bias": "center",
-      "publishedAt": "2026-02-22T03:56:59Z",
-      "source": "The Indian Express"
+      "publishedAt": "2026-02-25T10:00:00Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
       "id": "NTQ=",
-      "url": "https://www.businessinsider.com/coo-job-is-especially-challenging-with-tariff-uncertainty-scotus-2026-2",
-      "title": "COO's Jobs Are Especially Challenging Due to Tariff Uncertainty",
-      "summary": "Friday's tariff ruling has once again put America's supply-chain bosses in a bind.\n\"Tariffs are written in DC, and they're felt in the COO's inbox,\" Jason Schloetzer, a professor at Georgetown's McDonough School of Business, told Business Insider.\nMany companies are still grappling with the impact of actions they took last year to cope with Trump's tariff hikes, said Rob Lalka, who teaches entrepreneurship at Tulane University.\nNow, with the fate of Trump's tariffs up in the air, COOs are experiencing the kind of whiplash that can be debilitating, said Lalka, especially for those at startups and small businesses with limited resources.\nOmni, which imports goods from Spain and exports to Canada, lost sales last year due to the Trump administration's tariffs, Smith said.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-02-21T10:39:01Z",
-      "source": "Business Insider"
+      "url": "https://www.aljazeera.com/news/2026/2/25/trumps-state-of-the-union-touts-economic-turnaround-as-approval-slumps",
+      "title": "Key takeaways from Trump\u2019s State of the Union speech",
+      "summary": "Trump\u2019s hardline stance on Iran and nuclear weapons, alongside foreign policy moves, dominate key moments of his speech.\n\u201cOur nation is back: bigger, better, richer and stronger than ever before,\u201d Trump said, at the start of his speech.\nDemocrats protest Trump\u2019s immigration policiesTrump focused heavily on his hardline immigration policies, particularly when it came to his closure of the US border.\nBeyond the policy arguments on the economy and immigration, Trump leaned into a highly partisan appeal for Republican control of Congress.\nSpanberger said US businesses suffer under Trump\u2019s tariffs, communities live under his mass deportation drive and residents remain dogged by affordability issues.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-02-25T06:30:20Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
       "id": "NTU=",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/2/24/what-to-expect-from-trumps-state-of-the-union-address-2",
+      "title": "What to expect from Trump\u2019s State of the Union address",
+      "summary": "Trump\u2019s State of the Union preview: foreign policy, immigration, tariffs, and the influence of Project 2025.\nAs US President Donald Trump prepares to deliver his State of the Union address, we look at what he\u2019s expected to outline, from foreign policy tensions and sweeping tariffs to immigration crackdowns, and the influence of the conservative blueprint known as Project 2025 on his agenda.\nIn this episode:Amanda Becker, JournalistEpisode credits:This episode was produced by Marcos Bartolome and Melanie Marich, with Spencer Cline, Tamara Khandaker, Tuleen Barakat, Maya Hamadeh and our host, Malika Bilal.\nOur video editors are Hisham Abu Salah and Mohannad al-Melhemm.\nConnect with us:@AJEPodcasts on Twitter, Instagram, Facebook",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-02-24T20:47:13Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTY=",
+      "url": "https://www.cbc.ca/news/world/australia-families-diplomats-israel-lebanon-9.7105056",
+      "title": "Australia tells diplomats' families to leave Israel, Lebanon amid regional tensions",
+      "summary": "The Australian government has told dependants of Australian diplomats in Israel and Lebanon to leave the two Middle East countries, the foreign ministry said on Wednesday, amid rising fears of military conflict between the United States and Iran.\nIran and the United States held indirect talks this month as Washington builds up military capability in the Middle East.\nThere are tens of thousands of Australians estimated to be living in the Middle East, many of them in the UAE, Israel and Lebanon.\nCanberra did not announce the closure of any of its Middle East embassies or consulates.\nThe Australian government closed its embassy in Tehran last year after expelling Iranian diplomats in June 2025, accusing the Iranian government of directing antisemitic attacks against Australian Jews.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-02-25T13:51:28Z",
+      "source": "CBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTc=",
       "url": "https://abcnews.com/US/wireStory/us-military-boards-oil-tanker-indian-ocean-after-130441949",
       "title": "US military boards third oil tanker in Indian Ocean after tracking it from Caribbean",
       "summary": "U.S. Southern Command said in a post on X that U.S. forces boarded the Bertha overnight, conducting \u201ca right-of-visit, maritime interdiction and boarding.\"\n\u201cThe vessel was operating in defiance of President Trump\u2019s established quarantine of sanctioned vessels in the Caribbean and attempted to evade,\u201d the post said.\n\u201cFrom the Caribbean to the Indian Ocean, we tracked it and stopped it.\u201dVenezuela had faced U.S. sanctions on its oil for several years, relying on a shadow fleet of falsely flagged tankers to smuggle crude into global supply chains.\nVideo posted by the Pentagon shows U.S. military helicopters flying toward the tanker.\nTrump's Republican administration has been seizing tankers as part of its broader efforts to take control of Venezuela's oil.",
@@ -673,7 +697,7 @@
   },
   {
     "article": {
-      "id": "NTY=",
+      "id": "NTg=",
       "url": "https://alltoc.com/world/how-has-the-ukraine-war-reshaped-global-security",
       "title": "How has the Ukraine war reshaped global security?",
       "summary": "Four years in: how the conflict changed warfare and alliancesThe full\u2011scale invasion launched by Russia has entered its fifth year and, in that time, the war has produced deep and lasting shifts in military practice, alliance politics and global security thinking.\nTactical and technological changesWidespread use of drones: Both sides have deployed drones for reconnaissance, strike missions and improvisational air defenses.\nStrategic and geopolitical effectsNATO and European defense: The war renewed political will in Europe for higher defense spending, more integrated deterrence, and questions about deeper European security arrangements.\nHuman and economic toll: Population displacement, demographic impacts and the destruction of infrastructure pose long\u2011term reconstruction and economic challenges for Ukraine, while sanctions and disrupted trade have lasting global economic effects.\nWhy it matters nowThe war has altered how states prepare for and prosecute conflict in the 21st century.",
