@@ -1,52 +1,62 @@
 [
   {
-    "id": "MjY=",
-    "url": "https://www.bbc.com/news/articles/cqj9y9xw5v8o",
-    "title": "Government relaunches green payment scheme for farmers after sudden closures",
-    "summary": "Reynolds said the illegal dumping of waste - described by one farmer as \"a travesty of justice that surely must be righted\" - was an issue that had been \"seized\" by the prime minister, with more resources being given to the Environment Agency.",
+    "id": "Mjg=",
+    "url": "https://www.bbc.com/news/articles/c9dn6q4n80eo",
+    "title": "River Itchen sewage spills threatening salmon survival, says MP",
+    "summary": "\"At the River Itchen we have more than \u00a370m worth of improvements to improve water quality as part of a wider plan for the River Test and Itchen, we will be announcing these in more detail later this year.\"",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2026-02-24T17:59:27Z",
+    "publishedAt": "2026-02-27T10:11:32Z",
     "source": "BBC News"
   },
   {
-    "id": "Mjk=",
-    "url": "https://www.nature.com/articles/d41586-026-00560-6",
-    "title": "EU leaders should not rush to revamp green-hydrogen rules",
-    "summary": "But before EU leaders rush to change the rules, they need to know more about the reasons for the delays.\nBut necessary detail\u2014 such as the relative impact of different factors \u2014 is lacking, and EU leaders need that information before they act.\nEU rules say that proposed green-hydrogen plants need to be powered by new sources of renewable energy, to incentivize the development of more renewable-energy facilities.\nAs a next step, researchers could ask the same question, but model only renewable energy as the green-hydrogen power source \u2014 as required under the existing EU rules.\nResearchers can help by devising ways to ensure that green hydrogen is produced sustainably, while not unduly hampering the technology\u2019s adoption.",
+    "id": "MzE=",
+    "url": "https://www.bbc.com/news/articles/cze0wzey2dno",
+    "title": "Stormont: Bill to permanently ban fracking approved by NI Executive",
+    "summary": "The Fermanagh and South Tyrone MLA who introduced a bill to ban fracking in the last mandate, said this was \"a positive day for the environment and will protect the wellbeing of local communities for generations to come\".",
     "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-02-25T00:00:00Z",
-    "source": "Nature.com"
-  },
-  {
-    "id": "MzA=",
-    "url": "https://hackaday.com/2026/02/23/a-candle-powered-light/",
-    "title": "A Candle-Powered Light",
-    "summary": "For a little over two thousand years, the primary light sources after the sun had set were oil lamps and candles.\nThis was well before the age of fossil fuels, so these oil lamps were often fueled with a labor-intensive agricultural product like olive oil.\nLabor and materials costs aside, though, there\u2019s a surprising amount of energy in these fuels and [Maciej Nowak Projects] has a generator that help these ancient light sources generate some electricity on the side.\nThe generator is based around a piece of technology called a thermoelectric generator (TEG), which produces a voltage potential when placed in a temperature gradient.\nIt would make a fitting addition to anyone\u2019s emergency power outage kit as it really increases the amount of available light produced from any given candle.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-02-23T09:00:52Z",
-    "source": "Hackaday"
+    "bias": "lean right",
+    "publishedAt": "2026-02-26T20:31:47Z",
+    "source": "BBC News"
   },
   {
     "id": "MzI=",
-    "url": "https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle",
-    "title": "Kohler\u2019s new shower reuses dirty water to get you clean",
-    "summary": "Kohler claims its new Anthem EvoCycle smart shower system can deliver \u201cup to 80% water savings\u201d without the use of showerheads that limit flow or pressure.\nPricing starts at $7,500, or $5,625 with discounts, but you\u2019ll need to buy fixtures and the $825 water tank base separately.\nSwitching to \u201cCycle Mode\u201d mixes a half gallon of that fresh water with dirty used water that\u2019s sent through a closed loop filtration system before being pumped up to the showerhead.\nThe system not only reduces water usage, but it can also potentially reduce energy usage by using the hot water heater less.\nThe EvoCycle smart shower connects to Kohler\u2019s mobile app so you can track water savings and activate a self-cleaning mode.",
+    "url": "https://ca.news.yahoo.com/energy-hungry-india-tells-carney-090000395.html",
+    "title": "Energy-hungry India tells Carney 'we are willing to buy whatever Canada is offering'",
+    "summary": "To that end, Patnaik said India is interested in getting its hands on a lot more Canadian uranium in particular to power its growing nuclear sector.\n\"We are willing to take whatever,\" the high commissioner said, adding Indian companies are open to ownership stakes in Canadian uranium mines and buying more of this country's world-leading nuclear technology.\nAdvertisement AdvertisementAdvertisement AdvertisementIn exchange for tariff relief, India agreed to buy U.S. oil and U.S.-controlled Venezuelan exports instead, Trump said.\nBut, with wider U.S. trade talks on pause, Patnaik said India also wants Canadian oil to round out its supply.\nThe trouble, Patnaik said, is so much Canadian oil is currently destined for a single customer: the U.S.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2026-02-23T16:17:26Z",
-    "source": "The Verge"
+    "publishedAt": "2026-02-27T09:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://www.sciencedaily.com/releases/2026/02/260228082714.htm",
+    "title": "A major climate hope in Antarctica just melted away",
+    "summary": "For years, researchers studying the Southern Ocean have pointed to one possible upside in an otherwise troubling climate outlook.\nThe study, published in Communications Earth and Environment, raises new questions about where iron in the Southern Ocean actually originates.\nWhy Iron in the Southern Ocean MattersEven though Antarctic waters are dark for months at a time, the Southern Ocean supports abundant phytoplankton growth.\nIn 2022, the researchers traveled aboard the now-decommissioned U.S. icebreaker, the Nathaniel B. Palmer, to the Dotson Ice Shelf in the Amundsen Sea of West Antarctica.\nRethinking Antarctic Iron and Climate ModelsTogether, these findings challenge long standing assumptions about iron sources in the Southern Ocean as the planet warms.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-02-28T14:59:08Z",
+    "source": "Science Daily"
+  },
+  {
+    "id": "MzQ=",
+    "url": "https://gothamist.com/news/new-yorks-energy-research-agency-says-the-states-landmark-climate-law-is-infeasible",
+    "title": "New York's energy research agency says the state's landmark climate law is infeasible",
+    "summary": "Kathy Hochul a letter on Thursday calling the state\u2019s climate law infeasible and overly expensive to implement.\nThe letter from the New York State Energy Research and Development Authority, which is controlled by the governor, outlined extra costs New York households could face if the law is implemented as planned.\nThe state climate law was passed after President Donald Trump pulled the United States out of the Paris Agreement, a landmark international treaty to reduce greenhouse gas emissions, during his first term.\n\u201cThis is a nonserious set of unsourced calculations,\u201d said Raya Salter, a member of the Climate Action Council, which helped craft the 2019 climate law.\nSalter said the climate law is structured to make businesses pay for the pollution they create and to incentivize them to become more sustainable.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-02-27T19:04:35Z",
+    "source": "Gothamist"
   },
   {
     "id": "MzY=",
-    "url": "https://www.futurity.org/lab-made-algae-microplastics-water-3323412/",
-    "title": "Lab-made algae gets microplastics out of water",
-    "summary": "University University of MissouriResearchers are pioneering an innovative solution to remove tiny bits of plastic pollution from our water.\nThe University of Missouri\u2019s Susie Dai recently applied a revolutionary strain of algae toward capturing and removing harmful microplastics from polluted water.\nThe specially engineered algae can grow in wastewater, feeding on excess nutrients and cleaning the water as it grows.\n\u201cBy removing the microplastics, cleaning the wastewater and eventually using the removed microplastics to create bioplastic products for good, we can tackle three issues with one approach,\u201d Dai says.\nDai hopes to build bigger versions of Shrek going forward that could be adapted for wastewater treatment and other pollutant removal purposes.",
+    "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-subject-wise-quiz-environment-and-geography-week-151-10556262/",
+    "title": "UPSC Essentials | Daily subject-wise quiz : Environment and Geography MCQs on South Pars field, seagrass and more (Week 151)",
+    "summary": "The above mentioned statements refer to:(a) Bandhavgarh Tiger Reserve(b) Palamau Tiger Reserve(c) Ranthambore Tiger Reserve(d) Sariska Tiger ReserveRelevance: Tiger Reserves are frequently asked in Prelims under location mapping, vegetation type, and associated wildlife sanctuaries.\n(Other Source: ntca.gov.in)Story continues below this adQUESTION 2With reference to the South Pars field, consider the following statements:1.\nUPSC often asks about origin (Aravalli Range), basin boundaries, and state-wise river flow, making it a high-probability geography topic.\n(Source: phedwater.rajasthan.gov.in)Previous Daily Subject-Wise-QuizDaily Subject-wise quiz \u2014 History, Culture, and Social Issues (Week 146)Daily subject-wise quiz \u2014 Polity and Governance (Week 151)Daily subject-wise quiz \u2014 Science and Technology (Week 151)Daily subject-wise quiz \u2014 Economy (Week 151)Daily subject-wise quiz \u2014 Environment and Geography (Week 150)Daily subject-wise quiz \u2013 International Relations (Week 150)Subscribe to our UPSC newsletter and stay updated with the news cues from the past week.\nStay updated with the latest UPSC articles by joining our Telegram channel \u2013 IndianExpress UPSC Hub, and follow us on Instagram and X.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-02-24T16:31:06Z",
-    "source": "Futurity: Research News"
+    "bias": "lean right",
+    "publishedAt": "2026-02-27T15:58:40Z",
+    "source": "The Indian Express"
   }
 ]

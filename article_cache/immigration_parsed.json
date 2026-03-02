@@ -1,52 +1,92 @@
 [
   {
     "id": "Mzc=",
-    "url": "https://www.npr.org/2026/02/23/nx-s1-5719485/italy-migrants-milan",
-    "title": "In the shadow of the Olympics, migrants search for a welcome in Milan",
-    "summary": "In the shadow of the Olympics, migrants search for a welcome in Milantoggle caption Valerio Muscella for NPRMILAN \u2014 Three Afghan men stand together in the freezing fog outside of Milan's central train station on a recent night \u2014 their first moments in Italy.\ntoggle caption Valerio Muscella for NPR\"Milan is and wants to be an open city \u2014 open to the world and to change,\" says Lamberto Bertol\u00e9, Milan's commissioner for health and welfare.\ntoggle caption Valerio Muscella for NPRThese efforts have reduced the number of people arriving in Italy by sea compared to 2023.\ntoggle caption Valerio Muscella for NPRFor some in the room this is a second attempt at settling in a European country.\ntoggle caption Valerio Muscella for NPRtoggle caption Valerio Muscella for NPRtoggle caption Valerio Muscella for NPR\"Imagine, after taking a very long time to get to your dream country and, to be told that you will be deported back to your home country after fighting for years to get here,\" she says.",
+    "url": "https://www.bbc.com/news/articles/cq57j559eq4o",
+    "title": "Blind refugee dies in New York after released by immigration",
+    "summary": "Video from body-worn cameras released by Buffalo police shows the man holding two black rods when officers appear, and repeatedly saying \"sorry.\"\nWhen he does not drop the rods after repeated requests to do so, the officer deploy tasers, and he walks forward swinging the rods until one officer wrestles him to the ground.",
     "category": "immigration",
     "bias": "center",
-    "publishedAt": "2026-02-23T13:25:36Z",
-    "source": "NPR"
+    "publishedAt": "2026-02-28T03:48:28Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "Mzg=",
+    "url": "https://www.bbc.com/news/articles/cly07pyde00o",
+    "title": "UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%",
+    "summary": "And although many people relate asylum seekers with those people seen arriving on British beaches, a similar proportion in recent years has been made up of claims from people who had previously arrived in the UK on work, study or visitor visas, or on other leave with relevant documentation.",
+    "category": "immigration",
+    "bias": "lean left",
+    "publishedAt": "2026-02-26T12:23:57Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/",
+    "title": "How Border Patrol ALPRs are changing life on California border- CalMatters",
+    "summary": "In summary Southern California residents are noticing new license plate readers that appear to be operated by the Border Patrol.\nCordero is concerned about the use of new automated license plate readers along the U.S.-Mexico border in California.\nBorder Patrol provides little information about its use of license plate readers on its website.\nPhoto by Zo\u00eb Meyers for CalMattersNewsom vetoed a bill to strengthen California license plate reader law last fall.\nPulling over grandmaAn Associated Press investigation published in November revealed that Border Patrol had hidden license plate readers in ordinary traffic safety equipment.",
+    "category": "immigration",
+    "bias": "lean left",
+    "publishedAt": "2026-02-26T18:27:11Z",
+    "source": "CALmatters"
   },
   {
     "id": "NDE=",
-    "url": "https://www.npr.org/2026/02/24/nx-s1-5723914/ice-iran-deporatation-adoption-adoptee-veteran",
-    "title": "A U.S. veteran adopted an orphan from Iran. Decades later, ICE is trying to deport her",
-    "summary": "Decades later, ICE is trying to deport hertoggle caption Stella Kalinina for NPRAdopted from Iran at age two, she takes great pride in her quintessential American upbringing.\ntoggle caption Stella Kalinina for NPRShe's terrified to be deported to Iran given her father's military service and her Christian faith.\nIt's unclear exactly how many adoptees are in the same vulnerable position as the California woman.\ntoggle caption Stella Kalinina for NPRAdoptees have been deported in the past, often because a crime triggered their removal.\nThe California woman firmly believes that her parents took the necessary steps to naturalize her.",
+    "url": "https://news.slashdot.org/story/26/02/26/127223/americans-are-leaving-the-us-in-record-numbers",
+    "title": "Americans Are Leaving the US in Record Numbers",
+    "summary": "Give a man a fish, and you feed him for a day.\nTeach a man to fish, and he'll invite himself over for dinner.\n- Calvin Keegan",
     "category": "immigration",
-    "bias": "center",
-    "publishedAt": "2026-02-24T11:00:00Z",
-    "source": "NPR"
+    "bias": "left",
+    "publishedAt": "2026-02-26T12:07:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NDI=",
+    "url": "https://www.aljazeera.com/news/2026/2/26/near-blind-rohingya-refugee-dies-after-us-agents-left-him-far-from-home",
+    "title": "Near-blind Rohingya refugee dies after US agents left him far from home",
+    "summary": "Nurul Amin Shah Alam, 56, was a nearly blind Rohingya refugee from Rakhine state in Myanmar, family members said.\nShah Alam had been missing since February 19, when US Border Patrol agents dropped him off at a coffee shop following his release from a county jail.\nMayor of Buffalo Sean Ryan, a Democrat, said in a statement on Wednesday that Shah Alam\u2019s death was preventable and the result of \u201cinhumane\u201d decision-making by federal immigration authorities.\n\u201cBorder Patrol agents offered him a courtesy ride, which he chose to accept to a coffee shop, determined to be a warm, safe location near his last known address, rather than be released directly from the Border Patrol station,\u201d the agency said.\nShah Alam\u2019s death comes as an immigration crackdown enforced by the administration of US President Donald Trump is facing increased scrutiny.",
+    "category": "immigration",
+    "bias": "left",
+    "publishedAt": "2026-02-26T08:39:46Z",
+    "source": "Al Jazeera English"
   },
   {
     "id": "NDM=",
-    "url": "https://abcnews.com/US/maryland-sues-trump-administration-stop-construction-ice-detention/story?id=130426708",
-    "title": "Maryland sues Trump administration to stop construction of ICE detention facility",
-    "summary": "Maryland is suing the Trump administration to stop the construction of an immigration detention facility in the state, according to a complaint filed Monday.\n\"The Trump Administration will stop at nothing to pursue its extreme immigration agenda -- including breaking the law,\" Brown said in a statement.\nThe lawsuit says the purchase is part of a broader \"mass immigration detention scheme\" to convert warehouses across the country into detention centers as part of the administration's immigration crackdown.\n\"Defendants are purchasing warehouses across the country and seeking to retrofit them into immigration detention and processing centers that can hold tens of thousands of immigrants,\" the lawsuit states.\n\u201cThese will not be warehouses -- they will be very well-structured detention facilities meeting our regular detention standards,\" the statement said.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/near-blind-rohingya-refugee-found-dead-after-border-patrol-release",
+    "title": "Near-blind Rohingya refugee found dead after border patrol release",
+    "summary": "NewsFeed Near-blind Rohingya refugee found dead after border patrol releaseOutrage in New York after 56-year-old Rohingya refugee Nurul Amin Shah Alam, nearly-blind and medically vulnerable, was found dead days after US Border Patrol agents released him at a Tim Hortons restaurant miles from home.\nOfficials say it was a \u201ccourtesy ride\u201d.",
     "category": "immigration",
-    "bias": "right",
-    "publishedAt": "2026-02-24T01:16:57Z",
-    "source": "Abcnews.com"
+    "bias": "center",
+    "publishedAt": "2026-02-27T20:27:17Z",
+    "source": "Al Jazeera English"
   },
   {
     "id": "NDQ=",
-    "url": "https://www.yahoo.com/news/articles/maryland-sues-trump-administration-halt-212045952.html",
-    "title": "Maryland sues Trump administration to halt construction of ICE facility",
-    "summary": "By Jasper WardWASHINGTON, Feb 23 (Reuters) - Maryland Attorney General Anthony Brown said on Monday that the state had filed a lawsuit against the \u200cTrump administration to halt construction of a new federal immigration detention center \u200cin the state.\nAdvertisement AdvertisementThe Trump administration, according to Maryland's attorney general and government, purchased the property without conducting an environmental \u200creview or receiving public input.\nThis would \u200bincrease Immigration and Customs Enforcement's (ICE) total bed capacity \u200bto 92,600 at its detention \u200bcenters.\nThere are currently more than 200 federal immigration detention centers in \u200cthe United States.\nThe move to increase \u200bdetention centers in states \u200bacross the U.S. states has been met with some bipartisan criticism.",
+    "url": "https://www.aljazeera.com/news/2026/2/27/deadly-journeys-refugees-migrants-risk-everything-to-reach-europe",
+    "title": "Deadly journeys: Refugees, migrants risk everything to reach Europe",
+    "summary": "Qualified riskThe risks of travelling to and through Libya are well known among migrants and refugees.\nAdvertisementA report, issued by the UN Human Rights Office in February, painted a bleak picture of life for refugees and irregular migrants in Libya.\nIn it, researchers described an environment where traffickers and armed groups could conduct widespread and systematic abuse against migrants with impunity.\nSpeaking from Libya\u2019s capital Tripoli, Ola described being beaten and held prisoner by one of the militias in Zuwara, which is in western Libya.\nIt was very bad; it had salt in it.\u201d\u201cI did not have a [reputation for taking risks] in my country,\u201d Ola said.",
     "category": "immigration",
     "bias": "left",
-    "publishedAt": "2026-02-23T21:20:45Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2026-02-27T12:24:50Z",
+    "source": "Al Jazeera English"
   },
   {
     "id": "NDU=",
-    "url": "https://www.aljazeera.com/news/2026/2/23/chad-shuts-border-with-sudan-after-clashes-from-conflict-kills-five-troops",
-    "title": "Chad shuts border with Sudan after cross-border incursion kills soldiers",
-    "summary": "Chad\u2019s government says the border will remain \u200bclosed until further \u2060notice, citing repeated violations by Sudan\u2019s warring parties.\nChad has closed its eastern border with Sudan, the government says, after several Chadian soldiers and civilians were killed in recent days in clashes linked to the Sudanese civil war.\nTwo sources told Reuters that more Chadian soldiers were being deployed to the area.\nLast year, a drone attack killed two Chadian soldiers, according to local authorities and a security source, although it was unclear who carried out the attack.\nChad has reportedly served as a transit route for supplies, including weapons and drones, to the RSF although the Chadian government denies involvement.",
+    "url": "https://www.yahoo.com/news/articles/irs-broke-law-disclosing-confidential-202746624.html",
+    "title": "The IRS broke the law by disclosing confidential information to ICE 42,695 times, judge says",
+    "summary": "WASHINGTON (AP) \u2014 A federal judge said Thursday that the IRS broke the law by disclosing confidential taxpayer information \u201capproximately 42,695 times\" to Immigration and Customs Enforcement.\nU.S. District Judge Colleen Kollar-Kotelly found that the IRS had erroneously shared the taxpayer information of thousands of people with the Department of Homeland Security as part of the agencies\u2019 controversial agreement to share information on immigrants for the purpose of identifying and deporting people illegally in the U.S.\nThe government is appealing the case, but the Thursday ruling is significant because Romo's declaration supports the decision on appeal.\nAdvertisement AdvertisementIn declining the preliminary injunction request, Judge Harry T. Edwards wrote that the nonprofit groups \u201care unlikely to succeed on the merits of their claim,\u201d since the information the agencies are sharing isn\u2019t covered by the IRS privacy statute.\nStill, two separate court orders have blocked the agencies from massive transfers of taxpayer information and blocked ICE from acting upon any IRS data in its possession.",
     "category": "immigration",
     "bias": "left",
-    "publishedAt": "2026-02-23T13:15:07Z",
-    "source": "Al Jazeera English"
+    "publishedAt": "2026-02-26T20:27:46Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NDY=",
+    "url": "https://www.cbc.ca/news/world/us-ny-buffalo-myanmar-migrant-death-9.7106756",
+    "title": "Police investigating Myanmar refugee's death after his release from U.S. federal immigration custody",
+    "summary": "Homicide detectives are investigating the circumstances of Shah Alam's death, the spokesperson said.\nBuffalo Mayor Sean Ryan, a Democrat, said in a statement Wednesday that Shah Alam's death was preventable and the result of \"inhumane\" decision-making by federal immigration authorities.\nShah Alam was released on bail this month after he had agreed to a plea deal, the district attorney's office said.\nFollowing Shah Alam's arrest, U.S. Immigration and Customs Enforcement issued an immigration detainer, a formal request to take custody of a non-citizen after his scheduled release from criminal detention.\nWhen Shah Alam did not understand police commands to drop his curtain rod, they arrested him, his son said.",
+    "category": "immigration",
+    "bias": "left",
+    "publishedAt": "2026-02-26T15:55:27Z",
+    "source": "CBC News"
   }
 ]
