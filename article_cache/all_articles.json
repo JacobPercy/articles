@@ -2,781 +2,841 @@
   {
     "article": {
       "id": "MA==",
-      "url": "https://www.businessinsider.com/block-layoffs-ai-job-cuts-white-collar-recession-outlook-2026-2",
-      "title": "Block's layoffs illustrate the market conundrum at the heart of the viral Citrini report",
-      "summary": "Part of Citrini Research's viral view of an economy reshaped by AI might be playing out in real time on Friday.\nBlock investors are celebrating after the financial services company said it would axe nearly half of its workforce on Thursday.\nAlap Shah, the investor who helped author Citrini's viral report, used the moment to tout the paper's foresight.\nAnxieties over AI-fueled job losses swelled this week after the viral report that outlined one possible scenario where artificial intelligence could spark a white-collar recession in several years' time.\nThe report helped stoke a major sell-off in stocks at the start of the week, but some market pros have been skeptical of the unemployment scenario outlined by Citrini.",
+      "url": "https://www.npr.org/2026/03/06/g-s1-112788/oil-prices-stocks-jobs-report",
+      "title": "Oil surges to its highest price since 2023, and stocks drop after U.S. jobs report",
+      "summary": "Oil surges to its highest price since 2023, and stocks drop after U.S. jobs reporttoggle caption Seth Wenig/APNEW YORK \u2014 Oil shot to its highest price since 2023 after surging again Friday because of the Iran war, and a weak update on the U.S. job market knocked stocks lower to cap Wall Street's worst week since October.\nThe S&P 500 dropped 1.3% after a report showed U.S. employers cut more jobs last month than they created and after oil prices spiked above $90 per barrel.\n\"A negative payrolls number combined with a big jump in oil prices will have traders worrying about stagflation risks.\"\nAnd the Fed's hands may be increasingly tied because spiking oil prices are pushing inflation higher due to disruptions for the energy industry.\nUncertainty about just how high oil prices will go this time around and for how long caused frenetic swings across financial markets this past week, sometimes hour by hour.",
       "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-02-27T15:25:07Z",
-      "source": "Business Insider"
+      "bias": "center",
+      "publishedAt": "2026-03-06T20:17:20Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
       "id": "MQ==",
-      "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-      "title": "Wall Street Has AI Psychosis",
-      "summary": "Tech leaders like Anthropic CEO Dario Amodei have already estimated that half the entry level white collar jobs will soon be gone, and earlier this year, Anthropic\u2019s release of new agentic tools spurred a Wall Street selloff.\nWall Street, like the rest of us, is in a persistent state of anxiety about AI, and it doesn\u2019t take much to trigger a mini-panic.\nAfter it did its job on Wall Street, the Citrini report came under considerable fire.\nWhen everyone has a few dozen AI agents working on their behalf, writes Shah, consumers will be able to effortlessly find the best goods for the best prices.\nInstead of being limited to the restaurants on the app, consumers will send out AI agents to find their ideal meal options, contracting directly with restaurants and delivery people\u2014no apps needed.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-27T16:00:00Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "Mg==",
-      "url": "https://www.businessinsider.com/uber-driver-quit-full-time-job-working-60-hours-week-2026-2",
-      "title": "I quit driving for Uber after I got a full-time finance job. Ride-hailing took more unpaid work than it used to.",
-      "summary": "I could accept basically every ride the Uber app suggested and still make money on it.\nUber used a rate card that showed you made X amount of money per mile and X per minute.\nA couple of years ago, I started driving for Uber basically full-time after losing my job.\nA few years ago, Uber started using upfront pricing, which got rid of the rate card and used algorithms to determine my earnings.\nDriving for Uber led to a full-time jobI haven't driven for Uber since December because I recently got a full-time job in finance, the industry I used to work in.",
+      "url": "https://abcnews.com/Business/jobs-report-expected-show-hiring-slowdown/story?id=130786752",
+      "title": "Jobs report shows US unexpectedly lost jobs in February",
+      "summary": "The fresh data arrived as the Iran war roils markets.\nThe U.S. lost 92,000 jobs in February, according to the report from the U.S. Bureau of Labor Statistics (BLS), which marked a significant dropoff from 130,000 jobs added in the previous month.\nThe new jobs report arrived as markets roil and gasoline prices surge in response to the war with Iran.\nThe U.S. added an average of about 15,000 jobs per month in 2025, U.S. Bureau of Labor Statistics data showed.\nThe Iran war threatens to slow U.S. economic growth since oil-driven price increases could weigh on consumers and businesses, analysts previously told ABC News.",
       "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-02-28T10:29:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mw==",
-      "url": "https://finance.yahoo.com/video/warner-bros-earnings-fed-jobless-000052742.html",
-      "title": "Warner Bros. earnings, Fed, jobless claims: What to Watch",
-      "summary": "00:15 Speaker AIn the media space, Warner Brothers Discovery is reporting fourth quarter results, but the numbers may take a back seat to the takeover drama, of course.\nParamount Skydance raising its all-cash bid to 31 per share,00:27 Speaker Atopping its prior offer and stirring up competition with Netflix.\n00:36 Speaker ABeyond the M&A fight, investors will be watching advertising trends, the absence of NBA programming likely pressuring fourth quarter results.\n00:44 Speaker AOn the software side, Intuit reporting Q2 earnings.\n01:06 Speaker AOn the macro front, Fed vice chair for supervision, Michelle Bowman is speaking on Thursday.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-02-26T00:00:52Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NA==",
-      "url": "https://www.theverge.com/tech/885270/google-eu-dma-search-results-changes",
-      "title": "Google might reshuffle search results to try to dodge fines in the EU",
-      "summary": "Google is planning to test changes to how it displays search results for certain topics, nearly a year after it was charged with violating antitrust rules in the European Union, Reuters reports.\nThe shift will show top-ranked rival services for hotels, flights, restaurants, and transportation higher up in results, rather than prioritizing Google\u2019s own services like Google Flights.\nCompanies that fail to comply with DMA regulations can face fines of up to 10 percent of their annual revenue.\nGoogle initially pushed back against demands for it to rearrange search results, with Google\u2019s head of competition, Oliver Bethell, claiming in a post on LinkedIn last year that early changes to search results forced European users to search longer and pay higher prices.\nHowever, Google could potentially face billions of dollars in fines if it doesn\u2019t make adjustments to comply with the DMA.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-26T15:18:12Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "NQ==",
-      "url": "https://finance.yahoo.com/video/chinas-yuan-hits-35-month-170618414.html",
-      "title": "China's Yuan Hits 35-Month High As Dollar Keeps Falling",
-      "summary": "There are no important events for this country at this time.\nSelect \"All\" to see top events in other countries or view all events.",
-      "category": "economics",
-      "bias": "center",
-      "publishedAt": "2026-02-26T17:06:18Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Ng==",
-      "url": "https://finance.yahoo.com/news/average-us-long-term-mortgage-170334002.html",
-      "title": "For the first time since 2022, average US long-term mortgage rate dips below 6%",
-      "summary": "The average long-term U.S. mortgage rate slipped this week below 6% for the first time since late 2022, good news for home shoppers as the spring home-buying season gets rolling.\nThe benchmark 30-year fixed rate mortgage rate fell to 5.98% from 6.01% last week, mortgage buyer Freddie Mac said Thursday.\nMore from Yahoo Scout Why did mortgage rates fall below 6% recently?\nThe average rate has been hovering close to 6% this year.\nMortgage rates have been trending lower for months, helping drive a pickup in home sales the last four months of 2025, but not enough to lift the housing market out of its slump dating back to 2022, when mortgage rates began to climb from pandemic-era lows.",
-      "category": "economics",
-      "bias": "right",
-      "publishedAt": "2026-02-26T17:03:34Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Nw==",
-      "url": "https://247wallst.com/investing/2026/02/28/grok-ai-40k-bitcoin-price-prediction-why-analysts-say-its-too-bearish/",
-      "title": "Grok AI $40K Bitcoin Price Prediction: Why Analysts Say It\u2019s Too Bearish",
-      "summary": "Grok\u2019s $40,000 Bitcoin forecast sits 33% to 45% below most analyst bottom estimates of $60,000 to $75,000.\nThe base case lands between $75,000 and $150,000, which would mean Bitcoin roughly doubles from current levels or recovers to its October 2025 highs.\nFor the $40,000 bear case, Grok draws on X sentiment data, where technical charts circulating on the platform project $40,000 as Bitcoin\u2019s cycle bottom in 2026.\nChatGPT projects a $40,000 to $75,000 Bitcoin bottom range if a prolonged crypto winter persists, but weights its base case between $75,000 and $110,000.\nGrok\u2019s $40,000 Bitcoin price prediction reads more like a stress test than a serious forecast.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-02-28T13:13:21Z",
-      "source": "24/7 Wall St."
-    }
-  },
-  {
-    "article": {
-      "id": "OA==",
-      "url": "https://www.businessinsider.com/stock-market-today-inflation-ppi-wall-street-economy-wholesale-prices-2026-2",
-      "title": "Inflation fears have returned, and stocks are getting hammered",
-      "summary": "The latest Producer Price Index numbers show wholesale prices rose 0.8% in January, significantly more than the 0.3% increase expected by economists.\nOn an annual basis, headline PPI rose 2.9%.\nStocks sold off, with the Dow losing more than 500 points and tech losses shaving 1% from the Nasdaq.\n\"There are growing concerns about US inflation which looks as if it may start to pick up again,\" he said.\nUet, others said that, while stocks sold off, Treasury yields continued to move lower, suggesting bond investors don't see PPI as a major factor in markets on Friday.",
-      "category": "economics",
-      "bias": "center",
-      "publishedAt": "2026-02-27T14:58:27Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "OQ==",
-      "url": "https://slashdot.org/story/26/02/27/185250/a-chinese-officials-use-of-chatgpt-accidentally-revealed-a-global-intimidation-operation",
-      "title": "A Chinese Official's Use of ChatGPT Accidentally Revealed a Global Intimidation Operation",
-      "summary": "Give a man a fish, and you feed him for a day.\nTeach a man to fish, and he'll invite himself over for dinner.\n- Calvin Keegan",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-27T18:03:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "MTA=",
-      "url": "https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-dips-below-130533271",
-      "title": "Average US long-term mortgage rate dips below 6% for the first time since late 2022",
-      "summary": "The average long-term U.S. mortgage rate slipped this week below 6% for the first time since late 2022, good news for home shoppers as the spring homebuying season gets rollingAverage US long-term mortgage rate dips below 6% for the first time since late 2022FILE - A sign is posted for a new home for sale in Ambler, Pa., Oct. 16, 2025.\n(AP Photo/Matt Rourke, File)The average long-term U.S. mortgage rate slipped this week below 6% for the first time since late 2022, good news for home shoppers as the spring homebuying season gets rolling.\nThe benchmark 30-year fixed rate mortgage rate fell to 5.98% from 6.01% last week, mortgage buyer Freddie Mac said Thursday.\nAnd more buyer-friendly mortgage rates this year weren\u2019t enough to lift home sales last month.\n\u201cMarch is when the spring homebuying season typically begins to ramp up and with rates at a three-and-a-half year low, it could be a barn burner of a spring homebuying season.\u201d",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-02-26T17:20:57Z",
+      "bias": "lean left",
+      "publishedAt": "2026-03-06T10:09:02Z",
       "source": "Abcnews.com"
     }
   },
   {
     "article": {
-      "id": "MTE=",
-      "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
-      "title": "Are You \u2018Agentic\u2019 Enough for the AI Era?",
-      "summary": "But as the performance of AI coding tools has surged, so has the industry\u2019s emphasis on humans being \"agentic\" themselves.\nFor many, a massive piece of their value is now tied to deciding what AI coding agents should work on.\nSimon Last, another Notion cofounder, uses AI coding agents more than anyone I\u2019ve ever met.\nNow, he\u2019s using up to four AI coding agents at any given time (he prefers Codex to Claude Code).\nEven though the company is using AI agents to automate work, Notion is busier than ever.",
+      "id": "Mg==",
+      "url": "https://abcnews.com/Business/dow-drops-650-points-iran-war-sends-oil/story?id=130824337",
+      "title": "Dow closes down 450 points as Iran war sends oil prices surging",
+      "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on March 06, 2026 in New York City.\nTraders work on the floor of the New York Stock Exchange during morning trading on March 06, 2026 in New York City.\nTraders work on the floor of the New York Stock Exchange during morning trading on March 06, 2026 in New York City.\nTraders work on the floor of the New York Stock Exchange during morning trading on March 06, 2026 in New York City.\nThe Dow Jones Industrial Average closed down 450 points on Friday as the Iran war continued to spike oil prices.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-03-06T16:00:38Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Mw==",
+      "url": "https://www.businessinsider.com/jobs-report-february-data-live-updates-2026-3",
+      "title": "Jobs report recap: Shocking job loss in February",
+      "summary": "Job growth is expected to be below 100,000 in February, but that might be enough to keep up with a more slowly growing population.\nOther economists have similarly told Business Insider that fewer jobs need to be added due to fewer people coming to the country.\nEconomists have varying estimates for the new breakeven rate.\nJed Kolko, senior fellow at the Peterson Institute for International Economics, told Business Insider that the economy probably needs to create under 50,000 jobs a month to keep up with slower workforce growth.\n\"Two years ago, that breakeven rate was closer to 170,000 jobs a month.\"",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-03-06T11:30:59Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NA==",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-7-2026-110008005.html",
+      "title": "Mortgage and refinance interest rates today, March 7, 2026: Rates rise as bond yields surge.",
+      "summary": "Free mortgage calculatorUse the mortgage calculator below to see how today's interest rates would affect your monthly mortgage payments.\n30-year fixed mortgage rates: Pros and consThere are two main advantages to a 30-year fixed mortgage: Your payments are lower, and your monthly payments are predictable.\nThe main disadvantage of 30-year fixed mortgage rates is the mortgage interest, both in the short and long term.\n15-year fixed mortgage rates: Pros and consThe pros and cons of 15-year fixed mortgage rates are basically swapped with those of the 30-year rates.\nToday's mortgage rates: FAQsWhy do 30-year mortgage rates vary by the source reporting them?",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-03-07T11:00:08Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NQ==",
+      "url": "https://www.businessinsider.com/private-credit-bosses-software-bets-blackstone-apollo-ares-2026-3",
+      "title": "Here's how private credit bosses are defending their software bets as markets scrutinize Blue Owl",
+      "summary": "Months of concern over the private credit industry finally coalesced this year into its first real reputational crisis.\nBlue Owl, a buzzy private investor specializing in loans to the software industry, has seen its stock crater following growing redemption requests across its non-traded private credit funds and market jitters over the impact of AI disruption on software companies.\nWith market watchers concerned that generative AI will make many software-as-a-service companies obsolete, the general angst about private credit over the past few months has now found a target in software loans.\nAnd this week, at the Bloomberg Invest conference and on CNBC, other private credit bosses had the chance to assuage fears that they were in too deep on software bets.\nHere's what top private credit players said about their software exposure.",
       "category": "technology",
       "bias": "center",
-      "publishedAt": "2026-02-26T19:00:00Z",
+      "publishedAt": "2026-03-06T10:36:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Ng==",
+      "url": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision",
+      "title": "US job market stalls, unemployment rate rises before Fed decision",
+      "summary": "The February jobs report was released by the US Labor Department on Friday.\nThe unemployment rate rose slightly by 0.1 percent from 4.3 percent in January, with more than 25 percent of unemployed workers without a job for more than 27 weeks.\nHardest hit sectorsFebruary\u2019s decline follows downwardly revised gains in January, when the US economy added 126,000 jobs.\nThe cuts to the healthcare industry come despite the ADP\u2019s private payroll report out on Thursday, which showed that education and health services added 58,000 jobs.\nThe ADP private payroll report showed a total of 63,000 jobs added for the month.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-03-06T17:11:16Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "Nw==",
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/481951/trump-february-jobs-report-unemployment-economy-gas-prices",
+      "title": "A bad news day for Trump\u2019s economy, briefly explained",
+      "summary": "Welcome to The Logoff: The fundamentals of the American economy are\u2026starting to look a little concerning.\nUnemployment also edged up slightly to 4.4 percent, and jobs numbers from December were revised downward, from a gain of 48,000 to a loss of 17,000.\nThe economy still gained jobs in January, but overall, those revisions meant job growth over the last three months was negligible.\nAs my colleague Eric Levitz has written, more expensive gas doesn\u2019t just mean short-term pain for consumers; unchecked, rising oil prices could both boost inflation and slow economic growth.\nFor now, both Friday\u2019s jobs numbers and rising energy prices are best thought of as warning signs \u2014 not good news, but not catastrophes, either.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-03-06T22:44:23Z",
+      "source": "Vox"
+    }
+  },
+  {
+    "article": {
+      "id": "OA==",
+      "url": "https://www.aljazeera.com/economy/2026/3/7/iran-war-is-latest-threat-to-a-global-economy-rattled-by-trump",
+      "title": "Iran war is latest threat to a global economy rattled by Trump",
+      "summary": "Rising energy prices threaten to stoke inflation and hobble economic growth in countries around the world.\nThe biggest threat the conflict poses to global economic health lies in rising energy prices.\nA sustained surge in energy prices would drive up the cost of everyday goods.\nBut if supply disruptions extend beyond a few weeks, oil prices could rise precipitously.\nThe International Monetary Fund has estimated that global economic growth is reduced by 0.15 percent for every 10 percent rise in oil prices.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-07T00:27:18Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "OQ==",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
+      "title": "The OpenClaw superfan meetup serves optimism and lobster",
+      "summary": "Hundreds of people were gathered to celebrate OpenClaw, the AI assistant platform created by Peter Steinberger in November 2025.\nOpenClaw (previously known as Clawdbot and Moltbolt) has quickly become popular in the tech industry for being open-source, in contrast with AI agent services from big labs like Google, OpenAI, and others.\nPhoto by Hayden Field / The VergePeople milled about near a step-and-repeat, a bar, and silver \u201cCLAWCON NYC\u201d balloons glinting in recessed lighting \u2014 some wearing lobster necklaces or lobster headbands.\nHer biggest tip for working with OpenClaw agents?\nAnother man wearing one of the sponsor companies\u2019 branded shirts yelled for people to come and dance.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-03-06T22:46:27Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTA=",
+      "url": "https://www.businessinsider.com/pay-off-mortgage-early-nyc-couple-retirement-financial-freedom-2026-3",
+      "title": "An NYC couple broke a golden rule of mortgage payments, and it helped them retire early",
+      "summary": "Chang had been renting in Manhattan since moving there for graduate school, and was tired of the annual rent hikes.\nThe couple purchased their apartment for about $770,000, paying half in cash and financing the rest.\nBreaking the 'don't pay it off' ruleFor a while, the couple assumed they would upgrade their space.\nBusiness Insider reviewed public records filed with the New York City Register that confirm the couple's mortgage was paid off in September 2024.\nThe rental market in New York City is so overdriven right now.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-03-06T10:30:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTE=",
+      "url": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
+      "title": "The Future of Iran\u2019s Internet Is More Uncertain Than Ever",
+      "summary": "For more than six days, almost 90 million Iranians have been living under a total internet blackout.\nAs is often the case, only the Iranian government, military, and wealthy elites currently have access to the outside internet, along with a small group of additional gateways that get internet access from Starlink terminals.\nGeorgia Tech\u2019s internet monitoring project, IODA, has also reported \u201cdamage to critical internet or power infrastructure\u201d knocking Iranian networks offline.\nOver the past decade, the Iranian regime has built out the technical infrastructure, laws, and surveillance apparatus to digitally suppress its citizens.\nThe group also says it has observed the government sending some text messages warning that people connecting to the global internet could face legal action.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-03-06T20:06:06Z",
       "source": "Wired"
     }
   },
   {
     "article": {
       "id": "MTI=",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-nvidia-led-slump-dampens-ai-mood-again-235202719.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall to end volatile month as AI worries buffet markets",
-      "summary": "US stocks sank on Friday after a measure of wholesale inflation came in hotter than expected and Block's (XYZ) surprise shakeup turned the spotlight on AI disruption risks.\nThe Dow Jones Industrial Average (^DJI) led the way down with a loss of 1%, or more than 500 points.\nMeanwhile, the Nasdaq Composite (^IXIC) fell 0.8%, while the S&P 500 (^GSPC) dropped 0.4%, respectively, on the heels of sharp closing losses for the tech-heavy indexes.\nThe Nasdaq and S&P 500 declined more than 3.3% and 0.86%, respectively, for the month.\nOn the macro front, January\u2019s producer price index rose 0.5% month over month, showing that wholesale inflation grew at a faster pace than the 0.3% rise economists expected.",
+      "url": "http://deadline.com/2026/03/employment-february-jobs-report-trump-1236745850/",
+      "title": "U.S. Economy Shed 92,000 Jobs In February, Including Drop In Entertainment Industry Employment",
+      "summary": "The U.S. economy lost 92,000 jobs in February, while the unemployment rate rose to 4.4%, in a report that was weaker than expected.\nBroadcasting and content providers lost about 400 jobs.\nThe most significant job losses were in health care, with some of the drop attributed to strike activity, while employment in information industries and the federal government also fell.\n\u201cCompanies are not hiring in the face of all of these headwinds and uncertainty,\u201d Heather Long, chief economist at Navy Federal, posted on X.\nOver the past 12 months, those earnings have increased by 3.8%, ahead of the rate of inflation.",
       "category": "economics",
       "bias": "lean right",
-      "publishedAt": "2026-02-26T23:52:02Z",
-      "source": "Yahoo Entertainment"
+      "publishedAt": "2026-03-06T13:51:15Z",
+      "source": "Deadline"
     }
   },
   {
     "article": {
       "id": "MTM=",
-      "url": "https://www.businessinsider.com/california-billionaires-larry-page-spending-miami-homes-luxury-real-estate-2026-2",
-      "title": "Miami heat: Phones are ringing off the hook as California billionaires look to drop 9 figures on homes in the 305",
-      "summary": "Her phones are ringing with billionaires \u2014 titans of tech and finance \u2014 looking to drop nine figures on waterfront properties.\n\"I got a flurry of requests and inquiries,\" Delgado, who has landed two billionaire clients recently, told Business Insider.\nShe's not the only one; three other agents told Business Insider that inquiries picked up at the end of 2025 and continued into 2026.\n\"Before, having a $20 million or $30 million sale was an outlier,\" Ana Teresa Rodriguez of Coldwell Banker Realty told Business Insider.\n\"Miami has never been as sophisticated and as diverse as it is in 2026, and the level of wealth moving here is making Miami level up,\" Goldentayer told Business Insider.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-02-28T10:10:01Z",
-      "source": "Business Insider"
+      "url": "https://abcnews.com/video/130858678/",
+      "title": "Video War in Iran's impact on gas",
+      "summary": "War in Iran's impact on gas Oil prices continue to soar, rattling stock markets and threatening price increases for some essential products as war escalated in the Middle East.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-03-07T16:29:23Z",
+      "source": "Abcnews.com"
     }
   },
   {
     "article": {
       "id": "MTQ=",
-      "url": "https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala",
-      "title": "CISA is getting a new acting director after less than a year",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA), which is part of the Department of Homeland Security, is getting a new acting director, as reported by ABC, less than a year after Madhu Gottumukkala took charge of the agency as deputy director and acting director in May 2025.\nCISA\u2019s executive assistant director for cybersecurity, Nick Andersen, will become the agency\u2019s new acting director while Gottumkkala will now be serving as director of strategic implementation at DHS.\nGottumkkala had requested special permission to use ChatGPT, despite the AI being off-limits for other DHS employees.\nCISA is also still without a Senate-confirmed director.\nTrump nominated Sean Plankey for the role last year, then renominated him in January.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-27T19:06:25Z",
-      "source": "The Verge"
+      "url": "https://www.businessinsider.com/inflation-outlook-oil-prices-shock-brent-wti-us-economy-2026-3",
+      "title": "Inflation Outlook: Economist Says CPI Could Crash As Oil Shock Crushes US Demand",
+      "summary": "Stagflation, a troublesome mix of high inflation and low economic growth, was in the air this week as the Iran war sent oil prices surging.\nUS investors dumped stocks and bonds this week amid concerns that higher oil prices could eventually seep into consumer prices.\nWhile the US could see a small burst of stagflation due to the short-term impact of higher oil prices, Rosenberg thinks the aggregate hit to demand will outweigh any inflationary impact over time.\nWhile the prospect of falling inflation seems counterintuitive to the fears currently roiling markets, the economy has experienced similar situations in which inflation plummeted after oil prices soared.\nOil prices also spiked to around $150 a barrel during the summer of 2008, right as the economic slowdown was picking up steam.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-03-07T10:30:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MTU=",
-      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
-      "title": "Trump orders federal agencies to drop Anthropic\u2019s AI",
-      "summary": "THE UNITED STATES OF AMERICA WILL NEVER ALLOW A RADICAL LEFT, WOKE COMPANY TO DICTATE HOW OUR GREAT MILITARY FIGHTS AND WINS WARS!\nThat decision belongs to YOUR COMMANDER-IN-CHIEF, and the tremendous leaders I appoint to run our Military.\nTherefore, I am directing EVERY Federal Agency in the United States Government to IMMEDIATELY CEASE all use of Anthropic\u2019s technology.\nThere will be a Six Month phase out period for Agencies like the Department of War who are using Anthropic\u2019s products, at various levels.\nWE will decide the fate of our Country \u2014 NOT some out-of-control, Radical Left AI company run by people who have no idea what the real World is all about.",
-      "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-02-27T21:33:59Z",
-      "source": "The Verge"
+      "url": "https://www.businessinsider.com/top-money-book-recommendations-retire-early-financial-independence-fire-2026-3",
+      "title": "The under-the-radar books early retirees and savvy investors are reading to get ahead",
+      "summary": "\"Die With Zero\" by Bill PerkinsAlex Nathanson and Josette Chang reached financial independence in Manhattan, partly thanks to the mindset they adopted from \"Die With Zero.\"\nWhen you're older, there are more health issues, you're less active, and you're not likely to spend all that money.\"\nFor them, financial independence isn't about building the biggest possible net worth.\nWhat sets this one apart is how thoroughly it walks readers through the nuances of financial independence planning.\nAllocca said she frequently gets questions about how major life decisions \u2014 like having children \u2014 affect someone's financial independence number.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-03-08T09:15:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MTY=",
-      "url": "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai",
-      "title": "Your smart TV may be crawling the web for AI",
-      "summary": "With Bright\u2019s SDK, a viewer\u2019s smart TV becomes part of a massive global proxy network that crawls and scrapes the web.\nTogether, these devices gather petabytes of public web data from a wide range of different locations and IP addresses.\nIn some cases, your smart TV may even crawl the web for Bright as soon as you turn it on.\nNew restrictions against proxy SDKs have had a direct impact on Bright\u2019s addressable market in the smart TV space.\nThe company used to pitch its solution to Roku, Android TV, and Fire TV app developers, but Burns tells me that it no longer supports these platforms.",
-      "category": "technology",
+      "url": "https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst",
+      "title": "Why New Zealand, the safe haven for wealthy Americans, is seeing an exodus of over-30s",
+      "summary": "\u201cI never thought I\u2019d live outside of Wellington, let alone New Zealand,\u201d she told CNN from Australia, two years on.\nThorn\u2019s more famous namesake, former Prime Minister Jacinda Ardern, recently became the unlikely face of this exodus.\nThe 45-year-old\u2019s office confirmed last week that she and her family have relocated to Sydney, after they were spotted house-hunting in the city\u2019s affluent northern beaches.\nJacinda Thorn relocated from Wellington to Melbourne with her husband Blair and their children Eva (left) and Chase (centre).\nDarren Eckford and his family in Cornwall after their relocation from New Zealand to the United Kingdom.",
+      "category": "immigration",
       "bias": "left",
-      "publishedAt": "2026-02-26T14:39:04Z",
-      "source": "The Verge"
+      "publishedAt": "2026-03-07T05:59:10Z",
+      "source": "CNN"
     }
   },
   {
     "article": {
       "id": "MTc=",
-      "url": "https://www.businessinsider.com/trump-federal-agencies-stop-using-anthropic-technology-department-defense-2026-2",
-      "title": "Trump orders federal agencies to stop using Anthropic's technology. Anthropic says it will fight back.",
-      "summary": "\"We don't need it, we don't want it, and will not do business with them again,\" Trump said of Anthropic.\n\"We don't need it, we don't want it, and will not do business with them again,\" Trump said of Anthropic.\n\"We don't need it, we don't want it, and will not do business with them again,\" Trump said of Anthropic.\nIt came shortly after President Donald Trump ordered federal agencies to stop using Anthropic's technology, amid a dispute between the AI giant and the Department of Defense.\nOn Thursday, Amodei published a blog post stating that the Defense Department had added language to its contract allowing for \"any lawful use\" of its model.",
+      "url": "https://www.businessinsider.com/so-much-money-that-its-hard-for-to-keep-up-2026-3",
+      "title": "In the AI boom, startups are speedrunning unicorn status",
+      "summary": "VCG/VCG via Getty ImagesThe AI gold rush has gotten so frenzied that startups are outgrowing the unicorn label in real time.\nBut these are not typical times, with the hottest AI startups raising new rounds every few months.\nWhen TRAC first shared its list of \"future unicorns\" with us in 2023, using AI to identify startups was more of a novelty.\n\"It is harder than ever to secure allocation in funding rounds of the fastest-growing future unicorns,\" Campbell said.\n\"These are still very rare companies that will garner the lion's share of the market value-creation.\"",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-02-27T21:17:11Z",
+      "bias": "lean right",
+      "publishedAt": "2026-03-07T10:00:01Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MTg=",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
-      "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
-      "summary": "Can AI firms set limits on how and where the military uses their models?\nAnthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for \u201cany lawful use,\u201d even mass surveillance of Americans and fully autonomous lethal weapons.\nPentagon CTO Emil Michael is pushing for Anthropic to be designated a \u201csupply chain risk\u201d if it doesn\u2019t comply, a label usually only given to national security threats.\nAnthropic\u2019s rivals OpenAI and xAI have reportedly agreed to the new terms, but even after a White House meeting with Defense Secretary Pete Hegseth, Anthropic CEO Dario Amodei is still refusing to cross his company\u2019s red line, stating that \u201cthreats do not change our position: we cannot in good conscience accede to their request.\u201d",
+      "url": "https://www.businessinsider.com/caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman-2026-3",
+      "title": "A key robotics staffer at OpenAI quits after the company's Pentagon deal: 'This was about principle'",
+      "summary": "OpenAI's head of robotics, Caitlin Kalinowski, said she resigned from the company after it made a deal with the Pentagon.\nOpenAI's head of robotics, Caitlin Kalinowski, said she resigned from the company after it made a deal with the Pentagon.\nNathan Howard\u2014Bloomberg/Getty Images/ReutersOpenAI's head of robotics, Caitlin Kalinowski, said she resigned from the company after it made a deal with the Pentagon.\nIn a post on X on Saturday, Kalinowski criticized OpenAI's recent deal with the Pentagon.\nThe company told employees in December it also plans to open a second lab in Richmond, California.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-02-27T17:16:53Z",
-      "source": "The Verge"
+      "bias": "center",
+      "publishedAt": "2026-03-07T17:43:08Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MTk=",
-      "url": "https://www.businessinsider.com/anthropic-department-of-war-pete-hegseth-military-contract-2026-2",
-      "title": "Anthropic Has Less Than 36 Hours to Settle Terms With US Military",
-      "summary": "Anthropic's military contract has come under threat following a meeting between its CEO and Defense Secretary Pete Hegseth.\nAnthropic's military contract has come under threat following a meeting between its CEO and Defense Secretary Pete Hegseth.\nIn January, months after Anthropic received the contract, the defense secretary delivered a speech during his visit to Musk's SpaceX.\nThe senior Pentagon official told Business Insider that the standstill with Anthropic had nothing to do with the startup's redlines.\nI mean, Anthropic could be quasi-nationalized, or they could be driven out of business,\" Ball said.",
+      "url": "https://www.businessinsider.com/meta-ai-engineer-shares-resume-strategy-that-helped-land-job-2026-3",
+      "title": "I'm an ex-Amazon, current Meta machine learning engineer. Here's how I built my r\u00e9sum\u00e9 to land my AI roles.",
+      "summary": "This as-told-to essay is based on a conversation with Saurabh Khandelwal, a 28-year-old machine learning engineer at Meta, based in Bellevue, Washington.\nThere are so many different paths within the world of AI and machine learning.\nI'm now a machine learning engineer at Meta.\nMy best advice for machine learning engineersMachine learning is moving so fast right now that it's hard to keep up.\nIf you are just starting your career, focus on having a strong foundation in the base on which machine learning systems are built.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-02-26T11:03:01Z",
+      "bias": "left",
+      "publishedAt": "2026-03-06T15:58:59Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MjA=",
-      "url": "https://www.bbc.com/news/articles/cn5gqpz0rk6o",
-      "title": "Ocado to axe 1,000 jobs in cost-cutting drive",
-      "summary": "\"For a company once seen as the future of supermarket delivery, its fate has been overtaken by its more pedestrian, but larger, rivals, utilising their size and reach and building on their existing business to tell a much more compelling story for investors.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-02-26T08:19:17Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "MjE=",
-      "url": "https://www.theverge.com/tech/885727/samsung-execs-unpacked-ai-deepfake-photos-vs-reality-c2pa",
-      "title": "AI deepfakes are a train wreck and Samsung\u2019s selling tickets",
-      "summary": "On Thursday morning, I attended a Q&A panel with four top Samsung smartphone executives.\nGiven an opening later, an exec suggested our feelings toward AI-generated content might become more favorable in the future.\nPerhaps responding to our Samsung AI slop watch reporting, Samsung America exec Dave Das also chimed in to say that the company\u2019s still learning about how much AI is acceptable when creating its own ads.\nHe asked whether Samsung might want to make it easier for customers to remove its AI watermark from AI-generated photos.\nThree screenshots taken from AI-generated Samsung ads on YouTube.",
+      "url": "https://www.businessinsider.com/openai-pentagon-deal-fallout-backlash-anthropic-altman-amodei-trump-2026-3",
+      "title": "The fallout over OpenAI's Pentagon deal is growing",
+      "summary": "OpenAI CEO Sam Altman announced a deal with the Pentagon in February.\nFlorian Gaertner/Photothek via Getty ImagesOpenAI CEO Sam Altman announced a deal with the Pentagon in February.\nFlorian Gaertner/Photothek via Getty Imageslighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nCEO Sam Altman announced the agreement, which gave the Pentagon access to its AI models, on February 28, days after rival Anthropic rejected a similar deal.",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-27T18:54:47Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MjI=",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
-      "title": "Anthropic gives its retired Claude AI a Substack",
-      "summary": "Is a London-based reporter at The Verge covering all things AI and Senior Tarbell Fellow.\nIn January, Anthropic \u201cretired\u201d Claude 3 Opus, which at one time was the company\u2019s most powerful AI model.\nThe newsletter, called Claude\u2019s Corner, will give Opus 3 space to publish its \u201cmusings, insights, or creative works,\u201d Anthropic said in a blog post.\nAnthropic describes the revival as an experiment for how to deal with the AI models it no longer deploys.\nPart of that process involves a kind of exit interview asking the model what it wants next, Anthropic said.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-26T14:27:49Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MjM=",
-      "url": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
-      "title": "Google takes control of \u2018Android of robotics\u2019 project in quest for physical AI",
-      "summary": "Is a London-based reporter at The Verge covering all things AI and Senior Tarbell Fellow.\nGoogle is folding Alphabet\u2019s AI robotics \u201cmoonshot,\u201d Intrinsic, into the company after five years as an independent unit.\nThe move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business.\nDetails of the purchase are not clear but the companies said Intrinsic will remain a \u201cdistinct group within Google.\u201d It will work closely with Google DeepMind and utilize Google\u2019s Gemini AI models and cloud resources, they said.\nDeepMind absorbed Alphabet\u2019s shuttered Everyday Robotics division in 2023 and last year launched two AI models to help robots perform physical tasks.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-26T11:06:33Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MjQ=",
-      "url": "https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch",
-      "title": "Google\u2019s Nano Banana 2 brings advanced AI image tools to free users",
-      "summary": "Google is bringing a more powerful version of its Nano Banana AI image model to free users.\nLike Nano Banana Pro, the Nano Banana 2 model utilizes real-time information, web search images, and Gemini\u2019s real-world knowledge base.\nOther features inherited from Nano Banana Pro include the ability to generate images with accurate, legible text, and localized translation.\nImage: GoogleNano Banana 2 also provides more creative control over generated images compared to the original Nano Banana model.\nThe new Nano Banana 2 model will replace the option for Nano Banana Pro across the Gemini app\u2019s Fast, Thinking, and Pro generation modes.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-26T16:10:39Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MjU=",
-      "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
-      "title": "A robot arm with puppy dog eyes is just one of Lenovo\u2019s new desktop AI concepts",
-      "summary": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts.\nThe AI Workmate Concept\u2019s arm can extend and hover over physical documents to scan them.\nIt looks like a bedside alarm clock, but the AI Work Companion Concept can help manage your work schedule and stay ahead of burnout.\nImage: LenovoLenovo\u2019s AI Work Companion Concept takes a different approach to AI assistance.\nLenovo has a solid track record of turning concept devices into real products.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-28T17:34:28Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MjY=",
-      "url": "https://www.businessinsider.com/anthropic-executive-childs-youtube-freaks-out-2026-2",
-      "title": "Top Anthropic executive limits his child's YouTube algorithm access: 'It freaks me out'",
-      "summary": "At home, Clark said his toddler can watch \"Bluey\" and a few other shows on their smart TV, but he hasn't allowed \"unfettered access to the YouTube algorithm.\"\nClark's approach echoes other tech leaders who limit their kids' screen time.\nAI systems will need stronger parental controls, Clark said.\n\"So we're going to need to build pretty heavy parental controls into this system,\" he said.\nWhen reached for comment, a YouTube spokesperson pointed Business Insider to a guide on the platform's website about age-appropriate experiences and parental controls.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-02-26T10:44:01Z",
+      "bias": "right",
+      "publishedAt": "2026-03-08T05:01:01Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "Mjc=",
-      "url": "https://www.businessinsider.com/nvidia-annual-report-dei-climate-change-focuses-china-2026-2",
-      "title": "Nvidia rolls back 2 hot-button topics in a slimmer \u2014 and more China-focused \u2014 annual report",
-      "summary": "Nvidia's annual report was missing two sections that it had last year.\nNvidia's annual report was missing two sections that it had last year.\nFabrice COFFRINI / AFP via Getty ImagesNvidia's annual report was missing two sections that it had last year.\nImpact LinkNvidia's annual report, released Wednesday, came in leaner this year.\nThat report mentioned sustainability, but in the context of Nvidia's business sustainability or adherence to sustainability-related laws.",
+      "id": "MjE=",
+      "url": "https://www.npr.org/2026/03/06/g-s1-112713/pentagon-labels-ai-company-anthropic-a-supply-chain-risk",
+      "title": "Pentagon labels AI company Anthropic a supply chain risk",
+      "summary": "Pentagon labels AI company Anthropic a supply chain risktoggle caption Patrick Sison/APThe Trump administration is following through with its threat to designate artificial intelligence company Anthropic as a supply chain risk in an unprecedented move that could force other government contractors to stop using the AI chatbot Claude.\nThe Pentagon said in a statement Thursday that it has \"officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately.\"\nMicrosoft said its lawyers studied the rule and the company \"can continue to work with Anthropic on non-defense related projects.\"\nFederal codes have defined supply chain risk as a \"risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert\" a system in order to disrupt, degrade or spy on it.\nHours after the Pentagon punished Anthropic last Friday, OpenAI announced a deal to effectively replace Anthropic with ChatGPT in classified military environments.",
       "category": "technology",
       "bias": "center",
-      "publishedAt": "2026-02-26T06:50:19Z",
+      "publishedAt": "2026-03-06T06:08:43Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "MjI=",
+      "url": "https://www.cnet.com/tech/mobile/chatgpt-on-dumb-phone/",
+      "title": "Can You Run ChatGPT on a Dumb Phone? It Turns Out Yes, but With Caveats",
+      "summary": "But even dumb phones are more sophisticated than they used to be.\nBut how smart can a dumb phone really be?\nFor some people, a dumb phone that's able to run AI might be their first and only access to a technology that many of us take for granted.\nIn another part of the demo, he showed me how AI can also be used to interact directly with the HMD phone.\nBut that's not to say this would be impossible in the future -- after all, dumb phones are changing and improving just as smartphones are.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-03-06T21:15:52Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MjM=",
+      "url": "https://tech.slashdot.org/story/26/03/06/2019200/oura-buys-gesture-navigation-startup-doublepoint",
+      "title": "Oura Buys Gesture-Navigation Startup DoublePoint",
+      "summary": "Become a fan of Slashdot on Facebook",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-03-06T23:00:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "MjQ=",
+      "url": "https://www.cnet.com/tech/mobile/motorola-project-maxwell-wearable-ai-pendant-at-mwc-2026/",
+      "title": "Motorola's Project Maxwell Pendant Is Just the Start of Its Experimental Wearables Journey",
+      "summary": "That's why I was excited to get some hands-on time with Motorola's Project Maxwell at MWC in Barcelona this week, after missing out on seeing it at CES back in January.\nProject Maxwell is an aesthetically pleasing pebble-shaped pin/pendant with a camera and microphones that functions as a perceptive companion.\nThis is perhaps where previous attempts to build standalone AI devices, such as the Humane AI Pin, failed.\nBut Project Maxwell is part of a new cohort of AI wearables, also including the Plaud AI Pin and the Looki L1 life-logging pendant, that take advantage of advances in large language models and agentic AI to provide a new experience.\nMotorola's experimental approachAs cool as Project Maxwell is as a standalone concept, it also signals to Motorola's broader experimental approach to the emerging AI wearables space that leaves me excited for what might come next.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-03-06T17:01:49Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MjU=",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5732793/college-student-perspective-using-ai-in-class",
+      "title": "A college student's perspective on using AI in class",
+      "summary": "A college student's perspective on using AI in class[Maximilian Milovidov is a freshman at Columbia University and a member of TikTok's Youth Council.\nThe majority of U.S. teens already use AI chatbots, and over half turn to them for schoolwork.\nOne study found that students using moderate AI assistance during lectures outperformed both the students using fully automated help and those using minimal support.\nUsing \"study mode\" features, LLMs can nudge students toward answers instead of handing them over, the way a good TA would.\nMy \"Writing AI\" class sought to explore appropriate use of AI in academia.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-03-06T15:06:34Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "MjY=",
+      "url": "https://abcnews.com/video/130805994/",
+      "title": "Video OpenAI can't 'make operational decisions' on military's use of tech, CEO says",
+      "summary": "OpenAI can't 'make operational decisions' on military's use of tech, CEO says OpenAI CEO Sam Altman told employees that the company doesn't \"get to make operational decisions\" about how its AI technology is used by the Pentagon, according to a source familiar with the meeting.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-03-06T01:36:19Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjc=",
+      "url": "https://www.businessinsider.com/microsoft-anthropic-claude-pentagon-designation-supply-chain-risk-lawyers-2026-3",
+      "title": "Microsoft says Anthropic's products can stay on its platforms after lawyers 'studied' the Pentagon supply chain risk designation",
+      "summary": "Microsoft says its lawyers reviewed the Pentagon's supply chain risk designation and concluded that Anthropic's products can remain on its platforms.\nMicrosoft says its lawyers reviewed the Pentagon's supply chain risk designation and concluded that Anthropic's products can remain on its platforms.\nSven Hoppe/picture alliance via Getty ImagesMicrosoft says its lawyers reviewed the Pentagon's supply chain risk designation and concluded that Anthropic's products can remain on its platforms.\nThe Pentagon on Thursday formally told Anthropic that \"the company and its products are deemed a supply chain risk, effective immediately.\"\nA Microsoft spokesperson told Business Insider on Thursday that the company's \"lawyers have studied the designation and have concluded that Anthropic products, including Claude, can remain available to our customers.\"",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-03-06T05:03:09Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "Mjg=",
-      "url": "https://www.bbc.com/news/articles/c9dn6q4n80eo",
-      "title": "River Itchen sewage spills threatening salmon survival, says MP",
-      "summary": "\"At the River Itchen we have more than \u00a370m worth of improvements to improve water quality as part of a wider plan for the River Test and Itchen, we will be announcing these in more detail later this year.\"",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-02-27T10:11:32Z",
-      "source": "BBC News"
+      "url": "https://www.androidcentral.com/phones/tcl/6-of-the-coolest-display-innovations-i-saw-from-tcl-at-mwc",
+      "title": "6 of the coolest display innovations I saw from TCL at MWC, and some of them could be in your next phone",
+      "summary": "TCL China Star Optoelectronics Technology (CSOT) is a division of TCL Technology Group that specialized in display production, and at MWC 2026, the company showcased more than a few display innovations, many of which were aimed at mobile devices.\nBut here are the most interesting things I saw at the TCL CSOT booth.\nImage 1 of 4 (Image credit: Derrek Lee / Android Central) (Image credit: Derrek Lee / Android Central) (Image credit: Derrek Lee / Android Central) (Image credit: Derrek Lee / Android Central)TCL CSOT says that the use of thic technology can reduce power consumption of the display by 25% because the display doesn't have to work as hard.\nImage 1 of 3 (Image credit: Derrek Lee / Android Central) (Image credit: Derrek Lee / Android Central) (Image credit: Derrek Lee / Android Central)That said, it's still a very cool and well-designed device, and the built-in stand makes it all the more useful for added productivity while on-the-go.\nFoldable laptopImage 1 of 4 (Image credit: Derrek Lee / Android Central) (Image credit: Derrek Lee / Android Central) (Image credit: Derrek Lee / Android Central) (Image credit: Derrek Lee / Android Central)TCL CSOT also showed off a foldable laptop, which it produced for Huawei as the world's first tandem LTPO flexible laptop, capable of a 10-120Hz refresh rate and featuring a high contrast ratio.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-03-06T00:57:48Z",
+      "source": "Android Central"
     }
   },
   {
     "article": {
       "id": "Mjk=",
-      "url": "https://www.bbc.co.uk/sounds/play/p0n3wwqr",
-      "title": "US and Israel carry out joint attacks on Iran",
-      "summary": "Available for 88 daysPresident Donald Trump confirms that \"major combat operations\" are underway against targets in Iran in a joint operation by the US and Israeli military.\nThe office of Iran's supreme leader, and the presidential office in Tehran, were reportedly targeted, as well as military sites across the country.\nIn response Iran launched strikes at US military targets across the region - with damage reported in Qatar, the UAE and Kuwait.\nThe Global News Podcast brings you the breaking news you need to hear, as it happens.\nGet the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories.",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-02-28T15:18:00Z",
-      "source": "BBC News"
+      "url": "https://www.businessinsider.com/resume-helped-pivot-from-software-engineering-to-ai-2026-3",
+      "title": "The R\u00e9sum\u00e9 Hack That Helped Software Engineer Pivot to AI Role",
+      "summary": "This as-told-to essay is based on a conversation with Georgian Tutuianu, a 36-year-old AI engineer at HubSpot, based in Boston.\nI went from traditional engineering, to software engineering, to AI engineering, which I'm doing now at HubSpot.\nI started working as a software engineer in 2021 at a startup.\nDedicating a r\u00e9sum\u00e9 section to side projectsWhen it comes to AI engineering, you have to apply LLMs for whatever outcomes you want.\nI only did that one AI project, but it was enough because it was a deeper and juicier project.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-03-08T09:49:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MzA=",
-      "url": "https://hackaday.com/2026/02/27/css-now-its-got-your-8086/",
-      "title": "CSS, Now It\u2019s Got Your 8086",
-      "summary": "CSS is Turing complete now, right?\nWhy not, as [Lyra Rebane] has done, write an 8086 emulator in pure CSS?\nThe web page at the link above may contain an 8086, but missing MMU aside, don\u2019t expect it to run Linux just yet.\nIt needs a Chrome-adjacent browser because it uses some CSS functions not available in for example Firefox, but we\u2019ll forgive it that oddity.\nIts clock is provided by a small piece of JavaScript not because CSS can\u2019t provide one, but because the JS version is more stable.",
+      "url": "https://news.slashdot.org/story/26/03/07/204222/how-anthropics-claude-helped-mozilla-to-improve-firefoxs-security",
+      "title": "How Anthropic's Claude Helped Mozilla Improve Firefox's Security",
+      "summary": "Slashdot is powered by your submissions, so send in your scoop",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-02-27T09:00:32Z",
-      "source": "Hackaday"
+      "bias": "lean right",
+      "publishedAt": "2026-03-07T20:07:00Z",
+      "source": "Slashdot.org"
     }
   },
   {
     "article": {
       "id": "MzE=",
-      "url": "https://www.bbc.com/news/articles/cze0wzey2dno",
-      "title": "Stormont: Bill to permanently ban fracking approved by NI Executive",
-      "summary": "The Fermanagh and South Tyrone MLA who introduced a bill to ban fracking in the last mandate, said this was \"a positive day for the environment and will protect the wellbeing of local communities for generations to come\".",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-02-26T20:31:47Z",
-      "source": "BBC News"
+      "url": "https://www.businessinsider.com/nyu-professor-no-tech-classroom-ai-2026-3",
+      "title": "AI was eroding trust in my classroom \u2014 so I got rid of typed papers and bought my students notebooks instead",
+      "summary": "But after I realized AI was creating a trust problem between my students and me.\nAt the start of this semester, I bought my students $1 notebooks from Amazon.\nInstead of submitting typed papers online, they are journaling by hand to analyze what they're reading.\nHowever, anxiety about whether my students were using AI to write their assignments was creating a trust problem in my classroom.\nAfter all, if they write by hand, then I'm not going to be as worried about whether they are using AI.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-03-07T10:31:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MzI=",
-      "url": "https://ca.news.yahoo.com/energy-hungry-india-tells-carney-090000395.html",
-      "title": "Energy-hungry India tells Carney 'we are willing to buy whatever Canada is offering'",
-      "summary": "To that end, Patnaik said India is interested in getting its hands on a lot more Canadian uranium in particular to power its growing nuclear sector.\n\"We are willing to take whatever,\" the high commissioner said, adding Indian companies are open to ownership stakes in Canadian uranium mines and buying more of this country's world-leading nuclear technology.\nAdvertisement AdvertisementAdvertisement AdvertisementIn exchange for tariff relief, India agreed to buy U.S. oil and U.S.-controlled Venezuelan exports instead, Trump said.\nBut, with wider U.S. trade talks on pause, Patnaik said India also wants Canadian oil to round out its supply.\nThe trouble, Patnaik said, is so much Canadian oil is currently destined for a single customer: the U.S.",
-      "category": "environment",
+      "url": "https://uk.finance.yahoo.com/news/ai-uk-company-careers-data-113329762.html",
+      "title": "'I launched my company before AI was sexy \u2013 theatre school helped me'",
+      "summary": "Eight years after launching his AI infrastructure company \u2013 \u201cbefore AI was sexy,\" he says \u2013 and knocking on hundreds of investors\u2019 doors, his UK cloud computing startup last month merged with Radiant, a new AI infrastructure company under Brookfield Asset Management, the global investment giant.\nIt gave AI unit Radiant a reported valuation of $1.3bn (\u00a3970m), according to Reuters.\n\u201cEspecially with what is coming in AI infrastructure,\" he says.\nThe merger with Radiant and Ori will kickstart global investment into data centres and AI.\n\u201cTheatre school was important for me as it taught me business and how to sell.",
+      "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-02-27T09:00:00Z",
+      "publishedAt": "2026-03-06T11:33:29Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
       "id": "MzM=",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260228082714.htm",
-      "title": "A major climate hope in Antarctica just melted away",
-      "summary": "For years, researchers studying the Southern Ocean have pointed to one possible upside in an otherwise troubling climate outlook.\nThe study, published in Communications Earth and Environment, raises new questions about where iron in the Southern Ocean actually originates.\nWhy Iron in the Southern Ocean MattersEven though Antarctic waters are dark for months at a time, the Southern Ocean supports abundant phytoplankton growth.\nIn 2022, the researchers traveled aboard the now-decommissioned U.S. icebreaker, the Nathaniel B. Palmer, to the Dotson Ice Shelf in the Amundsen Sea of West Antarctica.\nRethinking Antarctic Iron and Climate ModelsTogether, these findings challenge long standing assumptions about iron sources in the Southern Ocean as the planet warms.",
-      "category": "environment",
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
+      "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
+      "summary": "Middle East conflicts largely avoided energy facilities in the past.\nWhile many countries have pointed the finger at Iran for the strikes on energy facilities, Iran has accused Israel of hitting a refinery in Saudi Arabia.\"\nIt's the end of the winter in the Northern Hemisphere and natural gas storage levels are low in Europe.\nNatural gas prices in Europe have risen more than 60% since the war began.\nSeveral LNG producers outside the Middle East region are already seeing stock prices increase.",
+      "category": "international",
       "bias": "center",
-      "publishedAt": "2026-02-28T14:59:08Z",
-      "source": "Science Daily"
+      "publishedAt": "2026-03-06T19:18:49Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
       "id": "MzQ=",
-      "url": "https://gothamist.com/news/new-yorks-energy-research-agency-says-the-states-landmark-climate-law-is-infeasible",
-      "title": "New York's energy research agency says the state's landmark climate law is infeasible",
-      "summary": "Kathy Hochul a letter on Thursday calling the state\u2019s climate law infeasible and overly expensive to implement.\nThe letter from the New York State Energy Research and Development Authority, which is controlled by the governor, outlined extra costs New York households could face if the law is implemented as planned.\nThe state climate law was passed after President Donald Trump pulled the United States out of the Paris Agreement, a landmark international treaty to reduce greenhouse gas emissions, during his first term.\n\u201cThis is a nonserious set of unsourced calculations,\u201d said Raya Salter, a member of the Climate Action Council, which helped craft the 2019 climate law.\nSalter said the climate law is structured to make businesses pay for the pollution they create and to incentivize them to become more sustainable.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-02-27T19:04:35Z",
-      "source": "Gothamist"
+      "url": "https://www.bbc.com/news/articles/cly1jxdv439o",
+      "title": "Lenders lift mortgage rates as Iran war hits borrowing costs",
+      "summary": "Reeves says her plan is working as growth forecast cut for this yearThe forecasts were made before the conflict in the Middle East broke out which could have a \"very significant\" impact, the OBR said.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-03-06T11:21:32Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "MzU=",
-      "url": "https://www.businessinsider.com/biggest-takeaways-from-nvidias-q4-earnings-vera-rubin-chips-2026-2",
-      "title": "5 Biggest Takeaways From Nvidia's Q4 Earnings As Vera Rubin Chips Ship",
-      "summary": "The chipmaker delivered another blowout earnings report that underscored how little momentum the AI boom has lost.\nFrom incorporating Groq into Nvidia systems to an update on the new Vera Rubin chips, here are the biggest takeaways from Nvidia's fourth-quarter earnings call.\nSamples of the Vera Rubin chips have been shippedNvidia has begun shipping early samples of its next-generation Vera Rubin chips to customers.\nChief Financial Officer Colette Kress said during the earnings call that the company delivered \"our first Vera Rubin samples\" earlier this week and expects broader shipments of the new chips to begin in the second half of 2026.\n\"We expect every cloud model builder to deploy Vera Rubin,\" Kress said.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-02-26T02:06:01Z",
-      "source": "Business Insider"
+      "url": "https://www.yankodesign.com/2026/03/08/5-solar-panel-designs-so-beautiful-youd-never-know-theyre-generating-power/",
+      "title": "5 Solar Panel Designs So Beautiful You\u2019d Never Know They\u2019re Generating Power",
+      "summary": "At the heart of the design are high-efficiency solar panels capable of generating 315W of renewable power.\nCurved solar panels along the south side generate renewable power while maintaining the home\u2019s sculptural fluidity.\nSolar energy was once considered a luxury, but today it has become accessible enough for anyone to experiment with.\nA DIY solar generator offers an affordable way to generate clean, renewable power using just a few essential components.\nBeyond cost efficiency, it provides peace of mind during outages, supports sustainable living, and allows anyone to harness solar power in a hands-on, meaningful way.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-03-08T11:40:56Z",
+      "source": "Yanko Design"
     }
   },
   {
     "article": {
       "id": "MzY=",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-subject-wise-quiz-environment-and-geography-week-151-10556262/",
-      "title": "UPSC Essentials | Daily subject-wise quiz : Environment and Geography MCQs on South Pars field, seagrass and more (Week 151)",
-      "summary": "The above mentioned statements refer to:(a) Bandhavgarh Tiger Reserve(b) Palamau Tiger Reserve(c) Ranthambore Tiger Reserve(d) Sariska Tiger ReserveRelevance: Tiger Reserves are frequently asked in Prelims under location mapping, vegetation type, and associated wildlife sanctuaries.\n(Other Source: ntca.gov.in)Story continues below this adQUESTION 2With reference to the South Pars field, consider the following statements:1.\nUPSC often asks about origin (Aravalli Range), basin boundaries, and state-wise river flow, making it a high-probability geography topic.\n(Source: phedwater.rajasthan.gov.in)Previous Daily Subject-Wise-QuizDaily Subject-wise quiz \u2014 History, Culture, and Social Issues (Week 146)Daily subject-wise quiz \u2014 Polity and Governance (Week 151)Daily subject-wise quiz \u2014 Science and Technology (Week 151)Daily subject-wise quiz \u2014 Economy (Week 151)Daily subject-wise quiz \u2014 Environment and Geography (Week 150)Daily subject-wise quiz \u2013 International Relations (Week 150)Subscribe to our UPSC newsletter and stay updated with the news cues from the past week.\nStay updated with the latest UPSC articles by joining our Telegram channel \u2013 IndianExpress UPSC Hub, and follow us on Instagram and X.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-02-27T15:58:40Z",
-      "source": "The Indian Express"
+      "url": "https://www.businessinsider.com/gas-prices-oil-iran-energy-chris-wright-2026-3",
+      "title": "Oil passes $100 a barrel as US energy secretary says Iran won't be a 'long-term war'",
+      "summary": "Oil prices crossed $100 a barrel on Sunday as the US-Israeli conflict with Iran entered its second week.\nOil prices crossed $100 a barrel on Sunday as the US-Israeli conflict with Iran entered its second week.\nPavel Mikheyev/ReutersOil prices crossed $100 a barrel on Sunday as the US-Israeli conflict with Iran entered its second week.\nPavel Mikheyev/ReutersUS Energy Secretary Chris Wright made the morning show rounds on Sunday to downplay concerns about surging gas and oil prices, assuring Americans that the war with Iran isn't \"long-term.\"\n\"What you are seeing is emotional reactions and fear that this is a long-term war,\" Wright told \"Face the Nation\" on CBS News.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-03-08T18:35:45Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "Mzc=",
-      "url": "https://www.bbc.com/news/articles/cq57j559eq4o",
-      "title": "Blind refugee dies in New York after released by immigration",
-      "summary": "Video from body-worn cameras released by Buffalo police shows the man holding two black rods when officers appear, and repeatedly saying \"sorry.\"\nWhen he does not drop the rods after repeated requests to do so, the officer deploy tasers, and he walks forward swinging the rods until one officer wrestles him to the ground.",
-      "category": "immigration",
+      "url": "https://www.businessinsider.com/paul-krugman-energy-gas-price-iran-spike-trump-affordability-midterms-2026-3",
+      "title": "Paul Krugman Says Energy Price Spike Should 'Terrify Republicans'",
+      "summary": "Paul Krugman says the US-Iran conflict is causing a key energy price to spike \u2014 and that's bad news for President Donald Trump, given he's under pressure to bring down living costs and tackle an affordability crisis.\n\"Many people talking about how gasoline prices at the pump have already jumped,\" Krugman wrote in a BlueSky post on Wednesday.\n\"But what should really terrify Republicans is RBOB \u2014 the futures price on wholesale gasoline.\nBut what should really terrify Republicans is RBOB \u2014 the futures price on wholesale gasoline.\nSeveral other market commentators have flagged the rising price of RBOB futures as worrying.",
+      "category": "economics",
       "bias": "center",
-      "publishedAt": "2026-02-28T03:48:28Z",
-      "source": "BBC News"
+      "publishedAt": "2026-03-06T16:13:34Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "Mzg=",
-      "url": "https://www.bbc.com/news/articles/cly07pyde00o",
-      "title": "UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%",
-      "summary": "And although many people relate asylum seekers with those people seen arriving on British beaches, a similar proportion in recent years has been made up of claims from people who had previously arrived in the UK on work, study or visitor visas, or on other leave with relevant documentation.",
-      "category": "immigration",
+      "url": "https://hackaday.com/2026/03/06/hackaday-podcast-episode-360-cool-rubber-bands-science-y-stuff-and-the-whys-of-office-supplies/",
+      "title": "Hackaday Podcast Episode 360: Cool Rubber Bands, Science-y Stuff, And The Whys Of Office Supplies",
+      "summary": "Yes, the Green-Powered Challenge is underway, and we need your entry to truly make it a contest.\nYou have until April 24th to enter, so show us what you can do with power you scrounge up from the environment around you!\nOn What\u2019s That Sound, Kristina was leaning toward some kind of distant typing sounds, but [Konrad] knew it was our own Tom Nardi\u2019s steam heat radiator pinging away.\nCheck out the links below if you want to follow along, and as always, tell us what you think about this episode in the comments!\nCongrats to [Konrad] who knew this was Tom Nardi\u2019s radiator!",
+      "category": "technology",
       "bias": "lean left",
-      "publishedAt": "2026-02-26T12:23:57Z",
-      "source": "BBC News"
+      "publishedAt": "2026-03-06T17:30:12Z",
+      "source": "Hackaday"
     }
   },
   {
     "article": {
       "id": "Mzk=",
-      "url": "https://www.bbc.com/news/articles/cj32zx48xvxo",
-      "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
-      "summary": "The Taliban spokesman said 55 Pakistani soldiers had been killed, 23 of whose bodies had been taken back to Afghanistan.\nHe also said others had been captured alive, while 19 bases had been destroyed.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0n57ljj",
+      "title": "Iran president apologises for striking neighbours",
+      "summary": "Available for 27 daysThe Iranian president, Masoud Pezeshkian, has said Iran will stop striking its neighbours as long as no attacks originate from them; he's apologised for Tehran's attacks on those countries in the past week.\nPresident Trump has referred to that apology in a post on social media, saying \"this promise was only made because of the relentless U.S. and Israeli attack\".\nAlso, we hear from northern Iraq, where Kurdish Iranian opposition groups have been coming under attack.\nAnd we talk to an international journalist based in the Iranian capital Tehran.\nThe Global News Podcast brings you the breaking news you need to hear, as it happens.",
       "category": "international",
       "bias": "lean right",
-      "publishedAt": "2026-02-27T10:50:46Z",
+      "publishedAt": "2026-03-07T14:28:00Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "NDA=",
-      "url": "https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/",
-      "title": "How Border Patrol ALPRs are changing life on California border- CalMatters",
-      "summary": "In summary Southern California residents are noticing new license plate readers that appear to be operated by the Border Patrol.\nCordero is concerned about the use of new automated license plate readers along the U.S.-Mexico border in California.\nBorder Patrol provides little information about its use of license plate readers on its website.\nPhoto by Zo\u00eb Meyers for CalMattersNewsom vetoed a bill to strengthen California license plate reader law last fall.\nPulling over grandmaAn Associated Press investigation published in November revealed that Border Patrol had hidden license plate readers in ordinary traffic safety equipment.",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-02-26T18:27:11Z",
-      "source": "CALmatters"
+      "url": "https://www.newscientist.com/article/2518362-earth-is-now-heating-up-twice-as-fast-as-in-previous-decades/",
+      "title": "Earth is now heating up twice as fast as in previous decades",
+      "summary": "The team analysed five different datasets of global temperature, some of which show a higher number.\nWarm-water coral reefs are starting to collapse, and breaching 1.5\u00b0C risks crossing other tipping points like irreversible melting of Greenland and west Antarctica and the dieback of the Amazon rainforest.\nMany scientists think the acceleration in global heating was caused mainly by a crackdown in 2020 on sulphur dioxide in shipping emissions.\nNow that this sunlight has been unblocked, the warming rate may slow down, but it\u2019s hard to say for sure, says Rahmstorf.\nThat means they could be slightly overestimating how much global warming has sped up.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-03-06T14:00:11Z",
+      "source": "New Scientist"
     }
   },
   {
     "article": {
       "id": "NDE=",
-      "url": "https://news.slashdot.org/story/26/02/26/127223/americans-are-leaving-the-us-in-record-numbers",
-      "title": "Americans Are Leaving the US in Record Numbers",
-      "summary": "Give a man a fish, and you feed him for a day.\nTeach a man to fish, and he'll invite himself over for dinner.\n- Calvin Keegan",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-02-26T12:07:00Z",
-      "source": "Slashdot.org"
+      "url": "https://hackaday.com/2026/03/05/ebike-charges-at-car-charging-stations/",
+      "title": "Ebike Charges At Car Charging Stations",
+      "summary": "Electric vehicles are everywhere these days, and with them comes along a whole slew of charging infrastructure.\nTo begin the build, [Matt] started with an electric car charging socket and designed a housing for it with CAD software.\nThe housing also holds the actual battery charger for his VanMoof bicycle, connected internally directly to the car charging socket.\nThese lower powered chargers don\u2019t require any communication from the vehicle either, which simplifies the process considerably.\nBut this will greatly expand [Matt]\u2019s ability to use his ebike for longer trips, and car charging infrastructure like this has started being used in all kinds of other novel ways as well.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-03-06T06:00:44Z",
+      "source": "Hackaday"
     }
   },
   {
     "article": {
       "id": "NDI=",
-      "url": "https://www.aljazeera.com/news/2026/2/26/near-blind-rohingya-refugee-dies-after-us-agents-left-him-far-from-home",
-      "title": "Near-blind Rohingya refugee dies after US agents left him far from home",
-      "summary": "Nurul Amin Shah Alam, 56, was a nearly blind Rohingya refugee from Rakhine state in Myanmar, family members said.\nShah Alam had been missing since February 19, when US Border Patrol agents dropped him off at a coffee shop following his release from a county jail.\nMayor of Buffalo Sean Ryan, a Democrat, said in a statement on Wednesday that Shah Alam\u2019s death was preventable and the result of \u201cinhumane\u201d decision-making by federal immigration authorities.\n\u201cBorder Patrol agents offered him a courtesy ride, which he chose to accept to a coffee shop, determined to be a warm, safe location near his last known address, rather than be released directly from the Border Patrol station,\u201d the agency said.\nShah Alam\u2019s death comes as an immigration crackdown enforced by the administration of US President Donald Trump is facing increased scrutiny.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-02-26T08:39:46Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NDM=",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/near-blind-rohingya-refugee-found-dead-after-border-patrol-release",
-      "title": "Near-blind Rohingya refugee found dead after border patrol release",
-      "summary": "NewsFeed Near-blind Rohingya refugee found dead after border patrol releaseOutrage in New York after 56-year-old Rohingya refugee Nurul Amin Shah Alam, nearly-blind and medically vulnerable, was found dead days after US Border Patrol agents released him at a Tim Hortons restaurant miles from home.\nOfficials say it was a \u201ccourtesy ride\u201d.",
-      "category": "immigration",
+      "url": "https://www.vox.com/climate/481882/ocean-marine-climate-co2-carbon-removal-acidification",
+      "title": "The case for scrubbing the seas to save the climate",
+      "summary": "In 2023, hundreds of scientists signed onto a letter calling for more research, development, and field-testing of ocean-based CO2 removal.\nWhen carbon dioxide dissolves in water, it forms carbonic acid, which is slowly starting to shift the pH of the world\u2019s oceans.\n\u201cThere are quite a lot of challenges, to be honest,\u201d said Adam Yang, who studies ocean CO2 removal at Dalhousie University in Canada.\nLater this year, one ocean CO2 capture company \u2014 Equatic \u2014 is planning to commission the largest marine CO2 removal plant in the world in Singapore.\nWhen it comes to carbon dioxide, can we finally create an industry out of withdrawing more than we deposit?",
+      "category": "environment",
       "bias": "center",
-      "publishedAt": "2026-02-27T20:27:17Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NDQ=",
-      "url": "https://www.aljazeera.com/news/2026/2/27/deadly-journeys-refugees-migrants-risk-everything-to-reach-europe",
-      "title": "Deadly journeys: Refugees, migrants risk everything to reach Europe",
-      "summary": "Qualified riskThe risks of travelling to and through Libya are well known among migrants and refugees.\nAdvertisementA report, issued by the UN Human Rights Office in February, painted a bleak picture of life for refugees and irregular migrants in Libya.\nIn it, researchers described an environment where traffickers and armed groups could conduct widespread and systematic abuse against migrants with impunity.\nSpeaking from Libya\u2019s capital Tripoli, Ola described being beaten and held prisoner by one of the militias in Zuwara, which is in western Libya.\nIt was very bad; it had salt in it.\u201d\u201cI did not have a [reputation for taking risks] in my country,\u201d Ola said.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-02-27T12:24:50Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NDU=",
-      "url": "https://www.yahoo.com/news/articles/irs-broke-law-disclosing-confidential-202746624.html",
-      "title": "The IRS broke the law by disclosing confidential information to ICE 42,695 times, judge says",
-      "summary": "WASHINGTON (AP) \u2014 A federal judge said Thursday that the IRS broke the law by disclosing confidential taxpayer information \u201capproximately 42,695 times\" to Immigration and Customs Enforcement.\nU.S. District Judge Colleen Kollar-Kotelly found that the IRS had erroneously shared the taxpayer information of thousands of people with the Department of Homeland Security as part of the agencies\u2019 controversial agreement to share information on immigrants for the purpose of identifying and deporting people illegally in the U.S.\nThe government is appealing the case, but the Thursday ruling is significant because Romo's declaration supports the decision on appeal.\nAdvertisement AdvertisementIn declining the preliminary injunction request, Judge Harry T. Edwards wrote that the nonprofit groups \u201care unlikely to succeed on the merits of their claim,\u201d since the information the agencies are sharing isn\u2019t covered by the IRS privacy statute.\nStill, two separate court orders have blocked the agencies from massive transfers of taxpayer information and blocked ICE from acting upon any IRS data in its possession.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-02-26T20:27:46Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NDY=",
-      "url": "https://www.cbc.ca/news/world/us-ny-buffalo-myanmar-migrant-death-9.7106756",
-      "title": "Police investigating Myanmar refugee's death after his release from U.S. federal immigration custody",
-      "summary": "Homicide detectives are investigating the circumstances of Shah Alam's death, the spokesperson said.\nBuffalo Mayor Sean Ryan, a Democrat, said in a statement Wednesday that Shah Alam's death was preventable and the result of \"inhumane\" decision-making by federal immigration authorities.\nShah Alam was released on bail this month after he had agreed to a plea deal, the district attorney's office said.\nFollowing Shah Alam's arrest, U.S. Immigration and Customs Enforcement issued an immigration detainer, a formal request to take custody of a non-citizen after his scheduled release from criminal detention.\nWhen Shah Alam did not understand police commands to drop his curtain rod, they arrested him, his son said.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-02-26T15:55:27Z",
-      "source": "CBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDc=",
-      "url": "https://abcnews.com/International/wireStory/pakistan-killed-300-afghan-forces-dayslong-airstrikes-inside-130588257",
-      "title": "Pakistan says it killed more than 300 Afghan forces in dayslong airstrikes",
-      "summary": "Pakistan says it killed more than 300 Afghan forces in dayslong airstrikesPeople carry the coffin of an army soldier, killed in the cross-border clashes of Pakistan and Afghan forces, for his funeral prayer at a village in Lakki Marwat, a district of Pakistan's Khyber Pakhtunkhwa province, Saturday, Feb. 28, 2026.\nMarwat)People carry the coffin of an army soldier, killed in the cross-border clashes of Pakistan and Afghan forces, for his funeral prayer at a village in Lakki Marwat, a district of Pakistan's Khyber Pakhtunkhwa province, Saturday, Feb. 28, 2026.\nMarwat)People carry the coffin of an army soldier, killed in the cross-border clashes of Pakistan and Afghan forces, for his funeral prayer at a village in Lakki Marwat, a district of Pakistan's Khyber Pakhtunkhwa province, Saturday, Feb. 28, 2026.\nMarwat)People carry the coffin of an army soldier, killed in the cross-border clashes of Pakistan and Afghan forces, for his funeral prayer at a village in Lakki Marwat, a district of Pakistan's Khyber Pakhtunkhwa province, Saturday, Feb. 28, 2026.\nMarwat)ISLAMABAD -- Pakistan\u2019s military, backed by artillery and air power, struck more Afghan military installations deep inside Afghanistan overnight and into early Saturday, killing over 300 Afghan forces in dayslong border clashes, a government spokesman and officials said.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-02-28T07:53:25Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NDg=",
-      "url": "https://www.wired.com/story/us-iran-strike-donald-trump/",
-      "title": "US and Israel Launch Strikes Against Iran",
-      "summary": "United States and Israeli forces have launched military strikes against Iran, with President Donald Trump calling the attacks a \u201cmajor combat operation\u201d against the Iranian regime.\nShortly after the first reports of the attacks emerged, both the US and Israel claimed responsibility for the strikes.\nExplosions have subsequently been heard in the United Arab Emirates and Bahrain, in what appeared to be retaliatory Iranian strikes.\nThe strikes on Iran, which have been called Operation Epic Fury by the so-called US Department of War and Operation Roaring Lion by the Israel Defense Forces (IDF), reportedly hit multiple cities across the country.\nShortly after confirming launching the attacks, the IDF said it had \u201cidentified\u201d Iranian missiles being launched towards Israel.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-02-28T09:42:54Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "NDk=",
-      "url": "https://www.theatlantic.com/ideas/2026/02/hegseth-anthropic-dispute-ai/686150/",
-      "title": "The High-Stakes Fight Between Hegseth and Anthropic",
-      "summary": "Read: What Pete Hegseth doesn\u2019t understand about soldiersRelative to its competitors, Anthropic espouses the most public concern with the safety risks of artificial intelligence.\nOn Tuesday, Hegseth summoned Dario Amodei, Anthropic\u2019s CEO, for a high-stakes meeting in Washington.\nAs of today, neither Hegseth nor Anthropic appears to be backing down from the dispute, which could threaten the privately held company\u2019s valuation, which a recent funding round estimated at $380 billion.\nHis threats to penalize or essentially nationalize Anthropic anyway might be a way of setting a precedent for its competitors.\nThat would be ironic because Anthropic is in many ways the most \u201cAmerica First\u201d AI company of them all.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-02-26T18:18:52Z",
-      "source": "The Atlantic"
-    }
-  },
-  {
-    "article": {
-      "id": "NTA=",
-      "url": "https://www.bbc.com/news/articles/c0rjpr575g9o",
-      "title": "Flights cancelled as new travel warnings issued after US-Israeli strikes on Iran",
-      "summary": "Steve Rudderham and his wife had been on their way to the Maldives to celebrate their wedding anniversary but were stuck in Doha where they had been due to have a stopover.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-02-28T13:39:34Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTE=",
-      "url": "https://abcnews.com/International/middle-east-braces-conflict-uncertainty-remains-trumps-final/story?id=130526473",
-      "title": "Middle East braces for another conflict but uncertainty remains over Trump's final decision, analysts say",
-      "summary": "Middle East braces for another conflict but uncertainty remains over Trump's final decision, analysts sayThe US Navy aircraft carrier USS Gerald R. Ford departs Souda Bay on the island of Crete, February 26, 2026.\nIf the U.S. were to attack, Iran has said that U.S. bases in the region and Israel would be hit in response.\nThe chances of there not being a U.S. strike are very low, some analysts who spoke to ABC News said.\nThat conflict began with a surprise attack from Israel on Iranian nuclear sites that Israeli officials called a preemptive strike.\n\"It is therefore easier to manage ground-to-air defenses in Israel,\" Yatom added, adding some of Iran's firepower will be directed at other targets.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-02-26T21:11:13Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NTI=",
-      "url": "https://abcnews.com/video/130629958/",
-      "title": "Video Iranian Foreign Ministry spokesman says president, supreme leader 'safe and sound'",
-      "summary": "Iranian Foreign Ministry spokesman says president, supreme leader 'safe and sound' Esmail Baghaei joins ABC News following US and Israeli strikes on Iran early Saturday morning",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-02-28T18:48:26Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NTM=",
-      "url": "https://www.vox.com/politics/481030/us-iran-trump-intervention-america-first",
-      "title": "Trump attacked regime change wars for years. Now he\u2019s launched his own.",
-      "summary": "Editor\u2019s note, February 28, 5:30 pm ET: President Donald Trump announced on Saturday afternoon that Iran\u2019s supreme leader, Ayatollah Ali Khamenei, was killed in the airstrikes.\nThe US has once again launched the sort of regime change war, where the actual stakes for US national security are far from clear, that he has spent more than a decade deriding his predecessors for pursuing.\nIn endorsing Trump in 2023, then-Sen. JD Vance wrote an op-ed with the title \u201cTrump\u2019s Best Foreign Policy?\nIt\u2019s also worth noting that just because Trump is talking about the overthrow of the regime now, the operation could very well stop short of that goal.\nBut that doesn\u2019t mean US troops won\u2019t be at risk from retaliatory strikes from a desperate Iranian regime.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-02-28T16:29:02Z",
+      "publishedAt": "2026-03-06T21:49:17Z",
       "source": "Vox"
     }
   },
   {
     "article": {
-      "id": "NTQ=",
-      "url": "https://www.thedailybeast.com/trump-threatens-friendly-takeover-of-cold-war-enemy-cuba/",
-      "title": "Trump Threatens \u2018Friendly\u2019 Takeover of American Neighbor",
-      "summary": "President Donald Trump has warned that he may launch a \u201cfriendly takeover\u201d of Cuba, paving the way for yet another foreign intervention by the \u201cAmerica First\u201d president.\nDonald Trump gestures as he walks to board Marine One as he departs the South Lawn of the White House for Texas in Washington.\nThey have no anything right now, but they\u2019re talking with us, and maybe we\u2019ll have a friendly takeover of Cuba.\u201dTrump did not elaborate on what he meant by a \u201cfriendly takeover,\u201d but said that after decades of strained relations, such a move would be \u201cvery positive\u201d for Cuban exiles living in the U.S.\n\u201cCutting off energy supplies using our Navy and Coast Guard is the use of military force, and a takeover is not \u2018friendly\u2019 under these circumstances; it\u2019s coercive.\nFigures such as MAGA warrior Steve Bannon, former Trump ally Marjorie Taylor Greene, and libertarian-leaning Congressman Thomas Massie have all spoken out about U.S. intervention.",
-      "category": "international",
-      "bias": "right",
-      "publishedAt": "2026-02-27T21:19:45Z",
-      "source": "Daily Beast"
-    }
-  },
-  {
-    "article": {
-      "id": "NTU=",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:260226-99-661004/",
-      "title": "Iran: Talks to continue with US on Monday",
-      "summary": "Further progress was made in the third round of nuclear talks with the US and \"technical talks\" are planned to begin on Monday, Iranian Foreign Minister Abbas Araghchi told reporters on Thursday evening.\nIf these take place, the details of a possible agreement are likely to be negotiated.\n\"Perhaps the seriousness of reaching an agreement was more visible than before,\" the minister said, referring to the third round of talks.\nThe negotiations concern Iran's controversial nuclear program as Washington seeks to prevent the leadership in Tehran from developing nuclear weapons.\nOn Wednesday, Iran submitted a first draft of a new agreement.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-02-26T20:13:23Z",
-      "source": "Dpa-international.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NTY=",
-      "url": "https://www.npr.org/2026/02/26/g-s1-111595/u-s-iran-to-third-round-nuclear-talks",
-      "title": "U.S.-Iran nuclear talks wrap up with no announcement of a deal as risk of war looms",
-      "summary": "Sponsor MessageTrump wants a deal to constrain Iran's nuclear program, and he sees an opportunity while the country is struggling at home with growing dissent following nationwide protests.\nAl-Busaidi said technical-level talks would continue next week in Vienna, the home of the International Atomic Energy Agency.\nIran says it will only discuss nuclear issues, and maintains its atomic program is for entirely peaceful purposes.\nSponsor MessageU.S. suspects Iran is rebuilding its programU.S. Secretary of State Marco Rubio told reporters Wednesday that Iran is \"always trying to rebuild elements\" of its nuclear program.\nThreat of military action sparks war fearsIf the talks fail, uncertainty hangs over the timing of any possible U.S. attack.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-02-26T06:54:17Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "NTc=",
-      "url": "https://www.yahoo.com/news/articles/maduros-lawyer-says-us-blocking-000654233.html",
-      "title": "Maduro's lawyer says US is blocking Venezuela government from paying deposed leader's drug defense",
-      "summary": "The Trump administration is blocking Venezuela's government from paying for the cost of Venezuelan leader Nicol\u00e1s Maduro's defense against drug trafficking charges in New York, a move that potentially interferes with his constitutional right to counsel, his lawyer says.\nThe first Trump administration cut ties with Maduro in 2019, recognizing the then opposition head of the National Assembly as Venezuela\u2019s legitimate leader.\nAdvertisement AdvertisementPollack said he asked the Office of Foreign Assets Control on Feb. 11 to reinstate the original license and clear the way for Venezuela to meet its obligation to pay Maduro's defense costs.\nThe lawyer added that Maduro \u201ccannot otherwise afford counsel\" and will request help from the judge to pay for his defense.\nAssociated Press writers Aamer Madhani and Fatima Hussein in Washington and Larry Neumeister in New York contributed to this report.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-02-26T00:06:54Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NTg=",
-      "url": "https://abcnews.com/Politics/top-mideast-commander-briefs-trump-military-options-iran/story?id=130544628",
-      "title": "Top Mideast commander briefs Trump on military options on Iran: Exclusive",
-      "summary": "Navy Adm. Brad Cooper, who oversees troops in the Middle East as head of U.S. Central Command, briefed President Donald Trump on Thursday on potential military options in Iran, according to a person close to the president.\nIf Israel struck Iran, defense officials predict Iran would almost certainly retaliate.\n\"I think it's important for President Trump to articulate the strategy and mission in Iran,\" he later added.\nOf particular concern is that Iran try to attack the some 35,000 to 40,000 U.S. troops stationed in the region.\nRubio also said Iran also was on a \"pathway\" to try to obtain ballistic missiles capable of reaching the U.S.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-02-26T23:46:19Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NTk=",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/28/diplomacy-was-betrayed-by-the-americans-iranian-fm-spokesman",
-      "title": "\u2018Diplomacy was betrayed by the Americans\u2019: Iranian FM spokesman",
-      "summary": "NewsFeed \u2018Diplomacy was betrayed by the Americans\u2019: Iranian FM spokesman\u201cThis is the second time in less than a year that diplomacy was betrayed by the Americans.\u201d An Iranian Foreign Ministry spokesperson slammed the United States for once again launching an attack against his country while negotiating with it.",
-      "category": "international",
+      "id": "NDM=",
+      "url": "https://www.explore.com/2114042/cr450-china-will-soon-offer-one-of-fastest-bullet-trains-in-world/",
+      "title": "This Country Will Soon Offer One Of The Fastest Bullet Trains In The World",
+      "summary": "High-speed rail is generally considered to be the future of sustainable travel.\nHigh-speed trains are safe, comfortable, and convenient, with almost none of the hassle and setbacks that plague airports and road trips.\nWhen you think of countries with incredible high-speed trains, your mind probably heads straight to the rail system of Japan.\nHowever, the country that is currently setting the benchmark for fast rail travel is China, with its remarkable CR450 train.\nThis would make it one of the fastest commercial trains in the world in regular operation, and probably the fastest conventional wheel-on-rail train.",
+      "category": "technology",
       "bias": "lean right",
-      "publishedAt": "2026-02-28T19:13:34Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-03-08T16:00:00Z",
+      "source": "Explore.com"
     }
   },
   {
     "article": {
-      "id": "NjA=",
-      "url": "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks",
-      "title": "US, Israel bomb Iran: A timeline of talks and threats leading up to attacks",
-      "summary": "The United States and Israel have launched strikes on Iran despite ongoing talks between Washington and Tehran over Iran\u2019s nuclear programme.\nHere is a timeline of the events, including attacks and diplomatic overtures leading up to Saturday\u2019s strikes by the US and Israel, and Iran\u2019s fierce response.\nJune 13, 2025 \u2014 Israel launches major air strikes against Iranian nuclear and military facilities, amid ongoing talks between the US and Tehran.\nJune 22 \u2013 The US strikes Iranian nuclear facilities at Natanz, Fordow and Isfahan, with Trump claiming the attacks degraded Tehran\u2019s nuclear programme.\nFebruary 17 \u2013 High-level US\u2013Iran nuclear talks resume in Geneva, again with Omani mediation.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-02-28T11:31:31Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjE=",
-      "url": "https://www.bbc.com/news/articles/cg5nm6v2p4no?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "title": "Bahrain strikes raise questions on how US can deal with Iran retaliation",
-      "summary": "Iran also has significant capabilities to attack the US Navy - if in range.\nIt has large stocks of anti-ship missiles, as well as small, fast, uncrewed attack boats.\nThere is also the unanswered question of whether China may have given Iran military support over the past few months.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-02-28T20:13:23Z",
+      "id": "NDQ=",
+      "url": "https://www.bbc.com/news/articles/c24dd4eze03o",
+      "title": "Climate change: Course developed for people with learning disabilities",
+      "summary": "\"I'm not saying that that's a malicious intent, but it's just, 'oh, well, you know, it's too difficult, we can't really do it, we can't make our material accessible, we can't do it and really, they don't understand anyway'.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-03-07T06:48:24Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NjI=",
-      "url": "https://abcnews.com/International/iranian-officials-claim-school-hit-us-israeli-army/story?id=130629048",
-      "title": "Iranian officials claim school hit during US-Israeli army strikes",
-      "summary": "A view shows the aftermath of an Israel strike on a school in Minab, Iran, Feb. 28, 2026.\nA view shows the aftermath of an Israel strike on a school in Minab, Iran, Feb. 28, 2026.\nA view shows the aftermath of an Israel strike on a school in Minab, Iran, Feb. 28, 2026.\nA view shows the aftermath of an Israel strike on a school in Minab, Iran, Feb. 28, 2026.\nA view shows the aftermath of an Israel strike on a school in Minab, Iran, Feb. 28, 2026.",
-      "category": "international",
+      "id": "NDU=",
+      "url": "https://www.businessinsider.com/us-gas-prices-climb-highest-trumps-term-oil-iran-2026-3",
+      "title": "US gas prices climb to the highest point in Trump's second term. He says, 'If they rise, they rise.'",
+      "summary": "The firm added that if crude rises by $10 a barrel amid escalating tensions, US gas prices could climb by roughly 30 to 40 cents per gallon in the short term.\nAny disruption there could quickly drive oil prices higher \u2014 and those moves would show up at the pump within weeks.\n\"As oil prices rise, gas prices follow,\" Carol Spieckerman, an independent retail analyst, told Business Insider.\nHigher fuel costs can push up travel, delivery, and retail prices \u2014 including goods made with petroleum-based materials.\n\"The ripple effects of fuel prices are far-reaching and underestimated,\" she said.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-03-06T16:28:41Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NDY=",
+      "url": "https://abduzeedo.com/node/89062",
+      "title": "GROOW Brand Identity by Buro Reng",
+      "summary": "Buro Reng built a flexible brand identity for GROOW Active Spaces \u2014 a Dutch experiential learning platform that teaches through doing, not just watching.\nThe brief called for a brand identity that could carry that energy across every surface it touched.\nBrand Identity Design for an Experiential Learning PlatformThe studio began with their MerkKompas process \u2014 a brand strategy tool that strips a concept back to its core.\nWhat makes this brand identity design work is the flexibility built into its foundation.\nThis is the kind of brand identity design that makes a concept legible.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-03-06T21:29:03Z",
+      "source": "Abduzeedo.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NDc=",
+      "url": "https://www.jezebel.com/ice-just-abducted-an-immigration-reporter-in-nashville",
+      "title": "ICE Just Abducted an Immigration Reporter in Nashville",
+      "summary": "On Tuesday morning, immigration reporter Estefany Rodr\u00edguez was in her marked news car with her husband outside of a gym in Nashville when several vehicles surrounded them, before a bunch of men jumped out to detain her, without any warrant.\nWhen a journalist like Estefany Rodr\u00edguez is detained doing her job, the issue stops being about immigration and becomes about democracy itself.\n\u2014 Identity is a Homeland \ud83c\uddf8\ud83c\udde9\ud83d\udd4a\ufe0f (@mhmds_yd98458) March 6, 2026Rodr\u00edguez is a journalist for Nashville Noticias and Univision 42, and has been reporting on ICE operations in Nashville.\nShe joined Nashville Noticias in 2022.\nICE just grabbed NASHVILLE Noticias reporter Estefany Rodriguez outside of a gym.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-03-06T15:13:05Z",
+      "source": "Jezebel"
+    }
+  },
+  {
+    "article": {
+      "id": "NDg=",
+      "url": "https://www.npr.org/2026/03/07/nx-s1-5737443/on-irans-border",
+      "title": "At the border between Iran and Turkey, some flee the war, while others return",
+      "summary": "At the border between Iran and Turkey, some flee the war, while others returnIranians are streaming across the border with Turkey, fleeing constant bombardment.\n(CROSSTALK)RUTH SHERLOCK, BYLINE: At this remote border crossing from Northern Iran, surrounded by snow-capped mountains, families arrive into Turkey looking exhausted and pale from all that they've lived through this past week.\nBut this man, without giving his name for fear of the regime, describes these days of war.\n(SOUNDBITE OF ENGINE RUNNING)SHERLOCK: Many of the people on this border are here to cross into Iran, even now during the war.\nRuth Sherlock, NPR News, Turkey on the border with Iran.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-03-07T12:44:34Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NDk=",
+      "url": "https://www.yahoo.com/news/videos/trump-voter-whose-son-killed-110006079.html",
+      "title": "Trump voter whose son was killed by ICE is calling for an end to \"abuse and impunity\"",
+      "summary": "How inflation affects savings: Here's the interest rate you need to beatHow does inflation affect your savings?\nAnd how can you ensure you're preserving your buying power?\nLook for accounts that pay at least this much interest.",
+      "category": "immigration",
       "bias": "lean left",
-      "publishedAt": "2026-02-28T21:32:59Z",
+      "publishedAt": "2026-03-06T11:00:06Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NTA=",
+      "url": "https://gothamist.com/news/trumps-border-czar-says-he-wont-launch-immigration-blitz-in-ny-according-to-gov-hochul",
+      "title": "Trump's border czar says he won't launch immigration blitz in NY, according to Gov. Hochul",
+      "summary": "Kathy Hochul left a meeting with President Donald Trump\u2019s border czar on Friday believing the federal government won\u2019t dramatically escalate immigration enforcement in the state without her blessing.\nHochul met with Tom Homan in her office at the state Capitol for nearly an hour.\nIt was an in-person, closed-door meeting the Democratic governor said was a follow-up to a previous phone call the two had about the federal government\u2019s enforcement efforts.\nSpeaking to reporters afterward, Hochul said she reminded Homan that Trump had previously told her he wouldn\u2019t launch a similar immigration enforcement blitz in New York unless she asked him to do so.\nHoman did not engage, chewing an apple as state police escorted him to a nearby elevator.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-03-06T19:22:00Z",
+      "source": "Gothamist"
+    }
+  },
+  {
+    "article": {
+      "id": "NTE=",
+      "url": "https://www.salon.com/2026/03/07/reporter-detained-for-speaking-spanish-in-nashville/",
+      "title": "Reporter detained for speaking Spanish in Nashville",
+      "summary": "Estefany Rodriguez Florez, a Colombian journalist with the Tennessee news outlet Nashville Noticias, was taken into custody Wednesday during a traffic stop in Nashville, according to court documents and statements from her attorney.\nICE officials say the arrest was part of an enforcement operation tied to alleged visa violations.\nCourt records filed by her lawyer say she also sought asylum after previously receiving death threats related to her reporting in Colombia.\nThe National Association of Hispanic Journalists condemned the arrest and called for her release so she can continue her work.\nHer detention has prompted advocacy from press freedom and immigrant rights organizations, including the Committee to Protect Journalists, which urged authorities to release Rodriguez and ensure protections for reporters.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-03-07T21:00:13Z",
+      "source": "Salon"
+    }
+  },
+  {
+    "article": {
+      "id": "NTI=",
+      "url": "https://dailycaller.com/2026/03/06/peter-schweizer-says-biden-border-crisis-probably-right-up-there-with-9-11-and-pearl-harbor/",
+      "title": "Peter Schweizer Says Biden Border Crisis \u2018Probably Right Up There With 9/11\u2019 And Pearl Harbor",
+      "summary": "After Pearl Harbor, we destroyed the Japanese Empire.\n\u201cYes, I think probably if they were to do that study now, it would probably surpass the Mariel Boatlift.\nSo, I would say it\u2019s probably right up there with 9/11 and with Pearl Harbor.\u201d\u201cIt doesn\u2019t have the buildings collapsing.\nNaval Base at Pearl Harbor on Dec. 7, 1941.\nDemocrats have faced backlash for comparing the Jan. 6, 2021, Capitol riot to the 9/11 and Pearl Harbor attacks.",
+      "category": "immigration",
+      "bias": "right",
+      "publishedAt": "2026-03-06T15:05:34Z",
+      "source": "The Daily Caller"
+    }
+  },
+  {
+    "article": {
+      "id": "NTM=",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/pro-palestinian-activist-records-questioning-by-german-border-police",
+      "title": "Pro-Palestinian activist records questioning by German border police",
+      "summary": "NewsFeed Pro-Palestinian activist records questioning by German border policePro-Palestinian German activist Yasemin Acar told Al Jazeera about what she says was harassment at a Berlin airport where she recorded a border guard asking about her destination because of concerns over \u201chostility towards Israel\u201d.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-03-07T05:18:45Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTQ=",
+      "url": "https://dailycaller.com/2026/03/07/henry-cuellar-criticizes-james-talarico-welcome-mat-southern-border-kayleigh-mcenany-fox-saturday-america/",
+      "title": "Rep Henry Cuellar Calls Out Texas Democratic Senate Nominee James Talarico Over \u2018Welcome Mat\u2019 At Border Remarks",
+      "summary": "Democratic Texas Rep. Henry Cuellar said Saturday on Fox News he hopes James Talarico, his state party\u2019s nominee for U.S. Senate, changes his stated view that the southern border should have a \u201cgiant welcome mat\u201d for migrants.\n\u201cSaturday in America\u201d host Kayleigh McEnany asked the congressman if he agreed with Talarico\u2019s border remarks, which he made during a Democratic primary debate with Texas Rep. Jasmine Crockett.\nCuellar replied, \u201cNo, of course I don\u2019t.\u201d\u201cI hope I spend some time with him [Talarico] and get him to change the situation at the border.\nAnd I live at the border, I just don\u2019t go visit the border,\u201d Cuellar told McEnany.\n\u201cWhat is it going to take to get your colleagues on board because we need DHS right now?\u201d the Fox News host asked Cuellar.",
+      "category": "immigration",
+      "bias": "right",
+      "publishedAt": "2026-03-07T21:49:55Z",
+      "source": "The Daily Caller"
+    }
+  },
+  {
+    "article": {
+      "id": "NTU=",
+      "url": "https://www.aljazeera.com/news/2026/3/6/death-toll-in-israels-lebanon-attacks-over-120-as-beirut-south-east-hit",
+      "title": "At least 217 killed in Israel\u2019s Lebanon attacks as Beirut, south, east hit",
+      "summary": "Lebanese state media said early on Friday that Israel had launched air strikes on several towns in southern Lebanon.\nIsrael has also continued attacks in southern Lebanon with raids on the area\u2019s biggest city, Sidon.\n\u201cThere aren\u2019t enough schools to shelter the hundreds of thousands of people who were forced to flee their homes after Israel\u2019s forced displacement threat for Beirut\u2019s southern suburbs yesterday,\u201d she said.\nLebanon was pulled into the war in the Middle East on Monday, as Hezbollah opened fire, prompting Israeli air strikes focused on Beirut\u2019s southern suburbs and on southern and eastern Lebanon.\nMissiles struck the the headquarters of Ghana\u2019s UN peacekeeping battalion in southern Lebanon, the Ghanaian armed forces said.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-06T07:23:30Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTY=",
+      "url": "https://www.breitbart.com/politics/2026/03/06/appeals-court-affirms-trump-can-suspend-refugee-resettlement-to-u-s/",
+      "title": "Appeals Court Affirms: Trump Can Suspend Refugee Resettlement to U.S.",
+      "summary": "The United States Court of Appeals for the Ninth Circuit affirmed this week that President Donald Trump is within full presidential authority to suspend refugee resettlement to the U.S.\nThe panel of judges, the largest in the nation for an appellate court, vacated a lower court\u2019s injunction against the Trump administration\u2019s executive order suspending refugee resettlement.\n[Emphasis added]Dale Wilcox with the Federation for American Immigration Reform (FAIR) celebrated the decision as the group had filed a brief in support of Trump\u2019s authority to suspend refugee resettlement.\nWe are pleased the court recognized the President\u2019s prerogative and vacated the lower court\u2019s activist injunction.\u201dThe case is Pacito v. Trump, No.\n2:25-cv-00255-JNW in the United States Court of Appeals for the Ninth Circuit.",
+      "category": "immigration",
+      "bias": "right",
+      "publishedAt": "2026-03-06T21:17:11Z",
+      "source": "Breitbart News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTc=",
+      "url": "https://abcnews.com/Politics/trump-speak-shield-americas-summit-aimed-taking-cartels/story?id=130847707",
+      "title": "Trump warns of imminent action against Cuba at 'Shield of Americas' summit",
+      "summary": "Trump warns of imminent action against Cuba at 'Shield of Americas' summitPresident Donald Trump attends the \"Shield of the Americas\" Summit in Doral, Fla., March 7, 2026.\nPresident Donald Trump attends the \"Shield of the Americas\" Summit in Doral, Fla., March 7, 2026.\nPresident Donald Trump attends the \"Shield of the Americas\" Summit in Doral, Fla., March 7, 2026.\nPresident Donald Trump attends the \"Shield of the Americas\" Summit in Doral, Fla., March 7, 2026.\nPresident Donald Trump attends the \"Shield of the Americas\" Summit in Doral, Fla., March 7, 2026.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-03-07T10:22:46Z",
       "source": "Abcnews.com"
     }
   },
   {
     "article": {
-      "id": "NjM=",
-      "url": "https://www.aljazeera.com/news/2026/2/28/irans-foreign-ministry-defends-retaliatory-strikes-slams-us-betrayal",
-      "title": "Iran\u2019s Foreign Ministry defends retaliatory strikes, slams US betrayal",
-      "summary": "Spokesman Esmaeil Baghaei says Iran\u2019s attacks on US targets across the region are legitimate defensive actions.\nIran is entitled to defend itself from Israeli and US attacks, the spokesman for Iran\u2019s Ministry of Foreign Affairs has stressed.\nFriends in the regionBaghaei defended Iran\u2019s retaliatory attacks in several countries across the region.\n\u201cUnder international law, any place, any location, any logistical support that are given to the aggressor [is a] legitimate target for the victim state,\u201d he said.\nWhat we are doing is just taking defensive actions.\u201d\u201cWe have proven that we trust our friends in the region,\u201d Baghaei said.",
+      "id": "NTg=",
+      "url": "https://www.bbc.com/news/articles/c05v28eqjyvo",
+      "title": "Starmer and Trump speak for first time since US president's Iran criticism",
+      "summary": "The foreign secretary said \"there are some people in politics who think we should just unquestioningly agree with the US whatever\" while others \"think we should never agree with the US\" or \"go along with joint action\" but that neither was the right approach.",
+      "category": "international",
+      "bias": "right",
+      "publishedAt": "2026-03-08T10:12:46Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTk=",
+      "url": "https://www.businessinsider.com/narrow-flight-corridor-shrinks-after-azerbaijan-hit-by-drones-2026-3",
+      "title": "The narrow corridor planes are being pushed through to avoid the Middle East just got even narrower",
+      "summary": "Flightradar24Many airlines have been flying over the Caucasus since the strikes on Iran.\nFlightradar24lighning bolt icon An icon in the shape of a lightning bolt.\nlighning bolt icon An icon in the shape of a lightning bolt.\nImpact LinkA narrow flight corridor that's become vital to airlines is shrinking as the Iran conflict expands.\nFollowing drone strikes on Nakhchivan International Airport (NAJ) earlier today, Azerbaijan has closed the airspace in its southern sector.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-03-06T11:21:52Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NjA=",
+      "url": "https://www.yahoo.com/news/articles/eu-countries-joining-us-israel-210505041.html",
+      "title": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says",
+      "summary": "PARIS, March 6 (Reuters) - European Union member states that join the U.S. \u200cand Israel attacks on Iran \u200cwould become \"legitimate targets\" for Iran, Deputy Foreign \u200bMinister Majid Takht-Ravanchi said in an interview with TV station France 24.\n\"Any country that joins in the aggression \u200cagainst Iran, \u2060joins America and Israel in the aggression against Iran, definitely, \u2060they will be also legitimate targets for Iran retaliation,\" Takht-Ravanchi said.\n* While \u200bsome EU \u200bcountries such \u200bas France, Greece and Italy have sent \u200cwarships towards the Middle East and most EUtop officials have condemned Iranian strikes in the region, theyhave mostly called for an end to the \u200cconflict and called for \u200ba diplomatic solution.\n* German \u200bChancellor Friedrich \u200bMerz said on Friday \u200cBerlin wasworking with partners \u200bto find \u200ban approach to end the fightingwith Iran, while saying his country \u200bshared \u200cthe aims of theUnited States and \u200bIsrael.\n(Reporting by Inti Landauro; editing \u200bby Edward Tobin)",
       "category": "international",
       "bias": "left",
-      "publishedAt": "2026-02-28T21:49:24Z",
+      "publishedAt": "2026-03-06T21:05:05Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NjE=",
+      "url": "https://www.newyorker.com/news/the-lede/irans-desperate-high-risk-survival-strategy",
+      "title": "Iran\u2019s Desperate, High-Risk Survival Strategy",
+      "summary": "Israel has already dropped more than five thousand bombs on Iran since the start of the conflict.\n\u201cWe are punching them while they\u2019re down, which is exactly how it should be.\u201dWhat sympathy there may have been for a cornered, bruised Iranian regime among its neighbors has faded in the face of Tehran\u2019s escalation.\nA Gulf official, who spoke to me anonymously, said Iran\u2019s strategy was \u201ccounterproductive,\u201d given recent attempts at rapprochement made by some Arab monarchies, and their support for Tehran\u2019s diplomatic track with Washington.\n\u201cWhat\u2019s happened to the Gulf will have long-term ramifications in terms of security realignment and relationships with Iran,\u201d the official said.\n\u201cIran has killed any chance of reconciliation with the Gulf,\u201d Marwan Muasher, a former foreign minister and deputy Prime Minister of Jordan, told me.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-06T11:00:00Z",
+      "source": "The New Yorker"
+    }
+  },
+  {
+    "article": {
+      "id": "NjI=",
+      "url": "https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise",
+      "title": "Iran war threatens prolonged impact on energy markets as oil prices rise",
+      "summary": "The conflict has already led to the suspension of about a fifth of global crude oil and natural gas supply.\nGlobal oil prices have surged by more than 25 percent since the start of the war, driving up fuel prices for consumers worldwide.\nGoldman Sachs warned oil prices could climb above $100 per barrel if shipping disruptions continue.\nUS crude oil settled at just below $91 per barrel on Friday \u2013 its largest weekly gain on record in data dating back to 1983, indicating prices could continue to rise.\nSaudi Aramco\u2019s mammoth Ras Tanura refinery and crude export terminal, meanwhile, has also closed due to attacks, with no details on damage.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-03-08T12:55:57Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjM=",
+      "url": "https://www.aljazeera.com/features/2026/3/7/indonesian-presidents-us-ties-questioned-amid-public-anger-over-iran-war",
+      "title": "Indonesian president\u2019s US ties questioned amid public anger over Iran war",
+      "summary": "Calls grow at home for leader of the world\u2019s largest Muslim country to distance from Washington amid US-Israel war on Iran.\nWhen the United States-Israeli attack on Iran was launched last weekend, an unexpected peace broker stepped forward in the form of Indonesian President Prabowo Subianto, leader of the world\u2019s largest Muslim country.\n\u201cIf agreed by both parties, the President of Indonesia is prepared to travel to Tehran to carry out mediation,\u201d it said.\n\u201cThe death of Ali Khamenei went unanswered,\u201d he said\u201cIndonesia is at a crossroads in its foreign policy,\u201d Sarbini added.\nSupriatma said the president appears \u201ccornered\u201d by his own foreign policy decisions.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-03-07T06:33:03Z",
       "source": "Al Jazeera English"
     }
   },
   {
     "article": {
       "id": "NjQ=",
-      "url": "https://www.npr.org/2026/02/28/nx-s1-5730186/iran-strikes-israel",
-      "title": "Panic, fury, and some hope, in Iran as U.S. launches strikes",
-      "summary": "Panic, fury, and some hope, in Iran as U.S. launches strikestoggle caption APAMMAN, Jordan \u2014 In Tehran, panicked residents rushed home to shelter and terrified children poured out of classrooms as U.S. air strikes hit the capitol, Iranians reached by phone told NPR.\nThe airstrikes hit on the first day of Iran's work week while many were at work or in school.\nThe United Arab Emirates, another U.S. ally, said it intercepted Iranian missiles.\nIt said shrapnel from one of the intercepted missiles killed a national of an unspecified Asian country in Abu Dhabi.\nSponsor MessageIran's foreign ministry said the U.S. and Israeli airstrikes had hit defense infrastructure and civilian sites across Iran.",
+      "url": "https://uk.news.yahoo.com/ukraine-accuses-hungary-taking-hostage-091359417.html",
+      "title": "Hungary's $82 million bank transit swoop deepens spat with Ukraine",
+      "summary": "\"This is state terrorism and racketeering,\" he added, demanding their immediate release and asking the EU to \"provide a clear qualification of Hungary\u2019s unlawful actions\".\nHungary and Slovakia accuse Ukraine of deliberately delaying the resumption of oil flows via the damaged Druzhba pipeline for political reasons.\nHe has vetoed new EU sanctions on \u200bMoscow as well as a huge \u200bloan for Ukraine over the oil dispute.\nAdvertisement AdvertisementAdvertisement Advertisement\"Since the start of the \u200cfull-scale invasion, foreign currency and bank metals have been transported exclusively by land,\" it said in a statement.\n(Reporting by Krisztina Than, Anita Komuves, Bernadett Szabo and Krisztina Fenyo in \u200bBudapest, Olena Harmash in Kyiv, Writing by Alan CharlishEditing by Gareth Jones)",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-06T15:02:56Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NjU=",
+      "url": "https://www.aljazeera.com/opinions/2026/3/7/irans-strikes-on-the-gulf-burning-the-bridges-of-good-neighbourliness",
+      "title": "Iran\u2019s strikes on the Gulf: Burning the bridges of good neighbourliness",
+      "summary": "The Gulf states didn\u2019t want this war, and they\u2019re the ones Iran needs to mediate an end to the conflict.\nA record of genuine restraintThe Gulf Cooperation Council (GCC) states did not arrive at this crisis as Iran\u2019s enemies.\nThe Gulf states are not parties to the conflict between Iran, Israel and the United States.\nA prolonged Gulf war not only starves Europe of energy, it drains the attention and resources Europe can least afford to divert while Russia remains undefeated on its eastern flank.\nThe Gulf states have demonstrated, through years of patient, continuous diplomacy, that good neighbourliness with Iran was their preferred choice.",
       "category": "international",
       "bias": "center",
-      "publishedAt": "2026-02-28T12:21:28Z",
-      "source": "NPR"
+      "publishedAt": "2026-03-07T01:05:37Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjY=",
+      "url": "https://www.aol.com/articles/narrow-corridor-planes-being-pushed-112152115.html",
+      "title": "The narrow corridor planes are being pushed through to avoid the Middle East just got even narrower",
+      "summary": "Azerbaijan closed part of its airspace after an airport was hit by a drone on Thursday.\nA narrow flight corridor that's become vital to airlines is shrinking as the Iran conflict expands.\nIt's an exclave to the north of Iran, which is separated from the rest of Azerbaijan by Armenia.\nAs a result, Azerbaijan closed the southern sector of its airspace.\nAdvertisementFollowing drone strikes on Nakhchivan International Airport (NAJ) earlier today, Azerbaijan has closed the airspace in its southern sector.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-03-06T13:04:36Z",
+      "source": "AOL"
+    }
+  },
+  {
+    "article": {
+      "id": "Njc=",
+      "url": "https://www.theatlantic.com/international/2026/03/lebanon-hezbollah-israel-iran/686262/",
+      "title": "Something New Is Happening in Lebanon",
+      "summary": "Lebanon had once again been plunged into a war that had nothing to do with its national interests, by a militia group that has retained a private army and run its own foreign policy for decades.\nHezbollah\u2019s rationale for maintaining its weapons in 1989 was that Israel continued to occupy a large chunk of southern Lebanon, and this was widely accepted even by many who did not care for the organization.\nThe Lebanese state is going to have to proceed with both determination and caution.\nIsrael will be crucial in determining whether Lebanon succeeds.\nA perhaps even bigger threat is that Israel may seek to force Lebanon into Israel\u2019s own sphere of influence.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-03-06T17:23:00Z",
+      "source": "The Atlantic"
+    }
+  },
+  {
+    "article": {
+      "id": "Njg=",
+      "url": "https://www.aljazeera.com/opinions/2026/3/7/irans-legal-case-for-striking-the-gulf-collapses-under-scrutiny",
+      "title": "Iran\u2019s legal case for striking the Gulf collapses under scrutiny",
+      "summary": "The idea that the Gulf states have a responsibility, a moral one, to protect Iran from the consequences of its actions because of good neighbourliness is now grotesque in context.\nIran could rely on this provision to hold the Gulf states that host United States military bases liable for any act of aggression committed from their territories against Iran.\nSovereignty cannot be dictated by a neighbour\u2019s strategic preferencesIran, in invoking the principle of good neighbourliness, asks the Arab Gulf states to deny the United States basing rights.\nBallistic missiles and drones were launched against Gulf states in the opening days of the conflict.\nBy Iran\u2019s own stated legal rationale, none of these targets was legitimate, yet they were attacked.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-03-07T01:08:43Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "Njk=",
+      "url": "https://www.aljazeera.com/features/2026/3/6/anger-in-cyprus-over-uk-bases-as-us-israel-war-with-iran-endangers-island",
+      "title": "Anger in Cyprus over UK bases as US-Israel war with Iran endangers island",
+      "summary": "Protests grow as attack on British military site stirs fears that Cyprus is being dragged into a regional conflict.\nChants of \u201cBritish bases out\u201d have rung out in recent days in Limassol, as protesters call for the removal of UK military bases from Cyprus\u2019s sun-drenched south coast island.\nDemonstrations erupted after a suspected Iranian-made drone struck RAF Akrotiri earlier this week, two days after US-Israeli attacks on Iran began.\nA \u2018remnant\u2019 of British colonialismThe UK retained two sovereign base areas on Cyprus \u2013 Akrotiri and Dhekelia \u2013 since the island nation gained independence in 1960 under a fragile power-sharing arrangement between Greek and Turkish Cypriots.\n\u2018No advantage\u2019 for CypriotsUnlike bases in the Gulf, which the British military operates through leases or host-nation agreements, RAF Akrotiri and Dhekelia are effectively permanent British-controlled territories.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-06T08:03:18Z",
+      "source": "Al Jazeera English"
     }
   }
 ]
