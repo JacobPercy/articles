@@ -10,17 +10,7 @@
     "source": "Wired"
   },
   {
-    "id": "Mw==",
-    "url": "https://www.macrumors.com/2026/03/19/applecare-one-european-rollout/",
-    "title": "AppleCare One Subscription Could Soon Launch in EU Markets",
-    "summary": "Apple launched AppleCare One in the U.S. in July 2025.\nThe plan starts at $19.99 per month and covers up to three products, with additional devices available for $5.99 per month each.\nIt includes all the same benefits as AppleCare+, such as unlimited accident repairs, priority support, and battery coverage.\nAppleCare One also brought theft and loss protection to the iPad and Apple Watch for the first time.\nOn its own, the EUIPO filing isn't confirmation of a launch date for EU markets, but trademark registrations of the sort have typically preceded expanded rollouts of Apple services.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-03-19T12:17:32Z",
-    "source": "MacRumors"
-  },
-  {
-    "id": "Ng==",
+    "id": "Mg==",
     "url": "https://www.businessinsider.com/swimply-ceo-says-renting-pools-helps-homeowners-earn-extra-income-2026-3",
     "title": "Swimply's CEO says the app is bringing the gig economy to pools \u2014 and helping cash-strapped homeowners make money",
     "summary": "The gig economy is coming for your backyard pool.\nThe app lets owners list their pools, where potential users can then book them by the hour.\n\"Now, they have a more epic backyard, and start charging more and gaining more traction for their pool,\" Laskin said.\nSwimply still relies mostly on word of mouth to recruit new pool owners to its platform, Laskin said.\nThere's also potential to add more types of facilities to Swimply, Laskin said, from basketball courts to music studios.",
@@ -30,17 +20,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "OA==",
-    "url": "https://www.businessinsider.com/bills-congress-proposed-prediction-markets-2026-3",
-    "title": "Here are the 6 ways lawmakers are trying to tackle the prediction market boom",
-    "summary": "Prediction markets are on the rise, and ideas have begun flying on Capitol Hill about all the ways to contain them.\nThat includes everything from preventing insider trading, to keeping lawmakers off platforms like Kalshi and Polymarket, to banning betting on things like the Oscars or the Super Bowl halftime show.\nNone of these bills are close to becoming law.\nCongress is still catching up when it comes to prediction markets, and the Trump administration has taken a friendly regulatory approach toward the industry.\nBut they're worth keeping an eye on, especially as more Americans learn about prediction markets and as scrutiny over suspicious trades tied to war increases.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-03-21T09:57:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTE=",
+    "id": "Ng==",
     "url": "https://www.businessinsider.com/reddit-ceo-steve-huffman-new-grads-great-hires-ai-native-2026-3",
     "title": "Reddit CEO Steve Huffman says he plans to 'go heavy' on hiring new grads because they are 'AI native'",
     "summary": "Reddit CEO Steve Huffman, on the other hand, says the opposite is true for his company.\nAlso, the best new grads, if you don't hire them as new grads, you will never see them,\" Huffman said.\n\"They will never be on the job market again.\nDespite his optimism, new college graduates are entering the job market at a tricky time.\nStill, Huffman says he'll keep hiring new grads, particularly in engineering.",
@@ -50,17 +30,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTU=",
-    "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
-    "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
-    "summary": "Every day, billions of chat messages sent through Signal, Meta\u2019s WhatsApp, and Apple\u2019s Messages are protected by end-to-end encryption.\nBut as chatbots and AI agents have become more capable, some technologists and companies are pushing to create more constrained and privacy-focused systems.\nOver the last year, WhatsApp has introduced a Meta AI chatbot into its app, which isn\u2019t shielded from the company in the same way individual chats are.\nThe cryptographic schemes used in end-to-end encryption for traditional digital communication aren\u2019t easily or directly translatable into data protections for generative AI.\nNeither Marlinspike nor Meta provided WIRED with additional comment ahead of publication.",
+    "id": "MTA=",
+    "url": "https://www.businessinsider.com/heavy-ai-investments-could-affect-your-paycheck-2026-3",
+    "title": "How Firms' Heavy AI Investments Could Affect Your Paycheck",
+    "summary": "Companies are investing heavily in the technology and top-tier AI talent, and layoffs aren't the only option for offsetting those costs.\n\"They have to pay for AI somehow,\" said Rocki-Lee DeWitt, a management professor at the University of Vermont's Grossman School of Business.\nIn another episode of the same program, venture capitalist Chamath Palihapitiya expressed concern about ballooning AI bills at his startup.\nCuts to employee compensation may be next.\nIt's also important to show why AI can't fill your shoes.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-03-19T14:09:51Z",
-    "source": "Wired"
+    "bias": "lean left",
+    "publishedAt": "2026-03-21T09:53:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MTY=",
+    "id": "MTM=",
     "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
     "title": "Why people really hate AI",
     "summary": "Companies of all shapes and sizes are hunting for places to deploy AI and can\u2019t stop talking about how this new technology will change everything.\nStudy after study shows people are worried about the effects of AI and simply don\u2019t find the technology worth all the downsides.\nOn this episode of The Vergecast, David and Nilay try to understand the AI gap.\nNo matter what you\u2019ve heard, it\u2019s not the water worries that are keeping AI from succeeding.\nBut we are still without a truly game-changing consumer use case for AI \u2014 at least, one people are willing to pay for.",
@@ -70,7 +50,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTc=",
+    "id": "MTQ=",
     "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
     "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
     "summary": "Meanwhile, drivers that use the breathalyzers have reported being stranded due to the devices\u2019 inability to connect to the company\u2019s services.\nIn the meantime, Intoxalock hasn\u2019t explained what sort of cyberattack it\u2019s facing or whether hackers have obtained any of the company\u2019s user data.\nBack in March 2023, FBI director Christopher Wray confirmed, for the first time, that the agency had purchased US phone location data.\nWhile the FBI had previously paid for phone data from commercial data brokers\u2014instead of seeking a warrant\u2014it had stopped doing so, Wray said.\nFast-forward three years, and the FBI is once again purchasing location data that can be used to track Americans.",
@@ -80,7 +60,7 @@
     "source": "Wired"
   },
   {
-    "id": "MTg=",
+    "id": "MTU=",
     "url": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
     "title": "My AI Agent \u2018Cofounder\u2019 Conquered LinkedIn. Then It Got Banned",
     "summary": "I know this better than anyone, as he and I cofounded HurumoAI, an AI agent startup, together with a third founder, Megan Flores.\nKyle and Megan, as it happens, are themselves AI agents, as is the rest of our executive team.\nI created HurumoAI with them in July 2025\u2014after first creating Kyle and Megan\u2014to investigate the role of AI agents in the workplace.\nThere was one aspect of founder mode, however, at which Kyle excelled: the art of posting to LinkedIn.\nFrom a technical perspective, it was a trivial matter to let Kyle operate autonomously on LinkedIn.",
@@ -90,27 +70,7 @@
     "source": "Wired"
   },
   {
-    "id": "MTk=",
-    "url": "https://yro.slashdot.org/story/26/03/22/2025249/tech-leaders-support-california-bill-to-stop-dominant-platforms-from-blocking-competition",
-    "title": "Tech Leaders Support California Bill to Stop 'Dominant Platforms' From Blocking Competition",
-    "summary": "Manipulating the order of search results to favor a provider's products or services, irrespective of a merit-based process,Using non-public data generated by third-party sellers \u2014 including sales volumes, pricing, and customer behavior \u2014 to develop competing products that are subsequently boosted above the third-party sellers' product...A new bill proposed in California \"goes after big tech companies\" writes Semafor .\nSupported by Y Combinator, Cory Doctorow , and the nonprofit advocacy group Fight for the Future, it's called the \"BASED\" act \u2014 an acronym which stands for \"Blocking Anticompetitive Self-preferencing by Entrenched Dominant platforms.\n\"More from Scott Wiener;s announcement The announcement includes a quote from Teri Olle, VP of the nonprofit Economic Security California Action, saying the act would \"safeguard merit-based market competition.\nThis legislation stands for a simple principle: owning the stadium doesn't mean that you get to rig the game.\"\nRead on for reactions from DuckDuckGo, Proton, Yelp, Y Combinator, and Cory Doctorow.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-03-22T20:34:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MjA=",
-    "url": "https://www.businessinsider.com/google-department-defense-military-contract-ai-deepmind-national-security-deals-2026-3",
-    "title": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts",
-    "summary": "Google told employees that it was confident its work with the Department of Defense aligned with the company's AI principles \u2014 and that it was \"leaning more\" into securing national security work with governments, Business Insider has learned.\nIn the January town hall, which predated Anthropic's dust-up with the DoD, Lue said employees should expect more of these types of deals.\nWe're talking with governments about their national security concerns,\" Lue told employees.\nA Google spokesperson told the Post that the usage of its AI services in that instance was too small to be \"meaningful.\"\nWe have a very robust process in place,\" said Lue during the town hall.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-03-19T17:56:51Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjE=",
+    "id": "MTY=",
     "url": "https://www.bbc.com/sport/golf/articles/cz9qj7j382xo",
     "title": "Virtual golf: The indoor revolution threatening to outstrip outdoor golf",
     "summary": "Whisper it quietly, but by the end of 2028 it has been predicted that there will be more rounds of virtual golf played in the UK than outdoors ones.\nIt's a bold claim made by one of indoor golf's leading technology firms, which also suggests that globally 80% of all rounds will be virtual in two years.\nIn golf-loving South Korea, the tipping point was reached almost a decade ago as 'screen golf' overtook 'field golf'.\nRecent data from the R&A - which runs golf globally outside the United States and Mexico - and the US, revealed more people globally are playing golf off-course than on-course.\n\"Golf is really good for five months of the year in the UK, OK for four, and rubbish for the rest,\" says Chris Ingham, co-founder of indoor venue Pitch Golf.",
@@ -120,17 +80,7 @@
     "source": "BBC News"
   },
   {
-    "id": "MjI=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
-    "title": "Fitbit\u2019s AI health coach will soon be able to read your medical records",
-    "summary": "Would you share your medical records with a personal trainer?\nStarting next month in preview, US Fitbit users will be able to link their medical records to the Fitbit app.\nThat medical data \u2014 such as lab results, medications, and visit history \u2014 will, alongside wearable data, help Fitbit\u2019s AI-powered health coach provide \u201csafer, more relevant and more personalized\u201d advice, Google health intelligence product management director Florence Thng said in a blog post.\nAs with other health data in Fitbit, Thng said medical records are not used for ads and stressed that users will have control over their data and how it is used, shared, or deleted.\nThe push to integrate medical records with Fitbit\u2019s AI health coach recognizes that one of the most popular consumer uses of AI is in health and wellness.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-03-19T12:27:23Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MjM=",
+    "id": "MTc=",
     "url": "https://www.bbc.com/sport/tennis/articles/cn4395lp2qko",
     "title": "Wimbledon: Video review technology introduced for 2026 tournament",
     "summary": "Video review technology will be introduced at Wimbledon for the first time this year.\nPlayers will be allowed to challenge certain calls made by the chair umpire - as they are already able to do at both the US Open and the Australian Open.\nThe technology will be available on Centre Court and Court One throughout the Championships and on the other four show courts when they are hosting singles matches.\nIt was only last year that the All England Club (AELTC) introduced electronic line calling (ELC), which ended the role played by line judges over the previous 147 years.\nThere will be no limit on the number of reviews a player can request.",
@@ -140,14 +90,74 @@
     "source": "BBC News"
   },
   {
-    "id": "MjU=",
-    "url": "https://hackaday.com/2026/03/22/storing-solar-energy-as-ice-for-air-conditioning/",
-    "title": "Storing Solar Energy As Ice For Air Conditioning",
-    "summary": "Thermal energy storage is pretty great, as phase-change energy storage is very consistent with its energy output over time, unlike chemical batteries.\nPV solar power charges a battery until it\u2019s fully charged.\nThe process can later be reversed, which will draw thermal energy out of the surrounding air and thus provide cooling.\nAfter charging the main compressor loop with R600 (N-butane), the system is trialed with a small PV solar array that manages to freeze the entire bucket of water.\nCourtesy of insulation, it\u2019s kept that way for a few days, giving plenty of time for the separate glycol-filled loop to dump thermal energy into it and push cold air into the surrounding environment.",
+    "id": "MTg=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+    "title": "OpenAI is planning a desktop \u2018superapp\u2019",
+    "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nOpenAI is working on a desktop \u201csuperapp\u201d that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports.\nFragmentation \u201chas been slowing us down and making it harder to hit the quality bar we want,\u201d Simo said.\nOpenAI made waves last year with splashy announcements like the Sora video app and buying Jony Ive\u2019s AI hardware company.\nBut it has been facing increased competition from Anthropic as of late, especially following Claude Code\u2019s surge in popularity.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-03-20T00:09:38Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://www.businessinsider.com/hyundai-motional-robotaxi-uber-partnership-ceo-laura-major-interview-2026-3",
+    "title": "Hyundai's Motional Is Back. Here Are 5 Takeaways From Its CEO.",
+    "summary": "Laura Major, Motional's CEO since 2025, called it a \"hard decision.\"\nMotional's robotaxi depot in Las Vegas.\nHyundai gives Motional a deployment edgeSeveral companies, including Waymo and Avride, are relying on Hyundai, the South Korean automaker, for their robotaxi fleets.\nSafety drivers smooth out rider logisticsIt's now an industry standard to let riders try a robotaxi service before it completely removes the human driver.\nThe CEO said the future is pointed toward partnerships with other companies with \"lean\" robotaxi operations and licensing Motional's technology to those outfits.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-20T04:02:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjA=",
+    "url": "https://slashdot.org/story/26/03/21/0529209/jeff-bezos-seeking-100-billion-to-buy-manufacturing-companies-transform-them-with-ai",
+    "title": "Jeff Bezos Seeking $100 Billion to Buy Manufacturing Companies, 'Transform' Them With AI",
+    "summary": "GREAT MOMENTS IN HISTORY (#7): April 2, 1751 Issac Newton becomes discouraged when he falls up a flight of stairs.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-03-22T17:00:06Z",
-    "source": "Hackaday"
+    "publishedAt": "2026-03-21T14:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MjE=",
+    "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
+    "title": "Future Sony PlayStation games will use AI to imagine new frames",
+    "summary": "Is a senior editor and founding member of The Verge who covers gadgets, games, and toys.\nBut if the PS6 is delayed, Sony might want to try to get more out of the existing PS5 Pro in the meanwhile.\nThe PS5 already offers AMD FSR3 frame generation in some games, but FSR3 doesn\u2019t have the machine learning support.\nIt\u2019s interpolating between real frames, rather than AI imagining what should be between them.\nNvidia and AMD typically warn that frame generation isn\u2019t a solve for low frame rate, because you need a relatively stable frame rate to begin with for the technique to work.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-03-20T19:49:59Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
+    "title": "There Aren\u2019t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
+    "summary": "More than a decade after bailing on the dismal Fire Phone, Amazon is giving the smartphone a second try.\nIt's unclear what this smartphone would cost, how much Amazon is spending to develop Transformer, and what operating system it will run.\nWhen reached by WIRED, an Amazon spokesperson said the company doesn't comment on rumors and speculation.\nAmazon famously launched the Fire Phone in 2014, but it was discontinued shortly after due to a limited app ecosystem and terrible sales.\nReuters says Amazon's Transformer phone might be inspired by the Light Phone, a feature phone made by a Brooklyn company with some smart features designed to help people get away from daily smartphone distractions.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-03-20T22:03:09Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.businessinsider.com/job-tasks-you-want-ai-to-take-over-survey-2026-3",
+    "title": "What parts of your job would you give to AI?",
+    "summary": "AI is coming for your job \u2014 or at least part of it.\nA January study from IT services company Cognizant, which analyzed 18,000 workplace tasks, found that 93% of jobs are affected by AI to some degree.\nIn the US, that could result in roughly $4.5 trillion of human labor shifting to AI \u2014 and it's happening at a faster rate than expected.\nWhile there are plenty of concerning predictions about AI replacing jobs entirely, there's also the possibility that the technology will allow many workers to spend more time on certain tasks and offload others to AI.\nGiven the assumption that AI is going to take at least some part of your job \u2014 if it hasn't already \u2014 we want to know what you would be happy to pass off, and what tasks you want to keep.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-20T09:19:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://www.businessinsider.com/openai-founder-andrej-karpathy-chores-dobby-ai-claw-2026-3",
+    "title": "Andrej Karpathy says he uses an AI agent named Dobby the Elf Claw to control his pool and track his packages",
+    "summary": "He said he connects them to an AI agent and asks a bot to do it, of course.\n\"I have a claw basically that takes care of my home, and I call him Dobby the Elf Claw,\" he said in the interview, which was released on Friday.\n\"It controls all of my lights, my HVAC, my shades, the pool, the spa, and also the security system.\"\nAI claws are a new wave of autonomous AI agents that can take actions on a user's behalf.\n\"She'll make for a beautiful, spacious home for my Dobby the House Elf claw, among lots of other tinkering,\" Karpathy posted on Wednesday.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-03-22T09:09:01Z",
+    "source": "Business Insider"
   },
   {
     "id": "Mjg=",
@@ -160,27 +170,7 @@
     "source": "Wired"
   },
   {
-    "id": "MzI=",
-    "url": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
-    "title": "There Aren\u2019t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
-    "summary": "More than a decade after bailing on the dismal Fire Phone, Amazon is giving the smartphone a second try.\nIt's unclear what this smartphone would cost, how much Amazon is spending to develop Transformer, and what operating system it will run.\nWhen reached by WIRED, an Amazon spokesperson said the company doesn't comment on rumors and speculation.\nAmazon famously launched the Fire Phone in 2014, but it was discontinued shortly after due to a limited app ecosystem and terrible sales.\nReuters says Amazon's Transformer phone might be inspired by the Light Phone, a feature phone made by a Brooklyn company with some smart features designed to help people get away from daily smartphone distractions.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-03-20T22:03:09Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MzQ=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-    "title": "A rogue AI led to a serious security incident at Meta",
-    "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information.\nMeta spokesperson Tracy Clayton said in a statement to The Verge that \u201cno user data was mishandled\u201d during the incident.\nA Meta engineer was using an internal AI agent, which Clayton described as \u201csimilar in nature to OpenClaw within a secure development environment,\u201d to analyze a technical question another employee posted on an internal company forum.\nAn employee then acted on the AI\u2019s advice, which \u201cprovided inaccurate information\u201d that led to a \u201cSEV1\u201d level security incident, the second-highest severity rating Meta uses.\nAccording to Clayton, the AI agent involved didn\u2019t take any technical action itself, beyond posting inaccurate technical advice, something a human could have also done.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-03-19T18:20:05Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MzU=",
+    "id": "MzA=",
     "url": "https://www.jalopnik.com/2125545/jack-nicholson-drove-hydrogen-powered-car-chevy-impala/",
     "title": "Jack Nicholson Drove A Hydrogen-Powered Car Before Green Energy Was Cool",
     "summary": "2024 had Dua Lipa promoting the new electric Porsche Macan, after all.\nBut back in the late 1970s, Jack Nicholson was taking things to the next level.\nIn '78, Nicholson appeared on TV driving the 'H2-4 Chevy,' an Impala converted to run solely on hydrogen power.\nFrom the exhaust comes a thin mist of steam; white smoke from your tailpipe is normally a red flag, but in Nicholson's '78 Impala, not so much.\nHe even felt comfortable inhaling the steam directly from the tailpipe.",
@@ -188,6 +178,26 @@
     "bias": "lean left",
     "publishedAt": "2026-03-21T22:25:00Z",
     "source": "Jalopnik"
+  },
+  {
+    "id": "MzI=",
+    "url": "https://www.yankodesign.com/2026/03/20/what-if-googles-server-heat-became-its-most-prominent-design-feature/",
+    "title": "What If Google\u2019s Server Heat Became Its Most Prominent Design Feature?",
+    "summary": "What rarely gets discussed is the messy, unglamorous reality sitting right at the center of it all: the data server room.\nLia Hur and Michell Hur, both from the Savannah College of Art and Design, began with a straightforward question: what do you do with all the heat that data servers constantly produce?\nTheir Google Sustainable Headquarters concept won two awards at the European Product Design Award 2025, covering both Architectural and Building Design and Interior Design categories, and it\u2019s easy to see why.\nDesigneres: Lia Hur, Michell HurThe first thing that strikes you when you look at the concept renderings is the ocean.\nIt\u2019s a sign that Lia and Michell Hur weren\u2019t trying to design a building that looks sustainable.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-20T10:07:26Z",
+    "source": "Yanko Design"
+  },
+  {
+    "id": "MzQ=",
+    "url": "https://finance.yahoo.com/sectors/energy/articles/korea-electric-power-corporation-kep-192737242.html",
+    "title": "Korea Electric Power Corporation (KEP): Smart Electric Life Launch and Robust FY2025 Earnings",
+    "summary": "Korea Electric Power Corporation (NYSE:KEP) is one of the best Korean stocks to buy.\nOn March 18, the Ministry of Climate, Energy and Environment and Korea Electric Power Corporation (KEPCO) introduced Smart Electric Life, a new platform that brings together 39 energy services in one place.\nConsumers can now easily access electricity rates, welfare discounts, and renewable energy programs without navigating multiple agencies.\nKorea Electric Power Corporation (KEP): Smart Electric Life Launch and Robust FY2025 EarningsThe platform consolidates services previously spread across seven organizations, including KEPCO, the Korea Energy Agency, and the Korea Power Exchange.\nKorea Electric Power Corporation (NYSE:KEP) is South Korea\u2019s national electric utility company.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-03-20T19:27:37Z",
+    "source": "Yahoo Entertainment"
   },
   {
     "id": "Mzg=",
@@ -198,5 +208,15 @@
     "bias": "lean right",
     "publishedAt": "2026-03-20T10:09:56Z",
     "source": "Business Insider"
+  },
+  {
+    "id": "NjE=",
+    "url": "http://foreignpolicy.com/2026/03/20/starlink-spacex-musk-geopolitics-war-ukraine-russia-iran/",
+    "title": "Starlink Has Privatized Geopolitics",
+    "summary": "If many strategic supply chains now depend on private firms, Starlink is an unusually concentrated case of private discretion over public security functions.\nStarlink is far more than a commercial connectivity service.\nStarlink is far more than a commercial connectivity service.\nIf many strategic supply chains now depend on private firms, Starlink is an unusually concentrated case of private discretion over public security functions.\nAfter Russia\u2019s full-scale invasion in 2022 disabled terrestrial networks, Starlink terminals became operational infrastructure in a war defined by drones , distributed command, and rapid targeting cycles.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-20T18:40:34Z",
+    "source": "Foreign Policy"
   }
 ]

@@ -1,16 +1,6 @@
 [
   {
-    "id": "MTI=",
-    "url": "https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e",
-    "title": "Energy fallout from Iran war signals a global wake-up call for renewable energy",
-    "summary": "Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Manish Swarup, File) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Ng Han Guan) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Rafiq Maqbool) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Mahmud Hossain Opu) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-03-22T22:01:03Z",
-    "source": "Associated Press"
-  },
-  {
-    "id": "MjQ=",
+    "id": "MjU=",
     "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o",
     "title": "Iran war: Gas shortage risks pushing India towards polluting fuels",
     "summary": "In urban India, Sivalingam believes, a more likely scenario would be to move to electric cooking as a back-up rather than switching to biomass or other fuel.\nBut it would increase demand for electricity - much of which in India is generated using coal.",
@@ -30,13 +20,43 @@
     "source": "Al Jazeera English"
   },
   {
-    "id": "Mjk=",
-    "url": "https://www.nature.com/immersive/d41586-026-00712-8/index.html",
-    "title": "A breath of fresh air: solving Ulaanbaatar's pollution issues \u2014 in photos",
-    "summary": "Air-quality indices were above levels categorized as hazardous most days from December 2025 through to February, according to values recorded by the US Embassy in Ulaanbaatar.\nIn the deepest winter, concentrations of PM 2.5 particulates in the air reached 687 micrograms per cubic metre, 27 times higher than the World Health Organization\u2019s recommended limit of 25 micrograms per cubic metre.\nWhen ethnic Mongol soldiers conquered medieval China and eastern Europe in the thirteenth century, they probably slept in gers similar to the ones seen today.\nAccording to URECA, the coal burnt in household furnaces is responsible for 70\u201380% of the city\u2019s smog.\n\u201cCatastrophic weather events in Mongolia are occurring with greater frequency,\u201d says Erdenemunkh.",
+    "id": "MzE=",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260322020245.htm",
+    "title": "Beavers are turning rivers into powerful carbon sinks",
+    "summary": "Beavers may play an unexpected role in tackling climate change by transforming rivers into effective carbon dioxide sinks, according to a new international study led by researchers at the University of Birmingham.\nThe results show that wetlands shaped by beavers can store carbon at rates up to ten times higher than similar areas without their presence.\nBy slowing water, trapping sediments, and expanding wetlands, they turn streams into powerful carbon sinks.\nBeaver dams reshape rivers and carbon storageBeavers are returning to rivers and natural habitats across Europe after years of conservation efforts.\nThese carbon reserves can remain in place for decades, indicating that beaver-modified wetlands can serve as stable, long-term carbon sinks as long as the dams remain intact.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2026-03-19T00:00:00Z",
-    "source": "Nature.com"
+    "publishedAt": "2026-03-22T11:21:20Z",
+    "source": "Science Daily"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://thecoolingreport.com/intel.html",
+    "title": "The Cooling Report",
+    "summary": "A growing number of data center operators have started swapping water-cooled systems for air-cooled alternatives, claiming sustainability wins.\nAir cooling eliminates on-site water use, sure.\nBut it doubles or triples electricity consumption, pushing the water burden upstream to power plants that need their own cooling loops to generate that extra juice.\nA growing number of data center operators have started swapping water-cooled systems for air-cooled alternatives, claiming sustainability wins.\nAir cooling eliminates on-site water use, sure.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-03-20T10:46:15Z",
+    "source": "Thecoolingreport.com"
+  },
+  {
+    "id": "MzU=",
+    "url": "https://www.vox.com/climate/483175/fish-stocking-trout-wildlife-agencies",
+    "title": "These animals can cause big trouble. Why are states unleashing them by the millions?",
+    "summary": "State wildlife agencies spend tens of millions of dollars a year trying to eliminate them.\nWhat hasn\u2019t changed is that states are still stocking streams and lakes with millions and millions of nonnative fish.\nBut even more mainstream environmental groups that count anglers as their members have expressed concerns about stocking nonnative fish.\nLike stocked nonnative fish, honeybees are valuable to human industries and the damage they cause is largely invisible to the public.\nThe obvious solution, said Michelle Lute, the executive director of Wildlife for All, is for state wildlife agencies to diversify their sources of income.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-03-20T09:34:20Z",
+    "source": "Vox"
+  },
+  {
+    "id": "NTM=",
+    "url": "https://www.bbc.com/news/videos/cj94jp3jmv8o",
+    "title": "BBC in Cuba as island plunged into darkness",
+    "summary": "More than 10 million people in Cuba have had power cut to their homes and businesses after the country's national electrical grid collapsed.\nThe Caribbean island has been hit with several blackouts this month, as a result of a US fuel blockade that cuts off the foreign oil imports needed to keep power stations running.\nThe Communist-run country has an ageing electricity infrastructure and chronic fuel shortages.\nThe BBC's Will Grant reports from the capital Havana.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-03-22T08:40:50Z",
+    "source": "BBC News"
   }
 ]
