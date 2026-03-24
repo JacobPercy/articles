@@ -2,13 +2,13 @@
   {
     "article": {
       "id": "MA==",
-      "url": "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/",
-      "title": "Kalshi Has Been Temporarily Banned in Nevada",
-      "summary": "Kalshi has been temporarily banned in Nevada, marking the latest escalation in the widening regulatory war over prediction markets.\nMassachusetts previously obtained a similar temporary injunction, but Kalshi was able to continue operating there while it appealed the case.\nThis particular legal battle began just over a year ago, when Nevada regulators sent Kalshi a cease-and-desist letter demanding that it stop offering sports-related events contracts.\nJust days earlier, Kalshi filed a lawsuit against Arizona state regulators preemptively challenging any effort to make it follow state gambling laws.\nThe Commodity Futures Trading Commission (CFTC), the US agency that oversees swaps and other derivatives markets, maintains that it has exclusive jurisdiction over prediction markets.",
-      "category": "technology",
+      "url": "https://xkcd.com/3223/",
+      "title": "xkcd: Inflation Timeline",
+      "summary": "This work is licensed under a Creative Commons Attribution-NonCommercial 2.5 License.\nThis means you're free to copy and share these comics (but not to sell them).\nMore details.",
+      "category": "economics",
       "bias": "left",
-      "publishedAt": "2026-03-20T16:54:15Z",
-      "source": "Wired"
+      "publishedAt": "2026-03-23T04:00:00Z",
+      "source": "Xkcd.com"
     }
   },
   {
@@ -26,10 +26,46 @@
   {
     "article": {
       "id": "Mg==",
+      "url": "https://www.businessinsider.com/blackrock-larry-fink-letter-ai-worsen-wealth-inequality-2026-3",
+      "title": "BlackRock's Larry Fink: Invest in AI or get left behind",
+      "summary": "The CEO of the world's largest asset manager unsurprisingly wants more people to invest in capital markets.\nBut he's also clear about the risk for those who do not or cannot invest in things such as the growth of artificial intelligence.\nAI \"threatens to repeat that pattern at an even larger scale \u2014concentrating wealth among the companies and investors positioned to capture it,\" he added.\nThe \"civic miracle\" of being a part of your country's growth via investment is an important connection between citizens and their government, Fink wrote.\n\"Extending it \u2014 so that more people can invest in their country's growth and share in its rewards \u2014 is the task in front of us,\" his letter reads.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-03-23T14:23:52Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Mw==",
+      "url": "https://www.bbc.com/news/articles/c75kl47zez3o",
+      "title": "Trump says 'good' talks ongoing with Iran but offers few details",
+      "summary": "If talks did take place, it is not clear how serious any US-Iranian negotiations have been, whether the US and Israel will continue other airstrikes and whether Iran is still restricting access to the Strait of Hormuz - the reason for Trump's Monday bombing deadline in the first place.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-03-23T15:00:06Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NA==",
+      "url": "https://www.businessinsider.com/business-insider-welcomes-ryan-kailath-2026-3",
+      "title": "Business Insider welcomes Ryan Kailath as senior editor on the economy team",
+      "summary": "Ryan Kailath joins Business Insider as a Senior Editor on our Economy team and will oversee a team of reporters covering the job market, student loans, and the intersection of culture and the economy.\nRyan has more than a decade of experience covering the economy, business, and the financial forces shaping everyday life.\nAs an editor at KUOW, he worked across multiple beats and contributed to award-winning stories recognized with Edward R. Murrow Awards.\n\"Ryan's combination of technical and business chops is the perfect complement to our people-focused economy coverage,\" said Bartie Scott, deputy editor at Business Insider.\nHe was a Knight-Bagehot Fellow in Business and Economics Journalism, focused on economics, accounting, and statistics, business analytics, and corporate finance.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-03-23T16:27:55Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NQ==",
       "url": "https://www.businessinsider.com/swimply-ceo-says-renting-pools-helps-homeowners-earn-extra-income-2026-3",
       "title": "Swimply's CEO says the app is bringing the gig economy to pools \u2014 and helping cash-strapped homeowners make money",
       "summary": "The gig economy is coming for your backyard pool.\nThe app lets owners list their pools, where potential users can then book them by the hour.\n\"Now, they have a more epic backyard, and start charging more and gaining more traction for their pool,\" Laskin said.\nSwimply still relies mostly on word of mouth to recruit new pool owners to its platform, Laskin said.\nThere's also potential to add more types of facilities to Swimply, Laskin said, from basketball courts to music studios.",
-      "category": "technology",
+      "category": "economics",
       "bias": "lean left",
       "publishedAt": "2026-03-22T09:13:01Z",
       "source": "Business Insider"
@@ -37,11 +73,11 @@
   },
   {
     "article": {
-      "id": "Mw==",
+      "id": "Ng==",
       "url": "https://www.businessinsider.com/bills-congress-proposed-prediction-markets-2026-3",
       "title": "Here are the 6 ways lawmakers are trying to tackle the prediction market boom",
       "summary": "Prediction markets are on the rise, and ideas have begun flying on Capitol Hill about all the ways to contain them.\nThat includes everything from preventing insider trading, to keeping lawmakers off platforms like Kalshi and Polymarket, to banning betting on things like the Oscars or the Super Bowl halftime show.\nNone of these bills are close to becoming law.\nCongress is still catching up when it comes to prediction markets, and the Trump administration has taken a friendly regulatory approach toward the industry.\nBut they're worth keeping an eye on, especially as more Americans learn about prediction markets and as scrutiny over suspicious trades tied to war increases.",
-      "category": "economics",
+      "category": "technology",
       "bias": "lean right",
       "publishedAt": "2026-03-21T09:57:01Z",
       "source": "Business Insider"
@@ -49,7 +85,7 @@
   },
   {
     "article": {
-      "id": "NA==",
+      "id": "Nw==",
       "url": "https://www.businessinsider.com/us-cities-with-most-institutional-investors-2026-3",
       "title": "10 US Cities With the Largest Portion of Institutional Investors",
       "summary": "If you've ever felt you can't compete with some offers when buying a home, you might be up against a collective effort from institutional investors.\n\"I think that people see institutional investors as a maybe strange or unnatural player in the housing market,\" Realtor.com senior economist Jake Krimmel told Business Insider.\n\"When it comes to the single-family market, this is a non-traditional actor, and the trend kind of started coming out of the Great Recession.\"\nHowever, that hasn't stopped President Donald Trump from targeting large housing investors with a plan to ban them from buying single-family homes.\nSee where investors have the biggest share of single-family homes in the US.",
@@ -61,19 +97,7 @@
   },
   {
     "article": {
-      "id": "NQ==",
-      "url": "https://www.businessinsider.com/fed-rate-hike-powell-bofa-interest-markets-investors-powell-trump-2026-3",
-      "title": "Could the Fed Hike Rates in 2026? BofA Says 3 Things Need to Happen.",
-      "summary": "Bank of America said clients have been asking whether the Federal Reserve could shock markets and raise rates this year.\nBank of America economists still believe Fed rate cuts are more likely than hikes in 2026, especially if the oil shock from the ongoing war in Iran subsides.\nHere are the three conditions Bank of America said must be met for the Fed to seriously consider raising rates in 2026.\nA stable labor marketSpencer Platt/Getty ImagesThe first condition for a potential Fed rate hike, in Bank of America's view, is a stable labor market.\n\"Fed to consider hiking rates, it needs to be confident first and foremost that the labor market is holding up,\" they wrote.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-03-20T19:00:53Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Ng==",
+      "id": "OA==",
       "url": "https://www.businessinsider.com/reddit-ceo-steve-huffman-new-grads-great-hires-ai-native-2026-3",
       "title": "Reddit CEO Steve Huffman says he plans to 'go heavy' on hiring new grads because they are 'AI native'",
       "summary": "Reddit CEO Steve Huffman, on the other hand, says the opposite is true for his company.\nAlso, the best new grads, if you don't hire them as new grads, you will never see them,\" Huffman said.\n\"They will never be on the job market again.\nDespite his optimism, new college graduates are entering the job market at a tricky time.\nStill, Huffman says he'll keep hiring new grads, particularly in engineering.",
@@ -85,7 +109,31 @@
   },
   {
     "article": {
-      "id": "Nw==",
+      "id": "OQ==",
+      "url": "https://www.npr.org/2026/03/23/nx-s1-5742568/iran-war-investments-retirement-529-stock-market",
+      "title": "Worried about a shaky stock market? This is what financial advisers suggest you do",
+      "summary": "Worried about a shaky stock market?\nStock markets have gone in the opposite direction, driven by uncertainty about the war's future and its effects on the economy.\nFinancial advisers say it depends on when you need to tap into your funds.\nThat's not to say a long period with a weak stock market is impossible.\nIt's classic advice to have a spread of holdings from the start, but when you are younger, those can be weighted toward the highly rewarding but fickle stock market.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-03-23T09:00:00Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "MTA=",
+      "url": "https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e",
+      "title": "Energy fallout from Iran war signals a global wake-up call for renewable energy",
+      "summary": "Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Manish Swarup, File) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Ng Han Guan) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Rafiq Maqbool) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Mahmud Hossain Opu) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-03-22T22:01:03Z",
+      "source": "Associated Press"
+    }
+  },
+  {
+    "article": {
+      "id": "MTE=",
       "url": "https://finance.yahoo.com/economy/policy/articles/china-pledges-more-balanced-trade-110948847.html",
       "title": "China pledges more balanced trade and further opening of the economy after record surplus",
       "summary": "China will import more high-quality foreign goods and work with all \u200cparties to promote optimised and balanced trade development and expand the global trade pie, Li told the China Development Forum in Beijing, according to state media.\nIt comes after the world's second-biggest economy reported a record $1.2 trillion trade surplus for 2025.\nIn a separate speech at the forum, China's central bank governor Pan Gongsheng also sought to alleviate concerns surrounding the trade surplus.\nChina has no need and no intention to gain trade competitive advantage through currency depreciation, Pan said.\nFOREIGN INVESTMENT PUSHChina is working to reverse a decline in foreign direct investment, which fell 5.7% year-on-year to just over 92 billion yuan ($13.36 billion) in January, following a 9.5% drop over the course of 2025.",
@@ -97,31 +145,31 @@
   },
   {
     "article": {
-      "id": "OA==",
-      "url": "https://abcnews.com/Politics/us-targets-mine-laying-vessels-strait-hormuz-amid/story?id=131228813",
-      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets",
-      "summary": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil marketsU.S. CENTCOM shared video of U.S. forces eliminating multiple Iranian naval vessels, including what they say are 16 minelayers near the Strait of Hormuz, March 10, 2026.\nU.S. CENTCOM shared video of U.S. forces eliminating multiple Iranian naval vessels, including what they say are 16 minelayers near the Strait of Hormuz, March 10, 2026.\nU.S. CENTCOM shared video of U.S. forces eliminating multiple Iranian naval vessels, including what they say are 16 minelayers near the Strait of Hormuz, March 10, 2026.\nU.S. CENTCOM shared video of U.S. forces eliminating multiple Iranian naval vessels, including what they say are 16 minelayers near the Strait of Hormuz, March 10, 2026.\nU.S. CENTCOM shared video of U.S. forces eliminating multiple Iranian naval vessels, including what they say are 16 minelayers near the Strait of Hormuz, March 10, 2026.",
-      "category": "international",
+      "id": "MTI=",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cb320338-3075-4c66-bc72-6a528a3c24c8",
+      "title": "Your privacy choices",
+      "summary": "When you use our sites and apps, we use cookies to:Your privacy choicesAccept all', we and technical identifiers and browsing and search data, for analytics, personalised advertising and content, advertising and content measurement, and audience research and services development.\nIf you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'.\nIf you would like to customise your choices, click 'Manage privacy settings'.\nYou can withdraw your consent or change your choices at any time by clicking on the 'Privacy and Cookie settings' or 'Privacy dashboard' links on our sites and apps.\nFind out more about how we use your personal data in our Privacy Policy and Cookie Policy.",
+      "category": "technology",
       "bias": "lean right",
-      "publishedAt": "2026-03-20T00:02:12Z",
-      "source": "Abcnews.com"
+      "publishedAt": "2026-03-22T15:46:36Z",
+      "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "OQ==",
-      "url": "https://www.businessinsider.com/iea-telling-people-work-from-home-as-oil-prices-soar-2026-3",
-      "title": "One of the world's biggest energy groups is telling people to work from home as oil prices soar",
-      "summary": "The International Energy Agency, one of the world's most important energy groups, has issued 10 measures for governments, businesses, and households to take immediately as oil prices soar.\nThis will reduce the use of oil used on commutes, the IEA wrote on its website on Friday.\nThe IEA said that cutting down on business flights \"can quickly ease pressure on jet fuel markets.\"\nThe war in the Middle East continues to disrupt global supply chains, sending oil prices above $100 a barrel for the first time since 2022.\nSome countries have already taken measures to reduce energy use, especially those reliant on oil from the Middle East.",
-      "category": "economics",
+      "id": "MTM=",
+      "url": "https://www.businessinsider.com/march-madness-bracket-bsuiness-trends-final-four-2026-3",
+      "title": "A bracket full of robots, tariffs, and the push to live forever",
+      "summary": "Don't say it.\nDon't say it.\nDon't say it.\nOk, let's take a look at this week's matchups:SaaSpocalypse (1) vs Tariffs (5): It's largely a game of \"What ifs?\"\nThe irony is that even if we do figure out how to live longer, we'll likely still have to deal with the robots.",
+      "category": "technology",
       "bias": "lean left",
-      "publishedAt": "2026-03-20T12:28:26Z",
+      "publishedAt": "2026-03-23T11:59:16Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MTA=",
+      "id": "MTQ=",
       "url": "https://www.businessinsider.com/heavy-ai-investments-could-affect-your-paycheck-2026-3",
       "title": "How Firms' Heavy AI Investments Could Affect Your Paycheck",
       "summary": "Companies are investing heavily in the technology and top-tier AI talent, and layoffs aren't the only option for offsetting those costs.\n\"They have to pay for AI somehow,\" said Rocki-Lee DeWitt, a management professor at the University of Vermont's Grossman School of Business.\nIn another episode of the same program, venture capitalist Chamath Palihapitiya expressed concern about ballooning AI bills at his startup.\nCuts to employee compensation may be next.\nIt's also important to show why AI can't fill your shoes.",
@@ -133,43 +181,19 @@
   },
   {
     "article": {
-      "id": "MTE=",
-      "url": "https://www.npr.org/2026/03/20/g-s1-114535/cuba-readies-for-first-russian-oil-shipment-of-the-year-as-energy-crisis-deepens",
-      "title": "Cuba readies for first Russian oil shipment of the year as energy crisis deepens",
-      "summary": "Cuba readies for first Russian oil shipment of the year as energy crisis deepenstoggle caption Ramon Espinosa/APHAVANA \u2014 Cuba is preparing to receive its first shipment of Russian oil this year, just days after the government announced it was operating on natural gas, solar power and thermoelectric plants as severe power outages continue to hit an island whose power grid is crumbling.\nIf so, that would mark the first time any oil shipment from any country reaches Cuba in the past three months given a U.S. energy blockade.\nTracking a second vesselAnother vessel, the Hong Kong-flagged Sea Horse, is also reportedly carrying Russian oil to Cuba, transporting approximately 200,000 barrels of diesel, Pi\u00f1\u00f3n said.\nSponsor MessageIf the arrival of any of the two ships is confirmed, it would be the first shipment of Russian oil this year.\nIn late January, U.S. President Donald Trump threatened to impose tariffs on any country that sells or supplies oil to Cuba.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-03-20T05:59:55Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "MTI=",
-      "url": "https://www.coindesk.com/markets/2026/03/20/bitcoin-s-latest-fear-unlocked-as-rate-hikes-bets-rise-and-bond-markets-crumble",
-      "title": "Bitcoin price analysis: BTC faces new headwind from rising rate hike odds",
-      "summary": "Only weeks ago, the interest rate debate in the U.S. centered on just how many Federal Reserve rate cuts there would be in 2026.\nAccording to CME FedWatch, the chances of the Fed tightening policy at its next meeting in April have risen to 12%.\nPrecious metals \u2014 which ran massively higher in the weeks ahead the war \u2014 have sold off since.\nTrading at about $5,500 per ounce at the start of the month, gold on Friday was priced at $4,569.\nBitcoin continues to hover around $70,000, and \u2014 up modestly since the start of March \u2014 remains one of the best-performing assets since the war began.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T14:51:48Z",
-      "source": "CoinDesk"
-    }
-  },
-  {
-    "article": {
-      "id": "MTM=",
-      "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
-      "title": "Why people really hate AI",
-      "summary": "Companies of all shapes and sizes are hunting for places to deploy AI and can\u2019t stop talking about how this new technology will change everything.\nStudy after study shows people are worried about the effects of AI and simply don\u2019t find the technology worth all the downsides.\nOn this episode of The Vergecast, David and Nilay try to understand the AI gap.\nNo matter what you\u2019ve heard, it\u2019s not the water worries that are keeping AI from succeeding.\nBut we are still without a truly game-changing consumer use case for AI \u2014 at least, one people are willing to pay for.",
+      "id": "MTU=",
+      "url": "https://www.businessinsider.com/frenzy-for-anduril-shares-is-like-buying-taylor-swift-tickets-2026-3",
+      "title": "Why the Frenzy for Anduril Shares Is Like Buying Taylor Swift Tickets.",
+      "summary": "Anduril hasn't even finalized its next funding round, and investors are already eager to pay up like it's a sold-out concert.\nAnthropic has also seen a premium for secondary shares, though not as significant, said Rodriques.\nThe rush for shares reminds Rodriques of buying tickets to see Taylor Swift on Stubhub when her concert sells out in minutes.\nIf demand for Anduril shares is so high, the obvious question is: Why doesn't the company raise its share price to avoid leaving money on the table?\nTo explain, Rodriques went back to the analogy of a Taylor Swift concert or Nike shoes.",
       "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-03-20T13:27:53Z",
-      "source": "The Verge"
+      "publishedAt": "2026-03-23T09:00:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MTQ=",
+      "id": "MTY=",
       "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
       "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
       "summary": "Meanwhile, drivers that use the breathalyzers have reported being stranded due to the devices\u2019 inability to connect to the company\u2019s services.\nIn the meantime, Intoxalock hasn\u2019t explained what sort of cyberattack it\u2019s facing or whether hackers have obtained any of the company\u2019s user data.\nBack in March 2023, FBI director Christopher Wray confirmed, for the first time, that the agency had purchased US phone location data.\nWhile the FBI had previously paid for phone data from commercial data brokers\u2014instead of seeking a warrant\u2014it had stopped doing so, Wray said.\nFast-forward three years, and the FBI is once again purchasing location data that can be used to track Americans.",
@@ -181,19 +205,31 @@
   },
   {
     "article": {
-      "id": "MTU=",
-      "url": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
-      "title": "My AI Agent \u2018Cofounder\u2019 Conquered LinkedIn. Then It Got Banned",
-      "summary": "I know this better than anyone, as he and I cofounded HurumoAI, an AI agent startup, together with a third founder, Megan Flores.\nKyle and Megan, as it happens, are themselves AI agents, as is the rest of our executive team.\nI created HurumoAI with them in July 2025\u2014after first creating Kyle and Megan\u2014to investigate the role of AI agents in the workplace.\nThere was one aspect of founder mode, however, at which Kyle excelled: the art of posting to LinkedIn.\nFrom a technical perspective, it was a trivial matter to let Kyle operate autonomously on LinkedIn.",
+      "id": "MTc=",
+      "url": "https://www.businessinsider.com/openai-hiring-pipeline-google-apple-meta-microsoft-startups-data-2026-3",
+      "title": "OpenAI's talent pipeline: Who's feeding and hiring away workers at Sam Altman's AI giant",
+      "summary": "Since it launched ChatGPT, the Sam Altman-led company has quickly become a magnet for AI talent.\nLive Data Technologies analyzed publicly available professional profile data for OpenAI employees who had available information on previous employers.\nThe battle for AI talent has become one of Silicon Valley's fiercest.\nIt was founded by former OpenAI researchers, including siblings Dario and Daniela Amodei.\nThe average tenure for US-based OpenAI employees is around 16 months.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-03-20T10:00:00Z",
-      "source": "Wired"
+      "bias": "center",
+      "publishedAt": "2026-03-23T09:56:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MTY=",
+      "id": "MTg=",
+      "url": "https://yro.slashdot.org/story/26/03/22/2025249/tech-leaders-support-california-bill-to-stop-dominant-platforms-from-blocking-competition",
+      "title": "Tech Leaders Support California Bill to Stop 'Dominant Platforms' From Blocking Competition",
+      "summary": "Manipulating the order of search results to favor a provider's products or services, irrespective of a merit-based process,Using non-public data generated by third-party sellers \u2014 including sales volumes, pricing, and customer behavior \u2014 to develop competing products that are subsequently boosted above the third-party sellers' product...A new bill proposed in California \"goes after big tech companies\" writes Semafor .\nSupported by Y Combinator, Cory Doctorow , and the nonprofit advocacy group Fight for the Future, it's called the \"BASED\" act \u2014 an acronym which stands for \"Blocking Anticompetitive Self-preferencing by Entrenched Dominant platforms.\n\"More from Scott Wiener;s announcement The announcement includes a quote from Teri Olle, VP of the nonprofit Economic Security California Action, saying the act would \"safeguard merit-based market competition.\nThis legislation stands for a simple principle: owning the stadium doesn't mean that you get to rig the game.\"\nRead on for reactions from DuckDuckGo, Proton, Yelp, Y Combinator, and Cory Doctorow.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-03-22T20:34:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "MTk=",
       "url": "https://www.bbc.com/sport/golf/articles/cz9qj7j382xo",
       "title": "Virtual golf: The indoor revolution threatening to outstrip outdoor golf",
       "summary": "Whisper it quietly, but by the end of 2028 it has been predicted that there will be more rounds of virtual golf played in the UK than outdoors ones.\nIt's a bold claim made by one of indoor golf's leading technology firms, which also suggests that globally 80% of all rounds will be virtual in two years.\nIn golf-loving South Korea, the tipping point was reached almost a decade ago as 'screen golf' overtook 'field golf'.\nRecent data from the R&A - which runs golf globally outside the United States and Mexico - and the US, revealed more people globally are playing golf off-course than on-course.\n\"Golf is really good for five months of the year in the UK, OK for four, and rubbish for the rest,\" says Chris Ingham, co-founder of indoor venue Pitch Golf.",
@@ -205,7 +241,7 @@
   },
   {
     "article": {
-      "id": "MTc=",
+      "id": "MjA=",
       "url": "https://www.bbc.com/sport/tennis/articles/cn4395lp2qko",
       "title": "Wimbledon: Video review technology introduced for 2026 tournament",
       "summary": "Video review technology will be introduced at Wimbledon for the first time this year.\nPlayers will be allowed to challenge certain calls made by the chair umpire - as they are already able to do at both the US Open and the Australian Open.\nThe technology will be available on Centre Court and Court One throughout the Championships and on the other four show courts when they are hosting singles matches.\nIt was only last year that the All England Club (AELTC) introduced electronic line calling (ELC), which ended the role played by line judges over the previous 147 years.\nThere will be no limit on the number of reviews a player can request.",
@@ -217,79 +253,55 @@
   },
   {
     "article": {
-      "id": "MTg=",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "title": "OpenAI is planning a desktop \u2018superapp\u2019",
-      "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nOpenAI is working on a desktop \u201csuperapp\u201d that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports.\nFragmentation \u201chas been slowing us down and making it harder to hit the quality bar we want,\u201d Simo said.\nOpenAI made waves last year with splashy announcements like the Sora video app and buying Jony Ive\u2019s AI hardware company.\nBut it has been facing increased competition from Anthropic as of late, especially following Claude Code\u2019s surge in popularity.",
+      "id": "MjE=",
+      "url": "https://www.businessinsider.com/evion-ai-crop-analysis-tool-small-mid-sized-farms-2026-3",
+      "title": "This 16-year-old refused a $300,000 offer to drop out of high school and now runs his own AI company",
+      "summary": "Kunvar had spent the summer before building Evion, a free AI crop-analysis tool that uses images taken by basic camera drones that farmers can purchase themselves.\nInstead, farmers can buy cheap camera drones, take their own photos, and upload the information themselves.\nAfter building Evion, Kunvar partnered with Jacob Lee, who has experience creating tech tools, to expand its reach.\n\"I asked a farmer about how they're able to tell when a disease is coming or what slight discoloration means,\" Kunvar said.\nThey found better luck, however, partnering with agriculture-oriented nonprofits and organizations to reach farmers.",
       "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-03-20T00:09:38Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MTk=",
-      "url": "https://www.businessinsider.com/hyundai-motional-robotaxi-uber-partnership-ceo-laura-major-interview-2026-3",
-      "title": "Hyundai's Motional Is Back. Here Are 5 Takeaways From Its CEO.",
-      "summary": "Laura Major, Motional's CEO since 2025, called it a \"hard decision.\"\nMotional's robotaxi depot in Las Vegas.\nHyundai gives Motional a deployment edgeSeveral companies, including Waymo and Avride, are relying on Hyundai, the South Korean automaker, for their robotaxi fleets.\nSafety drivers smooth out rider logisticsIt's now an industry standard to let riders try a robotaxi service before it completely removes the human driver.\nThe CEO said the future is pointed toward partnerships with other companies with \"lean\" robotaxi operations and licensing Motional's technology to those outfits.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T04:02:01Z",
+      "publishedAt": "2026-03-22T20:06:36Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MjA=",
-      "url": "https://slashdot.org/story/26/03/21/0529209/jeff-bezos-seeking-100-billion-to-buy-manufacturing-companies-transform-them-with-ai",
-      "title": "Jeff Bezos Seeking $100 Billion to Buy Manufacturing Companies, 'Transform' Them With AI",
-      "summary": "GREAT MOMENTS IN HISTORY (#7): April 2, 1751 Issac Newton becomes discouraged when he falls up a flight of stairs.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-03-21T14:34:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "MjE=",
-      "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
-      "title": "Future Sony PlayStation games will use AI to imagine new frames",
-      "summary": "Is a senior editor and founding member of The Verge who covers gadgets, games, and toys.\nBut if the PS6 is delayed, Sony might want to try to get more out of the existing PS5 Pro in the meanwhile.\nThe PS5 already offers AMD FSR3 frame generation in some games, but FSR3 doesn\u2019t have the machine learning support.\nIt\u2019s interpolating between real frames, rather than AI imagining what should be between them.\nNvidia and AMD typically warn that frame generation isn\u2019t a solve for low frame rate, because you need a relatively stable frame rate to begin with for the technique to work.",
+      "id": "MjI=",
+      "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+      "title": "Crimson Desert dev apologizes for use of AI art",
+      "summary": "Is the Verge\u2019s weekend editor.\nReviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release.\nNow the developer has acknowledged that AI art was indeed used during the game\u2019s creation, but says that it was intended to be replaced before release.\nThe company apologized for both its inclusion in the final release and for not being more transparent about its use during development.\nWhile some large studios have embraced it, many smaller developers have revolted against the trend, proudly proclaiming their games to be \u201cAI free.\u201d",
       "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-03-20T19:49:59Z",
+      "publishedAt": "2026-03-22T17:34:34Z",
       "source": "The Verge"
     }
   },
   {
     "article": {
-      "id": "MjI=",
-      "url": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
-      "title": "There Aren\u2019t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
-      "summary": "More than a decade after bailing on the dismal Fire Phone, Amazon is giving the smartphone a second try.\nIt's unclear what this smartphone would cost, how much Amazon is spending to develop Transformer, and what operating system it will run.\nWhen reached by WIRED, an Amazon spokesperson said the company doesn't comment on rumors and speculation.\nAmazon famously launched the Fire Phone in 2014, but it was discontinued shortly after due to a limited app ecosystem and terrible sales.\nReuters says Amazon's Transformer phone might be inspired by the Light Phone, a feature phone made by a Brooklyn company with some smart features designed to help people get away from daily smartphone distractions.",
-      "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-03-20T22:03:09Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
       "id": "MjM=",
-      "url": "https://www.businessinsider.com/job-tasks-you-want-ai-to-take-over-survey-2026-3",
-      "title": "What parts of your job would you give to AI?",
-      "summary": "AI is coming for your job \u2014 or at least part of it.\nA January study from IT services company Cognizant, which analyzed 18,000 workplace tasks, found that 93% of jobs are affected by AI to some degree.\nIn the US, that could result in roughly $4.5 trillion of human labor shifting to AI \u2014 and it's happening at a faster rate than expected.\nWhile there are plenty of concerning predictions about AI replacing jobs entirely, there's also the possibility that the technology will allow many workers to spend more time on certain tasks and offload others to AI.\nGiven the assumption that AI is going to take at least some part of your job \u2014 if it hasn't already \u2014 we want to know what you would be happy to pass off, and what tasks you want to keep.",
+      "url": "https://www.businessinsider.com/how-ai-startup-ceo-personally-use-ai-tools-2026-3",
+      "title": "Here Is How 3 AI Startup CEOs Say They Personally Use AI Tools",
+      "summary": "For some tech CEOs, they're not just building AI \u2014 they're already living with it.\nThree founders of AI startups in San Francisco shared with Business Insider how they personally use AI in their work and lives, and what some of their favorite tools are for themselves and their team members.\nVipul Ved PrakashVipul Ved Prakash, the cofounder and CEO of Together AI, which enables developers to train generative AI models, told Business Insider that he uses AI \"a ton for everything.\"\nArvind JainArvind Jain, cofounder and CEO of Glean, an AI-powered enterprise search and workplace productivity platform, told Business Insider that he actually uses his own product most frequently.\nDaniel YanisseDaniel Yanisse, the cofounder and CEO of Checkr, which uses AI to conduct background checks, told Business Insider that he mainly uses AI from the perspective of an engineer.",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T09:19:01Z",
+      "bias": "center",
+      "publishedAt": "2026-03-23T11:47:01Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MjQ=",
+      "url": "https://slashdot.org/story/26/03/21/0529209/jeff-bezos-seeking-100-billion-to-buy-manufacturing-companies-transform-them-with-ai",
+      "title": "Jeff Bezos Seeking $100 Billion to Buy Manufacturing Companies, 'Transform' Them With AI",
+      "summary": "The two most beautiful words in the English language are \"Cheque Enclosed.\"\n-- Dorothy Parker",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-03-21T14:34:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "MjU=",
       "url": "https://www.businessinsider.com/openai-founder-andrej-karpathy-chores-dobby-ai-claw-2026-3",
       "title": "Andrej Karpathy says he uses an AI agent named Dobby the Elf Claw to control his pool and track his packages",
       "summary": "He said he connects them to an AI agent and asks a bot to do it, of course.\n\"I have a claw basically that takes care of my home, and I call him Dobby the Elf Claw,\" he said in the interview, which was released on Friday.\n\"It controls all of my lights, my HVAC, my shades, the pool, the spa, and also the security system.\"\nAI claws are a new wave of autonomous AI agents that can take actions on a user's behalf.\n\"She'll make for a beautiful, spacious home for my Dobby the House Elf claw, among lots of other tinkering,\" Karpathy posted on Wednesday.",
@@ -301,43 +313,103 @@
   },
   {
     "article": {
-      "id": "MjU=",
-      "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o",
-      "title": "Iran war: Gas shortage risks pushing India towards polluting fuels",
-      "summary": "In urban India, Sivalingam believes, a more likely scenario would be to move to electric cooking as a back-up rather than switching to biomass or other fuel.\nBut it would increase demand for electricity - much of which in India is generated using coal.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T00:59:29Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
       "id": "MjY=",
-      "url": "https://www.aljazeera.com/news/2026/3/20/long-before-trump-how-us-policy-has-harmed-the-environment-for-decades",
-      "title": "Long before Trump: How US policy has harmed the environment for decades",
-      "summary": "Environment advocacy groups are suing the US government over climate change policy rollback but Trump is not the first president to oversee harmful policies.\nBut Trump is not the first US president to enact policy damaging to the environment.\nHere\u2019s how decades of US policy have harmed the environment before he arrived in the White HouseAdvertisementWhat is the \u2018endangerment finding\u2019?\nExperts say that Trump\u2019s decision to entirely do away with environmental policy is unlike any president before him.\nTrump is by no means the first US president to enact policy which is damaging to the environment, however.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T08:28:07Z",
-      "source": "Al Jazeera English"
+      "url": "https://www.theverge.com/transportation/898131/elaphe-in-hub-motor-hyundai-ice-traction",
+      "title": "In-hub motors make this humble Hyundai a monster on ice",
+      "summary": "But, in this mode, the car\u2019s handling was unpredictable, its tail often coming around with little warning.\nAnd since there\u2019s one at every corner, Elaphe\u2019s software can leverage that to dramatically change the car\u2019s handling.\nHere, the motors still provided some assistance to help the vehicle turn, again modulating power and regen from left to right.\nWith those motors disabled, the thing struggled even to accelerate on polished ice, spinning its rear tires with wild abandon.\nFuture PotentialIn the case of the big American coupe, there\u2019s a considerable increase in the car\u2019s weight, since a battery had to be brought in.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-03-23T15:33:27Z",
+      "source": "The Verge"
     }
   },
   {
     "article": {
       "id": "Mjc=",
-      "url": "https://www.bbc.com/news/videos/ce99r6l6w4po",
-      "title": "Netanyahu says idea Israel dragged US into Iran war 'fake news'",
-      "summary": "Israeli Prime Minister Netanyahu has rejected accusations that he dragged US President Trump into the war with Iran.\nSpeaking at a news conference on Thursday, Benjamin Netanyahu also denied he \"misled\" Trump, saying that no-one could tell the US leader what to do.\nIsrael's strike on Iran's South Pars this week - part of the world's largest natural gas field - led to a spike in energy prices and Donald Trump posting that he had not known about the attacks in advance.\nThe fallout raised questions over how united Israel and the US remain in their war aims and Netanyahu has said Trump requested there be no further such attacks on energy targets.\nIran has retaliated by striking an energy complex in Qatar and attacking other energy targets in the Gulf.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T14:09:40Z",
+      "url": "https://www.bbc.com/news/articles/c070e283k8vo",
+      "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
+      "summary": "It says it wants users to know when they are looking at posts that have been made with AI, and that it has policies in place for the labelling of AI-generated content.\nNine Instagram accounts the BBC has tracked appear to no longer exist.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-03-22T00:45:45Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "Mjg=",
+      "url": "https://www.businessinsider.com/miro-ceo-ai-tool-subscription-spending-roi-2026-3",
+      "title": "Miro's CEO says companies should treat spending on AI as part of their employee learning budget",
+      "summary": "Plenty of companies are still debating whether costly AI subscriptions are worth it.\nMiro's strategy is part of a wider shift in tech, where AI adoption is moving from optional to expected.\nTech giants like Google are pushing employees to use AI tools more aggressively, and Microsoft has begun tying AI usage to performance evaluations.\nKhusid said he doesn't think the way companies use AI today is necessarily the end state.\nBetter tools speed code generation, he said, but code reviews can still bog down projects.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-03-21T09:00:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjk=",
+      "url": "https://www.businessinsider.com/consulting-management-ai-agents-future-ibm-2026-3",
+      "title": "The future of consulting at IBM: a real-time dashboard where humans monitor AI agents' work",
+      "summary": "At IBM's consulting arm, the future isn't a slide deck or a strategy memo \u2014 it's a live dashboard where humans monitor the work of AI agents in real time.\nThis January, it unveiled \"Enterprise Advantage,\" a similar version of the platform for clients that allows them to build and manage AI agents at scale.\nA screenshot of the dashboard IBM Consulting uses to monitor the work of its AI agents.\nIBM Consulting now employs about 150,000 employees and says its work overlaps with the Big Four and more technology-focused firms like Accenture.\nAnd right now, he said, there's a big question in corporate strategy: How do you prepare for a world where humans work alongside AI agents?",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-03-23T09:01:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
+      "url": "https://www.bbc.com/weather/articles/ckgwmr9ve10o",
+      "title": "Northern Lights stun as far south as Norfolk",
+      "summary": "Skies across the UK were illuminated in the spectacular colours of the Northern Lights on Friday night.\nThe natural phenomenon - known as the Aurora Borealis - was the result of increased solar activity sending energy towards Earth and interacting with our atmosphere.\nWhile the Northern Lights are mostly visible near the Arctic Circle and northern Scotland, following a strong storm they were visible as far south as Norfolk on Friday night.\nForecasters suggest that, with activity remaining high, there's another chance to see them again tonight.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-03-21T08:57:17Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "MzE=",
+      "url": "https://www.bbc.com/news/articles/czex56kwxxzo",
+      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
+      "summary": "\"No negotiations have been held with the US, and fakenews is used to manipulate the financial and oil markets and escape the quagmire in which the US and Israel are trapped,\" Mohammad-Bagher Ghalibaf, speaker of Iran's parliament wrote on X.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-03-23T03:00:32Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "MzI=",
+      "url": "https://hackaday.com/2026/03/22/storing-solar-energy-as-ice-for-air-conditioning/",
+      "title": "Storing Solar Energy As Ice For Air Conditioning",
+      "summary": "Thermal energy storage is pretty great, as phase-change energy storage is very consistent with its energy output over time, unlike chemical batteries.\nPV solar power charges a battery until it\u2019s fully charged.\nThe process can later be reversed, which will draw thermal energy out of the surrounding air and thus provide cooling.\nAfter charging the main compressor loop with R600 (N-butane), the system is trialed with a small PV solar array that manages to freeze the entire bucket of water.\nCourtesy of insulation, it\u2019s kept that way for a few days, giving plenty of time for the separate glycol-filled loop to dump thermal energy into it and push cold air into the surrounding environment.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-03-22T17:00:06Z",
+      "source": "Hackaday"
+    }
+  },
+  {
+    "article": {
+      "id": "MzM=",
+      "url": "https://www.bbc.com/news/articles/c203rdxkezwo",
+      "title": "UN issues new climate warning as El Ni\u00f1o looms",
+      "summary": "While scientists are still working out exactly why the Earth has accumulated so much extra heat over the past decade or so, they have no doubt that heat-trapping greenhouse gases such as carbon dioxide (CO2) are the root cause of the imbalance.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-03-23T04:06:22Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "MzQ=",
       "url": "https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/",
       "title": "How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps",
       "summary": "The new BYD chargers can add miles super quickly because they deliver up to 1,500 kilowatts (kW) per charge.\nMaking its own cars, its own chargers, and its own batteries gives BYD a significant leg-up in charging speeds over most global competitors, as the tech works together.\nBYD says it will make the rollout of the new charger a little easier by incorporating them into existing BYD charging banks, so that the infrastructure isn\u2019t starting from scratch.\nToday, most US EV owners have access to at-home charging and only use public fast-chargers on the occasional trip that stretches their 250-mile range.\nFor those people, the difference between charging in 20 minutes and in 5 minutes might be close to negligible.",
@@ -349,7 +421,19 @@
   },
   {
     "article": {
-      "id": "Mjk=",
+      "id": "MzU=",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260323005535.htm",
+      "title": "Microplastics are falling from the sky and polluting forests",
+      "summary": "Instead, most microplastics arrive through the air and gradually build up in forest soils.\n\"Then, in deciduous forests, the particles are transported to the forest soil by rain or the autumn leaf fall, for example.\"\nMeasuring Microplastics in Soil, Leaves, and AirTo better understand how microplastics accumulate, the research team collected samples from four forest sites east of Darmstadt in Germany.\nThis helped them assess how much of the total pollution stored in forest soils can be traced back to airborne sources.\nForests as Indicators of Airborne Plastic Pollution\"Our results indicate that microplastics in forest soils originate primarily from atmospheric deposition and from leaves falling to the ground, known as litterfall.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-03-23T08:34:53Z",
+      "source": "Science Daily"
+    }
+  },
+  {
+    "article": {
+      "id": "MzY=",
       "url": "https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week",
       "title": "Iran war enters its fourth week with no clear end in sight",
       "summary": "Iran war enters its fourth week with no clear end in sighttoggle caption Amir Levy/Getty Images EuropeAs the war in the Middle East enters its fourth week, President Trump said on Friday the administration is considering \"winding down\" military efforts in the region.\nThe Pentagon also says it is targeting the small, fast boats that Iran uses in the Persian Gulf.\nTrump administration to lift sanctions on Iranian oil stranded at seaThe U.S. is temporarily lifting sanctions on some oil from Iran.\nThis new lifting of sanctions applies to Iranian oil and oil products that are currently loaded on ships.\nTurkey said the attacks this week on Syria, its neighbor, were illegal.",
@@ -361,7 +445,7 @@
   },
   {
     "article": {
-      "id": "MzA=",
+      "id": "Mzc=",
       "url": "https://www.jalopnik.com/2125545/jack-nicholson-drove-hydrogen-powered-car-chevy-impala/",
       "title": "Jack Nicholson Drove A Hydrogen-Powered Car Before Green Energy Was Cool",
       "summary": "2024 had Dua Lipa promoting the new electric Porsche Macan, after all.\nBut back in the late 1970s, Jack Nicholson was taking things to the next level.\nIn '78, Nicholson appeared on TV driving the 'H2-4 Chevy,' an Impala converted to run solely on hydrogen power.\nFrom the exhaust comes a thin mist of steam; white smoke from your tailpipe is normally a red flag, but in Nicholson's '78 Impala, not so much.\nHe even felt comfortable inhaling the steam directly from the tailpipe.",
@@ -373,7 +457,31 @@
   },
   {
     "article": {
-      "id": "MzE=",
+      "id": "Mzg=",
+      "url": "https://www.nature.com/articles/d41586-026-00946-6",
+      "title": "The world just lived through the 11 hottest years on record \u2014 what now?",
+      "summary": "The past 11 years (2015-2025) have been the hottest on record, with last year being the second or third warmest year since observations began, according to a report released today by the World Meteorological Organization (WMO).\nThe State of the Global Climate 2025 report, which tracks important climate indicators, found that atmospheric carbon dioxide concentrations and ocean temperatures reached record levels last year.\nGlobal surface temperatures were slightly lower in 2025 than the previous year \u2014 the hottest on record \u2014 but continued a run of exceptionally high temperatures, the report states.\nLast year, the EEI reached its highest level since observations started in 1960, the report states.\nThe concentration of two more greenhouse gases, methane and nitrous oxide, also reached the highest levels on record in 2024.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-03-23T00:00:00Z",
+      "source": "Nature.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzk=",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260323005528.htm",
+      "title": "Most people get food\u2019s environmental impact completely wrong, study finds",
+      "summary": "A new study offers fresh insight into how people judge the environmental impact of the foods they eat, and the results suggest many are getting it wrong.\nScientists measure a food's environmental impact using a life cycle assessment, which tracks the entire process from production to disposal.\nMany participants overestimated the environmental impact of processed foods while underestimating the impact of water-intensive products (e.g.\nThey were also surprised to learn how much higher the environmental impact of beef is compared to other meats like chicken.\nEnvironmental impact labels that give foods a single overall grade (such as A-E) could help make these comparisons easier for consumers.\"",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-03-23T08:53:00Z",
+      "source": "Science Daily"
+    }
+  },
+  {
+    "article": {
+      "id": "NDA=",
       "url": "https://www.sciencedaily.com/releases/2026/03/260322020245.htm",
       "title": "Beavers are turning rivers into powerful carbon sinks",
       "summary": "Beavers may play an unexpected role in tackling climate change by transforming rivers into effective carbon dioxide sinks, according to a new international study led by researchers at the University of Birmingham.\nThe results show that wetlands shaped by beavers can store carbon at rates up to ten times higher than similar areas without their presence.\nBy slowing water, trapping sediments, and expanding wetlands, they turn streams into powerful carbon sinks.\nBeaver dams reshape rivers and carbon storageBeavers are returning to rivers and natural habitats across Europe after years of conservation efforts.\nThese carbon reserves can remain in place for decades, indicating that beaver-modified wetlands can serve as stable, long-term carbon sinks as long as the dams remain intact.",
@@ -385,67 +493,43 @@
   },
   {
     "article": {
-      "id": "MzI=",
-      "url": "https://www.yankodesign.com/2026/03/20/what-if-googles-server-heat-became-its-most-prominent-design-feature/",
-      "title": "What If Google\u2019s Server Heat Became Its Most Prominent Design Feature?",
-      "summary": "What rarely gets discussed is the messy, unglamorous reality sitting right at the center of it all: the data server room.\nLia Hur and Michell Hur, both from the Savannah College of Art and Design, began with a straightforward question: what do you do with all the heat that data servers constantly produce?\nTheir Google Sustainable Headquarters concept won two awards at the European Product Design Award 2025, covering both Architectural and Building Design and Interior Design categories, and it\u2019s easy to see why.\nDesigneres: Lia Hur, Michell HurThe first thing that strikes you when you look at the concept renderings is the ocean.\nIt\u2019s a sign that Lia and Michell Hur weren\u2019t trying to design a building that looks sustainable.",
+      "id": "NDE=",
+      "url": "https://www.bgr.com/2126675/nebraska-private-company-build-batteries-renewable-energy/",
+      "title": "Nebraska Wants To Build Batteries For Storing Renewable Energy",
+      "summary": "That's why a lot of solar energy setups introduce a backup battery or a whole-home backup battery system.\nThe battery is charged, where the energy is stored, and then it uses that energy at times when there's little or no energy being generated, such as at night.\nIf the sun isn't shining, the system isn't producing energy, and more broadly, if the wind isn't blowing, wind generators aren't making energy either.\nThat's precisely why Nebraska has introduced a bill to significantly bolster the state's backup battery systems.\nThe goal is to generate energy from traditional fossil fuels and renewable sources like wind and solar, store it appropriately, and leverage it when energy demand rises.",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T10:07:26Z",
-      "source": "Yanko Design"
+      "bias": "lean right",
+      "publishedAt": "2026-03-23T13:17:00Z",
+      "source": "BGR"
     }
   },
   {
     "article": {
-      "id": "MzM=",
-      "url": "https://thecoolingreport.com/intel.html",
-      "title": "The Cooling Report",
-      "summary": "A growing number of data center operators have started swapping water-cooled systems for air-cooled alternatives, claiming sustainability wins.\nAir cooling eliminates on-site water use, sure.\nBut it doubles or triples electricity consumption, pushing the water burden upstream to power plants that need their own cooling loops to generate that extra juice.\nA growing number of data center operators have started swapping water-cooled systems for air-cooled alternatives, claiming sustainability wins.\nAir cooling eliminates on-site water use, sure.",
+      "id": "NDI=",
+      "url": "https://www.scientificamerican.com/article/earths-climate-is-more-out-of-balance-than-any-time-in-record-history-u-n/",
+      "title": "Earth's climate is more out of balance than any time in record history, U.N. warns",
+      "summary": "Every key climate indicator is flashing red,\u201d The United Nations\u2019 Secretary-General Ant\u00f3nio Guterres said in a video message accompanying the WMO\u2019s report.\nThe WMO is the United Nations\u2019 weather and climate agency.\nThe period from 2015 to 2025 marks the 11 hottest years on record.\nAnd the ledger between incoming and outgoing heat is the most out-of-balance it has been in our observations, the agency warns.\nExcess heat is being trapped by ever-rising concentrations of greenhouse gases in Earth\u2019s atmosphere as humans continue to burn fossil fuels.",
       "category": "environment",
       "bias": "left",
-      "publishedAt": "2026-03-20T10:46:15Z",
-      "source": "Thecoolingreport.com"
+      "publishedAt": "2026-03-23T16:23:00Z",
+      "source": "Scientific American"
     }
   },
   {
     "article": {
-      "id": "MzQ=",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/korea-electric-power-corporation-kep-192737242.html",
-      "title": "Korea Electric Power Corporation (KEP): Smart Electric Life Launch and Robust FY2025 Earnings",
-      "summary": "Korea Electric Power Corporation (NYSE:KEP) is one of the best Korean stocks to buy.\nOn March 18, the Ministry of Climate, Energy and Environment and Korea Electric Power Corporation (KEPCO) introduced Smart Electric Life, a new platform that brings together 39 energy services in one place.\nConsumers can now easily access electricity rates, welfare discounts, and renewable energy programs without navigating multiple agencies.\nKorea Electric Power Corporation (KEP): Smart Electric Life Launch and Robust FY2025 EarningsThe platform consolidates services previously spread across seven organizations, including KEPCO, the Korea Energy Agency, and the Korea Power Exchange.\nKorea Electric Power Corporation (NYSE:KEP) is South Korea\u2019s national electric utility company.",
+      "id": "NDM=",
+      "url": "https://www.wiz.io/blog/trivy-compromised-teampcp-supply-chain-attack",
+      "title": "Trivy Compromised by \"TeamPCP\"",
+      "summary": "On March 19, 2026, threat actors compromised Aqua Security's Trivy vulnerability scanner, injecting credential-stealing malware into official releases and GitHub Actions.\nUpdate March 22, 13:15 UTC: Wiz Research continues to track TeamPCP activity following the initial Trivy compromise.\nUpdate March 22, 21:40 UTC: ~16:00 UTC, attackers were able to publish malicious images of Trivy ( 0.69.5 , 0.69.6 ) to Docker Hub.\nThe attack compromised multiple components of the Trivy project: the core scanner, the trivy-action GitHub Action, and the setup-trivy GitHub Action.\nAudit Trivy versions: Check whether your organization pulled or executed Trivy v0.69.4 from any source (GitHub Releases, container registries, etc.).",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-03-20T19:27:37Z",
-      "source": "Yahoo Entertainment"
+      "bias": "lean right",
+      "publishedAt": "2026-03-22T23:00:02Z",
+      "source": "Www.wiz.io"
     }
   },
   {
     "article": {
-      "id": "MzU=",
-      "url": "https://www.vox.com/climate/483175/fish-stocking-trout-wildlife-agencies",
-      "title": "These animals can cause big trouble. Why are states unleashing them by the millions?",
-      "summary": "State wildlife agencies spend tens of millions of dollars a year trying to eliminate them.\nWhat hasn\u2019t changed is that states are still stocking streams and lakes with millions and millions of nonnative fish.\nBut even more mainstream environmental groups that count anglers as their members have expressed concerns about stocking nonnative fish.\nLike stocked nonnative fish, honeybees are valuable to human industries and the damage they cause is largely invisible to the public.\nThe obvious solution, said Michelle Lute, the executive director of Wildlife for All, is for state wildlife agencies to diversify their sources of income.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-03-20T09:34:20Z",
-      "source": "Vox"
-    }
-  },
-  {
-    "article": {
-      "id": "MzY=",
-      "url": "https://www.npr.org/2026/03/20/nx-s1-5707535/trump-immigration-detention-appeals-board-deportation",
-      "title": "An immigration court few have heard of is quietly shaping policy behind the scenes",
-      "summary": "An immigration court few have heard of is quietly shaping policy behind the scenestoggle caption Yuki Iwamura/APStay up to date with our Politics newsletter, sent weekly.\nAnd a new proposed regulation would make it harder for people to appeal their immigration decisions at all.\nThe point of the Board of Immigration Appeals, former members and immigration attorneys said, is to catch mistakes made by immigration judges.\nAfter an immigration judge issues a decision, both the immigrant and ICE have a right to appeal that decision.\nMaking rapid policy changesBIA's public decisions set the precedent and tone for what immigration judges nationwide should do and how the general public should interpret immigration law and policy.",
-      "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-03-20T09:00:00Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzc=",
+      "id": "NDQ=",
       "url": "https://www.npr.org/2026/03/21/g-s1-114578/homeland-security-shutdown-oversight-detention",
       "title": "DHS shutdown hurts families' access to detention facilities, Democrat says",
       "summary": "DHS shutdown hurts families' access to detention facilities, Democrat saystoggle caption Andrew Caballero-Reynolds/AFP via Getty ImagesStay up to date with our Politics newsletter, sent weekly.\nFamilies are having an even harder time than usual talking to loved ones in immigration detention or finding out where they're located during the current Department of Homeland Security shutdown, a Texas Democrat says.\nSponsor MessageUneven, hard to measure impacts from shutdownBeyond detention, the shutdown has had inconsistent impacts on DHS oversight more broadly, lawmakers and immigration lawyers said in interviews.\nDuring that shutdown, DHS confirmed the Office of Detention Oversight was not working.\nOversight at DHS already in questionProblems with DHS oversight during the shutdowns have only exacerbated lawmakers' concerns about a lack of accountability at the agency.",
@@ -457,43 +541,43 @@
   },
   {
     "article": {
-      "id": "Mzg=",
-      "url": "https://www.businessinsider.com/scott-galloway-big-tech-protest-2026-3",
-      "title": "Why Scott Galloway is leading a movement against Big Tech",
-      "summary": "Scott Galloway wants to save the world \u2026 sort of.\nThe entrepreneur-turned-professor-turned-media-juggernaut is leading a movement against Big Tech on two fronts.\nHe previously wrote a book about Big Tech and founded and sold a business intelligence firm for hundreds of millions of dollars.\nOn the other hand, Galloway's privilege and position within the tech community make his pushback against Big Tech all the more impressive.\nRegardless of how you feel about what Galloway says, you can't deny his willingness to say it.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-03-20T10:09:56Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzk=",
-      "url": "https://abcnews.com/Politics/senate-fails-advance-dhs-funding-bill/story?id=131265330",
-      "title": "Senate once again fails to advance DHS funding bill",
-      "summary": "It marks the fifth time since the shutdown of the Department of Homeland Security -- which began in mid-February -- that the funding bill has failed to be advanced in the Senate.\nThe bill that Republicans put forward on Friday to fund all of DHS would have needed 60 votes to advance.\nParts of DHS -- from the Federal Emergency Management Agency to the Transportation Security Administration -- are shut down amid a funding fight over ICE.\nDemocrats said that they will continue to block funding until their demands on body cameras, judicial warrants and unmasking officers are met.\nWhile there is some FY2026 funding for ICE, the agency received a $75 billion infusion of funding over the next decade through the already-passed \"Big Beautiful Bill.\"",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-03-20T20:39:42Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NDA=",
-      "url": "https://www.npr.org/2026/03/20/nx-s1-5754519/mexican-teen-migrant-dies-florida-jail-ice",
-      "title": "A Mexican teen migrant dies in a Florida jail holding ICE detainees",
-      "summary": "A Mexican teen migrant dies in a Florida jail holding ICE detaineestoggle caption Yuki Iwamura/APMIAMI \u2014 A 19-year-old Mexican migrant died at a county jail in Florida that has been holding immigrant detainees, according to U.S. Immigration and Customs Enforcement.\nAccording to ICE, Royer Perez-Jimenez \"died of presumed suicide,\" although an official cause of death remains under investigation.\nThe Florida prosecutor's office referred any requests for information to the U.S. Department of Homeland Security and the U.S. Attorney General's Office.\nThe Mexican government said Thursday in a statement that such immigration detention deaths are \"unacceptable\" and called for a prompt and thorough U.S. investigation to prevent a recurrence.\n\"Immigration detention system deprives people of freedom, isolates people away from loved ones, and subjects people to abysmal conditions,\" said Carly P\u00e9rez Fern\u00e1ndez, communications director at Detention Watch Network, a national coalition advocating against immigrant detention.",
+      "id": "NDU=",
+      "url": "https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back",
+      "title": "Mapping ICE's expanding footprint, and the communities fighting back",
+      "summary": "Mapping ICE's expanding footprint, and the communities fighting backLoading...\nThese sites range from dedicated ICE facilities and private prisons to county jails, military bases and newly converted warehouses.\nMost individuals have only one book-in per stay in detention, but some are transferred between multiple detention centers.)\n\"They're getting the wrong people,\" says Donnie Dagenhart, who lives not far from a proposed ICE detention center near Williamsport, Md.\nRickenmann says he and fellow mayors have grave concerns about the rapidly expanding ICE detention system: \"Are they sanitary?",
       "category": "immigration",
       "bias": "center",
-      "publishedAt": "2026-03-20T06:42:16Z",
+      "publishedAt": "2026-03-23T09:00:00Z",
       "source": "NPR"
     }
   },
   {
     "article": {
-      "id": "NDE=",
+      "id": "NDY=",
+      "url": "https://www.businessinsider.com/ice-airport-security-tsa-agents-trump-federal-union-government-shutdown-2026-3",
+      "title": "The largest federal workers union says 'untrained, armed' ICE agents should not replace TSA",
+      "summary": "America's largest federal employee union says ICE agents are unqualified to replace TSA officers at US airports.\nWhite House Border Czar Tom Homan said Sunday that the administration was actively working on a plan to integrate ICE agents into airports.\nOn Sunday, Kelley said many TSA agents have continued to show up to work despite the lack of pay.\nDuring an interview on Sunday, US Transportation Secretary Sean Duffy said TSA officers, whose salaries start around $40,000 annually, can't live on $0 paychecks.\nThe airport said it already has enough staff for roles the government suggested could be filled by ICE agents.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-03-22T19:13:47Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NDc=",
+      "url": "https://www.yahoo.com/news/us/live/ice-agents-deployed-to-airports-to-support-tsa-as-staff-shortages-cause-extended-wait-times-live-updates-161132800.html",
+      "title": "Travelers still dealing with long TSA wait times despite ICE deployment: Live updates",
+      "summary": "Immigration officers were stationed at airports across the United States again on Tuesday as part of an effort by the Trump administration to help alleviate long lines and severe delays caused by understaffing at security checkpoints.\nPresident Trump announced on Saturday that he would reassign agents from Immigration and Customs Enforcement to support the TSA.\nWait times at Houston\u2019s George Bush Intercontinental Airport reached 4 hours on Tuesday the airport closed all but two of its security checkpoints.\nIn Atlanta, where waits reportedly stretched to as long as six hours over the weekend, airport management advised travelers to allow at least four extra hours to account for delays at security.\nOn Sunday, Trump rejected a similar compromise, but the new revised plan may be \u201cacceptable\u201d to the White House, according to insider reports.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-03-23T16:11:32Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDg=",
       "url": "https://www.breitbart.com/border/2026/03/21/migrants-stranded-at-mexicos-southern-border-plan-genesis-caravan-to-the-north/",
       "title": "Migrants Stranded at Mexico\u2019s Southern Border Plan \u2018Genesis\u2019 Caravan to the North",
       "summary": "The report cites estimates of approximately 75 thousand foreign migrants stranded at Mexico\u2019s southern border due to the hardening of immigration policies under the Trump administration.\nBorder Patrol apprehensions at the southwest border have dropped to less than 10,000 per month since President Trump\u2019s inauguration.\nDuring the last fiscal year of the Biden administration, 1,530,523 illegal aliens were apprehended by the Border Patrol, according to U.S. Customs and Border Protection.\nRandy Clark is a 32-year veteran of the United States Border Patrol.\nBefore his retirement, he served as the Division Chief for Law Enforcement Operations, directing operations for nine Border Patrol Stations within the Del Rio, Texas, Sector.",
@@ -505,19 +589,7 @@
   },
   {
     "article": {
-      "id": "NDI=",
-      "url": "https://www.aljazeera.com/sports/2026/3/20/iran-womens-football-team-feted-in-tehran-after-asylum-battle-at-asian-cup",
-      "title": "Iran women\u2019s football team feted in Tehran after asylum battle at Asian Cup",
-      "summary": "Iran\u2019s national football team returned to their war-torn nation after several of the players sought asylum in Australia.\nIranian authorities on Thursday gave the national women\u2019s football team a hero\u2019s welcome after their return from Australia, where some had made and then withdrawn asylum claims, amid accusations Iran had pressured their families.\nBecause of that, they were forced to withdraw their asylum and go back to Iran,\u201d Shiva Amini, a former Iranian national football player, who now lives in exile and campaigns on women\u2019s rights, wrote on social media.\n\u201cFortunately, the members of our team valued their national identity above all else and turned these offers down,\u201d she told Iranian media.\nBefore their opening game, the Iranian team fell silent as the national anthem played, although they later sang it in subsequent matches.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-03-20T05:51:10Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NDM=",
+      "id": "NDk=",
       "url": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown",
       "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
       "summary": "United States President Donald Trump has threatened to deploy federal immigration agents to the country\u2019s airports to \u201cdo Security like no one has ever seen\u201d.\n\u201cNO MORE WAITING, NO MORE GAMES!\u201dTrump\u2019s warnings on Saturday arrived on the five-week mark of a partial government shutdown that affects the Department of Homeland Security.\nTo force Democrats to vote for Homeland Security funding, Trump has threatened not to sign any legislation that Congress passes.\nIt is unclear, however, how ICE agents would improve current conditions at the airport, given that they do not have the same training as TSA agents.\nAdvertisement\u201cI look forward to seeing ICE in action at our Airports,\u201d Trump wrote in one of his posts.",
@@ -529,19 +601,7 @@
   },
   {
     "article": {
-      "id": "NDQ=",
-      "url": "https://www.cbc.ca/news/canada/refugee-family-separation-9.7134573",
-      "title": "Refugee family faces separation as father and son ordered deported from Canada",
-      "summary": "Permanent residency delays in Quebec are about 10 years, according to Immigration, Refugee and Citizenship Canada's (IRCC) processing times website.\nRavi Chauhan and his five-year-old son face separation from his wife, the child's mother, who is a protected person in Canada, but not them.\n\"Family is at the heart of immigration law, and isn't refugee protection about family reunification?\nImmigration, Refugees and Citizenship Canada offices in Montreal.\nLawyers and advocates are calling on Immigration, Refugees and Citizenship Canada (IRCC) to create a policy to prevent similar family separations.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-03-20T08:00:00Z",
-      "source": "CBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDU=",
+      "id": "NTA=",
       "url": "https://www.breitbart.com/immigration/2026/03/22/survey-shows-few-biden-migrants-were-asylum-seekers/",
       "title": "Survey Shows Few Biden Migrants Were Asylum Seekers",
       "summary": "A survey by pro-migration groups shows that only one out of every 27 border migrants claimed to meet the core requirement for winning political asylum in the United States.\nThe data undermine routine claims by progressives and journalists that illegal migrants are seeking deserved asylum.\nCongress\u2019s immigration laws bar economic migrants, and the asylum exception is granted to migrants fleeing persecution by their home governments.\nSeveral thousand migrants died while trying to reach the welcome offered by Biden\u2019s deputies, including his pro-migration border chief, Alejandro Mayorkas.\nSome migrants self-deported from the United States as ICE implemented the President\u2019s deportation promise and mandate.",
@@ -553,7 +613,7 @@
   },
   {
     "article": {
-      "id": "NDY=",
+      "id": "NTE=",
       "url": "https://www.businessinsider.com/elon-musk-tsa-salaries-airports-security-lines-2026-3",
       "title": "Elon Musk offers to pay the salaries of TSA agents as Trump threatens to replace them with ICE",
       "summary": "The world's richest man is offering to pay the salaries of TSA agents who have gone unpaid for weeks as the partial government shutdown drags on.\nMany TSA agents have stopped showing up for work, causing hourslong lines at security at many airports across the country.\nPresident Donald Trump, meanwhile, threatened on Saturday in a Truth Social post to replace TSA agents with ICE agents unless Congress can agree on a funding proposal.\nWhile the partial shutdown began on January 30, TSA agents received their first $0 paycheck on March 13.\nAs many as 10% of all TSA agents skipped work this week, according to the DHS.",
@@ -565,31 +625,19 @@
   },
   {
     "article": {
-      "id": "NDc=",
-      "url": "https://theintercept.com/2026/03/20/pentagon-ice-dhs-cbp-civilian-volunteer-force/",
-      "title": "Pentagon Implores Civilian Workers to Join ICE \u201cVolunteer Force\u201d",
-      "summary": "The Pentagon has put out a call to its civilian employees to volunteer with the Department of Homeland Security as the embattled agency enters its second month without funding and weathers a public relations crisis over its brutal immigration enforcement tactics.\nThe Pentagon\u2019s current call for DHS support appears to be a re-up of an earlier ask for volunteers made last August.\n\u201cThis is a national security problem, and our civilians have the critical skill sets to support DHS in their mission,\u201d Cogar said in August.\nA list of potential volunteer duties include data entry, operational support, assisting ICE and CBP with managing the flow of detainees, and logistical planning.\nSpokespeople for DHS, ICE, and CBP did not immediately respond to requests for comment.",
+      "id": "NTI=",
+      "url": "https://www.aljazeera.com/news/2026/3/23/trump-deploys-ice-agents-to-us-airports-amid-staffing-issues-delays",
+      "title": "Trump deploys ICE agents to US airports amid staffing issues, delays",
+      "summary": "Democrats and other observers slam deployment of US immigration agents to airports as dangerous and source of tension.\nThe Reuters news agency reported on Monday that the Department of Homeland Security (DHS) confirmed it has begun deploying hundreds of Immigration and Customs Enforcement (ICE) agents to assist in security at airports facing significant staffing issues.\nCNN also reported that at least four ICE agents were seen at Newark Liberty International Airport in New Jersey outside New York.\nAdvertisementMany TSA agents have begun calling out from work, and more than 300 employees have quit since the shutdown began, according to DHS.\nSpeaking to reporters on Monday, Trump said he had requested that ICE agents deployed to US airports remove their face masks.",
       "category": "immigration",
       "bias": "left",
-      "publishedAt": "2026-03-20T18:47:17Z",
-      "source": "The Intercept"
+      "publishedAt": "2026-03-23T15:13:54Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NDg=",
-      "url": "https://www.cbc.ca/news/canada/public-safety-minister-halts-refugee-family-deportation-9.7137963",
-      "title": "Days before deportation, Ottawa pauses removal of refugee's son, husband",
-      "summary": "The intervention came Saturday, just days before the father, Ravi Chauhan, and son were scheduled to be removed from Canada Monday evening.\nThe father and son's deportation, once set for Monday, has been deferred for at least a month.\nImmigration Minister Lena Metlege Diab intervened at the last minute to stop the woman's removal while she was awaiting departure at the Montreal airport last week.\nAdvocates are calling on Immigration, Refugees and Citizenship Canada (IRCC) to create a policy to prevent similar family separations.\nIn an emailed statement Thursday, IRCC spokesperson Jeffrey MacDonald said decisions to remove people from Canada are \"not taken lightly.\"",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-03-20T15:20:01Z",
-      "source": "CBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDk=",
+      "id": "NTM=",
       "url": "https://www.npr.org/2026/03/22/nx-s1-5704351/minnesota-school-ice-surge-children-trauma",
       "title": "How one Minnesota school is bouncing back after the ICE surge",
       "summary": "How one Minnesota school is bouncing back after the ICE surgetoggle caption Tim Evans for NPROn the top floor of a Spanish immersion elementary school in St. Paul, Minn., a classroom of fifth graders is immersed in a world of damsels in distress and knights slaying giants.\ntoggle caption Tim Evans for NPRYou can't always fix the world's problems, she says, but you can try to help others.\ntoggle caption Tim Evans for NPRAmanda, the school principal, says some kids didn't want to come back.\nOn the day NPR visited, a school district security vehicle sat idling outside the entrance, because a community member had reported an ICE vehicle nearby.\ntoggle caption Tim Evans for NPR\"I am Latina and I look Latina, which I love, right?",
@@ -601,7 +649,31 @@
   },
   {
     "article": {
-      "id": "NTA=",
+      "id": "NTQ=",
+      "url": "https://abcnews.com/Politics/transportation-secretary-duffy-ice-agents-trained-assist-tsa/story?id=131300873",
+      "title": "Transportation Secretary Duffy says ICE agents are trained and can assist TSA at airports",
+      "summary": "Duffy's statement comes after the president said ICE would go to airports MondayTransportation Secretary Duffy says ICE agents are trained and can assist TSA at airportsPeople wait in a TSA line at the John F. Kennedy International Airport on Sunday, March 22, 2026, in New York.\nTransportation Secretary Sean Duffy said Sunday that Immigration and Customs Enforcement (ICE) agents are trained and can assist with airport security, following President Donald Trump's announcement that ICE would be sent to airports starting Monday.\nBut again, we have ICE agents who are trained and can provide assistance to agents.\"\nICE agents are supposed to be at 14 airports across the country, multiple sources familiar with the situation told.\nThe number of airports ICE agents could be at could change, as plans are still being ironed out, according to sources.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-03-22T15:35:23Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NTU=",
+      "url": "https://thepointsguy.com/news/ice-officers-tsa-security-airports-trump-administration/",
+      "title": "ICE officers will help TSA at airports, Trump administration says",
+      "summary": "ICE officers will deploy to American airports to assist with certain security protocols beginning Monday, the Trump administration confirmed.\nBut the decision to augment TSA officers with ICE personnel was sure to be highly controversial on Capitol Hill and beyond.\nSpeaking on CNN, Homan said ICE agents would likely focus on logistical roles at airports typically performed by TSA officers \u2014 not screening baggage or passengers.\nMeanwhile, the union representing TSA officers immediately slammed the decision.\nThe Association of Flight Attendants also criticized the move and called on Congress to instead pass funding to pay TSA officers.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-03-22T17:33:38Z",
+      "source": "The Points Guy"
+    }
+  },
+  {
+    "article": {
+      "id": "NTY=",
       "url": "https://www.yahoo.com/news/articles/trump-threatens-attacks-iranian-power-045310693.html",
       "title": "Iran threatens to 'completely' close Strait of Hormuz and hit power plants after Trump ultimatum",
       "summary": "Iran said the Strait of Hormuz, crucial to oil and other exports, would be \"completely closed\u201d immediately if the U.S. follows up on President Donald Trump's threat to attack its power plants.\nThe aims have ranged from weakening Iran's nuclear program, missile program and support for armed proxies to enabling the Iranian people to overthrow the theocracy.\nUnder international law, power plants that benefit civilians can be targeted only if the military advantage outweighs the suffering it causes them, legal scholars say.\nAdvertisement AdvertisementTehran praised its attack as a show of strength, even as Israel's military asserts that Iranian missile launches have decreased since the war began.\nAdvertisement AdvertisementLebanese authorities say Israel's strikes have killed more than 1,000 people and displaced more than 1 million.",
@@ -613,35 +685,11 @@
   },
   {
     "article": {
-      "id": "NTE=",
-      "url": "https://www.cbc.ca/news/world/teen-mexico-migrant-death-us-ice-detention-9.7135741",
-      "title": "Mexican teen dies in U.S. immigration custody in Florida",
-      "summary": "A 19-year-old Mexican migrant died at a county jail in Florida that has been holding immigrant detainees, U.S. Immigration and Customs Enforcement (ICE) said.\nSince the beginning of this year, 13 immigrants have died in ICE custody.\nPerez-Jimenez is the youngest to die in custody since the beginning of Trump's second term and his immigration crackdown.\nThe Mexican government said in a statement on Thursday that such immigration detention deaths are \"unacceptable\" and called for a prompt and thorough U.S. investigation to prevent a recurrence.\nHe was transferred to ICE custody a month later.",
-      "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-03-20T02:47:06Z",
-      "source": "CBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTI=",
-      "url": "https://www.npr.org/2026/03/20/nx-s1-5754021/trump-democracy-autocracy-dictatorship-reports",
-      "title": "Trump is dismantling democracy at 'unprecedented' speed, global report finds",
-      "summary": "Trump is dismantling democracy at 'unprecedented' speed, global report findstoggle caption Alex Brandon/APThree major reports out this month say President Trump has done serious damage to American democracy at remarkable speed since his return to the White House.\nMeanwhile, Bright Line Watch , which surveys more than 500 U.S. scholars, concluded that the U.S. system now falls nearly midway between liberal democracy and dictatorship.\nBright Line Watch's co-directors spoke to NPR exclusively ahead of publication.\nBrendan Nyhan, a fellow Dartmouth professor and Bright Line co-director, adds that just because Trump has undermined democracy, doesn't mean the effects are permanent.\nYana Gorokhovskaia, director for strategy and design for Freedom House, says some of Trump's policies abroad also are undermining the country's democratic standing overseas.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-03-20T04:01:00Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "NTM=",
+      "id": "NTc=",
       "url": "https://www.bbc.com/news/videos/cj94jp3jmv8o",
       "title": "BBC in Cuba as island plunged into darkness",
       "summary": "More than 10 million people in Cuba have had power cut to their homes and businesses after the country's national electrical grid collapsed.\nThe Caribbean island has been hit with several blackouts this month, as a result of a US fuel blockade that cuts off the foreign oil imports needed to keep power stations running.\nThe Communist-run country has an ageing electricity infrastructure and chronic fuel shortages.\nThe BBC's Will Grant reports from the capital Havana.",
-      "category": "environment",
+      "category": "international",
       "bias": "lean right",
       "publishedAt": "2026-03-22T08:40:50Z",
       "source": "BBC News"
@@ -649,19 +697,7 @@
   },
   {
     "article": {
-      "id": "NTQ=",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/brazils-president-criticises-the-us-for-thinking-they-own-the-world",
-      "title": "Brazil\u2019s president criticises the US for thinking \u2018they own the world\u2019",
-      "summary": "Brazil's president criticises the US for thinking 'they own the world'NewsFeed Brazil\u2019s president criticises the US for thinking \u2018they own the world\u2019President of Brazil Lula de Silva criticised the United States\u2019 aggressive foreign policy under President Trump and called on the UN Security Council to prevent war.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T02:09:43Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTU=",
+      "id": "NTg=",
       "url": "https://www.aljazeera.com/video/inside-story/2026/3/22/will-the-houthis-join-iran-in-war-against-israel-and-the-us",
       "title": "Will the Houthis join Iran in war against Israel and the US?",
       "summary": "The Yemeni armed group says all options are on the table.\nAs the US-Israeli war against Iran drags on, Yemen\u2019s Ansar Allah, or the Houthis, have stayed out of the conflict.\nThey have said they consider themselves directly concerned and could take a position alongside Iran.\nThe armed group has attacked Israel and shipping in the Red Sea in recent years.\nSo, will the Houthis join the war?",
@@ -673,7 +709,7 @@
   },
   {
     "article": {
-      "id": "NTY=",
+      "id": "NTk=",
       "url": "https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks",
       "title": "Iran war: What\u2019s happening on day 22 of US-Israel attacks?",
       "summary": "In IranCasualties: The war has killed 1,444 people in Iran, including at least 204 children.\nThe war has killed 1,444 people in Iran, including at least 204 children.\nBahrain reports that it has destroyed a total of 143 missiles and 242 drones since Iranian attacks began on February 28.\nSaudi forces said they shot down at least 47 drones, including a concentrated barrage of 38 drones within just three hours.\nSaudi forces said they shot down at least 47 drones, including a concentrated barrage of 38 drones within just three hours.",
@@ -685,19 +721,7 @@
   },
   {
     "article": {
-      "id": "NTc=",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/rupee-weakness-likely-to-persist-as-oil-prices-stay-elevated-anindya-banerjee/articleshow/129696103.cms",
-      "title": "Rupee weakness likely to persist as oil prices stay elevated: Anindya Banerjee",
-      "summary": "SynopsisThe Indian rupee is at a critical point, falling past 93 against the US dollar.\nCrude oil prices and foreign investor outflows are pressuring the currency.\nGeopolitical risks, especially concerning the Strait of Hormuz, are a major factor.\nThe Reserve Bank of India is intervening to manage volatility.\nThe rupee's future direction depends on easing energy prices and global stability.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-03-20T08:37:36Z",
-      "source": "The Times of India"
-    }
-  },
-  {
-    "article": {
-      "id": "NTg=",
+      "id": "NjA=",
       "url": "https://www.aljazeera.com/news/2026/3/21/they-want-to-colonise-us-brazils-lula-warns-of-foreign-interference",
       "title": "\u2018They want to colonise us\u2019: Brazil\u2019s Lula warns of foreign interference",
       "summary": "Brazilian President Luiz Inacio Lula da Silva has criticised what he called the return of a colonial approach towards developing nations during a summit in Colombia.\n\u201cIt\u2019s not possible for someone to think that they own other countries,\u201d Lula said, in an apparent reference to US policy.\n\u201cThey want to colonise us again.\u201dThe left-wing Brazilian president also criticised the ongoing war launched by the US and Israel against Iran.\nAdvertisement\u201cWhere are Saddam Hussein\u2019s chemical weapons?\u201d Lula asked.\nWhile large-scale, overt US involvement in the region mostly petered out after the Cold War, Trump has rekindled the legacy.",
@@ -709,49 +733,25 @@
   },
   {
     "article": {
-      "id": "NTk=",
-      "url": "https://www.aljazeera.com/news/2026/3/20/kuwait-oil-refinery-hit-again-as-iran-targets-gulf-energy-infrastructure",
-      "title": "Iran hits Kuwaiti oil refinery as Israel renews attacks on Tehran",
-      "summary": "Qatar\u2019s Ras Laffan, the world\u2019s largest liquefied natural gas (LNG) terminal, sustained severe damage in Iranian attacks, wiping out roughly 17 percent of global LNG supply and costing an estimated $20bn in annual revenue.\nIsrael launched further attacks on Iran overnight.\nAli Mohammad Naeini also said the Iran war would go on.\nIn Israel, 15 people have been killed by Iranian missile fire.\nFour people were also killed in the occupied West Bank by an Iranian missile strike.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-03-20T08:04:32Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjA=",
-      "url": "https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus",
-      "title": "Slovenia heads to polls with diverging views on Israel in focus",
-      "summary": "Slovenia heads to the polls on Sunday in a closely contested race between incumbent Prime Minister Robert Golob and right-wing former Prime Minister Janez Jansa.\nJansa has served three times as prime minister, between 2004-2008, 2012-2013 and 2020-2022.\nThe election will also decide which direction the Alpine nation, which gained independence in 1991, will take on foreign policy, especially given the wildly divergent views on Israel and Palestine.\nSlovenia\u2019s government has been an outspoken critic of Israel\u2019s war; in contrast, Jansa is a staunch supporter of Israel.\nFrench President Emmanuel Macron told reporters on Thursday that Golob \u201cwas the victim of clear-cut interference\u201d by \u201cthird countries\u201d.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T11:51:23Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
       "id": "NjE=",
-      "url": "http://foreignpolicy.com/2026/03/20/starlink-spacex-musk-geopolitics-war-ukraine-russia-iran/",
-      "title": "Starlink Has Privatized Geopolitics",
-      "summary": "If many strategic supply chains now depend on private firms, Starlink is an unusually concentrated case of private discretion over public security functions.\nStarlink is far more than a commercial connectivity service.\nStarlink is far more than a commercial connectivity service.\nIf many strategic supply chains now depend on private firms, Starlink is an unusually concentrated case of private discretion over public security functions.\nAfter Russia\u2019s full-scale invasion in 2022 disabled terrestrial networks, Starlink terminals became operational infrastructure in a war defined by drones , distributed command, and rapid targeting cycles.",
+      "url": "https://tech.slashdot.org/story/26/03/22/0517221/google-search-is-now-sometimes-using-ai-to-replace-headlines",
+      "title": "Google Search Is Now Sometimes Using AI To Replace Headlines",
+      "summary": "The two most beautiful words in the English language are \"Cheque Enclosed.\"\n-- Dorothy Parker",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T18:40:34Z",
-      "source": "Foreign Policy"
+      "bias": "left",
+      "publishedAt": "2026-03-22T15:34:00Z",
+      "source": "Slashdot.org"
     }
   },
   {
     "article": {
       "id": "NjI=",
-      "url": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report",
-      "title": "Iran developing a \u2018vetting system\u2019 for Strait of Hormuz transit: Report",
-      "summary": "Lloyd\u2019s List reports that ships could be allowed to pass through \u2018safe corridor\u2019 once they are approved by Islamic Revolutionary Guard Corps.\nIran is developing a new vetting and registration system for ships transiting the Strait of Hormuz as it transitions to a \u201cselective\u201d blockade of the strategic waterway, according to Lloyd\u2019s List.\nThose details are being communicated via a series of Iran-affiliated individuals operating outside of Iran,\u201d Lloyd\u2019s reported on Wednesday.\nAbout one-fifth of the world\u2019s oil transits through the Strait, which connects the Gulf and the Gulf of Oman.\n\u201cThe Iranian proposal to allow ships which travel through Iranian waters, call at Iranian ports, and declare all cargo destinations is interesting.",
+      "url": "https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants",
+      "title": "Iran says will hit region\u2019s energy sites if US, Israel target power plants",
+      "summary": "Iran\u2019s parliament speaker warns country could \u2018irreversibly destroy\u2019 vital infrastructure across the region after Trump threatens to attack power plants if Strait of Hormuz is not opened.\nIran has threatened to hit energy sites in the Middle East after US President Donald Trump threatened to attack the country\u2019s power plants if Tehran does not open the strategic Strait of Hormuz.\nCritical \u2060infrastructure \u2060and energy facilities in the region could \u2060be \u201cirreversibly destroyed\u201d should Iranian power plants be \u2060targeted, Iran\u2019s Parliament Speaker Mohammad Bagher Ghalibaf posted on \u200cX on Sunday.\nHis comments came after Trump on Saturday said the US would \u201cobliterate\u201d Iran\u2019s power plants if it did not open the Strait of Hormuz within 48 hours.\nIn a statement, the IRGC said that \u2060companies with \u2060US shares will be \u201ccompletely destroyed\u201d if Washington targets Iranian energy facilities, and that energy facilities in countries that host US \u200cbases \u200cwill be \u201clawful\u201d targets for Iran.",
       "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-03-20T10:13:07Z",
+      "bias": "left",
+      "publishedAt": "2026-03-22T13:42:25Z",
       "source": "Al Jazeera English"
     }
   },
@@ -777,6 +777,102 @@
       "bias": "left",
       "publishedAt": "2026-03-21T23:00:56Z",
       "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjU=",
+      "url": "https://www.juancole.com/2026/03/without-americas-strategic.html",
+      "title": "Power without exit \u2013 America\u2019s strategic trap in the Strait of Hormuz",
+      "summary": "Even limited disruption can trigger global economic tremors, placing pressure not only on the United States but on its allies and adversaries alike.\nThe United States, once the architect of multilateral action, now finds itself acting alone, its calls for support met with hesitation or silence.\nAs James M. Dorsey astutely observes, \u201cit takes three to tango.\u201d The United States is not the sole protagonist.\nCaught between these two actors, the United States finds itself in a reactive posture.\nFor the United States, anything short of clear dominance risks being perceived as defeat.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-21T04:06:43Z",
+      "source": "Juancole.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NjY=",
+      "url": "https://abcnews.com/video/131329580/",
+      "title": "Video ICE officers arrive at airport TSA checkpoints after Trump order amid shutdown",
+      "summary": "ICE officers arrive at airport TSA checkpoints after Trump order amid shutdown Former Homeland Security official Elizabeth Neumann discusses deploying ICE agents to airports nationwide during the ongoing government shutdown.",
+      "category": "immigration",
+      "bias": "lean right",
+      "publishedAt": "2026-03-23T16:16:05Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Njc=",
+      "url": "https://www.aljazeera.com/news/2026/3/22/pakistan-super-league-matches-to-be-held-in-empty-stadiums-amid-oil-crisis",
+      "title": "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis",
+      "summary": "Pakistan Super League will be held on schedule from March 26, but without the crowds and only at two venues.\nPakistan\u2019s premier domestic T20 league will take place in empty stadiums due to the recent spike in oil prices, says a top official of the Pakistan Cricket Board (PCB).\nPakistan has faced soaring oil prices prompted by the United States-Israel war on Iran and the subsequent spread of the conflict across the region.\n\u201cWe can\u2019t ask people to restrict their movements and then have 30,000 people in stadiums every day.\nNaqvi apologised to the four cities \u2013 Rawalpindi, Faisalabad, Multan and Peshawar \u2013 that will no longer host PSL games this season.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-22T16:00:40Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "Njg=",
+      "url": "https://www.aljazeera.com/sports/2026/3/22/pakistan-super-league-matches-to-be-held-in-empty-stadiums-amid-oil-crisis",
+      "title": "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis",
+      "summary": "Pakistan Super League will be held on schedule from March 26, but without the crowds and only at two venues.\nPakistan\u2019s premier domestic T20 league will take place in empty stadiums due to the recent spike in oil prices, says a top official of the Pakistan Cricket Board (PCB).\nPakistan has faced soaring oil prices prompted by the United States-Israel war on Iran and the subsequent spread of the conflict across the region.\n\u201cWe can\u2019t ask people to restrict their movements and then have 30,000 people in stadiums every day.\nNaqvi apologised to the four cities \u2013 Rawalpindi, Faisalabad, Multan and Peshawar \u2013 that will no longer host PSL games this season.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-22T16:00:40Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "Njk=",
+      "url": "https://newrepublic.com/post/208066/israel-attack-tehran-iran-rift-trump-grows",
+      "title": "Israel Launches Fresh Wave of Attacks on Iran as Rift With Trump Grows",
+      "summary": "\u201cAt 7:04 AM ET today, President Trump said \u2018the US and Iran have had productive discussions\u2019 to end the Iran War.\nBy 7:10 AM ET, the S&P 500 surged +240 points adding +$2 TRILLION in market cap,\u201d the analysis noted.\n\u201c27 minutes later, Iran completely denied all of President Trump\u2019s claims and said there has been \u2018no contact\u2019 with the US.\nthe S&P 500 had fallen -120 points erasing -$1 trillion in market cap.\nThat\u2019s a $3 TRILLION swing market cap in 56 minutes, just in the S&P 500.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-03-23T16:06:35Z",
+      "source": "The New Republic"
+    }
+  },
+  {
+    "article": {
+      "id": "NzA=",
+      "url": "https://www.newyorker.com/magazine/2026/03/30/the-first-casualty-of-trumps-war-in-iran-was-the-truth",
+      "title": "The First Casualty of Trump\u2019s War in Iran Was the Truth",
+      "summary": "Now, as war has engulfed both the region and the global economy, Trump and his sycophantic advisers have taken to improvising on the fly, floating conflicting justifications for war and predictions about its duration.\nWhen confronted with these contradictions and falsehoods, all the President\u2019s men followed his lead: they blamed the media.\nWith increasing frequency, Trump berates reporters (particularly female reporters).\nThe owner of the Washington Post, the newspaper of Watergate, has done irreparable violence to his property merely to stay in Trump\u2019s good graces.\nIn Washington these days, there is hardly a reporter who does not have the President\u2019s cellphone number.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-21T10:00:00Z",
+      "source": "The New Yorker"
+    }
+  },
+  {
+    "article": {
+      "id": "NzE=",
+      "url": "https://www.globalresearch.ca/1956-suez-crisis-hormuz-crisis-repeating-history-hungary-taiwan/5919755",
+      "title": "From the 1956 Suez Crisis to the Hormuz Crisis. Repeating History from Hungary to Taiwan? - Global Research",
+      "summary": "The Suez Crisis began on July 19, 1956, when the United States withdrew financing for the Aswan Dam in Egypt.\nIsrael was the trigger of the 1956 Suez intervention.\nThe foundations of this capability were laid in the late 1950s, directly following the 1956 Suez Crisis.\nIn this sense, the Suez Crisis was not just a regional conflict; it was the decisive turning point that enabled Israel\u2019s emergence as a nuclear power.\nWestern Pacific and Taiwan Crisis PotentialThe Hormuz crisis hits the Indo-Pacific region the most today.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-03-23T15:41:39Z",
+      "source": "Globalresearch.ca"
+    }
+  },
+  {
+    "article": {
+      "id": "NzI=",
+      "url": "http://foreignpolicy.com/2026/03/23/abundance-foreign-policy-united-states-democracy-ezra-klein-derek-thompson/",
+      "title": "What Would an Abundance Foreign Policy Look Like?",
+      "summary": "As would-be policymakers peer ahead and imagine a world beyond Donald Trump, an abundance foreign policy could help sharpen their vision for the future.\nAn abundance foreign policy must therefore emphasize strategic and largely nonideological geoeconomic statecraft in seeking to further U.S. growth.\nAn abundance foreign policy would ask of every major international affairs decision: Does it expand the U.S. capacity to build without sacrificing core security and values?\nThe first priority of an abundance foreign policy should be to expand and diversify supply chains.\nAn abundance foreign policy points to a wider set of intended beneficiaries\u2014not only workers in exposed industries but anyone squeezed by high prices and scarcity.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-03-23T04:01:15Z",
+      "source": "Foreign Policy"
     }
   }
 ]
