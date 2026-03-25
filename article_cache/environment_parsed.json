@@ -1,26 +1,6 @@
 [
   {
-    "id": "MTA=",
-    "url": "https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e",
-    "title": "Energy fallout from Iran war signals a global wake-up call for renewable energy",
-    "summary": "Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Manish Swarup, File) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Ng Han Guan) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Rafiq Maqbool) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Mahmud Hossain Opu) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-03-22T22:01:03Z",
-    "source": "Associated Press"
-  },
-  {
-    "id": "MzA=",
-    "url": "https://www.bbc.com/weather/articles/ckgwmr9ve10o",
-    "title": "Northern Lights stun as far south as Norfolk",
-    "summary": "Skies across the UK were illuminated in the spectacular colours of the Northern Lights on Friday night.\nThe natural phenomenon - known as the Aurora Borealis - was the result of increased solar activity sending energy towards Earth and interacting with our atmosphere.\nWhile the Northern Lights are mostly visible near the Arctic Circle and northern Scotland, following a strong storm they were visible as far south as Norfolk on Friday night.\nForecasters suggest that, with activity remaining high, there's another chance to see them again tonight.",
-    "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-03-21T08:57:17Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "MzI=",
+    "id": "MjE=",
     "url": "https://hackaday.com/2026/03/22/storing-solar-energy-as-ice-for-air-conditioning/",
     "title": "Storing Solar Energy As Ice For Air Conditioning",
     "summary": "Thermal energy storage is pretty great, as phase-change energy storage is very consistent with its energy output over time, unlike chemical batteries.\nPV solar power charges a battery until it\u2019s fully charged.\nThe process can later be reversed, which will draw thermal energy out of the surrounding air and thus provide cooling.\nAfter charging the main compressor loop with R600 (N-butane), the system is trialed with a small PV solar array that manages to freeze the entire bucket of water.\nCourtesy of insulation, it\u2019s kept that way for a few days, giving plenty of time for the separate glycol-filled loop to dump thermal energy into it and push cold air into the surrounding environment.",
@@ -30,7 +10,7 @@
     "source": "Hackaday"
   },
   {
-    "id": "MzM=",
+    "id": "MjI=",
     "url": "https://www.bbc.com/news/articles/c203rdxkezwo",
     "title": "UN issues new climate warning as El Ni\u00f1o looms",
     "summary": "While scientists are still working out exactly why the Earth has accumulated so much extra heat over the past decade or so, they have no doubt that heat-trapping greenhouse gases such as carbon dioxide (CO2) are the root cause of the imbalance.",
@@ -40,7 +20,7 @@
     "source": "BBC News"
   },
   {
-    "id": "MzU=",
+    "id": "MjQ=",
     "url": "https://www.sciencedaily.com/releases/2026/03/260323005535.htm",
     "title": "Microplastics are falling from the sky and polluting forests",
     "summary": "Instead, most microplastics arrive through the air and gradually build up in forest soils.\n\"Then, in deciduous forests, the particles are transported to the forest soil by rain or the autumn leaf fall, for example.\"\nMeasuring Microplastics in Soil, Leaves, and AirTo better understand how microplastics accumulate, the research team collected samples from four forest sites east of Darmstadt in Germany.\nThis helped them assess how much of the total pollution stored in forest soils can be traced back to airborne sources.\nForests as Indicators of Airborne Plastic Pollution\"Our results indicate that microplastics in forest soils originate primarily from atmospheric deposition and from leaves falling to the ground, known as litterfall.",
@@ -50,7 +30,7 @@
     "source": "Science Daily"
   },
   {
-    "id": "Mzg=",
+    "id": "Mjc=",
     "url": "https://www.nature.com/articles/d41586-026-00946-6",
     "title": "The world just lived through the 11 hottest years on record \u2014 what now?",
     "summary": "The past 11 years (2015-2025) have been the hottest on record, with last year being the second or third warmest year since observations began, according to a report released today by the World Meteorological Organization (WMO).\nThe State of the Global Climate 2025 report, which tracks important climate indicators, found that atmospheric carbon dioxide concentrations and ocean temperatures reached record levels last year.\nGlobal surface temperatures were slightly lower in 2025 than the previous year \u2014 the hottest on record \u2014 but continued a run of exceptionally high temperatures, the report states.\nLast year, the EEI reached its highest level since observations started in 1960, the report states.\nThe concentration of two more greenhouse gases, methane and nitrous oxide, also reached the highest levels on record in 2024.",
@@ -60,7 +40,7 @@
     "source": "Nature.com"
   },
   {
-    "id": "Mzk=",
+    "id": "Mjg=",
     "url": "https://www.sciencedaily.com/releases/2026/03/260323005528.htm",
     "title": "Most people get food\u2019s environmental impact completely wrong, study finds",
     "summary": "A new study offers fresh insight into how people judge the environmental impact of the foods they eat, and the results suggest many are getting it wrong.\nScientists measure a food's environmental impact using a life cycle assessment, which tracks the entire process from production to disposal.\nMany participants overestimated the environmental impact of processed foods while underestimating the impact of water-intensive products (e.g.\nThey were also surprised to learn how much higher the environmental impact of beef is compared to other meats like chicken.\nEnvironmental impact labels that give foods a single overall grade (such as A-E) could help make these comparisons easier for consumers.\"",
@@ -70,7 +50,7 @@
     "source": "Science Daily"
   },
   {
-    "id": "NDA=",
+    "id": "Mjk=",
     "url": "https://www.sciencedaily.com/releases/2026/03/260322020245.htm",
     "title": "Beavers are turning rivers into powerful carbon sinks",
     "summary": "Beavers may play an unexpected role in tackling climate change by transforming rivers into effective carbon dioxide sinks, according to a new international study led by researchers at the University of Birmingham.\nThe results show that wetlands shaped by beavers can store carbon at rates up to ten times higher than similar areas without their presence.\nBy slowing water, trapping sediments, and expanding wetlands, they turn streams into powerful carbon sinks.\nBeaver dams reshape rivers and carbon storageBeavers are returning to rivers and natural habitats across Europe after years of conservation efforts.\nThese carbon reserves can remain in place for decades, indicating that beaver-modified wetlands can serve as stable, long-term carbon sinks as long as the dams remain intact.",
@@ -80,13 +60,23 @@
     "source": "Science Daily"
   },
   {
-    "id": "NDI=",
-    "url": "https://www.scientificamerican.com/article/earths-climate-is-more-out-of-balance-than-any-time-in-record-history-u-n/",
-    "title": "Earth's climate is more out of balance than any time in record history, U.N. warns",
-    "summary": "Every key climate indicator is flashing red,\u201d The United Nations\u2019 Secretary-General Ant\u00f3nio Guterres said in a video message accompanying the WMO\u2019s report.\nThe WMO is the United Nations\u2019 weather and climate agency.\nThe period from 2015 to 2025 marks the 11 hottest years on record.\nAnd the ledger between incoming and outgoing heat is the most out-of-balance it has been in our observations, the agency warns.\nExcess heat is being trapped by ever-rising concentrations of greenhouse gases in Earth\u2019s atmosphere as humans continue to burn fossil fuels.",
+    "id": "MzA=",
+    "url": "https://www.bgr.com/2126675/nebraska-private-company-build-batteries-renewable-energy/",
+    "title": "Nebraska Wants To Build Batteries For Storing Renewable Energy",
+    "summary": "That's why a lot of solar energy setups introduce a backup battery or a whole-home backup battery system.\nThe battery is charged, where the energy is stored, and then it uses that energy at times when there's little or no energy being generated, such as at night.\nIf the sun isn't shining, the system isn't producing energy, and more broadly, if the wind isn't blowing, wind generators aren't making energy either.\nThat's precisely why Nebraska has introduced a bill to significantly bolster the state's backup battery systems.\nThe goal is to generate energy from traditional fossil fuels and renewable sources like wind and solar, store it appropriately, and leverage it when energy demand rises.",
     "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-03-23T16:23:00Z",
-    "source": "Scientific American"
+    "bias": "lean right",
+    "publishedAt": "2026-03-23T13:17:00Z",
+    "source": "BGR"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://www.bbc.com/news/videos/cj94jp3jmv8o",
+    "title": "BBC in Cuba as island plunged into darkness",
+    "summary": "More than 10 million people in Cuba have had power cut to their homes and businesses after the country's national electrical grid collapsed.\nThe Caribbean island has been hit with several blackouts this month, as a result of a US fuel blockade that cuts off the foreign oil imports needed to keep power stations running.\nThe Communist-run country has an ageing electricity infrastructure and chronic fuel shortages.\nThe BBC's Will Grant reports from the capital Havana.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-03-22T08:40:50Z",
+    "source": "BBC News"
   }
 ]

@@ -11,16 +11,16 @@
   },
   {
     "id": "MQ==",
-    "url": "https://www.businessinsider.com/kalshi-cofounders-favorite-users-kansas-guy-inflation-ariana-grande-2026-3",
-    "title": "Kalshi cofounders' favorite users include 'this guy who lives in Kansas' who is their best inflation forecaster",
-    "summary": "The brains behind Kalshi say some of their best prediction market makers are \"actually random people.\"\nMansour said there's no single demographic for these \"super forecasters,\" who comprise some of the prediction market giant's most important users.\nOut of the group, Mansour and cofounder Luana Lopes Lara have some favorites \u2014 including \"a guy from Kansas.\"\n\"The best inflation forecaster on Kalshi over the last few years is not\u2014 none of the institutions or the big-name hedge funds,\" Mansour said.\nThe Trump administration has said it will ease up on prediction markets.",
+    "url": "https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked",
+    "title": "Kalshi says it will block politicians and athletes from trading in markets they\u2019re tied to",
+    "summary": "The guardrails we built use state-of-the-art technology and screening lists, but no screening system is perfect, and motivated bad actors consistently try to find a way.\nTo that end, we are also adding a whistleblower functionality straight in our market page, which makes it easier for our community to flag potential violations as they go through our public trading data.",
     "category": "economics",
-    "bias": "left",
-    "publishedAt": "2026-03-21T09:44:01Z",
-    "source": "Business Insider"
+    "bias": "lean right",
+    "publishedAt": "2026-03-23T20:24:43Z",
+    "source": "The Verge"
   },
   {
-    "id": "NA==",
+    "id": "Ng==",
     "url": "https://www.businessinsider.com/business-insider-welcomes-ryan-kailath-2026-3",
     "title": "Business Insider welcomes Ryan Kailath as senior editor on the economy team",
     "summary": "Ryan Kailath joins Business Insider as a Senior Editor on our Economy team and will oversee a team of reporters covering the job market, student loans, and the intersection of culture and the economy.\nRyan has more than a decade of experience covering the economy, business, and the financial forces shaping everyday life.\nAs an editor at KUOW, he worked across multiple beats and contributed to award-winning stories recognized with Edward R. Murrow Awards.\n\"Ryan's combination of technical and business chops is the perfect complement to our people-focused economy coverage,\" said Bartie Scott, deputy editor at Business Insider.\nHe was a Knight-Bagehot Fellow in Business and Economics Journalism, focused on economics, accounting, and statistics, business analytics, and corporate finance.",
@@ -30,23 +30,13 @@
     "source": "Business Insider"
   },
   {
-    "id": "NQ==",
+    "id": "Nw==",
     "url": "https://www.businessinsider.com/swimply-ceo-says-renting-pools-helps-homeowners-earn-extra-income-2026-3",
     "title": "Swimply's CEO says the app is bringing the gig economy to pools \u2014 and helping cash-strapped homeowners make money",
     "summary": "The gig economy is coming for your backyard pool.\nThe app lets owners list their pools, where potential users can then book them by the hour.\n\"Now, they have a more epic backyard, and start charging more and gaining more traction for their pool,\" Laskin said.\nSwimply still relies mostly on word of mouth to recruit new pool owners to its platform, Laskin said.\nThere's also potential to add more types of facilities to Swimply, Laskin said, from basketball courts to music studios.",
     "category": "economics",
     "bias": "lean left",
     "publishedAt": "2026-03-22T09:13:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Nw==",
-    "url": "https://www.businessinsider.com/us-cities-with-most-institutional-investors-2026-3",
-    "title": "10 US Cities With the Largest Portion of Institutional Investors",
-    "summary": "If you've ever felt you can't compete with some offers when buying a home, you might be up against a collective effort from institutional investors.\n\"I think that people see institutional investors as a maybe strange or unnatural player in the housing market,\" Realtor.com senior economist Jake Krimmel told Business Insider.\n\"When it comes to the single-family market, this is a non-traditional actor, and the trend kind of started coming out of the Great Recession.\"\nHowever, that hasn't stopped President Donald Trump from targeting large housing investors with a plan to ban them from buying single-family homes.\nSee where investors have the biggest share of single-family homes in the US.",
-    "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2026-03-21T10:51:01Z",
     "source": "Business Insider"
   },
   {
@@ -58,5 +48,35 @@
     "bias": "center",
     "publishedAt": "2026-03-23T09:00:00Z",
     "source": "NPR"
+  },
+  {
+    "id": "MTE=",
+    "url": "https://finance.yahoo.com/economy/policy/articles/china-pledges-more-balanced-trade-110948847.html",
+    "title": "China pledges more balanced trade and further opening of the economy after record surplus",
+    "summary": "How significant is China's record trade surplus impact?\nChina will import more high-quality foreign goods and work with all \u200cparties to promote optimised and balanced trade development and expand the global trade pie, Li told the China Development Forum in Beijing, according to state media.\nIt comes after the world's second-biggest economy reported a record $1.2 trillion trade surplus for 2025.\nIn a separate speech at the forum, China's central bank governor Pan Gongsheng also sought to alleviate concerns surrounding the trade surplus.\nFOREIGN INVESTMENT PUSHChina is working to reverse a decline in foreign direct investment, which fell 5.7% year-on-year to just over 92 billion yuan ($13.36 billion) in January, following a 9.5% drop over the course of 2025.",
+    "category": "economics",
+    "bias": "lean left",
+    "publishedAt": "2026-03-22T11:09:48Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MjA=",
+    "url": "https://www.bbc.com/news/articles/czex56kwxxzo",
+    "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
+    "summary": "\"No negotiations have been held with the US, and fakenews is used to manipulate the financial and oil markets and escape the quagmire in which the US and Israel are trapped,\" Mohammad-Bagher Ghalibaf, speaker of Iran's parliament wrote on X.",
+    "category": "economics",
+    "bias": "center",
+    "publishedAt": "2026-03-23T03:00:32Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.bbc.com/news/articles/c4g8x7q4l8go",
+    "title": "UK must back North Sea oil and gas drilling, says trade body",
+    "summary": "The Labour government has banned new licences for new oil and gas fields in the North Sea and a government spokesperson said issuing exploration permits \"cannot give us energy security and will not take a penny off bills\".",
+    "category": "economics",
+    "bias": "lean right",
+    "publishedAt": "2026-03-24T00:31:09Z",
+    "source": "BBC News"
   }
 ]
