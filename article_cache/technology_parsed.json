@@ -1,16 +1,16 @@
 [
   {
     "id": "Mg==",
-    "url": "https://www.businessinsider.com/blackrock-larry-fink-letter-ai-worsen-wealth-inequality-2026-3",
-    "title": "BlackRock's Larry Fink: Invest in AI or get left behind",
-    "summary": "The CEO of the world's largest asset manager unsurprisingly wants more people to invest in capital markets.\nBut he's also clear about the risk for those who do not or cannot invest in things such as the growth of artificial intelligence.\nAI \"threatens to repeat that pattern at an even larger scale \u2014concentrating wealth among the companies and investors positioned to capture it,\" he added.\nThe \"civic miracle\" of being a part of your country's growth via investment is an important connection between citizens and their government, Fink wrote.\n\"Extending it \u2014 so that more people can invest in their country's growth and share in its rewards \u2014 is the task in front of us,\" his letter reads.",
+    "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
+    "title": "Mark Zuckerberg and Jensen Huang are part of Trump\u2019s new \u2018tech panel\u2019",
+    "summary": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President\u2019s Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal.\nThe panel, which will \u201cweigh in on AI policy,\u201d will include 13 members to start, but could grow to 24.\nTrump\u2019s AI and crypto czar David Sacks and White House tech advisor Michael Kratsios will co-chair the panel.\nAccording to the White House\u2019s January announcement for the panel, PCAST will \u201cadvise the President on matters involving science, technology, education, and innovation policy.\nThe 2026 panel\u2019s first four members, especially Zuckerberg and Huang, have deep ties to the AI industry, which Trump has been pushing to block states from regulating over the past year.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-03-23T14:23:52Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-03-25T14:41:21Z",
+    "source": "The Verge"
   },
   {
-    "id": "NQ==",
+    "id": "Mw==",
     "url": "https://thenextweb.com/news/zalos-raises-3-6m-to-automate-finance-workflows",
     "title": "Zalos raises $3.6M to automate finance workflows",
     "summary": "The YC Fall 2025 startup, founded by a former Agicap GM and a former Apple Pay engineer, converts screen recordings of finance workflows directly into computer agents, no API integration required.\nEnterprise finance teams typically run on a combination of ERPs, CRMs, spreadsheets, email, and banking platforms that were built at different times, by different vendors, for different purposes.\nRather than requiring API integrations or custom connectors, Zalos trains agents from screen recordings of the actual workflows finance teams run inside their existing tools.\nZalos is making a different bet: that finance operations require accuracy levels, audit trails, and domain-specific skills (Excel manipulation, ERP navigation, categorisation logic) that general-purpose agents cannot reliably provide.\nThe company\u2019s current customers are in midmarket and enterprise finance teams; it plans to expand into additional enterprise ERPs and on-premise systems with the new capital.",
@@ -20,37 +20,27 @@
     "source": "The Next Web"
   },
   {
-    "id": "OA==",
-    "url": "https://www.businessinsider.com/reddit-ceo-steve-huffman-new-grads-great-hires-ai-native-2026-3",
-    "title": "Reddit CEO Steve Huffman says he plans to 'go heavy' on hiring new grads because they are 'AI native'",
-    "summary": "Reddit CEO Steve Huffman, on the other hand, says the opposite is true for his company.\nAlso, the best new grads, if you don't hire them as new grads, you will never see them,\" Huffman said.\n\"They will never be on the job market again.\nDespite his optimism, new college graduates are entering the job market at a tricky time.\nStill, Huffman says he'll keep hiring new grads, particularly in engineering.",
+    "id": "NA==",
+    "url": "https://www.businessinsider.com/how-united-new-economy-bed-called-relax-row-will-work-2026-3",
+    "title": "United is rolling out beds in economy. Here's how the airline's new 'Relax Row' will work.",
+    "summary": "Like the Skycouch, United's Relax Row, which can also be booked by a solo person or a duo, comes with several special amenities: a custom-fitted mattress, a plush blanket, and two extra pillows.\nThe \"Relax Row\" will give coach travelers a glimpse into what flying business class feels like.\nPatrick T. Fallon / AFPUnited said that up to 12 Relax Rows, located between the economy and premium economy sections, will be featured on over 200 Boeing 777 and Boeing 787 aircraft by 2030.\nUnited joins an international trendWhile the Relax Row is a first in the US market, United is far from the first airline globally to think up a bed in economy class.\nPremium economy is usually more.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-03-22T09:06:01Z",
+    "bias": "center",
+    "publishedAt": "2026-03-25T00:55:54Z",
     "source": "Business Insider"
   },
   {
-    "id": "MTI=",
-    "url": "https://www.gadgetreview.com/the-50000-ev-scam-why-washington-is-blocking-the-affordable-chinese-cars-americans-actually-want",
-    "title": "The $50,000 EV Scam: Why Washington Is Blocking the Affordable Chinese Cars Americans Actually Want",
-    "summary": "Tariffs exceeding 100% block affordable Chinese EVs as frustrated consumers pay $50,000 for average new carsGrew up back East, got sick of the cold and headed West.\nMeanwhile, Chinese EVs dominate global markets with premium interiors, advanced driver assistance, and yes\u2014actual mini-fridges.\nEdmunds editor Clint Simone called Chinese EV tech \u201castounding\u201d for the price after CES testing, highlighting karaoke systems and sophisticated driving software in sub-$25,000 vehicles.\nPolitics Versus PocketbooksOver 100% tariffs protect American jobs and data security while frustrating cost-conscious consumers.\nThe Tariff WorkaroundGeely plots American entry through local manufacturing that could reshape the affordable EV landscape.",
+    "id": "Ng==",
+    "url": "https://abcnews.com/video/131390965/",
+    "title": "Video United\u2019s new lie-flat economy option",
+    "summary": "United\u2019s new lie-flat economy option The dream for anyone on an overnight flight in economy is to stretch out and get a good night\u2019s sleep.\nUnited is announcing a new option aimed at making that dream come true.",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-03-23T18:18:26Z",
-    "source": "Gadgetreview.com"
+    "publishedAt": "2026-03-25T11:39:26Z",
+    "source": "Abcnews.com"
   },
   {
-    "id": "MTM=",
-    "url": "https://www.theverge.com/news/899172/fcc-foreign-router-ban",
-    "title": "The US government just banned consumer routers made outside the US",
-    "summary": "In December, the Federal Communications Commission banned all future drones made in foreign countries from being imported into the United States, unless or until their maker gets an exemption.\nBut since the vast majority \u2014 if not all \u2014 consumer routers are manufactured outside the United States, the vast majority of future consumer routers are now banned.\nBy adding all foreign-made consumer routers to its Covered List, the FCC is saying it will no longer authorize their radios, which de facto bans new devices from import into the country.\nIn the Volt Typhoon hack, Chinese state-sponsored hackers primarily targeted Cisco and Netgear routers, routers designed by US companies, according to the Department of Justice.\nWhile the FCC\u2019s Covered List makes it sound like the US is banning all \u201crouters produced in a foreign country,\u201d it\u2019s defined a bit more narrowly than that.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-03-23T22:47:23Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTQ=",
+    "id": "MTE=",
     "url": "https://www.businessinsider.com/kalshi-crack-down-politicians-athletes-betting-2026-3",
     "title": "Kalshi says it will crack down on politicians and athletes betting",
     "summary": "As lawmakers zero in on insider trading risks, Kalshi said it is rolling out a fresh set of guardrails for its sports and political betting markets.\nThe move was made to comply with congressional proposals that prohibit insider trading, the company said.\nAdditionally, people in college and professional sports, including athletes, personnel, and referees, will be \"preemptively blocked from trading markets associated with sports they are involved in.\"\nKalshi CEO Tarek Mansour responded to Ocasio-Cortez's X post, saying that Kalshi \"already bans, monitors, and enforces against all the groups\" that she had mentioned.\nWhile Kalshi has been publicly cracking down on users trying to profit from nonpublic information, its rival Polymarket is going the other way.",
@@ -60,24 +50,54 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTU=",
-    "url": "https://www.businessinsider.com/openai-hiring-pipeline-google-apple-meta-microsoft-startups-data-2026-3",
-    "title": "OpenAI's talent pipeline: Who's feeding and hiring away workers at Sam Altman's AI giant",
-    "summary": "Since it launched ChatGPT, the Sam Altman-led company has quickly become a magnet for AI talent.\nLive Data Technologies analyzed publicly available professional profile data for OpenAI employees who had available information on previous employers.\nThe battle for AI talent has become one of Silicon Valley's fiercest.\nIt was founded by former OpenAI researchers, including siblings Dario and Daniela Amodei.\nThe average tenure for US-based OpenAI employees is around 16 months.",
+    "id": "MTI=",
+    "url": "https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe",
+    "title": "Uber aims to launch Europe\u2019s first robotaxi service with Pony AI and Verne",
+    "summary": "Uber is joining forces with two companies, China\u2019s Pony AI and Croatia\u2019s Verne, to launch what it claims will be Europe\u2019s first commercially available robotaxi service.\nIts latest partners are Pony AI, which is currently operating autonomous vehicles in a number of Chinese cities, and Verne, which spun off of supercar maker Rimac.\nUnder the terms of the deal, Uber will provide the ridehail network, along with the customers; Verne will manage the fleet; and Pony AI will develop the autonomous driving technology.\nAs for Verne, there haven\u2019t been many updates since it was first announced as a robotaxi side project to Rimac.\nMate Rimac, the founder and CEO of Rimac Group, showed off a fleet of 60 prototype autonomous vehicles late last year.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-03-23T09:56:01Z",
+    "bias": "left",
+    "publishedAt": "2026-03-25T19:03:04Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTM=",
+    "url": "https://www.businessinsider.com/ai-agents-are-changing-cybersecurity-jobs-and-cutting-workloads-2026-3",
+    "title": "How AI Agents Are Changing Cybersecurity Jobs and Cutting Workloads",
+    "summary": "To keep up, some are onboarding a new kind of labor: AI agents.\nUnlike generative AI tools like ChatGPT, which rely on prompts, AI agents are assigned specific roles and trained to execute multi-step workflows.\nIn a 2025 McKinsey survey, 62% of respondents said their organizations are experimenting with AI agents.\nBut the technology's capabilities remain limited, raising questions about how quickly AI agents can scale in high-stakes environments \u2014 and what that means for workers and their jobs.\nWhere AI agents fall shortDespite early gains, AI agents still have clear limitations.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-24T20:07:19Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTQ=",
+    "url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-urges-blue-collar-workers-embrace-ai-2026-3",
+    "title": "Nvidia's Jensen Huang has a message for blue-collar workers: Don't miss the AI wave",
+    "summary": "Artificial intelligence isn't only coming for office jobs \u2014 Nvidia CEO Jensen Huang says blue-collar workers should be paying attention, too.\nWhile blue-collar jobs have been considered relatively safe from AI disruption compared to tech roles like engineering, Huang said workers in every profession, including farming and electrical work, should use artificial intelligence to help future-proof their jobs.\nIf I were a pharmacist, I would use AI,\" Huang said.\nIn almost every case, Huang said he'd rather hire the candidate who's an AI expert over one who isn't.\n\"Every college student should graduate and be an expert in AI,\" Huang said.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-24T18:01:52Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTU=",
+    "url": "https://www.businessinsider.com/startup-just-raised-6-million-from-8vc-and-marc-benioff-2026-3",
+    "title": "This Code Security Startup Just Raised $6 Million From 8VC",
+    "summary": "Enclave, a startup focused on finding the most dangerous security flaws buried deep within code written by AI, is launching from stealth with $6 million in seed funding at a $33 million valuation, led by 8VC.\n8VC's bet on Enclave is shaped in part by its investment in AI coding startup Cognition, the company behind the coding agent Devin, which gave it a front-row seat to how quickly AI-generated software is spreading.\n\"As a result of that, we've seen a lot of AI code generation both in our companies and in large enterprises,\" 8VC's Vivek Gopalan said in an interview.\nBoris Cherny, founder and head of Claude Code, said this year,\" pretty much 100% of our code is written by Claude Code + Opus 4.5,\" and he had not written a single line of code in two months.\nHoffman, who started coding at 12, estimates that up to 60% of code across all startups is written by AI.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-26T11:00:01Z",
     "source": "Business Insider"
   },
   {
     "id": "MTY=",
-    "url": "https://yro.slashdot.org/story/26/03/22/2025249/tech-leaders-support-california-bill-to-stop-dominant-platforms-from-blocking-competition",
-    "title": "Tech Leaders Support California Bill to Stop 'Dominant Platforms' From Blocking Competition",
-    "summary": "Manipulating the order of search results to favor a provider's products or services, irrespective of a merit-based process,Using non-public data generated by third-party sellers \u2014 including sales volumes, pricing, and customer behavior \u2014 to develop competing products that are subsequently boosted above the third-party sellers' product...A new bill proposed in California \"goes after big tech companies\" writes Semafor .\nSupported by Y Combinator, Cory Doctorow , and the nonprofit advocacy group Fight for the Future, it's called the \"BASED\" act \u2014 an acronym which stands for \"Blocking Anticompetitive Self-preferencing by Entrenched Dominant platforms.\n\"More from Scott Wiener;s announcement The announcement includes a quote from Teri Olle, VP of the nonprofit Economic Security California Action, saying the act would \"safeguard merit-based market competition.\nThis legislation stands for a simple principle: owning the stadium doesn't mean that you get to rig the game.\"\nRead on for reactions from DuckDuckGo, Proton, Yelp, Y Combinator, and Cory Doctorow.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+    "title": "Webtoon is adding AI localization tools to its comics platform",
+    "summary": "Before The Verge, he wrote about comic books, labor, race, and more at io9 and Gizmodo for almost five years.\nCanvas, Webtoon\u2019s platform for user-uploaded comics, is about to get a major overhaul that\u2019s designed to help creators make more money and share their art with a wider audience.\nKim also described Canvas\u2019 new translation functionality as a tool that\u2019s designed to make creators\u2019 lives easier.\n\u201cWith these tools, we want to help creators reach readers around the world while keeping full creative control of their work.\u201dOn paper, Canvas\u2019 AI tool sounds a lot like the Kindle Translate tool Amazon rolled out last fall.\n\u201cAt Webtoon, we strongly believe that this kind of technology should only be used to help our creators, not replace them,\u201d Kim said.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-03-22T20:34:00Z",
-    "source": "Slashdot.org"
+    "bias": "lean left",
+    "publishedAt": "2026-03-26T13:05:12Z",
+    "source": "The Verge"
   },
   {
     "id": "MTc=",
@@ -91,36 +111,76 @@
   },
   {
     "id": "MTg=",
-    "url": "https://www.bbc.com/news/articles/c070e283k8vo",
-    "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
-    "summary": "It says it wants users to know when they are looking at posts that have been made with AI, and that it has policies in place for the labelling of AI-generated content.\nNine Instagram accounts the BBC has tracked appear to no longer exist.",
+    "url": "https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/",
+    "title": "A Humanoid Robot Visits the White House to Push AI for Teaching Kids",
+    "summary": "An unexpected guest escorted Melania Trump at the Fostering the Future Together Global Coalition Summit on Wednesday: a walking, talking Figure 03 humanoid robot.\nThe Figure 03 robot is made by Silicon Valley-based robotics company Figure AI, which introduced its third-generation humanoid robot in October last year.\nThe Figure 03 robot costs around $25,000, according to Forbes.\nWatch this: Figure 03: Everything We Know About the New Humanoid Robot 03:27At the White House, the humanoid robot walked slowly down the red carpet to deliver opening remarks for the tech summit.\n\"I'm grateful to be part of this historic movement to empower children with technology and education,\" the Figure 03 robot said.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-03-22T00:45:45Z",
-    "source": "BBC News"
+    "bias": "lean left",
+    "publishedAt": "2026-03-26T00:05:11Z",
+    "source": "CNET"
   },
   {
     "id": "MTk=",
-    "url": "https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/",
-    "title": "Apple\u2019s Worldwide Developers Conference returns the week of June 8",
-    "summary": "March 23, 2026PRESS RELEASEApple\u2019s Worldwide Developers Conference returns the week of June 8Available online around the world, the conference will showcase the latest Apple software and technologiesCUPERTINO, CALIFORNIA Apple today announced it will host its annual Worldwide Developers Conference (WWDC) online from June 8-12, bringing developers together from around the world for a week of connection, exploration, and innovation.\nThe conference will take place on the Apple Developer app, website, and YouTube channel; and on the Apple Developer bilibili channel in China.\nSpace will be limited; details on how to submit a request to attend can be found on the Apple Developer website.\nApple will share additional conference information in advance of WWDC through the Apple Developer app, website, and YouTube channel.\nDevelopers can also follow the conference worldwide on LinkedIn and WeChat, and on bilibili in China.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-03-23T18:20:04Z",
-    "source": "Apple Newsroom"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://www.pcmag.com/news/musk-offers-sneak-peek-at-orbiting-data-centers-theyre-bigger-than-iss",
-    "title": "Musk Offers Sneak Peek at Orbiting Data Centers. They're Bigger Than the ISS",
-    "summary": "Elon Musk offered a first look at his plans for orbiting data centers this weekend, and they will be longer than the International Space Station (ISS).\nOn the Earth\u2019s surface, companies, including Musk\u2019s xAI, are already planning terrestrial AI data centers that\u2019ll reach 1,000 megawatts (1 gigawatt) of computing capacity.\nAstronomers and environmentalists have also been raising alarms about light pollution from the proposed orbiting data centers.\n(Credit: SpaceX)\u201cIt\u2019s a hostile environment in space, so you want to design the chip, optimize it, for space,\u201d Musk said.\nNevertheless, Musk remains bullish on orbiting data centers, pointing to the plentiful solar energy the satellites can harness.",
+    "url": "https://www.businessinsider.com/avi-patel-kled-ai-pays-for-data-7-million-funding-2026-3",
+    "title": "Avi Patel's Kled AI Pays for Data, Raises $7 Million Funding",
+    "summary": "Avi Patel is the 22-year-old founder of Kled AI, a San Francisco startup that buys and resells personal data from everyday people to train AI.\nNow, Kled AI pays people to send videos of themselves taking out the trash or photos of potholes on a road.\nThe startup is part of a new cohort of AI training startups meeting booming demand for data to power the latest and greatest AI systems.\nWe built an app where anyone can upload photos, videos, or other data and get paid for it.\nBut I actually think AI is only a small part of the opportunity.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-03-23T16:20:00Z",
-    "source": "PCMag.com"
+    "publishedAt": "2026-03-26T09:00:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "NDc=",
+    "id": "MjA=",
+    "url": "https://www.businessinsider.com/nebius-ceo-arkady-volozh-ai-meta-yandex-data-centers-compute-2026-3",
+    "title": "Nebius CEO Arkady Volozh explains why his blockbuster Meta deal isn't the endgame",
+    "summary": "I met Nebius CEO Arkady Volozh when he was in Silicon Valley for Nvidia's GTC conference earlier this month.\nThe physical world simply cannot build data centers fast enough.\nToday, capturing just 10% of the AI infrastructure market requires an estimated $400 billion in capital investment.\nBut our team has decades of experience building infrastructure at hyperscale.\nWith so much AI demand, it seems odd that there could be GPUs sitting around not being used?",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-26T09:00:02Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.businessinsider.com/aoc-bernie-sanders-introduce-bill-ai-data-center-moratorium-2026-3",
+    "title": "AOC and Bernie Sanders have a bill to pause AI data center construction. Here's what's in it.",
+    "summary": "Sen. Bernie Sanders of Vermont and Democratic Rep. Alexandria Ocasio-Cortez of New York are introducing the \"Artificial Intelligence Data Center Moratorium Act\" on Wednesday.\nThe bill would impose a nationwide halt on the new construction or upgrading of data centers until Congress passes legislation imposing new regulations on artificial intelligence.\nSanders first called for a moratorium on AI data centers in December, and the idea has yet to gain widespread support on Capitol Hill.\nSanders's push for an AI data center moratorium has already encountered strong pushback from the Trump administration, which has taken a friendly approach toward the industry.\nThe data center industry is also pushing back on Sanders and Ocasio-Cortez.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-03-25T15:20:29Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzY=",
+    "url": "https://www.theverge.com/transportation/900510/airport-tsa-seurity-wait-privatization-trump-mullin",
+    "title": "The TSA is broken \u2014 is privatization next?",
+    "summary": "Nearly 50,000 Transportation Security Officers (TSOs) who man the nation\u2019s airport security checkpoints haven\u2019t received a paycheck since late February.\nSince his nomination was announced, Fox News, Reason magazine, and the right-leaning Competitive Enterprise Institute have published articles laying out the case for TSA privatization.\nTSA workers are quitting at a rate of nearly 200 per week.\nWait times at Calgary routinely exceed 30 minutes, far higher than the national average for Canada.\nFor as long as the TSA remains useful as political leverage, travelers should prepare for periodic disruptions with unbearably long wait times.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-03-25T17:13:39Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "NDU=",
+    "url": "https://hackaday.com/2026/03/24/us-fcc-prohibits-approval-of-new-foreign-made-consumer-routers/",
+    "title": "US FCC Prohibits Approval Of New Foreign-Made Consumer Routers",
+    "summary": "The US Federal Communications Commission (FCC) is tasked with regulating both wired and wireless communications, which also includes a national security component.\nNow foreign-made consumer routers have been added to this list, barring explicit conditional approval on said list that would exempt them during a \u2018transition phase\u2019.\nAs per the FCC fact sheet, this follows after determination by an interagency body that such routers \u201cpose unacceptable risks to the national security of the United States [..]\u201d.\nThis document points us to the National Security Determination PDF, which attempts to lay out the reasoning.\nYet after for example Bloomberg claimed in 2018 that Supermicro gear had been infested with hardware backdoors, this started a years-long controversy.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-03-24T20:00:36Z",
+    "source": "Hackaday"
+  },
+  {
+    "id": "NDk=",
+    "url": "https://www.businessinsider.com/tech-recruiters-hiring-scene-middle-east-war-iran-dubai-expats-2026-3",
+    "title": "2 tech recruiters share what's happening to hiring in the Middle East",
+    "summary": "As the war in the Middle East reaches into its fourth week, companies in the region are scrambling to switch supply chains, change logistics routes, and prioritize employee safety.\nThe corporate-level changes have filtered down to hiring: Local tech recruiters told Business Insider that some clients have suspended hiring, while others said expats are seeking jobs that would let them move to Europe and Asia.\nThe UAE has become an increasingly important hub in the Middle East for tech companies to connect with big funding sources, customers, and talent.\nDownturn in applicationsVahid Haghzare, a Dubai-based director for Silicon Valley Associates Recruitment, said job applications slumped since the war broke out.\nOne of the firm's US SaaS customers suspended all regional hiring, Haghzare said.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-03-24T04:01:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NTI=",
     "url": "https://www.androidauthority.com/fcc-wi-fi-router-ban-3651306/",
     "title": "The US just pulled the plug on ALL foreign-made Wi-Fi routers",
     "summary": "NetgearTL;DR The FCC has blocked new foreign-made Wi-Fi routers from getting approval, effectively banning them from the US market.\nBrands must now clear strict national security checks to launch new router models in the US.\nThe US is cracking down on foreign-made Wi-Fi routers.\nThe body concluded that foreign-made routers pose \u201cunacceptable risks\u201d to US infrastructure and citizens.\nThis conditional approval is granted if Wi-Fi router manufacturers can prove to the US authorities that their devices do not pose security risks.",
@@ -128,45 +188,5 @@
     "bias": "center",
     "publishedAt": "2026-03-24T01:03:42Z",
     "source": "Android Authority"
-  },
-  {
-    "id": "NDg=",
-    "url": "https://www.cnet.com/home/internet/fcc-bans-foreign-made-routers-as-national-security-risk/",
-    "title": "Is Your Wi-Fi Router Safe From the FCC Ban? Nearly Every Major Brand Is Impacted",
-    "summary": "The FCC clarified that the ban doesn\u2019t apply to previously-purchased routers, but you won\u2019t be able to buy new routers that the FCC hadn\u2019t already authorized before the ban.\nBut this week's FCC action goes well beyond TP-Link and will affect nearly every router company operating in the US.\nBecause any router that\u2019s available now has already gotten FCC authorization, there\u2019s no need to rush out and buy a new router.\nRouter company Status following the announcement Asus Headquartered in Taiwan, subject to the ban.\nTP-Link Planning to establish US-based manufacturing, the company said the move is a \u201cpositive step.\u201d Currently subject to the ban.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-03-23T22:43:00Z",
-    "source": "CNET"
-  },
-  {
-    "id": "NTI=",
-    "url": "https://tech.slashdot.org/story/26/03/22/0517221/google-search-is-now-sometimes-using-ai-to-replace-headlines",
-    "title": "Google Search Is Now Sometimes Using AI To Replace Headlines",
-    "summary": "This is a good time to punt work.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-03-22T15:34:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "NTU=",
-    "url": "https://9to5mac.com/2026/03/24/your-wireless-router-is-now-banned-from-sale-in-the-us-but-you-can-still-use-it/",
-    "title": "Your wireless router is now banned from sale in the US",
-    "summary": "Almost every new wireless router for use in US homes is now banned from sale within the country under a new Federal Communications Commission (FCC) ruling.\nA huge dealThis is a huge deal because almost every wireless router used in US homes is made outside the US.\nThis includes the routers supplied as standard by internet service providers as well as models people buy to get better features.\nThe ban is so extensive because of the way a foreign-made router is defined in the ruling.\nWhat it means for youIt\u2019s important to stress that the ban applies to the importation and sale rather than the use of new foreign-made routers.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-03-24T11:02:33Z",
-    "source": "9to5Mac"
-  },
-  {
-    "id": "NTY=",
-    "url": "https://www.tomshardware.com/networking/routers/fcc-bans-import-of-new-consumer-routers-not-made-in-the-us-over-security-threat-agency-says-foreign-made-devices-pose-unacceptable-risk-to-us-persons",
-    "title": "FCC bans import of new consumer routers not made in the US over security threat \u2014 agency says foreign-made devices pose \u2018unacceptable risk\u2019 to US persons",
-    "summary": "Still, this did not deter the Department of Commerce from investigating TP-Link over its close ties to China.\nThis isn\u2019t the first time that the FCC issued a directive that had a blanket effect on a specific type of device.\nMany of the best Wi-Fi routers on sale in 2026 are from foreign companies like TP-Link.\nThe FCC's new measure could, in theory, preclude future new products from these companies from coming to the States.\nFollow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-03-24T10:42:18Z",
-    "source": "Tom's Hardware UK"
   }
 ]

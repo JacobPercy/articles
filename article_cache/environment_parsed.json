@@ -1,82 +1,82 @@
 [
   {
-    "id": "MjE=",
-    "url": "https://hackaday.com/2026/03/22/storing-solar-energy-as-ice-for-air-conditioning/",
-    "title": "Storing Solar Energy As Ice For Air Conditioning",
-    "summary": "Thermal energy storage is pretty great, as phase-change energy storage is very consistent with its energy output over time, unlike chemical batteries.\nPV solar power charges a battery until it\u2019s fully charged.\nThe process can later be reversed, which will draw thermal energy out of the surrounding air and thus provide cooling.\nAfter charging the main compressor loop with R600 (N-butane), the system is trialed with a small PV solar array that manages to freeze the entire bucket of water.\nCourtesy of insulation, it\u2019s kept that way for a few days, giving plenty of time for the separate glycol-filled loop to dump thermal energy into it and push cold air into the surrounding environment.",
+    "id": "OQ==",
+    "url": "https://www.businessinsider.com/iran-war-gas-prices-energy-crisis-photos-2026-3",
+    "title": "From panic buying in Chile to $8 gas in California, photos show how people around the world are grappling with a growing energy crisis",
+    "summary": "Iran's blockade of the Strait of Hormuz, through which a quarter of global seaborne oil and a fifth of global liquefied natural gas is shipped, has had sweeping implications worldwide.\nRising gas prices amid the Iran war have sparked panic-buying lines and shortages at gas pumps.\nOther supply chains, such as fertilizer and seafood, could also be in peril.\n\"Past crises \u2014 including COVID-19 and the war in Ukraine \u2014 showed how disruptions to energy, transport, and agricultural inputs can quickly spread across interconnected markets,\" the UN Conference on Trade and Development wrote in a report released March 10.\nHere's how countries and consumers around the world are feeling the effects of the Iran war.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2026-03-22T17:00:06Z",
-    "source": "Hackaday"
+    "publishedAt": "2026-03-26T11:12:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MjI=",
-    "url": "https://www.bbc.com/news/articles/c203rdxkezwo",
-    "title": "UN issues new climate warning as El Ni\u00f1o looms",
-    "summary": "While scientists are still working out exactly why the Earth has accumulated so much extra heat over the past decade or so, they have no doubt that heat-trapping greenhouse gases such as carbon dioxide (CO2) are the root cause of the imbalance.",
+    "id": "MjE=",
+    "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
+    "title": "Senators Demand to Know How Much Energy Data Centers Use",
+    "summary": "Democratic senator Elizabeth Warren and Republican senator Josh Hawley are urging the US\u2019s central energy information agency to provide better information on how much electricity data centers actually use.\nIn a joint letter sent to the Energy Information Administration Thursday morning, seen by WIRED, Hawley and Warren press the agency to publicly collect \u201ccomprehensive, annual energy-use disclosures\u201d on data centers.\n\u201cIf we're worried about ratepayers paying data-center energy costs, then knowing how much energy data centers are using is a necessary part of that calculation,\u201d says Ari Peskoe, a director at Harvard Law School\u2019s Environmental and Energy Law Program.\nNo federal government body collects numbers on energy use from data centers specifically.\nUtilities are privy to information about energy use from data centers in their region; they use that information to forecast growth.",
     "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-03-23T04:06:22Z",
-    "source": "BBC News"
+    "bias": "left",
+    "publishedAt": "2026-03-26T12:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.npr.org/2026/03/26/g-s1-115291/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies",
+    "title": "Southeast Asia turns to nuclear as Iran war disrupts energy supplies",
+    "summary": "Southeast Asia turns to nuclear as Iran war disrupts energy suppliestoggle caption Vincent Thian/AP/APBANGKOK, Thailand \u2014 Nuclear power is getting a second look in Southeast Asia as countries prepare to meet surging energy demand as they vie for artificial intelligence-focused data centers.\nSoutheast Asia has never produced a single watt of nuclear energy, despite long-held atomic ambitions.\nSponsor Message\"There is a more serious, new and growing momentum for the development of nuclear energy in Southeast Asia,\" said King Lee, with the association.\nSoutheast Asia revisits nuclear powerFive of the 11 members of the Association of Southeast Asian Nations \u2014 Indonesia, Malaysia, Thailand, Vietnam and the Philippines \u2014 are chasing nuclear.\nEven the tiny oil and gas sultanate of Brunei told the International Atomic Energy Agency, or IAEA, that it is \"carefully exploring nuclear energy.\"",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-03-26T11:30:48Z",
+    "source": "NPR"
   },
   {
     "id": "MjQ=",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260323005535.htm",
-    "title": "Microplastics are falling from the sky and polluting forests",
-    "summary": "Instead, most microplastics arrive through the air and gradually build up in forest soils.\n\"Then, in deciduous forests, the particles are transported to the forest soil by rain or the autumn leaf fall, for example.\"\nMeasuring Microplastics in Soil, Leaves, and AirTo better understand how microplastics accumulate, the research team collected samples from four forest sites east of Darmstadt in Germany.\nThis helped them assess how much of the total pollution stored in forest soils can be traced back to airborne sources.\nForests as Indicators of Airborne Plastic Pollution\"Our results indicate that microplastics in forest soils originate primarily from atmospheric deposition and from leaves falling to the ground, known as litterfall.",
+    "url": "https://www.cnet.com/home/energy-and-utilities/historic-heat-dome-creeping-across-us-how-prepare/",
+    "title": "A Historic Heat Dome Is Creeping Across the US. Here's How to Prepare",
+    "summary": "A massive heat wave has broken heat records in 14 states, including Arizona and California, reaching up to 112 degrees Fahrenheit in some areas.\nFortunately, humidity levels are not as high during a summer heat wave.\nAs humidity can contribute to dehydration, body strain and breathing difficulties, lower humidity makes this heat dome somewhat less dangerous for workers in affected areas.\nIt might be too late to install a heat pump for this current heat dome weather event, but this energy-efficient HVAC addition can save you a pretty penny and make your home more comfortable during future heat waves.\nJoe Giddens/PA Images/Getty ImagesHow to prepare for the heat dome before it hits your stateThere's nothing you can do to beat the heat outside, aside from following heat safety best practices.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2026-03-23T08:34:53Z",
-    "source": "Science Daily"
+    "publishedAt": "2026-03-24T22:55:30Z",
+    "source": "CNET"
   },
   {
-    "id": "Mjc=",
-    "url": "https://www.nature.com/articles/d41586-026-00946-6",
-    "title": "The world just lived through the 11 hottest years on record \u2014 what now?",
-    "summary": "The past 11 years (2015-2025) have been the hottest on record, with last year being the second or third warmest year since observations began, according to a report released today by the World Meteorological Organization (WMO).\nThe State of the Global Climate 2025 report, which tracks important climate indicators, found that atmospheric carbon dioxide concentrations and ocean temperatures reached record levels last year.\nGlobal surface temperatures were slightly lower in 2025 than the previous year \u2014 the hottest on record \u2014 but continued a run of exceptionally high temperatures, the report states.\nLast year, the EEI reached its highest level since observations started in 1960, the report states.\nThe concentration of two more greenhouse gases, methane and nitrous oxide, also reached the highest levels on record in 2024.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-03-23T00:00:00Z",
-    "source": "Nature.com"
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260323005528.htm",
-    "title": "Most people get food\u2019s environmental impact completely wrong, study finds",
-    "summary": "A new study offers fresh insight into how people judge the environmental impact of the foods they eat, and the results suggest many are getting it wrong.\nScientists measure a food's environmental impact using a life cycle assessment, which tracks the entire process from production to disposal.\nMany participants overestimated the environmental impact of processed foods while underestimating the impact of water-intensive products (e.g.\nThey were also surprised to learn how much higher the environmental impact of beef is compared to other meats like chicken.\nEnvironmental impact labels that give foods a single overall grade (such as A-E) could help make these comparisons easier for consumers.\"",
+    "id": "MjY=",
+    "url": "https://www.dezeen.com/2026/03/26/circular-economy-smith-mordak-opinion/",
+    "title": "\"It's time to see all those circular economy strategies for what they are\"",
+    "summary": "Your garden-variety circular economy isn't really confronting to business-as-usualThe architecture and design industries (and beyond) have been banging on about the circular economy for years now.\nBut the basic version \u2013 circular economy lite \u2013 is to separate your waste: job done.\nThis makes the circular economy a very forgiving concept, difficult to disagree with and easy to say you're adhering to.\nBecause your garden-variety circular economy isn't really confronting to business-as-usual, business-as-usual can carry on as usual.\nPretty much every one started with a hopeful feeling, perhaps connected to some new legislation that was finally taking the climate emergency seriously, such as the EU's 2020 Circular Economy Action Plan or Circular Economy Act, due for adoption in 2026.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2026-03-23T08:53:00Z",
-    "source": "Science Daily"
+    "publishedAt": "2026-03-26T10:30:05Z",
+    "source": "Dezeen"
   },
   {
     "id": "Mjk=",
-    "url": "https://www.sciencedaily.com/releases/2026/03/260322020245.htm",
-    "title": "Beavers are turning rivers into powerful carbon sinks",
-    "summary": "Beavers may play an unexpected role in tackling climate change by transforming rivers into effective carbon dioxide sinks, according to a new international study led by researchers at the University of Birmingham.\nThe results show that wetlands shaped by beavers can store carbon at rates up to ten times higher than similar areas without their presence.\nBy slowing water, trapping sediments, and expanding wetlands, they turn streams into powerful carbon sinks.\nBeaver dams reshape rivers and carbon storageBeavers are returning to rivers and natural habitats across Europe after years of conservation efforts.\nThese carbon reserves can remain in place for decades, indicating that beaver-modified wetlands can serve as stable, long-term carbon sinks as long as the dams remain intact.",
+    "url": "https://gothamist.com/news/nyc-climate-chief-says-environmental-policies-and-affordability-go-hand-in-hand",
+    "title": "NYC climate chief says environmental policies and affordability go hand-in-hand",
+    "summary": "Kathy Hochul looks to rework New York's climate goals, Mayor Zohran Mamdani's climate chief says the city's own environmental benchmarks are critical to improving affordability in the five boroughs.\nChief Climate Officer Louise Yeung told Gothamist that the Mamdani administration sees addressing climate change as part of its broader strategy to tackle affordability.\nThe city\u2019s climate law requires the largest buildings to reduce their carbon emissions by 40% by 2030, with a net-zero target set for 2050.\nYeung said the city\u2019s biggest priorities for implementing the city\u2019s climate law is to make it accessible and affordable.\nThe abatement provides a significant break on property taxes for New York City buildings for renovations such as replacing gas boilers and energy efficiency upgrades.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-03-22T11:21:20Z",
-    "source": "Science Daily"
+    "bias": "right",
+    "publishedAt": "2026-03-26T12:01:08Z",
+    "source": "Gothamist"
   },
   {
     "id": "MzA=",
-    "url": "https://www.bgr.com/2126675/nebraska-private-company-build-batteries-renewable-energy/",
-    "title": "Nebraska Wants To Build Batteries For Storing Renewable Energy",
-    "summary": "That's why a lot of solar energy setups introduce a backup battery or a whole-home backup battery system.\nThe battery is charged, where the energy is stored, and then it uses that energy at times when there's little or no energy being generated, such as at night.\nIf the sun isn't shining, the system isn't producing energy, and more broadly, if the wind isn't blowing, wind generators aren't making energy either.\nThat's precisely why Nebraska has introduced a bill to significantly bolster the state's backup battery systems.\nThe goal is to generate energy from traditional fossil fuels and renewable sources like wind and solar, store it appropriately, and leverage it when energy demand rises.",
+    "url": "https://www.scientificamerican.com/article/top-climate-scientist-kate-marvel-just-resigned-from-nasa-heres-why/",
+    "title": "Top climate scientist Kate Marvel just resigned from NASA. Here's why",
+    "summary": "Marvel resigned from NASA\u2019s Goddard Institute for Space Sciences (GISS), where she studied climate change and its effects on Earth\u2019s systems.\nMarvel has done high-profile work to understand Earth\u2019s changing climate and is a frequent public speaker and science writer.\nIt was the accumulation of thing after thing after thing after thing.\nAnd so that gives me hope that there are still so many dedicated people who are looking for ways to continue doing science with integrity.\nI don\u2019t think I can do anything but be a scientist.",
     "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-03-23T13:17:00Z",
-    "source": "BGR"
+    "bias": "left",
+    "publishedAt": "2026-03-25T18:00:00Z",
+    "source": "Scientific American"
   },
   {
-    "id": "NDE=",
-    "url": "https://www.bbc.com/news/videos/cj94jp3jmv8o",
-    "title": "BBC in Cuba as island plunged into darkness",
-    "summary": "More than 10 million people in Cuba have had power cut to their homes and businesses after the country's national electrical grid collapsed.\nThe Caribbean island has been hit with several blackouts this month, as a result of a US fuel blockade that cuts off the foreign oil imports needed to keep power stations running.\nThe Communist-run country has an ageing electricity infrastructure and chronic fuel shortages.\nThe BBC's Will Grant reports from the capital Havana.",
+    "id": "MzE=",
+    "url": "https://www.designboom.com/architecture/proposal-for-net-zero-landmark-office-in-warsaw-highlights-adaptive-use-and-ecological-design/",
+    "title": "proposal for net-zero landmark office in warsaw highlights adaptive use and ecological design",
+    "summary": "Revistula net zero workplace redefines warsaw riverfrontReVistula transforms an existing office building along Warsaw\u2019s Vistula riverfront into a net-zero landmark workplace.\nConceived as both a workplace and a prototype, it demonstrates how existing buildings can evolve into premium, climate conscious landmarks along the riverfront.\nThese terraces form part of an ecological system inspired by the Vistula River, positioning the building as a responsive, living environment.\nA large basin connects to the building\u2019s water systems, supporting passive cooling while creating an accessible environment for users.\nReVistula proposes a new model for transforming existing buildings into environmentally responsible workplaces that engage both their users and their surroundings.",
     "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-03-22T08:40:50Z",
-    "source": "BBC News"
+    "bias": "center",
+    "publishedAt": "2026-03-26T10:30:14Z",
+    "source": "Designboom"
   }
 ]
