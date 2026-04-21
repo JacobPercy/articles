@@ -10,17 +10,37 @@
     "source": "Business Insider"
   },
   {
-    "id": "NA==",
-    "url": "https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths/",
-    "title": "6,000 Meters Under the Pacific, Japan Seeks Independence From China on Rare Earths",
-    "summary": "The feat is set to strengthen Japan's role in the increasingly crucial rare earths sector, a central element in the trade war between China and the United States.\nRare earths are a group of 17 metals critical to advanced technologies.\nThe embargo caused panic across industries, particularly in the automotive sector, and global prices of rare earths increased tenfold within a year.\nThe Japanese government has created strategic reserves of rare earths to mitigate any temporary supply disruptions.\nJapan is not only an importer of rare earths, but an advanced player in their transformation into high-value-added components.",
+    "id": "OA==",
+    "url": "https://www.businessinsider.com/lawmakers-staff-ban-prediction-markets-2026-4",
+    "title": "Work on Capitol Hill? Your boss may want to ban you from betting on prediction markets",
+    "summary": "If you work on Capitol Hill, your boss might prohibit you from betting on prediction markets pretty soon.\nThe White House has denied that any staff are getting rich from prediction market trades, but in March, the administration did warn White House staffers against making prediction market trades.\nDemocratic Rep. Greg Casar of Texas, the sponsor of a bill that would ban prediction markets that are considered vulnerable to insider trading, indicated he saw little need to lay out an official ban in his office.\nDemocratic Sen. Jeff Merkley of Oregon, who introduced a bill to ban lawmakers from trading on prediction markets, told Business Insider that he'd prefer to see Congress start there.\n\"If Congress is willing to go even further and ban top staff from trading, I would support that.\"",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-04-17T08:30:00Z",
-    "source": "Wired"
+    "bias": "center",
+    "publishedAt": "2026-04-18T08:27:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "NQ==",
+    "id": "OQ==",
+    "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+    "title": "Inside GitHub's Fake Star Economy",
+    "summary": "Six million fake stars, $0.06 per click, and a VC funding pipeline that treats GitHub popularity as proof of traction.\nGhost accounts - zero repos, zero followers, no bio - make up about 1% of a healthy project's stargazer base.\nWhen Dagster published its investigation, fake star profiles were deleted within 48 hours - but only after public embarrassment, not proactive detection.\nA change that would structurally undermine the fake star economy.\nRemoving repos but leaving 57% of fake accounts intact preserves the labor force of the fake star economy while doing little to deter repeat offenses.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-04-20T08:26:52Z",
+    "source": "Awesomeagents.ai"
+  },
+  {
+    "id": "MTA=",
+    "url": "https://abcnews.com/Technology/wireStory/wanna-bet-washington-steps-scrutiny-prediction-markets-132130463",
+    "title": "Washington steps up scrutiny of prediction markets",
+    "summary": "A controversy has erupted over prediction markets such as Polymarket and KalshiFILE - An advertisement for prediction market platform Kalshi hangs at 13th and L Streets in northwest Washington, April 1, 2026.\n(AP Photo/Allison Robbert, File)FILE - An advertisement for prediction market platform Kalshi hangs at 13th and L Streets in northwest Washington, April 1, 2026.\n(AP Photo/Allison Robbert, File)FILE - An advertisement for prediction market platform Kalshi hangs at 13th and L Streets in northwest Washington, April 1, 2026.\nBut the scrutiny has drawn focus to the differing approaches of the main prediction markets.\nYoung acknowledged his proposal is just a first step, and said lawmakers have a lot to learn about prediction markets.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-04-17T11:54:05Z",
+    "source": "Abcnews.com"
+  },
+  {
+    "id": "MTI=",
     "url": "https://tokens.billchambers.me/leaderboard",
     "title": "Anthropic Token Cost Calculator",
     "summary": "Community AveragesAnonymous request-token comparisons from the community, showing how Opus 4.6 and Opus 4.7 differ on real inputsLoading...",
@@ -30,17 +50,7 @@
     "source": "Billchambers.me"
   },
   {
-    "id": "OA==",
-    "url": "https://www.androidcentral.com/phones/oneplus/oneplus-may-be-exiting-europe-market",
-    "title": "OnePlus' Europe exit isn't official yet, but the signs aren't great",
-    "summary": "Click for next articleWhat you need to knowA OnePlus Europe employee's LinkedIn post suggests the company may be scaling back operations in the region.\nReports indicate OnePlus is reviewing its global strategy, possibly exiting key markets to focus on China.\nIt seems not all is going well with OnePlus, as a new LinkedIn post from a OnePlus employee in Europe suggests that the company may be scaling down its operations in the region.\nA Reddit post highlighted a now-deleted LinkedIn update from a senior community manager at OnePlus Europe, suggesting that the company may be exiting the market.\nThe company has launched new devices, but multiple reports indicate it may exit certain global markets to focus more on its China business.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-04-17T08:13:11Z",
-    "source": "Android Central"
-  },
-  {
-    "id": "MTI=",
+    "id": "MTY=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
     "title": "Anthropic\u2019s new cybersecurity model could get it back in the government\u2019s good graces",
     "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic.\nBut some of the ice may reportedly be melting between the two, thanks to Anthropic\u2019s buzzy new cybersecurity-focused model: Claude Mythos Preview.\nAnthropic has recently attempted to get back in the US government\u2019s good graces, at least in some capacity, with Mythos Preview.\nThe release of Mythos Preview has already reportedly sparked emergency meetings between US bank leaders and Federal Reserve Chairman Jerome Powell.\nIf Amodei\u2019s meeting opens up conversations about further integrating Anthropic\u2019s Claude into government usage across agencies, it\u2019s possible that the DoD could shift its views on Claude accordingly as well.",
@@ -50,7 +60,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTM=",
+    "id": "MTc=",
     "url": "https://www.businessinsider.com/ai-startup-moving-into-smaller-neighborhoods-changing-office-culture-sf-2026-3",
     "title": "AI Startup Are Moving Into Smaller Neighborhoods to Suit Their Culture",
     "summary": "Despite the pandemic, an exodus of tech companies, and a feared \"doom loop,\" a one-two punch of return-to-office mandates and the explosion of AI startups has shifted San Francisco's tech center into smaller neighborhoods.\nCompanies focused on AI, such as Virtual AI, Applied Compute, Rox AI, and Curai Health, are all located in the same building as Together AI.\nOther AI companies with a three-block radius include Scale AI, Resolve AI, and Gamma.\n\"An office district isn't an office district anymore \u2014 it's a mixed-use area,\" said Florida.\nBetween the Mission District and the Castro, several up-and-coming AI companies have also quietly set up offices along the main street, including Comp AI and Ace AI, just a few blocks away from the AI Start Academy.",
@@ -60,17 +70,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTQ=",
+    "id": "MTg=",
     "url": "https://yro.slashdot.org/story/26/04/18/014244/shuttered-startups-are-selling-old-slack-chats-emails-to-ai-companies",
     "title": "Shuttered Startups Are Selling Old Slack Chats, Emails To AI Companies",
-    "summary": "A budget is just a method of worrying before you spend money, as well as afterward.",
+    "summary": "How can you do 'New Math' problems with an 'Old Math' mind?\n-- Charles Schulz",
     "category": "technology",
-    "bias": "lean left",
+    "bias": "left",
     "publishedAt": "2026-04-18T11:00:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MTY=",
+    "id": "MjA=",
     "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
     "title": "This charming gadget writes bad AI poetry",
     "summary": "I\u2019ve never been as charmed and frustrated by one gadget as I have with the Poetry Camera.\nI tried to set this aside and accept the Poetry Camera free of bias, but maybe I was just never going to have a good time with it.\nThe Poetry Camera puts together words that kind of sound deep and meaningful on the surface, but also feel soulless and read like empty calories.\nAI can be a powerful tool in making software, but writing meaningful poetry requires, at a bare minimum, a soul.\nI\u2019m still not sure what Poetry Camera is, but I do know one thing: it\u2019s not for me.",
@@ -80,7 +90,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTc=",
+    "id": "MjE=",
     "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-jpmorgan-goldman-citi-bofa-2026",
     "title": "How Big Wall Street Banks, From JPMorgan to Citi, Are Using AI",
     "summary": "Wall Street is betting big on, and pouring billions into, AI \u2014 and leaders have had to answer for their spending.\nDuring banks' first-quarter earnings last week, analysts pressed some executives on how those giant investments are paying off, whether in productivity gains or head count changes.\nApril's earnings calls came just one week after many Wall Street CEOs attended an impromptu meeting at the Treasury to discuss the powerful new AI model.\nAs banks rapidly weave generative AI into everything from trading floors to back offices, the technology is reshaping not just workflows, but workplace culture.\nHere's what we know about how Wall Street banks are embracing AI.",
@@ -90,7 +100,27 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTg=",
+    "id": "MjI=",
+    "url": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
+    "title": "Deezer says AI song uploads have nearly overtaken human music",
+    "summary": "Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch.\nDespite the increase in \u201cfraudulent\u201d uploads, Deezer says the consumption of AI songs makes up around 1 to 3 percent of total streams, as the platform continues to remove AI-generated music from its recommendation algorithm.\nDeezer positions the tool as setting an \u201cindustry standard,\u201d adding that the platform is currently the \u201conly\u201d music streaming service tagging AI-generated tracks.\nThe service also demonetizes AI-generated songs and has stopped storing high-resolution versions of them.\nSince launching its tool in January 2025, Deezer says the number of AI-generated tracks uploaded daily has jumped from 10,000 to 75,000.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-04-20T17:56:26Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+    "title": "Fortnite developers can make AI characters now \u2014 just don\u2019t try to date them",
+    "summary": "You must not create a persona designed to provide medical or mental health guidance.\nYou must not create a persona that role-plays as, simulates, or impersonates a date, romantic partner, or other intimate companion.\nYou must not attempt to circumvent or undermine our safety systems, including intentionally designing your persona to bypass our content restrictions.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-04-20T16:58:39Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjQ=",
     "url": "https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/",
     "title": "Baumgartner Introduces Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment",
     "summary": "Baumgartner Introduces Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment | Press ReleasesWASHINGTON \u2013 Congressman Michael Baumgartner (WA\u201105) introduced the Multilateral Alignment of Technology Controls on Hardware (MATCH) Act, a bipartisan bill designed to strengthen U.S. national security by closing critical gaps in export controls on semiconductor manufacturing equipment (SME).\nFor too long, our export controls have been a patchwork of entity-based restrictions that Beijing easily bypasses using front companies.\nWhen foreign suppliers of advanced chipmaking tools are not subject to the same rules as U.S. firms, it undermines the objectives of U.S. export controls.\nAllied export controls on semiconductor manufacturing equipment suffer from meaningful gaps that China continues to exploit.\nWe must ensure our allies align their export controls with American standards \u2014 through diplomacy, if possible, but unilaterally if necessary.",
@@ -100,7 +130,17 @@
     "source": "House.gov"
   },
   {
-    "id": "MTk=",
+    "id": "MjU=",
+    "url": "https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html",
+    "title": "Schneier on Security",
+    "summary": "This is, in many respects, exactly the kind of responsible disclosure that security researchers have long urged.\nAnthropic said security contractors agreed with the AI\u2019s severity rating 198 times, with an 89 per cent severity agreement.\nThe security problem is far greater than one company and one model.\nThe security company Aisle was able to replicate many of Anthropic\u2019s published anecdotes using smaller, cheaper, public AI models.\nNor should such a company be able to restrict the ability of society to make choices about its own security.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-04-17T11:02:52Z",
+    "source": "Schneier.com"
+  },
+  {
+    "id": "MjY=",
     "url": "https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/",
     "title": "What is Mythos and why are experts worried about Anthropic\u2019s AI model",
     "summary": "Instead of a public rollout, Anthropic is using its Project Glasswing initiative to offer a small group of organizations access to its Mythos AI model for cybersecurity testing.\nNot since OpenAI temporarily withheld its GPT-2 model in 2019 has a major developer deemed a system too dangerous for the public.\nIt also scored 31 percentage points higher than Anthropic\u2019s previous cutting-edge model, Opus 4.6, on the USAMO 2026 Mathematical Olympiad, a grueling, two-day proof-based competition.\nPrior to April 2025, no AI model could complete those tasks at all.\nNeither expert denies that Mythos is a significant advance, but suggest the decisive regulatory action is partly driven by institutional self-preservation.",
@@ -110,7 +150,17 @@
     "source": "Scientific American"
   },
   {
-    "id": "MjA=",
+    "id": "Mjc=",
+    "url": "https://www.businessinsider.com/software-engineers-lessons-white-collar-works-ai-disruption-2026-4",
+    "title": "AI hit software engineers first. Here's what they want you to know.",
+    "summary": "Software engineers have a message for white-collar workers: Get ready.\nSince late last year, advances in tools like Claude Code and Codex have transformed how engineers do their jobs.\nHe said that he could see AI tools like OpenClaw replacing executive assistants by handling scheduling and coordinating with stakeholders.\nData from tech hiring analytics firm TrueUp shows software engineering job postings are at their highest level in more than three years, with over 67,000 open roles.\n\"There's practically infinite demand,\" Bendov said, adding that AI has opened more \"opportunity for people who aren't professional engineers.\"",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-04-19T09:48:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mjg=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
     "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
     "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it\u2019s bringing a chatbot to dozens of its drive-thrus across the US and Canada.\nIt aims to help speed up drive-thru service and \u201cencourage customers to add more food to their orders,\u201d according to The Wall Street Journal.\nFollowing a test last year, Dairy Queen is widely launching the tech built by Presto, an AI company that already works with chains like Carl\u2019s Jr., Hardee\u2019s, Taco John\u2019s, and Fazoli\u2019s.\nIn 2023, a report from Bloomberg revealed that Presto\u2019s AI drive-thrus may actually be assisted by human workers based in locations like the Philippines.\nPresto\u2019s chatbot takes orders correctly about 90 percent of the time, The Wall Street Journal reports.",
@@ -120,17 +170,47 @@
     "source": "The Verge"
   },
   {
-    "id": "MjE=",
-    "url": "https://www.cnet.com/tech/services-and-software/ai-trust-survey-acsi-gemini-grok/",
-    "title": "AI Trusted Less Than Social Media and Airlines, With Grok Placing Last, Survey Says",
-    "summary": "In ACSI's results, AI scored an overall customer satisfaction score of 73 on a scale of 0 to 100, which the authors noted was slightly below social media (74), airlines and mortgage lenders, but in line with energy utilities.\nMeanwhile, TikTok (77) and YouTube (78) both scored better than the AI platforms.\nGemini is one of the most prolific AI services, with access via smart speakers, TVs, phones and computers, while most ChatGPT users access the AI tool via the ChatGPT website or mobile app, and Grok via social media platform X.\n21% reported an \"extremely favorable\" outlook toward AI, while an equal 21% said they are \"very concerned about the consequences.\"\nLast month, an NBC poll suggested that AI was one of the least-liked things in America, but it was still more popular than the Democratic Party.",
+    "id": "Mjk=",
+    "url": "https://www.businessinsider.com/robotaxi-autonomous-vehicle-industry-maturity-hype-conference-ride-ai-2026-4",
+    "title": "'Unsexy' Side of Robotaxis: the AV Industry Wants to Grow up",
+    "summary": "Loading audio narration...On a Wednesday morning at SFJAZZ Center in San Francisco, Ride AI held its second conference, focused on all things autonomous vehicles, with more than 300 attendees.\nTo see where the conversation has gone since Ride AI in 2025 is striking, given that most people have yet to step inside a self-driving car.\nA line of robotaxis and aspiring self-driving cars were parked outside Ride AI.\nGo to San Francisco, Phoenix, or Miami and experience it for yourself.'\nUber partnered with Lucid Motors and Nuro to launch a commercial robotaxi service in San Francisco by late 2026.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-04-17T21:45:08Z",
-    "source": "CNET"
+    "bias": "left",
+    "publishedAt": "2026-04-19T08:22:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MjI=",
+    "id": "MzA=",
+    "url": "https://developers.slashdot.org/story/26/04/18/0332245/fewer-us-college-students-major-in-cs-more-choose-data-science-engineering",
+    "title": "Fewer US College Students Major in CS. More Choose Data Science, Engineering",
+    "summary": "How can you do 'New Math' problems with an 'Old Math' mind?\n-- Charles Schulz",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-04-18T20:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MzE=",
+    "url": "https://www.businessinsider.com/broadstaff-ceo-laid-off-tech-workers-pivot-data-centers-2026-4",
+    "title": "Broadstaff CEO Says Laid-Off Tech Workers Can Pivot to Data Centers",
+    "summary": "A talent CEO says all the recently laid-off tech workers wading through corporate America's sluggish job market should look to one growing area: data centers.\nData center job listings increased by 64% between 2023 and 2025, Deloitte found.\nEmployment at data centers in the US increased by over 60% from 2016 to 2023, according to the US Census Bureau.\nData center technician jobs are growingA data center technician does on-site tech support and hardware maintenance.\nFor instance, Broadstaff works with Wachter, a national electrical contractor that works with large data centers and offers apprenticeship programs.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-04-20T09:00:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzU=",
+    "url": "https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms",
+    "title": "Data centers are expensive, unpopular \u2014 and could be a tipping point in the midterms",
+    "summary": "It was a proposal from Meta to build one of the largest-ever AI data centers in the world.\nLoading...Maine's Democratic-controlled Legislature approved a pause on most data center construction \u2014 the strongest action taken against data centers at the state level.\nLoading...Virginia is ground zero for data centers, but opposition is mountingVirginia, the state with the most data centers by far, is considering walking back some measures that made the state so attractive for investment.\nLoading...On the national level, President Trump has supported data center development but has also acknowledged the pain that data centers are causing some communities.\nMETHODOLOGY: Data center locations were sourced from Data Center Map (snapshot as of March 19, 2026).",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-04-20T09:00:00Z",
+    "source": "NPR"
+  },
+  {
+    "id": "MzY=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
     "title": "OpenAI\u2019s former Sora boss is leaving",
     "summary": "I am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company\u2019s mainline roadmap.\nIt\u2019s tempting in life to mode collapse to the most important thing, but cultivating entropy is the only way for a research lab to thrive long-term, and Sam deeply understands this.\nSora was a project that could not have happened anywhere but OpenAI, and I will always deeply love this place for that.",
@@ -140,17 +220,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MjM=",
-    "url": "https://www.businessinsider.com/openai-executive-departures-shake-up-leadership-team-2026-4",
-    "title": "3 top executives leave OpenAI in a single day",
-    "summary": "OpenAI lost three top executives on Friday.\nBill Peebles, who headed OpenAI's AI video app Sora, also announced his departure.\nAlthough Peebles didn't explain why in his post, OpenAI shut down Sora last month due to cost and compute constraints.\nPrism, an AI workplace for scientists that Weil oversaw, is moving to Codex, OpenAI's AI developer assistant, which is expanding beyond coding.\nThe shakeup comes as OpenAI narrows its focus by cutting back on \"side quests\" and doubling down on selling to businesses.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-04-18T00:00:12Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjc=",
+    "id": "Mzc=",
     "url": "https://www.androidcentral.com/accessories/smart-home/now-brief-for-your-samsung-tv-is-a-reality-with-this-smartthings-update",
     "title": "Now Brief for your Samsung TV is a reality with this SmartThings update",
     "summary": "Soon, users with a Samsung TV from 2024 or later will find Now Brief on their displays with a recap of the night.\nSamsung is rolling out its newest SmartThings update, and the company is highlighting a feature that's found a new home: Now Brief.\nThe Galaxy S26 series is seemingly spearheading this feature's debut, as Samsung says Now Brief will support \"Home Security, Family Care, and Pet Care.\"\nAndroid Central's Take This Family Care update was pretty interesting.\nIn particular, it says Care Insights delivers more actionable and long-term data within the Family Care environment.",
@@ -160,33 +230,53 @@
     "source": "Android Central"
   },
   {
-    "id": "MzA=",
-    "url": "https://www.macrumors.com/2026/04/18/apple-says-carplay-ultra-is-coming-to-these-vehicle-brands/",
-    "title": "Apple Says CarPlay Ultra is Coming to These Vehicle Brands",
-    "summary": "Last year, Apple launched CarPlay Ultra, the long-awaited next-generation version of its CarPlay software system for vehicles.\nNearly a year later, CarPlay Ultra is still limited to Aston Martin's latest luxury vehicles, but that should change fairly soon.\nIn May 2025, Apple said many other vehicle brands planned to offer CarPlay Ultra, including Hyundai, Kia, and Genesis.\nThe connected iPhone provides app-related data, while the vehicle provides information like the current speed, fuel level, tire pressure, engine temperature, and more.\nThe interface is tailored to each vehicle model and automaker's identity, and drivers can choose from various preset design options.",
+    "id": "NDA=",
+    "url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+    "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+    "summary": "Over the weekend in China, a humanoid robot shattered world half-marathon record\u2014the human record\u2014by seven minutes.\nThe event consisted of more than 100 humanoid robots from 76 institutions across China.\nRun, Robot, RunA humanoid robot is designed to mimic the structure and movement of the human body, with legs, arms, and sensors that allow it to interact with its environment.\nThe winning robot, \"Blitz,\u201d from smartphone manufacturer Honor was on display at the awards ceremony after the Beijing E-Town Robot Half Marathon.\nBut a humanoid robot is designed to mimic humans.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-04-20T22:33:27Z",
+    "source": "Wired"
+  },
+  {
+    "id": "NDI=",
+    "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+    "title": "Nothing\u2019s modular CMF Headphone Pro are down to their lowest price to date",
+    "summary": "Over the past several years, Nothing\u2019s budget-centric subsidiary, CMF, has built a reputation for producing attractive, inexpensive products with features often reserved for gadgets that cost twice the price.\nAlthough the Headphone Pro eschew the retro-transparent design found on Nothing wares like the Headphone 1, I wouldn\u2019t necessarily say that\u2019s a bad thing given the polarizing, squared-off design of the latter.\nInstead, the Pro go all in on the curves, with circular earcups, cushions, and a plush headband.\nThe biggest draw of the Headphone Pro, aside from their adaptive ANC, is that they offer a whopping 100 hours of battery life per charge, ensuring you can travel just about anywhere without having to top them off.\nThe fact that they support Google Fast Pair and the higher-quality LDAC codec is just a plus.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-04-19T14:21:23Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "NTQ=",
+    "url": "https://www.cnet.com/science/shipping-antimatter-by-truck-to-understand-the-universe/",
+    "title": "Shipping Antimatter by Truck to Understand the Universe",
+    "summary": "A truck makes a historic trip around CERN's facility on the France-Switzerland border, transporting the world's most expensive material for the first time.\nThe antimatter inside is made by CERN's enormous particle accelerator, and then antimatter particles are decelerated and captured for storage, shipment and study.\nAnnihilation is routine at CERN's antimatter factory, happening on a small scale with individual particles and showing up as a line on a graph (pictured below).\nSo far, the science shows that matter and its antimatter equivalents are identical opposites in weight and magnetism.\nThe search for these discrepancies means that the antimatter particles must leave their birthplace at CERN because the same enormous magnets necessary to produce antimatter also make it difficult to study due to magnetic interference.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-04-19T12:01:01Z",
+    "source": "CNET"
+  },
+  {
+    "id": "Njc=",
+    "url": "https://yro.slashdot.org/story/26/04/18/1834202/us-congress-fails-to-pass-long-term-fisa-extension-authorizes-it-through-april-30",
+    "title": "US Congress Fails to Pass Long-Term FISA Extension, Authorizes It Through April 30",
+    "summary": "How can you do 'New Math' problems with an 'Old Math' mind?\n-- Charles Schulz",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-04-18T19:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NzA=",
+    "url": "https://www.npr.org/2026/04/17/nx-s1-5788573/house-extends-surveillance-powers-for-10-days",
+    "title": "Congress extends controversial surveillance powers for 10 days",
+    "summary": "Congress extends controversial surveillance powers for 10 daystoggle caption J. Scott Applewhite/APCongress has voted to extend a controversial surveillance program until April 30.\nThat left a stop-gap measure for Section 702 of the Foreign Intelligence Surveillance Act (FISA), which was set to expire Monday.\nThe tool allows U.S. intelligence agencies to intercept the electronic communications of foreign nationals located outside of the United States.\nSponsor MessageLike past reauthorizations, FISA 702's renewal has sparked a protracted debate on Capitol Hill over if and how the tool should be modified.\nThe intelligence community has argued that would inhibit the efficacy of the tool and endanger national security.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-04-18T12:59:00Z",
-    "source": "MacRumors"
-  },
-  {
-    "id": "MzQ=",
-    "url": "https://hackaday.com/2026/04/16/comparing-12-vdc-air-fryers-with-regular-240-vac-ones/",
-    "title": "Comparing 12 VDC Air Fryers With Regular 240 VAC Ones",
-    "summary": "That boiling water is a contentious topic of discussion is clear, but what about hot air?\nAs scientific test samples chicken nuggets were used with the test, following a preheating period for the 12 VDC unit.\nMeanwhile the 240 VAC unit burned through 250 Wh in 20 minutes, with no pre-heating, though only 230 Wh with no inverter losses included.\nAs a final test, the 12 VDC unit was run at 400 Watt using 14.6 VDC input, which did indeed get it up to temperature much faster.\nThis mirrors the results with boiling water, where most options mostly vary in how much time they require to get water up to a boiling temperature.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-04-17T02:00:23Z",
-    "source": "Hackaday"
-  },
-  {
-    "id": "Mzc=",
-    "url": "https://9to5mac.com/2026/04/18/indie-app-spotlight-quakeinfo-is-a-fast-and-easy-way-to-monitor-ongoing-earthquakes/",
-    "title": "Indie App Spotlight: \u2018QuakeInfo\u2019 is a fast and easy way to monitor ongoing earthquakes",
-    "summary": "Welcome to Indie App Spotlight.\nThis is a weekly 9to5Mac series where we showcase the latest apps in the indie app world.\nTop featuresUsing data from both US and European databases, QuakeInfo can show you seismic activity from around the world.\nIt also has a comprehensive list view, giving you info on each individual earthquake, down to the timing, magnitude, location, and depth.\nQuakeInfo provides location-based safety warnings, spatial context, and detailed metadata on each individual earthquake \u2013 so you know what\u2019s coming before it potentially hits you.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-04-18T19:30:00Z",
-    "source": "9to5Mac"
+    "publishedAt": "2026-04-17T07:55:31Z",
+    "source": "NPR"
   }
 ]
