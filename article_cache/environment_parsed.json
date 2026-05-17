@@ -1,72 +1,82 @@
 [
   {
-    "id": "MzI=",
-    "url": "https://www.scientificamerican.com/article/the-strange-way-cocaine-water-pollution-is-changing-salmon/",
-    "title": "The strange way cocaine water pollution is changing salmon",
-    "summary": "It turns out that salmon exposed to cocaine through water pollution do a lot of swimming\u2014which may not be a good thingStrange but true: salmon on cocaine swim a lot more.\nThis sounds like an odd thing to research, but cocaine and its metabolites\u2014along with other drugs and pharmaceuticals\u2014are widespread in the environment, mainly from human wastewater.\nIn the new study, Brand and his colleagues focused on wild Atlantic salmon (Salmo salar).\nIn one group of 35, the implant slowly released cocaine, in another it released benzoylecgonine (cocaine\u2019s main metabolite), and in a control group it released nothing.\nAnd recent research demonstrated how cocaine and its metabolites can accumulate in wild fish such as sharks.",
+    "id": "MjQ=",
+    "url": "https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy",
+    "title": "Dyson put a camera on its purifier so fresh air can follow you around the room",
+    "summary": "Dyson has announced a new air purifying bladeless fan that\u2019s its first to incorporate an AI-powered camera for tracking the location of people in a room.\nThe Dyson Find+Follow Purifier Cool is now available from its online and retail stores for $894.99 and is capable of capturing and trapping 99.97 percent of ultrafine particles as small as 0.3 microns, including particles causing unpleasant odors, allergens, and viruses.\nThe AI is only used to detect presence, and images from the camera are deleted after being analyzed in real time.\nIf there are multiple people in a room, the direction of the airflow will automatically adjust to oscillate back and forth between them.\nIt can adjust the intensity of the airflow when more pollutants are detected, and the Dyson Find+Follow Purifier Cool is Matter-compatible so it can be integrated into smart home setups including Apple Home and Google Home.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-05-14T13:35:41Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjc=",
+    "url": "https://www.theatlantic.com/ideas/2026/05/climate-change-nature-ecosystems-environmental-movement/687162/",
+    "title": "How the Environmental Movement Lost Its Power",
+    "summary": "From the December 2025 issue: What climate change will do to America by mid-centuryBut another factor is at play.\nNature is what gave the environmental movement its purpose, gave its founders their calling.\nThe environmental movement needs to find nature again\u2014to fight for the planet\u2019s ecosystems, plants, and wildlife\u2014if it ever hopes to regain the power and purpose it once had.\nAdmittedly, Gates\u2019s voice is just one in the environmental movement, but his is louder in the public square, and arguably more influential, than those of career environmental leaders, activists, and scientists who have a broader view of the problem.\nClimate advocates can refer to these very real, locally known places to make climate change real and relevant to people.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-05-14T11:00:00Z",
+    "source": "The Atlantic"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://www.newscientist.com/article/2526785-cleaning-up-air-pollution-could-weaken-vital-amoc-ocean-current/",
+    "title": "Cleaning up air pollution could weaken vital AMOC ocean current",
+    "summary": "The smog and soot dirtying the air around the world claim some 7 million lives every year and induce illnesses that affect many others.\nIn recent years, research has revealed how cutting air pollution from sources such as shipping has caused global temperatures to rise even faster.\n\u201cAs we reduce aerosols, they\u2019re going to unmask warming,\u201d says Michael Diamond at Florida State University.\n\u201cIf we want to clean up the air and improve air quality, there\u2019s a climate penalty associated with that,\u201d says Allen.\n\u201cIt\u2019s really important when we\u2019re thinking about these clean-air policies to be thinking about decarbonisation policies at the same time,\u201d he says.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-05-15T14:40:36Z",
+    "source": "New Scientist"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+    "title": "Expert: More than half of U.S. faces worst drought in decades",
+    "summary": "More than 60 percent of the United States is experiencing drought conditions, with more than 20 percent in an extreme drought.\nAndrew Ellis, a climatologist at Virginia Tech said the current conditions are among the worst in decades because the combination of intensity and aerial coverage is rare.\nWhile dryness from the West through the southern Great Plains and into the Southeast La Ni\u00f1a years, Ellis noted this specific event was atypical because the Pacific Northwest remained so dry.\n\u201cIn these areas, extreme and exceptional drought conditions are rather widespread,\u201d Ellis said.\n\u201cLooking beyond summer, it appears we may be in store for a historic El Ni\u00f1o event next fall and winter,\u201d Ellis said.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2026-04-20T15:00:00Z",
+    "publishedAt": "2026-05-14T22:38:18Z",
+    "source": "Vt.edu"
+  },
+  {
+    "id": "MzE=",
+    "url": "https://www.futurity.org/air-pollution-post-surgical-outcomes-3334042/",
+    "title": "Air pollution tied to worse outcomes after surgery",
+    "summary": "University University of UtahNew research on Utah\u2019s Wasatch Front\u2014which occasionally experiences the worst air quality in the nation\u2014has found an association between high air pollution and risk of post-surgical complications.\nTo uncover the relationship between air quality and surgical outcomes, the researchers analyzed post-surgical data from 49,615 non-emergency surgeries in the Wasatch Front.\nThe researchers were specifically interested in levels of fine particulate air pollution due to its systemic effects on human health.\nWhile this study found an association between air pollution and post-surgical complications, it can\u2019t determine whether the increased risk is directly caused by air pollution or if there\u2019s an unknown third factor that links them both.\nFor Wasatch Front residents, the flip side of living in a place with elevated air pollution is that local changes to transit and industry can have a major impact on air quality.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-05-14T16:27:18Z",
+    "source": "Futurity: Research News"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://www.scientificamerican.com/article/2026-fifa-world-cup-players-and-fans-at-risk-of-extreme-heat-climate-scientists-warn/",
+    "title": "2026 FIFA World Cup players and fans at risk of extreme heat, climate scientists warn",
+    "summary": "Heat conditions could exceed dangerous levels at a quarter of the planned 2026 World Cup soccer matches, including the final in New Jersey on July 19Soccer fans planning to attend the 2026 FIFA World Cup, prepare to sweat.\nThe model was used to determine the chances that each match would experience dangerous heat conditions.\nThe analysis predicts a one-in-eight chance of 26-degree-C WBGT conditions and a one-in-37 chance of a 28-degree-C WBGT on that date.\nAnd the last World Cup, held in Qatar in 2022, was moved from summer to winter because of the danger posed by extreme temperatures.\nFans are also at risk, whether in stadiums or at planned outdoor events connected to the World Cup.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-05-14T04:00:00Z",
     "source": "Scientific American"
   },
   {
     "id": "MzQ=",
-    "url": "https://www.mentalfloss.com/science/climate-change/climate-change-facts",
-    "title": "6 Facts About Climate Change",
-    "summary": "Read on to learn more about the history and consequences of climate change, as well as how it might be averted.\nResearch has shown that by the late 1970s, the oil company Exxon was aware that its fossil fuels could cause climate change that could have \u201cdramatic environmental effects.\u201d In 1988, the Intergovernmental Panel on Climate Change (IPCC) was formed to address the Earth's rising temperatures.\nMost people believe climate change is realThere is indeed a small, but noisy, group of people who believe climate change is not real.\nHowever, in reality, the majority of people believe in climate change and would like to see actions taken to fix it.\n\u201cTo avoid the worst consequences of climate change, we\u2019ll need to reach \u2018net zero\u2019 carbon emissions by 2050 or sooner.",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260513221759.htm",
+    "title": "Scientists discover the strange way CO2 cools part of Earth\u2019s atmosphere",
+    "summary": "As the Earth's surface and lower atmosphere continue to warm, another part of the planet's atmosphere is doing the opposite.\nAlthough scientists understood the broad idea behind stratospheric cooling, many of the detailed processes remained unresolved.\nThe team built mathematical models that identified the major processes driving stratospheric cooling.\n\"It's those changes in efficiency that are going to ultimately be what's driving stratospheric cooling,\" says Cohen.\nHow Stratospheric Cooling Strengthens Warming BelowThe team's equations successfully reproduced several known features of the atmosphere.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-04-20T20:00:01Z",
-    "source": "Mental Floss"
-  },
-  {
-    "id": "Mzg=",
-    "url": "https://www.bbc.com/news/articles/c9qdd8qvrplo",
-    "title": "Why do gray whales keep dying in San Francisco's waters?",
-    "summary": "While a lack of food may be driving whales into the bay, it's not necessarily starvation that's killing them.\nIn recent years, nearly one-fifth of the gray whales that have swum into the San Francisco Bay have died there, usually after being struck by ships, according to Slaathaug's study published in the journal Frontiers in Marine Science this week.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-04-19T13:08:05Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "Mzk=",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260417085404.htm",
-    "title": "Common cleaning sponge found to release trillions of microplastic fibers",
-    "summary": "As these sponges wear down, they can release tiny plastic particles into the environment.\nResearchers estimate that more than a trillion microplastic fibers may be released worldwide every month as people use and discard these everyday cleaning tools.\nThese fragments can break down further into microplastic fibers, which are tiny strands of plastic often too small to see.\nDenser sponges held up better over time and released fewer microplastic fibers, while less dense versions broke down more quickly.\nUsing Amazon sales from August 2023 as a reference point, they calculated that approximately 1.55 trillion microplastic fibers could be released each month.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-04-18T13:53:03Z",
+    "bias": "center",
+    "publishedAt": "2026-05-14T07:24:00Z",
     "source": "Science Daily"
   },
   {
-    "id": "NDE=",
-    "url": "https://www.bbc.com/news/articles/cyv1104ezjpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "title": "Leicester team finds ancient freshened water under ocean floor",
-    "summary": "The water is thought to be tens of thousands of years old, and while the process of how it got there is not yet fully understood, it is hoped analysis of the samples will help scientists learn more about climate change.",
+    "id": "MzU=",
+    "url": "https://www.scientificamerican.com/article/theres-an-82-percent-chance-el-nino-will-emerge-soon-nws-says/",
+    "title": "There\u2019s an 82 percent chance El Ni\u00f1o will \u2018emerge soon,\u2019 NWS says",
+    "summary": "There\u2019s an 82 percent chance that El Ni\u00f1o will \u201cemerge\u201d between May and July, and it is expected to continue through this winter.\nIt\u2019s still unclear, however, how long or how strong this El Ni\u00f1o might be.\nEl Ni\u00f1o is a cyclic climate event that is fueled by ocean temperatures and wind.\nIn 2023 and 2024 the planet saw record-high temperatures in part because of an El Ni\u00f1o event that amplified the effects of climate change.\nFederal forecasters rely on a combination of measurements\u2014sea surface temperatures and changes in wind patterns\u2014to predict when El Ni\u00f1o will come back.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2026-04-18T05:49:50Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "NDQ=",
-    "url": "https://www.npr.org/2026/04/20/g-s1-117830/goldman-environmental-prize-papua-new-guinea-mining",
-    "title": "A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action",
-    "summary": "This Goldman Prize winner took actiontoggle caption Goldman Environmental PrizeTheonila Roka Matbob was born in what should have been a lush rainforest.\n\"You have to go miles \u2014 into another region and territory \u2014 to find the trees, the forest,\" says Roka Matbob, who is now 35.\nHer work as an activist to repair the environmental and social harms has earned her The Goldman Environmental Prize for 2026.\n\"Theonila is leading a historic effort to obtain justice for decades of environmental and social devastation because of the Panguna mine,\" says Ilan Kayatsky, of the Goldman Environmental Prize, in a statement to NPR.\ntoggle caption Goldman Environmental PrizeThis Goldman honor comes with a cash prize.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-04-20T10:58:26Z",
-    "source": "NPR"
-  },
-  {
-    "id": "NDU=",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260417224459.htm",
-    "title": "Sharks and tuna are overheating and running out of options",
-    "summary": "As ocean temperatures climb, these species are more likely to overheat, which could shrink their habitable range and push them toward cooler regions closer to the poles.\nWhat Makes \"Mesothermic\" Fish UniqueThe study, published in the journal Science, focuses on \"mesothermic\" fishes.\nThese are a rare group, making up less than 0.1% of all fish species, that can retain body heat and keep parts of themselves warmer than the surrounding water.\nThese thresholds represent the water temperatures at which large fish can no longer release heat quickly enough to maintain stable body temperatures.\nLooking ahead, the researchers expect that suitable habitats for large mesothermic fish will shrink as global temperatures continue to rise, especially during warmer months.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-04-18T05:10:25Z",
-    "source": "Science Daily"
+    "publishedAt": "2026-05-14T20:32:00Z",
+    "source": "Scientific American"
   }
 ]
