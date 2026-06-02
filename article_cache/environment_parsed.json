@@ -1,82 +1,92 @@
 [
   {
-    "id": "MjQ=",
-    "url": "https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy",
-    "title": "Dyson put a camera on its purifier so fresh air can follow you around the room",
-    "summary": "Dyson has announced a new air purifying bladeless fan that\u2019s its first to incorporate an AI-powered camera for tracking the location of people in a room.\nThe Dyson Find+Follow Purifier Cool is now available from its online and retail stores for $894.99 and is capable of capturing and trapping 99.97 percent of ultrafine particles as small as 0.3 microns, including particles causing unpleasant odors, allergens, and viruses.\nThe AI is only used to detect presence, and images from the camera are deleted after being analyzed in real time.\nIf there are multiple people in a room, the direction of the airflow will automatically adjust to oscillate back and forth between them.\nIt can adjust the intensity of the airflow when more pollutants are detected, and the Dyson Find+Follow Purifier Cool is Matter-compatible so it can be integrated into smart home setups including Apple Home and Google Home.",
+    "id": "Mw==",
+    "url": "https://hardware.slashdot.org/story/26/05/31/1827209/renewable-energy-is-surging-in-africa",
+    "title": "Renewable Energy is Surging in Africa",
+    "summary": "Once it hits the fan, the only rational choice is to sweep it up, package it, and sell it as fertilizer.",
     "category": "environment",
     "bias": "lean right",
-    "publishedAt": "2026-05-14T13:35:41Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://www.theatlantic.com/ideas/2026/05/climate-change-nature-ecosystems-environmental-movement/687162/",
-    "title": "How the Environmental Movement Lost Its Power",
-    "summary": "From the December 2025 issue: What climate change will do to America by mid-centuryBut another factor is at play.\nNature is what gave the environmental movement its purpose, gave its founders their calling.\nThe environmental movement needs to find nature again\u2014to fight for the planet\u2019s ecosystems, plants, and wildlife\u2014if it ever hopes to regain the power and purpose it once had.\nAdmittedly, Gates\u2019s voice is just one in the environmental movement, but his is louder in the public square, and arguably more influential, than those of career environmental leaders, activists, and scientists who have a broader view of the problem.\nClimate advocates can refer to these very real, locally known places to make climate change real and relevant to people.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-05-14T11:00:00Z",
-    "source": "The Atlantic"
-  },
-  {
-    "id": "Mjk=",
-    "url": "https://www.newscientist.com/article/2526785-cleaning-up-air-pollution-could-weaken-vital-amoc-ocean-current/",
-    "title": "Cleaning up air pollution could weaken vital AMOC ocean current",
-    "summary": "The smog and soot dirtying the air around the world claim some 7 million lives every year and induce illnesses that affect many others.\nIn recent years, research has revealed how cutting air pollution from sources such as shipping has caused global temperatures to rise even faster.\n\u201cAs we reduce aerosols, they\u2019re going to unmask warming,\u201d says Michael Diamond at Florida State University.\n\u201cIf we want to clean up the air and improve air quality, there\u2019s a climate penalty associated with that,\u201d says Allen.\n\u201cIt\u2019s really important when we\u2019re thinking about these clean-air policies to be thinking about decarbonisation policies at the same time,\u201d he says.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-05-15T14:40:36Z",
-    "source": "New Scientist"
-  },
-  {
-    "id": "MzA=",
-    "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
-    "title": "Expert: More than half of U.S. faces worst drought in decades",
-    "summary": "More than 60 percent of the United States is experiencing drought conditions, with more than 20 percent in an extreme drought.\nAndrew Ellis, a climatologist at Virginia Tech said the current conditions are among the worst in decades because the combination of intensity and aerial coverage is rare.\nWhile dryness from the West through the southern Great Plains and into the Southeast La Ni\u00f1a years, Ellis noted this specific event was atypical because the Pacific Northwest remained so dry.\n\u201cIn these areas, extreme and exceptional drought conditions are rather widespread,\u201d Ellis said.\n\u201cLooking beyond summer, it appears we may be in store for a historic El Ni\u00f1o event next fall and winter,\u201d Ellis said.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-05-14T22:38:18Z",
-    "source": "Vt.edu"
+    "publishedAt": "2026-05-31T18:34:00Z",
+    "source": "Slashdot.org"
   },
   {
     "id": "MzE=",
-    "url": "https://www.futurity.org/air-pollution-post-surgical-outcomes-3334042/",
-    "title": "Air pollution tied to worse outcomes after surgery",
-    "summary": "University University of UtahNew research on Utah\u2019s Wasatch Front\u2014which occasionally experiences the worst air quality in the nation\u2014has found an association between high air pollution and risk of post-surgical complications.\nTo uncover the relationship between air quality and surgical outcomes, the researchers analyzed post-surgical data from 49,615 non-emergency surgeries in the Wasatch Front.\nThe researchers were specifically interested in levels of fine particulate air pollution due to its systemic effects on human health.\nWhile this study found an association between air pollution and post-surgical complications, it can\u2019t determine whether the increased risk is directly caused by air pollution or if there\u2019s an unknown third factor that links them both.\nFor Wasatch Front residents, the flip side of living in a place with elevated air pollution is that local changes to transit and industry can have a major impact on air quality.",
+    "url": "https://www.bbc.com/news/articles/cpwpeg57777o",
+    "title": "China's coal mine disaster is a reminder of its darkest days",
+    "summary": "State media reports have painted a picture of rampant safety violations at the mine: a notice board at the site that suggested only half of the workers underground on the day of the disaster were officially registered; the discovery that many workers in the mine did not carry mandatory tracking devices; and secret tunnels, along with an inaccurate blueprint, which complicated rescue efforts.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-05-14T16:27:18Z",
-    "source": "Futurity: Research News"
+    "bias": "lean right",
+    "publishedAt": "2026-05-31T23:32:04Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MzI=",
+    "url": "https://www.cnn.com/2026/05/30/climate/hunga-tonga-volcano-eruption-methane",
+    "title": "A violent volcanic eruption may have revealed a new weapon to tackle a potent planet-heating gas",
+    "summary": "Summary A violent 2022 volcanic eruption in the South Pacific appears to have destroyed some of its own methane emissions.\nScientists discovered formaldehyde clouds indicating a chemical process that broke down the potent planet-heating gas for over a week.\nIt may also have also revealed a new weapon in the fight against a potent planet-heating gas, according to new research.\nFormaldehyde often forms when methane, a potent planet-heating gas, is destroyed in the atmosphere.\n\u201cIt has emitted methane and then destroyed these emissions through the particles in the plume,\u201d van Herpen said.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-05-30T11:00:08Z",
+    "source": "CNN"
   },
   {
     "id": "MzM=",
-    "url": "https://www.scientificamerican.com/article/2026-fifa-world-cup-players-and-fans-at-risk-of-extreme-heat-climate-scientists-warn/",
-    "title": "2026 FIFA World Cup players and fans at risk of extreme heat, climate scientists warn",
-    "summary": "Heat conditions could exceed dangerous levels at a quarter of the planned 2026 World Cup soccer matches, including the final in New Jersey on July 19Soccer fans planning to attend the 2026 FIFA World Cup, prepare to sweat.\nThe model was used to determine the chances that each match would experience dangerous heat conditions.\nThe analysis predicts a one-in-eight chance of 26-degree-C WBGT conditions and a one-in-37 chance of a 28-degree-C WBGT on that date.\nAnd the last World Cup, held in Qatar in 2022, was moved from summer to winter because of the danger posed by extreme temperatures.\nFans are also at risk, whether in stadiums or at planned outdoor events connected to the World Cup.",
+    "url": "https://www.bbc.com/news/articles/cpwpeg57777o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "China's coal mine disaster is a reminder of its darkest days",
+    "summary": "State media reports have painted a picture of rampant safety violations at the mine: a notice board at the site that suggested only half of the workers underground on the day of the disaster were officially registered; the discovery that many workers in the mine did not carry mandatory tracking devices; and secret tunnels, along with an inaccurate blueprint, which complicated rescue efforts.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-05-14T04:00:00Z",
-    "source": "Scientific American"
+    "bias": "lean right",
+    "publishedAt": "2026-05-31T23:32:21Z",
+    "source": "BBC News"
   },
   {
     "id": "MzQ=",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260513221759.htm",
-    "title": "Scientists discover the strange way CO2 cools part of Earth\u2019s atmosphere",
-    "summary": "As the Earth's surface and lower atmosphere continue to warm, another part of the planet's atmosphere is doing the opposite.\nAlthough scientists understood the broad idea behind stratospheric cooling, many of the detailed processes remained unresolved.\nThe team built mathematical models that identified the major processes driving stratospheric cooling.\n\"It's those changes in efficiency that are going to ultimately be what's driving stratospheric cooling,\" says Cohen.\nHow Stratospheric Cooling Strengthens Warming BelowThe team's equations successfully reproduced several known features of the atmosphere.",
+    "url": "https://www.usatoday.com/story/news/nation/2026/05/31/hurricane-season-safety-tips-nhc-director/90098453007/",
+    "title": "Nation's top hurricane forecaster reveals 5 urgent messages for 2026",
+    "summary": "ETHurricane season starts June 1 and the staff at the National Hurricane Center faces one major task in the months to come.\n\"Even though recent hurricane seasons have been busy, most people haven't experienced the very worst conditions where they live.\nKnow your risk, have a plan\"It starts out by knowing if you live in a storm surge or hurricane evacuation zone,\" Brennan said.\n\"In Florida in particular, we've seen a very high number of post-storm or indirect fatalities after particularly major hurricane landfalls,\" he said.\nHurricane season 2026: These 3 places are 'overdue' for a direct hit from a hurricaneRely on trusted sources\"The information environment right now is complex,\" Brennan said.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-05-14T07:24:00Z",
-    "source": "Science Daily"
+    "bias": "left",
+    "publishedAt": "2026-05-31T10:02:15Z",
+    "source": "USA Today"
   },
   {
     "id": "MzU=",
-    "url": "https://www.scientificamerican.com/article/theres-an-82-percent-chance-el-nino-will-emerge-soon-nws-says/",
-    "title": "There\u2019s an 82 percent chance El Ni\u00f1o will \u2018emerge soon,\u2019 NWS says",
-    "summary": "There\u2019s an 82 percent chance that El Ni\u00f1o will \u201cemerge\u201d between May and July, and it is expected to continue through this winter.\nIt\u2019s still unclear, however, how long or how strong this El Ni\u00f1o might be.\nEl Ni\u00f1o is a cyclic climate event that is fueled by ocean temperatures and wind.\nIn 2023 and 2024 the planet saw record-high temperatures in part because of an El Ni\u00f1o event that amplified the effects of climate change.\nFederal forecasters rely on a combination of measurements\u2014sea surface temperatures and changes in wind patterns\u2014to predict when El Ni\u00f1o will come back.",
+    "url": "https://www.yankodesign.com/2026/05/31/this-floating-parliament-is-built-from-the-oceans-own-trash/",
+    "title": "This Floating Parliament Is Built From the Ocean\u2019s Own Trash",
+    "summary": "Most architects look at ocean plastic and see a crisis.\nYufeng Tu saw a building material.\nOcean Vortex, the speculative floating parliament he conceived, does exactly that \u2014 and in doing so, reimagines what civic architecture can mean when the crisis it addresses becomes the material it\u2019s built from.\nRecognized as a finalist in the 2026 YAC Ocean Parliament competition, Ocean Vortex is a direct response to the staggering scale of marine plastic pollution, particularly the vast garbage patches accumulating across the Pacific Ocean.\nFrom a distance, Ocean Vortex reads as an open civic platform shaped by the forces of wind and water.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-05-14T20:32:00Z",
-    "source": "Scientific American"
+    "bias": "lean left",
+    "publishedAt": "2026-05-31T13:20:31Z",
+    "source": "Yanko Design"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://www.bgr.com/2181213/mini-nuclear-reactors-could-fix-americas-energy-problems/",
+    "title": "Not Wind, Not Solar: Mini Nuclear Reactors Could Fix America's Energy Problems",
+    "summary": "America's nuclear boondoggle may be coming to an end, as the Department of Energy looks to deploy a new generation of nuclear reactors.\nWith a goal of reaching 400 gigawatts by 2050, the administration has pinned its nuclear hopes on Small Modular Reactors (SMRs).\nSupported by a $900 million investment fund, the administration believes that these smaller nuclear reactors are the key to the country's clean energy future.\nWhile America's SMR grid remains hypothetical, roughly $15.4 billion in global investments have caused a surge in SMR projects worldwide.\nWith Silicon Valley entering the fray, the nascent technology could save or doom America's energy future.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-06-01T02:17:00Z",
+    "source": "BGR"
+  },
+  {
+    "id": "NTE=",
+    "url": "https://www.bbc.com/news/articles/ckgpw7rzlz4o",
+    "title": "Curlews: Endangered bird spotted with nest and eggs at Sliabh Beagh",
+    "summary": "Beagan said it was \"really really exciting to find that one\" and that he and his team will be eagerly watching the progression of this bird throughout the breeding season.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-05-31T12:01:11Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NjE=",
+    "url": "https://www.yahoo.com/news/articles/us-says-struck-iranian-military-041730136.html",
+    "title": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue",
+    "summary": "But it calls for Israel \u200cto refrain from strikes on Beirut and its suburbs controlled by Hezbollah, while the Iran-aligned group would halt its attacks on Israel.\nAdvertisement AdvertisementHostilities in southern Lebanon, which Israel invaded in March, continued on Monday \u200bevening.\nU.S. President Donald Trump, who first announced the agreement, said Hezbollah, through intermediaries, had pledged not to attack Israel.\nLebanon said it would seek to expand the ceasefire in talks with Israel in Washington on Wednesday.\nDespite the ceasefire, Iran and the U.S. have exchanged strikes several times over the past week.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-06-01T04:19:39Z",
+    "source": "Yahoo Entertainment"
   }
 ]
