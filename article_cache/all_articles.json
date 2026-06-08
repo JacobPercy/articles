@@ -2,793 +2,553 @@
   {
     "article": {
       "id": "MA==",
-      "url": "https://abcnews.com/Politics/white-house-economic-director-downplays-americans-economic-anxiety/story?id=133462207",
-      "title": "White House economic director downplays Americans' economic anxiety amid high gas prices and inflation",
-      "summary": "Traders work on the floor of the New York Stock Exchange at the opening bell in New York on May 27, 2026.\nTraders work on the floor of the New York Stock Exchange at the opening bell in New York on May 27, 2026.\nTraders work on the floor of the New York Stock Exchange at the opening bell in New York on May 27, 2026.\nTraders work on the floor of the New York Stock Exchange at the opening bell in New York on May 27, 2026.\n\"On balance, real incomes, real wages are going up.\"",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5847669/jobs-labor-market-unemployment-wages-inflation",
+      "title": "The U.S. adds 172,000 jobs. Many are in restaurants, bars and hotels",
+      "summary": "U.S. employers added jobs for the third month in a row in May, according to a report Friday from the Labor Department.\nRestaurants and bars added 48,000 jobs last month in anticipation of strong summer demand, while the overall hospitality industry added 70,000 jobs.\nBanks and insurance companies, meanwhile, cut jobs.\nOver the last three months, employers have added an average of 188,000 jobs each month.\nDespite the uptick in hiring, employers are not having to offer big wage increases to attract workers.",
       "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-05-31T14:37:32Z",
-      "source": "Abcnews.com"
+      "bias": "center",
+      "publishedAt": "2026-06-05T14:20:37Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
       "id": "MQ==",
-      "url": "https://finance.yahoo.com/economy/articles/ai-economy-could-crash-mounting-111500824.html",
-      "title": "The AI economy could crash on mounting chip costs \u2014 and those token costs won\u2019t help",
-      "summary": "A single Nvidia Blackwell GPU in a modern AI chip cluster could cost as much as a new Tesla Model 3.\nNon-AI chip costs have also risen sharply, with both total spending and unit costs for CPU and memory chips at unprecedented levels.\nWhy are AI chip costs rising so dramatically?\nIn particular, chip demand for AI has exploded, supporting both the training of AI models and their deployment across applications.\nThe gap between chip demand and supply creates a shortage that increases chip prices.",
-      "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-05-30T11:15:00Z",
+      "url": "https://finance.yahoo.com/economy/policy/articles/may-maximum-level-u-debt-174555851.html",
+      "title": "Here\u2019s where U.S. debt may become unsustainable with interest payments triggering a default crisis that even steep tax hikes can\u2019t fix",
+      "summary": "Above that \u201couter bound\u201d threshold, there\u2019s no feasible tax on labor income that can finance interest payments on U.S. debt at returns acceptable to investors, PWBM warned in a report Thursday.\nThe U.S. has 25 more years in a lower-growth scenario, 22 years with medium growth, and 19 years with higher growth, PWBM estimated.\n\u201cUnder the historical growth rate of healthcare costs, there is a 25% chance of hitting the debt maximum in 14 years,\u201d it added.\nOther factors could also affect these calculations, such as higher interest rates, a smaller tax base, and labor-supply responses.\nBut if they aren\u2019t and there\u2019s a sudden market crash, it would increase the overall debt-to-capital ratio, causing debt holders to demand higher yields that add further to debt interest costs.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-06-06T17:45:55Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
       "id": "Mg==",
-      "url": "https://abcnews.com/Politics/wireStory/trump-facing-new-inflation-warning-bond-market-adding-133475095",
-      "title": "Trump is facing a new inflation warning from the bond market",
-      "summary": "Interest rates on a 10-year U.S. Treasury note are topping 4.44%, up from 3.95% before the war started at the end of February.\nTrump has tried to assure Americans that he has a plan to trim the roughly $1.8 trillion annual budget deficit.\nThe White House and Treasury did not respond to questions about the source of Bessent\u2019s claims.\n\u201cWe inherited the worst budget deficit in history \u2014 in history \u2014 when we were not in a recession or not at war,\u201d Bessent said.\nBut the increase in interest rates also suggests that investors view the national debt as a vulnerability for the U.S.",
+      "url": "https://www.businessinsider.com/jobs-report-may-data-live-updates-2026-6",
+      "title": "Jobs report recap: US added 172,000 jobs in May, far more than economists expected",
+      "summary": "Based on May's strong job growth and prior revisions, it's looking like a better time to be a job seeker.\nLeisure and hospitality, government, and healthcare had a solid month of job creation, unlike financial activities, which lost jobs.\nLeisure and hospitality, government, and healthcare had a solid month of job creation, unlike financial activities, which lost jobs.\nSeveral jobs experts described this as a blowout report, including Lindsay Rosner, head of multi sector fixed income investing at Goldman Sachs Asset Management.\n\"We've gained more and more confidence in the last prints that the Fed doesn't have to be worried about the labor market,\" Rosner said.",
       "category": "economics",
       "bias": "left",
-      "publishedAt": "2026-06-01T04:41:11Z",
-      "source": "Abcnews.com"
+      "publishedAt": "2026-06-05T09:52:27Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "Mw==",
-      "url": "https://hardware.slashdot.org/story/26/05/31/1827209/renewable-energy-is-surging-in-africa",
-      "title": "Renewable Energy is Surging in Africa",
-      "summary": "Once it hits the fan, the only rational choice is to sweep it up, package it, and sell it as fertilizer.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-05-31T18:34:00Z",
-      "source": "Slashdot.org"
+      "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "US stocks slump as fears over Big Tech shake Wall Street",
+      "summary": "However, Friday's sell-off did not mark a global market panic.\nInstead, it saw investors shifting away from tech stocks, which critics have warned are overvalued and could crash in the same way the dotcom bubble did in the early 2000s.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-06-06T15:36:34Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "NA==",
-      "url": "https://finance.yahoo.com/economy/articles/china-factory-activity-slows-may-031735623.html",
-      "title": "China\u2019s factory activity slows in May, raising questions over its economy",
-      "summary": "BEIJING (AP) \u2014 China\u2019s factory activity was flat in May, according to an official survey released Sunday, raising questions about how much further the country\u2019s economy can shield itself from the fallout of the ongoing Iran war and pressure on demand.\nAnalysts say China's ample oil reserves and diversified sources of energy have helped the world's second-largest economy weather the war nearly unscathed.\nMeanwhile, exports remain key for China\u2019s broader economy, HSBC said.\nWhile China\u2019s exports to the United States have dropped year-on-year during most months in the past year, its global exports have been robust, particularly to Europe and Southeast Asia.\nChinese leaders have set an annual economic growth target of 4.5% to 5% for this year.",
+      "url": "https://finance.yahoo.com/economy/policy/articles/russias-sanctioned-businessmen-accuse-authorities-113939432.html",
+      "title": "Sanctioned Russian billionaire says high interest rates have set 'trap' for economy",
+      "summary": "More from Yahoo Scout Why is Russia's economic growth expected to slow significantly?\nWhy are Russian billionaires criticizing central bank policy?\nHow are high interest rates affecting Russia's economy?\nZabotkin, who attended the discussion, applauded Trotsenko's speech but later told reporters that the central bank was fully aware of Russian businesses' woes.\nDmitry Mazepin, owner of fertiliser producer Uralchem, likened the central bank's actions to cool down the economy to efforts by hostile Western powers.",
       "category": "economics",
-      "bias": "center",
-      "publishedAt": "2026-05-31T03:17:35Z",
+      "bias": "lean left",
+      "publishedAt": "2026-06-05T16:05:49Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
       "id": "NQ==",
-      "url": "https://www.yahoo.com/news/world/articles/russian-spies-aggressively-seeking-western-040120902.html",
-      "title": "Russian spies are aggressively seeking Western technology as sanctions bite, officials say",
-      "summary": "STOCKHOLM, Sweden (AP) \u2014 Russia's intelligence agencies have grown more aggressive in their efforts to steal Western technology and defense secrets as sanctions squeeze the country's wartime economy, three senior European intelligence officials told The Associated Press.\nIt is also trying to procure camera and laser technology developed for civilian purposes that could be integrated into Russian weapons systems, he said.\n\u201cWe're talking about space technology, quantum ... arctic technology, marine technology,\u201d he said, adding that space technology is something Russia needs \u201cright now,\" without elaborating.\nRussian officials planned to have a budget deficit of 3.7 trillion rubles ($52.1 billion) for the whole of 2026 and had already reached about 3.4 trillion rubles ($47.9 billion) by the end of February, Rosin said.\nAdvertisement AdvertisementStalled progress on the battlefield and economic woes have many Russian officials privately asking \u201cwhat is this all for,\u201d Rosin said, citing the intelligence reports.",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law.\nLawmakers behind the bill say it\u2019s meant to give policymakers time to understand the impact of large data centers on the environment and energy prices.\nIt directs the state\u2019s environmental agency to create an impact report assessing the amount of electricity, water, and land that data centers use, and the pollution they create.\nIt requires companies planning to build large data centers to hold and fund a public hearingSurveys show that most Americans oppose the idea of data centers in their communities, and heated public meetings across the country have shown it to be a galvanizing issue across the political spectrum.\nThe New York bill is a shorter moratorium than the three-year proposal that was previously introduced, according to Politico.",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-05-30T04:01:20Z",
-      "source": "Yahoo Entertainment"
+      "bias": "left",
+      "publishedAt": "2026-06-05T15:25:10Z",
+      "source": "The Verge"
     }
   },
   {
     "article": {
       "id": "Ng==",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/wall-street-may-solved-nagging-224009888.html",
-      "title": "Wall Street may have solved a nagging mystery in global oil markets as doomsday scenarios have yet to arrive",
-      "summary": "China has quietly emerged as the global oil market\u2019s stealthy swing consumer, potentially holding off doomsday a while longer.\nWhen could global oil inventories reach critically low levels?\n\u201cI mean really, really low levels.\nYou can debate whether that\u2019s going to hit those really low levels in two weeks or three weeks.\nBut the latest evidence suggests Chinese refiners more aggressively drained inventories in May compared to April, absorbing a greater share of the global oil shock, Hussain added.",
+      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro",
+      "title": "Steve Rosenberg: Lasting image of Russia's economic forum is plume of smoke over St Petersburg",
+      "summary": "I often think that's how the Russian authorities want the world to view their country: as a giant tumbler doll that cannot be knocked down or defeated, no matter how hard you push it.\nDespite more than four years of war, and battered by sanctions, Russia is still standing.",
       "category": "economics",
-      "bias": "right",
-      "publishedAt": "2026-05-31T22:40:09Z",
-      "source": "Yahoo Entertainment"
+      "bias": "lean right",
+      "publishedAt": "2026-06-07T07:11:18Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "Nw==",
-      "url": "https://www.nature.com/articles/d41586-026-01688-1",
-      "title": "Can Polymarket predict the progress of science, or are subject-experts better?",
-      "summary": "From bets on disease outbreaks to wagers about artificial intelligence, many of their markets relate to science and research.\nIn prediction markets, users bet on a future event by buying and selling shares in favour of various outcomes.\nPrediction markets are \u201cpotentially helpful forecasting supplements\u201d when it comes to science, says Richard Borghesi, who researches finance and prediction markets at the University of South Florida in Tampa.\nPossible pandemicsOne science-based area in which researchers question the effectiveness of prediction markets\u2019 forecasting is disease outbreaks.\n\"In that regard, Polymarket bets do \"tell you something about how the public feels.\"",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-06-01T00:00:00Z",
-      "source": "Nature.com"
+      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "summary": "New grads had better odds of landing work than the average worker, and that edge held for as long as anyone tracked it.\nThe chart tracks a single number, a recent grad's unemployment rate minus the rate for all workers.\nThe job-finding advantage of young grads has been fading since around 2000, and their edge over high-school workers closed around 2019.\nNow it is the widest gap on recordBy early 2026 recent grads sat at 5.6% unemployment against 4.2% for all workers, the widest gap on record.\nYoung workers without a degree sit at 7.2% unemployment, well above the grads' 5.6%.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-06-06T20:35:40Z",
+      "source": "Randalolson.com"
     }
   },
   {
     "article": {
       "id": "OA==",
-      "url": "https://www.yahoo.com/news/articles/syrias-sharaa-holds-phone-call-190531673.html",
-      "title": "Syria's Sharaa holds phone call with Trump, Syrian presidency says",
-      "summary": "May 31 (Reuters) - Syrian President Ahmed al-Sharaa held a phone call with U.S. President Donald Trump \u200cin which they discussed supporting the Syrian economy \u200cand the latest regional developments, the Syrian presidency said on Sunday.\n\u2022 \u200bDuring the call, Sharaa said lifting the remaining U.S. sanctions on Syria was essential to reviving the economy and attracting investments, according to the statement.\n\u2022 The U.S. has also said it is reviewing Syria's designation as a state sponsor of terrorism, \u200cwhich carries restrictions on U.S. \u200bforeign assistance, defence exports and \u200bcertain financial transactions.\n\u2022 Lifting \u200bthe remaining sanctions is widely seen as \u200ckey to the success of \u200bSyria's new \u200bgovernment.\nSeveral Saudi firms are planning billion-dollar investments in the country as part of Riyadh's efforts to \u200bsupport its recovery, \u200cwhile other Gulf states have also pledged financial \u200bassistance.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-05-31T20:10:32Z",
-      "source": "Yahoo Entertainment"
+      "url": "https://www.businessinsider.com/pe-guy-johnny-hilbrant-million-dollar-business-creator-2026-6",
+      "title": "I started roasting private equity bros as a joke. Now, I've turned it into a $1 million business.",
+      "summary": "The growth of Johnny Hilbrant's PE Guy character over the past year has been, to borrow one of his favorite phrases, \"substantial.\"\nWhat had started as a joke has turned into a real business, one that PE Guy might even want to invest in.\nPE Guy is kind of my baby, and I don't want to give up control.\nI knew things were changing when I started developing in-person PE Guy fans while teaching fitness classes at Barry's Bootcamp and SoulCycle.\nIf it blows up and becomes the next big thing, PE guy would profit from it.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-06-07T10:28:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "OQ==",
-      "url": "https://finance.yahoo.com/economy/policy/articles/bond-trader-bets-fed-hike-190000197.html",
-      "title": "Bond Trader Bets on Fed Hike Poised for Gut Check From Jobs Data",
-      "summary": "(Bloomberg) -- Bond traders are looking to a key jobs report this week to confirm their wagers that the US economy is strong enough to push the Federal Reserve to lift interest rates by next year.\nOther bond markets globally also fell, with the equivalent German rate rising four basis points to 2.98%, while the UK 10-year yield rose three basis points to 4.84%.\nHowever, US 10-year rates, a benchmark for mortgages and corporate borrowing, are still roughly a half-point above levels at the end of February.\nOne options trade that emerged last week targeted the 10-year yield rising above 5% within months, a level not seen since 2023.\nThe economy probably added roughly 90,000 jobs, keeping the unemployment rate steady at 4.3%, according to a Bloomberg survey.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-05-31T19:00:00Z",
+      "url": "https://finance.yahoo.com/economy/articles/putin-running-money-wage-war-171144807.html",
+      "title": "Putin is running out of money to wage war on Ukraine, and this Russian-occupied territory is running out of fuel as Kyiv smashes supply lines",
+      "summary": "The Kremlin\u2019s war machine is short on money and fuel as Ukrainian drones wreak havoc on Russian supply lines.\nHow are Ukrainian drone attacks affecting Russia's economy?\nWith its war on Ukraine now a quagmire and its economy shrinking, Kremlin finance officials recently told Putin that his war is unaffordable, sources told Bloomberg.\nBut that slowed to 1% last year, and Russia\u2019s budget woes have worsened, too.\nBut Ukraine has also been attacking Russia\u2019s oil infrastructure this year, targeting export terminals, refineries, and trucks carrying supplies in occupied areas of Ukraine.",
+      "category": "international",
+      "bias": "right",
+      "publishedAt": "2026-06-05T17:11:44Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
       "id": "MTA=",
-      "url": "https://finance.yahoo.com/economy/articles/south-korea-export-growth-hits-005401997.html",
-      "title": "South Korea export growth hits four-decade high on AI chip boom",
-      "summary": "More from Yahoo Scout What drove South Korea's record-breaking export growth?\nWhich markets showed strongest demand for Korean goods?\nWhat impact did exports have on South Korea's economy?\nHe is forecasting even stronger momentum in \u2060the third quarter and export growth of around 50% for the full year.\nLast week, the country's central bank raised its economic growth forecast for this year to 2.6% from 2.0%, after the trade-reliant economy delivered its strongest growth in nearly six years last quarter on booming chip exports.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nqck86?at_campaign=rss",
+      "title": "Anthropic: AI could escape human control",
+      "summary": "Available for 27 daysOne of the biggest artificial intelligence developers, the US firm Anthropic, has proposed a coordinated global slowdown on building advanced AI systems, saying that the latest large language models could escape human control.\nAlso: President Putin delivers a keynote address at an annual economic forum in St Petersburg, insisting that the Russian economy remains strong.\nThe director-general of the World Health Organisation says significant challenges remain around the development of a vaccine for the new species of Ebola.\nGet the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories.\nGet in touch: globalpodcast@bbc.co.uk Photo: Anthropic logo Credit: REUTERS/Dado Ruvic/Illustration/File PhotoProgramme Website",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-06-01T02:54:42Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "MTE=",
-      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-the-may-jobs-report-plus-tech-and-retailer-earnings-11985188",
-      "title": "What to Expect in Markets This Week: The May Jobs Report, Plus Tech and Retailer Earnings",
-      "summary": "May jobs numbers are slated to arrive Friday, capping off a confusing period for labor economists.\nSome economists believe the labor market is rallying after a sluggish 2025.\nAnalysts wonder whether jobs numbers and other economic indicators will move markets more under new Fed Chair Kevin Warsh.\nA number of tech companies are also slated to report, including Palo Alto Networks, CrowdStrike, and Broadcom.\nMarket RecapThe major stock indexes finished a month of gains at record highs, buoyed by enthusiasm for tech stocks and softer-than-expected inflation data.",
-      "category": "economics",
       "bias": "center",
-      "publishedAt": "2026-05-31T10:00:00Z",
-      "source": "Investopedia"
-    }
-  },
-  {
-    "article": {
-      "id": "MTI=",
-      "url": "https://www.usatoday.com/story/money/personalfinance/real-estate/2026/05/31/capital-gains-tax-home-sales/90312190007/",
-      "title": "Why more homeowners owe capital gains tax when they sell",
-      "summary": "ETReal estate experts would like to see big changes, perhaps doubling the tax-exempt thresholds or even eliminating the capital gains tax on primary residences.\nHot spots for capital gains could growNew research by the National Association of Realtors estimates that nationwide about 13.1 million homeowners \u2014 15% of all owner-occupied households \u2014 already have unrealized capital gains in their homes that exceed the limits allowed for the capital gains tax break.\nBut if they sell the big home, they get hit with this capital gains tax.\nHow the capital gains tax on home sales worksHow much you'd actually pay in taxes could vary significantly.\nSome states have no income tax, while others tax capital gains as ordinary income.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-05-31T12:02:04Z",
-      "source": "USA Today"
-    }
-  },
-  {
-    "article": {
-      "id": "MTM=",
-      "url": "https://finance.yahoo.com/economy/policy/articles/financial-markets-losing-security-blanket-172648645.html",
-      "title": "Financial markets are losing the security blanket that\u2019s bailed them out of trouble so many times, top economist warns",
-      "summary": "That\u2019s according to Mohamed El-Erian, chief economic adviser at Allianz and chair of Gramercy Funds Management, who warned in a Financial Times op-ed that a decades-old \u201cpolicy put\u201d is vanishing.\nUntil recently, monetary policy and fiscal policy were often employed when stock markets crashed, eventually causing investors to expect policymakers to come to the rescue.\nBut high inflation, elevated interest rates, and soaring debt limit the ability of central banks and lawmakers to respond to downturns, El-Erian warned.\nThe disappearing policy put has implications for the real economy as well as for financial markets.\nMeanwhile, the Fed will be torn between fighting inflation via rate hikes and supporting the job market via rate cuts.",
-      "category": "economics",
-      "bias": "right",
-      "publishedAt": "2026-05-31T17:26:48Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "MTQ=",
-      "url": "https://247wallst.com/investing/2026/05/31/bidenflation-hit-harder-but-trumpflation-may-last-longer/",
-      "title": "Bidenflation Hit Harder, but Trumpflation May Last Longer",
-      "summary": "Today they average $4.33 per gallon after oil prices surged above $100 per barrel.\nAccording to the Bureau of Labor Statistics Producer Price Index report, producer prices rose 6% in April.\nEven excluding volatile food and energy costs, core producer inflation increased 4.4%.\nTrump\u2019s inflation challenge may prove different.\nTariffs, energy disruptions, rising producer costs, and the possibility of prolonged Federal Reserve tightening could keep inflation above target for far longer than many investors currently expect.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-05-31T14:01:50Z",
-      "source": "24/7 Wall St."
-    }
-  },
-  {
-    "article": {
-      "id": "MTU=",
-      "url": "https://www.businessinsider.com/ukraine-zelenskyy-drones-ai-russia-war-silicon-valley-defense-tech-2026-5",
-      "title": "Zelenskyy makes a pitch to Silicon Valley's defense startups: Bring your AI, we'll bring the battle experience",
-      "summary": "American tech companies have AI firepower.\nUkrainian President Volodymyr Zelenskyy says the combination of the two could be world-changing.\n\"American technological companies have a lot of different interesting AI technologies that we don't have.\nThe AI craze in the United States, meanwhile, coupled with a Defense Department eager to develop new autonomous military technology, is fueling the growth of a Silicon Valley defense tech industry.\nThrough a state-backed \"Test in Ukraine\" program launched last year, hundreds of international companies have applied to test drones, counter-drone systems, AI, electronic warfare tools, naval drones, and ground robots in Ukraine.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-05-31T21:35:55Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MTY=",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
-      "title": "Aukus: US, UK and Australia to develop underwater drone technology",
-      "summary": "It would also help them deal with threats \"including to our underwater cables and pipelines on which so much of our daily life depends\".\nSuch efforts would strengthen deterrence in the Pacific, Atlantic and waters in the High North, he added.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-05-30T12:16:26Z",
+      "publishedAt": "2026-06-05T15:43:00Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "MTc=",
-      "url": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
-      "title": "Cybercrime Crew Claims It Hacked Mike Lindell\u2019s MyPillow",
-      "summary": "Researchers cautioned that it is unclear how extensive the restoration will be and whether connectivity will only return temporarily.\nLindell is also one of the most prolific backers of Donald Trump\u2019s false claims of victory in the 2020 election.\nPlay reportedly set a Friday deadline for MyPillow to make contact before publishing the data online.\nThe FBI said this week that one ransomware group is going even further: sending people to steal data directly from companies IRL.\n\u201cIt is clear that ShotSpotter wasted officers\u2019 time by sending them on wild-goose chases,\u201d Vargas told WTTW News.",
+      "id": "MTE=",
+      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "summary": "Why Connected TV (CTV) is the Ideal ProxyConnected TV, a.k.a Smart TV, is a near-perfect residential proxy.\nSome partner publishers do disclose the Bright Data relationship in their privacy policies PlayWorks is one example.\nThe Bright Data SDK is a publicly documented commercial product, offered to publishers via Bright Data\u2019s SDK integration docs (with a JavaScript variant for web).\nServer \u2192 client: cid_set the server assigns the client a session-tracking identifier in the format <IP>-<token>/ls<N>c<M>p443_<IP>_<counter> .\nEvery frame on the WebSocket is plain JSON with a fixed envelope:{\"type\": \"ipc_call\"|\"ipc_post\"|\"ipc_result\"|\"ipc_error\",\"cmd\": <command>, \"cookie\": <correlation-id>,\"err_code\": 0, \"msg\": { ...payload... }}The full command vocabulary extracted from the binary and verified on the wire:Direction cmd Purpose Server \u2192 Client tunnel_init Open session, echo public IP Server \u2192 Client cid_set Assign session identifier Server \u2192 Client status_get Poll device idle/battery/bandwidth Server \u2192 Client cmd_tun / tun Dispatch a scraping job Server \u2192 Client dns Request DNS resolution of a target Server \u2192 Client consent Request consent state Client \u2192 Server status_send Periodic heartbeat with device state Client \u2192 Server tun_report / tun_ack / tun_fin Relay-job lifecycle responses Client \u2192 Server tunnel_init_decline Decline a session Client \u2192 Server logs Ship diagnostic logs to serverThere\u2019s no message signing, HMAC, client certificate or device attestation.",
       "category": "technology",
       "bias": "lean left",
-      "publishedAt": "2026-05-30T10:30:00Z",
-      "source": "Wired"
+      "publishedAt": "2026-06-06T09:17:49Z",
+      "source": "Includesecurity.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTI=",
+      "url": "https://www.businessinsider.com/worker-got-religious-exemption-using-ai-at-work-2026-6",
+      "title": "A Software Engineer Won a Religious Exemption From Using AI at Work",
+      "summary": "Opposed to using AI for her software-engineering job, Erin Maus secured something of a miracle from her employer: a religious exemption.\nMaus, a Unitarian Universalist, said she proposed the special treatment in April, citing environmental and ethical objections to AI that don't align with her religious beliefs.\nMaus' AI workaround comes as a growing number of employers mandate and track workers' AI usage.\nSome people have interpreted the pontiff's letter as grounds for religious objections to using AI in the workplace.\nIn 2023, the Supreme Court ruled in favor of a postal worker who sought an exemption from Sunday shifts for religious reasons.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-06-05T09:40:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTM=",
+      "url": "https://www.businessinsider.com/quit-salesforce-job-ai-tech-startup-entrepreneurship-careers-claude-budgeting-2026-6",
+      "title": "I spent over 20 years in tech thinking entrepreneurship wasn't for someone like me. AI changed my mind.",
+      "summary": "I spent more than two decades working in tech, including at companies like Oracle and Salesforce.\nWhile breaking in is still an uphill battle, I believe AI has lowered the barriers to entry for tech entrepreneurs.\nGabrielle TaoI keep coming back to one AI toolToday, I'm focused on building Tovix AI, an AI governance startup focused on AI testing and monitoring tools.\nI spent years believing entrepreneurship wasn't a realistic option for someone like me.\nFor the first time in my life, partly because of advances in AI, it finally feels like a real option.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-06-05T09:16:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTQ=",
+      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "title": "WWDC 2026: How to watch and what to expect",
+      "summary": "Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\nApple\u2019s biggest event of the year is nearly here.\nWhen WWDC will happen and where you can watch itWWDC lasts a few days, but Apple\u2019s biggest announcements will be in the keynote presentation on June 8th at 1PM ET / 10AM PT.\nYou can watch it live on YouTube or from Apple\u2019s website.\nWhat to expect from Apple\u2019s WWDC keynote",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-06-06T22:12:51Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTU=",
+      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "title": "Here comes new Siri again",
+      "summary": "At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri.\nAs a reminder, we met the new Siri in 2024 when Apple \u201claunched\u201d Apple Intelligence.\nSiri came with a new glowing border, different voice options, and the ability to punt questions to ChatGPT.\nThat\u2019s a very different Siri from the timer-setting voice assistant we currently know, mostly hiding behind the scenes.\nRemember this tagline from the first time Apple tried to launch AI Siri?",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-06-05T18:40:17Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTY=",
+      "url": "https://www.businessinsider.com/ai-chief-bnp-paribas-tokenmaxxing-vanity-metric-2026-6",
+      "title": "An AI chief for one of the world's largest banks says tokenmaxxing is a 'vanity metric'",
+      "summary": "For the past year, Silicon Valley has been obsessed with \"tokenmaxxing\" \u2014 the idea that maximizing AI usage (and therefore token consumption) should make workers more productive.\n\"We try to go away from vanity metrics \u2014 billions of tokens per day,\" Holive told Business Insider at Mistral AI's summit in Paris last week.\nInstead of asking employees how many AI tokens they've used, Holive starts with a different set of questions.\n\"Then we look at token consumption because I need to control my costs,\" he said.\nBut he said his approach differs from companies that focus heavily on AI usage metrics.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-06-05T10:15:45Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTc=",
+      "url": "https://www.cnet.com/tech/services-and-software/apples-ai-era-every-ai-drop-since-last-years-wwdc/",
+      "title": "Apple's AI Era: Every AI Drop Since Last Year's WWDC",
+      "summary": "WWDC 2025 marked the beginning of Apple's biggest AI push to date.\nTogether, Apple's AI rollout and leadership changes will undoubtedly shape the next chapter of the company's strategy and ecosystem of devices and services.\nUntil then, let's reflect on Apple's major AI launches since WWDC 2025 and what Tim Cook's departure means for the company.\nApple Intelligence becomes a core platform featureRather than launching as a standalone product, Apple Intelligence has evolved into a system-wide layer woven throughout iOS, iPadOS and MacOS.\nPotential announcements could include deeper AI integration across system features, new developer tools for building AI agents and a revamped Siri.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-06-05T06:50:04Z",
+      "source": "CNET"
     }
   },
   {
     "article": {
       "id": "MTg=",
-      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-      "title": "Anthropic surpasses OpenAI to become world\u2019s most valuable AI startup",
-      "summary": "Following the deal, Anthropic officially overtook OpenAI in market valuation and became the largest AI company among Silicon Valley\u2019s private startups.\nThe new valuation is nearly three times higher than the company\u2019s February valuation, when Anthropic was estimated to be worth around $380 billion.\nIt is noted that Anthropic\u2019s rise has intensified competition in the artificial intelligence market.\nIn March, OpenAI was valued at $852 billion following a record $122 billion funding round.\nEarlier, Qazinform News Agency reported that Kazakhstan ranked among the countries least concerned about job losses caused by artificial intelligence, according to the latest global survey by the Gallup International Association.",
+      "url": "https://www.yankodesign.com/2026/06/05/7-biggest-ai-ideas-that-came-out-of-beyond-expo-2026/",
+      "title": "7 Biggest AI Ideas That Came Out of BEYOND Expo 2026",
+      "summary": "The youngest person at BEYOND Expo 2026\u2019s AI Hack Day was nine years old.\nBEYOND Expo 2026 ended up giving us a pretty clear map of where this is all heading, with seven key ideas showing up over and over again.\nThese are the ideas that give us a solid picture of an AI that now has weight, form, and real-world impact.\nThis is a structural shift in how tech companies might get built.\nAI Is Going Underwater, LiterallyProbably the most unexpected idea at the expo was seeing AI get good at swimming.",
       "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-05-30T13:56:34Z",
-      "source": "Qazinform.com"
+      "bias": "lean left",
+      "publishedAt": "2026-06-05T19:15:55Z",
+      "source": "Yanko Design"
     }
   },
   {
     "article": {
       "id": "MTk=",
-      "url": "https://gptzero.me/investigations/ey",
-      "title": "Investigation: Hallucinations in Ernst & Young Report on Loyalty Fraud",
-      "summary": "Earlier this year, an engineer at GPTZero coined the term \u201cvibe citing\u201d to describe the accidental creation of fake references via LLM hallucinations.\nAmong the converts are the authors of a 2025 Ernst & Young report titled Points of Attack: Uncovering Cyber Threats and Fraud in Loyalty Systems.\nOver the past few months we've set up an automated pipeline to search for vibe citations by finding and scanning public reports from major consulting firms.\nWhat we've found suggests that the vibe citing epidemic is already endemic, even among the major players.\nThis approach both prevents individual examples being overlooked and allows us to illustrate the negative impacts of vibe citing on research quality and public trust.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-05-30T19:02:54Z",
-      "source": "Gptzero.me"
+      "url": "https://www.businessinsider.com/elon-musk-pitch-spacex-terafab-chip-moonshot-asml-employees-2026-6",
+      "title": "Elon Musk plans to pitch SpaceX's Terafab chip moonshot to employees at Europe's biggest tech company",
+      "summary": "Elon Musk is kicking off SpaceX's public debut with a personal pitch to employees at a critical Terafab supplier.\nThe virtual event comes a day before SpaceX is set to go public at a potential valuation of $1.75 billion.\nThe Terafab, a joint venture between SpaceX, Tesla, and Intel to construct a series of enormous semiconductor factories, is a key part of SpaceX's pitch to investors.\nNetherlands-based ASML, Europe's most valuable tech company, is a critical part of that vision.\nASML CEO Fouquet told Reuters last month that he had spoken to Musk about the Terafab project, without providing details.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-06-05T16:18:56Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MjA=",
-      "url": "https://www.businessinsider.com/ai-jobs-crisis-no-evidence-apollo-chief-economist-torsten-slok-2026-5",
-      "title": "Apollo's chief economist says he sees 'zero evidence' of AI-related job losses, even as CEOs cite the tech in layoffs",
-      "summary": "Anyone worried that AI will replace them should take a deep breath, at least according to Apollo Global Management's chief economist.\nIn a blog post on Friday, Torsten Sl\u00f8k said there is \"zero evidence of job losses because of AI,\" citing the ADP National Employment Report.\nAnxiety that AI will eradicate the average job is everywhere, stoked in part by those behind the technology.\nNvidia CEO Jensen Huang, one of the pillars of the AI industry, has criticized companies that blame AI for layoffs.\nAltman has called the practice of blaming AI to reduce staff \"AI washing.\"",
+      "url": "https://www.businessinsider.com/anthropic-employee-quote-ai-confusion-workplace-2026-6",
+      "title": "An Anthropic employee's 2-sentence quote crystallizes the state of AI confusion at work",
+      "summary": "An Anthropic employee said AI advancements are leaving them in a state of internal turmoil.\nIn a blog post on its website on Thursday, Anthropic wrote about the risks of AI progressing to a point where it could improve itself autonomously.\nThe post quoted unnamed Anthropic employees who talked about AI's coding capabilities, and one employee's quote summed up the confusion around AI in the workforce.\nFrontier AI labs like Anthropic and OpenAI released new models at the end of last year that can perform complex tasks significantly better than their older versions.\nThursday's blog post was written by staff from The Anthropic Institute, an arm of the company that publishes research and advisories on the impact and risks of powerful AI systems.",
       "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-05-31T18:25:23Z",
+      "publishedAt": "2026-06-05T06:01:26Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MjE=",
-      "url": "https://boingboing.net/2026/05/30/this-cybersecurity-course-library-includes-over-90-classes-for-50.html",
-      "title": "This cybersecurity course library includes over 90 classes for $50",
-      "summary": "TL;DR: InfoSec4TC's Platinum Membership includes lifetime access to 90+ cybersecurity courses covering ethical hacking, CISSP, GRC, Python security, certification prep, and career development, now $49.97 (reg.\nThis expert-led training bundle includes more than 90 self-paced courses focused on cybersecurity certifications, technical skills, and career development.\nAs a subscriber, you receive a free consulting or planning session, technical background evaluations, mentorship resources, and guidance on cybersecurity career paths and certification planning.\nAnd because cybersecurity is an ever-evolving field, the ongoing course updates matter almost as much as the initial library itself.\nInfoSec4TC Platinum Membership: Cyber Security Training Lifetime AccessSee DealStackSocial prices subject to change.",
+      "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+      "title": "Miami Luxury Home Seller Considers AI Shares As Payment",
+      "summary": "This as-told-to essay is based on a conversation with Luis Noguera, whose father is selling a luxury home in Miami and accepting shares in Anthropic, OpenAI, or SpaceX as payment.\nIf the right buyer came along and wanted to use shares in OpenAI, Anthropic, or SpaceX as part of the deal, we'd seriously consider it.\nI spent several years working on data teams, including in San Francisco, and I've followed the AI industry closely.\nBut I also think AI is a transformational technology.\nMy family looks at that same property and thinks we'd rather own a piece of the companies building the future.",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-05-30T15:00:00Z",
-      "source": "Boing Boing"
+      "bias": "left",
+      "publishedAt": "2026-06-07T08:47:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MjI=",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/snowflake-ceo-says-monster-quarter-173355563.html",
-      "title": "Snowflake CEO says monster quarter shows why software firms need new pricing models to thrive in AI age",
-      "summary": "As of now, Snowflake, the cloud storage company where Ramaswamy is chief executive, is on the upside.\nRamaswamy just delivered a blowout first quarter for Snowflake, which this week reported a beat across the board.\nHow is Snowflake's consumption pricing model different from competitors?\nThe positive results were much needed for Snowflake following a stock slump that has decimated many software-as-a-service businesses due to investor fears about AI replacing traditional software vendors.\nThe difference for Snowflake, Ramaswamy said, is that it has priced its products by consumption from the getgo.",
+      "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-warns-ai-could-soon-142753206.html",
+      "title": "Anthropic warns AI could soon build itself without human involvement\u2014and urges a global pause on development",
+      "summary": "Anthropic has published a new account of how quickly its AI models are advancing, warning that the technology may soon be capable of improving itself without meaningful human involvement.\nJust as the AI lab, valued at almost $1 trillion, prepares to go public, it's also urging an industrywide pause in AI development.\nJust last week, the AI company filed confidential paperwork to prepare for an IPO.\nIt's also worth noting that Anthropic, despite advocating for a pause on AI development, recently dropped a key safety pledge that promised to do something similar.\nThursday's post does make it clear that, whatever its motivation, Anthropic believes the window for meaningful deliberation on AI safety is narrowing.",
       "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-05-30T17:33:55Z",
+      "bias": "lean left",
+      "publishedAt": "2026-06-05T14:27:53Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
       "id": "MjM=",
-      "url": "https://news.slashdot.org/story/26/05/31/2111256/us-teachers-union-urges-schools-to-curb-ai-chatbots-and-screen-time",
-      "title": "US Teachers' Union Urges Schools To Curb AI Chatbots and Screen Time",
-      "summary": "Once it hits the fan, the only rational choice is to sweep it up, package it, and sell it as fertilizer.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-05-31T21:15:00Z",
-      "source": "Slashdot.org"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260604044238.htm",
+      "title": "Rising seas could drown mangroves and release vast stores of carbon",
+      "summary": "While some previous studies have indicated that rising sea levels could boost carbon storage in mangrove ecosystems, a new study paints a more complicated picture.\n\"Research about carbon storage in mangroves is usually based on field observations, and such studies have found that carbon storage can increase as sea levels rise.\nGreater Sea-Level Rise Means Greater Carbon LossThe team evaluated several sea-level rise scenarios developed by the Intergovernmental Panel on Climate Change (IPCC).\nThe analysis showed that higher levels of sea-level rise produced increasingly negative effects on mangrove carbon storage.\nBeyond storing carbon, mangroves play a critical role in shielding shorelines from storms, supporting wildlife, and helping sustain coastal communities.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-06-05T08:03:39Z",
+      "source": "Science Daily"
     }
   },
   {
     "article": {
       "id": "MjQ=",
-      "url": "https://www.businessinsider.com/anthropic-improve-claude-code-snorkel-data-training-contractors-2026-6",
-      "title": "Inside the unseen operation to turbocharge Claude Code",
-      "summary": "The project, known internally at Snorkel AI as \"Marlin,\" focuses on fine-tuning Claude Code's answers so that it could mimic what a professional developer could do.\nTwo contractors working on the Anthropic project told Business Insider they are being paid $280 per task to create prompts and review code.\nProject Marlin's freelancers, who have software engineering backgrounds, were directed to A/B test code written by two different models.\nClean and reliable codeProject Marlin instructed contractors to create a series of scenarios for which software developers may use Claude Code.\nSnorkel AI, founded in 2019 by Stanford researchers, creates datasets to improve AI models and creates tests for AI companies' chatbots.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-06-01T04:02:01Z",
-      "source": "Business Insider"
+      "url": "https://www.bbc.com/news/articles/c1eypqxd928o",
+      "title": "Anger as Beddington incinerator stokes health fears",
+      "summary": "He described seeing large amounts of dust that he said was new to the area.\n\"Obviously dust is fine particles.\nMost of it is in the air, but some of it will land on your windowsill,\" he said.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-06-07T12:07:17Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "MjU=",
-      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
-      "title": "Nvidia announces RTX Spark as \u2018the most efficient PC chip ever built\u2019",
-      "summary": "Nvidia\u2019s CEO holds up two RTX Spark laptops at Computex.\nIf these specs sound familiar, it\u2019s because they\u2019re the same as the DGX Spark AI mini-PC.\nNvidia says RTX Spark laptops should have these features.\n\u201cRTX Spark is going to be a family of products that are going to attack a lot of different price points,\u201d Aevermann promises.\nAevermann says \u201call the top games will run on RTX Spark and provide a great experience.\u201d That\u2019s a pretty high bar to meet!",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-06-01T04:34:59Z",
-      "source": "The Verge"
+      "url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil",
+      "title": "Trump admin\u2019s cancellation of wind energy projects causes business turmoil",
+      "summary": "Seven northeastern states have sued US gov\u2019t for paying TotalEnergies to withdraw from offshore wind projects.\nOn March 23, the administration reached its agreement with TotalEnergies to end the offshore wind leases for Attentive and Carolina Long Bay.\nThis is the first time developers have been paid to withdraw wind power leases.\nIn December, the interior department cancelled five offshore wind projects under construction in the US northeast.\nThe Trump administration has so far cut subsidies for solar projects, electric vehicles and other renewable energy, but offshore wind projects may be particularly hard-hit because it is a relatively developing technology.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-06-05T18:12:44Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
       "id": "MjY=",
-      "url": "https://www.businessinsider.com/ai-commencement-speeches-graduation-reactions-class-of-2026-5",
-      "title": "Cheers, jeers, and laughs: The speeches about AI that drew strong responses from 2026 grads",
-      "summary": "College graduates know they are entering a world reshaped by AI.\nAcross the country, graduation speakers are finding out that AI is one of the most polarizing topics to discuss before the class of 2026.\nJournalist Fareed Zakaria felt compelled to give \"a trigger warning\" before addressing Bard College.\nAI has become so unpopular that comedians like Conan O'Brien are finding it to be a useful foil.\nHere is how business leaders, tech executives, and celebrities are talking about AI at graduations.",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "summary": "The United Nations estimates that 2.2 billion people lack safely managed drinking water, and communities from California to the Middle East rely on desalination plants to convert ocean water to fresh water.\nThe brine byproduct wreaks havoc on sea life when it\u2019s deposited back into the ocean by raising the salt level and lowering oxygen in the water.\nThe technology uses solar panels made of black metal etched with femtosecond lasers to make the surface super light-absorbing and superwicking\u2014or extremely attractive to water.\nThe solar panels, meanwhile, can be easily cleaned.\nUnlike sodium chloride, many other components in seawater, such as magnesium- and calcium-based materials, crystallize in a crusty and non-porous fashion on the solar panel\u2019s surface, clogging it.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-05-31T09:01:02Z",
-      "source": "Business Insider"
+      "bias": "left",
+      "publishedAt": "2026-06-05T15:04:03Z",
+      "source": "Rochester.edu"
     }
   },
   {
     "article": {
       "id": "Mjc=",
-      "url": "https://www.yahoo.com/news/politics/articles/stop-blaming-immigration-low-u-090000061.html",
-      "title": "Stop blaming immigration for low U.S. reading scores, top psychologist says. The problem is actually devices giving easy access to social media",
-      "summary": "\u201cIf you subtract immigration out of test scores, all of a sudden our test scores skyrocket,\u201d he said.\nFrom 2015 to 2025, average reading scores fell by nearly a grade level, showing a decline in almost every state.\n\u201cEven if we assume that the foreign-born kids performed worse on reading tests\u2014and that definitely wasn\u2019t true of all of them\u2014this is too small a shift to explain the dramatic declines in reading scores,\u201d Twenge said.\nResearchers speculated one reason for this outcome could be that being exposed to better-behaved children leads to less disruptive classrooms, noting that foreign-born students are disciplined less than U.S.-born students.\nWhy is technology behind dropping test scores?",
+      "url": "https://www.yahoo.com/news/us/articles/more-half-latin-americans-deported-154756773.html",
+      "title": "More than half of Latin Americans deported from US to Congo are now back home",
+      "summary": "DAKAR, Senegal (AP) \u2014 More than half of the 15 Latin Americans deported in April to Congo under the Trump administration\u2019s widely criticized crackdown on migrants have returned to their countries of origin, the Congolese government and one of their lawyers said Friday.\nCongo is one of at least eight African nations with which the U.S. has struck third-country deportation deals.\nAdvertisement AdvertisementUnder a series of often-secret agreements, the Trump administration has deported thousands of people to nearly two dozen countries that are not their own, advocates say.\nImmigration lawyers said the administration uses deportations to third countries as a legal loophole to indirectly force asylum seekers back to their home countries.\nAlma David, a U.S.-based attorney representing one of the 15 migrants, said eight deportees have returned to their home countries in recent weeks.",
       "category": "immigration",
       "bias": "lean left",
-      "publishedAt": "2026-05-31T09:00:00Z",
+      "publishedAt": "2026-06-05T15:47:56Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
       "id": "Mjg=",
-      "url": "https://www.cnet.com/tech/apples-smart-glasses-reportedly-delayed-until-late-2027/",
-      "title": "Apple's Smart Glasses Reportedly Delayed Until Late 2027",
-      "summary": "If you've had your sights set on sliding on a pair of smart glasses from Apple, you're going to have to wait a little longer than previously thought.\nApple's smart glasses are regarded as a key component of the company's product roadmap, Gurman writes.\nResearch released in March by Counterpoint Research suggests the smart glasses category is still in its early stages.\nThe tech market research firm reported that the smart glasses market grew 139% year-over-year in the second half of 2025, compared to 2024.\nApple's smart glasses are expected to include cameras for capturing videos and photos, microphones and speakers for handling phone calls, listening to notifications and playing music.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-05-31T21:45:00Z",
-      "source": "CNET"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjk=",
-      "url": "https://tympanus.net/codrops/2026/05/30/the-future-of-emotional-technology-comfort-websites-for-growth-and-self-awareness/",
-      "title": "The Future of Emotional Technology: Comfort Websites for Growth and Self-Awareness",
-      "summary": "This article introduces the concept of comfort websites: personalized digital spaces designed to support emotional growth, self-awareness, and well-being.\nUnlike comfort animals though, using a comfort website may be intentionally uncomfortable (at least for a small period of time; more on this later).\nSecond would be the Comfort Website Artist/Therapeutic Web Engineer (non-clinical) \u2013 a member of a community or an employee who creates comfort websites.\n1.1 The case for investigating comfort websitesThe idea of a \u201ccomfort website\u201d is not novel.\nLimitations & Future ResearchLike other interventions/solutions, comfort websites have limitations and are a case-by-case solution, not everyone experiencing the problems listed in this article should use a comfort website.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-05-30T13:06:23Z",
-      "source": "Tympanus.net"
-    }
-  },
-  {
-    "article": {
-      "id": "MzA=",
-      "url": "https://developers.slashdot.org/story/26/05/31/013213/zig-bans-ai-code-contributions-because-theyre-invariably-garbage",
-      "title": "Zig Bans AI Code Contributions Because They're 'Invariably Garbage'",
-      "summary": "Once it hits the fan, the only rational choice is to sweep it up, package it, and sell it as fertilizer.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-05-31T11:34:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "MzE=",
-      "url": "https://www.bbc.com/news/articles/cpwpeg57777o",
-      "title": "China's coal mine disaster is a reminder of its darkest days",
-      "summary": "State media reports have painted a picture of rampant safety violations at the mine: a notice board at the site that suggested only half of the workers underground on the day of the disaster were officially registered; the discovery that many workers in the mine did not carry mandatory tracking devices; and secret tunnels, along with an inaccurate blueprint, which complicated rescue efforts.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-05-31T23:32:04Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "MzI=",
-      "url": "https://www.cnn.com/2026/05/30/climate/hunga-tonga-volcano-eruption-methane",
-      "title": "A violent volcanic eruption may have revealed a new weapon to tackle a potent planet-heating gas",
-      "summary": "Summary A violent 2022 volcanic eruption in the South Pacific appears to have destroyed some of its own methane emissions.\nScientists discovered formaldehyde clouds indicating a chemical process that broke down the potent planet-heating gas for over a week.\nIt may also have also revealed a new weapon in the fight against a potent planet-heating gas, according to new research.\nFormaldehyde often forms when methane, a potent planet-heating gas, is destroyed in the atmosphere.\n\u201cIt has emitted methane and then destroyed these emissions through the particles in the plume,\u201d van Herpen said.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-05-30T11:00:08Z",
-      "source": "CNN"
-    }
-  },
-  {
-    "article": {
-      "id": "MzM=",
-      "url": "https://www.bbc.com/news/articles/cpwpeg57777o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "title": "China's coal mine disaster is a reminder of its darkest days",
-      "summary": "State media reports have painted a picture of rampant safety violations at the mine: a notice board at the site that suggested only half of the workers underground on the day of the disaster were officially registered; the discovery that many workers in the mine did not carry mandatory tracking devices; and secret tunnels, along with an inaccurate blueprint, which complicated rescue efforts.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-05-31T23:32:21Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "MzQ=",
-      "url": "https://www.usatoday.com/story/news/nation/2026/05/31/hurricane-season-safety-tips-nhc-director/90098453007/",
-      "title": "Nation's top hurricane forecaster reveals 5 urgent messages for 2026",
-      "summary": "ETHurricane season starts June 1 and the staff at the National Hurricane Center faces one major task in the months to come.\n\"Even though recent hurricane seasons have been busy, most people haven't experienced the very worst conditions where they live.\nKnow your risk, have a plan\"It starts out by knowing if you live in a storm surge or hurricane evacuation zone,\" Brennan said.\n\"In Florida in particular, we've seen a very high number of post-storm or indirect fatalities after particularly major hurricane landfalls,\" he said.\nHurricane season 2026: These 3 places are 'overdue' for a direct hit from a hurricaneRely on trusted sources\"The information environment right now is complex,\" Brennan said.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-05-31T10:02:15Z",
-      "source": "USA Today"
-    }
-  },
-  {
-    "article": {
-      "id": "MzU=",
-      "url": "https://www.yankodesign.com/2026/05/31/this-floating-parliament-is-built-from-the-oceans-own-trash/",
-      "title": "This Floating Parliament Is Built From the Ocean\u2019s Own Trash",
-      "summary": "Most architects look at ocean plastic and see a crisis.\nYufeng Tu saw a building material.\nOcean Vortex, the speculative floating parliament he conceived, does exactly that \u2014 and in doing so, reimagines what civic architecture can mean when the crisis it addresses becomes the material it\u2019s built from.\nRecognized as a finalist in the 2026 YAC Ocean Parliament competition, Ocean Vortex is a direct response to the staggering scale of marine plastic pollution, particularly the vast garbage patches accumulating across the Pacific Ocean.\nFrom a distance, Ocean Vortex reads as an open civic platform shaped by the forces of wind and water.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-05-31T13:20:31Z",
-      "source": "Yanko Design"
-    }
-  },
-  {
-    "article": {
-      "id": "MzY=",
-      "url": "https://tech.slashdot.org/story/26/06/01/016200/us-australia-and-uk-plan-new-unmanned-vehicles-to-protect-undersea-data-cables",
-      "title": "US, Australia, and UK Plan New Unmanned Vehicles to Protect Undersea Data Cables",
-      "summary": "Once it hits the fan, the only rational choice is to sweep it up, package it, and sell it as fertilizer.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-06-01T01:08:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzc=",
-      "url": "https://www.yahoo.com/news/politics/articles/us-military-says-turned-away-192719687.html",
-      "title": "US military says it turned away blockade runner trying to reach Iranian port",
-      "summary": "By Raphael SatterMay 30 - The U.S. military says it fired a missile into the \u200cengine room of a vessel trying to \u200cget through the U.S. blockade of Iran on Friday.\nAdvertisement Advertisement\u2022 Before the \u2060attack, U.S. forces issued \"more than 20 warnings\" informing the vessel it was in violation of the \u200bU.S.\nblockade, \u200baccording to Centcom.\n\u2022 Centcom \u200bsaid the ship was \"no \u200clonger transiting to Iran\" but did not provide any further detail.\n\u2022 Since the blockade started on April 13, the U.S. military has \"redirected\" at least 115 ships, Centcom said on Friday.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-05-30T19:27:19Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzg=",
-      "url": "https://www.yahoo.com/news/world/articles/us-targets-iranian-radar-drone-042347509.html",
-      "title": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait",
-      "summary": "DUBAI, United Arab Emirates (AP) \u2014 The United States said Monday that it bombed radar and drone sites in Iran after Tehran shot down an American drone over the weekend.\nIran then said it targeted American soldiers in Kuwait with missiles, which the U.S. says it shot down.\nFighting has also been escalating between Israel and the Lebanese militant group Hezbollah, despite their nominal ceasefire, and that has increasingly threatened the emerging deal to extend the Iran war ceasefire.\nKuwait reports incoming fireKuwait said its air defenses opened fire early Monday morning to intercept incoming drone and missile fire.\nAdvertisement AdvertisementAround the same time, Iran\u2019s paramilitary Revolutionary Guard said it responded to an American attack without saying where, likely referring to the attack on Kuwait.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-06-01T04:23:47Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzk=",
-      "url": "https://www.bgr.com/2181213/mini-nuclear-reactors-could-fix-americas-energy-problems/",
-      "title": "Not Wind, Not Solar: Mini Nuclear Reactors Could Fix America's Energy Problems",
-      "summary": "America's nuclear boondoggle may be coming to an end, as the Department of Energy looks to deploy a new generation of nuclear reactors.\nWith a goal of reaching 400 gigawatts by 2050, the administration has pinned its nuclear hopes on Small Modular Reactors (SMRs).\nSupported by a $900 million investment fund, the administration believes that these smaller nuclear reactors are the key to the country's clean energy future.\nWhile America's SMR grid remains hypothetical, roughly $15.4 billion in global investments have caused a surge in SMR projects worldwide.\nWith Silicon Valley entering the fray, the nascent technology could save or doom America's energy future.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-06-01T02:17:00Z",
-      "source": "BGR"
-    }
-  },
-  {
-    "article": {
-      "id": "NDA=",
-      "url": "https://www.yahoo.com/news/articles/china-patrols-waters-east-taiwan-030204437.html",
-      "title": "China patrols waters east of Taiwan in response to Japan, Philippine maritime border talks",
-      "summary": "By Joe Cash and Ben BlanchardBEIJING/TAIPEI, June 1 (Reuters) - China's Coast Guard on Monday said it had conducted \"law enforcement\" patrols in waters east of Taiwan in response to Japan and the Philippines' plans to launch \u200cmaritime border delimitation talks, which overlap with areas claimed by China.\nIn a statement, China's Coast \u2060Guard said a flotilla had carried out the patrol in accordance with the law to the east of Taiwan, though it did not specify where exactly.\nAdvertisement Advertisement\"This is a necessary action taken in response \u2060to Japan and the Philippines unilaterally announcing the initiation of maritime boundary delimitation negotiations in the waters east of China's Taiwan island,\" it said.\nTaiwan reports \u200cthat Chinese warships and warplanes operate around the island almost daily, sometimes \u200bjoined by Chinese Coast Guard ships.\nLast month, a Chinese coast guard ship \u200bapproached close to the Taiwan-controlled Pratas Islands at the \u200btop end of the South China Sea, but left after a stand-off with Taiwan's coast guard.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-06-01T03:38:54Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NDE=",
-      "url": "https://www.dailycal.org/news/uc/records-show-uc-sharing-data-with-us-customs-and-border-protection/article_785ac3ca-9ab2-4ab0-bbb8-07742e62d3d8.html",
-      "title": "Records show UC sharing data with US Customs and Border Protection",
-      "summary": "Close Get email notifications on {{subject}} daily!\nYour notification has been saved.\nThere was a problem saving your notification.\n{{description}}Email notifications are only sent once a day, and only if there are new matching items.",
-      "category": "immigration",
-      "bias": "lean right",
-      "publishedAt": "2026-05-30T05:25:01Z",
-      "source": "Dailycal.org"
-    }
-  },
-  {
-    "article": {
-      "id": "NDI=",
-      "url": "https://abcnews.com/US/new-jersey-state-police-clash-delaney-hall-protesters/story?id=133450407",
-      "title": "Family visitations to resume at New Jersey immigration detention center following violent protests",
-      "summary": "Family visitations to resume at New Jersey immigration detention center following violent protestsNew Jersey State Police riot and mounted units face off with protestors outside Delaney Hall which is being used as an Immigration and Customs Enforcement detention center on May 29, 2026 in Newark, New Jersey.\nNewark police officers in riot gear gather outside the Delaney Hall detention center in Newark, New Jersey, May 30, 2026.\nProtestors gather outside Delaney Hall detention center, in Newark, New Jersey, May 29, 2026.\nAbout 300 detainees at the Delaney Hall immigration facility began a hunger strike on 22 May to protest conditions at the center.\nProtestors block an Immigration and Customs Enforcement (ICE) vehicle outside Delaney Hall which is being used as an ICE detention center, on May 29, 2026, in Newark, New Jersey.",
-      "category": "immigration",
-      "bias": "lean right",
-      "publishedAt": "2026-05-30T20:59:53Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NDM=",
-      "url": "https://www.bbc.com/news/articles/cglp7p787njo",
-      "title": "Myanmar: Huge blast kills dozens in village in rebel-held region",
-      "summary": "The resident, who said she had suffered a minor leg injury and her own home had been destroyed, described scenes of panic and grief in the aftermath of the blast.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-05-31T16:17:25Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDQ=",
-      "url": "https://abcnews.com/Politics/dhs-immigrants-wont-leave-us-obtain-green-card/story?id=133469618",
-      "title": "DHS says most immigrants won\u2019t need to leave US to obtain green card",
-      "summary": "DHS says most immigrants won\u2019t need to leave US to obtain green cardIn this Nov. 24, 2019, file photo, a U.S.\nCitizenship and Immigration Services (USCIS) office is shown in Santa Clara, Calif.\nCitizenship and Immigration Services (USCIS) office is shown in Santa Clara, Calif.\nCitizenship and Immigration Services (USCIS) office is shown in Santa Clara, Calif.\nCitizenship and Immigration Services (USCIS) office is shown in Santa Clara, Calif.",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund",
+      "title": "Senate passes $70B immigration enforcement bill without limits on Trump settlement fund",
+      "summary": "Senate passes $70B immigration enforcement bill without limits on Trump settlement fundtoggle caption J. Scott Applewhite/APWASHINGTON \u2014 The Senate passed legislation to fund President Donald Trump's immigration enforcement agencies early Friday morning, after weeks of delays and fierce backlash to an unrelated $1.776 billion settlement fund that threatened to derail the bill.\nSenators voted 52-47 for the $70 billion legislation to fund Immigration and Customs Enforcement and Border Patrol for the next three years, through the end of Trump's term.\n\"This would have been done several hours ago if we weren't having to deal with some of the issues around the fund,\" Senate Majority Leader John Thune, R-S.D., said shortly before midnight.\nSenate Republicans used a complicated procedural maneuver to get around the filibuster and pass the budget legislation with no Democratic votes.\nBut bipartisan negotiations went nowhere, and the department funding lapsed in mid-February with no agreement on changes to the Trump administration's immigration enforcement tactics.",
       "category": "immigration",
       "bias": "center",
-      "publishedAt": "2026-05-31T22:12:07Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NDU=",
-      "url": "https://www.yahoo.com/news/politics/articles/senate-republicans-face-political-knife-100203247.html",
-      "title": "Senate Republicans face a political knife-edge over Trump's 'anti-weaponization' fund",
-      "summary": "The Justice Department did not respond to Reuters queries seeking comment.\n\"No one thinks this is a winning issue, even those in safe Republican House and Senate seats that don't usually have to worry about an election.\nJohnson blamed the Justice Department for making a public \u200cannouncement about the fund, and doing so just as the Senate was preparing to consider the ICE funding bill.\nDEMANDS FOR OVERSIGHTSome Republicans in the Senate and House of Representatives have called for congressional oversight, echoing comments to reporters by Senate Judiciary Committee Chairman Chuck Grassley.\n\u201cI have concerns about the weaponization fund,\u201d Representative Mariannette Miller-Meeks, one of the most vulnerable House Republicans, told the Des Moines Register.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-05-30T10:02:03Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NDY=",
-      "url": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
-      "title": "Israel seizes a medieval castle as it expands major offensive in southern Lebanon",
-      "summary": "Israel seizes a medieval castle as it expands major offensive in southern Lebanontoggle caption Courtesy of Israel Defense ForcesBEIRUT \u2014 Israeli forces have captured a medieval castle in southern Lebanon that dates back to the Crusader era and raised their flag on the strategic mountaintop, part of Israel's deepest military push into Lebanon in 26 years.\nThe rapidly expanding Israeli operation, including a swath of destroyed villages, suggests Israeli forces are planning an extended presence in the region.\nIsraeli attacks and demolitions have leveled entire villages in southern Lebanon and have now displaced more than 1.2 million people.\nThe castle is about 9 miles from Lebanon's southern border with Israel and gives Israeli forces an overview of much of southern Lebanon and northern Israel.\nHe did not specify the location, but his claim suggests the Israelis are around 20 miles inside southern Lebanon.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-05-31T13:33:36Z",
+      "publishedAt": "2026-06-05T09:15:02Z",
       "source": "NPR"
     }
   },
   {
     "article": {
-      "id": "NDc=",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-bazaar-of-return-in-aida-refugee-camp",
-      "title": "The Bazaar of Return in Aida Refugee Camp",
-      "summary": "Aida refugee camp is surrounded by Israel\u2019s separation wall, military watchtowers, and remote-controlled guns.\nThis Eid, for the first time in two years, residents set up stalls, cooked food, made art, and let their kids play.\nThey called it the Bazaar of Return.\nAl Jazeera\u2019s Leila Warah reports.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-05-31T17:15:07Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NDg=",
-      "url": "https://www.yahoo.com/news/politics/articles/colombia-accuses-ecuador-deliberate-interference-160617958.html",
-      "title": "Colombia accuses Ecuador of 'deliberate interference' in general elections",
-      "summary": "Noboa said Friday after talks with Colombian presidential candidate Abelardo de la Espriella that he was committed to jointly fight narcoterrorism and would eliminate a security tax on June 1.\nDe la Espriella, who represents the political movement Defenders of the Homeland, is among the frontrunners in the polls.\nNoboa did not clarify whether he would maintain his decision should the ruling party candidate, Iv\u00e1n Cepeda, win.\nJust days before the recent announcement, Noboa had said it would be reduced to 75% starting June 1st.\nThe Petro administration, which has denied any alleged neglect of the shared border, responded with reciprocal measures: it imposed tariffs of up to 75% on Ecuadorian products and prohibited energy sales to Ecuador.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-05-30T16:06:17Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NDk=",
-      "url": "https://www.dailymail.com/news/article-15858115/ministers-putting-UK-risk-blind-eye-yacht-gangs-smuggling-migrants-drugs.html",
-      "title": "Ministers are 'turning a blind eye' to yacht gangs smuggling migrants and drugs into quiet British villages",
-      "summary": "Ministers are putting the UK at risk by 'willingly turning a blind eye' to gangs smuggling migrants and drugs on yachts into Britain via quiet villages, officials have warned.\n'We know it [yacht smuggling] is happening, but we do not know the extent.\nThe warning posters are sponsored by Border Force, the Joint Maritime Security Centre, National Police Chiefs' Council, NCA and Counter Terrorism Police.\nFourteen people, including two children, from Iran, Iraq and Albania were later detained by Border Force.\nAnd last week in Chichester, five men were arrested after a yacht ferrying seven illegal Albanian migrants was intercepted in the city's marina.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-05-31T23:40:13Z",
-      "source": "Dailymail.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NTA=",
-      "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o",
-      "title": "Colombia leftist faces pro-Trump rival in presidential election runoff",
-      "summary": "De La Espriella has attracted controversy over some of his past clients: he was the lawyer to Alex Saab, a close ally of the US-ousted Venezuelan leader Nicol\u00e1s Maduro who was recently charged with money-laundering.\nHe also defended the Colombian fraudster David Murcia Guzm\u00e1n, who led a multibillion-dollar pyramid scheme.\nHe has argued this is just part of his work as a defence lawyer, while critics have accused him of enriching himself by defending powerful criminals.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-05-31T23:53:50Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTE=",
-      "url": "https://www.bbc.com/news/articles/ckgpw7rzlz4o",
-      "title": "Curlews: Endangered bird spotted with nest and eggs at Sliabh Beagh",
-      "summary": "Beagan said it was \"really really exciting to find that one\" and that he and his team will be eagerly watching the progression of this bird throughout the breeding season.",
+      "id": "Mjk=",
+      "url": "https://www.bbc.com/news/articles/c62r2ldyejro?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Niger: Nearly 50 people die of thirst after lorry breaks down in Sahara desert",
+      "summary": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in SomaliaYusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
       "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-05-31T12:01:11Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTI=",
-      "url": "https://www.breitbart.com/europe/2026/05/30/boat-migrants-using-yachts-to-avoid-border-security-at-usual-south-coast-ports-report/",
-      "title": "Boat Migrants Using Yachts to Avoid Border Security: Report",
-      "summary": "The UK is attempting a crackdown on boat migrants trying to slip into the country unseen by using leisure yachts and sailing to backwater ports hundreds of miles from the southern beaches where dinghy migrants typically arrive.\nBritain\u2019s migrant boat crisis is roaring on, with nearly one thousand trafficked dinghy illegals arriving along the south coast in the past week.\nThe government launched Operation Kraken last year to improve border security and combat smugglers using yachts to move people \u2014 including terrorists \u2014 as well as drugs and other contraband.\nSecurity camera footage showed migrants leaping from the yacht and attempting to swim ashore.\nBorder Force rounded up 14 Iranians, Iraqis, and Albanians.",
-      "category": "immigration",
-      "bias": "right",
-      "publishedAt": "2026-05-30T11:53:31Z",
-      "source": "Breitbart News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTM=",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/new-jersey-orders-curfew-after-immigration-protests-escalate",
-      "title": "New Jersey orders curfew after immigration protests escalate",
-      "summary": "New Jersey orders curfew after immigration protests escalateNewsFeed New Jersey orders curfew after immigration protests escalateNew Jersey Governor Mikie Sherrill has imposed a curfew and deployed state police outside Newark\u2019s Delaney Hall immigration detention centre after nights of clashes between protesters and ICE agents.",
-      "category": "immigration",
-      "bias": "right",
-      "publishedAt": "2026-05-31T21:03:00Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTQ=",
-      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "title": "Trump holds meeting to make 'final determination' on Iran deal",
-      "summary": "Since the ceasefire came into effect on 8 April, Trump has repeatedly suggested that the US and Iran were close to a deal and that negotiations were progressing, but so far there have been no substantive results.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-05-30T13:59:45Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTU=",
-      "url": "https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy",
-      "title": "What Hegseth\u2019s comments at Shangri-La Dialogue say about US foreign policy",
-      "summary": "United States Secretary of Defense Pete Hegseth has been discussing key foreign policy issues for Washington at a defence summit in Singapore.\nOn Saturday at the Shangri-La Dialogue, Hegseth commented on America\u2019s main rival, China, as well as Iran, NATO and Taiwan \u2014 a major point of contention between Washington and Beijing.\n\u201cThere is rightful alarm regarding China\u2019s historic military buildup and the expansion of its military activities in the region and beyond,\u201d Hegseth said.\nXi told Trump that \u201cclashes and even conflicts\u201d between the two countries could occur if the Taiwan situation is mishandled.\nOn Saturday, Hegseth suggested Washington\u2019s commitment to Taiwan remained, but that Trump would ultimately decide whether the weapons deal is finalised.",
-      "category": "international",
       "bias": "left",
-      "publishedAt": "2026-05-30T11:07:52Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-06-05T09:52:20Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NTY=",
-      "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance",
-      "title": "Rwanda-Russia nuclear deal underscores Africa\u2019s shifting power balance",
-      "summary": "Rwanda turns to Russia for nuclear training and research, advancing ambitions in technology, healthcare and diplomacy.\nIt follows a 2018 Rwanda\u2013Russia intergovernmental framework agreement on the peaceful uses of nuclear energy signed in Moscow, which laid the foundation for cooperation in nuclear technology, training and related applications.\nFor now, Rwanda is sending students to Russia for nuclear engineering programmes, laying the groundwork for domestic technical capacity.\nFor Kigali, the nuclear programme is also tied to domestic priorities: improving healthcare through nuclear medicine, training engineers and advancing scientific research.\nIf successful, the centre could make Rwanda a regional hub for nuclear technology and applied science, attracting talent and investment.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-05-30T06:29:07Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTc=",
-      "url": "https://www.yahoo.com/news/world/articles/ml--iran-us-042347978.html",
-      "title": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait",
-      "summary": "DUBAI, United Arab Emirates (AP) \u2014 The United States said Monday that it bombed radar and drone sites in Iran after Tehran shot down an American drone over the weekend.\nIran then said it targeted American soldiers in Kuwait with missiles, which the U.S. says it shot down.\nFighting has also been escalating between Israel and the Lebanese militant group Hezbollah, despite their nominal ceasefire, and that has increasingly threatened the emerging deal to extend the Iran war ceasefire.\nKuwait reports incoming fireKuwait said its air defenses opened fire early Monday morning to intercept incoming drone and missile fire.\nAdvertisement AdvertisementAround the same time, Iran\u2019s paramilitary Revolutionary Guard said it responded to an American attack without saying where, likely referring to the attack on Kuwait.",
-      "category": "international",
+      "id": "MzA=",
+      "url": "https://www.npr.org/2026/06/05/g-s1-126290/up-first-newsletter-immigration-fund-save-act-john-bolton-artificial-intelligence-teachers-brady-atf-doj",
+      "title": "Senate passes immigration bill. And, Jill Biden discusses her husband's 2024 campaign",
+      "summary": "Senate passes immigration bill.\nAnd, Jill Biden discusses her husband's 2024 campaignGood morning.\nToday's top storiesAfter weeks of delays, the Senate passed a $70 billion bill early this morning to fund immigration enforcement for the next three years.\nfrom Senate Minority Leader Chuck Schumer to prevent the fund's creation altogether \u2014 leaving the amendment just shy of passing, NPR's Barbara Sprunt tells Up First.\nFormer first lady Jill Biden says President Biden changed his mind on pardoning his son Hunter following the election of Trump.",
+      "category": "immigration",
       "bias": "center",
-      "publishedAt": "2026-06-01T04:23:47Z",
+      "publishedAt": "2026-06-05T11:57:57Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "MzE=",
+      "url": "https://www.yahoo.com/news/videos/senate-passes-bill-fund-ice-112935526.html",
+      "title": "Senate Passes Bill to Fund ICE for Remainder of Trump's Term",
+      "summary": "More needs to be done to change drinking culture among young people in Guernsey, a youth service founder says.\nA recent Freedom of Information request to health leaders highlighted the number of admissions to the Emergency Department for underage alcohol and drug use, as well as self-harm, had increased since 2010.\nIn 2025, it was 81, and categorised under a coding of drugs, alcohol and self-harm.",
+      "category": "immigration",
+      "bias": "lean right",
+      "publishedAt": "2026-06-05T11:29:35Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NTg=",
-      "url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines",
-      "title": "The Iran war is dividing Muslims in the Philippines",
-      "summary": "The US-Israeli war on Iran and the closure of the Strait of Hormuz have had a seismic effect across the world.\nBut the impact of the Iran war has not been confined to the socioeconomic sphere.\nThe other camp opposed Iran, pointing out that it is a Shia nation and therefore hostile to Sunni communities.\nHowever, after the normalisation process, there were unprecedented statements from some Bangsamoro scholars presenting mobilisation for Palestine as an Iranian plot.\nAdvertisementSecond, this clash has led to deepening polarisation among Muslim scholars in a region navigating a fragile post-conflict transition.",
-      "category": "international",
+      "id": "MzI=",
+      "url": "https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-39-countries",
+      "title": "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
+      "summary": "Judge says restrictions put lives of immigrants in \u2018indeterminate legal limbo\u2019, motivated by \u2018anti-immigrant sentiment\u2019.\nA federal judge has struck sweeping restrictions imposed by the administration of US President Donald Trump on immigration processing for 39 countries.\nMcConnell said the policy effectively barred citizens from 39 countries from receiving final decisions on asylum cases, green cards, work approval and citizenship applications.\nThe change \u201cthrew the lives of countless immigrants living in the United States into indeterminate legal limbo\u201d, he wrote in the ruling.\nTrump had campaigned on pledges to oversee a mass deportation campaign to expel undocumented individuals living in the US, but has increasingly targeted legal immigration pathways.",
+      "category": "immigration",
       "bias": "lean left",
-      "publishedAt": "2026-05-30T12:49:20Z",
+      "publishedAt": "2026-06-05T18:50:31Z",
       "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NTk=",
-      "url": "https://abcnews.com/International/iaea-issues-ukraine-nuclear-plant-warning-after-russia/story?id=133461599",
-      "title": "IAEA issues Ukraine nuclear plant warning after Russia alleges Zaporizhzhia attack",
-      "summary": "This file photo shows the Zaporizhzhia Nuclear Power Plant from the bank of Kakhovka Reservoir near the town of Nikopol on June 16, 2023.\nThis file photo shows the Zaporizhzhia Nuclear Power Plant from the bank of Kakhovka Reservoir near the town of Nikopol on June 16, 2023.\nThis file photo shows the Zaporizhzhia Nuclear Power Plant from the bank of Kakhovka Reservoir near the town of Nikopol on June 16, 2023.\nThis file photo shows the Zaporizhzhia Nuclear Power Plant from the bank of Kakhovka Reservoir near the town of Nikopol on June 16, 2023.\n\"The Russian Federation continues to use the Zaporizhzhia Nuclear Power Plant as a tool of nuclear blackmail and information provocations.",
-      "category": "international",
+      "id": "MzM=",
+      "url": "https://www.theregister.com/public-sector/2026/06/07/home-office-ditches-legacy-asylum-database-keeps-the-spreadsheets/5251780",
+      "title": "Home Office ditches legacy asylum database, keeps the spreadsheets",
+      "summary": "REG ADThe committee said that there is still \"no single, reliable view of cases across the asylum system.\"\nREG ADMPs also heard that some Home Office staff continue to maintain their own spreadsheets alongside official systems.\nThe report also echoes earlier National Audit Office findings that a reliable single record for each asylum seeker is still unavailable.\nWhat\u2019s more, without reliable data, MPs said that they cannot properly assess whether the asylum system is improving or whether taxpayers are getting value for money.\n\u201cDepartments still lack integrated, system-wide data and agreed performance measures needed to manage the asylum system effectively,\u201d the PAC report states.",
+      "category": "immigration",
       "bias": "center",
-      "publishedAt": "2026-05-31T10:36:07Z",
+      "publishedAt": "2026-06-07T10:16:00Z",
+      "source": "Theregister.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MzQ=",
+      "url": "https://www.nrc.nl/nieuws/2026/06/06/europe-has-reduced-illegal-immigration-without-goon-tactics-a4929419",
+      "title": "Opinie | Europe has reduced illegal immigration without goon tactics",
+      "summary": "Whether because of the Glocks or, more likely, because of a slew of new measures in recent years, irregular migration into the EU has markedly declined of late.\nDemands for asylum in EU countries have also fallen sharply.\nAlas, the politically toxic issue of migrants already in Europe, who are often poorly integrated, remains.\nIllegal migration is the one issue that every EU leader knows can cost them their job if handled poorly.\nEurope deserves plaudits for stemming arrivals without resorting to the performatively cruel tactics used by immigration-enforcement goons in America.",
+      "category": "immigration",
+      "bias": "lean right",
+      "publishedAt": "2026-06-06T13:00:00Z",
+      "source": "Www.nrc.nl"
+    }
+  },
+  {
+    "article": {
+      "id": "MzU=",
+      "url": "https://www.aljazeera.com/news/2026/6/5/why-washington-is-reducing-visa-processing-across-africa",
+      "title": "Why Washington is reducing visa processing across Africa",
+      "summary": "US plans to centralise visa processing across Africa could increase cross-border travel for visa applicants.\nThe United States is planning to centralise visa processing across Africa, reducing the number of embassies and consulates handling applications from about 50 locations to roughly 20, according to an internal US Department of State memo cited in US media reports.\nUnder the proposal, routine visa interviews would be moved out of many posts and concentrated in smaller regional hubs.\nVisa interviews would no longer be handled in many individual embassies and consulates, but instead centralised in regional processing hubs across the continent.\nThe proposal primarily affects visa processing rather than broader diplomatic activities.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-06-05T16:10:30Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "MzY=",
+      "url": "https://abcnews.com/US/ice-stop-reporting-deaths-newly-released-detainees/story?id=133604407",
+      "title": "ICE will stop reporting deaths of newly released detainees",
+      "summary": "The policy, issued during the Biden administration, directed the agency to review and report all detainee fatalities, including those that occurred post-release.\nThe policy reversal by the Trump administration comes amid scrutiny from lawmakers and immigrant advocates over the rising death rate of detained immigrants in federal custody.\nICE is not responsible when an individual passes away weeks after leaving their custody.\"\nThere have been 49 deaths in ICE custody since the start of the second Trump administration, according to lawmakers.\nOn Thursday, the DHS spokesperson told ABC News that ICE \"remains committed to transparency regarding detainee deaths.\"",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-06-05T01:54:13Z",
       "source": "Abcnews.com"
     }
   },
   {
     "article": {
-      "id": "NjA=",
-      "url": "https://indianexpress.com/article/opinion/columns/the-cloud-is-the-new-frontier-of-digital-sovereignty-10717504/",
-      "title": "The cloud is the new frontier of digital sovereignty",
-      "summary": "But the digital infrastructure on which it ran its operations was leased from a company headquartered in Redmond, Washington \u2014 and was, therefore, subject to American law.\nThe Nayara episode is a reminder of something we have been slow to reckon with: Microsoft\u2019s cloud, Amazon\u2019s AWS, and Google\u2019s infrastructure are, in the truest sense, digital infrastructure.\nPrivate digital infrastructure \u2014 the clouds, platforms, and algorithms built by global technology firms \u2014 is a commercial asset, governed by the laws of their home jurisdictions.\nThen there is the digital public infrastructure (DPI), which a country builds to serve its citizens on its own terms.\nThe question is not whether to engage with foreign digital infrastructure, but how to reduce strategic vulnerability to an acceptable level.",
-      "category": "technology",
+      "id": "Mzc=",
+      "url": "https://nypost.com/2026/06/05/us-news/senate-passes-70b-immigration-enforcement-bill/",
+      "title": "Senate passes $70B immigration enforcement bill after all-night \u2018vote-a-rama\u2019",
+      "summary": "That would have redirected payments from the settlement to members of law enforcement who were injured in the Jan. 6, 2021, Capitol riot.\n6 Senate Majority Leader John Thune (R-SD) at the Capitol in Washington, DC, June 4, 2026.\nScott ApplewhiteThe amendments complicated what should have been an easy vote for Republicans who want to keep the focus on immigration enforcement in a midterm election year.\nInstead, they spent almost a full day haggling among themselves over whether to block the settlement fund, even after acting Attorney General Todd Blanche told lawmakers Tuesday it would not go forward.\nBut bipartisan negotiations went nowhere, and the department\u2019s funding lapsed in mid-February with no agreement on changes to immigration enforcement tactics.",
+      "category": "immigration",
       "bias": "lean left",
-      "publishedAt": "2026-06-01T00:51:21Z",
-      "source": "The Indian Express"
+      "publishedAt": "2026-06-05T09:42:30Z",
+      "source": "New York Post"
     }
   },
   {
     "article": {
-      "id": "NjE=",
-      "url": "https://www.yahoo.com/news/articles/us-says-struck-iranian-military-041730136.html",
-      "title": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue",
-      "summary": "But it calls for Israel \u200cto refrain from strikes on Beirut and its suburbs controlled by Hezbollah, while the Iran-aligned group would halt its attacks on Israel.\nAdvertisement AdvertisementHostilities in southern Lebanon, which Israel invaded in March, continued on Monday \u200bevening.\nU.S. President Donald Trump, who first announced the agreement, said Hezbollah, through intermediaries, had pledged not to attack Israel.\nLebanon said it would seek to expand the ceasefire in talks with Israel in Washington on Wednesday.\nDespite the ceasefire, Iran and the U.S. have exchanged strikes several times over the past week.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-06-01T04:19:39Z",
+      "id": "Mzg=",
+      "url": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019",
+      "title": "Xi Jinping will travel to North Korea next week in first visit since 2019",
+      "summary": "Xi Jinping will travel to North Korea next week in first visit since 2019toggle caption Ahn Young-joon/APBEIJING \u2014 Chinese leader Xi Jinping will travel to North Korea next week, both countries announced Friday, in what will be his first visit in nearly seven years.\nXi will make a state visit from Monday to Tuesday, Chinese and North Korean state media said in brief dispatches.\nThe U.N. has imposed economic sanctions on North Korea because of its nuclear and missile development.\nThe announcement of the trip came a day after North Korea unveiled a new facility to produce the material for nuclear bombs.\nIt is believed to be a uranium enrichment plant, though North Korea has not confirmed that.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-06-05T17:03:13Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzk=",
+      "url": "https://www.yahoo.com/news/world/articles/air-raid-sirens-bahrain-iranian-081026174.html",
+      "title": "A new exchange of fire with Iran in the Gulf tests the fragile ceasefire",
+      "summary": "Iran said that it targeted American military assets in both countries, after the U.S. attacked surveillance facilities on Qeshm Island and near Sirik that Iran said were used to protect borders and \u201censure the security of navigation in international waters.\"\nLater Saturday, U.S. Central Command said U.S. forces had shot down two Iranian attack drones over the Strait of Hormuz.\nPakistan\u2019s interior minister, Mohsin Naqvi, arrived in Iran on Saturday as part of mediation efforts.\nEarlier in the week, Iranian drones heavily damaged a passenger terminal at Kuwait\u2019s main airport, killing one person and wounding dozens.\nHowever, Maleki said some Gulf states may be reluctant to use the funds out of concern that they could face retaliation from Iran for doing so.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-06-06T08:10:26Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NjI=",
-      "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters",
-      "title": "US Congress moves to deepen military ties with Israel: Why it matters",
-      "summary": "Lawmakers in the United States are quietly advancing a proposal that could deepen military ties between the US and Israel in unprecedented ways, at a time when public support for Israel among Americans is increasingly fractured.\nAmong the provisions included in the 2027 National Defence Authorisation Act (NDAA) released this week is Section 224, the \u201cUnited States-Israel Defence Technology Cooperation Initiative\u201d.\nThe NDAA, which Congress passes annually to set military policy and authorise defence spending, will undergo further debate and amendments before becoming law.\nAdvertisementThe provision would require the US defence secretary to designate an official responsible for coordinating military cooperation between the two countries.\nHowever, analysts say that Section 224 would expand cooperation into nearly every major area of emerging military technology, and could create a \u201clock-in\u201d between the two countries military infrastructure.",
-      "category": "international",
+      "id": "NDA=",
+      "url": "https://www.npr.org/2026/06/06/g-s1-126287/ebola-gorillas-democratic-republic-congo",
+      "title": "A park famed for rare gorillas gears up to fight Ebola and protect its primates",
+      "summary": "A park famed for rare gorillas gears up to fight Ebola and protect its primatestoggle caption Roberto Schmidt/AFP/via Getty ImagesWhen Emmanuel de Merode looks around, it's a picture of serenity.\nBut beyond this picturesque scene, there is a volatile combination of brutal rebel violence and a burgeoning Ebola outbreak.\nSponsor MessageIn a region that's seen decades of bloody wars and a 2018-2020 Ebola outbreak, de Merode says the past few weeks stand out.\ntoggle caption Brent Stirton/Getty ImagesVirunga National Park is more than 180 miles from north to south.\nThe last Ebola epidemic lasted 18 months, and all the signs are that it'll be significantly worse this time.",
+      "category": "environment",
       "bias": "center",
-      "publishedAt": "2026-05-31T18:40:46Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-06-06T11:01:22Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
-      "id": "NjM=",
-      "url": "https://indianexpress.com/article/cities/chandigarh/haryana-to-launch-make-in-haryana-policy-framework-9-sectoral-policies-10717104/",
-      "title": "Haryana to launch \u2018Make in Haryana\u2019 policy framework, 9 sectoral policies",
-      "summary": "The Haryana government will launch its flagship \u2018Make in Haryana Policy\u2019 along with nine new sectoral policies at a major industry and investment event in Gurgaon on Monday.\nThe initiative aims to boost industries, attract investment, support MSMEs, and create large-scale employment opportunities.\nOfficials have confirmed that the event will also witness the signing of MoUs with leading companies, adding the move underscores strong investor confidence in Haryana\u2019s industrial growth story.\nThe industrial push for 2026 combines technology, manufacturing, and sustainability, with the new policies designed to strengthen sector-specific ecosystems and accelerate future-ready development.\nChief Minister Nayab Singh Saini and Industries Minister Rao Narbir Singh will preside over the event, which will also see participation from senior government officials, industry leaders, investors, MSMEs, foreign delegations, and stakeholders across multiple sectors.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-05-31T12:00:10Z",
+      "id": "NDE=",
+      "url": "https://indianexpress.com/article/world/nepal-india-boundary-row-diplomacy-open-heart-foreign-minister-shishir-khanal-10728051/",
+      "title": "Want to resolve border issues with India through diplomacy, open heart: Nepal Foreign Minister",
+      "summary": "Nepal wants to resolve the border row with India through diplomacy as no problem is too large if both sides sit across with an \u201copen heart\u201d, Nepal Foreign Minister Shishir Khanal said in New Delhi on Sunday, talking to reporters just before concluding his two-day official visit to India.\nSpeaking in the Nepal Parliament on May 31, Shah had stated that the border dispute with India is \u201cnot one-sided\u201d.\nHe claimed that after taking office, he discovered Nepal had also encroached on Indian territory in several places, just as India had done to Nepal.\nLater that day, Nepal\u2019s Foreign Ministry clarified that the cross-border encroachments were primarily technical issues related to the vaguely defined \u201cno-man\u2019s land\u201d along already demarcated sections of the open border.\nWe agreed during discussions with Jaishankar to activate all these mechanisms to solve border issues,\u201d he said.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-06-07T07:36:19Z",
       "source": "The Indian Express"
     }
   },
   {
     "article": {
-      "id": "NjQ=",
-      "url": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal",
-      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
-      "summary": "Trump weighs next steps on Iran deal as Tehran insists negotiations are continuing and no final agreement exists.\nHere is what we know:In IranIran says talks continue, but no deal yet: Iranian Foreign Ministry spokesperson Esmaeil Baghaei said exchanges with the United States are continuing but stressed that no final agreement has been reached.\nHe also reiterated that the US remains committed to preventing Iran from obtaining a nuclear weapon.\nHe also reiterated that the US remains committed to preventing Iran from obtaining a nuclear weapon.\nWashington praises Israel-Lebanon security talks: The US Department of Defense described military-to-military talks between Israeli and Lebanese delegations in Washington as \u201cproductive\u201d, saying they focused on regional security and stability.",
+      "id": "NDI=",
+      "url": "https://www.yahoo.com/news/politics/articles/zealand-raise-lawmakers-travel-ban-090122603.html",
+      "title": "New Zealand to raise lawmakers' travel ban directly with China, PM Luxon says",
+      "summary": "June 5 (Reuters) - New Zealand will directly raise China's \"entirely inappropriate\" ban on four lawmakers who visited Taiwan with Beijing, Prime Minister Christopher Luxon said on \u200cFriday.\nA New Zealand parliament official on Thursday \u200cconfirmed a meeting with Chinese embassy representatives but \u200bdid not disclose details.\nForeign Minister Winston Peters instructed \u200bNew Zealand foreign ministry officials in \u200bBeijing and Wellington to discuss the matter with Chinese authorities.\nAustralia has \u200calso said it would raise concerns with \u200bthe Chinese embassy in \u200bCanberra as well as in Beijing.\nLuxon welcomed Australia's support but said the matter was a \"nation-to-nation\" issue between New Zealand and China.",
       "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-05-30T07:30:15Z",
+      "bias": "left",
+      "publishedAt": "2026-06-05T09:01:22Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDM=",
+      "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
+      "title": "100 days into the war on Iran, Trump fails to rally US support",
+      "summary": "Sunday marks 100 days into the war that the United States and Israel launched against Iran.\nEven before the war started, public opinion polls showed that most Americans opposed bombing Iran.\nThe lack of public backing for the war is consequential, experts say, because it could weaken Trump politically at home.\nA University of Maryland Critical Issues Poll suggested on Thursday that only 16 percent of US voters think the US has won or is winning the war.\nFor Guyer, that signals the unpopularity of the Iran war is not just about the economy.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-06-06T17:04:38Z",
       "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NjU=",
-      "url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive",
-      "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-      "summary": "Iran has reasserted its control over the Strait of Hormuz, warning that foreign commercial and military vessels will be targeted, if they do not comply with regulations governing passage through the strategic waterway.\nOn Friday, Trump met with advisers in the White House Situation Room and said a \u201cfinal determination\u201d on a possible deal with Iran would soon be made.\nUS sources had told the AFP news agency the deal was waiting on Trump\u2019s sign-off, but he made no decision after Friday\u2019s meeting.\nTrump said his priorities in any deal include Iran agreeing to never develop nuclear weapons, and the reopening of the blockaded Strait of Hormuz.\nIran\u2019s ISNA news agency cited legislator Alireza Salimi as saying a plan \u201cto implement Iran\u2019s management and sovereignty over the Strait of Hormuz will soon be approved by parliament\u201d.",
+      "id": "NDQ=",
+      "url": "https://www.yahoo.com/news/articles/us-approves-1-5-billion-021221893.html",
+      "title": "US approves $1.5 billion sale of maritime helicopters to New Zealand",
+      "summary": "June 6 (Reuters) - The U.S. approved the $1.5 billion sale of five Seahawk maritime helicopters to New Zealand, which has pledged to nearly \u200cdouble its military spending as it seeks to boost defence capabilities.\nDepartment of State has made a determination approving a possible Foreign Military Sale to the \u200bGovernment of New Zealand for MH-60R Multi-Mission Helicopters and related equipment,\" the department said in a statement on its website on Friday.\nThe U.S. under President Donald Trump has been pushing allies in Europe and the Asia-Pacific to boost military spending.\nWellington allocated NZ$1.58 billion ($916 million) last month \u200cin new defence funding as it upgrades \u200bthe island nation's forces.\nPrime Minister Christopher Luxon said \u200bon Saturday that the government \u200bremained committed to lifting defence spending after \"30 years of underinvestment \u200cin defence forces in New Zealand\".",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-06-06T02:43:57Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDU=",
+      "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589",
+      "title": "House passes Ukraine aid bill in another GOP rebuke of Trump\u2019s foreign policy",
+      "summary": "WASHINGTON \u2014 The House passed bipartisan legislation Thursday that would provide new aid to Ukraine and impose sanctions against Russia, largely clashing with the Trump administration\u2019s approach to the war.\nThe 226-195 vote included support from 18 Republicans, who joined all but one Democrat in approving the measure.\nIf it is passed, it would then need to be signed by President Donald Trump to become law.\nFour Republicans voted with Democrats on Wednesday to pass a resolution to rebuke the war in Iran.\nThe largely symbolic measure, also introduced by Meeks, directed Trump to remove U.S. forces from Iran unless Congress authorizes it.",
       "category": "international",
       "bias": "left",
-      "publishedAt": "2026-05-30T19:48:13Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-06-05T00:47:00Z",
+      "source": "NBC News"
     }
   }
 ]
