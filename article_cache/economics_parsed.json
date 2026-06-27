@@ -1,72 +1,62 @@
 [
   {
-    "id": "MA==",
-    "url": "https://www.npr.org/2026/06/05/nx-s1-5847669/jobs-labor-market-unemployment-wages-inflation",
-    "title": "The U.S. adds 172,000 jobs. Many are in restaurants, bars and hotels",
-    "summary": "U.S. employers added jobs for the third month in a row in May, according to a report Friday from the Labor Department.\nRestaurants and bars added 48,000 jobs last month in anticipation of strong summer demand, while the overall hospitality industry added 70,000 jobs.\nBanks and insurance companies, meanwhile, cut jobs.\nOver the last three months, employers have added an average of 188,000 jobs each month.\nDespite the uptick in hiring, employers are not having to offer big wage increases to attract workers.",
+    "id": "MQ==",
+    "url": "https://finance.yahoo.com/economy/articles/richest-20-only-ones-powering-111110275.html",
+    "title": "The richest 20% are the only ones powering the U.S. economy, says top economist, but their prospects are entirely reliant on teetering stock prices",
+    "summary": "In the run-up to the internet bubble, the richest 20% of American consumers made up 50% of spending\u2014boosted by the ballooning valuations of their portfolios.\nFast forward to the era of AI, and again, the richest households in the U.S. are gaining confidence as their asset valuations grow.\nOnly this time, the spending of the top 20% accounts for 60% of personal outlays\u2014meaning economic growth is even more dependent on a small subset of households than in previous cycles.\nBut it does mean that the health of the U.S. economy is balanced on an increasingly precarious set of dominoes.\nWhat risks threaten this wealth-dependent economic growth model?",
+    "category": "economics",
+    "bias": "right",
+    "publishedAt": "2026-06-26T11:11:10Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "Mw==",
+    "url": "https://finance.yahoo.com/economy/policy/articles/u-companies-swallowed-oil-shock-193008082.html",
+    "title": "U.S. companies swallowed the oil shock. They\u2019re not sure they can do it again",
+    "summary": "Executives reported being able to absorb increased costs, but feel more pessimistic about rising prices more broadly.\nWhile two-thirds of companies saw increased production costs last quarter as a result of energy price shocks, only one-third passed those increases to consumers.\nCFOs slashed U.S. economic growth projections from 2.1% last quarter to 1.8% this quarter.\nThe pattern of a widening gap between one's personal financial health and the broader economic health extends beyond the C-suite.\nBut with energy costs likely to persist above prewar norms, Atlanta Fed economist Brent Meyer suggested companies' concerns about the economy may catch up to their own bottom lines.",
     "category": "economics",
     "bias": "center",
-    "publishedAt": "2026-06-05T14:20:37Z",
-    "source": "NPR"
-  },
-  {
-    "id": "MQ==",
-    "url": "https://finance.yahoo.com/economy/policy/articles/may-maximum-level-u-debt-174555851.html",
-    "title": "Here\u2019s where U.S. debt may become unsustainable with interest payments triggering a default crisis that even steep tax hikes can\u2019t fix",
-    "summary": "Above that \u201couter bound\u201d threshold, there\u2019s no feasible tax on labor income that can finance interest payments on U.S. debt at returns acceptable to investors, PWBM warned in a report Thursday.\nThe U.S. has 25 more years in a lower-growth scenario, 22 years with medium growth, and 19 years with higher growth, PWBM estimated.\n\u201cUnder the historical growth rate of healthcare costs, there is a 25% chance of hitting the debt maximum in 14 years,\u201d it added.\nOther factors could also affect these calculations, such as higher interest rates, a smaller tax base, and labor-supply responses.\nBut if they aren\u2019t and there\u2019s a sudden market crash, it would increase the overall debt-to-capital ratio, causing debt holders to demand higher yields that add further to debt interest costs.",
-    "category": "economics",
-    "bias": "lean right",
-    "publishedAt": "2026-06-06T17:45:55Z",
+    "publishedAt": "2026-06-25T19:30:08Z",
     "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "Mg==",
-    "url": "https://www.businessinsider.com/jobs-report-may-data-live-updates-2026-6",
-    "title": "Jobs report recap: US added 172,000 jobs in May, far more than economists expected",
-    "summary": "Based on May's strong job growth and prior revisions, it's looking like a better time to be a job seeker.\nLeisure and hospitality, government, and healthcare had a solid month of job creation, unlike financial activities, which lost jobs.\nLeisure and hospitality, government, and healthcare had a solid month of job creation, unlike financial activities, which lost jobs.\nSeveral jobs experts described this as a blowout report, including Lindsay Rosner, head of multi sector fixed income investing at Goldman Sachs Asset Management.\n\"We've gained more and more confidence in the last prints that the Fed doesn't have to be worried about the labor market,\" Rosner said.",
-    "category": "economics",
-    "bias": "left",
-    "publishedAt": "2026-06-05T09:52:27Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NA==",
-    "url": "https://finance.yahoo.com/economy/policy/articles/russias-sanctioned-businessmen-accuse-authorities-113939432.html",
-    "title": "Sanctioned Russian billionaire says high interest rates have set 'trap' for economy",
-    "summary": "More from Yahoo Scout Why is Russia's economic growth expected to slow significantly?\nWhy are Russian billionaires criticizing central bank policy?\nHow are high interest rates affecting Russia's economy?\nZabotkin, who attended the discussion, applauded Trotsenko's speech but later told reporters that the central bank was fully aware of Russian businesses' woes.\nDmitry Mazepin, owner of fertiliser producer Uralchem, likened the central bank's actions to cool down the economy to efforts by hostile Western powers.",
-    "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2026-06-05T16:05:49Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "Ng==",
-    "url": "https://www.bbc.com/news/articles/c9q2gp52rgro",
-    "title": "Steve Rosenberg: Lasting image of Russia's economic forum is plume of smoke over St Petersburg",
-    "summary": "I often think that's how the Russian authorities want the world to view their country: as a giant tumbler doll that cannot be knocked down or defeated, no matter how hard you push it.\nDespite more than four years of war, and battered by sanctions, Russia is still standing.",
-    "category": "economics",
-    "bias": "lean right",
-    "publishedAt": "2026-06-07T07:11:18Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "Nw==",
-    "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
-    "title": "New U.S. college grads now have higher unemployment than the average worker",
-    "summary": "New grads had better odds of landing work than the average worker, and that edge held for as long as anyone tracked it.\nThe chart tracks a single number, a recent grad's unemployment rate minus the rate for all workers.\nThe job-finding advantage of young grads has been fading since around 2000, and their edge over high-school workers closed around 2019.\nNow it is the widest gap on recordBy early 2026 recent grads sat at 5.6% unemployment against 4.2% for all workers, the widest gap on record.\nYoung workers without a degree sit at 7.2% unemployment, well above the grads' 5.6%.",
-    "category": "economics",
-    "bias": "lean right",
-    "publishedAt": "2026-06-06T20:35:40Z",
-    "source": "Randalolson.com"
   },
   {
     "id": "OA==",
-    "url": "https://www.businessinsider.com/pe-guy-johnny-hilbrant-million-dollar-business-creator-2026-6",
-    "title": "I started roasting private equity bros as a joke. Now, I've turned it into a $1 million business.",
-    "summary": "The growth of Johnny Hilbrant's PE Guy character over the past year has been, to borrow one of his favorite phrases, \"substantial.\"\nWhat had started as a joke has turned into a real business, one that PE Guy might even want to invest in.\nPE Guy is kind of my baby, and I don't want to give up control.\nI knew things were changing when I started developing in-person PE Guy fans while teaching fitness classes at Barry's Bootcamp and SoulCycle.\nIf it blows up and becomes the next big thing, PE guy would profit from it.",
+    "url": "https://finance.yahoo.com/economy/articles/trump-international-student-crackdown-kicked-181725920.html",
+    "title": "Trump\u2019s international student crackdown kicked off a domino effect that could shave nearly $500 billion off the economy",
+    "summary": "U.S. colleges are dealing with plummeting international student enrollment, and the consequences could go far beyond shrinking tuition revenue.\nInternational students have become less likely to pursue education in the U.S. since President Donald Trump's return to office.\nThose figures might just be a drop in the bucket if international students end up permanently absconding from U.S. schools.\nThe international STEM pipelineWhen Trump returned to office, the administration was riding high on voter approval for its planned immigration policies.\nBut in the 18 months since, Trump's sweeping immigration crackdown has included a constriction of legal immigration pathways, too.",
     "category": "economics",
     "bias": "center",
-    "publishedAt": "2026-06-07T10:28:01Z",
+    "publishedAt": "2026-06-24T18:17:25Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MTA=",
+    "url": "https://thoughtcatalog.com/chris-lavergne/2026/06/cuban-president-miguel-diaz-canel-admitted-that-price-controls-a-foundation-of-communist-economics-broke-his-countrys-economy/",
+    "title": "Cuban President Miguel D\u00edaz-Canel Admitted That Price Controls, a Foundation of Communist Economics, Broke His Country\u2019s Economy",
+    "summary": "Within about a week, Cuba\u2019s National Assembly passed 174 economic measures rolling the system back.\nBroad price controls are out, replaced in principle by targeted subsidies for vulnerable groups.\nPrivate operators and foreign investors get more room in small and medium businesses, and non-state actors can now import and export directly.\nAnalysts are calling it the most significant Cuban policy shift in at least 15 years.\nD\u00edaz-Canel acknowledged the usual external villain, the US embargo, but also named bureaucracy, outdated regulations, and postponed decisions as homegrown causes, which is rare from a Cuban president.",
+    "category": "economics",
+    "bias": "lean right",
+    "publishedAt": "2026-06-24T11:48:10Z",
+    "source": "Thoughtcatalog.com"
+  },
+  {
+    "id": "MTE=",
+    "url": "https://www.businessinsider.com/stock-picks-to-buy-bofa-small-caps-iot-ulta-elf-2026-6#article",
+    "title": "Small-Cap Stock Picks Poised to Rally in the 2nd Half, According to BofA",
+    "summary": "It's AI all the time these days, but Bank of America thinks some of the market's smaller stocks are poised to rally in the back half of 2026.\nBofA analysts say investors pay attention to small- and mid-cap stocks.\nSmall-cap strength is already clearly seen in the Russell 2000 index, which is up 20% year-to-date, soaring past the performance of the S&P 500, which has gained about 8%.\nBut as BofA's Jill Carey Hall notes, the small- and mid-cap category is full of companies that still have room to run.\nHere are some of the the bank's small-cap stocks to buy for 2026.",
+    "category": "economics",
+    "bias": "right",
+    "publishedAt": "2026-06-26T17:16:04Z",
     "source": "Business Insider"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o",
+    "title": "Oil price falls to levels not seen since before Iran war",
+    "summary": "The price of oil has fallen to levels not seen since before the Iran war as traffic through the key Strait of Hormuz shipping route gradually resumes.\nGlobal benchmark Brent crude briefly fell below $72.48 (\u00a355) a barrel, the price it was at the day before the US and Israel launched attacks on Iran on 28 February, before edging up to $73.23.\nEnergy prices have been on a wild ride since Iran responded to the strikes by effectively closing the strait, a critical waterway for oil and gas shipments.\nHowever, Pratibha Thaker, regional director of Middle East and Africa at the Economist Intelligence Unit, said though oil prices have fallen back to pre-conflict levels, risks still remain.\n\"Markets are still watching the region closely, and any renewed tensions could quickly send oil higher again,\" she said.",
+    "category": "economics",
+    "bias": "center",
+    "publishedAt": "2026-06-25T07:11:05Z",
+    "source": "BBC News"
   }
 ]
