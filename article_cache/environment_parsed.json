@@ -1,112 +1,92 @@
 [
   {
     "id": "MzA=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "title": "An Amazon data center could have the worst polluting power plant in the country",
-    "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times.\nThe new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, at least initially, would not be connected to the state\u2019s power grid.\nInstead, its 35 natural-gas turbines would primarily deliver its 7.65 gigawatts of electricity to the new data center.\nAmazon has confirmed that it purchased the site and plans to purchase power from GW Ranch.\nThis new data center campus in Pecos County is a long-term commitment that we expect will create thousands of new jobs.",
+    "url": "https://news.slashdot.org/story/26/08/15/0544251/why-europe-keeps-being-pummeled-by-heat-waves",
+    "title": "Why Europe Keeps Being Pummeled by Heat Waves",
+    "summary": "A boss with no humor is like a job that's no fun.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-08-08T17:53:34Z",
-    "source": "The Verge"
+    "bias": "center",
+    "publishedAt": "2026-08-15T23:34:00Z",
+    "source": "Slashdot.org"
   },
   {
     "id": "MzE=",
-    "url": "https://thenextweb.com/news/amazons-new-texas-data-centre-could-become-americas-biggest-single-polluter-it-will-not-touch-the-grid",
-    "title": "Amazon\u2019s new Texas data centre could become America\u2019s biggest single polluter. It will not touch the grid.",
-    "summary": "For scale, the dirtiest power plant currently operating in America is the coal-fired James H. Miller Jr. plant in Quinton, Alabama, at around 16 million tons.\nUntil this year, Amazon powered its data centres with electricity from traditional utilities.\nUS regulators have been fast-tracking data centre grid connections precisely because the queues had become a bottleneck for AI buildouts.\nAustralia has proposed requiring new data centres to add at least as much generation to the grid as they consume, an additionality rule that would make an off-grid gas plant a liability rather than a shortcut.\nBrussels has told Big Tech to align AI data centres with climate goals or stay away, insisting operators support clean power and recycle waste heat.",
+    "url": "https://finance.yahoo.com/energy/articles/china-leads-wave-clean-power-080459766.html",
+    "title": "China leads wave of clean power wastage as grids globally hit limits",
+    "summary": "Curtailments, or the pre-emptive rejection of wind or solar power \u200cbecause a grid reaches capacity, are emerging as a growing challenge to renewables globally and underscore continued reliance on fossil fuels.\nInsufficient transmission infrastructure and supply contracts that guarantee operations of newly built coal-fired power plants in China are forcing the rejection of abundant renewable output, analysts say.\nAt the same time, China's coal-fired power generation is expected to rise again this year, reversing a first-in-a-decade decline.\nBut GEM and CREA \u200bestimate China rejected 26.1% of its total wind and solar \u200coutput in the six months through June, using weather-adjusted data to account for unreported curtailment.\nClean power investments are already shifting from standalone solar projects towards solar-plus-storage to reduce exposure to curtailment, Wood Mackenzie's Ren said.",
     "category": "environment",
-    "bias": "right",
-    "publishedAt": "2026-08-09T14:03:54Z",
-    "source": "The Next Web"
+    "bias": "left",
+    "publishedAt": "2026-08-17T08:04:59Z",
+    "source": "Yahoo Entertainment"
   },
   {
     "id": "MzI=",
-    "url": "https://www.yahoo.com/news/science/articles/traditional-plastic-forks-shed-harmful-130030377.html",
-    "title": "Traditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative",
-    "summary": "(AP) \u2014 At a Massachusetts lab, pebble-sized pellets are transformed into forks and films that won't leave persistent microplastics in the environment.\nThese alternatives to traditional plastics made of fossil fuels are seen by some as one of many solutions needed to confront global plastic pollution.\nTraditional plastics last for decades or even centuries as they fragment into harmful microplastics and even smaller nanoplastics.\nA container made of pellets from CJ Biomaterials with food scraps could be sent to a composter, unlike a traditional plastic container.\nA growing number of composting facilities accept compostable bioplastic products, though some refuse out of concern about degraded soil quality.",
+    "url": "https://www.yahoo.com/news/world/articles/belgiums-biggest-wildfire-record-heads-090625900.html",
+    "title": "Belgium's biggest wildfire on record heads towards Germany",
+    "summary": "Responders on Sunday were focused on the front \u2060line of the fire moving towards Germany, said Stephanie Ernoux, spokesperson for the administration of the Belgian region of Wallonia.\nAdvertisement AdvertisementThe fire is Belgium's biggest on \u200crecord, more than double the size of a blaze in 2011 that burned close to 1,400 hectares, data from the European Forest Fire Information System showed.\nNow, we have to face the facts,\" Karim Bouarfa, captain of a fire brigade that worked through Saturday night, told Reuters.\nThe \u200bEU deployed three helicopters and two \u200cwater bombing aircraft from around Europe on Saturday after Belgium requested emergency reinforcements.\n(Reporting \u200bby Kate Abnett and Bart Biesemans; Additional reporting by Christoph Steitz and Graham \u200bKeeley; Editing by David Goodman and Alexander Smith)",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-10T13:00:30Z",
+    "bias": "left",
+    "publishedAt": "2026-08-16T10:20:38Z",
     "source": "Yahoo Entertainment"
   },
   {
     "id": "MzM=",
-    "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o",
-    "title": "You could be missing out on \u00a3150 off your energy bill - here's how to check",
-    "summary": "Millions of people will learn of the level of winter energy prices later this month, when Ofgem announces the quarterly price cap for the three months from October.\nTo help those who might struggle to pay, energy companies distribute the \u00a3150 Warm Home Discount to about six million households in the winter.\nIt can also help suppliers offer better support, such as repayment plans, to those who have energy debt.\n\"If you know someone who might benefit, please start spreading the word and encourage them to check they are named on their energy bill,\" said Energy Secretary Miatta Fahnbulleh.\nOther low income households in Scotland will still have to apply through their energy supplier.",
+    "url": "https://www.bgr.com/2237506/england-solar-farm-vital-climate-emergency-action-plan/",
+    "title": "How England's 43,000-Panel Solar Farm Is Vital To A Climate Emergency Action Plan",
+    "summary": "The borough of Wokingham, located within Berkshire, England, has approved of a large solar farm following what could have been a long delay.\nAs reported by the BBC, Barkham Solar Farm is scheduled to start construction later this year in the hopes of reaching partial grid connection in September 2027 and full operation in 2029.\nOnce complete, the 43,000-panel solar farm should be capable of powering 10,500 homes, a significant step towards the borough's emergency climate action plan.\nThough it was paused earlier this year due to changes in the U.K. government's timetables for renewable projects, Barkham Solar Farm should only be a couple of months behind its original goal instead of several years.\nProjects like Barkham Solar Farm are small steps in the grand scheme of things, but they're crucial to the U.K. government's goal of hitting 63.7% of total electricity production from clean sources by 2030.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-09T23:47:30Z",
-    "source": "BBC News"
+    "bias": "lean left",
+    "publishedAt": "2026-08-16T23:17:00Z",
+    "source": "BGR"
   },
   {
     "id": "MzQ=",
-    "url": "https://www.nature.com/articles/d41586-026-02450-3",
-    "title": "Why environmental treaties must also address mental health",
-    "summary": "Yet, global treaties, conventions and international-policy instruments treat mental health and the environment as separate domains.\nMental health is rarely built into the reporting requirements, national implementation plans, financing criteria or accountability mechanisms of environmental conventions.\nGlobal environmental conventions relevant to mental health Measures that prevent mental-health conditions and improve health care and psychosocial well-being should be embedded into existing environmental-governance processes, rather than continuing to use parallel systems.\nThis protection is likely to result in long-term benefits for mental health, cognitive functioning and overall development6.\nThe links to mental health are often more indirect than they are for chemical exposure.",
+    "url": "https://www.yahoo.com/news/world/articles/xi-calls-improving-disaster-prevention-084433728.html",
+    "title": "Xi calls for improving disaster prevention as floods, landslides batter China",
+    "summary": "BEIJING, Aug 15 (Reuters) - Chinese President Xi Jinping called for improving the country's ability to prevent, mitigate and respond to natural disasters, \u200cafter a string of deadly floods and landslides this summer.\n\"As global warming continues, extreme weather events and disasters such as torrential rains, floods, typhoons, and droughts are increasing \u200csignificantly, exacerbating their destructive \u2060impact,\" Xi said, according to the article.\nChina's strongest typhoon this year battered the \u200bcapital with bouts of intense \u200crain that flooded key roads and stranded vehicles, while lashing wide swathes of the country.\nLast month, landslides triggered by flash floods in northwestern Gansu province killed 25 people, and another landslide in Chongqing in the southwest caused by a collapsed mountain left 51 dead.\nAdvertisement AdvertisementChina will \"continuously improve our ability and level of prevention \u200cand response to various natural disasters, and \u200beffectively safeguard the \u200blives and property of the people and social stability,\" Xi said.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2026-08-10T00:00:00Z",
-    "source": "Nature.com"
-  },
-  {
-    "id": "MzY=",
-    "url": "https://www.yahoo.com/news/politics/articles/colombias-president-signals-energy-policy-005724571.html",
-    "title": "Colombia's new president signals energy policy shift, backs oil and gas",
-    "summary": "Speaking during his inauguration, de la Espriella said Colombia would pursue an energy transition \u2014 a shift away from oil, gas and coal toward cleaner energy sources such as wind and solar power \u2014 but insisted it must not come at the expense of the country's oil and gas industry.\n\"I believe in the energy transition,\" he said.\nCalling energy security \"a matter of national sovereignty,\" de la Espriella said Colombia could not expect long-term prosperity by leaving its natural resources undeveloped.\nHe said his administration would also expand oil and gas exploration to rebuild Colombia's declining reserves, guarantee the country's energy security and attract investment back into the sector.\nThe president warned Colombia's energy system was in a \"critical situation,\" citing declining oil and gas reserves, delayed energy projects and rising electricity demand.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-08-08T00:57:24Z",
+    "publishedAt": "2026-08-15T08:52:14Z",
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "Mzg=",
-    "url": "https://www.bbc.com/news/articles/c8dn01ym97lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "title": "Chris Hinchliff urges PM to prepare for El Nino climate threat",
-    "summary": "Hinchliff said he had written to Burnham because \"this is an important moment to be emphasising the need for swift and decisive action, to improve the resilience of our country to extreme weather\".",
+    "id": "Mzc=",
+    "url": "https://www.nature.com/articles/d41586-026-02532-2",
+    "title": "Too hot to sleep? How heatwaves at night affect our health",
+    "summary": "But scientists don\u2019t fully understand how hot nights affect health and sleep.\nClimate change means that many more people will be exposed to hot nights more often.\nAssess warnings, housing and urban cooling using sleep quality, physiological recovery and next-day performance, not temperature alone.\nWhen a room is too hot and humid, sleep quality can be compromised.\nCredit: Romy Arroyo Fernandez/NurPhoto via GettyThese approaches should now be extended to cohorts monitored before, during and after hot nights.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2026-08-10T05:27:45Z",
-    "source": "BBC News"
+    "publishedAt": "2026-08-17T00:00:00Z",
+    "source": "Nature.com"
   },
   {
-    "id": "NDA=",
-    "url": "https://bytepith.com/article/slow-squeeze-climate-demographics-and-state-power",
-    "title": "The Slow Squeeze: Climate, Demographics & State Power",
-    "summary": "NOAA's Mauna Loa observatory recorded a fresh record of 432 ppm in May 2026.\nBiological adaptation of the kind that reshapes a species' physiology or ecological range typically unfolds across thousands of generations.\nAtmospheric CO2, Pre-Industrial Baseline to 2026 Record Bar chart showing CO2 rising from a stable 280 ppm pre-industrial baseline to a 432 ppm record in May 2026, based on NOAA Mauna Loa Observatory data.\nSocieties Are Thinning Out Before the Climate Bill Comes DueThe second pressure has nothing to do with carbon, and would be happening in a stable climate too.\nNone of the three needed the others to happen, and none of them resolves into a single villain or a single fix.",
+    "id": "Mzg=",
+    "url": "https://news.slashdot.org/story/26/08/15/067213/europes-record-heatwave-kills-25000-dries-rivers-shuts-nuclear-plant-exposes-submerged-warships",
+    "title": "Europe's Record Heatwave Kills 25,000, Dries Rivers, Shuts Nuclear Plant, Exposes Submerged Warships",
+    "summary": "A boss with no humor is like a job that's no fun.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2026-08-09T13:33:59Z",
-    "source": "Bytepith.com"
+    "publishedAt": "2026-08-15T17:00:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://www.cnn.com/2026/08/16/climate/lake-powell-reservoir-record-low-colorado-river",
+    "title": "Lake Powell, second-largest reservoir in US, plunges to a record low",
+    "summary": "Lake Powell, the second-largest reservoir in the United States, provides water and electricity to millions in the West.\n\u201cWe are in uncharted territory,\u201d said Jack Schmidt, director of the Center for Colorado River Studies at Utah State University.\nJustin Sullivan/Getty ImagesSpanning parts of Arizona and Utah, Lake Powell formed behind the Glen Canyon Dam, which was constructed in the 1950s.\nThe most alarming scenario would see Lake Powell reaching \u201cdeadpool\u201d levels of below 3,370 feet.\nBut experts are clear it will take more than one very wet winter to pull the Colorado River out of crisis.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-08-16T14:20:29Z",
+    "source": "CNN"
   },
   {
     "id": "NDE=",
-    "url": "https://www.bbc.co.uk/news/articles/cq894dq252ko",
-    "title": "Cornwall forest funding boost as two million trees planted",
-    "summary": "He added increased tree cover helped \"reduce flooding in coastal towns and building resilience to a changing climate\".\nThe latest grant from Defra's Trees Programme comes after hundreds of trees were destroyed in January when Storm Goretti brought gusts of up to 100mph (160km/h).\nBen Thomas, from Treveddoe Farm near Cardinham, has planted 2,500 trees.\n\"In the end we have ended up with a brilliant agroforestry, external network on the farm which is already delivering.\"\nFollow BBC Cornwall on X, external, Facebook, external and Instagram, external.",
+    "url": "https://www.bbc.com/news/articles/cn5np2zknq0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "title": "How can we all help prevent wildfires during the heatwave?",
+    "summary": "The conditions the UK is experiencing so far this summer, in its fifth heatwave of the year, mirror the warnings given by climate scientists that human-induced climate change would lead to more frequent and intense heatwaves, as well as potential summer droughts.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2026-08-10T05:14:31Z",
+    "publishedAt": "2026-08-15T05:19:08Z",
     "source": "BBC News"
-  },
-  {
-    "id": "NDQ=",
-    "url": "https://www.bbc.co.uk/news/articles/c5y3v7xz52yo",
-    "title": "UK heatwaves: Satellite images show impact of hot, dry summer",
-    "summary": "With more parts of England set to join Wales as being officially declared to be in drought, BBC Verify has been gathering satellite imagery showing the impact of this year's extreme summer heat.\nFrom historic sites and parks to reservoirs and golf courses, the hot, dry weather has changed how large parts of the UK usually look.\nThis year's consecutive heatwaves and above-average temperatures have had a noticeable effect - even compared with last summer which was the UK's warmest on record.",
-    "category": "environment",
-    "bias": "right",
-    "publishedAt": "2026-08-10T15:36:33Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "NDg=",
-    "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
-    "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
-    "summary": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the worldtoggle caption Rob Schmitz/NPRLUCERNE, Switzerland \u2014 From the outside, the Sonnenberg nuclear bunker looks innocent enough: its entrance is in the middle of a children's playground.\ntoggle caption Rob Schmitz/NPRIf a nuclear war between the U.S. and the Soviet Union were to happen, Swiss officials reasoned at the time, Switzerland \u2014 an historically neutral nation \u2014 would likely not suffer a direct hit.\ntoggle caption Rob Schmitz/NPR\"There were a couple of political discussions, especially in 2010, 2011,\" recalls Daniel Jordi, vice director of Switzerland's federal office of civil protection.\ntoggle caption Rob Schmitz/NPRHistory professor Silvia Berger Ziauddin shows off a foot-thick door made of reinforced concrete, the entrance to the nuclear bunker underneath her department's building.\nAnd in the Cold War, the island metaphor was transposed to the nuclear shelter.\"",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-08T11:01:00Z",
-    "source": "NPR"
   }
 ]
