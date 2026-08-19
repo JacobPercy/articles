@@ -1,26 +1,46 @@
 [
   {
-    "id": "MzM=",
-    "url": "https://news.slashdot.org/story/26/08/15/0544251/why-europe-keeps-being-pummeled-by-heat-waves",
-    "title": "Why Europe Keeps Being Pummeled by Heat Waves",
-    "summary": "A committee is a group that keeps the minutes and loses hours.\n-- Milton Berle",
+    "id": "MTg=",
+    "url": "https://www.nature.com/articles/d41586-026-02531-3",
+    "title": "How the Middle East can become a hub for sustainable aviation fuels",
+    "summary": "Oil producers in the Middle East have been experiencing disruptions to maritime traffic through the Strait of Hormuz.\nHere\u2019s how oil producers in the Middle East could leverage these assets to become architects of a global supply chain for sustainable aviation fuel (SAF).\nThird, the culture of engaging in strategic investment is strong in the Middle East.\nFor example, each year, Europe consumes around 400 million barrels of aviation fuel, which is mainly fossil-fuel based.\nClearing house for developmentThe Middle East can also establish a regional SAF clearing house, which would coordinate fuel testing, certification and sustainability assurance for SAF produced across the Middle East, Africa and South Asia.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2026-08-15T23:34:00Z",
-    "source": "Slashdot.org"
+    "publishedAt": "2026-08-18T00:00:00Z",
+    "source": "Nature.com"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo",
+    "title": "AI to help planes avoid climate-warming contrails above North Atlantic",
+    "summary": "Known as contrails, these icy clouds contribute to climate change, and scientists have been trying to work out how to stop them.\nNow, a \u00a35m UK trial will test whether AI can help, by predicting where warming contrails are likely to form and getting planes to avoid those areas.\nIt will focus on the Shanwick Oceanic airspace in the eastern half of the North Atlantic corridor which accounts for approximately 5% of global contrail warming.\nThe 30-month Operation Blue Skies project brings together Google, the UK government, the Met Office, air traffic control provider National Air Traffic Services (NATS) and researchers at the University of Cambridge and Imperial College London.\n\"We think that contrail warming is responsible for something like a third of all aviation climate warming,\" he said.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-08-18T09:26:41Z",
+    "source": "BBC News"
   },
   {
     "id": "MzQ=",
-    "url": "https://www.newyorker.com/magazine/2026/08/24/the-end-of-the-european-summer",
-    "title": "The End of the European Summer",
-    "summary": "In the past five years, however, Europe\u2019s heat has become too lethal to ignore: an estimated seventy thousand heat-related deaths in 2022, forty-eight thousand in 2023, and sixty-three thousand in 2024.\nMore visitors are giving up on summer holidays in cities that feel like saunas and booking \u201ccoolcations\u201d in Iceland, Norway, or Denmark.\n\u201cTravelling to European cities is about cultural experience,\u201d Daniel Scott, a scholar of tourism at the University of Waterloo, in Ontario, told me.\nThe problem is that this summer is only a preview of the treacherous weather that lies ahead.\nMost European governments, unlike the current American Administration, recognize climate change as a profound threat.",
+    "url": "https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/",
+    "title": "Planned US Data Centers Set to Produce 24M Cars\u2019 Worth Of Carbon Dioxide",
+    "summary": "The backlash against America\u2019s data center and artificial intelligence boom has been building for a while now, reaching a fever pitch over water use, land grabs and noise complaints.\nFinancial Times found that Amazon\u2019s emissions climbed 16% from 2024 to 2025, driven by data center construction and a 34% jump in electricity purchases.\nData center construction has revitalized local activism.\nIn May, Albany, New York, residents gathered at a rally for the AI data center moratorium.\nThree-quarters of the operators serving these 60 sites are building or planning new gas capacity, and a third of those running coal plants are pushing back retirement dates.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-17T10:00:00Z",
-    "source": "The New Yorker"
+    "bias": "right",
+    "publishedAt": "2026-08-18T00:13:34Z",
+    "source": "CNET"
   },
   {
     "id": "MzU=",
+    "url": "https://thenextweb.com/news/us-data-centres-co2-24-million-cars",
+    "title": "How many cars\u2019 worth of CO2 will US data centres really emit?",
+    "summary": "Planned US data centres, one widely shared headline announced, are set to produce as much carbon dioxide as 24 million cars.\nIts central projection is that US AI servers could emit between 24 and 44 million tonnes of CO2-equivalent a year by 2030.\nThe researchers themselves translate that into vehicles: 5 to 10 million cars, not 24 million.\nThe scarier number appears to come from mistaking \u201c24 million tonnes\u201d for \u201c24 million cars\u201d, and it is the kind of slip that European regulators leaning on Big Tech over data-centre emissions can ill afford to repeat.\nBest-practice interventions, from siting to procurement, could cut emissions by up to 73% and water use by up to 86%.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-08-18T10:18:02Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "Mzc=",
     "url": "https://finance.yahoo.com/energy/articles/china-leads-wave-clean-power-080459766.html",
     "title": "China leads wave of clean power wastage as grids globally hit limits",
     "summary": "Curtailments, or the pre-emptive rejection of wind or solar power \u200cbecause a grid reaches capacity, are emerging as a growing challenge to renewables globally and underscore continued reliance on fossil fuels.\nInsufficient transmission infrastructure and supply contracts that guarantee operations of newly built coal-fired power plants in China are forcing the rejection of abundant renewable output, analysts say.\nAt the same time, China's coal-fired power generation is expected to rise again this year, reversing a first-in-a-decade decline.\nBut GEM and CREA \u200bestimate China rejected 26.1% of its total wind and solar \u200coutput in the six months through June, using weather-adjusted data to account for unreported curtailment.\nClean power investments are already shifting from standalone solar projects towards solar-plus-storage to reduce exposure to curtailment, Wood Mackenzie's Ren said.",
@@ -30,7 +50,37 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MzY=",
+    "id": "Mzg=",
+    "url": "https://hackaday.com/2026/08/15/turning-energy-drinks-into-rocket-fuel/",
+    "title": "Turning Energy Drinks Into Rocket Fuel",
+    "summary": "Sometimes claimed to give you wings, energy drinks can, at the very least, be used to make rockets fly.\nThe basic concept is so-called rocket candy, which uses the fact that sugar is a pretty decent fuel type that \u2014 when combined with an oxidizer like potassium nitrate \u2014 can be turned into solid rocket fuel.\nRemoving the moisture from the energy drink was the obvious first step, as water and rocket fuel aren\u2019t a great mix.\nAdding and mixing potassium nitrate to the resulting thick syrup created the fuel-oxidizer mixture, also known as rocket fuel.\nWe previously covered making your own rocket candy, though it\u2019s far from the only rocket fuel that can be made at home using products bought at the local supermarket.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-08-16T02:00:03Z",
+    "source": "Hackaday"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://thenextweb.com/news/operation-blue-skies-google-uk-contrails-north-atlantic",
+    "title": "Google and the UK will steer planes around contrails over the Atlantic",
+    "summary": "The UK government and Google are launching a trial to steer aircraft around climate-warming contrails.\nGoogle and the project partners put contrail warming at roughly a third of aviation\u2019s total climate impact.\nThat zone accounts for about 5 percent of global contrail warming, most of it in winter.\nGoogle UK builds and verifies the models.\nA verified cut in contrail warming across the airspace, confirmed by the Cambridge and Imperial teams rather than the operator.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-08-18T18:12:13Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://www.yahoo.com/news/weather-news/articles/china-forecasts-strongest-el-nino-054601236.html",
+    "title": "China forecasts strongest El Nino event as sea temperatures rise",
+    "summary": "BEIJING, Aug 18 (Reuters) - China's National Climate Centre has forecast the formation of a super El \u200cNino that could be the strongest ever recorded, \u200cstate broadcaster CCTV said on Tuesday.\nHere are some details of the \u200bforecast:\u2022 Sea surface temperatures in the central and eastern equatorial Pacific Ocean are expected to rise steadily and peak around November to December, forming potentially the strongest El \u200cNino in history, CCTV reported \u2060citing the climate centre.\nAdvertisement Advertisement\u2022 Since the start of the summer, China has already seen \u2060the effects of an El Nino, including torrential rain in various regions.\n\u2022 \u200bThe government said natural disasters \u200bin July had \u200bleft 318 dead or missing, and incurred $8.5 \u200cbillion in direct economic losses.\nAdvertisement Advertisement\u2022 \u200bIn July, the \u200bUnited Nations weather agency raised its forecast for the rapid emergence of a strong El Nino in \u200bthe coming \u200cmonths, warning the phenomenon is likely to drive global \u200btemperatures higher.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-08-18T05:46:01Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NDE=",
     "url": "https://www.yahoo.com/news/world/articles/belgiums-biggest-wildfire-record-heads-090625900.html",
     "title": "Belgium's biggest wildfire on record heads towards Germany",
     "summary": "Responders on Sunday were focused on the front \u2060line of the fire moving towards Germany, said Stephanie Ernoux, spokesperson for the administration of the Belgian region of Wallonia.\nAdvertisement AdvertisementThe fire is Belgium's biggest on \u200crecord, more than double the size of a blaze in 2011 that burned close to 1,400 hectares, data from the European Forest Fire Information System showed.\nNow, we have to face the facts,\" Karim Bouarfa, captain of a fire brigade that worked through Saturday night, told Reuters.\nThe \u200bEU deployed three helicopters and two \u200cwater bombing aircraft from around Europe on Saturday after Belgium requested emergency reinforcements.\n(Reporting \u200bby Kate Abnett and Bart Biesemans; Additional reporting by Christoph Steitz and Graham \u200bKeeley; Editing by David Goodman and Alexander Smith)",
@@ -40,7 +90,17 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "Mzc=",
+    "id": "NDI=",
+    "url": "https://hardware.slashdot.org/story/26/08/18/0728240/solar-power-and-batteries-have-been-keeping-europes-grid-stable",
+    "title": "Solar Power and Batteries Have Been Keeping Europe's Grid Stable",
+    "summary": "COMPASS [for the CDC-6000 series] is the sort of assembler one expects from a corporation whose president codes in octal.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-08-18T07:30:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NDM=",
     "url": "https://www.bgr.com/2237506/england-solar-farm-vital-climate-emergency-action-plan/",
     "title": "How England's 43,000-Panel Solar Farm Is Vital To A Climate Emergency Action Plan",
     "summary": "The borough of Wokingham, located within Berkshire, England, has approved of a large solar farm following what could have been a long delay.\nAs reported by the BBC, Barkham Solar Farm is scheduled to start construction later this year in the hopes of reaching partial grid connection in September 2027 and full operation in 2029.\nOnce complete, the 43,000-panel solar farm should be capable of powering 10,500 homes, a significant step towards the borough's emergency climate action plan.\nThough it was paused earlier this year due to changes in the U.K. government's timetables for renewable projects, Barkham Solar Farm should only be a couple of months behind its original goal instead of several years.\nProjects like Barkham Solar Farm are small steps in the grand scheme of things, but they're crucial to the U.K. government's goal of hitting 63.7% of total electricity production from clean sources by 2030.",
@@ -50,17 +110,17 @@
     "source": "BGR"
   },
   {
-    "id": "Mzg=",
-    "url": "https://www.yahoo.com/news/science/articles/hungary-sink-two-barges-near-071948241.html",
-    "title": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling\u200b\u200b",
-    "summary": "BUDAPEST, Aug 15 (Reuters) - Hungarian authorities will sink two barges in the Danube on Saturday to raise the \u200cwater level at the Paks nuclear plant to avert \u200ca shutdown of one of its last two remaining turbines, as water \u200blevels are dropping, Prime Minister Peter Magyar said.\nThe plant currently operates at around 25% of its capacity due to a historic drought and record low water levels on the Danube river, from \u200cwhich the nuclear plant \u2060draws its coolant.\nAdvertisement Advertisement\"The Danube is receding...The controlled \u200bsinking of the barges \u200cwill begin shortly,\" he said.\nIt also said that two 80-metre (260-foot) \u200cbarges would be submerged near the \u200bnuclear plant to raise the water \u200blevel in the short \u200bterm so that the plant's two turbines could \u200ccontinue working while the riverbed \u200bsill was under \u200bconstruction.\nNeighbouring Romania shut down its last working reactor on Thursday due to the low level of the Danube.",
+    "id": "NDQ=",
+    "url": "https://www.bbc.com/news/articles/c62em5lpvnjo",
+    "title": "AI to help planes avoid climate-warming contrails above North Atlantic",
+    "summary": "\"The CO2 penalty is in the order of less than 1%, compared to the contrail cost, which is of a similar order magnitude to all of the CO2 of aviation,\" he said.",
     "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-08-15T07:19:48Z",
-    "source": "Yahoo Entertainment"
+    "bias": "center",
+    "publishedAt": "2026-08-18T13:36:30Z",
+    "source": "BBC News"
   },
   {
-    "id": "Mzk=",
+    "id": "NDU=",
     "url": "https://gothamist.com/news/landlords-can-buy-their-way-out-of-nycs-climate-law-starting-this-week",
     "title": "Landlords can buy their way out of NYC's climate law starting this week",
     "summary": "As a candidate, Mayor Zohran Mamdani pledged to close loopholes that allowed landlords to limit compliance with the city\u2019s landmark law capping building emissions.\nBut later this week, landlords will have the opportunity to buy their way out of the climate law through an energy credits program initiated by his predecessor, Mayor Eric Adams.\nAdvocates say the ability to purchase renewable energy credits disincentivize property owners from reducing emissions.\nThey say the credits cost less than the necessary climate-friendly upgrades or the penalties for noncompliance with the climate law, known as Local Law 97.\nLocal Law 97 is intended to force landlords to reduce emissions from buildings, which account for about two-thirds of the city\u2019s carbon pollution.",
@@ -70,57 +130,17 @@
     "source": "Gothamist"
   },
   {
-    "id": "NDA=",
-    "url": "https://www.yankodesign.com/2026/08/15/why-designers-are-suddenly-using-cork-for-everything-in-2026/",
-    "title": "Why Designers Are Suddenly Using Cork for Everything in 2026",
-    "summary": "In addition to its physical benefits, cork is one of the most sustainable materials available.\nCork in Modern Furniture DesignFurniture designers are exploring cork as a primary material for seating, tables, and multifunctional products.\nBy replacing conventional materials with cork, designers can create buildings that are visually distinctive while supporting long-term environmental goals.\nAs designers and manufacturers continue exploring innovative applications, cork is a natural material that can deliver performance and environmental benefits.\nMade from natural toasted cork agglomerate, the Cork Box stands out for its eco-friendly construction, created through a heat-activated process that binds cork granules without chemicals or adhesives.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-08-15T23:30:58Z",
-    "source": "Yanko Design"
-  },
-  {
-    "id": "NDU=",
-    "url": "https://www.nature.com/articles/d41586-026-02532-2",
-    "title": "Too hot to sleep? How heatwaves at night affect our health",
-    "summary": "But scientists don\u2019t fully understand how hot nights affect health and sleep.\nClimate change means that many more people will be exposed to hot nights more often.\nAssess warnings, housing and urban cooling using sleep quality, physiological recovery and next-day performance, not temperature alone.\nWhen a room is too hot and humid, sleep quality can be compromised.\nCredit: Romy Arroyo Fernandez/NurPhoto via GettyThese approaches should now be extended to cohorts monitored before, during and after hot nights.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-08-17T00:00:00Z",
-    "source": "Nature.com"
-  },
-  {
     "id": "NDY=",
-    "url": "https://news.slashdot.org/story/26/08/15/067213/europes-record-heatwave-kills-25000-dries-rivers-shuts-nuclear-plant-exposes-submerged-warships",
-    "title": "Europe's Record Heatwave Kills 25,000, Dries Rivers, Shuts Nuclear Plant, Exposes Submerged Warships",
-    "summary": "A committee is a group that keeps the minutes and loses hours.\n-- Milton Berle",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-08-15T17:00:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "NDc=",
-    "url": "https://www.cnn.com/2026/08/16/climate/lake-powell-reservoir-record-low-colorado-river",
-    "title": "Lake Powell, second-largest reservoir in US, plunges to a record low",
-    "summary": "Lake Powell, the second-largest reservoir in the United States, provides water and electricity to millions in the West.\n\u201cWe are in uncharted territory,\u201d said Jack Schmidt, director of the Center for Colorado River Studies at Utah State University.\nJustin Sullivan/Getty ImagesSpanning parts of Arizona and Utah, Lake Powell formed behind the Glen Canyon Dam, which was constructed in the 1950s.\nThe most alarming scenario would see Lake Powell reaching \u201cdeadpool\u201d levels of below 3,370 feet.\nBut experts are clear it will take more than one very wet winter to pull the Colorado River out of crisis.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-08-16T14:20:29Z",
-    "source": "CNN"
-  },
-  {
-    "id": "NDk=",
-    "url": "https://www.bbc.com/news/articles/cn5np2zknq0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "title": "How can we all help prevent wildfires during the heatwave?",
-    "summary": "The conditions the UK is experiencing so far this summer, in its fifth heatwave of the year, mirror the warnings given by climate scientists that human-induced climate change would lead to more frequent and intense heatwaves, as well as potential summer droughts.",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260816044839.htm",
+    "title": "Scientists discover a natural Arctic cloud factory missing from climate models",
+    "summary": "The researchers provide the first real-world evidence that a powerful particle-forming process occurs where Arctic sea ice meets open ocean.\nOur discovery will help climate models to improve understanding of how climate change is affecting the Arctic and how the region itself influences global climate.\"\nThe largest changes were measured in the marginal ice zone, a narrow region where melting sea ice meets open water and marine algae are especially productive.\nA Missing Process in Climate ModelsAs Arctic sea ice continues to retreat, the marginal ice zone is becoming wider.\nCurrent climate models do not include the mechanism, which means its potential effects on Arctic climate are not yet represented in projections.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2026-08-15T05:19:08Z",
-    "source": "BBC News"
+    "publishedAt": "2026-08-18T17:34:33Z",
+    "source": "Science Daily"
   },
   {
-    "id": "NTg=",
+    "id": "NTY=",
     "url": "https://www.usatoday.com/story/news/nation/2026/08/16/lake-powell-water-level-record-low-drought/91288416007/",
     "title": "Lake Powell, the vital reservoir for the Southwest, hits record low",
     "summary": "The lake's surface dropped to 3,519.91 feet above sea level Aug. 15, according to the Bureau of Reclamation's automated gauge system.\nLake Powell hit lowest level ever: See how shorter winters impact your countyDrought has complicated management of Lake Powell and Lake Mead outside Las Vegas.\nLake Mead fell to its lowest level ever on Aug. 7 and is now setting a new record low daily.\n\"There's no way to look at the numbers and think the Colorado River is doing well right now,\" Goble said.\nThe Glen Canyon Dam created Lake Powell, and the Hoover Dam created Lake Mead.",
