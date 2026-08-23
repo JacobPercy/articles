@@ -1,16 +1,26 @@
 [
   {
-    "id": "OA==",
-    "url": "https://autos.yahoo.com/deals-and-buying-guides/articles/save-money-gas-used-hybrid-110842415.html",
-    "title": "Save money and gas with a used hybrid vehicle. Here are some picks from Edmunds",
-    "summary": "To create this list of the best used 3-year-old hybrids, Edmunds examined fuel economy ratings, brand-level reliability, crash test scores, and overall appeal as a daily driver.\nToyota also dramatically improved the car's performance without reducing fuel economy.\nFor the redesigned 2023 Accord, Honda installed its latest hybrid powertrain, which delivers satisfying acceleration and impressive fuel economy.\n2023 RX average price: approximately $49,000Advertisement AdvertisementEPA-estimated fuel economy: 36 mpg combinedEdmunds saysAffordability is a concern for most car buyers.\nIf saving money is important to you, buying a used vehicle instead of a new one can save you thousands.",
+    "id": "MTA=",
+    "url": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic",
+    "title": "Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic",
+    "summary": "Broadcom is in talks with lenders to raise more than $60bn in debt, Bloomberg reported on Thursday.\nBroadcom, Apollo and Blackstone announced the AI XPV partnership in a joint release in June.\nBloomberg reported in May that Apollo and Blackstone were weighing a $35bn financing for Broadcom, and reported the deal complete in June.\nBroadcom\u2019s guarantee on the senior tranche is that kind of commitment.\nBloomberg\u2019s sources did not settle the split between the $30bn junior tranche and the senior tranche.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-19T11:08:42Z",
-    "source": "Yahoo Entertainment"
+    "bias": "lean right",
+    "publishedAt": "2026-08-21T12:17:31Z",
+    "source": "The Next Web"
   },
   {
-    "id": "MTE=",
+    "id": "MTI=",
+    "url": "https://thenextweb.com/news/cbre-tech-talent-2026-new-york-san-francisco-ai-jobs",
+    "title": "New York has more tech workers than San Francisco for the first time",
+    "summary": "New York has more tech workers than the San Francisco Bay Area for the first time since CBRE started counting 13 years ago.\nSan Francisco is still ranked firstThe headcount and the ranking are two different measurements, and only one of them changed.\nOn that scorecard the top six are identical to last year: San Francisco Bay Area, Seattle, Toronto, New York Metro, Austin and Washington, D.C.New York is fourth on that list.\nOnly nine markets created net new jobsOf the 50 markets ranked, nine produced more tech jobs than tech graduates.\n\u201cThe finance sector has hired a lot of tech talent and a lot of AI workers,\u201d he said, while the Bay Area tech industry contracted.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-21T14:42:46Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MTU=",
     "url": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
     "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
     "summary": "Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised, the site\u2019s creator, Ethan McKanna, told The Verge.\nThat\u2019s a substantial change from earlier this summer, when Tesla\u2019s unsupervised fleet appeared to be stagnating or even shrinking.\nRobotaxi Tracker showed just 28 active unsupervised vehicles across six Texas and Florida markets as recently as last week.\nThe shift comes as Tesla prepares to launch the Cybercab, its purpose-built robotaxi, in Austin as soon as this month.\nEven after the jump in unsupervised Robotaxis, Tesla remains far behind its biggest robotaxi competitor.",
@@ -20,257 +30,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTU=",
-    "url": "https://thenextweb.com/news/europe-data-centres-leaving-flap-d-grid-queues-land",
-    "title": "63% of Europe\u2019s new data centre capacity is now going somewhere other than the big five",
-    "summary": "Europe\u2019s data centre capacity will reach 13 gigawatts by the end of 2026, a fifth more than last year, and most of the new supply is no longer landing where the industry has always built.\nOf the roughly 700 megawatts added in the second quarter, only 37% went to the five established markets of Frankfurt, London, Amsterdam, Paris, and Dublin.\nThe Netherlands separately bans hyperscale projects above 70 megawatts of IT capacity or ten hectares across most of the country.\nInstalled capacity there reached 439 megawatts at the end of 2025 and the industry association Spain DC forecasts roughly 2,537 megawatts by 2030, with Amazon alone committing \u20ac33.7bn in Arag\u00f3n.\nUtilities have spotted the opening, with Uniper committing \u20ac5bn to repurpose old power plant sites whose grid connections already exist.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-08-19T14:10:12Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MTY=",
-    "url": "https://thenextweb.com/news/rillet-100m-series-c-1bn-accounting-ai",
-    "title": "Rillet raises $100mn at a $1bn valuation to put AI agents inside the general ledger",
-    "summary": "Rillet, a startup that rebuilds corporate accounting around AI, has raised $100mn at a $1bn valuation, making it the latest AI unicorn.\nNicolas Kopp and Stelios Modes founded it in 2021, and it launched publicly in August 2024, Tech Funding News reported.\nIts AI agents run hundreds of operations at once inside a real-time general ledger.\nAbout 40 percent now sit outside tech, in industries from waste recycling to film studios, Kopp told Fortune.\nCampfire, founded in 2023, has raised about $100mn from Accel and Ribbit and bills itself as a modern NetSuite, Tech Funding News reported.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-08-19T14:48:31Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MTc=",
-    "url": "https://www.usatoday.com/story/money/2026/08/20/trump-truth-social-lawsuit-api/91369557007/",
-    "title": "Truth Social is selling faster access to Trump posts. Is that legal?",
-    "summary": "More recently, however, governments and companies have taken to announcing news over social media: posts on X, formerly Twitter, or on official Facebook pages.\nTrump owns the largest stake in Trump Media & Technology Group, the parent company of Truth Social, through a revocable trust, of which he is the sole beneficiary.\nTruth API offers 'real-time access' to posts from Trump's White HouseTruth API, announced on July 16, promised to deliver \"real-time access to posts from the highest-ranking Truth Social accounts,\" a group dominated by Trump, his family and administration.\n\"Markets already move on Truth Social posts,\" said Kevin McGurn, interim CEO of Trump Media, in a release.\nTrump\u2019s Truth Social posts \"are presidential records,\" said Seth Stern, chief of advocacy at Freedom of the Press Foundation, a plaintiff in the lawsuit.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-20T09:07:57Z",
-    "source": "USA Today"
-  },
-  {
-    "id": "MTg=",
-    "url": "https://www.bbc.com/news/articles/cgewlld498xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "title": "Millennials have found it hard to buy homes \u2013 but things may be turning a corner",
-    "summary": "That was compounded by the impact of the war in Ukraine, which drove up both the cost of energy - 15% in a single year - for making these materials and for use in construction itself.\nThe war in Iran has pushed prices up further.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-20T23:11:12Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "MTk=",
-    "url": "https://www.businessinsider.com/gwyneth-paltrow-ai-era-tech-goop-new-obsession-2026-8#article",
-    "title": "Gwyneth Paltrow is fully in her AI era",
-    "summary": "Gwyneth Paltrow, who is synonymous with wellness, at-home coffee enemas, and jade yoni eggs, is making a name for herself in another, very different world: AI.\nShe is investing in AI startups, lending her voice to an AI product, and making it a recurring theme on The Goop Podcast.\nGwyneth Paltrow has invested in AI for yearsPaltrow's interest in AI goes back to at least 2021, when she invested in the customer service automation startup Forethought AI, which she later joined a $25 million funding round for.\nLast year, following the Coldplay kiss-cam scandal involving Astronomer, the company hired Paltrow to front a tongue-in-cheek online video promoting its latest AI products.\nShe said her own suite of AI tools had effectively become a \"chief of staff\" for Goop.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-19T14:16:59Z",
-    "source": "Business Insider"
-  },
-  {
     "id": "MjA=",
-    "url": "https://www.cnet.com/tech/services-and-software/openai-pauses-training-new-ai-models-cybersecurity-2026/",
-    "title": "OpenAI Pauses Training of New AI Models, Citing Cybersecurity Worries",
-    "summary": "ChatGPT maker OpenAI announced on Tuesday that it\u2019s pausing the research and development of its newest AI models.\nThis is a big course reversal for the firm, which has maintained that it can mitigate the significant cybersecurity risks posed by new AI models.\nResearching and training new AI models is a compute-intensive process.\nIt\u2019s why so many tech companies want to build new data centers, to give them the computing firepower they need, despite widespread backlash.\nIn other words, it\u2019s possible that OpenAI has decided to pause the training of new AI models because it can simply no longer afford to keep doing so.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-19T15:29:49Z",
-    "source": "CNET"
-  },
-  {
-    "id": "MjE=",
-    "url": "https://thenextweb.com/news/white-house-strategy-open-weight-ai-critical-technology-list",
-    "title": "White House tech strategy leaves open-weight AI off its critical list",
-    "summary": "The White House has published a new National Security Science and Technology strategy.\nThat law obliges OSTP to submit a science and innovation strategy after each National Security Strategy.\nThe list ends with autonomous command and control, agent identification and authentication, interpretability and control, adversarial robustness and AI security, continual learning, and distributed and privacy-preserving machine learning.\nEach critical technology area \u201cincludes a set of subfields that illustrate its scope but are not meant to be comprehensive\u201d, it states.\nThe strategy names Australia and the United Kingdom as partners on critical technologies, critical minerals and the submarine industrial base.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-20T13:38:39Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MjI=",
-    "url": "https://www.businessinsider.com/tanium-cofounder-orion-hindawi-returns-as-ceo-leadership-shift-2026-8#article",
-    "title": "$9 billion startup Tanium brings back its cofounder as CEO amid AI upheaval",
-    "summary": "The $9 billion cybersecurity company is bringing back cofounder Orion Hindawi as CEO, replacing Dan Streetman after less than four years in the role, as the company looks to navigate the AI upheaval reshaping software companies.\nPrior to Streetman joining the company, Orion Hindawi served as CEO for over 15 years.\nThis leadership shake-up follows several executive departures this year, as Business Insider previously reported.\nSeveral employees and executives had left Tanium in the past few years due to uncertainty about whether the company would ever go public, Business Insider previously reported.\nLast year, Tanium cracked down on its return-to-office policy by withholding some equity grants from employees who don't comply, Business Insider previously reported.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-08-20T19:10:28Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjM=",
-    "url": "https://thenextweb.com/news/prevalent-ai-22m-integrity-growth-partners-knowledge-graph",
-    "title": "Prevalent AI raises $22m to fix the data problem behind failing AI projects",
-    "summary": "Prevalent AI, a London company that folds hundreds of scattered enterprise data sources into a single queryable graph, has raised $22m from Integrity Growth Partners.\nThe company was founded in 2017 by Paul Stokes, its chief executive, and Arun Raj, its chief operating officer, alongside a group with British intelligence heritage.\nPrevalent says it has been profitable since its first customer and has never taken growth capital.\nThe platform continuously cleans and connects those data sources into what Prevalent calls a sovereign knowledge graph, held inside the customer\u2019s own infrastructure rather than a shared cloud.\n\u201cSecurity teams are being asked to make decisions across thousands of systems, controls, identities, and data sources that were never designed to work together.\u201dThe market numbers behind the pitch are Gartner\u2019s.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-19T12:00:10Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://www.cnet.com/home/security/comcast-xfinity-wants-to-use-your-wi-fi-as-a-motion-sensor-in-your-home/",
-    "title": "Comcast Xfinity Wants to Use Your Wi-Fi as a Motion Sensor in Your Home",
-    "summary": "Comcast on Monday announced Xfinity Shield, a home-security platform that taps into Xfinity Wi-Fi in new ways.\nIt adds WiFi Motion, which uses compatible Xfinity Wi-Fi routers to detect movement in the home without cameras or dedicated motion sensors.\nWiFi Motion and other Shield features are available at no additional cost to eligible Xfinity customers, although compatible equipment and other requirements apply.\nWiFi Motion doesn\u2019t have to stay on all the time.\nFor Xfinity users interested in expanding their home security options, Xfinity Shield offers another, more expensive option.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-08-20T00:53:21Z",
-    "source": "CNET"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://www.businessinsider.com/why-jeff-dean-left-google-ai-startup-discovery-loop-2026-8",
-    "title": "Why Jeff Dean says he left Google after 27 years to build a small AI startup",
-    "summary": "After 27 years, it must have been hard for Jeff Dean to let go.\nDean, who quit Google to build his own AI startup called Discovery Loop, briefly choked up while describing his decision to leave the search giant after more than a quarter-century during a talk at Stanford University earlier this month.\nPointing toward the growing availability of cloud compute, Dean said that smaller startups can now \"rely on\" Google and other cloud providers to \"build out the infrastructure\" necessary to power AI work.\nDean's Discovery Loop, a public benefit company, aims to automate the process by which scientists and engineers propose an experiment, implement and run it, and evaluate the results.\nNevertheless, Dean said creating a new startup still comes with its own anxieties.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-20T09:04:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjY=",
-    "url": "https://thenextweb.com/news/pew-young-adults-ai-jobs-concern-europe-comparison",
-    "title": "Most Americans under 30 are now more worried than excited about AI",
-    "summary": "Pew found that 55% of Americans under 30 are now more concerned than excited about AI, the first majority since it began asking in 2021, with 73% expecting fewer jobs.\nAmericans under 30 have changed their minds about AI.\nFor the first time since Pew began asking in 2021, a majority of them, 55%, say they are more concerned than excited about it.\nAround 54% of EU respondents use AI in some form, while roughly 27% of workers use it for their job.\nThe AI boom arrived alongside a weaker labour market, and at least one study argues weak hiring is doing more damage to young workers than AI is.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-19T14:36:51Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://thenextweb.com/news/velaura-ai-110m-series-a-low-power-chip",
-    "title": "Velaura raises $110mn to sell AI chips that cut the power bill, not the clock speed",
-    "summary": "A chip startup that promises to cut the power AI uses has raised $110mn and crossed a $1bn valuation.\nVelaura AI, based in Santa Clara, announced the Series A round on Tuesday.\nThe company said in a statement that it builds ultra-low-power silicon and software for data centres and for what the industry calls physical AI.\nThe second is physical AI, the term for intelligent robots, drones and autonomous systems that have to run under tight power and heat limits.\nHe said it was the firm\u2019s first investment in physical AI.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-19T12:31:11Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://thenextweb.com/news/spacex-cognition-acquisition-approach-denial",
-    "title": "Five days after buying Cursor for $60bn, SpaceX tried to buy Cognition",
-    "summary": "SpaceX approached AI coding startup Cognition about an acquisition, Bloomberg reports, and Cognition did not engage.\nChief executive Scott Wu replied publicly that his company is \u201cnot for sale and we haven\u2019t been talking.\u201dSpaceX approached the AI coding company Cognition about buying it, according to Bloomberg, and Cognition did not engage.\nIt completed a $60bn purchase of Cursor on 14 August, the largest name in the vibe coding market.\nSpaceX\u2019s AI arm has trailed rivals in selling to businesses and has been through job cuts and restructuring.\nIf Cognition ends up renting SpaceX\u2019s GPUs, a company that refused to be bought becomes dependent on the infrastructure of the company that tried.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-19T22:26:38Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mjk=",
-    "url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
-    "title": "LG\u2019s new OLED breakthrough can boost display lifespans",
-    "summary": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size.\nThis new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display describes as a \u201cdream next-generation OLED\u201d patterning method that aims to eliminate some of the existing limitations in OLED panels.\nCompared to FMM panels, LG Display says that FLiPP enables OLED panels to be 1.6 times brighter and last 2.4 times longer, and reduces power consumption by 13 percent.\nFLiPP is also \u201cfree from panel size and resolution constraints,\u201d according to LG Display, which means it can be used for virtually any panel requirements, including VR and AR displays.\nLG Display says it will start by applying this technology to \u201cIT applications,\u201d such as tablets and monitors, before later expanding to cover products like ultra-large TVs and 1-inch wearable devices.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-20T09:11:26Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MzA=",
-    "url": "https://www.businessinsider.com/pockets-ai-notetaker-launched-8-months-ago-revenue-is-soaring-2026-8#article",
-    "title": "Pocket's popular AI notetaker launched 8 months ago. Revenue is soaring, but can it last?",
-    "summary": "AI hardware has had more misses than hits.\nThe AI notetaker hardware startup says it has reached a $100 million run rate eight months after launching.\nA basic subscription is free, while premium plans offering more advanced AI models start at $16.59 a month.\nAmazon represents less than 5% to 10% of revenue, Narisetti said, and roughly 85% of its business still comes from the US.\nThat's a fourfold increase compared to the second half of 2025, when physical AI startups raised $12 billion across 470 deals.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-19T16:12:14Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MzE=",
-    "url": "https://www.wired.com/review/google-pixel-watch-5/",
-    "title": "Google Pixel Watch 5 Review: More Health, More AI",
-    "summary": "The Watch 5 retains several health features from its predecessors, including Loss of Pulse detection, ECG, and skin temperature tracking.\nIt also introduces four Health Guardian tools that have undergone clinical validation and will be available in September: Insulin Resistance Trends, Blood Pressure Trends, Breathing Emergency Detection, and Sleep Breathing Quality Trends.\nWatch 5 sleep tracking.\nScreenshot: Boutayna ChokraneLastly, Sleep Breathing Quality uses minute-by-minute variations in blood oxygen levels to understand your breathing patterns better while you sleep.\nGoogle says the Pixel Watch 5 is 15 percent more accurate at tracking sleep than its predecessor.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-19T16:34:24Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MzI=",
-    "url": "https://www.businessinsider.com/microsoft-hiring-legal-engineer-ai-lawyers-2026-8#article",
-    "title": "Microsoft will pay up to $279K for a lawyer who can build AI",
-    "summary": "Microsoft appears to want to put its legal department on AI steroids.\nFor decades, lawyers were the corporate world's tech holdouts, wary of tools that could get even a single detail wrong.\nMicrosoft has also begun rolling out Harvey across Corporate, External, and Legal Affairs, its broader legal organization.\nFor its role, Microsoft is seeking someone with a law degree and at least seven years of experience as a practicing attorney.\n\"Hands-on experience with AI legal tools such as Harvey or Copilot\" is preferred, the company wrote.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-20T10:00:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MzM=",
-    "url": "https://finance.yahoo.com/technology/ai/articles/meta-quietly-become-one-microsoft-110000871.html",
-    "title": "Meta Has Quietly Become One of Microsoft\u2019s Largest AI Customers",
-    "summary": "(Bloomberg) -- Meta Platforms Inc. has become one of Microsoft Corp.'s biggest AI customers, underscoring how demand for the emerging technology remains concentrated in the tech industry.\nA major prong of Microsoft's AI strategy is offering models from a variety of providers through a marketplace called Foundry, which had 100,000 customers as of July.\nBut for now, most of its largest AI customers are other tech companies, according to people familiar with the matter.\nOpenAI, the company's longtime partner, provided about 70% of Microsoft's overall AI revenue in its most recent fiscal year.\nDevelopers at Meta have used OpenAI technology through Foundry to help them assess the output of their own models, one of the people said.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-20T11:00:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "MzQ=",
-    "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
-    "title": "Waymo lifts the lid on the \u2018brain\u2019 powering its robotaxis",
-    "summary": "For the first time, Waymo revealed key details about the heavy compute \u201cbrain\u201d housed in the trunk of its robotaxis, including chip architecture, processor specs, and internal component details.\nRelated Inside the lab where Waymo is building the brains for its driverless carsWaymo\u2019s robotaxis, festooned with cameras, lidar, and radar, take in massive streams of raw sensor data.\nWaymo\u2019s compute needs to run silently while also not taking up too much room in the trunk.\nThe stack needs to be able to respond to sensor data as quickly and with as little latency as possible.\nIt\u2019s a revealing glimpse of the technology that Waymo uses to power its fleet of robotaxis.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-20T13:59:12Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MzU=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-    "title": "OpenAI hit the brakes. Now what?",
-    "summary": "\u201cFor the pause to be sustainable, it has to be made industry-wide.\u201dFor all the talk of slowing down, OpenAI isn\u2019t exactly standing still.\n\u201cDue to the intensity of the AI race, everyone has an incentive to work at breakneck speed,\u201d said Marius Hobbhahn, CEO and cofounder of Apollo Research, an AI safety research organization.\nBut it also means there is nothing guaranteeing OpenAI \u2014 or any other AI company \u2014 will make the same choice next time.\nNick Mo\u00ebs, executive director of nonprofit AI safety and governance organization The Future Society, described self-policing as the structural problem at the heart of the current approach to AI safety.\nIt\u2019s possible OpenAI\u2019s slowdown will set a precedent for the industry.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-19T17:10:09Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MzY=",
-    "url": "https://thenextweb.com/news/singapore-biological-data-centre-cortical-labs-neurons",
-    "title": "A data centre rack running on living neurons is now operating in Singapore",
-    "summary": "NUS Medicine, data centre operator DayOne and Melbourne\u2019s Cortical Labs have unveiled a biological data centre prototype in Singapore, built from a 20-unit rack of neuron-powered CL1 computers.\nA rack of computers running on living human neurons has been switched on in Singapore.\nNUS Medicine, the data centre operator DayOne and Melbourne\u2019s Cortical Labs showed the prototype to about 80 guests on 6 August.\nThe numbers are small in a way data centre people are not used to.\nA conventional server rack runs to several kilowatts, and a high-density AI rack can pass a hundred.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-20T16:48:02Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mzc=",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/china-ai-boom-making-star-025515107.html",
-    "title": "China\u2019s AI Boom Is Making Star 50 the Stock Index That Matters",
-    "summary": "(Bloomberg) -- Investors looking to track China's hottest companies are shifting their focus away from the country's traditional stock indexes.\nMost Read from BloombergAs the artificial intelligence boom reshapes the corporate hierarchy, the technology-dominated Star 50 Index is emerging as the most relevant gauge for the equity market, less than a decade after its creation.\nAs a result, the Star 50 now offers a concentrated bet on AI with 86% of its firms in information technology and has outstripped the traditional benchmark by about 30% this year.\nThe Star Market was unveiled by Xi Jinping in 2018, in the early days of the trade war during Donald Trump's first term as US president.\nThe widening gap in Chinese equity benchmarks mirrors a global trend, with investors rewarding the companies supplying the infrastructure behind the AI boom.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-20T02:55:15Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "Mzg=",
-    "url": "https://www.entrepreneur.com/business-news/tech/your-business-doesnt-need-more-software-it-needs-software-that-adapts-heres-how-ai-is-making-that-possible",
-    "title": "Your Business Doesn\u2019t Need More Software \u2014 It Needs Software That Adapts. Here\u2019s How AI Is Making That Possible.",
-    "summary": "Instead of hosting and maintaining business software on-site, SaaS allows businesses to host business applications in the cloud and pay for software subscriptions rather than infrastructure.\nWhile SaaS initially simplified business operations, the volume of disconnected SaaS applications has now introduced a new level of complexity.\nTo tame growing SaaS complexity, more businesses are embracing AI, automation and no-code tools to integrate SaaS workflows and make SaaS applications more useful.\nGenerative AI changes software ownershipThe boom in generative AI is changing how businesses manage software.\nVibe coding has unlocked the ability to customize existing SaaS tools, but any business software still needs structure.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-20T17:00:00Z",
-    "source": "Entrepreneur"
-  },
-  {
-    "id": "Mzk=",
-    "url": "https://thenextweb.com/news/taco-bell-voice-ai-drive-thru-expansion",
-    "title": "Taco Bell\u2019s voice AI expansion shows the drive-thru has entered a new phase",
-    "summary": "TL;DR Taco Bell has expanded voice AI to 890+ restaurants across 38 states.\nVoice AI in the drive-thru is becoming less of an experiment and more of an operating decision for quick-service restaurants.\nThat distinction matters because scaling voice AI is not simply a matter of putting a conversational interface in front of a menu.\nIntouch Insight\u2019s 2025 Emerging Experiences Study used mystery shoppers to evaluate voice AI at Bojangles, Taco Bell and Wendy\u2019s.\nAcross 120 visits where voice AI was confirmed to be in use, employees intervened in 22% of interactions.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-20T17:52:48Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "NDA=",
     "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
     "title": "Riot is ending development on its League of Legends fighting game",
     "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch.\n\u201cEven in these highlight moments, however, we saw no meaningful, sustained change in 2XKO\u2019s trajectory; only a fraction of what it would take to trend toward sustainability,\u201d Riot says.\nJust this week, Bloomberg reported that Sony is stripping live service elements from its in-development multiplayer Horizon title.\nEarlier this year, Remedy announced a final major update for FBC: Firebreak, its live service shooter set in the Control universe \u2014 though like Riot\u2019s plan for 2XKO, Remedy has chosen to keep Firebreak online.\nEven Fortnite isn\u2019t immune to problems, as developer Epic Games laid off staff in March following a \u201cdownturn in Fortnite engagement.\u201d",
@@ -280,17 +40,27 @@
     "source": "The Verge"
   },
   {
-    "id": "NDE=",
-    "url": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
-    "title": "Sennheiser\u2019s new Momentum 5 earbuds feature easily replaceable batteries",
-    "summary": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability.\nBoth the Momentum 5 earbuds and their charging case feature user-replaceable batteries that are accessible using a compact screwdriver instead of having to hack through layers of glue.\nThe Momentum True Wireless 5 will be available starting on September 3rd for $299.95, which is the same price as the Momentum 4 that launched in early 2024.\nColor options include five metallic finishes: lavender, copper, denim, graphite, and cream.\nBang & Olufsen\u2019s Beoplay Eleven earbuds launched in late 2024 with replaceable batteries, but users need to send them in so a professional technician can do the swap.",
+    "id": "MjE=",
+    "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "title": "The Unlikely Place at the Center of China\u2019s AI Boom",
+    "summary": "This vast, arid land has long been China\u2019s capital of sheep farming and coal mining, but over the last few years, it has become the hottest place in the country to build an AI data center.\nDeepSeek is reportedly building a massive AI data center in Ulanqab, as are ByteDance, Alibaba, and Xiaohongshu.\nThe Ulanqab data center boom signals that now they are finally starting to catch up.\nThe BooniesInner Mongolia has been a data center hot spot for at least a decade, long before the current AI boom.\nInner Mongolia is much closer to Beijing and other major metropolitan areas in China than any Western data center hub is.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-21T23:25:32Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+    "title": "LG\u2019s new OLED breakthrough can boost display lifespans",
+    "summary": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size.\nThis new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display describes as a \u201cdream next-generation OLED\u201d patterning method that aims to eliminate some of the existing limitations in OLED panels.\nCompared to FMM panels, LG Display says that FLiPP enables OLED panels to be 1.6 times brighter and last 2.4 times longer, and reduces power consumption by 13 percent.\nFLiPP is also \u201cfree from panel size and resolution constraints,\u201d according to LG Display, which means it can be used for virtually any panel requirements, including VR and AR displays.\nLG Display says it will start by applying this technology to \u201cIT applications,\u201d such as tablets and monitors, before later expanding to cover products like ultra-large TVs and 1-inch wearable devices.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-19T20:03:17Z",
+    "publishedAt": "2026-08-20T09:11:26Z",
     "source": "The Verge"
   },
   {
-    "id": "NDU=",
+    "id": "MjQ=",
     "url": "https://thenextweb.com/news/octopus-charge-north-america-electroverse-roaming",
     "title": "Octopus Charge puts 210,000 US chargers in one app, without Tesla, Ionna or Electrify America",
     "summary": "Octopus Energy has launched Octopus Charge in the US, Canada and Mexico, aggregating more than 210,000 chargers from over 20 networks with no markup on energy prices.\nOctopus Energy\u2019s new Octopus Charge app covers the United States, Canada and Mexico, with one payment method for every network it supports.\nOctopus Electroverse, the European original launched in 2020, reaches roughly 1.5 million chargers across more than 1,500 networks in over 40 countries.\nGeneral Motors aggregates networks inside its own brand apps, but only for General Motors vehicles, while Octopus Charge will work with any electric car.\nThe comparison is worth keeping in mind next time European charging gets criticised.",
@@ -300,17 +70,17 @@
     "source": "The Next Web"
   },
   {
-    "id": "NDg=",
-    "url": "https://thenextweb.com/news/adac-ev-home-charging-losses-wallbox-socket",
-    "title": "ADAC tested five EVs for charging losses. One wasted a quarter of the energy",
-    "summary": "Germany\u2019s ADAC measured charging losses on five EVs and found that a household socket wastes between 12.7% and 24.2% of the electricity drawn.\nAn 11 kW wallbox cut every car\u2019s losses to between 5.1% and 7%.\nGermany\u2019s ADAC measured how much, and on a household socket the new Mercedes CLA lost 24.2% of it.\nEvery model ADAC tested improved sharply on an 11 kW wallbox, and the Mercedes fell from 24.2% to 6.9%.\nOn a 2.3 kW household socket the rest of the field ran closer together.",
+    "id": "MjU=",
+    "url": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued",
+    "title": "Tesla sunsets its Solar Roof tiles",
+    "summary": "Tesla has discontinued Solar Roof, its solar panels designed to look like regular roofing tiles, Electrek reports.\nSources \u201cclose to the program\u201d told the publication that Tesla has informed its third-party installer network that Solar Roof is no longer available to order, and that only conventional solar panels will be supplied going forward.\nThe dedicated Solar Roof page (tesla.com/solarroof) that launched almost a decade ago now automatically redirects to Tesla\u2019s solar panel page instead, and the \u201cSolar Roof\u201d option is no longer available under the navigation menu for Tesla Energy products.\nTesla first revealed the Solar Roof project back in 2016, but only achieved mass production in March 2020.\nElectrek reports that Tesla has now concluded that Solar Roof is not financially viable for the company.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-19T13:00:28Z",
-    "source": "The Next Web"
+    "bias": "left",
+    "publishedAt": "2026-08-21T12:01:07Z",
+    "source": "The Verge"
   },
   {
-    "id": "NTE=",
+    "id": "Mjc=",
     "url": "https://thenextweb.com/news/muon-space-250m-google-salesforce-firesat",
     "title": "Muon Space raises $250m from backers including Google and Salesforce",
     "summary": "Muon Space has raised $250m in a round backed by Google and Salesforce, according to their announcement.\nIt is the largest cheque yet written to a company whose best-known product is a constellation that watches for wildfires.\nMuon builds and operates FireSat, the wildfire detection constellation developed with the Earth Fire Alliance and Google Research, and it deployed the first three operational satellites in that system in July.\nIt is the same problem OroraTech is attacking from Munich, and the German startup is further along in orbit than Muon is.\nIt says it now operates 19 thermal-imaging satellites, against FireSat\u2019s four, and its cubesats are small enough that it launches a fraction of the mass Muon does.",
@@ -320,37 +90,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "NTM=",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
-    "title": "Tiny quantum engines reveal useful energy hiding in \u201cwaste heat\u201d",
-    "summary": "What counts as heat, and what qualifies as useful work when a machine is made from only an atom and particles of light?\nSome of the energy carried by that escaping light can still be used to perform useful work on another quantum system.\nTheir latest study examined what happens to this distinction between heat and useful energy when the system approaches the semi-classical limit.\nSeparating Useful Energy From HeatIn the semi-classical limit, the atom inside the cavity continues to be treated as a quantum system with discrete energy levels.\nThe findings show how a better understanding of the boundary between heat and useful work could help researchers take advantage of energy that might otherwise appear to be lost.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-19T11:49:52Z",
-    "source": "Science Daily"
-  },
-  {
-    "id": "NTQ=",
-    "url": "https://www.ign.com/articles/the-witcher-3-npcs-kept-dropping-their-babies-due-to-an-unintended-side-effect-of-a-cut-mechanic",
-    "title": "The Witcher 3 NPCs Kept Dropping Their Babies Due to an Unintended Side Effect in Early Development",
-    "summary": "The Witcher 3 developers were so focused on making a realistic environment for players that they accidentally created a morbidly hilarious side effect for the game\u2019s female NPCs.\nAll Witcher Gear in The Witcher 3 View 32 Images\"Because we were focused on the countryside, it was easier for players to become curious,\" he began.\n\"For a few weeks, women were just dropping their babies, left and right,\u201d he said.\nDo You Think CD Projekt Will Release All the Games in the New The Witcher Trilogy Within Six Years?\nWe can\u2019t imagine NPCs will be tossing their babies in this game, either, but you never know.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-19T19:16:25Z",
-    "source": "IGN"
-  },
-  {
-    "id": "NTY=",
-    "url": "https://www.businessinsider.com/synthetic-data-for-ai-training-is-big-mistake-rich-sutton-2026-8#article",
-    "title": "Using synthetic data for AI training is 'a big mistake,' says AI pioneer Rich Sutton",
-    "summary": "\"That's just a big mistake,\" he said when asked about using synthetic data as a way to keep scaling large language models.\nSynthetic data is information artificially produced by algorithms or AI models rather than collected from original, real-world sources.\nIt has become increasingly attractive as AI companies scour the internet and hunt for new sources of training data.\nOpenAI has publicly sought large-scale, proprietary datasets that aren't readily available online to help train its AI models.\n\"There's no way we can have synthetic data for other people's minds,\" he said.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-19T05:49:46Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NjY=",
+    "id": "MzU=",
     "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
     "title": "Privacy advocates call on Maryland to investigate data brokers",
     "summary": "Privacy advocates call on Maryland to investigate data brokerstoggle caption Chip Somodevilla/Getty ImagesMaryland has passed some of the strictest data privacy provisions in the country.\nBut privacy and civil rights advocates say commercial data brokers are violating state law by collecting and selling Marylanders' geolocation data, as well as selling information to federal immigration authorities.\nMaryland lawmakers, however, have attempted to put restrictions on what data brokers can do with Maryland residents' data.\nData brokers are barred from selling or sharing Marylanders' location data unless law enforcement has gone through a legal process to obtain a subpoena or warrant.\nData brokers in Maryland cannot comply with an ICE subpoena to seek a Marylander's sensitive data; instead, ICE must present a warrant, Nojeim said.",
@@ -360,7 +100,7 @@
     "source": "NPR"
   },
   {
-    "id": "NzE=",
+    "id": "NDI=",
     "url": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
     "title": "Here\u2019s what data Comcast says its motion-detecting routers collect",
     "summary": "Previous Next1 / 3 This page in the Xfinity app shows a live view of motion activity.\nThe data includes motion event information that \u201cindicate when movement is detected between a connected device and the Xfinity Gateway,\u201d Sloan said.\nFor example, \u201cMotion detected by LG TV\u201d or \u201cMotion detected by Hallway smart speaker.\u201d The data does not include images, video, audio, or identifying information about people or pets, she added.\nThis diagram illustrates how WiFi Motion works, using signals between the Gateway and connected devices.\nWiFi Motion only works between devices connected to the Gateway.",
@@ -370,27 +110,17 @@
     "source": "The Verge"
   },
   {
-    "id": "ODI=",
-    "url": "https://thenextweb.com/news/samsung-foundry-price-hike-15-percent-ai-demand",
-    "title": "Samsung hiked foundry prices up to 15%, with China paying the steepest",
-    "summary": "Two people familiar with the matter said the increases follow a surge in demand for AI chips.\nCustomers for SF4 chips in China and the United States saw increases of 10 to 15 percent from the previous month.\nFor years, Samsung\u2019s foundry has been the distant number two.\nIt had to compete on price to win any work TSMC could not or would not take.\n\u201cAs TSMC faces tight capacity and raises prices, customers are shifting to rivals such as Samsung and Intel, prompting Samsung to raise its prices as well.\u201dHe also sees a path to profit.",
+    "id": "NDQ=",
+    "url": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
+    "title": "Updated: Electric shock gloves already in use by police departments in Bellevue, Omaha",
+    "summary": "Last May, the Omaha Police Department submitted a request to the Omaha City Council to buy 40 pairs of the gloves for a little under $66,000.\nIn one case at a high school, the officer used a glove on a student for \"noncompliance.\"\nRoad patrol officers check out the gloves before their shifts, and all school resource officers have a pair assigned to them.\nAdministering an electric shock with the gloves is considered a use of force.\nCvitanov, with the Omaha Police Department, said he considers the gloves to be a lesser use of force than physical force.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-19T18:25:42Z",
-    "source": "The Next Web"
+    "bias": "lean left",
+    "publishedAt": "2026-08-21T23:25:57Z",
+    "source": "Nebraskapublicmedia.org"
   },
   {
-    "id": "ODM=",
-    "url": "https://thenextweb.com/news/nvidia-h200-china-shipments-bytedance-tencent-hong-kong",
-    "title": "Nvidia\u2019s H200 finally reaches Chinese buyers, though maybe not mainland China",
-    "summary": "After eight months of export licences that moved almost nothing, Nvidia\u2019s H200 accelerators have started arriving at Chinese technology companies.\nNo source has documented a revision, so the higher number belongs to the FT alone until Commerce says otherwise.\nHong Kong already handles more than half of China\u2019s chip imports, some $124bn worth between January and May, which makes it the natural place to warehouse silicon nobody particularly wants to admit through the front door.\nMainland engineering teams can reach compute sited in Hong Kong over cross-border network links, an arrangement that keeps the chips technically offshore while making them functionally available.\nWashington has noticed, and the Bureau of Industry and Security is reviewing how Chinese firms rent access to hardware they are not permitted to own outright.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-19T07:48:28Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "ODQ=",
+    "id": "NTI=",
     "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
     "title": "Browser De-Slop",
     "summary": "Browser De-SlopModern browsers ship with an insane amount of bloatware.\nYou can point and click in the browser settings to disable most of it.\nOr, you can de-slop the browser by force using a policy file.\nPolicy File LocationsTo get started, create a JSON file at the appropriate path for your distribution.\nHere\u2019s a few that I\u2019m aware of:Distribution Browser Path FreeBSD Chromium /usr/local/etc/chromium/policies/managed/policies.json FreeBSD Firefox /usr/local/lib/firefox/distribution/policies.json Ubuntu Chrome /etc/opt/chrome/policies/managed/policies.json Ubuntu Chromium /etc/chromium-browser/policies/managed/policies.json Ubuntu Firefox /etc/firefox/policies/policies.json RedHat Chromium /etc/chromium/policies/managed/policies.json RedHat Firefox /etc/firefox/policies/policies.jsonAllegedly, these policies are also supported on Windows via Group Policy and MacOS using plist files.",
@@ -398,5 +128,25 @@
     "bias": "lean left",
     "publishedAt": "2026-08-20T12:19:37Z",
     "source": "Sacredheartsc.com"
+  },
+  {
+    "id": "NTU=",
+    "url": "https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux",
+    "title": "China Joins Europe In Scrapping Windows For Linux",
+    "summary": "\"The great question... which I have not been able to answer... is, `What does woman want?'\"\n-- Sigmund Freud",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-22T03:30:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NTY=",
+    "url": "https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8#article",
+    "title": "Silicon Valley's Hottest Robotics Conference Actuate Had Few Robots",
+    "summary": "At a sold-out conference in San Francisco for people who build robots, the robots were surprisingly hard to find.\nFor much of the past two decades, robotics was a difficult sell in Silicon Valley.\nNow it's one of tech's hottest bets, as investors look beyond software for the next wave of AI.\nOne panel, fittingly titled \"The Data Wars,\" brought researchers from Nvidia, Physical Intelligence, and Generalist, among others, to debate what kinds of training data robots need and how to get it.\nUS manufacturers have welcomed protection from subsidized Chinese rivals, while startups and researchers say that losing access to inexpensive Chinese hardware could leave the country further behind.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-21T09:00:01Z",
+    "source": "Business Insider"
   }
 ]
