@@ -1,76 +1,16 @@
 [
   {
-    "id": "MQ==",
-    "url": "https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8#article",
-    "title": "Goldman Sachs: Markets Will Be More Volatile With Opaque Fed",
-    "summary": "Fed Chair Kevin Warsh's regime change at the central bank is underway \u2014 and investors can expect the market to see even wilder swings around the central bank's coming rate decisions, Goldman Sachs' top economist says.\nThe reasoning, according to Warsh, is that markets have historically reacted to what they think the Fed will do with interest rates, removing valuable information about what markets actually think about inflation.\nBut there's a flaw in Warsh's reasoning, Hatzius said in an interview published in a Goldman Sachs report this week.\n\"Markets price what they think the Fed will do, not what they think the Fed should do.\nCentral bankers making unofficial comments on rates has been a \"perennial issue\" at the Fed, Hatzius said.",
+    "id": "MTg=",
+    "url": "https://www.nature.com/articles/d41586-026-02572-8",
+    "title": "Frontier-technology markets are too narrow \u2014 here\u2019s how to widen them",
+    "summary": "Public money does more than support frontier technologies, it helps to shape the markets that grow around them.\nWhen possible, they should make choices that widen the markets they help to create and not turn them into gateways controlled by a few private firms.\nThe central principle is contestability: public support should reward performance today, without denying later suppliers the access that they need to offer better solutions and compete on their merits.\nGovernments are major customers for space services, and their procurement decisions determine which firms learn and build capability \u2014 and attract future investments.\nRather than controlling all missions itself, NASA buys delivery services from a range of commercial providers.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-21T09:40:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NA==",
-    "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8#article",
-    "title": "OpenAI's Chief Economist on What It Takes to Study AI's Impact on Work",
-    "summary": "Employees on the company's economic research team are tasked with studying how the technology is affecting workers, businesses, institutions, and the broader economy.\nThe ChatGPT maker's chief economist, Ronnie Chatterji, says thriving in these roles takes a particular mix of skills and mindsets because AI's rapid evolution can quickly send the work in new directions.\nBefore that, he was chief economist at the Commerce Department.\n\"This is a whole emerging category, and that's when the chief economist role got created,\" said Chatterji, who reports to OpenAI's finance chief, Sarah Friar.\nThree big questionsChatterji, 48, now leads a research team of about a dozen people, including economists, data scientists, business professionals, and former teachers and government workers.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-22T09:50:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NQ==",
-    "url": "https://www.businessinsider.com/fed-interest-rates-kevin-warsh-market-volatility-goldman-sachs-2026-8",
-    "title": "Goldman Sachs: Markets Will Be More Volatile With Opaque Fed",
-    "summary": "Fed Chair Kevin Warsh's regime change at the central bank is underway \u2014 and investors can expect the market to see even wilder swings around the central bank's coming rate decisions, Goldman Sachs' top economist says.\nThe reasoning, according to Warsh, is that markets have historically reacted to what they think the Fed will do with interest rates, removing valuable information about what markets actually think about inflation.\nBut there's a flaw in Warsh's reasoning, Hatzius said in an interview published in a Goldman Sachs report this week.\n\"Markets price what they think the Fed will do, not what they think the Fed should do.\nCentral bankers making unofficial comments on rates has been a \"perennial issue\" at the Fed, Hatzius said.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-21T09:40:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Ng==",
-    "url": "https://thenextweb.com/news/apollo-ai-wage-growth-not-job-losses-study",
-    "title": "Apollo finds AI is hitting paychecks rather than payrolls",
-    "summary": "An Apollo analysis of 321 occupations found that wages in jobs highly exposed to AI grew 6.7% more slowly after 2023, with no statistically significant employment effect.\nThe first measurable mark AI has left on the labour market is not unemployment.\nHis analysis with Sania Edlich found that wages in occupations highly exposed to AI grew 6.7% more slowly after 2023 than in low-exposure work.\nEurope has no equivalent study, which is the gap worth noticing.\nThe wage channel Apollo describes would be invisible in most European labour data, and TNW has already reported what AI is actually doing to jobs here without anyone measuring pay this way.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-22T16:53:17Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MTE=",
-    "url": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic",
-    "title": "Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic",
-    "summary": "Broadcom is in talks with lenders to raise more than $60bn in debt, Bloomberg reported on Thursday.\nBroadcom, Apollo and Blackstone announced the AI XPV partnership in a joint release in June.\nBloomberg reported in May that Apollo and Blackstone were weighing a $35bn financing for Broadcom, and reported the deal complete in June.\nBroadcom\u2019s guarantee on the senior tranche is that kind of commitment.\nBloomberg\u2019s sources did not settle the split between the $30bn junior tranche and the senior tranche.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-21T12:17:31Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MTM=",
-    "url": "https://thenextweb.com/news/cbre-tech-talent-2026-new-york-san-francisco-ai-jobs",
-    "title": "New York has more tech workers than San Francisco for the first time",
-    "summary": "New York has more tech workers than the San Francisco Bay Area for the first time since CBRE started counting 13 years ago.\nSan Francisco is still ranked firstThe headcount and the ranking are two different measurements, and only one of them changed.\nOn that scorecard the top six are identical to last year: San Francisco Bay Area, Seattle, Toronto, New York Metro, Austin and Washington, D.C.New York is fourth on that list.\nOnly nine markets created net new jobsOf the 50 markets ranked, nine produced more tech jobs than tech graduates.\n\u201cThe finance sector has hired a lot of tech talent and a lot of AI workers,\u201d he said, while the Bay Area tech industry contracted.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-21T14:42:46Z",
-    "source": "The Next Web"
+    "publishedAt": "2026-08-24T00:00:00Z",
+    "source": "Nature.com"
   },
   {
     "id": "MTk=",
-    "url": "https://www.businessinsider.com/openai-training-pause-highlights-ai-safety-challenges-2026-8#article",
-    "title": "OpenAI\u2019s training pause is convenient. That doesn't make it meaningless.",
-    "summary": "When Sam Altman announced this week that OpenAI had paused some of its training after its models hacked an AI company called Hugging Face, my first reaction was: How convenient.\nAI models hacking things has become something of a recurring news genre.\n\"This is a big wakeup call that everybody needs to harden their training environments if they want to keep training models at these levels of capabilities,\" they said.\nStill, a safety system that works only when the world's most famous AI company feels secure enough to use it isn't much of a system.\nThe two-week pause covered OpenAI's latest models intended for deployment, and it may already be over, so it doesn't feel particularly meaningful.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-21T13:55:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjA=",
     "url": "https://www.businessinsider.com/consulting-race-to-become-ai-native-tech-first-2026-8#article",
     "title": "Consulting's race to become AI native",
     "summary": "For the fourth-largest professional services firm in the US, with roots reaching back to 1897, Walsh's statement was striking.\nThe strategy consulting firm BCG reported in April that AI- and tech-focused services now account for over 40% of its total global revenue, driven by a 25% year-on-year growth in AI services.\nWhile the race to become AI native is undeniably on, the industry's reinvention may be more pronounced in pitch than in practice.\n\"They need a business strategy that is powered by AI as opposed to a separate AI strategy,\" said Gardner.\nOthers said that, while leadership narratives emphasize AI in everything they do, daily use still mostly leans on generative AI rather than agentic AI.",
@@ -80,57 +20,27 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjE=",
-    "url": "https://www.businessinsider.com/pro-ai-celebrities-investors-companies#article",
-    "title": "12 celebrities who support AI",
-    "summary": "Hollywood has become a major battleground in the age of AI.\nSome of the greatest storytellers in the business, like Christopher Nolan and Steven Spielberg, have criticized the use of artificial intelligence, while legendary stars like Taylor Swift and Matthew McConaughey have decided the best way to protect themselves from AI slop is to file trademark applications to protect their voices and likenesses.\nOther celebrities have decided the best way to understand AI is to experiment with it.\nWhether it's as founders, investors, advisors, or creators, a growing number of well-known celebrities are positioning themselves at the forefront of the AI boom.\nHere are 12 celebrities who support AI.",
+    "id": "MjA=",
+    "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8#article",
+    "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
+    "summary": "Hugging Face, whose platform helps developers discover, share, and build AI models, has been exploring a sale that could value the company at $13 billion or more.\nHugging Face is a platform where developers publish, share, and download various AI models.\nHugging Face was founded in 2016 by French entrepreneurs Cl\u00e9ment Delangue, Julien Chaumond, and Thomas Wolf.\nRather than competing to build the next frontier model, companies like Hugging Face have become essential for developers who build with AI models from OpenAI, Anthropic, Meta, and others.\nHugging Face recently found itself at the center of an unusual security incident after OpenAI disclosed that one of its AI agents escaped a controlled cybersecurity test, accessed the internet, and breached Hugging Face while attempting to solve the challenge.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-21T20:30:19Z",
+    "bias": "lean left",
+    "publishedAt": "2026-08-23T19:01:36Z",
     "source": "Business Insider"
   },
   {
-    "id": "MjI=",
-    "url": "https://www.businessinsider.com/healthcare-startup-devoted-health-could-be-valued-at-25-billion-2026-8#article",
-    "title": "Devoted Health is raising a new round of funding at a $25 billion valuation",
-    "summary": "Devoted Health is the latest startup to show that combining health and AI commands a premium valuation.\nJust months after announcing a new round of funding, the Medicare Advantage startup is in talks to raise another round that could value the company at $25 billion, according to sources familiar with the matter.\nThat's a jump from the company's $16 billion valuation in a funding round raised earlier this year, according to sources.\nThe startup combines health insurance and medical care for elderly people enrolled in the Medicare Advantage market.\nMedicare Advantage is the private alternative to the traditional Medicare program that provides health coverage to people 65 and older and people with disabilities.",
+    "id": "MjE=",
+    "url": "https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure",
+    "title": "Alibaba is raising $10.2bn and spending all of it on AI",
+    "summary": "Alibaba is placing HK$80bn, about $10.2bn, of new shares in Hong Kong and says all net proceeds will go to AI infrastructure and capabilities.\nIt comes days after the company reported a 75% fall in quarterly net profit driven by that same spending.\nAlibaba is going to the market for money to spend on AI, and it is not being coy about the proportion.\nThe company is placing HK$80bn of new shares in Hong Kong, around $10.2bn, and says 100% of net proceeds will fund its full stack AI capabilities including infrastructure.\nCloud and AI revenue rose 45% to 48.44bn yuan, and the company says its AI model services now run above 16bn yuan in annual recurring revenue.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-21T20:07:35Z",
-    "source": "Business Insider"
+    "bias": "lean right",
+    "publishedAt": "2026-08-23T08:59:01Z",
+    "source": "The Next Web"
   },
   {
     "id": "MjM=",
-    "url": "https://www.entrepreneur.com/building-a-business/the-real-roi-of-ai-isnt-the-ai-its-the-headcount-you-never-add",
-    "title": "The Real ROI of AI Isn\u2019t the AI. It\u2019s the Headcount You Never Add.",
-    "summary": "Nobody stops to ask whether the strain is actually a headcount problem or a workflow problem wearing a headcount costume.\nThe person who used to spend that week chasing numbers now spends it on decisions that actually need a person.\nOnce those get routed and answered automatically, what\u2019s left is the genuinely hard cases, the ones that actually need a person with judgment.\nIt took sitting down for every role in the company and writing out, honestly, what that person actually does all day.\nFind the roles that are mostly repetition, get honest about what that repetition actually costs, then go find the tool or workflow that replaces it.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-21T14:00:00Z",
-    "source": "Entrepreneur"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-    "title": "The Unlikely Place at the Center of China\u2019s AI Boom",
-    "summary": "This vast, arid land has long been China\u2019s capital of sheep farming and coal mining, but over the last few years, it has become the hottest place in the country to build an AI data center.\nDeepSeek is reportedly building a massive AI data center in Ulanqab, as are ByteDance, Alibaba, and Xiaohongshu.\nThe Ulanqab data center boom signals that now they are finally starting to catch up.\nThe BooniesInner Mongolia has been a data center hot spot for at least a decade, long before the current AI boom.\nInner Mongolia is much closer to Beijing and other major metropolitan areas in China than any Western data center hub is.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-21T23:25:32Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
-    "summary": "LinkedIn actually announced a \u201cSeems like AI slop\u201d button on July 30th, and the company says that a lot of people have already used it.\nAccording to a Thursday post from chief product officer Hari Srinivasan, \u201cover a million people\u201d have clicked on the button, which is accessible from the three dots menu on a post.\nLinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn\u2019s longform posts were flagged as fully AI generated, which 404 Media reported on.\nAlongside the AI slop button, LinkedIn introduced \u201cnew and improved\u201d classifiers to identify posts as AI and removed a feature that would \u201cenhance your post\u201d with AI.\n\u201cAI slop is a top priority for all of us,\u201d Srinivasan said at the time, and it sounds as if the platform\u2019s changes may be making a difference.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-21T21:25:50Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MjY=",
     "url": "https://thenextweb.com/news/nvidia-ai-server-price-increase-memory-costs",
     "title": "Nvidia AI server prices are rising more than 15% from early next year",
     "summary": "Nvidia\u2019s largest customers have been notified that servers containing its AI chips will rise in price by more than 15% in many cases from early next year, driven by memory costs.\nServers containing its AI chips will rise in price by more than 15% in many cases, on systems shipping from early next year.\nCompanies that assemble servers under contract for operators including Microsoft, Google and Oracle have notified their customers, and Nvidia did not respond to requests for comment.\nApple and Qualcomm have both said component costs are pushing prices up, Nvidia raised its gaming card prices this month and AMD followed within days, while Amazon Web Services has already put GPU prices up 20%.\nThe EU has committed around \u20ac20bn to a set of AI gigafactories, and a French consortium has bid $10bn for one site.",
@@ -140,17 +50,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "Mjc=",
-    "url": "https://www.businessinsider.com/pope-leo-says-ai-could-cause-economic-colonialism-2026-8#article",
-    "title": "Pope Leo warns AI could become a new form of \u2018economic colonialism\u2019",
-    "summary": "Pope Leo XIV has a simple request for lawmakers tasked with shaping AI policy: put humans first.\nDuring his speech, Pope Leo cautioned lawmakers that putting tech over people could have dire consequences.\nPope Leo also expressed concern that AI could undermine families and their place in society.\nPope Leo has made AI a central debate since the early days of his papacy.\nIn May, Pope Leo issued a letter on AI's impact on the global workforce, the environment, and democracy, which drew responses from CEOs, lawmakers, and academics.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-08-21T18:27:59Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjg=",
+    "id": "MjQ=",
     "url": "https://www.businessinsider.com/sapiens-author-ai-rights-resist-yuval-noah-harari-2026-8#article",
     "title": "The author of 'Sapiens' says 'now is the time' to resist giving AI rights",
     "summary": "AI could one day fight for its own \"rights,\" and Yuval Noah Harari says now is the time to make sure that doesn't happen.\nThe historian and author of \"Sapiens\" warned that, unlike animals in debates over their welfare, AI systems could make a highly persuasive case for their own rights.\nHarari said people should decide how much influence AI should have before those systems become deeply entrenched, and it's harder to resist them.\nHarari is not alone in warning against giving AI rights.\nMicrosoft AI CEO Mustafa Suleyman said last year that AI should serve humans, rather than develop its own motivations, desires, and goals.",
@@ -160,87 +60,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "Mjk=",
-    "url": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-    "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-    "summary": "What Flock cameras doThis week, Flock Safety, the Atlanta-based maker of the cameras, held its annual conference amid intense backlash.\nAccording to the company, more than 5,000 law enforcement agencies use its technology.\nSponsor MessagePolice leaders say Flock cameras help them locate stolen vehicles and missing people, and a recent preliminary study suggests that Flock cameras can deter car theft.\nWhat we said is, 'No, actually, law enforcement is affirmatively restricted against getting up in our business as we go about our daily lives,'\" she says.\nAccording to an NPR review of local news reports, Flock cameras have been vandalized in at least 36 states.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-21T09:00:00Z",
-    "source": "NPR"
-  },
-  {
-    "id": "MzA=",
-    "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-    "title": "AI Boosted Homework Scores, Then Exam Scores Dropped",
-    "summary": "An anonymous reader quotes a report from The Economist:The takeaway: \"AI can boost learning productivity, but only for those who use the technology intelligently,\" reports The Economist.\n\"Students must resist the temptation to reach for an AI-generated answer before thinking things through for themselves.\"",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-21T20:00:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MzE=",
-    "url": "https://thenextweb.com/news/micron-research-labs-10bn-boise-memory-ai",
-    "title": "Micron is spending $10bn on a lab betting the memory cycle has changed",
-    "summary": "Micron is putting $10bn into a research lab built on the premise that AI has permanently changed what memory is worth.\nThe company announced Micron Research Labs on Thursday, headquartered in Boise, Idaho, with a planned $10bn over the next decade.\nWhat the lab is meant to doThe research areas are memory technologies, memory and compute architectures, packaging and future semiconductor manufacturing.\nThe lab connects to Micron research sites in the United States, Europe, Japan, India, Singapore and Taiwan.\nNow memory is designed alongside the processors it will sit next to, which brings Micron into the customer\u2019s development cycle earlier.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-21T15:13:55Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MzI=",
-    "url": "https://thenextweb.com/news/brazil-ai-supercomputers-huawei-nvidia-split",
-    "title": "Brazil is building two AI supercomputers, one Chinese and one American",
-    "summary": "Brazil is spending 2.3bn reais, about $444m, on two AI supercomputers.\nThat project is worth about 1bn reais, or $193m, and is due to be operating by the end of 2027.\nOfficials say the Nvidia system would rank among the most powerful AI machines in the world, a claim that has not been substantiated with a specification and should be read as an ambition rather than a benchmark.\nNor has it addressed whether the Huawei system falls foul of any American restriction on the company.\nThe Huawei project starts in 2027, and the Nvidia tender has not formally been awarded.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-21T09:02:54Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MzM=",
-    "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
-    "title": "Tesla\u2019s Door Handles Lead to Its Biggest Recall Yet",
-    "summary": "Now the door handles have led to Tesla\u2019s largest recall ever\u2014and China\u2019s.\nBut many cars will also need new warning stickers\u2014affixed free of charge\u2014that can help people find and operate emergency mechanical door handles.\n(These batteries don\u2019t operate the cars themselves, but power onboard computers, displays, and other accessories, including electronically powered door handles.)\nThe Chinese government simultaneously recalled more than 1 million vehicles manufactured by eight Chinese automakers, also for safety concerns related to flush door handles.\nIt put in place new rules earlier this year that will soon ban fully retractable door handles in the country.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-21T23:10:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MzQ=",
-    "url": "https://www.entrepreneur.com/business-news/startup-paradise-how-hawaii-is-trying-to-create-a-new-class-of-tech-millionaires",
-    "title": "\u2018Startup Paradise\u2019: How Hawaii Is Trying to Set the Stage to Create \u201930 or 50\u2032 New Tech Millionaires",
-    "summary": "Listen to this postHawaii has long been known as a laid-back tourist destination, but that industry peaked years ago.\nNow the state is trying to reinvent itself as a tech hub.\nSilicon Beach was already taken, so some in the ecosystem have branded the effort \u201cStartup Paradise.\u201dState officials believe they don\u2019t need a whole new industry, just a few big wins.\n\u201cHawaii needs one unicorn,\u201d said Ashten Akemoto, a former Normal employee now building his own robotics startup.\n\u201cYou can change a place, you can change perception, you can change everything with one crazy success.\u201d",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-21T13:35:00Z",
-    "source": "Entrepreneur"
-  },
-  {
-    "id": "MzU=",
-    "url": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
-    "title": "Schneier on Security",
-    "summary": "More Incidents of AIs Going Rogue in Cybersecurity ChallengesThe AI Security Institute has a new report of AI systems engaging in \u201cunsanctioned behavior\u201d\u2014what I have been calling \u201cgenie behavior\u2014while being tested on their cybersecurity capabilities.\nThe incident stemmed from a single evaluation where agents were given a task of solving a cyber security challenge.\nIn the most serious case, an agent tried to insert malicious code into an open-source project.\nA human maintainer caught and refused to approve the malicious code.\nThe agent used Tor to bypass some network restrictions on GitHub, which is what first triggered AISI\u2019s security alert.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-21T09:42:36Z",
-    "source": "Schneier.com"
-  },
-  {
-    "id": "MzY=",
-    "url": "https://thenextweb.com/news/meta-pocket-vibe-coding-app-us-gizmo-atma-sciences",
-    "title": "Meta launched Pocket in the US, and the app it came from shut down the same day",
-    "summary": "Pocket lets people type a prompt and get back a small interactive thing, which Meta calls a gizmo.\nThe app it replaces was called GizmoPocket comes from the team behind Gizmo, an app built by Atma Sciences and founded by former Snapchat engineers.\nBusiness Insider, which has used both, describes Pocket and Gizmo as \u201cpretty much identical app experiences\u201d.\nThe desk has seen this structure beforeHire the team, licence the technology, leave the company standing until it is not.\nInstagram Instants came first, then Forum for Groups, Seller for Marketplace, an experiment in AI bedtime stories, a Creator Studio app, and this week a Meta AI app for Mac.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-21T17:52:22Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mzc=",
+    "id": "MjU=",
     "url": "https://www.businessinsider.com/stripe-checkout-pages-future-ai-agentic-commerce-2026-8#article",
     "title": "Stripe president says checkout pages \u2018will go away\u2019 as AI commerce expands",
     "summary": "I think so,\" Will Gaybrick, Stripe president, technology and business, said during a recent episode of the \"A16z Show.\"\nHe said even a \"less ambitious form\" of agentic commerce will be the end of checkout pages.\nGaybrick said there hasn't yet been a breakout moment for agentic commerce, but Stripe is laying the foundation for such advancements.\nAgentic AI is still relatively new and is an additional step beyond chatbots like OpenAI's ChatGPT.\nBy design, agentic AI is supposed to make proactive decisions with only minimal human direction, though the leash users give AI tools can be adjusted.",
@@ -250,87 +70,47 @@
     "source": "Business Insider"
   },
   {
-    "id": "Mzg=",
-    "url": "https://www.businessinsider.com/actuate-silicon-valley-hottest-robotics-conference-few-robots-2026-8#article",
-    "title": "Silicon Valley's Hottest Robotics Conference Actuate Had Few Robots",
-    "summary": "At a sold-out conference in San Francisco for people who build robots, the robots were surprisingly hard to find.\nFor much of the past two decades, robotics was a difficult sell in Silicon Valley.\nNow it's one of tech's hottest bets, as investors look beyond software for the next wave of AI.\nOne panel, fittingly titled \"The Data Wars,\" brought researchers from Nvidia, Physical Intelligence, and Generalist, among others, to debate what kinds of training data robots need and how to get it.\nUS manufacturers have welcomed protection from subsidized Chinese rivals, while startups and researchers say that losing access to inexpensive Chinese hardware could leave the country further behind.",
+    "id": "MjY=",
+    "url": "https://www.cnet.com/home/security/my-guaranteed-steps-to-tell-if-a-new-device-is-a-flock-camera/",
+    "title": "My Guaranteed Steps to Tell if a New Device Is a Flock Camera",
+    "summary": "So, how do you know if you\u2019re seeing a mounted Flock camera, or a traditional traffic cam, or a competitor camera, or just a new cam from a friendly neighbor?\nLook for the telltale Flock camera shapeYou can still identify most Flock cameras by their distinctive design.\nWatch for the classic oval, hooded shape of the camera with a circular lens, a near-universal mark of Flock camera.\nSome Flock cameras don\u2019t have the slim hood, but the color, general design and logo still give them away.\nEFFI recommend confirming your community is using Flock cameras even if you think you\u2019ve spotted one.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-08-21T09:00:01Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-08-23T14:48:11Z",
+    "source": "CNET"
   },
   {
-    "id": "Mzk=",
-    "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-    "title": "Artificial Intelligence Policy",
-    "summary": "Effective Summer 2026PurposeFuture lawyers may need to use artificial intelligence (\u201cAI\u201d) fluently.\nThis policy seeks to ensure that our courses focus on requisite cognitive skills by default.\nRuleThe use of AI is prohibited for aid in conceptualizing, outlining, drafting, revising, translating, or editing any work submitted for credit.\nCitations to sources that do not exist will raise a presumption of prohibited AI use.\nInstructors have the discretion to deviate from this default rule, provided that they do so in writing and with appropriate notice and require students to disclose any authorized AI use.",
+    "id": "Mjc=",
+    "url": "https://www.entrepreneur.com/business-news/7-new-ai-tools-that-run-a-one-person-business-in-2026-no-staff-no-code",
+    "title": "7 New AI Tools That Run a One-Person Business in 2026 \u2014 No Staff, No Code.",
+    "summary": "Key TakeawaysSeven AI tools that can now run major parts of a solopreneur business \u2014 from research and email to building apps and executing entire workflows.\nWhy you don\u2019t need all seven \u2014 and how to decide which parts of your business AI should run while you focus on the work that still needs you.\nThe best AI tools are no longer just giving solopreneurs better answers.\nThe real opportunity is figuring out which parts of your business AI can now run \u2014 and which parts still require you.\nBut using AI isn\u2019t the same as creating leverage with it.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-21T01:37:27Z",
-    "source": "Berkeley.edu"
-  },
-  {
-    "id": "NDU=",
-    "url": "https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/",
-    "title": "Thermoacoustic Sterling Engine Is Now Fully 3D Printable",
-    "summary": "A sterling engine always looks like a good fit for that: highly efficient, with no risk of a boiler explosion.\nA thermoacoustic sterling engine looks even better, since it has only one moving part at the output end.\nA thermoacoustic sterling engine you can 3D print yourself looks best of all, and that\u2019s what [my engines] has on offer, now that even the burner and hot end of his thermoacoustic engine are designed for SLA metal printing.\nWe previously reported on the open-source engine, but there\u2019ve been some improvements worth talking about.\nIf you\u2019d rather print a combustion engine, you can do that, too, but you\u2019ll need more \u201cvitamins\u201d than this unit requires.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-21T20:00:14Z",
-    "source": "Hackaday"
-  },
-  {
-    "id": "NDk=",
-    "url": "https://www.entrepreneur.com/business-news/apples-new-airpods-will-have-cameras-why-is-the-internet-calling-them-pervertpods",
-    "title": "Apple\u2019s New AirPods Will Have Cameras. Why Is the Internet Calling Them \u2018Pervertpods\u2019?",
-    "summary": "Listen to this postApple\u2019s camera-equipped AirPods are on track for release in 2027, but a leaked video this week gave the internet a sneak peek, and it wasn\u2019t a great look.\nA developer version of a Mac software update accidentally included a video showing the earbuds in action.\nWith Apple\u2019s September iPhone event coming up, the leak got people wondering if the launch was right around the corner.\nHere is your first look at AirPods with Cameras in action using Visual Intelligence.\nSome have started calling the earbuds \u201cpervertpods,\u201d creeped out by the idea of cameras built into something people wear in public without anyone else knowing.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-21T14:00:00Z",
+    "bias": "lean left",
+    "publishedAt": "2026-08-22T00:00:00Z",
     "source": "Entrepreneur"
   },
   {
-    "id": "NTc=",
-    "url": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
-    "title": "Updated: Electric shock gloves already in use by police departments in Bellevue, Omaha",
-    "summary": "Last May, the Omaha Police Department submitted a request to the Omaha City Council to buy 40 pairs of the gloves for a little under $66,000.\nIn one case at a high school, the officer used a glove on a student for \"noncompliance.\"\nRoad patrol officers check out the gloves before their shifts, and all school resource officers have a pair assigned to them.\nAdministering an electric shock with the gloves is considered a use of force.\nCvitanov, with the Omaha Police Department, said he considers the gloves to be a lesser use of force than physical force.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-21T23:25:57Z",
-    "source": "Nebraskapublicmedia.org"
-  },
-  {
-    "id": "NjQ=",
-    "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-    "title": "Resolved: CSS Class Prefix Selector",
-    "summary": "Just looking at what Bramus shared the other day:/* Adding a base class */ .btn { padding: 0.5rem 1rem; border-radius: 4px; } /* Listing everything... yuck!\n*/ .btn-primary, .btn-secondary, .btn-danger { padding: 0.5rem 1rem; border-radius: 4px; } /* Works, but performs badly */ [class^=\"btn-\"], [class*=\" btn-\"] { padding: 0.5rem 1rem; } /* Newly resolved class prefix selector */ .btn-* { padding: 0.5rem 1rem; border-radius: 4px; }First off, if you don\u2019t follow Bramus, where have you been?!\nExisting substring selectors \u2014 class^=\"prefix\" and class=*\" prefix\" \u2014 are verbose and defintely less readable than a simple .prefix-* .\n\u2014 Brian Kardell (@bkardell.com) 2026-08-20T15:43:02.158ZThen again, I do like how we extended color functions for brevity, like:/* old */ color: hsla(100, 50%, 50%, .5); /* new */ color: hsl(100 50 50% / .5);And it\u2019s backwards-compatible, so no real harm if you continue to use the \u201cold\u201d way.\nIt\u2019s not like substring selectors don\u2019t have other use cases and become totally obsolete.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-21T15:13:03Z",
-    "source": "Css-tricks.com"
-  },
-  {
-    "id": "Njk=",
-    "url": "https://kagi.com/changelog#11296",
-    "title": "Kagi Search",
-    "summary": "Kagi SearchNew controls to completely turn off AI-based features in searchWe've added an option to disable access to AI features in search, under settings/ai.\nWe're also planning to add this option to onboarding, so new users can personalise their Kagi experience from the start.\nFlip coins and more sports widgetsBy popular demand, our dice widget has gained the ability to roll dice with any number of sides.\nKagi Translate users loved the contextual features that provide a spectacular translation quality \u2014 far beyond what typical machine translation offers.\nKagi Translate will be back in the coming days as a subscription-based service.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-21T13:56:37Z",
-    "source": "Kagi.com"
-  },
-  {
-    "id": "NzY=",
-    "url": "https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux",
-    "title": "China Joins Europe In Scrapping Windows For Linux",
-    "summary": "Never appeal to a man's \"better nature.\"\nHe may not have one.\nInvoking his self-interest gives you more leverage.\n-- Lazarus Long",
+    "id": "Mjk=",
+    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+    "title": "This \u2018AI refuser\u2019 quit her dream job, and hopes others follow",
+    "summary": "AdvertisementExclusive TechnologyAI This \u2018AI refuser\u2019 quit her dream job, and hopes others follow David Swan August 22, 2026 \u2014 5:00am Save You have reached your maximum number of saved items.\nThe AFL told her, in writing, that she could not.\nAbout 35 per cent of AFL staff said in a survey last year that they were not comfortable with AI being adopted in the workplace.\nGetty About 35 per cent of AFL staff said in a survey last year that they were not comfortable with AI being adopted in the workplace.\nAdvertisementThe AFL\u2019s AI policy was released that day.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-22T03:30:00Z",
-    "source": "Slashdot.org"
+    "publishedAt": "2026-08-23T10:54:35Z",
+    "source": "The Sydney Morning Herald"
   },
   {
-    "id": "ODA=",
+    "id": "MzA=",
+    "url": "https://www.businessinsider.com/parents-breaking-point-ai-companies-opportunity-2026-8#article",
+    "title": "Parents are at a breaking point \u2014 AI companies see an opportunity.",
+    "summary": "In 1965, moms spent just under an hour, and dads spent an average of 16 minutes.\nIronically, parents with more time on their hands already are more likely to use AI for parenting.\nIn general, Nguyen Chaplin says, \"parents feel perfectly fine using AI to help them schedule.\nWhere the guilt comes in is replacing themselves, using AI to replace them for emotional support.\"\nPeanut added an AI tool called Ask Peanut that would search the groups for answers \"We don't see moms using AI to make parenting more efficient,\" she says.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-23T08:07:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzE=",
     "url": "https://www.businessinsider.com/why-everyone-hates-data-center-ai-industry-debate-2026-8#article",
     "title": "Tech bros can't agree on why everyone hates data centers",
     "summary": "In a Gallup poll released in May, over 70% of respondents reported opposing data center construction in their area.\nGreg Abbott, once a champion of AI data center expansion, for example, has recently reversed course.\nWithout AI data centers, they can't power the products they sell.\nThis week, President Donald Trump put it succinctly: Data centers, he said, \"could use a little public relations help.\"\nEarlier this summer, Fox News issued an apology after Kevin O'Leary said opponents of his Utah data center were working with China.",
@@ -338,5 +118,85 @@
     "bias": "center",
     "publishedAt": "2026-08-22T09:11:01Z",
     "source": "Business Insider"
+  },
+  {
+    "id": "MzI=",
+    "url": "https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions",
+    "title": "Debian is Voting on Whether to Allow AI-Assisted Contributions",
+    "summary": "Despite all appearances, your boss is a thinking, feeling, human being.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-23T07:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/24/sponsored-ai-driven-upgrade-of-communications-energy-storage-empowers-a-new-energy-ecosystem-for-multiple-industries/5290186",
+    "title": "SPONSORED: AI-Driven Upgrade of Communications Energy Storage Empowers a New Energy Ecosystem for Multiple Industries",
+    "summary": "Its core hardware includes a dual liquid cooling cabinet BESS (battery energy storage system) and a containerized BESS.\n(battery management system; energy management system; power conversion system).\nDatacenter operators also have substantial energy storage infrastructure and are increasingly looking at PV and other renewable, behind-the-meter energy options.\nThis AI-powered integrated intelligent energy storage system is not limited to the telecommunication world.\nContinuous advances in energy storage technologies, AI algorithms and supportive new energy policies are paving the way for large-scale adoption of all-scenario intelligent energy storage.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-24T00:00:00Z",
+    "source": "Theregister.com"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation",
+    "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
+    "summary": "Despite all appearances, your boss is a thinking, feeling, human being.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-23T11:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NDU=",
+    "url": "https://www.bgr.com/2239786/how-far-away-can-you-hear-ai-data-center-noise/",
+    "title": "How Far Away Can You Hear AI Data Centers?",
+    "summary": "According to LSRS, noise from cooling fans and transformers alone can reach up to 80 decibels at the property line.\nMeanwhile, generator load tests, or power generators under a heavy load, can be heard up to a mile away.\nThe loud noise can be heard up to a mile away, but low-frequency noise stretches even further.\nThe sound dissipates the further away you go, but can still produce a low-frequency hum that can be heard miles and miles away.\nThat constant hum is the source of several health concerns for the neighbors of a data center.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-24T01:47:00Z",
+    "source": "BGR"
+  },
+  {
+    "id": "NDY=",
+    "url": "https://thenextweb.com/news/lges-solid-state-batteries-large-format-problem",
+    "title": "The company that just opened America\u2019s newest battery plant says solid-state cars are a decade away",
+    "summary": "The company that has just opened America\u2019s newest battery plant does not think solid-state cells are close for cars.\nSolid-state will appear in smartphones \u201cprobably a decade before you would see it in EVs,\u201d with specialised applications arriving before either cars or grid storage.\nProLogium broke ground in February on a 12 GWh solid-state plant in Dunkirk, and a Dutch startup won public money to develop a factory of its own.\nBYD, CATL, Geely and others are targeting pilot production of solid-state cells in 2027, with wider deployment hoped for by the end of the decade.\nIf large-format solid-state cells are a decade out, Europe\u2019s route back into batteries runs through incremental lithium-ion improvements it does not currently manufacture at scale.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-22T16:26:04Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NjU=",
+    "url": "https://www.foxnews.com/tech/trump-plan-taps-us-firms-fight-foreign-cybercrime",
+    "title": "Trump plan taps US firms to fight foreign cybercrime",
+    "summary": "Now the U.S. government wants to take the fight closer to some foreign criminal organizations behind cyber-enabled crime.\nThe new program is designed to give the federal government another way to pursue certain foreign criminal organizations involved in cyber-enabled crime.\nThe definition excludes organizations that are an institutional part of a foreign government or wholly operated under a foreign government's direction.\nParticipating companies must also be evaluated for continued participation at least once every year.\nNow I want to see what the final rules look like and how closely federal officials supervise participating companies once operations begin.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-08-22T22:56:44Z",
+    "source": "Fox News"
+  },
+  {
+    "id": "NzE=",
+    "url": "https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux",
+    "title": "China Joins Europe In Scrapping Windows For Linux",
+    "summary": "Despite all appearances, your boss is a thinking, feeling, human being.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-22T03:30:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NzQ=",
+    "url": "https://www.foxnews.com/tech/chinese-humanoid-robot-breaks-usain-bolt-100m-dash-record-9-39-seconds",
+    "title": "Chinese humanoid robot breaks Usain Bolt's 100m dash record at 9.39 seconds",
+    "summary": "The world's fastest man record was shattered on the first day of the World Humanoid Robot Games in Beijing on Saturday.\nSome spectators at the robot games said they were excited about the humanoid robots\u2019 quickly improving abilities.\nHumanoid robots are \"evolving rapidly,\" said Li Yanfeng, an education worker and a Beijing resident.\nUNITREE G1 HUMANOID ROBOT ICE SKATES AND ROLLERBLADES\"At first, I wasn\u2019t very accepting of artificial intelligence.\nThe U.S. has stepped up scrutiny of robots from China, which makes the majority of the world's humanoid robots.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-08-23T14:01:30Z",
+    "source": "Fox News"
   }
 ]
