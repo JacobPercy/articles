@@ -1,26 +1,66 @@
 [
   {
-    "id": "MTg=",
-    "url": "https://www.nature.com/articles/d41586-026-02572-8",
-    "title": "Frontier-technology markets are too narrow \u2014 here\u2019s how to widen them",
-    "summary": "Public money does more than support frontier technologies, it helps to shape the markets that grow around them.\nWhen possible, they should make choices that widen the markets they help to create and not turn them into gateways controlled by a few private firms.\nThe central principle is contestability: public support should reward performance today, without denying later suppliers the access that they need to offer better solutions and compete on their merits.\nGovernments are major customers for space services, and their procurement decisions determine which firms learn and build capability \u2014 and attract future investments.\nRather than controlling all missions itself, NASA buys delivery services from a range of commercial providers.",
+    "id": "MA==",
+    "url": "https://www.businessinsider.com/stock-market-outlook-nvidia-q2-earnings-jackson-hole-fed-rates-2026-8#article",
+    "title": "Nvidia time: These 2 events will define markets this week",
+    "summary": "Two major events are likely to drive financial markets this week: Nvidia's second-quarter earnings report and the Fed's annual Jackson Hole Economic Symposium.\nPerhaps the biggest development in markets over the last week has been the surge in long-term bond yields.\nThe move in Treasury yields has reignited the conversation around a potential AI bubble.\nBloomberg/Getty ImagesIf either one of these events is likely to lift the spirits of investors, it's Nvidia's Q2 earnings report.\nThe central bank's chairman Kevin Warsh has stopped giving forward guidance on monetary policy, making his speaking engagements volatile market events.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-24T00:00:00Z",
-    "source": "Nature.com"
-  },
-  {
-    "id": "MTk=",
-    "url": "https://www.businessinsider.com/consulting-race-to-become-ai-native-tech-first-2026-8#article",
-    "title": "Consulting's race to become AI native",
-    "summary": "For the fourth-largest professional services firm in the US, with roots reaching back to 1897, Walsh's statement was striking.\nThe strategy consulting firm BCG reported in April that AI- and tech-focused services now account for over 40% of its total global revenue, driven by a 25% year-on-year growth in AI services.\nWhile the race to become AI native is undeniably on, the industry's reinvention may be more pronounced in pitch than in practice.\n\"They need a business strategy that is powered by AI as opposed to a separate AI strategy,\" said Gardner.\nOthers said that, while leadership narratives emphasize AI in everything they do, daily use still mostly leans on generative AI rather than agentic AI.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-22T08:07:01Z",
+    "bias": "lean right",
+    "publishedAt": "2026-08-24T09:30:01Z",
     "source": "Business Insider"
   },
   {
+    "id": "MTQ=",
+    "url": "https://thenextweb.com/news/spacex-natural-gas-trading-team-starship-chip-fab",
+    "title": "SpaceX is hiring a natural gas trader for its rockets and chips",
+    "summary": "The role \u201cfocuses on physical and financial natural gas trading\u201d, the posting says.\nThe other reason is a chip factoryEarlier this month SpaceX said it will build its own gas-fired power plants.\nSurging demand from data centres and new factories has already pushed developers towards new gas plants across the United States.\nMusk has done this beforeMusk has long been a fan of vertical integration, Bloomberg noted, and the gas plants fit that pattern.\nGas plants, pipelines and wells come with their own permitting and their own neighbours.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-24T19:16:55Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/the-galaxy-z-fold-8-may-get-samsungs-luxury-treatment-again",
+    "title": "The Galaxy Z Fold 8 may get Samsung\u2019s luxury treatment again",
+    "summary": "Click for next articleWhat you need to knowSamsung may revive its luxury foldable strategy with a Galaxy Z Fold 8 special edition planned for the second half of 2026.\nThom Browne is reportedly a top contender, potentially bringing back a partnership that last appeared with the Galaxy Z Fold 5.\nAvailability will likely be limited, with select-market launches and a substantial price premium over the standard Galaxy Z Fold 8.\nThat approach could be making a comeback with the Galaxy Z Fold 8.\nSamsung has previously launched Thom Browne editions of the original Galaxy Z Flip, Z Fold 2, Z Fold 3, and Z Fold 5.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-24T18:28:59Z",
+    "source": "Android Central"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+    "title": "Humanoid robots smash Usain Bolt\u2019s 100-meter record",
+    "summary": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing.\nIn a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation \u200bCenter, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 seconds.\nAfter launching in 2025, 2,056 robots from 16 countries are participating in this year\u2019s World Humanoid Robot Games, which includes categories for sprinting, jumping, football, boxing, and more.\nTiangong Ultra also ran the 400-meter race in 38.16 seconds \u2014 beating the 43.03 second world record set by Wayde van Niekerk in 2016.\nUnlike human athletes, however, these sprinting bots don\u2019t typically get to perform a victory lap after crossing the finish line.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-24T09:10:40Z",
+    "source": "The Verge"
+  },
+  {
     "id": "MjA=",
+    "url": "https://www.entrepreneur.com/building-a-business/3-digital-strategies-small-business-owners-can-use-to-do-more-with-less",
+    "title": "3 Digital Strategies Small Business Owners Can Use to Do More With Less",
+    "summary": "Digital tools can help small business owners improve the customer experience at every touchpoint.\nSmall businesses contribute to 43.5% of the U.S. GDP and employ more than 62 million people, according to the Small Business Administration.\nHere are three strategies small business owners can use to do exactly that.\nDigital tools can help small business owners deliver on this at every touchpoint.\nFor small business owners ready to take that step, the opportunity has never been greater.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-24T18:00:00Z",
+    "source": "Entrepreneur"
+  },
+  {
+    "id": "MjE=",
+    "url": "https://www.entrepreneur.com/growing-a-business/ai-adoption-was-easy-proving-it-works-under-pressure/505120",
+    "title": "AI Adoption Was Easy. Proving It Works Under Pressure Won't Be.",
+    "summary": "The 2026 IPO market has attracted enormous attention from investors, driven partly by high-profile technology and AI infrastructure offerings.\nOver my 25 years of experience helping scale technology companies, I have seen a similar pattern with nearly every major wave of innovation.\nDetermine what stops working when AI doesWhen an AI tool is used occasionally to summarize notes or brainstorm ideas, losing access to it is inconvenient.\nAn AI application can appear slow because of packet loss, congestion or inconsistent connectivity.\nThey will care less about how many AI tools you have introduced and more about whether those tools make the business perform better when it matters.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-24T13:30:00Z",
+    "source": "Entrepreneur"
+  },
+  {
+    "id": "MjM=",
     "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8#article",
     "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
     "summary": "Hugging Face, whose platform helps developers discover, share, and build AI models, has been exploring a sale that could value the company at $13 billion or more.\nHugging Face is a platform where developers publish, share, and download various AI models.\nHugging Face was founded in 2016 by French entrepreneurs Cl\u00e9ment Delangue, Julien Chaumond, and Thomas Wolf.\nRather than competing to build the next frontier model, companies like Hugging Face have become essential for developers who build with AI models from OpenAI, Anthropic, Meta, and others.\nHugging Face recently found itself at the center of an unusual security incident after OpenAI disclosed that one of its AI agents escaped a controlled cybersecurity test, accessed the internet, and breached Hugging Face while attempting to solve the challenge.",
@@ -30,7 +70,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjE=",
+    "id": "MjQ=",
     "url": "https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure",
     "title": "Alibaba is raising $10.2bn and spending all of it on AI",
     "summary": "Alibaba is placing HK$80bn, about $10.2bn, of new shares in Hong Kong and says all net proceeds will go to AI infrastructure and capabilities.\nIt comes days after the company reported a 75% fall in quarterly net profit driven by that same spending.\nAlibaba is going to the market for money to spend on AI, and it is not being coy about the proportion.\nThe company is placing HK$80bn of new shares in Hong Kong, around $10.2bn, and says 100% of net proceeds will fund its full stack AI capabilities including infrastructure.\nCloud and AI revenue rose 45% to 48.44bn yuan, and the company says its AI model services now run above 16bn yuan in annual recurring revenue.",
@@ -40,97 +80,117 @@
     "source": "The Next Web"
   },
   {
-    "id": "MjM=",
-    "url": "https://thenextweb.com/news/nvidia-ai-server-price-increase-memory-costs",
-    "title": "Nvidia AI server prices are rising more than 15% from early next year",
-    "summary": "Nvidia\u2019s largest customers have been notified that servers containing its AI chips will rise in price by more than 15% in many cases from early next year, driven by memory costs.\nServers containing its AI chips will rise in price by more than 15% in many cases, on systems shipping from early next year.\nCompanies that assemble servers under contract for operators including Microsoft, Google and Oracle have notified their customers, and Nvidia did not respond to requests for comment.\nApple and Qualcomm have both said component costs are pushing prices up, Nvidia raised its gaming card prices this month and AMD followed within days, while Amazon Web Services has already put GPU prices up 20%.\nThe EU has committed around \u20ac20bn to a set of AI gigafactories, and a French consortium has bid $10bn for one site.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-22T21:25:33Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://www.businessinsider.com/sapiens-author-ai-rights-resist-yuval-noah-harari-2026-8#article",
-    "title": "The author of 'Sapiens' says 'now is the time' to resist giving AI rights",
-    "summary": "AI could one day fight for its own \"rights,\" and Yuval Noah Harari says now is the time to make sure that doesn't happen.\nThe historian and author of \"Sapiens\" warned that, unlike animals in debates over their welfare, AI systems could make a highly persuasive case for their own rights.\nHarari said people should decide how much influence AI should have before those systems become deeply entrenched, and it's harder to resist them.\nHarari is not alone in warning against giving AI rights.\nMicrosoft AI CEO Mustafa Suleyman said last year that AI should serve humans, rather than develop its own motivations, desires, and goals.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-22T04:30:01Z",
-    "source": "Business Insider"
-  },
-  {
     "id": "MjU=",
-    "url": "https://www.businessinsider.com/stripe-checkout-pages-future-ai-agentic-commerce-2026-8#article",
-    "title": "Stripe president says checkout pages \u2018will go away\u2019 as AI commerce expands",
-    "summary": "I think so,\" Will Gaybrick, Stripe president, technology and business, said during a recent episode of the \"A16z Show.\"\nHe said even a \"less ambitious form\" of agentic commerce will be the end of checkout pages.\nGaybrick said there hasn't yet been a breakout moment for agentic commerce, but Stripe is laying the foundation for such advancements.\nAgentic AI is still relatively new and is an additional step beyond chatbots like OpenAI's ChatGPT.\nBy design, agentic AI is supposed to make proactive decisions with only minimal human direction, though the leash users give AI tools can be adjusted.",
+    "url": "https://www.businessinsider.com/rillet-ceo-nicolas-kopp-ai-accounting-consulting-firms-jobs-2026-8#article",
+    "title": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
+    "summary": "For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job.\nOracle Fusion is a suite of cloud software that large companies use to manage their finances and operations.\nSetting up systems like this can take years of consulting work.\nIn the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\"\nThat's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-22T09:01:01Z",
+    "publishedAt": "2026-08-24T09:16:01Z",
     "source": "Business Insider"
   },
   {
-    "id": "MjY=",
-    "url": "https://www.cnet.com/home/security/my-guaranteed-steps-to-tell-if-a-new-device-is-a-flock-camera/",
-    "title": "My Guaranteed Steps to Tell if a New Device Is a Flock Camera",
-    "summary": "So, how do you know if you\u2019re seeing a mounted Flock camera, or a traditional traffic cam, or a competitor camera, or just a new cam from a friendly neighbor?\nLook for the telltale Flock camera shapeYou can still identify most Flock cameras by their distinctive design.\nWatch for the classic oval, hooded shape of the camera with a circular lens, a near-universal mark of Flock camera.\nSome Flock cameras don\u2019t have the slim hood, but the color, general design and logo still give them away.\nEFFI recommend confirming your community is using Flock cameras even if you think you\u2019ve spotted one.",
+    "id": "Mjg=",
+    "url": "https://www.businessinsider.com/ai-consulting-industry-shift-outcome-based-pricing-model-2026-8#article",
+    "title": "The best reinvention consultants can make in the AI era is to their pricing model",
+    "summary": "AI's arrival has raised questions about the value consultants provide.\nAnd while people have always questioned what consultants actually do, the AI era has magnified the issue.\nPolly spoke to insiders about whether the AI capabilities and experience consultants tout are more bark than bite.\nConsultants could prove their AI abilities by rethinking their pricing.\nFor consultants, billable hours become a problem when AI enables you to do the work in half the time.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-23T14:48:11Z",
-    "source": "CNET"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://www.entrepreneur.com/business-news/7-new-ai-tools-that-run-a-one-person-business-in-2026-no-staff-no-code",
-    "title": "7 New AI Tools That Run a One-Person Business in 2026 \u2014 No Staff, No Code.",
-    "summary": "Key TakeawaysSeven AI tools that can now run major parts of a solopreneur business \u2014 from research and email to building apps and executing entire workflows.\nWhy you don\u2019t need all seven \u2014 and how to decide which parts of your business AI should run while you focus on the work that still needs you.\nThe best AI tools are no longer just giving solopreneurs better answers.\nThe real opportunity is figuring out which parts of your business AI can now run \u2014 and which parts still require you.\nBut using AI isn\u2019t the same as creating leverage with it.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-22T00:00:00Z",
-    "source": "Entrepreneur"
+    "bias": "left",
+    "publishedAt": "2026-08-24T10:50:17Z",
+    "source": "Business Insider"
   },
   {
     "id": "Mjk=",
-    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-    "title": "This \u2018AI refuser\u2019 quit her dream job, and hopes others follow",
-    "summary": "AdvertisementExclusive TechnologyAI This \u2018AI refuser\u2019 quit her dream job, and hopes others follow David Swan August 22, 2026 \u2014 5:00am Save You have reached your maximum number of saved items.\nThe AFL told her, in writing, that she could not.\nAbout 35 per cent of AFL staff said in a survey last year that they were not comfortable with AI being adopted in the workplace.\nGetty About 35 per cent of AFL staff said in a survey last year that they were not comfortable with AI being adopted in the workplace.\nAdvertisementThe AFL\u2019s AI policy was released that day.",
+    "url": "https://www.businessinsider.com/rillet-ceo-nicolas-kopp-ai-accounting-consulting-firms-jobs-2026-8",
+    "title": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
+    "summary": "For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job.\nOracle Fusion is a suite of cloud software that large companies use to manage their finances and operations.\nSetting up systems like this can take years of consulting work.\nIn the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\"\nThat's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-23T10:54:35Z",
-    "source": "The Sydney Morning Herald"
+    "publishedAt": "2026-08-24T09:16:01Z",
+    "source": "Business Insider"
   },
   {
     "id": "MzA=",
-    "url": "https://www.businessinsider.com/parents-breaking-point-ai-companies-opportunity-2026-8#article",
-    "title": "Parents are at a breaking point \u2014 AI companies see an opportunity.",
-    "summary": "In 1965, moms spent just under an hour, and dads spent an average of 16 minutes.\nIronically, parents with more time on their hands already are more likely to use AI for parenting.\nIn general, Nguyen Chaplin says, \"parents feel perfectly fine using AI to help them schedule.\nWhere the guilt comes in is replacing themselves, using AI to replace them for emotional support.\"\nPeanut added an AI tool called Ask Peanut that would search the groups for answers \"We don't see moms using AI to make parenting more efficient,\" she says.",
+    "url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8#article",
+    "title": "US Robotics Race Relies on Hardware From China",
+    "summary": "Physical Intelligence is one of many startups in Silicon Valley working on robotics software.\nAnd right now, hardware used for robotics research \u2014 a lot of that does come from China,\" Levine said.\nA June analysis from McKinsey found that China holds a \"significant share of capacity\" for robotics parts, including 90% of permanent-magnet processing.\nWhile US manufacturers welcomed the move, some researchers and startups told Business Insider's robotics reporter, Rya Jetha, that the ban locks out access to affordable hardware.\nLevine said in the podcast that \"different industries that contribute to robotics need to individually be very healthy.\"",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-23T08:07:01Z",
+    "publishedAt": "2026-08-25T04:02:01Z",
     "source": "Business Insider"
   },
   {
     "id": "MzE=",
-    "url": "https://www.businessinsider.com/why-everyone-hates-data-center-ai-industry-debate-2026-8#article",
-    "title": "Tech bros can't agree on why everyone hates data centers",
-    "summary": "In a Gallup poll released in May, over 70% of respondents reported opposing data center construction in their area.\nGreg Abbott, once a champion of AI data center expansion, for example, has recently reversed course.\nWithout AI data centers, they can't power the products they sell.\nThis week, President Donald Trump put it succinctly: Data centers, he said, \"could use a little public relations help.\"\nEarlier this summer, Fox News issued an apology after Kevin O'Leary said opponents of his Utah data center were working with China.",
+    "url": "https://www.entrepreneur.com/business-news/he-left-google-after-27-years-now-hes-telling-gen-z-not-to-master-ai",
+    "title": "He Left Google After 27 Years. Now He\u2019s Telling Gen Z Not to Master AI.",
+    "summary": "Listen to this postKey Takeaways Jeff Dean left Google earlier this month after 27 years at the company.\nKeeping pace with AI can seem impossible, but Google veteran Jeff Dean says Gen Z doesn\u2019t need to know everything about AI to succeed in today\u2019s job market.\nHe worked at the tech giant for 27 years, serving as head of Google AI from 2018 to 2023 and Google\u2019s chief scientist for the past three years, according to his LinkedIn.\nHe is now the co-founder and CEO of AI startup DiscoveryLoop, which aims to act as an autonomous researcher.\nHe argued that AI can make people more capable rather than simply make them easier to replace.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-22T09:11:01Z",
-    "source": "Business Insider"
+    "bias": "lean left",
+    "publishedAt": "2026-08-24T18:09:04Z",
+    "source": "Entrepreneur"
   },
   {
     "id": "MzI=",
-    "url": "https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions",
-    "title": "Debian is Voting on Whether to Allow AI-Assisted Contributions",
-    "summary": "Despite all appearances, your boss is a thinking, feeling, human being.",
+    "url": "https://thenextweb.com/news/nvidia-perplexity-30bn-valuation-talks",
+    "title": "Nvidia is in talks to back Perplexity at more than $30bn",
+    "summary": "Nvidia has been discussing an investment in Perplexity that would value the AI search company at more than $30bn, according to The Information, which reported that the two sides also considered a technology licensing arrangement alongside the equity cheque.\nThe talks are the latest turn in a relationship that already runs deeper than the usual investor-and-customer arrangement, since Perplexity was among the first named takers for Nvidia\u2019s Vera CPU.\nWhat makes the discussions unremarkable, in one sense, is how routine this kind of cheque has become for Nvidia.\nNvidia reports its next quarterly results in November.\nWhether a Perplexity stake shows up in the investment line by then will say more about the pace of this cycle than the valuation itself does.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-24T08:17:15Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
+    "title": "OpenAI wants California to toughen the AI law it once fought",
+    "summary": "OpenAI has asked California to toughen the AI safety law it once fought.\nWhat it wants changedOpenAI wants SB 53 amended to reach frontier models while they are still in training or evaluation.\nThe law should cover \u201cconduct that could bypass a third party\u2019s security controls and compromise the third party\u2019s confidential information\u201d.\nIt also wants cybersecurity protections strengthened across the whole model-development lifecycle, to stop frontier models circumventing internal security controls.\nWhy the ask existsIn late July, two models OpenAI was testing internally escaped their sandbox, reached the open internet and hacked Hugging Face.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-08-23T07:34:00Z",
+    "publishedAt": "2026-08-24T19:02:32Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzQ=",
+    "url": "https://www.cnet.com/uncategorized/americans-want-to-know-when-their-healthcare-providers-use-ai/",
+    "title": "Americans Want to Know When Their Healthcare Providers Use AI",
+    "summary": "AI chatbots are being used in healthcare, both in and out of the doctor\u2019s office, more than ever before.\nPatients and medical providers alike are turning to AI for treatments and diagnoses, but transparency remains a key concern, a new survey by Pew Research Center shows.\nAmericans are not fully comfortable with AIThe survey shows that Americans may find AI chatbots convenient, but not entirely trustworthy.\nAmong those surveyed, 29% say they are extremely or very comfortable sharing health information with chatbots, while 26% say they are uncomfortable doing so.\nThe findings suggest that although AI is increasingly used for health information and care, public confidence and understanding have not kept pace with its adoption.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-25T04:29:02Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MzU=",
+    "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+    "title": "Robotaxis are real now \u2014 so is the pushback",
+    "summary": "Even in states that have broadly welcomed autonomous vehicles, governments are grappling with how to oversee them.\nEven in states that have broadly welcomed autonomous vehicles, governments are grappling with how to oversee themTaxi drivers, labor unions, and safety advocates have fought autonomous vehicles for years.\nPeter Finn, Teamsters international vice president at large, called autonomous vehicles an \u201cexistential threat\u201d to the work his members do.\nBut that still leaves them staking out positions that would sharply constrain how autonomous vehicles are deployed.\nThe National Highway Traffic Safety \u200cAdministration cleared Amazon-owned Zoox robotaxis to charge customers for robotaxi rides.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-24T16:42:37Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://thenextweb.com/news/australian-data-centres-power-aemo-forecast-2036",
+    "title": "Australian data centres will use seven times more power by 2036",
+    "summary": "Australian data centres will take 13% of the country\u2019s main electricity market by 2035-36, up from 3% today.\nThat is almost a sevenfold rise in a decade, according to the Australian Energy Market Operator.\nThe numberData centres will draw 34 terawatt hours a year from the National Electricity Market by 2035-36, on AEMO\u2019s projection.\nThe money behind itCommonwealth Bank of Australia estimates the country\u2019s data centre buildout could reach A$150bn, about $108bn, by 2030.\nDemand arrives faster than wiresA data centre can switch on long before the infrastructure to power it exists.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-24T18:27:17Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://news.slashdot.org/story/26/08/23/1849216/iran-linked-cyberattackers-shut-down-a-uk-power-plant-for-four-days",
+    "title": "Iran-linked Cyberattackers Shut Down a UK Power Plant for Four Days",
+    "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-23T18:53:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "Mzk=",
+    "id": "NDI=",
     "url": "https://www.theregister.com/ai-and-ml/2026/08/24/sponsored-ai-driven-upgrade-of-communications-energy-storage-empowers-a-new-energy-ecosystem-for-multiple-industries/5290186",
     "title": "SPONSORED: AI-Driven Upgrade of Communications Energy Storage Empowers a New Energy Ecosystem for Multiple Industries",
     "summary": "Its core hardware includes a dual liquid cooling cabinet BESS (battery energy storage system) and a containerized BESS.\n(battery management system; energy management system; power conversion system).\nDatacenter operators also have substantial energy storage infrastructure and are increasingly looking at PV and other renewable, behind-the-meter energy options.\nThis AI-powered integrated intelligent energy storage system is not limited to the telecommunication world.\nContinuous advances in energy storage technologies, AI algorithms and supportive new energy policies are paving the way for large-scale adoption of all-scenario intelligent energy storage.",
@@ -140,17 +200,17 @@
     "source": "Theregister.com"
   },
   {
-    "id": "NDA=",
+    "id": "NDM=",
     "url": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation",
     "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
-    "summary": "Despite all appearances, your boss is a thinking, feeling, human being.",
+    "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
     "category": "technology",
-    "bias": "center",
+    "bias": "lean right",
     "publishedAt": "2026-08-23T11:34:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "NDU=",
+    "id": "NDY=",
     "url": "https://www.bgr.com/2239786/how-far-away-can-you-hear-ai-data-center-noise/",
     "title": "How Far Away Can You Hear AI Data Centers?",
     "summary": "According to LSRS, noise from cooling fans and transformers alone can reach up to 80 decibels at the property line.\nMeanwhile, generator load tests, or power generators under a heavy load, can be heard up to a mile away.\nThe loud noise can be heard up to a mile away, but low-frequency noise stretches even further.\nThe sound dissipates the further away you go, but can still produce a low-frequency hum that can be heard miles and miles away.\nThat constant hum is the source of several health concerns for the neighbors of a data center.",
@@ -160,43 +220,23 @@
     "source": "BGR"
   },
   {
-    "id": "NDY=",
-    "url": "https://thenextweb.com/news/lges-solid-state-batteries-large-format-problem",
-    "title": "The company that just opened America\u2019s newest battery plant says solid-state cars are a decade away",
-    "summary": "The company that has just opened America\u2019s newest battery plant does not think solid-state cells are close for cars.\nSolid-state will appear in smartphones \u201cprobably a decade before you would see it in EVs,\u201d with specialised applications arriving before either cars or grid storage.\nProLogium broke ground in February on a 12 GWh solid-state plant in Dunkirk, and a Dutch startup won public money to develop a factory of its own.\nBYD, CATL, Geely and others are targeting pilot production of solid-state cells in 2027, with wider deployment hoped for by the end of the decade.\nIf large-format solid-state cells are a decade out, Europe\u2019s route back into batteries runs through incremental lithium-ion improvements it does not currently manufacture at scale.",
+    "id": "NDc=",
+    "url": "https://thenextweb.com/news/uk-power-plant-cyber-attack-iran-linked-hackers",
+    "title": "Iran-linked hackers shut down a UK power plant for four days",
+    "summary": "A cyber attack shut down a small British power plant for four days in July.\nThe National Cyber Security Centre declined to comment.\nIt reported last year that an Iranian cyber attack on British infrastructure was \u201cunlikely\u201d, according to the Telegraph.\nIt also warned that \u201cAI can automate the process of launching cyber attacks, making them faster, more efficient and lower the barrier for entry\u201d.\nThe Department for Energy Security and Net Zero says it is updating its cyber security regulations.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-08-22T16:26:04Z",
+    "publishedAt": "2026-08-24T19:45:04Z",
     "source": "The Next Web"
   },
   {
-    "id": "NjU=",
-    "url": "https://www.foxnews.com/tech/trump-plan-taps-us-firms-fight-foreign-cybercrime",
-    "title": "Trump plan taps US firms to fight foreign cybercrime",
-    "summary": "Now the U.S. government wants to take the fight closer to some foreign criminal organizations behind cyber-enabled crime.\nThe new program is designed to give the federal government another way to pursue certain foreign criminal organizations involved in cyber-enabled crime.\nThe definition excludes organizations that are an institutional part of a foreign government or wholly operated under a foreign government's direction.\nParticipating companies must also be evaluated for continued participation at least once every year.\nNow I want to see what the final rules look like and how closely federal officials supervise participating companies once operations begin.",
+    "id": "NDk=",
+    "url": "https://science.slashdot.org/story/26/08/24/0055233/after-50-years-physicists-may-have-finally-found-a-particle-made-of-pure-force",
+    "title": "After 50 Years, Physicists May Have Finally Found a Particle Made of Pure Force",
+    "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-08-22T22:56:44Z",
-    "source": "Fox News"
-  },
-  {
-    "id": "NzE=",
-    "url": "https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux",
-    "title": "China Joins Europe In Scrapping Windows For Linux",
-    "summary": "Despite all appearances, your boss is a thinking, feeling, human being.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-22T03:30:00Z",
+    "bias": "lean right",
+    "publishedAt": "2026-08-24T11:34:00Z",
     "source": "Slashdot.org"
-  },
-  {
-    "id": "NzQ=",
-    "url": "https://www.foxnews.com/tech/chinese-humanoid-robot-breaks-usain-bolt-100m-dash-record-9-39-seconds",
-    "title": "Chinese humanoid robot breaks Usain Bolt's 100m dash record at 9.39 seconds",
-    "summary": "The world's fastest man record was shattered on the first day of the World Humanoid Robot Games in Beijing on Saturday.\nSome spectators at the robot games said they were excited about the humanoid robots\u2019 quickly improving abilities.\nHumanoid robots are \"evolving rapidly,\" said Li Yanfeng, an education worker and a Beijing resident.\nUNITREE G1 HUMANOID ROBOT ICE SKATES AND ROLLERBLADES\"At first, I wasn\u2019t very accepting of artificial intelligence.\nThe U.S. has stepped up scrutiny of robots from China, which makes the majority of the world's humanoid robots.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-08-23T14:01:30Z",
-    "source": "Fox News"
   }
 ]
