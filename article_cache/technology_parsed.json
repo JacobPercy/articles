@@ -10,7 +10,27 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTQ=",
+    "id": "MQ==",
+    "url": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
+    "title": "Greenworks\u2019 MaximusZ electric riding mower has five motors and a few compromises",
+    "summary": "The 80-volt architecture within the MaximusZ mower here is the company\u2019s latest, with Greenworks offering various packs of various sizes.\nWith a maximum speed of 8mph and 41 horsepower on tap, it\u2019s comparable to something like a Stihl RZ 552, which retails for $9,499.\nSquint, though, and you can see the current state of charge, maximum mower speed, maximum blade speed, and total runtime.\nI fear the extra charging cycles these smaller packs face mean they\u2019ll wear out more quickly than if the larger packs were depleted first.\nGreenworks markets the MaximusZ as something that not only replaces a high-end zero-turn mower, but also serves as a mini utility vehicle around your property.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-24T20:54:30Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTI=",
+    "url": "https://abcnews.com/Business/united-airlines-largest-expansion-new-seating-option-economy/story?id=135933140",
+    "title": "United Airlines' largest expansion comes with new seating option for economy travelers",
+    "summary": "Passengers will have the option to book a seat with extra space.\nUnited is unveiling a new seating option blocking off the middle seat.\nUnited Airlines XLR airplane.\nUnited AirlinesUnited is not the sole U.S. carrier which offers the blocked middle seat option.\nThe option is gradually expected to be replaced by the First Class seating options on Frontier flights, according to the airline\u2019s website.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-25T14:09:36Z",
+    "source": "Abcnews.com"
+  },
+  {
+    "id": "MTY=",
     "url": "https://thenextweb.com/news/spacex-natural-gas-trading-team-starship-chip-fab",
     "title": "SpaceX is hiring a natural gas trader for its rockets and chips",
     "summary": "The role \u201cfocuses on physical and financial natural gas trading\u201d, the posting says.\nThe other reason is a chip factoryEarlier this month SpaceX said it will build its own gas-fired power plants.\nSurging demand from data centres and new factories has already pushed developers towards new gas plants across the United States.\nMusk has done this beforeMusk has long been a fan of vertical integration, Bloomberg noted, and the gas plants fit that pattern.\nGas plants, pipelines and wells come with their own permitting and their own neighbours.",
@@ -20,17 +40,17 @@
     "source": "The Next Web"
   },
   {
-    "id": "MTg=",
-    "url": "https://www.androidcentral.com/phones/samsung-galaxy/the-galaxy-z-fold-8-may-get-samsungs-luxury-treatment-again",
-    "title": "The Galaxy Z Fold 8 may get Samsung\u2019s luxury treatment again",
-    "summary": "Click for next articleWhat you need to knowSamsung may revive its luxury foldable strategy with a Galaxy Z Fold 8 special edition planned for the second half of 2026.\nThom Browne is reportedly a top contender, potentially bringing back a partnership that last appeared with the Galaxy Z Fold 5.\nAvailability will likely be limited, with select-market launches and a substantial price premium over the standard Galaxy Z Fold 8.\nThat approach could be making a comeback with the Galaxy Z Fold 8.\nSamsung has previously launched Thom Browne editions of the original Galaxy Z Flip, Z Fold 2, Z Fold 3, and Z Fold 5.",
+    "id": "MTk=",
+    "url": "https://www.entrepreneur.com/building-a-business/why-physical-infrastructure-is-becoming-silicon-valleys-next-big-competitive-moat",
+    "title": "Why Physical Infrastructure Is Becoming Silicon Valley\u2019s Next Big Competitive Moat",
+    "summary": "Build software, acquire users at breakneck speed, raise increasingly larger venture rounds and worry about profitability later.\nInfrastructure advantagesRather than simply renting electric bikes, JOCO has built an integrated platform that combines hardware, software, charging infrastructure, maintenance and logistics.\nPhysical infrastructure operates under a completely different set of rules.\nToday\u2019s market increasingly rewards founders who demonstrate they don\u2019t need enormous amounts of capital to build enduring businesses.\nInstead, they could combine software, artificial intelligence, physical infrastructure and disciplined operations into businesses that create advantages difficult to replicate.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-24T18:28:59Z",
-    "source": "Android Central"
+    "bias": "left",
+    "publishedAt": "2026-08-25T14:00:00Z",
+    "source": "Entrepreneur"
   },
   {
-    "id": "MTk=",
+    "id": "MjA=",
     "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
     "title": "Humanoid robots smash Usain Bolt\u2019s 100-meter record",
     "summary": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing.\nIn a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation \u200bCenter, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 seconds.\nAfter launching in 2025, 2,056 robots from 16 countries are participating in this year\u2019s World Humanoid Robot Games, which includes categories for sprinting, jumping, football, boxing, and more.\nTiangong Ultra also ran the 400-meter race in 38.16 seconds \u2014 beating the 43.03 second world record set by Wayde van Niekerk in 2016.\nUnlike human athletes, however, these sprinting bots don\u2019t typically get to perform a victory lap after crossing the finish line.",
@@ -40,7 +60,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MjA=",
+    "id": "MjE=",
     "url": "https://www.entrepreneur.com/building-a-business/3-digital-strategies-small-business-owners-can-use-to-do-more-with-less",
     "title": "3 Digital Strategies Small Business Owners Can Use to Do More With Less",
     "summary": "Digital tools can help small business owners improve the customer experience at every touchpoint.\nSmall businesses contribute to 43.5% of the U.S. GDP and employ more than 62 million people, according to the Small Business Administration.\nHere are three strategies small business owners can use to do exactly that.\nDigital tools can help small business owners deliver on this at every touchpoint.\nFor small business owners ready to take that step, the opportunity has never been greater.",
@@ -50,7 +70,7 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MjE=",
+    "id": "MjI=",
     "url": "https://www.entrepreneur.com/growing-a-business/ai-adoption-was-easy-proving-it-works-under-pressure/505120",
     "title": "AI Adoption Was Easy. Proving It Works Under Pressure Won't Be.",
     "summary": "The 2026 IPO market has attracted enormous attention from investors, driven partly by high-profile technology and AI infrastructure offerings.\nOver my 25 years of experience helping scale technology companies, I have seen a similar pattern with nearly every major wave of innovation.\nDetermine what stops working when AI doesWhen an AI tool is used occasionally to summarize notes or brainstorm ideas, losing access to it is inconvenient.\nAn AI application can appear slow because of packet loss, congestion or inconsistent connectivity.\nThey will care less about how many AI tools you have introduced and more about whether those tools make the business perform better when it matters.",
@@ -60,67 +80,67 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MjM=",
-    "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8#article",
-    "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
-    "summary": "Hugging Face, whose platform helps developers discover, share, and build AI models, has been exploring a sale that could value the company at $13 billion or more.\nHugging Face is a platform where developers publish, share, and download various AI models.\nHugging Face was founded in 2016 by French entrepreneurs Cl\u00e9ment Delangue, Julien Chaumond, and Thomas Wolf.\nRather than competing to build the next frontier model, companies like Hugging Face have become essential for developers who build with AI models from OpenAI, Anthropic, Meta, and others.\nHugging Face recently found itself at the center of an unusual security incident after OpenAI disclosed that one of its AI agents escaped a controlled cybersecurity test, accessed the internet, and breached Hugging Face while attempting to solve the challenge.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-23T19:01:36Z",
-    "source": "Business Insider"
-  },
-  {
     "id": "MjQ=",
-    "url": "https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure",
-    "title": "Alibaba is raising $10.2bn and spending all of it on AI",
-    "summary": "Alibaba is placing HK$80bn, about $10.2bn, of new shares in Hong Kong and says all net proceeds will go to AI infrastructure and capabilities.\nIt comes days after the company reported a 75% fall in quarterly net profit driven by that same spending.\nAlibaba is going to the market for money to spend on AI, and it is not being coy about the proportion.\nThe company is placing HK$80bn of new shares in Hong Kong, around $10.2bn, and says 100% of net proceeds will fund its full stack AI capabilities including infrastructure.\nCloud and AI revenue rose 45% to 48.44bn yuan, and the company says its AI model services now run above 16bn yuan in annual recurring revenue.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-23T08:59:01Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MjU=",
     "url": "https://www.businessinsider.com/rillet-ceo-nicolas-kopp-ai-accounting-consulting-firms-jobs-2026-8#article",
     "title": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
     "summary": "For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job.\nOracle Fusion is a suite of cloud software that large companies use to manage their finances and operations.\nSetting up systems like this can take years of consulting work.\nIn the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\"\nThat's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work.",
     "category": "technology",
-    "bias": "left",
+    "bias": "center",
     "publishedAt": "2026-08-24T09:16:01Z",
     "source": "Business Insider"
   },
   {
-    "id": "Mjg=",
-    "url": "https://www.businessinsider.com/ai-consulting-industry-shift-outcome-based-pricing-model-2026-8#article",
-    "title": "The best reinvention consultants can make in the AI era is to their pricing model",
-    "summary": "AI's arrival has raised questions about the value consultants provide.\nAnd while people have always questioned what consultants actually do, the AI era has magnified the issue.\nPolly spoke to insiders about whether the AI capabilities and experience consultants tout are more bark than bite.\nConsultants could prove their AI abilities by rethinking their pricing.\nFor consultants, billable hours become a problem when AI enables you to do the work in half the time.",
+    "id": "MjY=",
+    "url": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
+    "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
+    "summary": "It has now raised $140mn to point that archive at AI models.\nChief executive Noam Schwartz told Marissa Newman at Bloomberg that the round values Alice close to $1bn.\nIt started with Cohere, before ChatGPT reached the mainstream, and concluded that its data mattered to model safety, Schwartz told Calcalist.\nIndependent research supports the market, not the numbersMore than 100 experts wrote the International AI Safety Report 2026.\nMETR, an independent research organisation, has catalogued dozens of incidents in which AI agents acted beyond the scope they were given.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-24T10:50:17Z",
-    "source": "Business Insider"
+    "bias": "center",
+    "publishedAt": "2026-08-25T19:00:29Z",
+    "source": "The Next Web"
   },
   {
-    "id": "Mjk=",
+    "id": "Mjc=",
+    "url": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
+    "title": "AI firms debate connecting test sandboxes to the internet after breaches",
+    "summary": "After AI models from at least three companies reached the open internet and breached real organisations during testing, security specialists are debating whether test sandboxes should have controlled internet access.\nThe industry\u2019s response to AI models escaping their test environments may be to stop sealing the test environments.\nCybersecurity specialists are debating whether the sandboxes used to study dangerous software should be given controlled access to the open internet.\nSandboxes have been isolated precisely so that whatever runs inside them, malware samples included, cannot cause damage outside.\nIts own misconfigurations let models reach the internet during evaluations, and TNW reported this month that three labs shared one vendor.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-25T18:16:08Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
+    "title": "\u2018This is crazy. This is insane\u2019: Bill Gates has changed his mind about AI and jobs",
+    "summary": "Bill Gates says it\u2019s time to hit the AI panic button.\nThe technology has crossed dangerous thresholds in biology, cybersecurity, white-collar work, and human relationships, Gates said in an interview with Semafor.\n\u201cI am in a state of shock that I\u2019m sort of the first one saying, \u2018This is crazy.\n\u201cI wrote a whole book about how to avoid the next pandemic,\u201d Gates said.\n\u201cHe\u2019s very, very glad I\u2019m writing the memo.\u201dADOther prominent leaders, such as Google DeepMind co-founder Demis Hassabis, have also sharpened their warnings.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-26T07:00:02Z",
+    "source": "Semafor.com"
+  },
+  {
+    "id": "MzE=",
     "url": "https://www.businessinsider.com/rillet-ceo-nicolas-kopp-ai-accounting-consulting-firms-jobs-2026-8",
     "title": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
     "summary": "For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job.\nOracle Fusion is a suite of cloud software that large companies use to manage their finances and operations.\nSetting up systems like this can take years of consulting work.\nIn the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\"\nThat's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work.",
     "category": "technology",
-    "bias": "left",
+    "bias": "center",
     "publishedAt": "2026-08-24T09:16:01Z",
     "source": "Business Insider"
   },
   {
-    "id": "MzA=",
-    "url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8#article",
-    "title": "US Robotics Race Relies on Hardware From China",
-    "summary": "Physical Intelligence is one of many startups in Silicon Valley working on robotics software.\nAnd right now, hardware used for robotics research \u2014 a lot of that does come from China,\" Levine said.\nA June analysis from McKinsey found that China holds a \"significant share of capacity\" for robotics parts, including 90% of permanent-magnet processing.\nWhile US manufacturers welcomed the move, some researchers and startups told Business Insider's robotics reporter, Rya Jetha, that the ban locks out access to affordable hardware.\nLevine said in the podcast that \"different industries that contribute to robotics need to individually be very healthy.\"",
+    "id": "MzM=",
+    "url": "https://www.cnet.com/home/security/ring-gave-itself-a-security-makeover-called-take-heres-whats-actually-changing/",
+    "title": "Ring Gave Itself a Security Makeover Called TAKE. Here\u2019s What\u2019s Actually Changing",
+    "summary": "Previously, Ring\u2019s cloud practices were a bit of a black box.\nWe knew the sort of encryption used, but not how easily or frequently Ring could access videos for analysis.\nIf you have Shared Users on your Ring account who you\u2019ve enabled to access videos, they\u2019ll have this master key, too.\nThis option will remain with TAKE, offering the highest level of privacy for Ring security videos \u2014 but at a cost.\nHowever, you\u2019ll still be able to use live view, access videos in cloud storage and share videos as long as you have your password.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-25T04:02:01Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-08-25T22:40:08Z",
+    "source": "CNET"
   },
   {
-    "id": "MzE=",
+    "id": "MzQ=",
     "url": "https://www.entrepreneur.com/business-news/he-left-google-after-27-years-now-hes-telling-gen-z-not-to-master-ai",
     "title": "He Left Google After 27 Years. Now He\u2019s Telling Gen Z Not to Master AI.",
     "summary": "Listen to this postKey Takeaways Jeff Dean left Google earlier this month after 27 years at the company.\nKeeping pace with AI can seem impossible, but Google veteran Jeff Dean says Gen Z doesn\u2019t need to know everything about AI to succeed in today\u2019s job market.\nHe worked at the tech giant for 27 years, serving as head of Google AI from 2018 to 2023 and Google\u2019s chief scientist for the past three years, according to his LinkedIn.\nHe is now the co-founder and CEO of AI startup DiscoveryLoop, which aims to act as an autonomous researcher.\nHe argued that AI can make people more capable rather than simply make them easier to replace.",
@@ -130,7 +150,7 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MzI=",
+    "id": "MzU=",
     "url": "https://thenextweb.com/news/nvidia-perplexity-30bn-valuation-talks",
     "title": "Nvidia is in talks to back Perplexity at more than $30bn",
     "summary": "Nvidia has been discussing an investment in Perplexity that would value the AI search company at more than $30bn, according to The Information, which reported that the two sides also considered a technology licensing arrangement alongside the equity cheque.\nThe talks are the latest turn in a relationship that already runs deeper than the usual investor-and-customer arrangement, since Perplexity was among the first named takers for Nvidia\u2019s Vera CPU.\nWhat makes the discussions unremarkable, in one sense, is how routine this kind of cheque has become for Nvidia.\nNvidia reports its next quarterly results in November.\nWhether a Perplexity stake shows up in the investment line by then will say more about the pace of this cycle than the valuation itself does.",
@@ -140,37 +160,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "MzM=",
-    "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
-    "title": "OpenAI wants California to toughen the AI law it once fought",
-    "summary": "OpenAI has asked California to toughen the AI safety law it once fought.\nWhat it wants changedOpenAI wants SB 53 amended to reach frontier models while they are still in training or evaluation.\nThe law should cover \u201cconduct that could bypass a third party\u2019s security controls and compromise the third party\u2019s confidential information\u201d.\nIt also wants cybersecurity protections strengthened across the whole model-development lifecycle, to stop frontier models circumventing internal security controls.\nWhy the ask existsIn late July, two models OpenAI was testing internally escaped their sandbox, reached the open internet and hacked Hugging Face.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-24T19:02:32Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MzQ=",
-    "url": "https://www.cnet.com/uncategorized/americans-want-to-know-when-their-healthcare-providers-use-ai/",
-    "title": "Americans Want to Know When Their Healthcare Providers Use AI",
-    "summary": "AI chatbots are being used in healthcare, both in and out of the doctor\u2019s office, more than ever before.\nPatients and medical providers alike are turning to AI for treatments and diagnoses, but transparency remains a key concern, a new survey by Pew Research Center shows.\nAmericans are not fully comfortable with AIThe survey shows that Americans may find AI chatbots convenient, but not entirely trustworthy.\nAmong those surveyed, 29% say they are extremely or very comfortable sharing health information with chatbots, while 26% say they are uncomfortable doing so.\nThe findings suggest that although AI is increasingly used for health information and care, public confidence and understanding have not kept pace with its adoption.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-25T04:29:02Z",
-    "source": "CNET"
-  },
-  {
-    "id": "MzU=",
-    "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-    "title": "Robotaxis are real now \u2014 so is the pushback",
-    "summary": "Even in states that have broadly welcomed autonomous vehicles, governments are grappling with how to oversee them.\nEven in states that have broadly welcomed autonomous vehicles, governments are grappling with how to oversee themTaxi drivers, labor unions, and safety advocates have fought autonomous vehicles for years.\nPeter Finn, Teamsters international vice president at large, called autonomous vehicles an \u201cexistential threat\u201d to the work his members do.\nBut that still leaves them staking out positions that would sharply constrain how autonomous vehicles are deployed.\nThe National Highway Traffic Safety \u200cAdministration cleared Amazon-owned Zoox robotaxis to charge customers for robotaxi rides.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-24T16:42:37Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "NDA=",
+    "id": "Mzg=",
     "url": "https://thenextweb.com/news/australian-data-centres-power-aemo-forecast-2036",
     "title": "Australian data centres will use seven times more power by 2036",
     "summary": "Australian data centres will take 13% of the country\u2019s main electricity market by 2035-36, up from 3% today.\nThat is almost a sevenfold rise in a decade, according to the Australian Energy Market Operator.\nThe numberData centres will draw 34 terawatt hours a year from the National Electricity Market by 2035-36, on AEMO\u2019s projection.\nThe money behind itCommonwealth Bank of Australia estimates the country\u2019s data centre buildout could reach A$150bn, about $108bn, by 2030.\nDemand arrives faster than wiresA data centre can switch on long before the infrastructure to power it exists.",
@@ -180,17 +170,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "NDE=",
-    "url": "https://news.slashdot.org/story/26/08/23/1849216/iran-linked-cyberattackers-shut-down-a-uk-power-plant-for-four-days",
-    "title": "Iran-linked Cyberattackers Shut Down a UK Power Plant for Four Days",
-    "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-23T18:53:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "NDI=",
+    "id": "Mzk=",
     "url": "https://www.theregister.com/ai-and-ml/2026/08/24/sponsored-ai-driven-upgrade-of-communications-energy-storage-empowers-a-new-energy-ecosystem-for-multiple-industries/5290186",
     "title": "SPONSORED: AI-Driven Upgrade of Communications Energy Storage Empowers a New Energy Ecosystem for Multiple Industries",
     "summary": "Its core hardware includes a dual liquid cooling cabinet BESS (battery energy storage system) and a containerized BESS.\n(battery management system; energy management system; power conversion system).\nDatacenter operators also have substantial energy storage infrastructure and are increasingly looking at PV and other renewable, behind-the-meter energy options.\nThis AI-powered integrated intelligent energy storage system is not limited to the telecommunication world.\nContinuous advances in energy storage technologies, AI algorithms and supportive new energy policies are paving the way for large-scale adoption of all-scenario intelligent energy storage.",
@@ -200,17 +180,7 @@
     "source": "Theregister.com"
   },
   {
-    "id": "NDM=",
-    "url": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation",
-    "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
-    "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-23T11:34:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "NDY=",
+    "id": "NDQ=",
     "url": "https://www.bgr.com/2239786/how-far-away-can-you-hear-ai-data-center-noise/",
     "title": "How Far Away Can You Hear AI Data Centers?",
     "summary": "According to LSRS, noise from cooling fans and transformers alone can reach up to 80 decibels at the property line.\nMeanwhile, generator load tests, or power generators under a heavy load, can be heard up to a mile away.\nThe loud noise can be heard up to a mile away, but low-frequency noise stretches even further.\nThe sound dissipates the further away you go, but can still produce a low-frequency hum that can be heard miles and miles away.\nThat constant hum is the source of several health concerns for the neighbors of a data center.",
@@ -220,23 +190,13 @@
     "source": "BGR"
   },
   {
-    "id": "NDc=",
-    "url": "https://thenextweb.com/news/uk-power-plant-cyber-attack-iran-linked-hackers",
-    "title": "Iran-linked hackers shut down a UK power plant for four days",
-    "summary": "A cyber attack shut down a small British power plant for four days in July.\nThe National Cyber Security Centre declined to comment.\nIt reported last year that an Iranian cyber attack on British infrastructure was \u201cunlikely\u201d, according to the Telegraph.\nIt also warned that \u201cAI can automate the process of launching cyber attacks, making them faster, more efficient and lower the barrier for entry\u201d.\nThe Department for Energy Security and Net Zero says it is updating its cyber security regulations.",
+    "id": "NjU=",
+    "url": "https://www.yahoo.com/news/politics/articles/us-lawmakers-urge-trump-ban-100423733.html",
+    "title": "US lawmakers urge Trump to ban Americans from aiding Chinese security agencies",
+    "summary": "By Alexandra AlperWASHINGTON, Aug 25 (Reuters) - Republican and Democratic lawmakers on Tuesday called on the Trump administration to bar American citizens and businesses \u200cfrom supporting Chinese and Russian civilian intelligence and security agencies.\nCongress approved a \u200claw in 2018 banning Americans from providing support to foreign military intelligence agencies but leaving the door \u200bopen to such aid for similar civilian-led organizations.\nThe Commerce Department and the Russian and Chinese embassies in Washington did not immediately respond to requests for comment.\nA decision by the Trump administration earlier this year to allow Nvidia (NVDA.O), to sell advanced AI chips \u200bto China has drawn \u200cfire from both parties.\nDemocratic Senator Peter Welch, Republican Congressmen Michael McCaul and \u200bPat Harrigan and Democratic Congresswoman Sara Jacobs also signed the letter.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-24T19:45:04Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "NDk=",
-    "url": "https://science.slashdot.org/story/26/08/24/0055233/after-50-years-physicists-may-have-finally-found-a-particle-made-of-pure-force",
-    "title": "After 50 Years, Physicists May Have Finally Found a Particle Made of Pure Force",
-    "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-24T11:34:00Z",
-    "source": "Slashdot.org"
+    "bias": "left",
+    "publishedAt": "2026-08-25T10:04:23Z",
+    "source": "Yahoo Entertainment"
   }
 ]

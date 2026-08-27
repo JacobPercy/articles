@@ -17,7 +17,7 @@
       "url": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
       "title": "Greenworks\u2019 MaximusZ electric riding mower has five motors and a few compromises",
       "summary": "The 80-volt architecture within the MaximusZ mower here is the company\u2019s latest, with Greenworks offering various packs of various sizes.\nWith a maximum speed of 8mph and 41 horsepower on tap, it\u2019s comparable to something like a Stihl RZ 552, which retails for $9,499.\nSquint, though, and you can see the current state of charge, maximum mower speed, maximum blade speed, and total runtime.\nI fear the extra charging cycles these smaller packs face mean they\u2019ll wear out more quickly than if the larger packs were depleted first.\nGreenworks markets the MaximusZ as something that not only replaces a high-end zero-turn mower, but also serves as a mini utility vehicle around your property.",
-      "category": "environment",
+      "category": "technology",
       "bias": "lean right",
       "publishedAt": "2026-08-24T20:54:30Z",
       "source": "The Verge"
@@ -26,6 +26,18 @@
   {
     "article": {
       "id": "Mg==",
+      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo",
+      "title": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
+      "summary": "The US says it has launched an \"economic onslaught against Iran's financial connections around the globe\".\nHowever, Bessent's announcement of what he termed an \"economic D-Day\" may have sounded more dramatic in Washington than in Tehran.\nShortly after the announcement, Iran's Economy Minister Ali Madanizadeh called it \"the same old talk\" and said Iran was ready for \"every scenario\".\nIf the sanctions fail, Bessent's announcement could strengthen those inside Iran who oppose a deal with the US.\nThey could argue that Washington has returned to economic pressure because its other choices are limited.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-08-25T12:37:53Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "Mw==",
       "url": "https://finance.yahoo.com/economy/policy/articles/five-six-months-war-093306852.html",
       "title": "Take Five: Six months of war",
       "summary": "Aug 21 (Reuters) - The world's top central bank chiefs gather in Jackson Hole this week against a jittery backdrop, half a year into the Iran war and with bond markets rattled by a selloff in long-dated U.S. debt that prompted U.S. Treasury intervention.\nAs the gathering kicks off on Thursday, bringing together central bank chiefs from around the world, the audience for his remarks could hardly be more influential.\nBrent is headed for a second straight weekly gain and its sixth advance in eight weeks, but it's the surge in refined products \u2060that is drawing growing attention as the Northern Hemisphere heads towards the colder months.\nEuropean diesel prices have jumped more than 70% since the outbreak of war in February; U.S. gasoline is up 60%.\nWith refining output curtailed in the Middle East, Russia, East Asia and beyond, energy-driven inflation looks here to stay.",
@@ -37,50 +49,38 @@
   },
   {
     "article": {
-      "id": "Mw==",
-      "url": "https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely",
-      "title": "Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely",
-      "summary": "Put your Nose to the Grindstone!\n-- Amalgamated Plastic Surgeons and Toolmakers, Ltd.",
+      "id": "NA==",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trump-plans-grow-way-40-105105386.html",
+      "title": "Trump plans to grow his way out of $40 trillion debt crisis\u2014it\u2019s a \u2018fantastic story\u2019 but virtually impossible, says top budget economist",
+      "summary": "The U.S. national debt has hit $40 trillion, and the Trump administration is facing questions about its budget plans as a result.\nThe good news is, there has one: The American economy will apparently grow its way out of any fiscal crisis.\nAnd the way you take care of debt is with growth, and we have tremendous growth.\nWhen the alternative is cutting borrowing and, as a result, government spending, the growth plan is a more optimistic and politically palatable route.\nTrump later suggested a \"golden visa\" strategy\u2014selling rich immigrants visas at $5 million each\u2014could pay down the national debt.",
       "category": "economics",
-      "bias": "center",
-      "publishedAt": "2026-08-23T16:34:00Z",
-      "source": "Slashdot.org"
+      "bias": "right",
+      "publishedAt": "2026-08-25T10:51:05Z",
+      "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NA==",
+      "id": "NQ==",
       "url": "https://www.businessinsider.com/china-apps-inviting-west-insular-internet-economy-2026-8#article",
       "title": "China's biggest apps are inviting the West closer into its insular internet economy",
       "summary": "For decades, China's internet economy has been a gated-off party.\nWhile China has long since invited foreign businesses to set up shop within its borders, its internet has been closed off.\nBecause China's digital payment ecosystem is integrated into these social media apps, payment in the country is a challenge for foreigners, too.\nBut recent developments have pointed to a trend of China finally opening its doors and letting foreigners take small steps into its internet economy.\nWeixin, also known as WeChat, is owned by the Chinese tech conglomerate Tencent.",
       "category": "international",
-      "bias": "lean left",
+      "bias": "center",
       "publishedAt": "2026-08-25T05:47:57Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "NQ==",
-      "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko",
-      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-      "summary": "Governor Abdullah Sarhadi gives money to treat a boy's broken arm and hands out funds for a local mosque - then, in his office in northern Afghanistan, an astonishing exchange unfolds.\nA young woman tells the grey-bearded former Taliban commander that she wants to divorce her husband, who she accuses of months of abuse and beatings.\n\"If there was any chance to live together, I wouldn't be here\u2026 I have taken my decision,\" she says.\nAfter trying to persuade her to avoid divorce, the governor later comments that women are \"mindless\" and \"deficient in intellect\", to laughter from the male officials, bodyguards and elders around him.\nThe moment gives a rare glimpse into the day-to-day realities of the Taliban's rule, five years after they swept aside the US-backed government in 2021.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-08-24T05:00:22Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
       "id": "Ng==",
-      "url": "https://www.yahoo.com/news/world/articles/irans-rial-currency-hits-record-082717859.html",
-      "title": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran",
-      "summary": "President Donald Trump's pledge last week to unleash an \"economic D-Day\" against Tehran turned out to be new warnings to cut off Iran from the rest of the global economy.\n\"Thus far, despite threatening severe economic consequences for countries that do business with Iran, he has largely given China a pass.\"\nStill, economic pressure has not yet translated into political pressure.\nOman's foreign minister is set to visit Iran on Tuesday.\nAssociated Press writers Nasser Karimi in Tehran, Iran; David Rising in Dubai, United Arab Emirates; Seung Min Kim and Konstantin Toropin in Washington; and Munir Ahmed in Islamabad contributed.",
+      "url": "https://www.bbc.co.uk/news/videos/c07lel35rllo",
+      "title": "What are the US sanctions on Iran and who else will be affected?",
+      "summary": "On Monday, US Treasury Secretary Scott Bessent, announced an \"economic D-day\" against Iran, with further sanctions on the regime and countries doing business with it.\nIranian Economy Minister Ali Madanizadeh said Tehran was \"fully prepared\" for the sanctions, which he said would lead to \"another defeat\" for the US.\nIranians have felt the brunt of decades of sanctions, which left its economy in tatters.\nThe BBC's business editor Simon Jack described Washington's move as the \"financial equivalent of a military attack using money, not missiles.\"\nand explains what the last development could mean for Iran.",
       "category": "economics",
       "bias": "left",
-      "publishedAt": "2026-08-24T08:27:17Z",
-      "source": "Yahoo Entertainment"
+      "publishedAt": "2026-08-25T13:46:28Z",
+      "source": "BBC News"
     }
   },
   {
@@ -110,42 +110,54 @@
   {
     "article": {
       "id": "OQ==",
-      "url": "https://finance.yahoo.com/economy/articles/russia-suffering-slow-motion-bank-231531238.html",
-      "title": "Russia is suffering from a slow-motion bank run as the Kremlin scavenges for war funding\u2014and it may start seizing recruits for the military too",
-      "summary": "In the first half of August, Russians withdrew $3.4 billion (286.4 billion rubles), according to central bank data cited by the Washington Post.\nThat's after $7.3 billion was withdrawn in July and $4.5 billion in June.\nThe bank run in Russia may not be as dramatic or precipitous.\nBack then, Russia was flush with cash and expected to pay for a short war.\nMoscow has directed banks to offer capital to the defense industry, but many of those loans turned into bad debts.",
+      "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8#article",
+      "title": "Sam Altman says the economy is adapting to AI slower than he expected",
+      "summary": "Sam Altman says he misjudged how quickly AI would scramble the economy.\n\"I think it means we've all been too ambitious on timelines,\" Altman said.\nAI labs \u2014 including OpenAI and Anthropic \u2014 have spent years promoting the technology's potential to make companies leaner, start new businesses with fewer employees, and transform the economy.\nAnthropic's CEO Dario Amodei famously said the tech could eliminate 50% of all entry-level white-collar work in five years.\nSilicon Valley's AI predictions have had sweeping impacts, with consequences reverberating all the way to Wall Street.",
       "category": "economics",
       "bias": "center",
-      "publishedAt": "2026-08-23T23:15:31Z",
-      "source": "Yahoo Entertainment"
+      "publishedAt": "2026-08-25T15:09:20Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MTA=",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/otc-markets-ceo-250-years-090000984.html",
-      "title": "OTC Markets CEO: 250 years of market history just collided with a new SEC rule",
-      "summary": "In 2026, the SEC has moved on two fronts that will define the next chapter of American public markets.\nHow has technology transformed OTC market transparency over time?\nAs CEO of OTC Markets Group, which operates regulated markets for U.S. and international securities, I have a direct view into why both matter.\nThe history of American public markets is a history of expanding access.\nFor decades, the OTC market operated largely outside that framework.",
+      "url": "https://thenextweb.com/news/oro-3m-agentic-finance-mh-ventures-mapleblock",
+      "title": "MH Ventures and Mapleblock Capital co-lead $3M investment in Oro to scale agentic finance",
+      "summary": "TL;DR Oro has raised $3M co-led by MH Ventures and Mapleblock Capital to scale its agentic finance platform, which converts natural-language instructions into non-custodial DeFi transactions.\nThe platform has 350,000+ active users across 80+ languages, with campaigns alongside Avalanche and Ondo Finance.\nThat is the lane Oro has been working in and advancing before the term \u201cagentic finance\u201d became a standard pitch-deck phrase.\nOro, which is actively turning plain-language financial instructions into multi-step, non-custodial transactions, announced a $3 million strategic round co-led by MH Ventures and Mapleblock Capital, joined by M2M Capital, Archer Capital, X21 Digital, and returning backers Disrupt.com and ZIG Labs.\nIn that regard, every Oro execution requires the user\u2019s own signature so that nothing moves without an explicit permission.",
       "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-08-23T09:00:00Z",
-      "source": "Yahoo Entertainment"
+      "bias": "center",
+      "publishedAt": "2026-08-25T09:48:19Z",
+      "source": "The Next Web"
     }
   },
   {
     "article": {
       "id": "MTE=",
-      "url": "https://finance.yahoo.com/economy/policy/articles/treasury-recent-moves-bond-currency-172227525.html",
-      "title": "The Treasury\u2019s recent moves in the bond and currency markets add up to \u2018soft-form financial repression\u2019 to lower debt costs, economist warns",
-      "summary": "More from Yahoo Scout What is financial repression and how does it work?\nFinancial repression generally refers to policies that enable a government to keep interest rates artificially low by influencing financial markets.\nIn fact, the U.S. and other developed economies used financial repression to slash their debt-to-GDP ratios after World War II.\nIndeed, conflict and calamities are major factors in financial repression.\nSaravelos warned that suppressing U.S. Treasury yields will merely shift the impact to the dollar.",
+      "url": "https://www.yahoo.com/news/videos/build-financial-stability-living-paycheck-134628460.html",
+      "title": "How to Build Financial Stability When Living Paycheck to Paycheck",
+      "summary": "More than 100 of the nearly 1,300 people missing after massive floods in a border area of Nepal and China were on a pilgrimage to Mount Kailash, a sacred site in the Himalayas.\nThe disaster left at least 168 people dead and displaced hundreds of people across the Himalayan region.\nHere\u2019s what to know about the mountain and its centuries-old role as a pilgrimage site.",
       "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-08-23T17:22:27Z",
+      "bias": "lean left",
+      "publishedAt": "2026-08-25T13:46:28Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
       "id": "MTI=",
+      "url": "https://abcnews.com/Business/united-airlines-largest-expansion-new-seating-option-economy/story?id=135933140",
+      "title": "United Airlines' largest expansion comes with new seating option for economy travelers",
+      "summary": "Passengers will have the option to book a seat with extra space.\nUnited is unveiling a new seating option blocking off the middle seat.\nUnited Airlines XLR airplane.\nUnited AirlinesUnited is not the sole U.S. carrier which offers the blocked middle seat option.\nThe option is gradually expected to be replaced by the First Class seating options on Frontier flights, according to the airline\u2019s website.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-08-25T14:09:36Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTM=",
       "url": "https://uk.news.yahoo.com/us-vows-economic-d-day-003335422.html",
       "title": "US widens sanctions on Iran but withholds more punishing options",
       "summary": "The Treasury Department did announce new sanctions on 60 individuals, entities and vessels, but the list did not include any of the Chinese financial institutions suspected of facilitating Iran's oil trade.\nsanctions.\"\nBessent previously urged cooperation from China, the biggest buyer of Iranian oil for several years, although \u200cthe U.S. blockade of Iran's ports, renewed in mid-July, has already cut Iranian oil flows to China.\nsanctions.\"\nBessent \u200bsaid the Treasury Department has mapped the networks, facilitators and financial channels that Iran uses to smuggle oil and evade sanctions.",
@@ -157,11 +169,23 @@
   },
   {
     "article": {
-      "id": "MTM=",
+      "id": "MTQ=",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p64vd3?at_campaign=rss",
+      "title": "Is China Replacing Workers With Robots?",
+      "summary": "China has two million robots already working in factories, and is investing heavily in the hopes that one day they could bridge gaps in an already sluggish economy.\nOur China correspondent Laura Bicker has been to some of these factories, and is on the line to debrief.\n60% of the new homes would be for social rent, despite Andy Burnham telling The Social Housing Podcast in May he \"would actually devote all of it to social housing.\u201d.\nIf you want to listen, just say \"Ask BBC Sounds to play Newscast\u201d.\nThe social producer was Jem Westgate.",
+      "category": "economics",
+      "bias": "right",
+      "publishedAt": "2026-08-25T15:39:00Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "MTU=",
       "url": "https://uk.finance.yahoo.com/news/six-months-iran-war-almost-050842411.html",
       "title": "Six months into Iran war, almost half of global oil flows from war zones",
       "summary": "Six months ago, U.S. \u200cand Israeli attacks on Iran triggered what has become the largest oil supply crisis on record, with no clear \u200bend in sight.\nNot all of this year's supply disruptions happened at the same time.\nWith Saudi Arabia \u200bre-routing \u200boil to the Red Sea and Gulf exporters \u200bsneaking oil secretly out of the \u200cStrait of Hormuz, the current Gulf oil disruption stands at around 5 million to 7 million bpd, according to analysts' estimates.\nThe conflicts in the Gulf and Ukraine have also cut global refining capacity by about a tenth.\nRussia is \u200bgrappling with fuel shortages and has \u200bbanned gasoline and diesel exports, tightening global fuel markets.",
-      "category": "international",
+      "category": "economics",
       "bias": "left",
       "publishedAt": "2026-08-25T05:08:42Z",
       "source": "Yahoo Entertainment"
@@ -169,7 +193,7 @@
   },
   {
     "article": {
-      "id": "MTQ=",
+      "id": "MTY=",
       "url": "https://thenextweb.com/news/spacex-natural-gas-trading-team-starship-chip-fab",
       "title": "SpaceX is hiring a natural gas trader for its rockets and chips",
       "summary": "The role \u201cfocuses on physical and financial natural gas trading\u201d, the posting says.\nThe other reason is a chip factoryEarlier this month SpaceX said it will build its own gas-fired power plants.\nSurging demand from data centres and new factories has already pushed developers towards new gas plants across the United States.\nMusk has done this beforeMusk has long been a fan of vertical integration, Bloomberg noted, and the gas plants fit that pattern.\nGas plants, pipelines and wells come with their own permitting and their own neighbours.",
@@ -181,7 +205,19 @@
   },
   {
     "article": {
-      "id": "MTU=",
+      "id": "MTc=",
+      "url": "https://www.newyorker.com/news/fault-lines/how-the-job-market-will-shape-the-next-generation",
+      "title": "How the Job Market Will Shape the Next Generation",
+      "summary": "After all, as I also noted in an earlier column, the unemployment numbers for college graduates grew only mildly worse.\nAlthough young college graduates still experience relatively low unemployment and make decent wages, they have clear and sound reasons to feel more financially precarious than one might expect.\nThis time, I have five predictions about what the future will look like for young people and the job market.\nThis will accelerate the already widening unemployment gap between young, college-educated people and everyone else.\nIf unemployment for this group goes from, say, five per cent to ten per cent, their confidence in the job market, already rapidly trending downward, will dive toward a true bottom.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-08-25T10:00:00Z",
+      "source": "The New Yorker"
+    }
+  },
+  {
+    "article": {
+      "id": "MTg=",
       "url": "https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8#article",
       "title": "How Trump's new trade war with Canada affects everything from building new homes to dog jackets",
       "summary": "On Saturday, after trade talks between Canada and the US collapsed, the Trump administration imposed 50% tariffs on a slew of Canadian items, including alcohol and hockey equipment.\nThe specificity of the tariffs means that different sectors of the economy \u2014 and your everyday purchases \u2014 will get hit unevenly.\nDebbie Safran, the owner of Houndstooth Pet Boutique in Burlington, Vermont \u2014 which is situated about 45 miles away from the Canadian border \u2014 said she's worried about a shipment of her favorite winter coats for dogs.\nWill the tariffs impact your business or spending habits?\nWill the tariffs impact your business or spending habits?",
@@ -193,43 +229,19 @@
   },
   {
     "article": {
-      "id": "MTY=",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers",
-      "title": "How US sanctions on Iran ripple through global markets and consumers",
-      "summary": "Share How US sanctions on Iran ripple through global markets and consumers on social mediaThe administration of United States President Donald Trump has announced new economic sanctions on Tehran, describing the measures as an \u201ceconomic D-Day\u201d as the US war on Iran approaches the six-month mark.\nThe Treasury Department said the sanctions will target Iran\u2019s aviation, digital assets, gold, technology and shipping sectors, as well as impose sanctions on 60 specific individuals and vessels.\nAccording to a Treasury Department release on Monday, the targets include ships based in or associated with countries including Singapore, China, and Hong Kong.\nPressure on the Iranian oil market, both through existing sanctions as well as the current war, has tightened the rest of the globe\u2019s oil supply and affected countries that buy Iranian oil.\nChina, for example, is the primary destination for Iranian oil, buying roughly 90 percent of Iran\u2019s crude oil exports.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-08-24T22:46:02Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "MTc=",
-      "url": "https://www.entrepreneur.com/building-a-business/your-business-looks-strong-on-paper-cash-flow-may-tell-a-different-story-heres-why-that-gap-matters-more-than-ever",
-      "title": "Your Business Looks Strong on Paper. Cash Flow May Tell a Different Story. Here\u2019s Why That Gap Matters More Than Ever.",
-      "summary": "Free cash flow often determines how much confidence buyers have in the business \u2014 and how much they\u2019re ultimately willing to pay.\nCash is much harder to argue withFree cash flow leaves less room for interpretation.\nA business generating $20 million of EBITDA but only $3 million of sustainable free cash flow presents a very different risk profile than one producing the same EBITDA with $15 million of recurring free cash flow.\nFree cash flow often determines how much confidence buyers have in the business \u2014 and how much they are ultimately willing to pay.\nFree cash flow decides how convincing that conversation becomes.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-08-24T17:00:00Z",
+      "id": "MTk=",
+      "url": "https://www.entrepreneur.com/building-a-business/why-physical-infrastructure-is-becoming-silicon-valleys-next-big-competitive-moat",
+      "title": "Why Physical Infrastructure Is Becoming Silicon Valley\u2019s Next Big Competitive Moat",
+      "summary": "Build software, acquire users at breakneck speed, raise increasingly larger venture rounds and worry about profitability later.\nInfrastructure advantagesRather than simply renting electric bikes, JOCO has built an integrated platform that combines hardware, software, charging infrastructure, maintenance and logistics.\nPhysical infrastructure operates under a completely different set of rules.\nToday\u2019s market increasingly rewards founders who demonstrate they don\u2019t need enormous amounts of capital to build enduring businesses.\nInstead, they could combine software, artificial intelligence, physical infrastructure and disciplined operations into businesses that create advantages difficult to replicate.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-08-25T14:00:00Z",
       "source": "Entrepreneur"
     }
   },
   {
     "article": {
-      "id": "MTg=",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/the-galaxy-z-fold-8-may-get-samsungs-luxury-treatment-again",
-      "title": "The Galaxy Z Fold 8 may get Samsung\u2019s luxury treatment again",
-      "summary": "Click for next articleWhat you need to knowSamsung may revive its luxury foldable strategy with a Galaxy Z Fold 8 special edition planned for the second half of 2026.\nThom Browne is reportedly a top contender, potentially bringing back a partnership that last appeared with the Galaxy Z Fold 5.\nAvailability will likely be limited, with select-market launches and a substantial price premium over the standard Galaxy Z Fold 8.\nThat approach could be making a comeback with the Galaxy Z Fold 8.\nSamsung has previously launched Thom Browne editions of the original Galaxy Z Flip, Z Fold 2, Z Fold 3, and Z Fold 5.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-08-24T18:28:59Z",
-      "source": "Android Central"
-    }
-  },
-  {
-    "article": {
-      "id": "MTk=",
+      "id": "MjA=",
       "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
       "title": "Humanoid robots smash Usain Bolt\u2019s 100-meter record",
       "summary": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing.\nIn a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation \u200bCenter, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 seconds.\nAfter launching in 2025, 2,056 robots from 16 countries are participating in this year\u2019s World Humanoid Robot Games, which includes categories for sprinting, jumping, football, boxing, and more.\nTiangong Ultra also ran the 400-meter race in 38.16 seconds \u2014 beating the 43.03 second world record set by Wayde van Niekerk in 2016.\nUnlike human athletes, however, these sprinting bots don\u2019t typically get to perform a victory lap after crossing the finish line.",
@@ -241,7 +253,7 @@
   },
   {
     "article": {
-      "id": "MjA=",
+      "id": "MjE=",
       "url": "https://www.entrepreneur.com/building-a-business/3-digital-strategies-small-business-owners-can-use-to-do-more-with-less",
       "title": "3 Digital Strategies Small Business Owners Can Use to Do More With Less",
       "summary": "Digital tools can help small business owners improve the customer experience at every touchpoint.\nSmall businesses contribute to 43.5% of the U.S. GDP and employ more than 62 million people, according to the Small Business Administration.\nHere are three strategies small business owners can use to do exactly that.\nDigital tools can help small business owners deliver on this at every touchpoint.\nFor small business owners ready to take that step, the opportunity has never been greater.",
@@ -253,7 +265,7 @@
   },
   {
     "article": {
-      "id": "MjE=",
+      "id": "MjI=",
       "url": "https://www.entrepreneur.com/growing-a-business/ai-adoption-was-easy-proving-it-works-under-pressure/505120",
       "title": "AI Adoption Was Easy. Proving It Works Under Pressure Won't Be.",
       "summary": "The 2026 IPO market has attracted enormous attention from investors, driven partly by high-profile technology and AI infrastructure offerings.\nOver my 25 years of experience helping scale technology companies, I have seen a similar pattern with nearly every major wave of innovation.\nDetermine what stops working when AI doesWhen an AI tool is used occasionally to summarize notes or brainstorm ideas, losing access to it is inconvenient.\nAn AI application can appear slow because of packet loss, congestion or inconsistent connectivity.\nThey will care less about how many AI tools you have introduced and more about whether those tools make the business perform better when it matters.",
@@ -265,7 +277,7 @@
   },
   {
     "article": {
-      "id": "MjI=",
+      "id": "MjM=",
       "url": "https://www.yahoo.com/news/world/articles/uk-ukraine-sign-ai-defence-partnership-linked-to-battlefield-technology-170509760.html",
       "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology",
       "summary": "LONDON, Aug 24 (Reuters) - Britain said on Monday it had signed a partnership with Ukraine to jointly develop artificial intelligence tools \u200cfor defence and security, giving British researchers access to a Ukrainian \u200cbattlefield data platform used to train military AI systems.\nPrime Minister Andy Burnham and President Volodymyr \u200bZelenskiy signed the agreement in Kyiv, making Britain the first international partner to access Ukraine's Avengers AI Labs, a government statement said.\nAvengers Labs was built around an annotated dataset of 5 million battlefield images, Ukraine's Defence Ministry said earlier \u200cin August, largely drawn from \u2060the military's DELTA combat system \u2013 a domestically developed battlefield management and situational-awareness system.\nAdvertisement AdvertisementThe platform uses data collected from cameras \u2060and sensors across Ukraine's battlefield, including information on tanks, artillery systems, drones and other military targets.\nThe British government said the partnership would \u200binitially focus on defence and national security projects \u200bbringing together researchers, engineers, technology \u200bcompanies and military experts from both countries.",
@@ -277,55 +289,19 @@
   },
   {
     "article": {
-      "id": "MjM=",
-      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8#article",
-      "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
-      "summary": "Hugging Face, whose platform helps developers discover, share, and build AI models, has been exploring a sale that could value the company at $13 billion or more.\nHugging Face is a platform where developers publish, share, and download various AI models.\nHugging Face was founded in 2016 by French entrepreneurs Cl\u00e9ment Delangue, Julien Chaumond, and Thomas Wolf.\nRather than competing to build the next frontier model, companies like Hugging Face have become essential for developers who build with AI models from OpenAI, Anthropic, Meta, and others.\nHugging Face recently found itself at the center of an unusual security incident after OpenAI disclosed that one of its AI agents escaped a controlled cybersecurity test, accessed the internet, and breached Hugging Face while attempting to solve the challenge.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-08-23T19:01:36Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
       "id": "MjQ=",
-      "url": "https://thenextweb.com/news/alibaba-10-2bn-share-placement-ai-infrastructure",
-      "title": "Alibaba is raising $10.2bn and spending all of it on AI",
-      "summary": "Alibaba is placing HK$80bn, about $10.2bn, of new shares in Hong Kong and says all net proceeds will go to AI infrastructure and capabilities.\nIt comes days after the company reported a 75% fall in quarterly net profit driven by that same spending.\nAlibaba is going to the market for money to spend on AI, and it is not being coy about the proportion.\nThe company is placing HK$80bn of new shares in Hong Kong, around $10.2bn, and says 100% of net proceeds will fund its full stack AI capabilities including infrastructure.\nCloud and AI revenue rose 45% to 48.44bn yuan, and the company says its AI model services now run above 16bn yuan in annual recurring revenue.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-08-23T08:59:01Z",
-      "source": "The Next Web"
-    }
-  },
-  {
-    "article": {
-      "id": "MjU=",
       "url": "https://www.businessinsider.com/rillet-ceo-nicolas-kopp-ai-accounting-consulting-firms-jobs-2026-8#article",
       "title": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
       "summary": "For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job.\nOracle Fusion is a suite of cloud software that large companies use to manage their finances and operations.\nSetting up systems like this can take years of consulting work.\nIn the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\"\nThat's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work.",
       "category": "technology",
-      "bias": "left",
+      "bias": "center",
       "publishedAt": "2026-08-24T09:16:01Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MjY=",
-      "url": "https://thenextweb.com/news/ai-layoff-reversals-worker-trust-works-councils",
-      "title": "Employers are quietly rehiring the people AI replaced, and paying them less to come back",
-      "summary": "Forrester reports that 55% of employers regret laying off workers for AI and expects half of AI-attributed layoffs to be quietly reversed, with jobs returning offshore or at significantly lower wages.\nThe companies that cut jobs for AI are having second thoughts.\nForrester reports that 55% of employers regret laying workers off for AI, and expects half of all AI-attributed layoffs to be quietly reversed.\nForrester says the jobs come back offshore or at significantly lower wages, which means the correction costs the worker rather than the employer.\nA 2026 Software Finder report found 53% of workers worry AI tools will make their role feel less necessary.",
-      "category": "economics",
-      "bias": "right",
-      "publishedAt": "2026-08-23T19:43:59Z",
-      "source": "The Next Web"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjc=",
+      "id": "MjU=",
       "url": "https://thenextweb.com/news/softbank-plans-record-6-3bn-retail-bond-sale-in-japan",
       "title": "SoftBank plans record $6.3bn retail bond sale in Japan",
       "summary": "SoftBank plans a record 1 trillion yen retail bond sale, about $6.3bn, the largest by any issuer in Japan, to fund investment commitments to OpenAI.\nThe group plans a record \u00a51 trillion retail bond sale, about $6.3bn and the largest by any issuer in Japan, to fund its investment commitments to OpenAI.\nS&P has SoftBank at BB+, one notch below investment grade, having revised its outlook to stable from negative in July.\nThis is SoftBank\u2019s third retail bond of the year, after raising \u00a5418bn in April and \u00a5260bn in June.\nA retail saver funding a seven-year bet on a company that does not yet know how the technology will pay.",
@@ -337,12 +313,36 @@
   },
   {
     "article": {
+      "id": "MjY=",
+      "url": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
+      "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
+      "summary": "It has now raised $140mn to point that archive at AI models.\nChief executive Noam Schwartz told Marissa Newman at Bloomberg that the round values Alice close to $1bn.\nIt started with Cohere, before ChatGPT reached the mainstream, and concluded that its data mattered to model safety, Schwartz told Calcalist.\nIndependent research supports the market, not the numbersMore than 100 experts wrote the International AI Safety Report 2026.\nMETR, an independent research organisation, has catalogued dozens of incidents in which AI agents acted beyond the scope they were given.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-08-25T19:00:29Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjc=",
+      "url": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
+      "title": "AI firms debate connecting test sandboxes to the internet after breaches",
+      "summary": "After AI models from at least three companies reached the open internet and breached real organisations during testing, security specialists are debating whether test sandboxes should have controlled internet access.\nThe industry\u2019s response to AI models escaping their test environments may be to stop sealing the test environments.\nCybersecurity specialists are debating whether the sandboxes used to study dangerous software should be given controlled access to the open internet.\nSandboxes have been isolated precisely so that whatever runs inside them, malware samples included, cannot cause damage outside.\nIts own misconfigurations let models reach the internet during evaluations, and TNW reported this month that three labs shared one vendor.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-08-25T18:16:08Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
       "id": "Mjg=",
       "url": "https://www.businessinsider.com/ai-consulting-industry-shift-outcome-based-pricing-model-2026-8#article",
       "title": "The best reinvention consultants can make in the AI era is to their pricing model",
-      "summary": "AI's arrival has raised questions about the value consultants provide.\nAnd while people have always questioned what consultants actually do, the AI era has magnified the issue.\nPolly spoke to insiders about whether the AI capabilities and experience consultants tout are more bark than bite.\nConsultants could prove their AI abilities by rethinking their pricing.\nFor consultants, billable hours become a problem when AI enables you to do the work in half the time.",
-      "category": "technology",
-      "bias": "left",
+      "summary": "AI's arrival has raised questions about the value consultants provide.\nAnd while people have always questioned what consultants actually do, the AI era has magnified the issue.\nBut just saying you're AI native doesn't make it so.\nPolly spoke to insiders about whether the AI capabilities and experience consultants tout are more bark than bite.\nAdd to Preferred SourcesFor consultants, billable hours become a problem when AI enables you to do the work in half the time.",
+      "category": "economics",
+      "bias": "lean left",
       "publishedAt": "2026-08-24T10:50:17Z",
       "source": "Business Insider"
     }
@@ -350,30 +350,66 @@
   {
     "article": {
       "id": "Mjk=",
+      "url": "https://thenextweb.com/news/uk-ukraine-ai-military-declaration-burnham",
+      "title": "The UK and Ukraine have signed a declaration on AI-enabled military capabilities",
+      "summary": "Ukraine and the United Kingdom have signed a joint declaration on artificial intelligence partnership covering the development and deployment of AI-enabled military capabilities, according to the Ukrainian presidency\u2019s account of talks in Kyiv between Volodymyr Zelenskyy and Andy Burnham.\n\u201cWe will work together to build next-generation Armed Forces and accelerate development and deployment of AI-enabled military capabilities,\u201d Zelenskyy said.\nNeither side has published the text of the declaration or indicated what funding, if any, sits behind it.\nWhat the AI declaration actually produces will depend on procurement rather than diplomacy.\nBritain\u2019s defence establishment has been slow to buy from startups even as capital has poured into European military technology, and a declaration signed in Kyiv does not by itself change a contracting process in Whitehall.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-08-25T09:06:10Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
+      "url": "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
+      "title": "\u2018This is crazy. This is insane\u2019: Bill Gates has changed his mind about AI and jobs",
+      "summary": "Bill Gates says it\u2019s time to hit the AI panic button.\nThe technology has crossed dangerous thresholds in biology, cybersecurity, white-collar work, and human relationships, Gates said in an interview with Semafor.\n\u201cI am in a state of shock that I\u2019m sort of the first one saying, \u2018This is crazy.\n\u201cI wrote a whole book about how to avoid the next pandemic,\u201d Gates said.\n\u201cHe\u2019s very, very glad I\u2019m writing the memo.\u201dADOther prominent leaders, such as Google DeepMind co-founder Demis Hassabis, have also sharpened their warnings.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-08-26T07:00:02Z",
+      "source": "Semafor.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MzE=",
       "url": "https://www.businessinsider.com/rillet-ceo-nicolas-kopp-ai-accounting-consulting-firms-jobs-2026-8",
       "title": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
       "summary": "For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job.\nOracle Fusion is a suite of cloud software that large companies use to manage their finances and operations.\nSetting up systems like this can take years of consulting work.\nIn the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\"\nThat's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work.",
       "category": "technology",
-      "bias": "left",
+      "bias": "center",
       "publishedAt": "2026-08-24T09:16:01Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MzA=",
+      "id": "MzI=",
       "url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8#article",
       "title": "US Robotics Race Relies on Hardware From China",
       "summary": "Physical Intelligence is one of many startups in Silicon Valley working on robotics software.\nAnd right now, hardware used for robotics research \u2014 a lot of that does come from China,\" Levine said.\nA June analysis from McKinsey found that China holds a \"significant share of capacity\" for robotics parts, including 90% of permanent-magnet processing.\nWhile US manufacturers welcomed the move, some researchers and startups told Business Insider's robotics reporter, Rya Jetha, that the ban locks out access to affordable hardware.\nLevine said in the podcast that \"different industries that contribute to robotics need to individually be very healthy.\"",
-      "category": "technology",
-      "bias": "left",
+      "category": "international",
+      "bias": "lean right",
       "publishedAt": "2026-08-25T04:02:01Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MzE=",
+      "id": "MzM=",
+      "url": "https://www.cnet.com/home/security/ring-gave-itself-a-security-makeover-called-take-heres-whats-actually-changing/",
+      "title": "Ring Gave Itself a Security Makeover Called TAKE. Here\u2019s What\u2019s Actually Changing",
+      "summary": "Previously, Ring\u2019s cloud practices were a bit of a black box.\nWe knew the sort of encryption used, but not how easily or frequently Ring could access videos for analysis.\nIf you have Shared Users on your Ring account who you\u2019ve enabled to access videos, they\u2019ll have this master key, too.\nThis option will remain with TAKE, offering the highest level of privacy for Ring security videos \u2014 but at a cost.\nHowever, you\u2019ll still be able to use live view, access videos in cloud storage and share videos as long as you have your password.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-08-25T22:40:08Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MzQ=",
       "url": "https://www.entrepreneur.com/business-news/he-left-google-after-27-years-now-hes-telling-gen-z-not-to-master-ai",
       "title": "He Left Google After 27 Years. Now He\u2019s Telling Gen Z Not to Master AI.",
       "summary": "Listen to this postKey Takeaways Jeff Dean left Google earlier this month after 27 years at the company.\nKeeping pace with AI can seem impossible, but Google veteran Jeff Dean says Gen Z doesn\u2019t need to know everything about AI to succeed in today\u2019s job market.\nHe worked at the tech giant for 27 years, serving as head of Google AI from 2018 to 2023 and Google\u2019s chief scientist for the past three years, according to his LinkedIn.\nHe is now the co-founder and CEO of AI startup DiscoveryLoop, which aims to act as an autonomous researcher.\nHe argued that AI can make people more capable rather than simply make them easier to replace.",
@@ -385,7 +421,7 @@
   },
   {
     "article": {
-      "id": "MzI=",
+      "id": "MzU=",
       "url": "https://thenextweb.com/news/nvidia-perplexity-30bn-valuation-talks",
       "title": "Nvidia is in talks to back Perplexity at more than $30bn",
       "summary": "Nvidia has been discussing an investment in Perplexity that would value the AI search company at more than $30bn, according to The Information, which reported that the two sides also considered a technology licensing arrangement alongside the equity cheque.\nThe talks are the latest turn in a relationship that already runs deeper than the usual investor-and-customer arrangement, since Perplexity was among the first named takers for Nvidia\u2019s Vera CPU.\nWhat makes the discussions unremarkable, in one sense, is how routine this kind of cheque has become for Nvidia.\nNvidia reports its next quarterly results in November.\nWhether a Perplexity stake shows up in the investment line by then will say more about the pace of this cycle than the valuation itself does.",
@@ -397,83 +433,23 @@
   },
   {
     "article": {
-      "id": "MzM=",
-      "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
-      "title": "OpenAI wants California to toughen the AI law it once fought",
-      "summary": "OpenAI has asked California to toughen the AI safety law it once fought.\nWhat it wants changedOpenAI wants SB 53 amended to reach frontier models while they are still in training or evaluation.\nThe law should cover \u201cconduct that could bypass a third party\u2019s security controls and compromise the third party\u2019s confidential information\u201d.\nIt also wants cybersecurity protections strengthened across the whole model-development lifecycle, to stop frontier models circumventing internal security controls.\nWhy the ask existsIn late July, two models OpenAI was testing internally escaped their sandbox, reached the open internet and hacked Hugging Face.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-08-24T19:02:32Z",
+      "id": "MzY=",
+      "url": "https://thenextweb.com/news/australia-data-centre-rules-queensland-override",
+      "title": "Australia is preparing to impose its data centre energy rules over Queensland\u2019s objection",
+      "summary": "The policy requires large facilities to buy power from newly built renewable projects rather than drawing on the existing grid.\nEnergy Minister Chris Bowen has indicated the Commonwealth will legislate federal standards whether or not the states sign up.\nEnergy regulation in Australia has historically run through cooperative arrangements between the Commonwealth and the states, and a federal law reaching directly into state energy markets would be tested.\nA requirement to buy power from new renewable projects only works if those projects can be built and connected on the timeline the data centres need.\nAustralia is not doing this in isolation, and the alternative to writing rules is visible elsewhere.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-08-25T08:40:06Z",
       "source": "The Next Web"
     }
   },
   {
     "article": {
-      "id": "MzQ=",
-      "url": "https://www.cnet.com/uncategorized/americans-want-to-know-when-their-healthcare-providers-use-ai/",
-      "title": "Americans Want to Know When Their Healthcare Providers Use AI",
-      "summary": "AI chatbots are being used in healthcare, both in and out of the doctor\u2019s office, more than ever before.\nPatients and medical providers alike are turning to AI for treatments and diagnoses, but transparency remains a key concern, a new survey by Pew Research Center shows.\nAmericans are not fully comfortable with AIThe survey shows that Americans may find AI chatbots convenient, but not entirely trustworthy.\nAmong those surveyed, 29% say they are extremely or very comfortable sharing health information with chatbots, while 26% say they are uncomfortable doing so.\nThe findings suggest that although AI is increasingly used for health information and care, public confidence and understanding have not kept pace with its adoption.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-08-25T04:29:02Z",
-      "source": "CNET"
-    }
-  },
-  {
-    "article": {
-      "id": "MzU=",
-      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-      "title": "Robotaxis are real now \u2014 so is the pushback",
-      "summary": "Even in states that have broadly welcomed autonomous vehicles, governments are grappling with how to oversee them.\nEven in states that have broadly welcomed autonomous vehicles, governments are grappling with how to oversee themTaxi drivers, labor unions, and safety advocates have fought autonomous vehicles for years.\nPeter Finn, Teamsters international vice president at large, called autonomous vehicles an \u201cexistential threat\u201d to the work his members do.\nBut that still leaves them staking out positions that would sharply constrain how autonomous vehicles are deployed.\nThe National Highway Traffic Safety \u200cAdministration cleared Amazon-owned Zoox robotaxis to charge customers for robotaxi rides.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-08-24T16:42:37Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MzY=",
-      "url": "https://www.bbc.com/news/articles/cewree0qjddo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "title": "Jersey Airport recognised for its sustainability work",
-      "summary": "It said it had introduced a private and business aviation decarbonisation charge to help fund future carbon reduction projects and had invested in other energy efficiency measures including LED lighting and smart metering.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-08-23T11:10:20Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
       "id": "Mzc=",
-      "url": "https://www.bbc.co.uk/news/articles/cgljrge0wreo",
-      "title": "Agency says Hamsterley Forest campsite could 'risk life'",
-      "summary": "Plans for a campsite in a forest pose a \"risk to life\" and could pollute waterways, the Environment Agency (EA) has said.\nForestry England and Forest Holidays want to build 70 cabins, a campsite, cafe, restaurant, shop and staff accommodation in Hamsterley Forest, County Durham.\nRoutes out of the campsite would be forest tracks crossing or next to watercourses which might themselves be dangerous in the event of heavy rain, the agency added.\nIt recommended the whole campsite be relocated to an area with less flood risk, saying otherwise there would be a \"risk to life and property\" and a \"danger for all people\".\nThe use of a non-mains foul water drainage system could also pose an \"unacceptable risk of pollution\", the agency said.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-08-24T05:04:32Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzg=",
-      "url": "https://www.businessinsider.com/cheap-flight-panama-city-moved-from-atlanta-community-2026-8#article",
-      "title": "I booked a $200 flight to Panama on a whim, then decided to move there. I found the community I was missing in the US.",
-      "summary": "This as-told-to essay is based on a conversation with Chrysten Crockett, a Cleveland native who moved from Atlanta to Panama City.\nI went home that night, looked up Panama City, and I was like, \"Oh wow, it's a big city.\nI was blown away because I had never been, and I didn't know much about the country.\nCrockett said she gets a lot more for her rent in Panama City than in the US.\nAs a solo woman traveler, when I first got here, I didn't know what the safety situation would be like.",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-08-23T12:23:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzk=",
       "url": "https://www.yahoo.com/news/science/articles/world-inches-toward-catastrophic-climate-130848437.html",
       "title": "The world inches toward catastrophic climate events: 'Bigger shocks are on the way'",
       "summary": "Scientists have long warned that the world will experience more intense extreme weather events like heat waves, storms, floods and droughts.\nThat increase, 1.44 degrees Celsius (2.59 degrees Fahrenheit) warmer in 2025 compared to the early 1800s, leads to more frequent, and more intense, extreme weather events.\nThe country that has released the most greenhouse gas, and thus contributed most to climate change, is the United States.\nPresident Donald Trump has called climate change \"the greatest con job ever,\" referred to climate policies as a \"Green New Scam\" and said U.N. climate predictions were made by \"stupid people.\"\nAdvertisement AdvertisementAt any given time there are numerous extreme weather events happening around the globe.",
-      "category": "environment",
+      "category": "international",
       "bias": "center",
       "publishedAt": "2026-08-24T13:08:48Z",
       "source": "Yahoo Entertainment"
@@ -481,7 +457,7 @@
   },
   {
     "article": {
-      "id": "NDA=",
+      "id": "Mzg=",
       "url": "https://thenextweb.com/news/australian-data-centres-power-aemo-forecast-2036",
       "title": "Australian data centres will use seven times more power by 2036",
       "summary": "Australian data centres will take 13% of the country\u2019s main electricity market by 2035-36, up from 3% today.\nThat is almost a sevenfold rise in a decade, according to the Australian Energy Market Operator.\nThe numberData centres will draw 34 terawatt hours a year from the National Electricity Market by 2035-36, on AEMO\u2019s projection.\nThe money behind itCommonwealth Bank of Australia estimates the country\u2019s data centre buildout could reach A$150bn, about $108bn, by 2030.\nDemand arrives faster than wiresA data centre can switch on long before the infrastructure to power it exists.",
@@ -493,19 +469,7 @@
   },
   {
     "article": {
-      "id": "NDE=",
-      "url": "https://news.slashdot.org/story/26/08/23/1849216/iran-linked-cyberattackers-shut-down-a-uk-power-plant-for-four-days",
-      "title": "Iran-linked Cyberattackers Shut Down a UK Power Plant for Four Days",
-      "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-08-23T18:53:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "NDI=",
+      "id": "Mzk=",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/24/sponsored-ai-driven-upgrade-of-communications-energy-storage-empowers-a-new-energy-ecosystem-for-multiple-industries/5290186",
       "title": "SPONSORED: AI-Driven Upgrade of Communications Energy Storage Empowers a New Energy Ecosystem for Multiple Industries",
       "summary": "Its core hardware includes a dual liquid cooling cabinet BESS (battery energy storage system) and a containerized BESS.\n(battery management system; energy management system; power conversion system).\nDatacenter operators also have substantial energy storage infrastructure and are increasingly looking at PV and other renewable, behind-the-meter energy options.\nThis AI-powered integrated intelligent energy storage system is not limited to the telecommunication world.\nContinuous advances in energy storage technologies, AI algorithms and supportive new energy policies are paving the way for large-scale adoption of all-scenario intelligent energy storage.",
@@ -517,43 +481,55 @@
   },
   {
     "article": {
-      "id": "NDM=",
-      "url": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation",
-      "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
-      "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-08-23T11:34:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "NDQ=",
-      "url": "https://www.nature.com/articles/d41586-026-02665-4",
-      "title": "Daily briefing: How \u2018thunderquakes\u2019 probe underground geology",
-      "summary": "Hello Nature readers, would you like to get this Briefing in your inbox free every day?\nThe study shows that it was \u201crelatively safe\u201d to inject the person\u2019s own mitochondria into the eyes, says mitochondria biologist Temurkhan Ayupov.\nNature | 8 min readFeatures & opinionThunder generates acoustic waves that can help scientists probe Earth for hidden geological structures, such as sinkholes.\nLocal authorities are fighting back with seaweed-thwarting offshore barriers and trawlers, and kelp-forest restoration efforts are happening around the world.\nSierra | 6 min readTechnology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-08-24T00:00:00Z",
-      "source": "Nature.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NDU=",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po",
-      "title": "Zelensky should be asked what he knew about government corruption, ex-minister Mykhailo Fedorov tells BBC",
-      "summary": "Ukrainian President Volodymyr Zelensky should be asked questions about corruption in his government, his sacked defence minister Mykhailo Fedorov has told the BBC.\nFedorov, a popular minister who modernised the military and pioneered drone warfare, was fired last month after reportedly falling out with the head of Ukraine's armed forces.\nHe told the BBC that a money laundering investigation announced last week meant Zelensky should be asked about his awareness of potential corruption within his inner circle.\nIf I cannot share my ideas and be open about them with my own society, then what are we fighting for?\"\nIf elections were never held, he said, \"then we are no longer a democracy\".",
+      "id": "NDA=",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx3y111wdo",
+      "title": "Government invests \u00a371m to help reopen Devon tungsten mine",
+      "summary": "More than \u00a370m of public money will be invested into a mining company to help restart production, the chancellor has said.\nThe Hemerdon tungsten and tin mine in Devon will receive up to \u00a371m from the National Wealth Fund to resume operations at the mine near Plymouth.\nChancellor John Healey said it meant Britain could tap into one of the world's largest deposit of the mineral which is used in steel, electronics and aerospace industries.\nThe government said it would ringfence 50% of the production for use in Britain.\nThe financing consists of a \u00a336m equity investment alongside up to \u00a335m of lending to help Tungsten West restart production.",
       "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-08-23T08:02:22Z",
+      "bias": "lean right",
+      "publishedAt": "2026-08-25T11:18:28Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NDY=",
+      "id": "NDE=",
+      "url": "https://www.yahoo.com/news/us/articles/less-300-million-barrels-left-110000922.html",
+      "title": "Less than 300 million barrels left: the engineering limits threatening the American Strategic Petroleum Reserve",
+      "summary": "As crude inventories in the Strategic Petroleum Reserve drain toward their operational limits, America is left, armed with just 300 million barrels.\nConsequently, the total volume of fluid inside the reserve must be permanently maintained at 714 million barrels.\nBut while 70 million barrels is the structural floor where the salt rock might physically hold together, the practical operational floor is much higher, around 250 million barrels.\nUnder the Energy Policy and Conservation Act, federal law places a strict statutory stop at 252.4 million barrels.\nWith an inventory of roughly 293 million barrels, only about 41 million barrels remain before hitting the 252 million-barrel statutory limit.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-08-25T11:00:00Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDI=",
+      "url": "https://www.yahoo.com/news/articles/trump-sends-saudi-nuclear-deal-232719106.html",
+      "title": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel",
+      "summary": "It was not clear how Trump expects sending the nuclear deal to Congress, which has 90 session days to consider it, will advance his objectives.\nFormer President Joe Biden also pushed for a nuclear deal and wanted to tie it to the \u200baccords.\nIf Congress were to reject the \u200bagreement, Trump could veto that decision, which would require a two-thirds \u200bmajority in Congress to override.\n'HARDLY IDEAL'Some Democratic lawmakers and \u200bnonproliferation advocates have criticized the nuclear pact for not barring Saudi Arabia from enriching uranium or \u200creprocessing nuclear waste, two potential pathways for making \u200ba nuclear weapon.\nThe UAE agreed \u200bto such measures, known as the gold standard, in its 2009 civil nuclear deal with Washington.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-08-26T00:15:12Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDM=",
+      "url": "https://thenextweb.com/news/emerald-ai-150m-funding-data-centre-grid-flexibility",
+      "title": "Emerald AI raises $150mn at a $1.05bn valuation to flex data centre power",
+      "summary": "So did Aramco Ventures, Samsung Ventures, Salesforce Ventures, JERA Ventures and the CIA-backed In-Q-Tel, alongside John Doerr and Tom Steyer.\nData centres will drive nearly half the growth in US electricity demand through 2030.\nIt has launched a Flexible Load Interconnection Program with Emerald, which grants data centres expanded grid access in exchange for verified, dispatchable flexibility.\nData centres can slow, cap or shift workloads, he said, but whether they want to is questionable.\nHis goal is to make data centres grid-flexible and, in doing so, transform them from villains into heroes, he told The New York Times.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-08-25T18:36:32Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "NDQ=",
       "url": "https://www.bgr.com/2239786/how-far-away-can-you-hear-ai-data-center-noise/",
       "title": "How Far Away Can You Hear AI Data Centers?",
       "summary": "According to LSRS, noise from cooling fans and transformers alone can reach up to 80 decibels at the property line.\nMeanwhile, generator load tests, or power generators under a heavy load, can be heard up to a mile away.\nThe loud noise can be heard up to a mile away, but low-frequency noise stretches even further.\nThe sound dissipates the further away you go, but can still produce a low-frequency hum that can be heard miles and miles away.\nThat constant hum is the source of several health concerns for the neighbors of a data center.",
@@ -565,11 +541,11 @@
   },
   {
     "article": {
-      "id": "NDc=",
+      "id": "NDU=",
       "url": "https://thenextweb.com/news/uk-power-plant-cyber-attack-iran-linked-hackers",
       "title": "Iran-linked hackers shut down a UK power plant for four days",
       "summary": "A cyber attack shut down a small British power plant for four days in July.\nThe National Cyber Security Centre declined to comment.\nIt reported last year that an Iranian cyber attack on British infrastructure was \u201cunlikely\u201d, according to the Telegraph.\nIt also warned that \u201cAI can automate the process of launching cyber attacks, making them faster, more efficient and lower the barrier for entry\u201d.\nThe Department for Energy Security and Net Zero says it is updating its cyber security regulations.",
-      "category": "technology",
+      "category": "international",
       "bias": "center",
       "publishedAt": "2026-08-24T19:45:04Z",
       "source": "The Next Web"
@@ -577,91 +553,19 @@
   },
   {
     "article": {
-      "id": "NDg=",
-      "url": "https://www.yahoo.com/news/politics/articles/newsom-returns-defining-california-fight-174218196.html",
-      "title": "Newsom returns to a defining California fight: Who pays for wildfire damage?",
-      "summary": "The most destructive wildfire in state history, a blaze that killed 85 people and destroyed more than 18,000 buildings in Northern California, started two days after Newsom won the governorship in 2018.\nMonths later, Newsom signed a law creating a $21 billion fund, paid for by utility shareholders and ratepayers, to help utilities pay for wildfire damages if they take certain safety measures.\nUtilities have raised rates to pay for wildfire prevention and recovery as climate change has made the blazes more intense and frequent.\nNewsom says the state needs to act quickly because he expects the wildfire fund to run out soon.\nThe California Professional Firefighters sent a letter to Newsom on Monday expressing its support for his proposal.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-08-24T17:42:18Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NDk=",
-      "url": "https://science.slashdot.org/story/26/08/24/0055233/after-50-years-physicists-may-have-finally-found-a-particle-made-of-pure-force",
-      "title": "After 50 Years, Physicists May Have Finally Found a Particle Made of Pure Force",
-      "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-08-24T11:34:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "NTA=",
-      "url": "https://www.scientificamerican.com/article/how-thunderquakes-could-help-reveal-hidden-structures-inside-the-earth/",
-      "title": "How \u201cthunderquakes\u201d could help reveal hidden structures inside the Earth",
-      "summary": "When that energy reaches the ground, some of it is converted into seismic waves that ripple through the soil and rock beneath.\nThe most important of these seismic waves are what we call air-coupled Rayleigh waves.\nThunderstorms offer a naturally occurring source of seismic energy that is already spread across the landscape.\nOur thunderquake study revealed four distinct areas where seismic waves traveled much more slowly than through the surrounding rock.\nBack on Earth, the atmosphere is constantly interacting with the ground beneath our feet.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-08-23T11:00:00Z",
-      "source": "Scientific American"
-    }
-  },
-  {
-    "article": {
-      "id": "NTE=",
-      "url": "https://www.scientificamerican.com/article/earths-oceans-just-hit-their-hottest-temperature-ever-recorded/",
-      "title": "Earth\u2019s oceans just hit their hottest temperature ever recorded",
-      "summary": "Earth\u2019s oceans just hit their hottest temperature ever\u2014it\u2019s only going to get worseAverage ocean temperatures hit a record 21.10 degrees Celsius (69.98 degrees Fahrenheit) on August 22, according to the European Union\u2019s Copernicus Climate Change Service (C3S).\nThat\u2019s not as hot as a warm bath, but it is the hottest the world\u2019s oceans have been since C3S started keeping records in 1979.\n\u201cAs a climate scientist, this is not surprising to me all,\u201d says Zachary Labe, a climate scientist at Climate Central, a climate research nonprofit.\nThe previous high, with a temperature of 21.09 degrees C (69.96 degrees F), occurred in March 2024, C3S said in a statement.\nThis cyclic climate pattern is marked by unusually hot Pacific Ocean temperatures, which can affect the entire planet\u2019s weather.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-08-24T16:07:00Z",
-      "source": "Scientific American"
-    }
-  },
-  {
-    "article": {
-      "id": "NTI=",
-      "url": "https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year",
-      "title": "Battery Fires At Recycling Centres Are Costing the UK \u00a31bn a Year",
-      "summary": "The biggest mistake you can make is to believe that you are working for someone else.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-08-23T00:29:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "NTM=",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "summary": "Four kites were found in Kibbutz Nahal Oz, which is about 800m (2,620ft) from the Gaza border, on Friday and Saturday.\nThe Israeli reports cited military sources as saying they believed Hamas was behind the kites and that they might have been intended to test Israel's response.\nHamas warned of \"the danger of the allegations and threats\" from Israel and said the kites were \"basically children's toys from displacement camps\".\nThe Israeli military said Abu Asad was a member of the elite Nukhba forces of Hamas's military wing who had taken part in the Hamas-led 7 October 2023 attack on southern Israel.\nThe Israeli military launched a campaign in Gaza in response to the cross-border assault, during which about 1,200 people were killed and 251 were taken hostage.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-24T13:56:22Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTQ=",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo",
-      "title": "Reform says it will prioritise British-born young workers for social housing",
-      "summary": "\"We're saying that the first people we should be looking after are young, British workers - under 35, young British married couples, young British veterans - who have done the right thing,\" he said.\nRules would be changed to reserve at least half of all social homes in England for British-born workers aged under 35, with prioritisation also given to married couples, veterans, victims of domestic violence and care leavers.\nTice claimed there were currently 540,000 existing affordable social homes occupied by overseas nationals and he wanted that to change.\nThe Conservative Party, which also said it would revoke the right of foreign nationals to social housing, accused Reform of \"trying to catch up\" with its policies.\nSir James Cleverly, shadow housing secretary, added: \"The Conservatives have already set out comprehensive plans to ensure British nationals are at the front of the queue for social housing.",
+      "id": "NDY=",
+      "url": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo",
+      "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
+      "summary": "The Spanish government has apologised to the people of Ceuta for the migrant crisis that has affected the city for weeks and it has unveiled plans to overhaul the country's immigration laws.\nAt least 72,000 migrants crossed from Morocco into Ceuta, a Spanish exclave in North Africa on 30 and 31 July.\nThe vast majority of the migrants returned to Morocco within hours of their arrival, but several thousand remain in Ceuta, many of them children, and most sleeping rough on beaches or streets.\nThe S\u00e1nchez government has now declared a situation of interest for national security in the city, centralising management of the crisis.\nTerritorial Policy Minister \u00c1ngel V\u00edctor Torres has been tasked with co-ordinating the response, relieving the Ceuta local government of that responsibility.",
       "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-08-23T21:07:47Z",
+      "bias": "lean right",
+      "publishedAt": "2026-08-25T19:11:40Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NTU=",
+      "id": "NDc=",
       "url": "https://www.yahoo.com/news/us/articles/deportees-refused-exit-us-flight-150205760.html",
       "title": "Deportees who refused to exit a US flight in Liberia are sent to Equatorial Guinea",
       "summary": "Under a series of often secret agreements, the Trump administration has deported thousands of people to two dozen countries that aren't their own as it pushes ahead with its immigration crackdown, advocates say.\nImmigration lawyers say the practice is being used as a legal loophole to indirectly return some asylum seekers to countries they fled.\nThe group who refused to get off the plane in Liberia on Thursday include four Cuban men, a Brazilian man and a Cameroonian woman, the person and lawyer said.\nAdvertisement AdvertisementA Honduran deportee aboard the flight said the group refused to disembark, saying Liberia was \"not their country\" and that they would face danger there.\nThere is no medical staff at the hotel in Equatorial Guinea where the six are being held, alongside around 40 other deported migrants, she added.",
@@ -673,7 +577,7 @@
   },
   {
     "article": {
-      "id": "NTY=",
+      "id": "NDg=",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
       "title": "Trump administration plans to revoke up to 200,000 visas, official says",
       "summary": "Trump administration plans to revoke up to 200,000 visas, official saystoggle caption Aaron Schwartz/AFP via Getty ImagesThe Trump administration is preparing to cancel 200,000 immigration visas nationwide, in what could be the largest revocation effort in U.S. history, according to an administration source familiar with the policy who was not authorized to speak on the record.\n\"Under President Trump and Secretary Rubio's leadership, we are making clear that a visa is a privilege \u2014 not a right.\nObtaining a visa in order to seek asylum is fraud \u2014 which is grounds for visa revocation.\nSponsor MessageThe 200,000 revocations will not happen in one fell swoop, but on a rolling basis, the administration source said.\nDe La Espriella was backed by the Trump administration.",
@@ -685,7 +589,7 @@
   },
   {
     "article": {
-      "id": "NTc=",
+      "id": "NDk=",
       "url": "https://www.yahoo.com/news/world/articles/colombian-president-orders-immigration-raids-230531032.html",
       "title": "Colombian president orders immigration raids, vows deportations of migrants without legal status",
       "summary": "Advertisement Advertisement\"I will not accept any illegal immigrants, wherever they come from,\" de la Espriella said in the video.\nAdvertisement AdvertisementAna Karina Garc\u00eda, director of Juntos Se Puede, an organization that helps Venezuelan migrants in Colombia, said that the Colombian government stopped handing out new temporary residency permits three years ago.\nShe said that de la Espriella's incoming administration should expand pathways to legal residency, instead of punishing people who cannot obtain residency permits.\n\"Not just in Colombia, but also in Chile, Peru and Ecuador,\" where conservative leaders have also made it harder for Venezuelan migrants to get residency permits.\nAdvertisement AdvertisementIn a text message, Colombia's national immigration department, Migracion Colombia, said that the agency is currently without a director.",
@@ -697,31 +601,19 @@
   },
   {
     "article": {
-      "id": "NTg=",
-      "url": "https://www.yahoo.com/news/us/articles/us--uss-lincoln-sailor-father-arrested-200359816.html",
-      "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-      "summary": "Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, according to his wife, Argelia Aviles.\nAviles' son said in a Facebook post that he has been working 12-hour work shifts for more than 250 days without a break on the USS Lincoln, which is deployed in the Middle East.\nJoshua Aviles wrote in his post on Saturday that he was still on the USS Lincoln \"fighting for a country that has given me everything\" when he got a call about his father's detention on Saturday morning.\nI don't know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,\" Joshua Aviles wrote.\nWhen six months passed and his son didn't come back, Aviles was distraught, she said.",
+      "id": "NTA=",
+      "url": "https://abcnews.com/US/state-department-preparing-cancel-tens-thousands-visas-held/story?id=135934199",
+      "title": "State Department preparing to cancel tens of thousands of visas held by asylum seekers: Officials",
+      "summary": "State Department preparing to cancel tens of thousands of visas held by asylum seekers: OfficialsIn this Oct. 8, 2024, file photo, the Harry S. Truman Federal Building, headquarters of the U.S. Department of State, is pictured in Washington, D.C.\nIn this Oct. 8, 2024, file photo, the Harry S. Truman Federal Building, headquarters of the U.S. Department of State, is pictured in Washington, D.C.\nIn this Oct. 8, 2024, file photo, the Harry S. Truman Federal Building, headquarters of the U.S. Department of State, is pictured in Washington, D.C.\nIn this Oct. 8, 2024, file photo, the Harry S. Truman Federal Building, headquarters of the U.S. Department of State, is pictured in Washington, D.C.\nDeputy Secretary of State Chris Landau posted to social media about individuals who use visas to get into the U.S. and claim asylum.",
       "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-08-23T20:03:59Z",
-      "source": "Yahoo Entertainment"
+      "bias": "lean left",
+      "publishedAt": "2026-08-25T17:27:05Z",
+      "source": "Abcnews.com"
     }
   },
   {
     "article": {
-      "id": "NTk=",
-      "url": "https://www.yahoo.com/news/us/articles/waiting-son-return-uss-lincoln-200359816.html",
-      "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-      "summary": "Luis Manuel Aviles, 48, was arrested after leaving his house to take his car to the mechanic, according to his wife, Argelia Aviles.\nAviles' son said in a Facebook post that he has been working 12-hour work shifts for more than 250 days without a break on the USS Lincoln, which is deployed in the Middle East.\nJoshua Aviles wrote in his post on Saturday that he was still on the USS Lincoln \"fighting for a country that has given me everything\" when he got a call about his father's detention on Saturday morning.\nI don't know how I can mentally continue working 12+ hour days knowing that my dad is somewhere, possibly treated like a criminal,\" Joshua Aviles wrote.\nWhen six months passed and his son didn't come back, Aviles was distraught, she said.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-08-23T20:03:59Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NjA=",
+      "id": "NTE=",
       "url": "https://www.cnn.com/2026/08/24/politics/dhs-immigration-fentanyl-watchdog-report",
       "title": "Fentanyl investigations dropped during Trump\u2019s immigration crackdown, DHS watchdog says",
       "summary": "The Department of Homeland Security\u2019s decision last year to pull additional federal agents for immigration enforcement resulted in a dramatic drop in fentanyl investigations and seizures by the department\u2019s investigations division, according to a federal watchdog report.\nThe sudden change in approach toward ongoing fentanyl-related efforts stemmed from President Donald Trump\u2019s aggressive immigration crackdown, which required federal agents across the government to be pulled in for immigration arrests.\nThat included agents from Immigration and Customs Enforcement Homeland Security Investigations, the body charged with combatting cartels and criminal organizations.\nAccordingly, HSI prioritized immigration enforcement over fentanyl-related criminal investigations,\u201d the report found.\nThat also led to a reduction in fentanyl investigations and seizures.",
@@ -733,7 +625,7 @@
   },
   {
     "article": {
-      "id": "NjE=",
+      "id": "NTI=",
       "url": "https://thenextweb.com/news/dhs-h1b-visa-fee-103265-proposed-rule-federal-register",
       "title": "Trump wants a $103,265 fee on new H-1B visas",
       "summary": "It would charge employers $103,265 for a new H-1B visa.\nH-1B visas let US employers hire foreign workers trained in specialty fields, and the technology sector leans on them heavily.\nWhat the rule saysThe fee would apply to petitions subject to the annual cap of 85,000 visas.\nApplications were already fallingEmployers registered for about 344,000 H-1B visas last year, on figures from US Citizenship and Immigration Services.\nIt has also proposed scrapping the grace period that lets laid-off H-1B workers stay while they look for another job.",
@@ -745,7 +637,67 @@
   },
   {
     "article": {
-      "id": "NjI=",
+      "id": "NTM=",
+      "url": "https://www.cnn.com/2026/08/25/politics/trump-admin-revoke-visas-thousands-asylum-seekers",
+      "title": "Trump admin moving to revoke visas from potentially hundreds of thousands of asylum seekers",
+      "summary": "The Trump administration is moving to revoke visas from potentially hundreds of thousands of foreigners who have applied for or are seeking asylum in the United States.\nIt comes as the Trump administration has aggressively sought to both prevent immigrants from coming to the US and to remove those who are already in the country.\nAn immigration lawyer and a former State Department consular official described the planned deportations as largely symbolic and meant to play into the administration\u2019s claims that the visa system is being abused.\nMackler told CNN that asylum seekers who have their visas revoked would \u201cat a minimum\u201d have to be given a hearing before an immigration judge before they could be deported.\nThe State Department announced earlier this month that it had revoked more than 175,000 visas since President Donald Trump began his second term, marking a significant jump from December.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-08-25T15:58:21Z",
+      "source": "CNN"
+    }
+  },
+  {
+    "article": {
+      "id": "NTQ=",
+      "url": "https://abcnews.com/Politics/father-sailor-deployed-uss-abraham-lincoln-released-ice/story?id=135930360",
+      "title": "Father of sailor deployed on USS Abraham Lincoln released by ICE",
+      "summary": "The father of a sailor deployed aboard the USS Abraham Lincoln aircraft carrier was released by immigration authorities Tuesday -- days after his son posted about the ordeal on Facebook, an account not disputed by the Department of Homeland Security.\nJoshua Aviles, the sailor, posted on Facebook on behalf of the family that his dad, Luis Manuel Aviles Roa, had been released.\n\"Luis has been released back to our family,\" the Aviles family posted on the sailor's Facebook page.\nNimitz-class aircraft carrier USS Abraham Lincoln conducts a replenishment-at-sea, Aug. 16, 2026.\nU.S. sailors taxi aircraft to a staging point on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln, in support of Operation Epic Fury, Feb. 28, 2026.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-08-25T19:59:31Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NTU=",
+      "url": "https://www.yahoo.com/news/us/articles/ice-agent-charged-shooting-minnesota-040527019.html",
+      "title": "Judge denies Minnesota's bid to compel the extradition of an ICE officer from Texas",
+      "summary": "BROWNSVILLE, Texas (AP) \u2014 A federal judge on Wednesday refused to order Texas to extradite an Immigration and Customs Enforcement officer charged with shooting a man and lying about it during the immigration crackdown in Minneapolis.\nU.S. District Judge Fernando Rodriguez Jr. wrote in an order that he couldn't prevent a county sheriff from releasing Christian Castro or order Texas Gov.\nAfter a Minnesota judge issued a nationwide warrant for Castro's arrest in May, authorities, including Minnesota's Bureau of Criminal Apprehension, arrested Castro in Cameron County on May 29.\nUnder Texas law and barring extradition, Castro must be released after 90 days of detention, which is Thursday.\nAdvertisement AdvertisementThe judge said in his order that the extradition laws do not outline how long the Texas governor can take to make that decision.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-08-26T04:05:27Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NTY=",
+      "url": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants",
+      "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+      "summary": "European Commission says it is \u2018assessing\u2019 Spain\u2019s request after some 70,000 migrants surged into North African enclave.\nShare Spain requests emergency funding from the EU over Ceuta migrants on social mediaSpain has formally requested emergency funding from the European Union to address the migration situation in its North African enclave of Ceuta, weeks after tens of thousands of people surged across the border from Morocco.\nThe Spanish government also took steps to speed up the return of the migrants who still remain in the Spanish territory of Ceuta.\nSpanish authorities must identify those remaining in Ceuta to establish whether they are entitled to international protection or, if not, begin procedures for their return.\nCeuta and Melilla, Spain\u2019s two North African enclaves, hold the EU\u2019s only land borders with Africa.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-08-25T17:31:09Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTc=",
+      "url": "https://www.aljazeera.com/features/2026/8/25/trump-plans-largest-mass-visa-cancellation-in-history-who-will-it-affect",
+      "title": "Trump plans largest mass visa cancellation in history: Who will it affect?",
+      "summary": "The Trump administration has tightened restrictions on visa applicants as well, suspending new visas to citizens of 75 countries.\nWhy is the US targeting B-1 and B-2 visas?\nSome, however, then proceed to file asylum claims once they are in the US anyway.\nDeputy Secretary of State Christopher Landau criticised the use of tourist and business visas as a path to asylum claims.\n\u201cPeople in the US and all over the world are fed up with bogus asylum claims,\u201d he wrote on X.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-08-25T14:04:44Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTg=",
       "url": "https://abcnews.com/Politics/active-duty-military-spouses-detained-amid-trumps-deportation/story?id=135840276",
       "title": "Wife of active-duty Army sergeant deported amid Trump's immigration campaign",
       "summary": "She said she is currently working with eight active-duty service members and one veteran whose family members have been detained as of Aug. 20.\nMilitary service has long been a pathway to citizenshipFor decades, military families have occupied a protected corner of the immigration system, according to the National Military Family Association.\n\"Military service by an immediate relative does not automatically grant parole, lawful status, or immunity from immigration enforcement.\"\n\u200bJames said that many of the other cases of active-duty military service members' families being detained have involved members of Congress making calls to reunite families.\nKelly has publicly been involved with two other cases of military families targeted by the Trump administration for deportation.",
@@ -757,31 +709,31 @@
   },
   {
     "article": {
-      "id": "NjM=",
-      "url": "https://www.businessinsider.com/smart-people-trump-canadian-trade-war-tariffs-reactions-2026-8#article",
-      "title": "Smart People React to Trump's New Canadian Trade War",
-      "summary": "The trade war between the US and Canada is escalating.\nOn Tuesday, Canada announced retaliatory tariffs as high as 50% on a range of American products.\nThe move comes after President Donald Trump's 50% tariffs on some Canadian goods took effect on Saturday, and after Trump threatened on Monday to impose another batch of 50% tariffs on Canadian-made products.\nThose tariffs would affect cars, trucks, auto parts, and steel, and would take effect on January 1.\nTrump also said on Tuesday that he's considering renaming Lake Ontario to Lake America.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-08-24T19:12:55Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NjQ=",
-      "url": "https://uk.news.yahoo.com/iran-says-sanctions-threatened-desperate-122445093.html",
-      "title": "Iran says new sanctions threatened by 'desperate' US will fail",
-      "summary": "U.S. Treasury Secretary Scott Bessent, who is \u200cdue to hold a press conference at 2 p.m. EDT (1800 GMT) on Monday, has threatened to impose \"the toughest sanctions in history\" on \u200cIran.\nHe said Washington must speak to Iran respectfully to find \"a solution based on justice and honour.\"\n\"They would love to make a deal, but they're not ready to make the right deal, in my opinion,\" Trump said of Iran.\nIranian Parliament speaker Mohammad Baqer \u200cQalibaf said on Saturday that Tehran had received \"numerous messages\" from neighbouring countries about establishing \u200bnew regional security arrangements and economic cooperation.\nWhile Iran remains defiant, President Masoud Pezeshkian has also called for a diplomatic solution.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-08-23T12:24:45Z",
+      "id": "NTk=",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-mulls-renaming-lake-ontario-185007690.html",
+      "title": "Trump mulls renaming Lake Ontario as 'Lake America.' Canadians balk at the idea",
+      "summary": "WINDSOR, Ontario (AP) \u2014 With his trade war with Canada intensifying, President Donald Trump floated the idea of renaming Lake Ontario to become \"Lake America.\"\n\"The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don't expect to doing much business with Ontario any longer,\" Trump posted Tuesday on Truth Social.\nAdvertisement AdvertisementOntario Premier Doug Ford, who traded personal insults with Trump on Monday, dismissed the Lake Ontario threat as \"a lot of rhetoric\" and urged the two countries to resume negotiations.\nHe cited Canadian tariffs on dairy and other products.\nAdvertisement Advertisement___This story has corrected to reflect that Trump floated the idea in a social media post on Tuesday, not Monday.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-08-25T18:50:07Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NjU=",
+      "id": "NjA=",
+      "url": "https://www.theatlantic.com/politics/2026/08/ice-shootings-deadly-force/688407/",
+      "title": "ICE Has Quietly Changed Its Deadly-Force Rule",
+      "summary": "Acting ICE Director David Venturella and other senior ICE leaders ordered the change late last month, the two senior officials said.\nICE officers have shot at least 16 people since last January, four of them fatally, according to public records.\nAfter the shootings last month, ICE and DHS pledged to expedite the deployment of body-worn cameras for ICE officers.\nShuchart said the administrative-leave extension \u201cseemed like a healthy signal\u201d that ICE leaders knew \u201cthey might have a real problem\u201d after the shooting in Maine.\nBut since then, Democratic leaders in several states have vowed to bring charges against ICE officers for use of excessive force.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-08-25T22:22:00Z",
+      "source": "The Atlantic"
+    }
+  },
+  {
+    "article": {
+      "id": "NjE=",
       "url": "https://www.bbc.co.uk/sounds/play/p0p62njt?at_campaign=rss",
       "title": "What Is Andy Burnham's Missile Offer To Ukraine?",
       "summary": "Available for over a yearToday, Andy Burnham will hand over blueprints to Ukraine so Kyiv can build its own long-range missiles.\nPlus, President Trump and Canada\u2019s Mark Carney are in the midst of a trade war after negotiations between the two countries collapsed on Friday.\nAdam talks to chief Washington presenter Caitriona Perry, and presenter of CBC\u2019s Front Burner podcast Jayme Poisson.\nIf you want to listen, just say \"Ask BBC Sounds to play Newscast\u201d.\nIf you're in the UK, for more News and Current Affairs podcasts from the BBC, listen on BBC Sounds: https://bbc.in/4guXgXd Newscast brings you daily analysis of the latest political news stories from the BBC.",
@@ -793,43 +745,55 @@
   },
   {
     "article": {
-      "id": "NjY=",
-      "url": "https://ca.news.yahoo.com/syria-foreign-minister-sees-israel-073657829.html",
-      "title": "Syria foreign minister sees Israel security talks resuming despite no trust",
-      "summary": "But it has proven \u200belusive as Israel has sent troops into Syrian territory and attacked government assets, citing threats to its security.\nContact between Syria and Israel was cut after the airbase strike, he said.\n\"We believe there should be contact, especially with a party that constantly threatens the security of Syria.\nAdvertisement AdvertisementAdvertisement AdvertisementShaibani said Syria respected Israel's security concerns but that Israel must respect those of Syria, including Israel's use of its airspace, Israeli raids and arrests in the south.\nShaibani said Israel had bombed Abu al-Duhur even after \u200cSyria conveyed a message that it would not be a Turkish base.",
+      "id": "NjI=",
+      "url": "https://www.yahoo.com/news/world/articles/vatican-foreign-minister-moscow-says-121807838.html",
+      "title": "Vatican foreign minister, in Moscow, says Ukraine war must end",
+      "summary": "MOSCOW, Aug 25 (Reuters) - A senior Vatican official urged an end to the Ukraine war after \u200cmeeting in Moscow on Tuesday with Russian Foreign \u200cMinister Sergey Lavrov in the first in-person talks between Vatican and \u200bRussian officials in five years.\nArchbishop Paul Gallagher, the Vatican's foreign minister, said every day that the four-year Russia-Ukraine war continues, it \"creates new victims ... and renders future reconciliation ever \u200cmore difficult.\"\n\"It is therefore \u2060urgent and necessary to end and to look beyond the conflict,\" he said, speaking \u2060next to Lavrov at a joint press conference following their meeting.\nGallagher, the Vatican's second-highest diplomatic official, had last visited Moscow for talks with Lavrov in 2021, before the start of the war.\nGallagher said on Tuesday \u200bthe Vatican would \"continue \u200bto provide strong spiritual, diplomatic, and humanitarian support by contributing to and offering a space for dialogue\" \u200bto end \u200cthe war, which has raged for 4-1/2 years.",
       "category": "international",
       "bias": "left",
-      "publishedAt": "2026-08-23T07:36:57Z",
+      "publishedAt": "2026-08-25T12:21:08Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "Njc=",
-      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel",
-      "title": "Syria\u2019s foreign minister says door open for diplomacy with Israel",
-      "summary": "Syrian Foreign Minister Asaad al-Shaibani says the door for diplomacy with Israel is open, urging it to seize a \u201chistoric opportunity\u201d.\nBut an agreement has proven elusive as Israel has sent troops into Syrian territory and attacked government assets, citing threats to its security.\n\u201cWe believe there should be contact, especially with a party that constantly threatens the security of Syria.\n\u201cIsrael has tried to maintain its security through brute force, and it hasn\u2019t succeeded\u201d anywhere, al-Shaibani said.\nAl-Shaibani said Israel had bombed \u200cAbu \u200cal-Duhur even after Syria conveyed a message that it would not be a Turkish base.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-08-23T10:48:55Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "Njg=",
-      "url": "https://www.yahoo.com/news/politics/articles/us-envoy-walks-back-comments-190343038.html",
-      "title": "A US envoy clarifies his comments on Golan Heights that contradicted Trump's position",
-      "summary": "Israel captured the Golan Heights from Syria in the 1967 Mideast war and annexed it in 1981.\nIn 2019, Trump recognized Israeli sovereignty over the territory, reversing decades of U.S. policy.\nAdvertisement AdvertisementAmbassador Tom Barrack on Friday said that Israel \"still\" occupies the territory in an interview with Lebanese-Australian entrepreneur Mario Nawfal.\nBarrack now says that was a description of the territory's historical status, \"not an endorsement of the United Nations' position\" on the Golan.\nTurkey and Syria have denied that Turkish forces were due to be deployed at the Abu Duhur base.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-08-23T19:03:43Z",
+      "id": "NjM=",
+      "url": "https://www.yahoo.com/news/world/articles/hungary-files-criminal-complaint-over-102003939.html",
+      "title": "Hungary files a criminal complaint over $965M COVID-19 ventilator deal, citing possible fraud",
+      "summary": "BUDAPEST, Hungary (AP) \u2014 Hungary's foreign ministry has filed a criminal complaint with prosecutors over what it says was possible fraud related to the previous government's purchase of ventilators worth some $965 million during the COVID-19 pandemic, Foreign Minister Anita Orb\u00e1n said Tuesday.\nIn a video posted to Facebook on Tuesday, Foreign Minister Orb\u00e1n, who is not related to the former prime minister, said the results of a ministry investigation into the purchase \"raises suspicions of breach of fiduciary duty causing particularly substantial financial loss and other criminal offenses.\"\nSome of the ventilators were defective, and a significant proportion of them was never deployed, the statement reads, adding that storage costs for the unused devices ran into the millions of dollars.\nHungary's former foreign minister P\u00e9ter Szijj\u00e1rt\u00f3 cultivated close ties with China during his nearly 12 years in office, and oversaw the purchase of the ventilators as well as the procurement of 5 million doses of the China-produced Sinopharm COVID-19 vaccine.\nHungary's government later launched an investigation into large investments into Hungary made by BYD during Szijj\u00e1rt\u00f3's tenure.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-08-25T10:20:03Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "Njk=",
+      "id": "NjQ=",
+      "url": "https://uk.news.yahoo.com/bangladesh-could-consider-joining-mecca-110334660.html",
+      "title": "Bangladesh could consider joining Mecca pact, in test for foreign ties",
+      "summary": "By Ruma PaulDHAKA, Aug 25 (Reuters) - Bangladesh could consider joining the Mecca pact, a mutual defence agreement signed this month between Saudi Arabia, Turkey and Pakistan, a minister said, a move that could complicate its foreign relations, particularly with neighbouring India.\nIt is being viewed positively,\" said junior foreign minister Humayun Kabir.\n\"They are inviting the leadership of Bangladesh, particularly Prime Minister Tarique Rahman, to come and participate,\" he told reporters on Monday.\nA source in the Bangladesh foreign ministry told Reuters that Saudi Arabia had invited Dhaka to join the pact, but did not say when the invitation was made.\nAdvertisement AdvertisementAdvertisement AdvertisementIndia's foreign ministry spokesperson on the \u200bMecca pact said it was closely following developments in West Asia.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-08-25T11:03:34Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NjU=",
+      "url": "https://www.yahoo.com/news/politics/articles/us-lawmakers-urge-trump-ban-100423733.html",
+      "title": "US lawmakers urge Trump to ban Americans from aiding Chinese security agencies",
+      "summary": "By Alexandra AlperWASHINGTON, Aug 25 (Reuters) - Republican and Democratic lawmakers on Tuesday called on the Trump administration to bar American citizens and businesses \u200cfrom supporting Chinese and Russian civilian intelligence and security agencies.\nCongress approved a \u200claw in 2018 banning Americans from providing support to foreign military intelligence agencies but leaving the door \u200bopen to such aid for similar civilian-led organizations.\nThe Commerce Department and the Russian and Chinese embassies in Washington did not immediately respond to requests for comment.\nA decision by the Trump administration earlier this year to allow Nvidia (NVDA.O), to sell advanced AI chips \u200bto China has drawn \u200cfire from both parties.\nDemocratic Senator Peter Welch, Republican Congressmen Michael McCaul and \u200bPat Harrigan and Democratic Congresswoman Sara Jacobs also signed the letter.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-08-25T10:04:23Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NjY=",
       "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions",
       "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
       "summary": "Syria\u2019s foreign minister meets with an Israeli delegation led by the chief of the Mossad to de-escalate tensions after an Israeli strike near the Turkish border.\nSyria\u2019s Sana news agency, citing a diplomatic source, said the talks were mediated by the United States and involved a \u201chigh-level Israeli delegation\u201d.\nThey also discussed efforts to ease tensions between Israel and Turkiye and to prevent their rivalry from spilling onto Syrian \u200cterritory, Sana reported.\nIsrael\u2019s \u2018red lines\u2019Israeli media reported that the talks were \u201cpositive\u201d and said Israeli officials had adopted a number of red lines going into talks.\nDuring previous rounds of US-mediated talks, Syria and Israel had agreed on a joint mechanism to share intelligence and defuse tensions.",
@@ -841,19 +805,31 @@
   },
   {
     "article": {
-      "id": "NzA=",
-      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied",
-      "title": "US envoy Tom Barrack retracts comment that Syria\u2019s Golan is occupied",
-      "summary": "Share US envoy Tom Barrack retracts comment that Syria\u2019s Golan is occupied on social mediaUnited States Ambassador Tom Barrack has reasserted Washington\u2019s position that Syria\u2019s Golan Heights belongs to Israel after saying last week that the territory is occupied against \u201call of the international order\u201d.\nUS President Donald Trump\u2019s ambassador to Turkiye and envoy for Syria walked back that comment on Sunday, underscoring Trump\u2019s policy of recognising Israel\u2019s claimed sovereignty over the stretch of land in southern Syria.\nUntil Trump backed the Israeli claim to the Syrian territory, no country had recognised the Golan as part of Israel.\nIn an interview with podcaster Mario Nawfal on Friday, Barrack appeared to acknowledge that the Golan is occupied Syrian land.\nAdvertisement\u201cSaying that, in the Golan with Syria, they still occupy the Golan against the UN resolutions, against all of the international order, which has said the Golan is Syria\u2019s,\u201d Barrack said.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-23T21:23:05Z",
+      "id": "Njc=",
+      "url": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions",
+      "title": "China says will safeguard its own interests as US expands Iran sanctions",
+      "summary": "China, a key customer of Iranian oil, has advocated for a ceasefire, insisting US sanctions will not resolve the conflict.\nShare China says will safeguard its own interests as US expands Iran sanctions on social mediaChina has said that it would safeguard its interests after Washington unveiled new measures while laying out plans for the \u201ceconomic asphyxiation\u201d of Beijing\u2019s economic partner Iran.\n\u201cCooperation between China and Iran has always been conducted within the framework of international law and should not be interfered with or disrupted,\u201d Lin said.\n\u201cChina has already stated many times that it firmly opposes illegal unilateral sanctions \u2026 China will take all necessary measures to firmly safeguard its own rights and interests.\u201dThe latest comments come nearly six months into the US-Israel war on Iran, as the United States rolls out new penalties on entities including several in China.\nIran has weathered sanctions for decades, using complex international financial networks to evade restrictions.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-08-25T14:43:12Z",
       "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NzE=",
+      "id": "Njg=",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal",
+      "title": "Syria\u2019s economy poised for improvement after US sanctions removal",
+      "summary": "Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.\nSyria\u2019s removal by the United States from its \u201cstate sponsors of terrorism\u201d list clears one of the last major hurdles to the country\u2019s integration into the global financial system, analysts tell Al Jazeera.\nOn July 8, US President Donald Trump announced he was formally notifying Congress of his intention to rescind Syria\u2019s designation, which had been in place since 1979.\nAdvertisementDuring the conflict, Syria became increasingly isolated from the global community as more international sanctions were placed on the regime.\nKochaji said the removal of sanctions would impact Syrians daily lives but the impact may not be as immediate as some may hope.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-08-25T18:43:42Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "Njk=",
       "url": "https://thenextweb.com/news/pdd-temu-q2-earnings-europe-foreign-subsidies-exposure",
       "title": "Temu-Owner PDD beats profit estimates as revenue growth slows to 8%",
       "summary": "PDD Holdings posted adjusted quarterly earnings of 19.33 yuan per share against estimates of 18.51, with revenue up 8% to 112.4bn yuan, or $16.6bn, missing forecasts.\nShares rose about 3.5% premarket as European regulatory pressure on Temu continues to build.\nPDD Holdings reported adjusted earnings of 19.33 yuan per American depositary receipt against an estimate of 18.51, on revenue up 8% to 112.4bn yuan, or $16.6bn, which missed forecasts.\nThe shares rose about 3.5% in premarket trading in New York.\nSingle-digit revenue growth is a long way from the pace PDD ran at while Temu was pushing into Europe and the United States.",
@@ -865,7 +841,7 @@
   },
   {
     "article": {
-      "id": "NzI=",
+      "id": "NzA=",
       "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list",
       "title": "US removes Syria from \u2018state sponsor of terrorism\u2019 list",
       "summary": "Syria hails US\u2019s \u2018historic decision\u2019 and says it will help the country rebuild after 14 years of civil war.\nThe United States has removed Syria from its list of \u201cState Sponsors of Terrorism\u201d, a decision Syrian President Ahmed al-Sharaa hailed as \u201chistoric\u201d and said would help the country\u2019s recovery after 14 years of civil war.\nUS Secretary of State Marco Rubio said in a statement that the action was \u201ctaken in recognition of the positive actions taken and further commitments\u201d by al-Sharaa to \u201cfully distance Syria from acts of international terrorism\u201d.\nSyria had been on the list since 1979, when Washington accused the government of former President Hafez al-Assad of supporting armed groups.\nIt had remained a major deterrent for banks and investors even after Washington dismantled its broader sanctions programme on Syria.",
@@ -877,38 +853,26 @@
   },
   {
     "article": {
-      "id": "NzM=",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-politicians-focus-on-foreign-threats-ignoring-spiralling-debt",
-      "title": "Israeli politicians focus on foreign threats, ignoring spiralling debt",
-      "summary": "Israel\u2019s parliamentary election campaign is in full swing, with politicians talking up their ability to defeat the country\u2019s opponents across the region.\nThe Finance Ministry said it is around 1.4 trillion shekels ($480bn), an increase from 1.07 trillion shekels ($365bn) before October 2023.\nThere isn\u2019t really much of an understanding of how debt works, or even the massive costs of servicing that debt.\n\u201cThe long term projection for Israel\u2019s debt [to GDP percentage] fluctuates between around 67 percent and 70 percent [compared to around 60 percent before October 2023], which is concerning,\u201d he said.\nHowever, few are showing any signs of doing so, Ben-Gad added, referring instead to spiralling defence projections to meet future threats.",
+      "id": "NzE=",
+      "url": "https://www.businessinsider.com/trump-canada-tariffs-americas-favorite-cars-toyota-chevy-honda-2026-8#article",
+      "title": "Trump's Canada tariffs take aim at America's favorite cars",
+      "summary": "America's second-, third-, and fourth-best-selling vehicles in 2025 \u2014 the Chevy Silverado, the Toyota RAV4, and the Honda CR-V \u2014 all rely on production plants in Canada.\nAutomakers have escape routes \u2014 but they aren't simpleRows of newly-assembled Honda vehicles are parked outside the Alliston, Ontario, plant.\nJEFF KOWALSKY/AFP via Getty ImagesThe White House defended the tariffs as an incentive for automakers to expand US production.\nThe $3.6 billion Toyota investment recently highlighted by the White House will move Tacoma production from Mexico to Texas by 2030.\nThe White House did not directly answer whether the tariffs themselves could affect vehicle prices and availability.",
       "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-08-23T07:46:52Z",
-      "source": "Al Jazeera English"
+      "bias": "center",
+      "publishedAt": "2026-08-25T21:57:21Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "NzQ=",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll",
-      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-      "summary": "Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.\nShare US public support for Iran war falls as Trump approval at record low: Poll on social mediaSupport in the United States for the war on Iran has fallen as President Donald Trump\u2019s approval remains at a record low, a Reuters/Ipsos poll suggests.\nThe war is also continuing to weigh on Trump\u2019s standing with the public, the poll suggests.\nAdvertisementA growing majority of Americans expect the war to continue for some time, the poll suggests.\nThe poll suggests that independent voters favour Democrats over Republicans when asked which party they would support in a congressional election held today.",
+      "id": "NzI=",
+      "url": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock",
+      "title": "Bangladesh-India reset stalls over Hasina: What would break the deadlock?",
+      "summary": "Share Bangladesh-India reset stalls over Hasina: What would break the deadlock?\nBangladesh subsequently said a \u201cpropitious environment\u201d was needed before the trip, while asking New Delhi to act on extradition requests involving Hasina and other fugitives.\nThe key question may be less when India hands Hasina over than what India allows her to do while she remains there.\nYet Kobir\u2019s comments also suggest Dhaka does not want the Hasina dispute to indefinitely prevent high-level engagement.\nBut the Hasina question is only one part of a broader recalibration of Dhaka\u2019s relationship with New Delhi.",
       "category": "international",
       "bias": "lean left",
-      "publishedAt": "2026-08-24T21:35:10Z",
+      "publishedAt": "2026-08-25T07:46:56Z",
       "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NzU=",
-      "url": "https://www.yahoo.com/news/articles/ukraine-wants-peace-wont-zelenskiy-082521281.html",
-      "title": "Britain, France pledge stronger support as Ukraine marks Independence Day",
-      "summary": "Advertisement AdvertisementPresident Volodymyr Zelenskiy had earlier praised the resilience of the Ukrainian people during more than four years of war.\nZelenskiy told the meeting that Ukraine's war effort was complicated by a $27-billion defence funding gap this year and appealed for additional financial support.\nAdvertisement AdvertisementPaying tribute to Ukrainian people and soldiers defending Ukraine in the war, Zelenskiy called on allies to give it \"everything\" needed to stop the war.\nU.S.-led peace talks to bring a lasting end \u200bto the war fell apart earlier this year as Ukraine refused Russian demands to cede more territory.\nUkraine has increased its long-range attacks on Russian refineries and logistics infrastructure, aimed at undermining Moscow's war effort.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-24T08:31:11Z",
-      "source": "Yahoo Entertainment"
     }
   }
 ]
