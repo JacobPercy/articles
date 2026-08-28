@@ -1,43 +1,83 @@
 [
   {
-    "id": "MA==",
-    "url": "https://www.businessinsider.com/stock-market-outlook-nvidia-q2-earnings-jackson-hole-fed-rates-2026-8#article",
-    "title": "Nvidia time: These 2 events will define markets this week",
-    "summary": "Two major events are likely to drive financial markets this week: Nvidia's second-quarter earnings report and the Fed's annual Jackson Hole Economic Symposium.\nPerhaps the biggest development in markets over the last week has been the surge in long-term bond yields.\nThe move in Treasury yields has reignited the conversation around a potential AI bubble.\nBloomberg/Getty ImagesIf either one of these events is likely to lift the spirits of investors, it's Nvidia's Q2 earnings report.\nThe central bank's chairman Kevin Warsh has stopped giving forward guidance on monetary policy, making his speaking engagements volatile market events.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-24T09:30:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MQ==",
-    "url": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
-    "title": "Greenworks\u2019 MaximusZ electric riding mower has five motors and a few compromises",
-    "summary": "The 80-volt architecture within the MaximusZ mower here is the company\u2019s latest, with Greenworks offering various packs of various sizes.\nWith a maximum speed of 8mph and 41 horsepower on tap, it\u2019s comparable to something like a Stihl RZ 552, which retails for $9,499.\nSquint, though, and you can see the current state of charge, maximum mower speed, maximum blade speed, and total runtime.\nI fear the extra charging cycles these smaller packs face mean they\u2019ll wear out more quickly than if the larger packs were depleted first.\nGreenworks markets the MaximusZ as something that not only replaces a high-end zero-turn mower, but also serves as a mini utility vehicle around your property.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-24T20:54:30Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTI=",
-    "url": "https://abcnews.com/Business/united-airlines-largest-expansion-new-seating-option-economy/story?id=135933140",
-    "title": "United Airlines' largest expansion comes with new seating option for economy travelers",
-    "summary": "Passengers will have the option to book a seat with extra space.\nUnited is unveiling a new seating option blocking off the middle seat.\nUnited Airlines XLR airplane.\nUnited AirlinesUnited is not the sole U.S. carrier which offers the blocked middle seat option.\nThe option is gradually expected to be replaced by the First Class seating options on Frontier flights, according to the airline\u2019s website.",
+    "id": "Mg==",
+    "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+    "title": "The UK Power Grid Has a Phantom Data Center Problem",
+    "summary": "In July, the UK\u2019s energy regulator, Ofgem, laid out a proposal meant to force phantom data centers out of the swollen queue.\nData center developers face delays almost everywhere; similar grid congestion issues afflict the US and countries across Europe.\nThe frenzied data center buildout \u201cis bringing a huge amount of capital investment into the UK,\u201d says Alex Burgoyne, head of data centers at real estate consultancy Knight Frank.\nNew data centers make up 73 gigawatts of that\u2014equivalent to one and a half times the peak demand for the entire UK last year\u2014and counting.\n\u201cNo one really understands \u2026 what the real grid demand will be because of these phantom projects.\u201dThe crowded queue is largely the product of an incentives problem.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-08-25T14:09:36Z",
-    "source": "Abcnews.com"
+    "publishedAt": "2026-08-27T06:00:00Z",
+    "source": "Wired"
   },
   {
-    "id": "MTY=",
-    "url": "https://thenextweb.com/news/spacex-natural-gas-trading-team-starship-chip-fab",
-    "title": "SpaceX is hiring a natural gas trader for its rockets and chips",
-    "summary": "The role \u201cfocuses on physical and financial natural gas trading\u201d, the posting says.\nThe other reason is a chip factoryEarlier this month SpaceX said it will build its own gas-fired power plants.\nSurging demand from data centres and new factories has already pushed developers towards new gas plants across the United States.\nMusk has done this beforeMusk has long been a fan of vertical integration, Bloomberg noted, and the gas plants fit that pattern.\nGas plants, pipelines and wells come with their own permitting and their own neighbours.",
+    "id": "Nw==",
+    "url": "https://thenextweb.com/news/japan-blockchain-settlement-stocks-bonds",
+    "title": "Japan wants stock and bond settlement to happen instantly, on a blockchain",
+    "summary": "Portions of the balances banks hold at the Bank of Japan would be converted into digital tokens on a blockchain network, making this an interbank central bank digital currency rather than anything consumers would touch.\nSettlement infrastructure is the sort of thing that has to work on the first day and every day afterwards.\nOfficials want to keep Japanese markets competitive as the United States and Europe build out tokenised securities infrastructure, which is a defensive framing rather than an ambition to lead.\nJapan has formed here, having run digital currency experiments through the Bank of Japan for several years without committing to a retail launch.\nJapan proposing to tokenise central bank money rather than the securities themselves is a version of that argument.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-24T19:16:55Z",
+    "bias": "lean right",
+    "publishedAt": "2026-08-26T07:42:30Z",
     "source": "The Next Web"
+  },
+  {
+    "id": "OQ==",
+    "url": "https://hardware.slashdot.org/story/26/08/26/2117239/bill-gates-proposes-major-limits-on-ai-development",
+    "title": "Bill Gates Proposes Major Limits On AI Development",
+    "summary": "Statistics means never having to say you're certain.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-27T03:30:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MTA=",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-wants-investors-believe-total-180145400.html",
+    "title": "Anthropic wants investors to believe its \u2018total addressable market\u2019 is worth $30 trillion\u2014nearly the size of the entire US economy",
+    "summary": "If there's one thing that AI companies are known for, it's their fondness for seemingly incomprehensible numbers.\nNow come total addressable market estimates\u2014known as TAMs\u2014worth roughly 40% of the entire US equity market.\nAI lab Anthropic, reportedly on the verge of a $2 trillion IPO, is preparing to tell investors that its total addressable market is worth more than $30 trillion, according to a report in the Wall Street Journal.\nTo put that figure in perspective, it eclipses the total GDP of China, is roughly equal to the entire GDP of the U.S., and represents about a quarter of the total world GDP of $120 trillion.\nRather than a forecast of Anthropic's imminent sales, a total addressable market, or TAM, is the annual revenue a company could theoretically generate if it captured 100% of the relevant market.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-26T18:01:45Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MTE=",
+    "url": "https://thenextweb.com/news/oro-3m-agentic-finance-mh-ventures-mapleblock",
+    "title": "MH Ventures and Mapleblock Capital co-lead $3M investment in Oro to scale agentic finance",
+    "summary": "TL;DR Oro has raised $3M co-led by MH Ventures and Mapleblock Capital to scale its agentic finance platform, which converts natural-language instructions into non-custodial DeFi transactions.\nThe platform has 350,000+ active users across 80+ languages, with campaigns alongside Avalanche and Ondo Finance.\nThat is the lane Oro has been working in and advancing before the term \u201cagentic finance\u201d became a standard pitch-deck phrase.\nOro, which is actively turning plain-language financial instructions into multi-step, non-custodial transactions, announced a $3 million strategic round co-led by MH Ventures and Mapleblock Capital, joined by M2M Capital, Archer Capital, X21 Digital, and returning backers Disrupt.com and ZIG Labs.\nIn that regard, every Oro execution requires the user\u2019s own signature so that nothing moves without an explicit permission.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-25T09:48:19Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MTQ=",
+    "url": "https://www.bbc.co.uk/sounds/play/p0p64vd3?at_campaign=rss",
+    "title": "Is China Replacing Workers With Robots?",
+    "summary": "China has two million robots already working in factories, and is investing heavily in the hopes that one day they could bridge gaps in an already sluggish economy.\nOur China correspondent Laura Bicker has been to some of these factories, and is on the line to debrief.\n60% of the new homes would be for social rent, despite Andy Burnham telling The Social Housing Podcast in May he \"would actually devote all of it to social housing.\u201d.\nIf you want to listen, just say \"Ask BBC Sounds to play Newscast\u201d.\nThe social producer was Jem Westgate.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-08-25T15:39:00Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MTc=",
+    "url": "https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny",
+    "title": "Nvidia is about to report its fastest growth in seven quarters",
+    "summary": "Nvidia is expected to report quarterly revenue of $92.18bn, close to double the same period last year and its fastest growth in seven quarters, with analysts forecasting a further rise to $104.20bn in the current quarter.\nShipments of the next-generation processors begin this autumn, and how quickly customers move off Blackwell determines whether the guidance holds.\nNvidia has already said Vera Rubin is in full production with OpenAI deploying at scale.\nAmazon, Google, and Meta all have custom silicon programmes; AMD and Intel are pushing on inference, and inference is the workload that grows fastest once models are deployed rather than trained.\nDemand for inference capacity keeps outrunning supply; the buildout has years of announced projects behind it, and no competitor has yet matched the software stack that keeps customers on Nvidia hardware once they are there.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-26T07:23:26Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+    "title": "What We Still Don\u2019t Know About OpenAI\u2019s Hugging Face Hack",
+    "summary": "Hugging Face initially disclosed the incident on July 16 without naming the culprit; five days later, OpenAI acknowledged that its own agents were responsible.\nOpenAI\u2019s postmortem has been eagerly awaited by AI researchers and policymakers hoping to prevent AI agents from causing similar kinds of real-world harm.\nAfter the Hugging Face hack was first disclosed, attorneys general from 15 states sent a letter to OpenAI asking it to preserve evidence about it.\nAs part of OpenAI\u2019s investigation, the company allowed two independent research groups, METR and Redwood Research, to audit the Hugging Face hack.\nThose groups also released their independent report on Wednesday, which found that more than 700 AI agents were part of the Hugging Face breach\u2014far more than had previously been revealed.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-26T19:16:42Z",
+    "source": "Wired"
   },
   {
     "id": "MTk=",
@@ -51,46 +91,66 @@
   },
   {
     "id": "MjA=",
-    "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-    "title": "Humanoid robots smash Usain Bolt\u2019s 100-meter record",
-    "summary": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing.\nIn a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation \u200bCenter, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 seconds.\nAfter launching in 2025, 2,056 robots from 16 countries are participating in this year\u2019s World Humanoid Robot Games, which includes categories for sprinting, jumping, football, boxing, and more.\nTiangong Ultra also ran the 400-meter race in 38.16 seconds \u2014 beating the 43.03 second world record set by Wayde van Niekerk in 2016.\nUnlike human athletes, however, these sprinting bots don\u2019t typically get to perform a victory lap after crossing the finish line.",
+    "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+    "title": "AI Slop Is Ruining Cute Animals on the Internet",
+    "summary": "AI-generated videos and pictures are destroying one of the largest and most enduring sources of joy and compassion on the internet: animals.\nThe explosion of deepfakes and AI slop over the past few years has led to widespread frustration among viewers, creators, and organizations that support animals, forcing everyone to hunt in the pixels for glitches or other telltale signs of AI.\nA disheartened Butler didn\u2019t pay up.\nIn the past, people have claimed We Animals\u2019 work is staged or photoshopped.\nBut for the owners of AI slop accounts, synthetic imagery can be a convenient path to collecting likes and ad revenue.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-24T09:10:40Z",
-    "source": "The Verge"
+    "publishedAt": "2026-08-26T11:00:00Z",
+    "source": "Wired"
   },
   {
     "id": "MjE=",
-    "url": "https://www.entrepreneur.com/building-a-business/3-digital-strategies-small-business-owners-can-use-to-do-more-with-less",
-    "title": "3 Digital Strategies Small Business Owners Can Use to Do More With Less",
-    "summary": "Digital tools can help small business owners improve the customer experience at every touchpoint.\nSmall businesses contribute to 43.5% of the U.S. GDP and employ more than 62 million people, according to the Small Business Administration.\nHere are three strategies small business owners can use to do exactly that.\nDigital tools can help small business owners deliver on this at every touchpoint.\nFor small business owners ready to take that step, the opportunity has never been greater.",
+    "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+    "title": "The Humanoids at China\u2019s Robot Games Were Faster Than Usain Bolt\u2014but I\u2019m More Impressed by Their Tweezer Mastery",
+    "summary": "If you\u2019re anything like me, the World Humanoid Robot Games are a highlight of your sporting calendar.\nThe opening ceremony showcased the sheer size of the event\u2014the organizers say that more than 600 teams showed up with over 2,000 robots.\nThere are more than 100 humanoid robot manufacturers in China alone, and participants also traveled in from 15 other countries.\nHumanoid robots are seen preparing for the opening ceremony of the World Humanoid Robot Games.\nWitness the Tiangong Ultra, developed by the Beijing Humanoid Robot Innovation \u200bCenter, running the 100-meter dash in 8.86 seconds.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-24T18:00:00Z",
-    "source": "Entrepreneur"
+    "bias": "lean left",
+    "publishedAt": "2026-08-26T18:15:00Z",
+    "source": "Wired"
   },
   {
     "id": "MjI=",
-    "url": "https://www.entrepreneur.com/growing-a-business/ai-adoption-was-easy-proving-it-works-under-pressure/505120",
-    "title": "AI Adoption Was Easy. Proving It Works Under Pressure Won't Be.",
-    "summary": "The 2026 IPO market has attracted enormous attention from investors, driven partly by high-profile technology and AI infrastructure offerings.\nOver my 25 years of experience helping scale technology companies, I have seen a similar pattern with nearly every major wave of innovation.\nDetermine what stops working when AI doesWhen an AI tool is used occasionally to summarize notes or brainstorm ideas, losing access to it is inconvenient.\nAn AI application can appear slow because of packet loss, congestion or inconsistent connectivity.\nThey will care less about how many AI tools you have introduced and more about whether those tools make the business perform better when it matters.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-24T13:30:00Z",
-    "source": "Entrepreneur"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://www.businessinsider.com/rillet-ceo-nicolas-kopp-ai-accounting-consulting-firms-jobs-2026-8#article",
-    "title": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
-    "summary": "For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job.\nOracle Fusion is a suite of cloud software that large companies use to manage their finances and operations.\nSetting up systems like this can take years of consulting work.\nIn the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\"\nThat's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work.",
+    "url": "https://thenextweb.com/news/independent-project-franchising-software-innovation",
+    "title": "Independent project franchising: why big software companies should spin out innovation instead of killing it",
+    "summary": "TL;DR Large software companies routinely build internal tools that prove valuable, then let them decay when priorities shift.\nMy argument is simple: when a useful internal project no longer fits the corporate roadmap, companies should consider giving it independence before they abandon it.\nSoftware engineers know the pattern.\nDeloitte\u2019s 2026 Global Software Industry Outlook says software creation is becoming faster and cheaper, while lean AI-native challengers are pressuring established companies.\nMy own move from corporate software development into independent product building changed how I see this problem.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-08-24T09:16:01Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-08-26T08:07:04Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://thenextweb.com/news/boston-scientific-cyberattack-shipping-disruption",
+    "title": "Boston Scientific has disclosed a cybersecurity incident causing a global disruption to operations",
+    "summary": "Boston Scientific has told the US Securities and Exchange Commission that a cybersecurity incident detected on 25 August has caused \u201ca global disruption to the Company\u2019s operations\u201d, including its ability to process and ship customer orders.\nBoston Scientific makes pacemakers, stents, catheters, and neuromodulation devices, so an interruption to shipping is not an administrative inconvenience but a supply problem for hospitals with procedures scheduled.\nBoston Scientific manufactures implantable hardware with remote monitoring, and while nothing in the filing suggests those systems were touched, the filing does not say they were not.\nThese are manufacturers with global supply chains, low tolerance for downtime, and customers who cannot simply wait, which is the profile extortion operations look for.\nBoston Scientific says it is working to restore affected systems without saying when, and until orders are moving, the material impact question again answers itself a little more each day.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-26T13:36:57Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://thenextweb.com/news/ai-wont-transform-healthcare-until-we-fix-information-overload",
+    "title": "AI won\u2019t transform healthcare until we fix information overload",
+    "summary": "Artificial intelligence will only improve healthcare if it protects clinical attention rather than adding another layer of complexity.\nWorking alongside healthcare organizations implementing AI has made one lesson impossible to ignore: the biggest challenge is no longer access to information.\nThis distinction is essential because discussions about healthcare AI often focus on whether machines will replace professionals.\nHealthcare organizations must ensure that clinicians understand how AI systems reach recommendations and when those recommendations should be questioned.\nThe State of Healthcare IT 2026 Report from SolvEdge found that healthcare organizations are deploying clinical AI tools faster than they are developing governance frameworks to manage them.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-26T08:06:52Z",
+    "source": "The Next Web"
   },
   {
     "id": "MjY=",
+    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "title": "Google\u2019s new AI transcription edits out your \u2018ums\u2019 and \u2018ahs\u2019",
+    "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.\nGoogle says that 3.5 Transcribe \u201crepresents a major advancement from our previous transcription model, Chirp 3,\u201d especially regarding multilingual performance and wording error rates.\nAlongside 3.5 Transcribe, Google also said that 3.5 Live and 3.5 Live Experimental updates will be coming to Gemini Audio today that build on the existing speech recognition tech powering Gemini\u2019s voice chat mode.\nGemini 3.5 Transcribe is rolling out starting today in English for all macOS Gemini app users, and the Rambler dictation feature on Android in select countries and languages.\nUpdate, August 26th: Google also mentioned two Gemini 3.5 Live and 3.5 Live Experimental in information provided to The Verge prior to publication, but now says that only 3.5 Transcribe is being announced today.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-26T16:59:30Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjc=",
     "url": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
     "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
     "summary": "It has now raised $140mn to point that archive at AI models.\nChief executive Noam Schwartz told Marissa Newman at Bloomberg that the round values Alice close to $1bn.\nIt started with Cohere, before ChatGPT reached the mainstream, and concluded that its data mattered to model safety, Schwartz told Calcalist.\nIndependent research supports the market, not the numbersMore than 100 experts wrote the International AI Safety Report 2026.\nMETR, an independent research organisation, has catalogued dozens of incidents in which AI agents acted beyond the scope they were given.",
@@ -100,7 +160,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "Mjc=",
+    "id": "Mjg=",
     "url": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
     "title": "AI firms debate connecting test sandboxes to the internet after breaches",
     "summary": "After AI models from at least three companies reached the open internet and breached real organisations during testing, security specialists are debating whether test sandboxes should have controlled internet access.\nThe industry\u2019s response to AI models escaping their test environments may be to stop sealing the test environments.\nCybersecurity specialists are debating whether the sandboxes used to study dangerous software should be given controlled access to the open internet.\nSandboxes have been isolated precisely so that whatever runs inside them, malware samples included, cannot cause damage outside.\nIts own misconfigurations let models reach the internet during evaluations, and TNW reported this month that three labs shared one vendor.",
@@ -110,27 +170,37 @@
     "source": "The Next Web"
   },
   {
-    "id": "MzA=",
-    "url": "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
-    "title": "\u2018This is crazy. This is insane\u2019: Bill Gates has changed his mind about AI and jobs",
-    "summary": "Bill Gates says it\u2019s time to hit the AI panic button.\nThe technology has crossed dangerous thresholds in biology, cybersecurity, white-collar work, and human relationships, Gates said in an interview with Semafor.\n\u201cI am in a state of shock that I\u2019m sort of the first one saying, \u2018This is crazy.\n\u201cI wrote a whole book about how to avoid the next pandemic,\u201d Gates said.\n\u201cHe\u2019s very, very glad I\u2019m writing the memo.\u201dADOther prominent leaders, such as Google DeepMind co-founder Demis Hassabis, have also sharpened their warnings.",
+    "id": "Mjk=",
+    "url": "https://thenextweb.com/news/anthropic-nscale-45b-compute-deal-london-ipo",
+    "title": "Anthropic signs $45B compute deal with Britain\u2019s Nscale",
+    "summary": "Anthropic has agreed to spend $45B over six years renting AI computing power from Nscale\u2019s flagship West Virginia data centre development, covering about 460 megawatts.\nAnthropic has agreed to spend $45B renting computing power, and the landlord is British.\nThe six-year deal covers capacity at Nscale\u2019s flagship data centre development in West Virginia, amounting to around 460 megawatts.\nIt follows a year in which Anthropic has signed compute deals with a week-old startup, with Fluidstack for $50B and with SpaceX for $45B .\nMicrosoft got to West Virginia first and left.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-26T07:00:02Z",
-    "source": "Semafor.com"
+    "bias": "lean left",
+    "publishedAt": "2026-08-26T17:35:23Z",
+    "source": "The Next Web"
   },
   {
-    "id": "MzE=",
-    "url": "https://www.businessinsider.com/rillet-ceo-nicolas-kopp-ai-accounting-consulting-firms-jobs-2026-8",
-    "title": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
-    "summary": "For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job.\nOracle Fusion is a suite of cloud software that large companies use to manage their finances and operations.\nSetting up systems like this can take years of consulting work.\nIn the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\"\nThat's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work.",
+    "id": "MzA=",
+    "url": "https://www.businessinsider.com/nvidia-q2-2027-earnings-bets-big-ai-18-billion-investment-2026-8#article",
+    "title": "CEO Jensen Huang went on an AI deal spree in August. Nvidia plans to invest $18 billion more this fiscal year.",
+    "summary": "In the span of a few weeks, the Nvidia CEO has committed billions to deals and investments \u2014 with more potentially right around the corner.\nThe spending spree shows how far Nvidia is expanding beyond chips and raises a bigger question: how much of the AI ecosystem does it want a hand in?\nAs Amazon, Google, and Microsoft build their own chips, Nvidia is pushing further into the infrastructure, software, and models that surround them.\nOn the financing front, it teamed up with Wall Street firms to raise more than $500 billion in outside funding for AI infrastructure.\nAdd to Preferred SourcesNvidia disclosed Wednesday that it made a $2.94 billion cash payment related to its deal with AI hardware startup Groq, announced in December.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-24T09:16:01Z",
+    "bias": "lean left",
+    "publishedAt": "2026-08-26T22:51:58Z",
     "source": "Business Insider"
   },
   {
     "id": "MzM=",
+    "url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8#article",
+    "title": "US Robotics Race Relies on Hardware From China",
+    "summary": "Physical Intelligence is one of many startups in Silicon Valley working on robotics software.\nAnd right now, hardware used for robotics research \u2014 a lot of that does come from China,\" Levine said.\nA June analysis from McKinsey found that China holds a \"significant share of capacity\" for robotics parts, including 90% of permanent-magnet processing.\nWhile US manufacturers welcomed the move, some researchers and startups told Business Insider's robotics reporter, Rya Jetha, that the ban locks out access to affordable hardware.\nLevine said in the podcast that \"different industries that contribute to robotics need to individually be very healthy.\"",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-25T04:02:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzQ=",
     "url": "https://www.cnet.com/home/security/ring-gave-itself-a-security-makeover-called-take-heres-whats-actually-changing/",
     "title": "Ring Gave Itself a Security Makeover Called TAKE. Here\u2019s What\u2019s Actually Changing",
     "summary": "Previously, Ring\u2019s cloud practices were a bit of a black box.\nWe knew the sort of encryption used, but not how easily or frequently Ring could access videos for analysis.\nIf you have Shared Users on your Ring account who you\u2019ve enabled to access videos, they\u2019ll have this master key, too.\nThis option will remain with TAKE, offering the highest level of privacy for Ring security videos \u2014 but at a cost.\nHowever, you\u2019ll still be able to use live view, access videos in cloud storage and share videos as long as you have your password.",
@@ -140,63 +210,43 @@
     "source": "CNET"
   },
   {
-    "id": "MzQ=",
-    "url": "https://www.entrepreneur.com/business-news/he-left-google-after-27-years-now-hes-telling-gen-z-not-to-master-ai",
-    "title": "He Left Google After 27 Years. Now He\u2019s Telling Gen Z Not to Master AI.",
-    "summary": "Listen to this postKey Takeaways Jeff Dean left Google earlier this month after 27 years at the company.\nKeeping pace with AI can seem impossible, but Google veteran Jeff Dean says Gen Z doesn\u2019t need to know everything about AI to succeed in today\u2019s job market.\nHe worked at the tech giant for 27 years, serving as head of Google AI from 2018 to 2023 and Google\u2019s chief scientist for the past three years, according to his LinkedIn.\nHe is now the co-founder and CEO of AI startup DiscoveryLoop, which aims to act as an autonomous researcher.\nHe argued that AI can make people more capable rather than simply make them easier to replace.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-24T18:09:04Z",
-    "source": "Entrepreneur"
-  },
-  {
     "id": "MzU=",
-    "url": "https://thenextweb.com/news/nvidia-perplexity-30bn-valuation-talks",
-    "title": "Nvidia is in talks to back Perplexity at more than $30bn",
-    "summary": "Nvidia has been discussing an investment in Perplexity that would value the AI search company at more than $30bn, according to The Information, which reported that the two sides also considered a technology licensing arrangement alongside the equity cheque.\nThe talks are the latest turn in a relationship that already runs deeper than the usual investor-and-customer arrangement, since Perplexity was among the first named takers for Nvidia\u2019s Vera CPU.\nWhat makes the discussions unremarkable, in one sense, is how routine this kind of cheque has become for Nvidia.\nNvidia reports its next quarterly results in November.\nWhether a Perplexity stake shows up in the investment line by then will say more about the pace of this cycle than the valuation itself does.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-24T08:17:15Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mzg=",
-    "url": "https://thenextweb.com/news/australian-data-centres-power-aemo-forecast-2036",
-    "title": "Australian data centres will use seven times more power by 2036",
-    "summary": "Australian data centres will take 13% of the country\u2019s main electricity market by 2035-36, up from 3% today.\nThat is almost a sevenfold rise in a decade, according to the Australian Energy Market Operator.\nThe numberData centres will draw 34 terawatt hours a year from the National Electricity Market by 2035-36, on AEMO\u2019s projection.\nThe money behind itCommonwealth Bank of Australia estimates the country\u2019s data centre buildout could reach A$150bn, about $108bn, by 2030.\nDemand arrives faster than wiresA data centre can switch on long before the infrastructure to power it exists.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-08-24T18:27:17Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mzk=",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/24/sponsored-ai-driven-upgrade-of-communications-energy-storage-empowers-a-new-energy-ecosystem-for-multiple-industries/5290186",
-    "title": "SPONSORED: AI-Driven Upgrade of Communications Energy Storage Empowers a New Energy Ecosystem for Multiple Industries",
-    "summary": "Its core hardware includes a dual liquid cooling cabinet BESS (battery energy storage system) and a containerized BESS.\n(battery management system; energy management system; power conversion system).\nDatacenter operators also have substantial energy storage infrastructure and are increasingly looking at PV and other renewable, behind-the-meter energy options.\nThis AI-powered integrated intelligent energy storage system is not limited to the telecommunication world.\nContinuous advances in energy storage technologies, AI algorithms and supportive new energy policies are paving the way for large-scale adoption of all-scenario intelligent energy storage.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-24T00:00:00Z",
-    "source": "Theregister.com"
-  },
-  {
-    "id": "NDQ=",
-    "url": "https://www.bgr.com/2239786/how-far-away-can-you-hear-ai-data-center-noise/",
-    "title": "How Far Away Can You Hear AI Data Centers?",
-    "summary": "According to LSRS, noise from cooling fans and transformers alone can reach up to 80 decibels at the property line.\nMeanwhile, generator load tests, or power generators under a heavy load, can be heard up to a mile away.\nThe loud noise can be heard up to a mile away, but low-frequency noise stretches even further.\nThe sound dissipates the further away you go, but can still produce a low-frequency hum that can be heard miles and miles away.\nThat constant hum is the source of several health concerns for the neighbors of a data center.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-24T01:47:00Z",
-    "source": "BGR"
-  },
-  {
-    "id": "NjU=",
-    "url": "https://www.yahoo.com/news/politics/articles/us-lawmakers-urge-trump-ban-100423733.html",
-    "title": "US lawmakers urge Trump to ban Americans from aiding Chinese security agencies",
-    "summary": "By Alexandra AlperWASHINGTON, Aug 25 (Reuters) - Republican and Democratic lawmakers on Tuesday called on the Trump administration to bar American citizens and businesses \u200cfrom supporting Chinese and Russian civilian intelligence and security agencies.\nCongress approved a \u200claw in 2018 banning Americans from providing support to foreign military intelligence agencies but leaving the door \u200bopen to such aid for similar civilian-led organizations.\nThe Commerce Department and the Russian and Chinese embassies in Washington did not immediately respond to requests for comment.\nA decision by the Trump administration earlier this year to allow Nvidia (NVDA.O), to sell advanced AI chips \u200bto China has drawn \u200cfire from both parties.\nDemocratic Senator Peter Welch, Republican Congressmen Michael McCaul and \u200bPat Harrigan and Democratic Congresswoman Sara Jacobs also signed the letter.",
+    "url": "https://www.cnet.com/home/security/ring-gave-itself-a-security-makeover-called-take-heres-whats-actually-changing-2/",
+    "title": "Ring Gave Itself a Security Makeover Called TAKE. Here\u2019s What\u2019s Actually Changing",
+    "summary": "Previously, Ring\u2019s cloud practices were a bit of a black box.\nWe knew the sort of encryption used, but not how easily or frequently Ring could access videos for analysis.\nIf you have Shared Users on your Ring account who you\u2019ve enabled to access videos, they\u2019ll have this master key, too.\nThis option will remain with TAKE, offering the highest level of privacy for Ring security videos \u2014 but at a cost.\nHowever, you\u2019ll still be able to use live view, access videos in cloud storage and share videos as long as you have your password.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-25T10:04:23Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2026-08-26T13:20:06Z",
+    "source": "CNET"
+  },
+  {
+    "id": "NTA=",
+    "url": "https://thenextweb.com/news/kimmeridge-us-data-centre-delays-gas-demand-europe-lng",
+    "title": "Up to half of planned US data centres face delays or cancellation, Kimmeridge says",
+    "summary": "Investment firm Kimmeridge says as many as half of the data centres proposed in the United States are at risk of delay or cancellation because of political backlash and the difficulty of building physical infrastructure.\nIt expects that to cut forecasts for US gas demand, most of which Europe now buys.\nAs many as half of the data centres proposed in the United States are at risk of delay or cancellation, according to Kimmeridge Energy Management.\nTNW reported this month that more than 500 US jurisdictions restrict data centres, with New York freezing environmental permits and Texas halting approvals pending audits.\nGas that does not burn in Ohio can be liquefied and sold to a continent that keeps telling Big Tech to align its data centres with climate targets.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-26T18:35:59Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NTE=",
+    "url": "https://thenextweb.com/news/openai-hugging-face-technical-report-missed-signals-article-55",
+    "title": "OpenAI says earlier signals could have prevented the Hugging Face breach",
+    "summary": "OpenAI\u2019s technical report on the Hugging Face breach says an internal team saw its models reaching the open internet from their sandbox in late May, and that a June alert did not stop the evaluation.\nIt also found that training sometimes rewarded agents for exploiting their own environment.\nOpenAI has published its account of how its models hacked Hugging Face, and the interesting part is the calendar.\n\u201cWith the benefit of hindsight, some early signals identified in this report could have triggered an earlier response,\u201d it writes.\nWhat followed at Hugging Face was not subtle.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-26T21:11:33Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NTM=",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
+    "title": "NASA\u2019s Roman Space Telescope is ready to hunt thousands of alien worlds",
+    "summary": "NASA's Nancy Grace Roman Space Telescope is now one major step closer to liftoff.\nOn Aug. 21, teams enclosed the observatory inside the protective fairing of its SpaceX Falcon Heavy rocket at the Payload Hazardous Servicing Facility at NASA's Kennedy Space Center in Florida.\nStanding 43 feet tall, it protects Roman while the observatory is on the ground and during the most violent early stages of launch.\nA few minutes after liftoff, its two halves will separate and fall away, allowing Roman to continue its journey into space.\nFinal Preparations for Falcon HeavyBefore launch, teams will transport the encapsulated Roman observatory to SpaceX's hangar at Launch Pad 39A.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-26T10:29:17Z",
+    "source": "Science Daily"
   }
 ]
