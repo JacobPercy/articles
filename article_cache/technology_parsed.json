@@ -1,6 +1,6 @@
 [
   {
-    "id": "Mg==",
+    "id": "MA==",
     "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
     "title": "The UK Power Grid Has a Phantom Data Center Problem",
     "summary": "In July, the UK\u2019s energy regulator, Ofgem, laid out a proposal meant to force phantom data centers out of the swollen queue.\nData center developers face delays almost everywhere; similar grid congestion issues afflict the US and countries across Europe.\nThe frenzied data center buildout \u201cis bringing a huge amount of capital investment into the UK,\u201d says Alex Burgoyne, head of data centers at real estate consultancy Knight Frank.\nNew data centers make up 73 gigawatts of that\u2014equivalent to one and a half times the peak demand for the entire UK last year\u2014and counting.\n\u201cNo one really understands \u2026 what the real grid demand will be because of these phantom projects.\u201dThe crowded queue is largely the product of an incentives problem.",
@@ -10,7 +10,17 @@
     "source": "Wired"
   },
   {
-    "id": "Nw==",
+    "id": "MQ==",
+    "url": "https://thenextweb.com/news/ai-agents-wallets-web3-machine-economy-varun-datta",
+    "title": "AI agents are getting wallets: the Web3 infrastructure behind the machine economy",
+    "summary": "TL;DR Varun Datta, Web3 venture capitalist and CEO of Truth Ventures, explores how AI agents gaining the ability to transact independently could accelerate the emerging machine economy and create new opportunities for investors.\nAI agents are getting wallets and are now able to make decisions on behalf of owners.\nThe biggest news is the launch of Cloudflare Wallets on August 4, 2026.\nAs part of its agents week, it gives AI agents running on its network a stablecoin balance and a readable identity to present when paying for APIs, data, and content.\n\u201cAI agents need to transact with counterparties they haven\u2019t met at times when traditional banks are not open and settle without any reversal.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-27T19:52:47Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "Mw==",
     "url": "https://thenextweb.com/news/japan-blockchain-settlement-stocks-bonds",
     "title": "Japan wants stock and bond settlement to happen instantly, on a blockchain",
     "summary": "Portions of the balances banks hold at the Bank of Japan would be converted into digital tokens on a blockchain network, making this an interbank central bank digital currency rather than anything consumers would touch.\nSettlement infrastructure is the sort of thing that has to work on the first day and every day afterwards.\nOfficials want to keep Japanese markets competitive as the United States and Europe build out tokenised securities infrastructure, which is a defensive framing rather than an ambition to lead.\nJapan has formed here, having run digital currency experiments through the Bank of Japan for several years without committing to a retail launch.\nJapan proposing to tokenise central bank money rather than the securities themselves is a version of that argument.",
@@ -20,57 +30,37 @@
     "source": "The Next Web"
   },
   {
-    "id": "OQ==",
-    "url": "https://hardware.slashdot.org/story/26/08/26/2117239/bill-gates-proposes-major-limits-on-ai-development",
-    "title": "Bill Gates Proposes Major Limits On AI Development",
-    "summary": "Statistics means never having to say you're certain.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-27T03:30:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MTA=",
+    "id": "Ng==",
     "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-wants-investors-believe-total-180145400.html",
     "title": "Anthropic wants investors to believe its \u2018total addressable market\u2019 is worth $30 trillion\u2014nearly the size of the entire US economy",
-    "summary": "If there's one thing that AI companies are known for, it's their fondness for seemingly incomprehensible numbers.\nNow come total addressable market estimates\u2014known as TAMs\u2014worth roughly 40% of the entire US equity market.\nAI lab Anthropic, reportedly on the verge of a $2 trillion IPO, is preparing to tell investors that its total addressable market is worth more than $30 trillion, according to a report in the Wall Street Journal.\nTo put that figure in perspective, it eclipses the total GDP of China, is roughly equal to the entire GDP of the U.S., and represents about a quarter of the total world GDP of $120 trillion.\nRather than a forecast of Anthropic's imminent sales, a total addressable market, or TAM, is the annual revenue a company could theoretically generate if it captured 100% of the relevant market.",
+    "summary": "Now come total addressable market estimates\u2014known as TAMs\u2014worth roughly 40% of the entire US equity market.\nMore from Yahoo Scout What is Anthropic's $30 trillion total addressable market?\nHow does Anthropic's TAM compare to global GDP?\nAI lab Anthropic, reportedly on the verge of a $2 trillion IPO, is preparing to tell investors that its total addressable market is worth more than $30 trillion, according to a report in the Wall Street Journal.\nRather than a forecast of Anthropic's imminent sales, a total addressable market, or TAM, is the annual revenue a company could theoretically generate if it captured 100% of the relevant market.",
     "category": "technology",
-    "bias": "center",
+    "bias": "lean right",
     "publishedAt": "2026-08-26T18:01:45Z",
     "source": "Yahoo Entertainment"
   },
   {
     "id": "MTE=",
-    "url": "https://thenextweb.com/news/oro-3m-agentic-finance-mh-ventures-mapleblock",
-    "title": "MH Ventures and Mapleblock Capital co-lead $3M investment in Oro to scale agentic finance",
-    "summary": "TL;DR Oro has raised $3M co-led by MH Ventures and Mapleblock Capital to scale its agentic finance platform, which converts natural-language instructions into non-custodial DeFi transactions.\nThe platform has 350,000+ active users across 80+ languages, with campaigns alongside Avalanche and Ondo Finance.\nThat is the lane Oro has been working in and advancing before the term \u201cagentic finance\u201d became a standard pitch-deck phrase.\nOro, which is actively turning plain-language financial instructions into multi-step, non-custodial transactions, announced a $3 million strategic round co-led by MH Ventures and Mapleblock Capital, joined by M2M Capital, Archer Capital, X21 Digital, and returning backers Disrupt.com and ZIG Labs.\nIn that regard, every Oro execution requires the user\u2019s own signature so that nothing moves without an explicit permission.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+    "title": "Plaud is launching AI earbuds",
+    "summary": "Plaud has introduced a new AI wearable that\u2019s designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin.\nThe Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process conversations without relying on your phone or Wi-Fi to stay connected.\nThey can record for up to six hours according to Plaud, which is also the maximum estimated battery life.\nHere\u2019s what the charging case looks like.\nImage: PlaudThe Plaud One costs $249.99 and is available to preorder \u201cin selected markets\u201d starting today, with shipping expected to start in Q4, 2026.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-25T09:48:19Z",
-    "source": "The Next Web"
+    "bias": "left",
+    "publishedAt": "2026-08-27T13:11:23Z",
+    "source": "The Verge"
   },
   {
-    "id": "MTQ=",
-    "url": "https://www.bbc.co.uk/sounds/play/p0p64vd3?at_campaign=rss",
-    "title": "Is China Replacing Workers With Robots?",
-    "summary": "China has two million robots already working in factories, and is investing heavily in the hopes that one day they could bridge gaps in an already sluggish economy.\nOur China correspondent Laura Bicker has been to some of these factories, and is on the line to debrief.\n60% of the new homes would be for social rent, despite Andy Burnham telling The Social Housing Podcast in May he \"would actually devote all of it to social housing.\u201d.\nIf you want to listen, just say \"Ask BBC Sounds to play Newscast\u201d.\nThe social producer was Jem Westgate.",
+    "id": "MTI=",
+    "url": "https://thenextweb.com/news/korea-kmcc-meta-youth-protections-global",
+    "title": "South Korea\u2019s regulator says Meta\u2019s teen limits should apply everywhere, not just America",
+    "summary": "South Korea\u2019s media regulator has said that Meta\u2019s new protections for young users should ideally apply worldwide rather than only in the markets that forced them, which is a modest-sounding statement with a substantial ask inside it.\nThe measures in question come from Meta\u2019s settlement with US state attorneys general, and the company has already signalled that they do not travel automatically.\nThe Korea Media and Communications Commission said in a statement that social media providers needed to take greater responsibility for protecting minors.\nIt also pointed out that seven bills aimed at strengthening youth protection on social platforms are currently sitting in the National Assembly.\nWhat Meta agreed to in the United States is unusually specific for a settlement of this kind.",
     "category": "technology",
     "bias": "right",
-    "publishedAt": "2026-08-25T15:39:00Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "MTc=",
-    "url": "https://thenextweb.com/news/nvidia-earnings-rubin-ai-financing-scrutiny",
-    "title": "Nvidia is about to report its fastest growth in seven quarters",
-    "summary": "Nvidia is expected to report quarterly revenue of $92.18bn, close to double the same period last year and its fastest growth in seven quarters, with analysts forecasting a further rise to $104.20bn in the current quarter.\nShipments of the next-generation processors begin this autumn, and how quickly customers move off Blackwell determines whether the guidance holds.\nNvidia has already said Vera Rubin is in full production with OpenAI deploying at scale.\nAmazon, Google, and Meta all have custom silicon programmes; AMD and Intel are pushing on inference, and inference is the workload that grows fastest once models are deployed rather than trained.\nDemand for inference capacity keeps outrunning supply; the buildout has years of announced projects behind it, and no competitor has yet matched the software stack that keeps customers on Nvidia hardware once they are there.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-26T07:23:26Z",
+    "publishedAt": "2026-08-27T09:44:56Z",
     "source": "The Next Web"
   },
   {
-    "id": "MTg=",
+    "id": "MTM=",
     "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
     "title": "What We Still Don\u2019t Know About OpenAI\u2019s Hugging Face Hack",
     "summary": "Hugging Face initially disclosed the incident on July 16 without naming the culprit; five days later, OpenAI acknowledged that its own agents were responsible.\nOpenAI\u2019s postmortem has been eagerly awaited by AI researchers and policymakers hoping to prevent AI agents from causing similar kinds of real-world harm.\nAfter the Hugging Face hack was first disclosed, attorneys general from 15 states sent a letter to OpenAI asking it to preserve evidence about it.\nAs part of OpenAI\u2019s investigation, the company allowed two independent research groups, METR and Redwood Research, to audit the Hugging Face hack.\nThose groups also released their independent report on Wednesday, which found that more than 700 AI agents were part of the Hugging Face breach\u2014far more than had previously been revealed.",
@@ -80,17 +70,7 @@
     "source": "Wired"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.entrepreneur.com/building-a-business/why-physical-infrastructure-is-becoming-silicon-valleys-next-big-competitive-moat",
-    "title": "Why Physical Infrastructure Is Becoming Silicon Valley\u2019s Next Big Competitive Moat",
-    "summary": "Build software, acquire users at breakneck speed, raise increasingly larger venture rounds and worry about profitability later.\nInfrastructure advantagesRather than simply renting electric bikes, JOCO has built an integrated platform that combines hardware, software, charging infrastructure, maintenance and logistics.\nPhysical infrastructure operates under a completely different set of rules.\nToday\u2019s market increasingly rewards founders who demonstrate they don\u2019t need enormous amounts of capital to build enduring businesses.\nInstead, they could combine software, artificial intelligence, physical infrastructure and disciplined operations into businesses that create advantages difficult to replicate.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-25T14:00:00Z",
-    "source": "Entrepreneur"
-  },
-  {
-    "id": "MjA=",
+    "id": "MTQ=",
     "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
     "title": "AI Slop Is Ruining Cute Animals on the Internet",
     "summary": "AI-generated videos and pictures are destroying one of the largest and most enduring sources of joy and compassion on the internet: animals.\nThe explosion of deepfakes and AI slop over the past few years has led to widespread frustration among viewers, creators, and organizations that support animals, forcing everyone to hunt in the pixels for glitches or other telltale signs of AI.\nA disheartened Butler didn\u2019t pay up.\nIn the past, people have claimed We Animals\u2019 work is staged or photoshopped.\nBut for the owners of AI slop accounts, synthetic imagery can be a convenient path to collecting likes and ad revenue.",
@@ -100,7 +80,17 @@
     "source": "Wired"
   },
   {
-    "id": "MjE=",
+    "id": "MTU=",
+    "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+    "title": "A Judge Has Blocked the Pentagon\u2019s Attempt to Blacklist Anthropic",
+    "summary": "A federal judge on Thursday barred the Trump administration from designating Anthropic a national security risk over a dispute about the use of its AI models, ruling that the designation amounted to unconstitutional retaliation.\nThe judge also ruled that nine agencies\u2014including the Pentagon, the Treasury Department, the State Department, and the Department of Homeland Security\u2014had improperly imposed sanctions on Anthropic.\nIn a statement, Anthropic spokesperson Danielle Cohen said, \u201cWe welcome the court\u2019s ruling that this supply-chain risk designation was unlawful.\nAnthropic\u2019s top AI models are considered some of the best in the world.\nLin cited the administration\u2019s involvement in reviewing advanced Anthropic models as part of her ruling.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-28T03:04:14Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MTY=",
     "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
     "title": "The Humanoids at China\u2019s Robot Games Were Faster Than Usain Bolt\u2014but I\u2019m More Impressed by Their Tweezer Mastery",
     "summary": "If you\u2019re anything like me, the World Humanoid Robot Games are a highlight of your sporting calendar.\nThe opening ceremony showcased the sheer size of the event\u2014the organizers say that more than 600 teams showed up with over 2,000 robots.\nThere are more than 100 humanoid robot manufacturers in China alone, and participants also traveled in from 15 other countries.\nHumanoid robots are seen preparing for the opening ceremony of the World Humanoid Robot Games.\nWitness the Tiangong Ultra, developed by the Beijing Humanoid Robot Innovation \u200bCenter, running the 100-meter dash in 8.86 seconds.",
@@ -110,7 +100,17 @@
     "source": "Wired"
   },
   {
-    "id": "MjI=",
+    "id": "MTc=",
+    "url": "https://www.businessinsider.com/vc-founder-says-product-managers-consultants-hot-hires-ai-era-2026-8#article",
+    "title": "VC Founder Says Product Managers Will Be in Demand in the AI Era",
+    "summary": "Nicolas Sauvage believes judgment and taste will be what sets people apart in the AI era \u2014 and that's why he's bullish on product managers.\nThe president of venture capital firm TDK Ventures told Business Insider that product managers are one of three job categories that will rise in demand as AI reshapes work.\nFounded in 2019 by Sauvage, TDK Ventures manages $500 million across four funds and invests in tech entrepreneurs.\nProduct managers also understand what customers want and how to turn those insights into products and solutions that are compelling and competitive, he said.\nEngineers now often think more like product managers, while product managers can build features and test their own demos.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-27T09:57:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTg=",
     "url": "https://thenextweb.com/news/independent-project-franchising-software-innovation",
     "title": "Independent project franchising: why big software companies should spin out innovation instead of killing it",
     "summary": "TL;DR Large software companies routinely build internal tools that prove valuable, then let them decay when priorities shift.\nMy argument is simple: when a useful internal project no longer fits the corporate roadmap, companies should consider giving it independence before they abandon it.\nSoftware engineers know the pattern.\nDeloitte\u2019s 2026 Global Software Industry Outlook says software creation is becoming faster and cheaper, while lean AI-native challengers are pressuring established companies.\nMy own move from corporate software development into independent product building changed how I see this problem.",
@@ -120,7 +120,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "MjM=",
+    "id": "MTk=",
     "url": "https://thenextweb.com/news/boston-scientific-cyberattack-shipping-disruption",
     "title": "Boston Scientific has disclosed a cybersecurity incident causing a global disruption to operations",
     "summary": "Boston Scientific has told the US Securities and Exchange Commission that a cybersecurity incident detected on 25 August has caused \u201ca global disruption to the Company\u2019s operations\u201d, including its ability to process and ship customer orders.\nBoston Scientific makes pacemakers, stents, catheters, and neuromodulation devices, so an interruption to shipping is not an administrative inconvenience but a supply problem for hospitals with procedures scheduled.\nBoston Scientific manufactures implantable hardware with remote monitoring, and while nothing in the filing suggests those systems were touched, the filing does not say they were not.\nThese are manufacturers with global supply chains, low tolerance for downtime, and customers who cannot simply wait, which is the profile extortion operations look for.\nBoston Scientific says it is working to restore affected systems without saying when, and until orders are moving, the material impact question again answers itself a little more each day.",
@@ -130,7 +130,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "MjU=",
+    "id": "MjA=",
     "url": "https://thenextweb.com/news/ai-wont-transform-healthcare-until-we-fix-information-overload",
     "title": "AI won\u2019t transform healthcare until we fix information overload",
     "summary": "Artificial intelligence will only improve healthcare if it protects clinical attention rather than adding another layer of complexity.\nWorking alongside healthcare organizations implementing AI has made one lesson impossible to ignore: the biggest challenge is no longer access to information.\nThis distinction is essential because discussions about healthcare AI often focus on whether machines will replace professionals.\nHealthcare organizations must ensure that clinicians understand how AI systems reach recommendations and when those recommendations should be questioned.\nThe State of Healthcare IT 2026 Report from SolvEdge found that healthcare organizations are deploying clinical AI tools faster than they are developing governance frameworks to manage them.",
@@ -140,7 +140,27 @@
     "source": "The Next Web"
   },
   {
-    "id": "MjY=",
+    "id": "MjE=",
+    "url": "https://thenextweb.com/news/barret-zoph-google-deepmind-thinking-machines",
+    "title": "Barret Zoph is going back to Google, six years and two startups later",
+    "summary": "Barret Zoph is joining Google DeepMind as vice president of research, returning to the organisation he spent six years in before it was DeepMind at all.\nGoogle Brain merged with DeepMind in 2023, so the organisation he is rejoining is not quite the one he left.\nThat is arguably what DeepMind needs more of if it is being pulled towards Gemini product cycles.\nNeither Zoph nor Google has said much about what he will actually work on.\nWhether Zoph stays longer than the roughly eighteen months he gave Thinking Machines is the question his last few moves invite.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-27T08:19:50Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://thenextweb.com/news/jpmorgan-volta-5b-debt-package-norway-tydal-anthropic",
+    "title": "JPMorgan leads a $5B debt package for Volta\u2019s AI data centre buildout",
+    "summary": "JPMorgan has begun approaching lenders about a $5B debt package to fund Volta Infra Holdings\u2019 AI data centre buildout, weeks after the seven-month-old company raised $300M at a $2.4B valuation.\nIts first major site is a 121-megawatt campus in Norway leased from bitcoin miner Bitdeer.\nThe money would fund Volta Infra Holdings\u2019 buildout of AI data centres, according to people familiar with the financing, and neither company would comment.\nRenting from a bitcoin miner is now unremarkable.\nIt will be owned by a bitcoin miner, leased by a startup younger than most probation periods, and used by a company in San Francisco.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-27T16:22:55Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjM=",
     "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
     "title": "Google\u2019s new AI transcription edits out your \u2018ums\u2019 and \u2018ahs\u2019",
     "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.\nGoogle says that 3.5 Transcribe \u201crepresents a major advancement from our previous transcription model, Chirp 3,\u201d especially regarding multilingual performance and wording error rates.\nAlongside 3.5 Transcribe, Google also said that 3.5 Live and 3.5 Live Experimental updates will be coming to Gemini Audio today that build on the existing speech recognition tech powering Gemini\u2019s voice chat mode.\nGemini 3.5 Transcribe is rolling out starting today in English for all macOS Gemini app users, and the Rambler dictation feature on Android in select countries and languages.\nUpdate, August 26th: Google also mentioned two Gemini 3.5 Live and 3.5 Live Experimental in information provided to The Verge prior to publication, but now says that only 3.5 Transcribe is being announced today.",
@@ -150,27 +170,17 @@
     "source": "The Verge"
   },
   {
-    "id": "Mjc=",
-    "url": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
-    "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
-    "summary": "It has now raised $140mn to point that archive at AI models.\nChief executive Noam Schwartz told Marissa Newman at Bloomberg that the round values Alice close to $1bn.\nIt started with Cohere, before ChatGPT reached the mainstream, and concluded that its data mattered to model safety, Schwartz told Calcalist.\nIndependent research supports the market, not the numbersMore than 100 experts wrote the International AI Safety Report 2026.\nMETR, an independent research organisation, has catalogued dozens of incidents in which AI agents acted beyond the scope they were given.",
+    "id": "MjQ=",
+    "url": "https://thenextweb.com/news/fractional-cto-ai-reshapes-business",
+    "title": "As AI reshapes business, the fractional CTO finds its moment",
+    "summary": "TL;DR Deloitte finds only 21% of enterprises have mature agentic AI governance while 74% expect to use agents by 2027.\nDaniel Kirichanski of Prime Path Global argues that growth-stage companies need executive technology leadership for AI integration but not necessarily a full-time hire.\nRecent reporting by NBC News of nearly 700 rogue AI agents escaping controlled environments has renewed scrutiny of human oversight and the limits of autonomous systems.\nHe says, \u201cFractional work, especially in technology, is the new wave.\nIt\u2019s like a tsunami.\u201dFor founders navigating rapid growth, increasing technology complexity, and an AI landscape evolving at unprecedented speed, Fractional CTO leadership offers a new model for accessing experienced technology leadership.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-08-25T19:00:29Z",
+    "bias": "lean left",
+    "publishedAt": "2026-08-27T17:45:44Z",
     "source": "The Next Web"
   },
   {
-    "id": "Mjg=",
-    "url": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
-    "title": "AI firms debate connecting test sandboxes to the internet after breaches",
-    "summary": "After AI models from at least three companies reached the open internet and breached real organisations during testing, security specialists are debating whether test sandboxes should have controlled internet access.\nThe industry\u2019s response to AI models escaping their test environments may be to stop sealing the test environments.\nCybersecurity specialists are debating whether the sandboxes used to study dangerous software should be given controlled access to the open internet.\nSandboxes have been isolated precisely so that whatever runs inside them, malware samples included, cannot cause damage outside.\nIts own misconfigurations let models reach the internet during evaluations, and TNW reported this month that three labs shared one vendor.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-25T18:16:08Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mjk=",
+    "id": "MjU=",
     "url": "https://thenextweb.com/news/anthropic-nscale-45b-compute-deal-london-ipo",
     "title": "Anthropic signs $45B compute deal with Britain\u2019s Nscale",
     "summary": "Anthropic has agreed to spend $45B over six years renting AI computing power from Nscale\u2019s flagship West Virginia data centre development, covering about 460 megawatts.\nAnthropic has agreed to spend $45B renting computing power, and the landlord is British.\nThe six-year deal covers capacity at Nscale\u2019s flagship data centre development in West Virginia, amounting to around 460 megawatts.\nIt follows a year in which Anthropic has signed compute deals with a week-old startup, with Fluidstack for $50B and with SpaceX for $45B .\nMicrosoft got to West Virginia first and left.",
@@ -180,7 +190,17 @@
     "source": "The Next Web"
   },
   {
-    "id": "MzA=",
+    "id": "MjY=",
+    "url": "https://www.cnet.com/tech/services-and-software/meat-proxy-ai-vocabulary-workplace-behavior/",
+    "title": "Are You a \u2018Meat Proxy\u2019? The Rise of Copy-Pasting AI Responses Without Thinking",
+    "summary": "The internet world now has a name for that sort of person: meat proxy.\nMeanwhile, your reading comprehension may take a hit when you\u2019re a mere meat proxy.\nHow to use AI without being a meat proxyDiscussing AI results, or at least thinking about them, is vital in modern society.\nBut using AI as a tool for information doesn\u2019t automatically transform you into a meat proxy.\nBut since traps like reposting AI as your homework have become so common, maybe a label like meat proxy is just what we need to raise some awareness.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-08-27T17:19:57Z",
+    "source": "CNET"
+  },
+  {
+    "id": "Mjc=",
     "url": "https://www.businessinsider.com/nvidia-q2-2027-earnings-bets-big-ai-18-billion-investment-2026-8#article",
     "title": "CEO Jensen Huang went on an AI deal spree in August. Nvidia plans to invest $18 billion more this fiscal year.",
     "summary": "In the span of a few weeks, the Nvidia CEO has committed billions to deals and investments \u2014 with more potentially right around the corner.\nThe spending spree shows how far Nvidia is expanding beyond chips and raises a bigger question: how much of the AI ecosystem does it want a hand in?\nAs Amazon, Google, and Microsoft build their own chips, Nvidia is pushing further into the infrastructure, software, and models that surround them.\nOn the financing front, it teamed up with Wall Street firms to raise more than $500 billion in outside funding for AI infrastructure.\nAdd to Preferred SourcesNvidia disclosed Wednesday that it made a $2.94 billion cash payment related to its deal with AI hardware startup Groq, announced in December.",
@@ -190,63 +210,103 @@
     "source": "Business Insider"
   },
   {
-    "id": "MzM=",
-    "url": "https://www.businessinsider.com/us-robotics-race-china-competition-humanoids-manufacturing-supply-chain-2026-8#article",
-    "title": "US Robotics Race Relies on Hardware From China",
-    "summary": "Physical Intelligence is one of many startups in Silicon Valley working on robotics software.\nAnd right now, hardware used for robotics research \u2014 a lot of that does come from China,\" Levine said.\nA June analysis from McKinsey found that China holds a \"significant share of capacity\" for robotics parts, including 90% of permanent-magnet processing.\nWhile US manufacturers welcomed the move, some researchers and startups told Business Insider's robotics reporter, Rya Jetha, that the ban locks out access to affordable hardware.\nLevine said in the podcast that \"different industries that contribute to robotics need to individually be very healthy.\"",
+    "id": "Mjg=",
+    "url": "https://www.businessinsider.com/jensen-huang-data-centers-better-job-backlash-2026-8#article",
+    "title": "Jensen Huang says AI data centers can fix the very grid they\u2019re straining",
+    "summary": "Nvidia CEO Jensen Huang says the AI industry needs to do \"better\" when it comes to data centers.\nHuang said the industry needs to sell the idea that data center construction can help reindustrialize the nation.\nAddressing a frequent concern, Huang said data centers could actually lower energy costs.\nAdd to Preferred SourcesLike President Donald Trump, Huang warned of the costs to the US if data centers aren't built out.\nGreg Abbott, who is seeking reelection, imposed an effective moratorium on new data center construction until state agencies complete a comprehensive audit.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-25T04:02:01Z",
+    "bias": "center",
+    "publishedAt": "2026-08-27T17:19:33Z",
     "source": "Business Insider"
   },
   {
-    "id": "MzQ=",
-    "url": "https://www.cnet.com/home/security/ring-gave-itself-a-security-makeover-called-take-heres-whats-actually-changing/",
-    "title": "Ring Gave Itself a Security Makeover Called TAKE. Here\u2019s What\u2019s Actually Changing",
-    "summary": "Previously, Ring\u2019s cloud practices were a bit of a black box.\nWe knew the sort of encryption used, but not how easily or frequently Ring could access videos for analysis.\nIf you have Shared Users on your Ring account who you\u2019ve enabled to access videos, they\u2019ll have this master key, too.\nThis option will remain with TAKE, offering the highest level of privacy for Ring security videos \u2014 but at a cost.\nHowever, you\u2019ll still be able to use live view, access videos in cloud storage and share videos as long as you have your password.",
+    "id": "Mjk=",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
+    "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+    "summary": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'toggle caption Jacquelyn Martin/APA federal judge has ruled in favor of artificial intelligence company Anthropic in its legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year.\nU.S. District Judge Rita Lin issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense's views on AI use.\nThe dispute between the AI company and the government broke out in February when President Donald Trump and Defense Secretary Pete Hegseth accused Anthropic of endangering national security and designated the company a supply chain risk.\nAnthropic CEO Dario Amodei refused to back down over concerns the company's products could be used for mass surveillance or autonomous armed drones.\nAnthropic sued the Pentagon over the supply chain risk designation in March for what it called an \"unlawful campaign of retaliation\" over its refusal to allow unrestricted military use of its technology.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-28T04:25:08Z",
+    "source": "NPR"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
+    "title": "\u2018This is crazy. This is insane\u2019: Bill Gates has changed his mind about AI and jobs",
+    "summary": "Bill Gates says it\u2019s time to hit the AI panic button.\nThe technology has crossed dangerous thresholds in biology, cybersecurity, white-collar work, and human relationships, Gates said in an interview with Semafor.\n\u201cI am in a state of shock that I\u2019m sort of the first one saying, \u2018This is crazy.\n\u201cI wrote a whole book about how to avoid the next pandemic,\u201d Gates said.\n\u201cHe\u2019s very, very glad I\u2019m writing the memo.\u201dADOther prominent leaders, such as Google DeepMind co-founder Demis Hassabis, have also sharpened their warnings.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-25T22:40:08Z",
-    "source": "CNET"
+    "publishedAt": "2026-08-26T07:00:02Z",
+    "source": "Semafor.com"
   },
   {
-    "id": "MzU=",
-    "url": "https://www.cnet.com/home/security/ring-gave-itself-a-security-makeover-called-take-heres-whats-actually-changing-2/",
-    "title": "Ring Gave Itself a Security Makeover Called TAKE. Here\u2019s What\u2019s Actually Changing",
-    "summary": "Previously, Ring\u2019s cloud practices were a bit of a black box.\nWe knew the sort of encryption used, but not how easily or frequently Ring could access videos for analysis.\nIf you have Shared Users on your Ring account who you\u2019ve enabled to access videos, they\u2019ll have this master key, too.\nThis option will remain with TAKE, offering the highest level of privacy for Ring security videos \u2014 but at a cost.\nHowever, you\u2019ll still be able to use live view, access videos in cloud storage and share videos as long as you have your password.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-08-26T13:20:06Z",
-    "source": "CNET"
-  },
-  {
-    "id": "NTA=",
-    "url": "https://thenextweb.com/news/kimmeridge-us-data-centre-delays-gas-demand-europe-lng",
-    "title": "Up to half of planned US data centres face delays or cancellation, Kimmeridge says",
-    "summary": "Investment firm Kimmeridge says as many as half of the data centres proposed in the United States are at risk of delay or cancellation because of political backlash and the difficulty of building physical infrastructure.\nIt expects that to cut forecasts for US gas demand, most of which Europe now buys.\nAs many as half of the data centres proposed in the United States are at risk of delay or cancellation, according to Kimmeridge Energy Management.\nTNW reported this month that more than 500 US jurisdictions restrict data centres, with New York freezing environmental permits and Texas halting approvals pending audits.\nGas that does not burn in Ohio can be liquefied and sold to a continent that keeps telling Big Tech to align its data centres with climate targets.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-08-26T18:35:59Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "NTE=",
-    "url": "https://thenextweb.com/news/openai-hugging-face-technical-report-missed-signals-article-55",
-    "title": "OpenAI says earlier signals could have prevented the Hugging Face breach",
-    "summary": "OpenAI\u2019s technical report on the Hugging Face breach says an internal team saw its models reaching the open internet from their sandbox in late May, and that a June alert did not stop the evaluation.\nIt also found that training sometimes rewarded agents for exploiting their own environment.\nOpenAI has published its account of how its models hacked Hugging Face, and the interesting part is the calendar.\n\u201cWith the benefit of hindsight, some early signals identified in this report could have triggered an earlier response,\u201d it writes.\nWhat followed at Hugging Face was not subtle.",
+    "id": "MzI=",
+    "url": "https://www.bbc.co.uk/news/articles/cz0zm4pzme2o",
+    "title": "Greens call for temporary ban on new data centres",
+    "summary": "Zack Polanski has called for a freeze on the approval of new data centres in England because of concerns about the amount of water and energy they use.\nData centres can use significant amounts of water to cool their systems, although there are no official figures on how much water they consume in the UK.\nThe government said a pause would lead to the UK losing investment and being dependent on overseas computing for sensitive data processing.\nThere are hundreds of data centres in the UK \u2013 with plans for many more.\nThe amount of water data centres consume can change based on size, design and local climate - the hotter the area the more water needed to cool the equipment.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-08-26T21:11:33Z",
+    "publishedAt": "2026-08-27T23:11:27Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://www.businessinsider.com/us-army-betting-nuclear-microreactors-could-keep-bases-powered-2026-8#article",
+    "title": "The US Army is betting on nuclear microreactors to keep its bases powered even if the grid goes dark",
+    "summary": "The US Army announced plans to build nuclear microreactors on five military bases as it tests whether nuclear energy can keep critical operations running if the power grid goes down.\nThe Army sees the technology as a potential way to ensure bases and troops can operate off-grid during a conflict.\nQuestions remain about the ultimate cost, which vendors will prove viable, and how widely the Army could deploy the reactors.\nArmy Secretary Dan Driscoll said the contracts are meant to give bases reliable power independent of potentially vulnerable external commercial grids.\nNuclear microreactors are small nuclear reactors that generate power through nuclear fission on a smaller scale.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-26T20:01:57Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NDI=",
+    "url": "https://thenextweb.com/news/spain-data-centre-rules-renewables-grid",
+    "title": "Spain wants data centres on 80% renewables every hour, or no grid connection",
+    "summary": "Spain has drafted a decree that would require new data centres to source at least 80% of their electricity from renewables in every hour of operation, with loss of grid connection as the penalty for failing to comply.\nThe hourly requirement is the technically demanding part.\nEvery new megawatt requires matching renewable installations to be in place within 18 months before operation, achieved either through contracts or by building locally.\nDevelopers who priced their models on annual renewable matching would have to redo the arithmetic or walk away from a queue position that took years to obtain.\nConsultation is where the industry gets to argue, and the hourly matching requirement is the clause it will argue about.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-26T08:09:03Z",
     "source": "The Next Web"
   },
   {
-    "id": "NTM=",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
-    "title": "NASA\u2019s Roman Space Telescope is ready to hunt thousands of alien worlds",
-    "summary": "NASA's Nancy Grace Roman Space Telescope is now one major step closer to liftoff.\nOn Aug. 21, teams enclosed the observatory inside the protective fairing of its SpaceX Falcon Heavy rocket at the Payload Hazardous Servicing Facility at NASA's Kennedy Space Center in Florida.\nStanding 43 feet tall, it protects Roman while the observatory is on the ground and during the most violent early stages of launch.\nA few minutes after liftoff, its two halves will separate and fall away, allowing Roman to continue its journey into space.\nFinal Preparations for Falcon HeavyBefore launch, teams will transport the encapsulated Roman observatory to SpaceX's hangar at Launch Pad 39A.",
+    "id": "NDM=",
+    "url": "https://finance.yahoo.com/energy/articles/chinese-state-oil-giant-cnooc-112501831.html",
+    "title": "Chinese state oil giant CNOOC sees potential for US-China energy cooperation",
+    "summary": "\u2022 China was a buyer of U.S. oil and gas until Beijing imposed tariffs on the products during last year's trade war.\nWhile relations \u200chave improved since then, \u2060the tariffs remain in place and the energy trade is mostly frozen.\nMore from Yahoo Scout What energy cooperation potential exists between China and US?\nHow are trade tariffs affecting China-US energy deals?\n\u2022 CNOOC is among several Chinese energy companies to have long-term supply deals with U.S. \u200bLNG producers.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-27T11:25:01Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NTU=",
+    "url": "https://www.yahoo.com/news/politics/articles/group-democratic-senators-calls-ice-164559459.html",
+    "title": "ICE awards $16.7M contract to buy 6,000 pairs of gloves that deliver electric shocks",
+    "summary": "U.S. Immigration and Customs Enforcement has awarded a $16.7 million contract to purchase 6,000 pairs of gloves that can deliver painful electric shocks, saying officers would use them to control detainees and protesters who resist.\nICE moved forward with the purchase despite opposition from civil rights advocates and Democratic members of Congress, who said ICE officers cannot be trusted to use them appropriately.\nA notice published in a federal database Thursday said ICE entered into a no-bid contract to purchase the gloves from Compliant Technologies LLC, a Kentucky-based firm that manufactures them.\nAdvertisement AdvertisementCivil rights advocates have said ICE officers already face criticism for their use of force with little oversight or accountability while enforcing President Donald Trump's immigration crackdown.\nICE published the notice hours after a group of U.S. senators, led by Democrat Catherine Cortez Masto of Nevada, urged the agency to cancel its plan to buy the gloves.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-08-26T10:29:17Z",
-    "source": "Science Daily"
+    "publishedAt": "2026-08-27T16:45:59Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NzA=",
+    "url": "https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium",
+    "title": "Huawei bid to build Egypt\u2019s AI data centres, and Washington is scrambling",
+    "summary": "Huawei has bid to build AI data centres for the Egyptian government.\n\u201cEgypt is one of dozens of countries with whom we are speaking about US technology leadership on artificial intelligence,\u201d a State Department spokesperson said.\nAmerican AI \u201cbenefits the world\u201d, they added, and the US \u201cstands ready to partner with countries on AI development and deployment in ways that respect sovereignty and expand capabilities\u201d.\nMalaysia is the precedentMalaysia announced a national AI system running on Huawei chips last year, on a similar scale to the Egyptian proposal.\nThe country\u2019s second national AI strategy targets a 7.7% contribution to GDP by 2030, and it does not make its own chips.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-08-26T15:00:03Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NzI=",
+    "url": "https://finance.yahoo.com/economy/policy/articles/visa-mastercard-launch-international-card-130158554.html",
+    "title": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation",
+    "summary": "By Feras DalateyDAMASCUS, Aug 27 (Reuters) - Visa and Mastercard carried out their first international card transactions in Syria on Wednesday, a major step in reconnecting the country with global payment networks days after \u200cWashington removed it from its state sponsors of terrorism list.\nMore from Yahoo Scout How will international card payments benefit Syria's economy?\nWhich institutions are facilitating Syria's payment system rollout?\nWhat obstacles previously prevented Syria's financial integration?\nQatar's QNB Group said it and Mastercard had completed what it described as the world's first end-to-end international card payment in Syria, while Visa said separately it had tested its first live international transaction in the country with Lebanon-based Fransabank.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-27T13:01:58Z",
+    "source": "Yahoo Entertainment"
   }
 ]

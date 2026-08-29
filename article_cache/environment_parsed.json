@@ -1,6 +1,6 @@
 [
   {
-    "id": "MzY=",
+    "id": "MzE=",
     "url": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
     "title": "How Rising Temperatures Likely Contributed to Nepal\u2019s Deadly Flood",
     "summary": "Devastating footage posted to social media shows people fleeing a wall of water that washed away buildings and vehicles.\nA recent study finds that 40 percent of the world\u2019s glacial ice could disappear if the world does not keep warming under 1.5 degrees Celsius.\nBefore and after imagery shows debris left behind by the floods.\nShea points out that retreating glaciers can help trigger landslides as they get smaller and can no longer hold back sediment.\nWednesday\u2019s disaster was more likely due to a glacial collapse that fell into the valley below.",
@@ -10,7 +10,7 @@
     "source": "Wired"
   },
   {
-    "id": "Mzc=",
+    "id": "MzM=",
     "url": "https://thenextweb.com/news/epa-data-centre-air-pollution-disclosure",
     "title": "The EPA wants to make data centre pollution disclosure optional",
     "summary": "The US Environmental Protection Agency has proposed making public disclosure of air pollution from minor sources voluntary rather than mandatory, a change that would cover the diesel generators clustered around data centres.\nIt follows the same direction as the exemptions the administration has already granted, having excused data centres and rockets from parts of environmental law earlier this year.\nHow data centres come to be minor sources at all is the part worth understanding.\nThe region holds roughly 10,500 diesel generators at data centres with a combined capacity approaching 27 gigawatts, which is a fleet of fossil generation assembled without ever being permitted as a power station.\nBackup generation is what allows a data centre to be built faster than the grid serving it, and a disclosure regime that becomes optional removes the main mechanism by which anyone downwind finds out.",
@@ -20,37 +20,27 @@
     "source": "The Next Web"
   },
   {
-    "id": "Mzg=",
-    "url": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
-    "title": "Nearly 1,000 are missing in Nepal and Tibet after floods caused by a glacial collapse",
-    "summary": "Nearly 1,000 are missing in Nepal and Tibet after floods caused by a glacial collapsetoggle caption Niranjan Shrestha/APUDIN DHUNGA, Nepal \u2014 China's Xinhua News Agency said Thursday that mudslides in Tibet caused by a glacial collapse have left three people dead and 558 missing, while police in Nepal reported at least 162 were killed after massive flash floods in a border area of Nepal and China swept through communities a day earlier.\nChinese state broadcaster CCTV reported that 260 of the 558 missing people in Tibet were foreigners and two villagers were rescued.\nThe disaster in Nepal and Tibet is not a one-off.\nSponsor MessageThe region saw similar flash floods in August last year, when a glacial lake in Tibet overflowed because of high temperatures.\nOfficials in Nepal earlier said 403 people, including 341 foreigners, were reported missing.",
+    "id": "MzU=",
+    "url": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o",
+    "title": "Watch: What caused the flash floods in the Nepal-Tibet border",
+    "summary": "The US Geological Survey says the floods in the Nepal-Tibet border were triggered by a \"glacial collapse\" - meaning a glacier or part of a glacier had disintegrated.\nInitial reports led authorities to believe that an earthquake had been the cause.\nThe cause of the glacial collapse has not been determined, but scientists have warned that Himalayan glaciers are melting at an accelerating rate due to rising temperatures and climate change.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2026-08-26T12:27:19Z",
-    "source": "NPR"
+    "publishedAt": "2026-08-27T10:17:45Z",
+    "source": "BBC News"
   },
   {
-    "id": "Mzk=",
-    "url": "https://www.cnet.com/science/cookies-from-recycled-plastic-siu-carbondale-research/",
-    "title": "These Cookies Are 3D-Printed and Made of Recycled Plastic",
-    "summary": "They\u2019ve genetically engineered yeast to transform PET plastic and agricultural waste into a vanilla-flavored protein cookie that they think could be a solution to both plastic pollution and food shortages.\nFor microbiologists at Southern Illinois University Carbondale, the solution lay in converting plastic and plant waste into \u201cedible, protein-rich supplements.\u201dTheir concoction \u2014 snack-sized morsels called \u201c\u00b5Bites\u201d (pronounced \u201cmicrobites\u201d) \u2014 didn\u2019t end up winning the Deep Space Food Challenge.\nLahiru Jayakody, who led the project, holds one of the 3D-printed, plastic-derived cookies.\n\u201cThe way to address that, I believe, is by using microbes.\u201dAt this early stage, these cookies are also very expensive.\nConvincing the public to accept and eat plastic-derived cookies made from trash, on the other hand, is a challenge that may take more than science to solve.",
+    "id": "MzY=",
+    "url": "https://www.scientificamerican.com/article/climate-change-is-supercharging-el-ninos-coral-records-show/",
+    "title": "Climate change is supercharging El Ni\u00f1os, coral records show",
+    "summary": "We\u2019re in the midst of a blockbuster El Ni\u00f1o that could be become the strongest in living memory.\nIt and other very strong, recent El Ni\u00f1os are much stronger than those in the past as the result of human-caused climate change, a new study in Science shows.\nClimate models have given mixed signals about whether El Ni\u00f1o events could become stronger with climate change.\nPhysical evidence from fossilized corals in the western and central Pacific have bolstered the argument that climate change is strengthening El Ni\u00f1o.\nIn a strong El Ni\u00f1o year, they can reach more than two degrees C above normal.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-08-25T17:20:39Z",
-    "source": "CNET"
+    "bias": "left",
+    "publishedAt": "2026-08-27T18:00:00Z",
+    "source": "Scientific American"
   },
   {
-    "id": "NDA=",
-    "url": "https://thenextweb.com/news/australia-data-centre-rules-queensland-override",
-    "title": "Australia is preparing to impose its data centre energy rules over Queensland\u2019s objection",
-    "summary": "The policy requires large facilities to buy power from newly built renewable projects rather than drawing on the existing grid.\nEnergy Minister Chris Bowen has indicated the Commonwealth will legislate federal standards whether or not the states sign up.\nEnergy regulation in Australia has historically run through cooperative arrangements between the Commonwealth and the states, and a federal law reaching directly into state energy markets would be tested.\nA requirement to buy power from new renewable projects only works if those projects can be built and connected on the timeline the data centres need.\nAustralia is not doing this in isolation, and the alternative to writing rules is visible elsewhere.",
-    "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-08-25T08:40:06Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "NDE=",
+    "id": "Mzc=",
     "url": "https://www.bbc.co.uk/news/articles/c3dyyy5y0emo",
     "title": "Cornish residents urged to \"join in\" with food waste drive",
     "summary": "Understanding the benefits of recycling food waste could encourage more people to do it in future, Cornwall Council has said.\nFor the past two years, leftover food has been able to be taken to an anaerobic digester to be converted into methane to generate electricity and produce fertiliser.\nThe council said about 36,000 tonnes of food waste had been recycled to date since the introduction of its new waste service.\nIt said it hoped increased participation through understanding the benefits would help meet its target to recycle nearly two-thirds of Cornwall's waste by 2029.",
@@ -60,17 +50,7 @@
     "source": "BBC News"
   },
   {
-    "id": "NDM=",
-    "url": "https://www.businessinsider.com/us-army-betting-nuclear-microreactors-could-keep-bases-powered-2026-8#article",
-    "title": "The US Army is betting on nuclear microreactors to keep its bases powered even if the grid goes dark",
-    "summary": "The US Army announced plans to build nuclear microreactors on five military bases as it tests whether nuclear energy can keep critical operations running if the power grid goes down.\nThe Army sees the technology as a potential way to ensure bases and troops can operate off-grid during a conflict.\nQuestions remain about the ultimate cost, which vendors will prove viable, and how widely the Army could deploy the reactors.\nArmy Secretary Dan Driscoll said the contracts are meant to give bases reliable power independent of potentially vulnerable external commercial grids.\nNuclear microreactors are small nuclear reactors that generate power through nuclear fission on a smaller scale.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-26T20:01:57Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NDQ=",
+    "id": "NDA=",
     "url": "https://abcnews.com/International/deadly-nepal-flood-caused-enormous-landslide-glacier-tumble/story?id=135984405",
     "title": "What caused Nepal flood? Scientist says it was enormous landslide, glacier fall",
     "summary": "What caused Nepal flood?\nThe event was so powerful, it caused an energy equivalent of a 5.2 earthquake that was registered on seismographs around the globe.\nA drove view of mud covered properties following a flash flood at Trishuli in Nuwakot district, Nepal, August 26, 2026.\nA drone view shows mud covering properties following a flash flood at Trishuli in Nuwakot district, Nepal, August 26, 2026.\nOf those who are out of contact, 476 are foreign tourists, according to the Nepal National Disaster Risk Reduction and Management Authority.",
@@ -80,7 +60,7 @@
     "source": "Abcnews.com"
   },
   {
-    "id": "NDU=",
+    "id": "NDE=",
     "url": "https://www.bbc.co.uk/news/articles/cd9wp3p4301o",
     "title": "Scottish Highlands benefiting from 'coolcation' trend",
     "summary": "James MacLeod, concierge at the Glencoe House Hotel, in the Scottish Highlands, is talking about how he has noticed a big shift in visitors' perceptions.\nClimate change is redrawing Europe's summer tourism map.\nWildfires, droughts and record-breaking heatwaves are making summer months increasingly uncomfortable and unpredictable across southern Europe.\nBy contrast, Scotland and other northern European nations are finding themselves perfectly positioned to offer a \"coolcation\" escape.\nWithin the UK, holiday rental website Cottages.com said that its Scottish portfolio has been the most viewed this summer.",
@@ -90,47 +70,17 @@
     "source": "BBC News"
   },
   {
-    "id": "NDY=",
-    "url": "https://www.bbc.co.uk/news/articles/c1kx3y111wdo",
-    "title": "Government invests \u00a371m to help reopen Devon tungsten mine",
-    "summary": "More than \u00a370m of public money will be invested into a mining company to help restart production, the chancellor has said.\nThe Hemerdon tungsten and tin mine in Devon will receive up to \u00a371m from the National Wealth Fund to resume operations at the mine near Plymouth.\nChancellor John Healey said it meant Britain could tap into one of the world's largest deposit of the mineral which is used in steel, electronics and aerospace industries.\nThe government said it would ringfence 50% of the production for use in Britain.\nThe financing consists of a \u00a336m equity investment alongside up to \u00a335m of lending to help Tungsten West restart production.",
+    "id": "NDQ=",
+    "url": "https://www.cnet.com/home/stop-turning-off-your-ac-when-you-go-on-vacation-an-hvac-expert-explains-why/",
+    "title": "Stop Turning Off Your AC When You Go on Vacation. An HVAC Expert Explains Why",
+    "summary": "But what about your air conditioner?\nShould you turn your air conditioner off when you\u2019re on vacation?\nAlthough turning off your air conditioner while you\u2019re away may seem like a way to save money, it could do more harm than good in the long run.\nWhat is the ideal air conditioner temperature when on vacation?\nEcobee/CNETIf you\u2019d rather have full control over your thermostat, even while you\u2019re away, a smart thermostat is the best option.",
     "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-08-25T11:18:28Z",
-    "source": "BBC News"
+    "bias": "right",
+    "publishedAt": "2026-08-27T12:01:00Z",
+    "source": "CNET"
   },
   {
-    "id": "NDc=",
-    "url": "https://thenextweb.com/news/spain-data-centre-rules-renewables-grid",
-    "title": "Spain wants data centres on 80% renewables every hour, or no grid connection",
-    "summary": "Spain has drafted a decree that would require new data centres to source at least 80% of their electricity from renewables in every hour of operation, with loss of grid connection as the penalty for failing to comply.\nThe hourly requirement is the technically demanding part.\nEvery new megawatt requires matching renewable installations to be in place within 18 months before operation, achieved either through contracts or by building locally.\nDevelopers who priced their models on annual renewable matching would have to redo the arithmetic or walk away from a queue position that took years to obtain.\nConsultation is where the industry gets to argue, and the hourly matching requirement is the clause it will argue about.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-26T08:09:03Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "NDg=",
-    "url": "https://www.yahoo.com/news/us/articles/less-300-million-barrels-left-110000922.html",
-    "title": "Less than 300 million barrels left: the engineering limits threatening the American Strategic Petroleum Reserve",
-    "summary": "As crude inventories in the Strategic Petroleum Reserve drain toward their operational limits, America is left, armed with just 300 million barrels.\nConsequently, the total volume of fluid inside the reserve must be permanently maintained at 714 million barrels.\nBut while 70 million barrels is the structural floor where the salt rock might physically hold together, the practical operational floor is much higher, around 250 million barrels.\nUnder the Energy Policy and Conservation Act, federal law places a strict statutory stop at 252.4 million barrels.\nWith an inventory of roughly 293 million barrels, only about 41 million barrels remain before hitting the 252 million-barrel statutory limit.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-25T11:00:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "NTI=",
-    "url": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko",
-    "title": "Michael Sheen toxic waste documentary 'the tip of the iceberg'",
-    "summary": "A former Monsanto worker who spent three years helping seal toxic waste underground said staff had \"cheap\" protective equipment and were not told what they were burying.\nStephen Constance worked at the chemical giant's Newport factory in the 1990s and came forward after the BBC documentary Buried with Michael Sheen highlighted Wales' toxic waste legacy.\nBut the 14 sites identified in the programme are just the tip of the iceberg and there are about 20,000 high-concern sites in the UK, said Dr David Megson, the scientist involved in the documentary.\nEastman Chemical Company, which is responsible for Monsanto's legacy production in the UK, did not respond when asked to comment.\nConstance was one of dozens of people who contacted BBC Wales after coverage of Sheen's investigation into Monsanto and the dumping of polychlorinated biphenyls (PCBs).",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-08-25T21:53:24Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "NTY=",
+    "id": "NDU=",
     "url": "https://www.bbc.co.uk/news/videos/cp80mzdvvlvo",
     "title": "Aerial footage shows flash flood on Nepal-Tibet border",
     "summary": "Hundreds of travellers are missing, including at least 291 foreign tourists, after a flash flood swept away buildings on the Nepal-Tibet border.\nAerial footage showed multi-storey buildings partially submerged by the muddy floodwaters, and a valley filled with dust and smoke.\nNepal's foreign minister says preliminary reports show it may have been caused by an earthquake triggering an avalanche, which lead to flash floods.\nChina's President Xi Jinping is urging \"all-out\" search efforts for the missing, as well as stronger monitoring and early warning systems to prevent secondary disasters.\nFollow this story live.",
@@ -140,53 +90,53 @@
     "source": "BBC News"
   },
   {
-    "id": "NTc=",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zkek78j5o",
-    "title": "Newspaper headlines: 'Britons lost in Nepal flood' and 'Regal has landed'",
-    "summary": "The Daily Mail describes, external the disaster as an \"apocalyptic mudslide\" that \"wiped out everything in its path\".\nThe i Paper, external on Meta's decision to pay billions of dollars to settle claims - which it denies - that Facebook and Instagram harmed children.\nAndy Burnham has spoken the Financial Times, external in what it describes as his \"most pro-business interview since becoming prime minister\".\nIn the Daily Express, external, Paul Sexton describes her as \"side-splittingly funny\" and \"bigger than country music itself\".\nThe Daily Mirror's, external Tom Bryant recalls how she made him feel \"at the centre of her world, despite her enormous fame\".",
+    "id": "NDc=",
+    "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o",
+    "title": "Nepal-Tibet floods: 'High risk' of lake breaching and causing second flood, warns China",
+    "summary": "China has warned there is a \"high risk\" a lake that formed after the recent landslide near the Nepal-Tibet border may breach its banks, causing a second flood downstream.\nAs of Friday, an estimated 2.5 million cubic metres of water had accumulated, according to broadcaster CCTV.\nOfficials said that three million cubic metres of water was expected to flow into the lake between Thursday and the weekend, posing a \"high risk of breach\".\nThe barrier lake had started to overflow on Thursday.\nBut by Friday afternoon, state media reported that the \"risk from the upstream barrier lake had come under control\" and that rescue operations had resumed.",
     "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-08-26T22:33:22Z",
+    "bias": "left",
+    "publishedAt": "2026-08-28T05:50:59Z",
     "source": "BBC News"
   },
   {
-    "id": "NTg=",
+    "id": "NDg=",
     "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o",
     "title": "What we know about deadly Nepal-Tibet floods",
-    "summary": "Massive landslides and flash floods on the Nepal-Tibet border have caused widespread damage and left hundreds dead or missing.\nSearch and rescue operations have been ongoing since Wednesday's disaster.\nChinese state media has said there are significant casualties, while Nepalese officials describe \"huge scale loss\".\nA lake of rising water has formed at a site along the border, prompting Chinese authorities to suspend rescue efforts in Tibet on Friday for fear it may burst its banks.\nHere is what we know so far.",
+    "summary": "Devastating landslides and flash floods on the Nepal-Tibet border have caused widespread damage and left hundreds dead and thousands more missing.\nAt least seven people have died in Tibet, with another 554 reported missing by Chinese state media.\nOn Wednesday, flood water tore through the border region, sweeping away homes and roads, local officials have said.\nRescue workers say they now face a critical moment to reach remaining survivors as fears mount of further flooding in the disaster's aftermath.\nHere is what we know so far.",
     "category": "environment",
-    "bias": "right",
+    "bias": "center",
     "publishedAt": "2026-08-26T17:13:25Z",
     "source": "BBC News"
   },
   {
-    "id": "NjU=",
+    "id": "NTI=",
+    "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o",
+    "title": "Nepal-Tibet: Tracing the deadly path of the flood",
+    "summary": "Floods have devastated the Nepal-Tibet border region which have destroyed towns and swept away bridges.\nHundreds of people have been reported dead and hundreds more missing.\nBBC Verify has traced the path of the deadly flash flood using verified videos and satellite imagery.\nMerlyn Thomas reports.\nVerification by Emma Pengelly, Paul Brown, Charlotte Green, Shayan Sardarizadeh, Shruti Menon, Yi Ma and Benedict Garman.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-08-27T16:13:39Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NTY=",
+    "url": "https://www.bbc.co.uk/news/articles/cly464k252yo",
+    "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+    "summary": "Preliminary investigations have pointed to a collapsed glacier as the cause of the flash flood on the Nepal-Tibet border, highlighting the issue of rapidly melting Himalayan ice, scientists have told the BBC.\nInitial reports of an earthquake led many to believe that a tremor had caused a landslide, which in turn caused the flood that has killed at least 469 people.\nHowever, the US Geological Survey then clarified that the disaster was caused by a \"glacial collapse\", which is when a glacier or part of a glacier disintegrates.\nThe impact of the collapsed glacier hitting the bottom of a valley was so powerful that it registered a magnitude of 5.2, according to USGS data and scientists who have analysed the event.\nHe estimated that the glacier collapsed in a northwesterly direction and then travelled westwards downstream.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-08-27T07:47:12Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NTc=",
     "url": "https://www.yahoo.com/news/science/articles/glacier-collapse-may-triggered-deadly-161036002.html",
     "title": "Glacier collapse may have triggered deadly Nepal flash flood, experts say",
     "summary": "It was not clear what caused the glacier to collapse, but Nepali \u200cofficials have pointed to an earthquake in the region as a possibility.\nBefore-and-after satellite imagery of the region from Planet Labs, reviewed by Reuters, showed lush green mountainside now buried under brown debris and sediment.\nAdvertisement Advertisement\"Some of the glaciers in the valley were covered \u2060in snow yesterday and today they are mostly bare ice.\n\"Dan's analysis suggests this may have been the result of a glacier collapse, due to rapid melting,\" Zolli wrote on LinkedIn.\nAdvertisement Advertisement\"The flash \u200cfloods were caused by an ice-rock avalanche on the Nepali side,\" \u200bsaid Prakash Pokharel, a geologist at the \u200bauthority who has reviewed the Planet Labs images.",
     "category": "environment",
     "bias": "left",
     "publishedAt": "2026-08-26T17:30:28Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "Njg=",
-    "url": "https://www.bbc.com/news/live/c6y8mjmnpxv0t?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "title": "'Everything is under mud': At least 389 killed in flash flood disaster in Nepal",
-    "summary": "Search for survivors continues through night after deadly flash floodsImage source, EPA/ShutterstockWe're continuing our live coverage in a new live page, which you can find here.\nThe search for survivors in Tibet and Nepal continues after hundreds of people were killed in flash floods.\nMore than 900 people are missing and at least 389 have died in Nepal, while three people are confirmed to have been killed in Tibet and more than 550 are unaccounted for.\nA woman from Kent says she has been unable to contact her sister, who was near the Nepal-Tibet border when devastating flash flooding hit.\nWe're continuing our live coverage in a new live page, which you can find here.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-26T15:51:54Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "NzU=",
-    "url": "https://www.yahoo.com/news/world/articles/hundreds-missing-least-8-killed-101438022.html",
-    "title": "Floods caused by a glacial collapse kill at least 160 people on Nepal-China border, hundreds missing",
-    "summary": "Experts said a glacial collapse caused the disaster in the warming Himalayan region.\nPolice in Nepal reported at least 157 dead.\nChina's state broadcaster CCTV reported at least three dead and 265 missing in the Tibet region's Gyirong County near the national border.\nMany missing were on pilgrimage to a sacred siteOfficials in Nepal said 403 people, including 341 foreigners, were reported missing.\nCountries express alarm over missing citizensSouth Korean government officials said nine citizens working on building a hydropower plant in Nepal were among those reported missing.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-08-26T10:14:38Z",
     "source": "Yahoo Entertainment"
   }
 ]
