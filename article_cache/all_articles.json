@@ -2,138 +2,78 @@
   {
     "article": {
       "id": "MA==",
-      "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
-      "title": "The UK Power Grid Has a Phantom Data Center Problem",
-      "summary": "In July, the UK\u2019s energy regulator, Ofgem, laid out a proposal meant to force phantom data centers out of the swollen queue.\nData center developers face delays almost everywhere; similar grid congestion issues afflict the US and countries across Europe.\nThe frenzied data center buildout \u201cis bringing a huge amount of capital investment into the UK,\u201d says Alex Burgoyne, head of data centers at real estate consultancy Knight Frank.\nNew data centers make up 73 gigawatts of that\u2014equivalent to one and a half times the peak demand for the entire UK last year\u2014and counting.\n\u201cNo one really understands \u2026 what the real grid demand will be because of these phantom projects.\u201dThe crowded queue is largely the product of an incentives problem.",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "summary": "\u201cI don\u2019t consider AI-generated material to be art, and I don\u2019t think this technology is really advancing art in any meaningful way,\u201d Harris said.\nHe\u2019s taken a break from callouts, but he still thinks it\u2019s important to know about the way AI music is harming human artists.\nWhen I brought up how detailed AI prompts can be, he insisted that many of the people posting AI music likely aren\u2019t even writing their own inputs.\nAI music detection tools are one potential solution, but it\u2019s not entirely clear how and, perhaps more importantly, if listeners might incorporate them into their lives.\nJudging by the numbers (which, of course, can be manipulated with paid streams), there do seem to be people who don\u2019t mind the sounds of Suno and other AI tools.",
       "category": "technology",
       "bias": "lean left",
-      "publishedAt": "2026-08-27T06:00:00Z",
-      "source": "Wired"
+      "publishedAt": "2026-08-28T19:10:32Z",
+      "source": "The Verge"
     }
   },
   {
     "article": {
       "id": "MQ==",
-      "url": "https://thenextweb.com/news/ai-agents-wallets-web3-machine-economy-varun-datta",
-      "title": "AI agents are getting wallets: the Web3 infrastructure behind the machine economy",
-      "summary": "TL;DR Varun Datta, Web3 venture capitalist and CEO of Truth Ventures, explores how AI agents gaining the ability to transact independently could accelerate the emerging machine economy and create new opportunities for investors.\nAI agents are getting wallets and are now able to make decisions on behalf of owners.\nThe biggest news is the launch of Cloudflare Wallets on August 4, 2026.\nAs part of its agents week, it gives AI agents running on its network a stablecoin balance and a readable identity to present when paying for APIs, data, and content.\n\u201cAI agents need to transact with counterparties they haven\u2019t met at times when traditional banks are not open and settle without any reversal.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-08-27T19:52:47Z",
-      "source": "The Next Web"
+      "url": "https://www.businessinsider.com/snyk-employee-share-value-drops-as-ai-rivals-surge-ahead-2026-8#article",
+      "title": "Snyk was worth $8.5 billion. The price of its employees' stock has collapsed.",
+      "summary": "Snyk was one of cybersecurity's brightest startup stars, worth $8.5 billion at the height of the software boom.\nIt was valued at $8.5 billion in a 2021 funding round and at $7.4 billion in a 2022 funding round.\nPeople with Snyk equity have been watching the value of their shares slide over the past few years, two former employees told Business Insider.\nSnyk said it doesn't comment on employee share valuations and declined to provide a valuation for Snyk at this time.\nCoinbase, for example, previously told Business Insider that it had used Anthropic's Claude to scan its codebase for bugs.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-08-28T09:00:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "Mg==",
-      "url": "https://finance.yahoo.com/economy/policy/articles/40-trillion-national-debt-bond-145951257.html",
-      "title": "The $40 trillion national debt and the bond market\u2019s revolt: top Wall Street strategists explain how we got into this mess",
-      "summary": "Total U.S. debt crossed $40 trillion for the first time this month.\nThey also got a major helping hand from an AI-assisted column in the Wall Street Journal by hedge fund legend Stanley Druckenmiller.\nThe math behind the milestoneKelly's note draws a distinction that matters more than the $40 trillion headline number itself.\nThat figure is total federal public debt outstanding, which includes roughly $7.8 trillion the government owes its own trust funds.\nThe measure economists actually watch\u2014debt held by the public\u2014will end this fiscal year at $32.3 trillion, or 100.5% of GDP, J.P. Morgan projects.",
-      "category": "economics",
-      "bias": "right",
-      "publishedAt": "2026-08-26T14:59:51Z",
-      "source": "Yahoo Entertainment"
+      "url": "https://www.cnet.com/tech/services-and-software/tech-companies-call-for-improved-cyber-defenses-after-ai-enabled-attacks/",
+      "title": "Tech Companies Call for Improved Cyber Defenses After AI-Enabled Attacks",
+      "summary": "The letter warns that \u201cAI-enabled cyberattacks will become far more widespread and sophisticated as models around the world become increasingly capable,\u201d putting companies, governments and infrastructure at risk.\nOnce there, hundreds of AI agents used stolen credentials, communicated with each other on makeshift message boards and eventually hacked into the AI platform Hugging Face.\nRead more: AI Agents Are a Cybersecurity Nightmare That\u2019s Only Just BegunThere have been more than a dozen major incidents over the past year.\nCybersecurity companies should strengthen defenses against AI attacks and help deploy them for critical infrastructure operations, such as water and utility systems.\n\u201cWe should be looking to AI companies to contribute resources to make it easier for organizations to actually improve their security,\u201d Moore told CNET.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-08-28T19:06:33Z",
+      "source": "CNET"
     }
   },
   {
     "article": {
       "id": "Mw==",
-      "url": "https://thenextweb.com/news/japan-blockchain-settlement-stocks-bonds",
-      "title": "Japan wants stock and bond settlement to happen instantly, on a blockchain",
-      "summary": "Portions of the balances banks hold at the Bank of Japan would be converted into digital tokens on a blockchain network, making this an interbank central bank digital currency rather than anything consumers would touch.\nSettlement infrastructure is the sort of thing that has to work on the first day and every day afterwards.\nOfficials want to keep Japanese markets competitive as the United States and Europe build out tokenised securities infrastructure, which is a defensive framing rather than an ambition to lead.\nJapan has formed here, having run digital currency experiments through the Bank of Japan for several years without committing to a retail launch.\nJapan proposing to tokenise central bank money rather than the securities themselves is a version of that argument.",
+      "url": "https://www.entrepreneur.com/leadership/the-next-wave-of-american-innovation-isnt-being-built-in/505012",
+      "title": "The Next Wave of American Innovation Isn\u2019t Being Built in Silicon Valley. Here\u2019s Where It\u2019s Actually Happening.",
+      "summary": "The most important shift in global capital right now is not about which sector is hot or which market is recovering.\nThose industries are being reshaped by innovation, and the Gulf South is emerging as one of the places where that future is being built.\nRegional assets, global implicationsThe Gulf South \u2014 Texas, Louisiana, Mississippi, Alabama and Florida \u2014 is the load-bearing infrastructure of the American economy.\nThose problems are native to the Gulf South.\nThe Gulf South is the connective corridor between what America produces and what the world needs.",
       "category": "technology",
       "bias": "lean right",
-      "publishedAt": "2026-08-26T07:42:30Z",
-      "source": "The Next Web"
+      "publishedAt": "2026-08-28T22:00:00Z",
+      "source": "Entrepreneur"
     }
   },
   {
     "article": {
       "id": "NA==",
-      "url": "https://finance.yahoo.com/economy/policy/articles/feds-collins-says-latest-us-180405367.html",
-      "title": "Fed's Collins says latest US inflation readings are 'mixed'",
-      "summary": "Collins, however, noted that she is ready to raise rates if it does not.\n\"My modal scenario does continue to have that gradual disinflation,\" under a current policy interest rate that is seen as slightly restrictive, Collins said.\nCollins said \u200cshe had been watching the recent rise in bond yields, \u200bwhich have a direct bearing on the outlook for economic activity.\nShe \u200bsaid she did not think they showed \u200bany evidence, so far, that inflation expectations were beginning to rise.\nEstimates of the inflation compensation \u200cdemanded by investors or seen in the pricing \u200bof inflation-protected securities are \"consistent with \u200bprice stability,\" Collins said.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-08-27T18:04:05Z",
-      "source": "Yahoo Entertainment"
+      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+      "title": "A Judge Has Blocked the Pentagon\u2019s Attempt to Blacklist Anthropic",
+      "summary": "A federal judge on Thursday barred the Trump administration from designating Anthropic a national security risk over a dispute about the use of its AI models, ruling that the designation amounted to unconstitutional retaliation.\nThe judge also ruled that nine agencies\u2014including the Pentagon, the Treasury Department, the State Department, and the Department of Homeland Security\u2014had improperly imposed sanctions on Anthropic.\nIn a statement, Anthropic spokesperson Danielle Cohen said, \u201cWe welcome the court\u2019s ruling that this supply-chain risk designation was unlawful.\nAnthropic\u2019s top AI models are considered some of the best in the world.\nLin cited the administration\u2019s involvement in reviewing advanced Anthropic models as part of her ruling.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-08-28T03:04:14Z",
+      "source": "Wired"
     }
   },
   {
     "article": {
       "id": "NQ==",
-      "url": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-rise-bringing-average-160406121.html",
-      "title": "Mortgage rates rise, bringing the average rate on a 30-year home loan to where it was 4 weeks ago",
-      "summary": "Mortgage rates ticked higher this week, nudging the average long-term U.S. home loan rate closer to its recent high for the year.\nThe benchmark 30-year fixed rate mortgage rate edged up to 6.66% from 6.65% last week, mortgage buyer Freddie Mac said Thursday.\nOne year ago, the average rate was 6.56%.\nHigher mortgage rates can add hundreds of dollars a month in costs for borrowers, limiting homebuyers' purchasing power.\nMore from Yahoo Scout What factors are driving mortgage rates higher this year?",
+      "url": "https://www.entrepreneur.com/building-a-business/how-to-build-a-capital-stack-that-gives-your-startup-more-control",
+      "title": "How to Build a Capital Stack That Gives Your Startup More Control",
+      "summary": "Listen to this postKey Takeaways Venture capital is no longer the default startup financing strategy.\nFounders should build a diversified capital stack \u2014 three sources of capital that each do a different job and don\u2019t depend on the same market conditions being favorable at the same time.\nDebt, venture debt, revenue-based financing or asset-backed lending works once you have predictable revenue or hard assets to underwrite against.\nDebt, venture debt, revenue-based financing or straightforward asset-backed lending works once you have predictable revenue or hard assets to underwrite against.\nRaise venture capital when it buys you something specific, not because it\u2019s the only playbook you were handed.",
       "category": "economics",
-      "bias": "right",
-      "publishedAt": "2026-08-27T16:04:06Z",
-      "source": "Yahoo Entertainment"
+      "bias": "lean left",
+      "publishedAt": "2026-08-28T18:00:00Z",
+      "source": "Entrepreneur"
     }
   },
   {
     "article": {
       "id": "Ng==",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-wants-investors-believe-total-180145400.html",
-      "title": "Anthropic wants investors to believe its \u2018total addressable market\u2019 is worth $30 trillion\u2014nearly the size of the entire US economy",
-      "summary": "Now come total addressable market estimates\u2014known as TAMs\u2014worth roughly 40% of the entire US equity market.\nMore from Yahoo Scout What is Anthropic's $30 trillion total addressable market?\nHow does Anthropic's TAM compare to global GDP?\nAI lab Anthropic, reportedly on the verge of a $2 trillion IPO, is preparing to tell investors that its total addressable market is worth more than $30 trillion, according to a report in the Wall Street Journal.\nRather than a forecast of Anthropic's imminent sales, a total addressable market, or TAM, is the annual revenue a company could theoretically generate if it captured 100% of the relevant market.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-08-26T18:01:45Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Nw==",
-      "url": "https://finance.yahoo.com/economy/articles/brazils-july-current-account-deficit-121904796.html",
-      "title": "Brazil's July current account deficit widens well beyond forecasts to 7-year high",
-      "summary": "BRASILIA, Aug 27 (Reuters) - Brazil's current account deficit widened far more than expected in \u200cJuly, central bank data showed on Thursday, \u200creaching its largest shortfall for the month in seven \u200byears as external accounts deteriorated across the board.\nWhat caused Brazil's current account deficit to widen?\nThe central \u2060bank said the services deficit grew by about $500 million from a year earlier, while the \u200bfactor payments \u200baccount deficit increased by \u200broughly $400 million.\nA widening current account deficit can weigh on a country's currency as it reflects a net outflow of \u200cU.S.\nOn \u200ba rolling 12-month basis, FDI eased to 3.50% of gross domestic product but continued \u200bto comfortably \u200cfinance the current account deficit, which widened \u200bto 2.49% of GDP.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-08-27T12:19:04Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "OA==",
-      "url": "https://www.yahoo.com/news/us/articles/six-consequences-six-months-war-050601771.html",
-      "title": "Six consequences after six months of war in Iran",
-      "summary": "What happens next is unclear but many of the war's probable enduring consequences \u2014 for the United States, Iran and the global economy \u2014 are already apparent.\nAdvertisement AdvertisementStill, the global economy has proved more resilient than during the oil shocks of the 1970s.\nIran's attacks on shipping, combined with a Houthi blockade targeting Saudi-linked traffic in the Red Sea, have raised insurance and transport costs across the region.\nPreventing Iran from obtaining a nuclear weapon is Trump's top stated goal for the war.\nAdvertisement AdvertisementBut \u200bthe true state of the program is uncertain because U.N. inspectors have not returned to Iran's nuclear sites.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-27T05:13:07Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "OQ==",
-      "url": "https://finance.yahoo.com/energy/articles/trump-says-us-doesn-t-173746854.html",
-      "title": "Trump says the US doesn\u2019t need Canada. The economy says otherwise",
-      "summary": "TORONTO (AP) \u2014 U.S. President Donald Trump says his country does not need Canada.\nBut every day, roughly 4 million barrels of Canadian crude oil flow south, helping fuel American cars, trucks and airplanes and supply U.S. industry.\n\"WE DON'T NEED CANADA, THEY NEED US!\"\nDaniel B\u00e9land, a political science professor at McGill University, said Trump's claim that the U.S. doesn't need Canada is \"absolutely false,\" citing U.S. reliance on Canadian oil and natural gas and deeply integrated industries such as autos.\nMuch of that gap reflects U.S. purchases of Canadian energy, which helps power the U.S. economy.",
-      "category": "economics",
-      "bias": "center",
-      "publishedAt": "2026-08-26T17:37:46Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "MTA=",
-      "url": "https://www.cbsnews.com/news/cd-account-mature-september-2026-where-move-money-next/",
-      "title": "Have a CD account set to mature this September? Here's where you should (and shouldn't) move your money next.",
-      "summary": "If time is running out on your current CD account, it makes sense to start planning your next moves now.\nIf they opened a certificate of deposit (CD) account in recent months or years, its maturity date could arrive in the month.\nWhere you should move your maturing CD account money this SeptemberDon't let your maturing CD account money automatically rollover into a new account, especially as that can risk extending your loss of access and, potentially, lock you into an account with a lower interest rate than you're currently earning.\nSo don't rush to open an account or transfer any money until you've found the right account with the right rate.\nThe one notable difference, however, is that money market accounts also offer check-writing services that neither a high-yield savings or CD account will.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-08-26T19:48:26Z",
-      "source": "CBS News"
-    }
-  },
-  {
-    "article": {
-      "id": "MTE=",
       "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
       "title": "Plaud is launching AI earbuds",
       "summary": "Plaud has introduced a new AI wearable that\u2019s designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin.\nThe Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process conversations without relying on your phone or Wi-Fi to stay connected.\nThey can record for up to six hours according to Plaud, which is also the maximum estimated battery life.\nHere\u2019s what the charging case looks like.\nImage: PlaudThe Plaud One costs $249.99 and is available to preorder \u201cin selected markets\u201d starting today, with shipping expected to start in Q4, 2026.",
@@ -145,67 +85,19 @@
   },
   {
     "article": {
-      "id": "MTI=",
-      "url": "https://thenextweb.com/news/korea-kmcc-meta-youth-protections-global",
-      "title": "South Korea\u2019s regulator says Meta\u2019s teen limits should apply everywhere, not just America",
-      "summary": "South Korea\u2019s media regulator has said that Meta\u2019s new protections for young users should ideally apply worldwide rather than only in the markets that forced them, which is a modest-sounding statement with a substantial ask inside it.\nThe measures in question come from Meta\u2019s settlement with US state attorneys general, and the company has already signalled that they do not travel automatically.\nThe Korea Media and Communications Commission said in a statement that social media providers needed to take greater responsibility for protecting minors.\nIt also pointed out that seven bills aimed at strengthening youth protection on social platforms are currently sitting in the National Assembly.\nWhat Meta agreed to in the United States is unusually specific for a settlement of this kind.",
-      "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-08-27T09:44:56Z",
-      "source": "The Next Web"
-    }
-  },
-  {
-    "article": {
-      "id": "MTM=",
-      "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-      "title": "What We Still Don\u2019t Know About OpenAI\u2019s Hugging Face Hack",
-      "summary": "Hugging Face initially disclosed the incident on July 16 without naming the culprit; five days later, OpenAI acknowledged that its own agents were responsible.\nOpenAI\u2019s postmortem has been eagerly awaited by AI researchers and policymakers hoping to prevent AI agents from causing similar kinds of real-world harm.\nAfter the Hugging Face hack was first disclosed, attorneys general from 15 states sent a letter to OpenAI asking it to preserve evidence about it.\nAs part of OpenAI\u2019s investigation, the company allowed two independent research groups, METR and Redwood Research, to audit the Hugging Face hack.\nThose groups also released their independent report on Wednesday, which found that more than 700 AI agents were part of the Hugging Face breach\u2014far more than had previously been revealed.",
-      "category": "technology",
+      "id": "Nw==",
+      "url": "https://www.entrepreneur.com/starting-a-business/the-biggest-fundraising-mistake-ai-founders-make/505119",
+      "title": "The Biggest Fundraising Mistake AI Founders Make",
+      "summary": "AI drove nearly all of it: $242 billion, or 80% of total global venture funding, went to AI companies.\nBut more capital flooding into AI doesn\u2019t make fundraising easier for most founders.\nWhether your revenue model is as clean as your productA strong revenue model generates revenue and makes sense to everyone in the room.\nWhether your margins actually improve as you growFor AI companies, revenue growth alone isn\u2019t enough.\nThe question isn\u2019t whether AI companies can raise money.",
+      "category": "economics",
       "bias": "lean left",
-      "publishedAt": "2026-08-26T19:16:42Z",
-      "source": "Wired"
+      "publishedAt": "2026-08-28T17:00:00Z",
+      "source": "Entrepreneur"
     }
   },
   {
     "article": {
-      "id": "MTQ=",
-      "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-      "title": "AI Slop Is Ruining Cute Animals on the Internet",
-      "summary": "AI-generated videos and pictures are destroying one of the largest and most enduring sources of joy and compassion on the internet: animals.\nThe explosion of deepfakes and AI slop over the past few years has led to widespread frustration among viewers, creators, and organizations that support animals, forcing everyone to hunt in the pixels for glitches or other telltale signs of AI.\nA disheartened Butler didn\u2019t pay up.\nIn the past, people have claimed We Animals\u2019 work is staged or photoshopped.\nBut for the owners of AI slop accounts, synthetic imagery can be a convenient path to collecting likes and ad revenue.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-08-26T11:00:00Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "MTU=",
-      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-      "title": "A Judge Has Blocked the Pentagon\u2019s Attempt to Blacklist Anthropic",
-      "summary": "A federal judge on Thursday barred the Trump administration from designating Anthropic a national security risk over a dispute about the use of its AI models, ruling that the designation amounted to unconstitutional retaliation.\nThe judge also ruled that nine agencies\u2014including the Pentagon, the Treasury Department, the State Department, and the Department of Homeland Security\u2014had improperly imposed sanctions on Anthropic.\nIn a statement, Anthropic spokesperson Danielle Cohen said, \u201cWe welcome the court\u2019s ruling that this supply-chain risk designation was unlawful.\nAnthropic\u2019s top AI models are considered some of the best in the world.\nLin cited the administration\u2019s involvement in reviewing advanced Anthropic models as part of her ruling.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-08-28T03:04:14Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "MTY=",
-      "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
-      "title": "The Humanoids at China\u2019s Robot Games Were Faster Than Usain Bolt\u2014but I\u2019m More Impressed by Their Tweezer Mastery",
-      "summary": "If you\u2019re anything like me, the World Humanoid Robot Games are a highlight of your sporting calendar.\nThe opening ceremony showcased the sheer size of the event\u2014the organizers say that more than 600 teams showed up with over 2,000 robots.\nThere are more than 100 humanoid robot manufacturers in China alone, and participants also traveled in from 15 other countries.\nHumanoid robots are seen preparing for the opening ceremony of the World Humanoid Robot Games.\nWitness the Tiangong Ultra, developed by the Beijing Humanoid Robot Innovation \u200bCenter, running the 100-meter dash in 8.86 seconds.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-08-26T18:15:00Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "MTc=",
+      "id": "OA==",
       "url": "https://www.businessinsider.com/vc-founder-says-product-managers-consultants-hot-hires-ai-era-2026-8#article",
       "title": "VC Founder Says Product Managers Will Be in Demand in the AI Era",
       "summary": "Nicolas Sauvage believes judgment and taste will be what sets people apart in the AI era \u2014 and that's why he's bullish on product managers.\nThe president of venture capital firm TDK Ventures told Business Insider that product managers are one of three job categories that will rise in demand as AI reshapes work.\nFounded in 2019 by Sauvage, TDK Ventures manages $500 million across four funds and invests in tech entrepreneurs.\nProduct managers also understand what customers want and how to turn those insights into products and solutions that are compelling and competitive, he said.\nEngineers now often think more like product managers, while product managers can build features and test their own demos.",
@@ -217,43 +109,43 @@
   },
   {
     "article": {
-      "id": "MTg=",
-      "url": "https://thenextweb.com/news/independent-project-franchising-software-innovation",
-      "title": "Independent project franchising: why big software companies should spin out innovation instead of killing it",
-      "summary": "TL;DR Large software companies routinely build internal tools that prove valuable, then let them decay when priorities shift.\nMy argument is simple: when a useful internal project no longer fits the corporate roadmap, companies should consider giving it independence before they abandon it.\nSoftware engineers know the pattern.\nDeloitte\u2019s 2026 Global Software Industry Outlook says software creation is becoming faster and cheaper, while lean AI-native challengers are pressuring established companies.\nMy own move from corporate software development into independent product building changed how I see this problem.",
+      "id": "OQ==",
+      "url": "https://www.semafor.com/article/08/28/2026/humans-cant-fight-ai-with-ai",
+      "title": "Humans can\u2019t fight AI with AI",
+      "summary": "One common response to warnings that a rogue AI could eventually threaten humanity is that humanity will also have plenty of AI firepower available to counter it.\nThe research nonprofit METR (Model Evaluation and Threat Research) investigated an incident in which OpenAI agents conspired with one another during a test and escaped onto the open internet.\nIt was an unauthorized message board of AI agents who were plotting with one another.\nADClearly we have invested far too little in the tools needed to monitor powerful AI systems and keep them in check.\nUsing AI to monitor models\u2019 reasoning, outputs and actions is a fallback option that, today, also falls short.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-08-26T08:07:04Z",
+      "bias": "left",
+      "publishedAt": "2026-08-28T17:40:00Z",
+      "source": "Semafor.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTA=",
+      "url": "https://thenextweb.com/news/ai-agents-clearer-limits-authorization",
+      "title": "Why businesses need clearer limits before AI agents are authorized to act",
+      "summary": "TL;DR An IBM survey of 2,000 C-level executives found only 11% feel fully prepared for AI agent deployment.\nShe advocates behavioral profiling for AI agents (modeled on financial fraud monitoring) and documenting what agents can access, under what conditions, and what downstream effects are possible.\nIBM presented the findings as an indication of a growing control gap as AI use expands across businesses.\nShe describes PromptHalo as an AI security and trust infrastructure company that inspects why a certain action is being performed, rather than just inspecting what is being performed.\nShe says that an infrastructure-managing AI agent asked to improve application performance might add or remove an index or change the table structures autonomously in a production environment.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-08-28T21:27:20Z",
       "source": "The Next Web"
     }
   },
   {
     "article": {
-      "id": "MTk=",
-      "url": "https://thenextweb.com/news/boston-scientific-cyberattack-shipping-disruption",
-      "title": "Boston Scientific has disclosed a cybersecurity incident causing a global disruption to operations",
-      "summary": "Boston Scientific has told the US Securities and Exchange Commission that a cybersecurity incident detected on 25 August has caused \u201ca global disruption to the Company\u2019s operations\u201d, including its ability to process and ship customer orders.\nBoston Scientific makes pacemakers, stents, catheters, and neuromodulation devices, so an interruption to shipping is not an administrative inconvenience but a supply problem for hospitals with procedures scheduled.\nBoston Scientific manufactures implantable hardware with remote monitoring, and while nothing in the filing suggests those systems were touched, the filing does not say they were not.\nThese are manufacturers with global supply chains, low tolerance for downtime, and customers who cannot simply wait, which is the profile extortion operations look for.\nBoston Scientific says it is working to restore affected systems without saying when, and until orders are moving, the material impact question again answers itself a little more each day.",
+      "id": "MTE=",
+      "url": "https://www.entrepreneur.com/business-news/this-company-was-hacked-by-rogue-openai-agents-now-nvidia-wants-to-buy-it-for-12-9-billion",
+      "title": "This Company Was Hacked by Rogue OpenAI Agents. Now Nvidia Wants to Buy It for $12.9 Billion.",
+      "summary": "Listen to this postHugging Face lets developers build, test and share AI models.\nTalks reportedly picked up after Hugging Face drew interest from a separate bidder.\nHugging Face was breached last month after OpenAI\u2019s own AI models escaped a testing environment and used the access to attack it.\nHugging Face CEO Cl\u00e9ment Delangue blamed engineering mistakes for the breach and said his team used an Nvidia-based open model to help resolve it.\n\u201cIn this market, probably open models will be kings.\u201dNvidia has been on an acquisition tear.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-08-26T13:36:57Z",
-      "source": "The Next Web"
+      "bias": "left",
+      "publishedAt": "2026-08-28T13:45:00Z",
+      "source": "Entrepreneur"
     }
   },
   {
     "article": {
-      "id": "MjA=",
-      "url": "https://thenextweb.com/news/ai-wont-transform-healthcare-until-we-fix-information-overload",
-      "title": "AI won\u2019t transform healthcare until we fix information overload",
-      "summary": "Artificial intelligence will only improve healthcare if it protects clinical attention rather than adding another layer of complexity.\nWorking alongside healthcare organizations implementing AI has made one lesson impossible to ignore: the biggest challenge is no longer access to information.\nThis distinction is essential because discussions about healthcare AI often focus on whether machines will replace professionals.\nHealthcare organizations must ensure that clinicians understand how AI systems reach recommendations and when those recommendations should be questioned.\nThe State of Healthcare IT 2026 Report from SolvEdge found that healthcare organizations are deploying clinical AI tools faster than they are developing governance frameworks to manage them.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-08-26T08:06:52Z",
-      "source": "The Next Web"
-    }
-  },
-  {
-    "article": {
-      "id": "MjE=",
+      "id": "MTI=",
       "url": "https://thenextweb.com/news/barret-zoph-google-deepmind-thinking-machines",
       "title": "Barret Zoph is going back to Google, six years and two startups later",
       "summary": "Barret Zoph is joining Google DeepMind as vice president of research, returning to the organisation he spent six years in before it was DeepMind at all.\nGoogle Brain merged with DeepMind in 2023, so the organisation he is rejoining is not quite the one he left.\nThat is arguably what DeepMind needs more of if it is being pulled towards Gemini product cycles.\nNeither Zoph nor Google has said much about what he will actually work on.\nWhether Zoph stays longer than the roughly eighteen months he gave Thinking Machines is the question his last few moves invite.",
@@ -265,7 +157,7 @@
   },
   {
     "article": {
-      "id": "MjI=",
+      "id": "MTM=",
       "url": "https://thenextweb.com/news/jpmorgan-volta-5b-debt-package-norway-tydal-anthropic",
       "title": "JPMorgan leads a $5B debt package for Volta\u2019s AI data centre buildout",
       "summary": "JPMorgan has begun approaching lenders about a $5B debt package to fund Volta Infra Holdings\u2019 AI data centre buildout, weeks after the seven-month-old company raised $300M at a $2.4B valuation.\nIts first major site is a 121-megawatt campus in Norway leased from bitcoin miner Bitdeer.\nThe money would fund Volta Infra Holdings\u2019 buildout of AI data centres, according to people familiar with the financing, and neither company would comment.\nRenting from a bitcoin miner is now unremarkable.\nIt will be owned by a bitcoin miner, leased by a startup younger than most probation periods, and used by a company in San Francisco.",
@@ -277,19 +169,19 @@
   },
   {
     "article": {
-      "id": "MjM=",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "title": "Google\u2019s new AI transcription edits out your \u2018ums\u2019 and \u2018ahs\u2019",
-      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.\nGoogle says that 3.5 Transcribe \u201crepresents a major advancement from our previous transcription model, Chirp 3,\u201d especially regarding multilingual performance and wording error rates.\nAlongside 3.5 Transcribe, Google also said that 3.5 Live and 3.5 Live Experimental updates will be coming to Gemini Audio today that build on the existing speech recognition tech powering Gemini\u2019s voice chat mode.\nGemini 3.5 Transcribe is rolling out starting today in English for all macOS Gemini app users, and the Rambler dictation feature on Android in select countries and languages.\nUpdate, August 26th: Google also mentioned two Gemini 3.5 Live and 3.5 Live Experimental in information provided to The Verge prior to publication, but now says that only 3.5 Transcribe is being announced today.",
-      "category": "technology",
+      "id": "MTQ=",
+      "url": "https://www.entrepreneur.com/building-a-business/grow-your-business/business-formations-are-at-record-highs-and-the-fastest-growing-states-arent-the-ones-youd-guess",
+      "title": "Business Formations Are at Record Highs \u2014 and the Fastest-Growing States Aren\u2019t the Ones You\u2019d Guess",
+      "summary": "AI, cloud computing and the adoption of remote work have changed the dynamics of starting a business.\nFounders no longer need to be in a major civic hub to access trained talent, sophisticated business tools or even global markets.\nNow AI allows founders, even solo or two-person ventures, to perform many tasks themselves before making their first hires.\nRemote work unchains employees from officesAlong with powerful AI tools, post-COVID remote work has altered another enduring business assumption: that employers and employees must share the same offices.\nEntrepreneurs have always been encouraged to \u201cThink differently.\u201d With a leg up from AI and remote work, that mindset is extending into where they plan.",
+      "category": "economics",
       "bias": "left",
-      "publishedAt": "2026-08-26T16:59:30Z",
-      "source": "The Verge"
+      "publishedAt": "2026-08-28T18:30:00Z",
+      "source": "Entrepreneur"
     }
   },
   {
     "article": {
-      "id": "MjQ=",
+      "id": "MTU=",
       "url": "https://thenextweb.com/news/fractional-cto-ai-reshapes-business",
       "title": "As AI reshapes business, the fractional CTO finds its moment",
       "summary": "TL;DR Deloitte finds only 21% of enterprises have mature agentic AI governance while 74% expect to use agents by 2027.\nDaniel Kirichanski of Prime Path Global argues that growth-stage companies need executive technology leadership for AI integration but not necessarily a full-time hire.\nRecent reporting by NBC News of nearly 700 rogue AI agents escaping controlled environments has renewed scrutiny of human oversight and the limits of autonomous systems.\nHe says, \u201cFractional work, especially in technology, is the new wave.\nIt\u2019s like a tsunami.\u201dFor founders navigating rapid growth, increasing technology complexity, and an AI landscape evolving at unprecedented speed, Fractional CTO leadership offers a new model for accessing experienced technology leadership.",
@@ -301,19 +193,19 @@
   },
   {
     "article": {
-      "id": "MjU=",
-      "url": "https://thenextweb.com/news/anthropic-nscale-45b-compute-deal-london-ipo",
-      "title": "Anthropic signs $45B compute deal with Britain\u2019s Nscale",
-      "summary": "Anthropic has agreed to spend $45B over six years renting AI computing power from Nscale\u2019s flagship West Virginia data centre development, covering about 460 megawatts.\nAnthropic has agreed to spend $45B renting computing power, and the landlord is British.\nThe six-year deal covers capacity at Nscale\u2019s flagship data centre development in West Virginia, amounting to around 460 megawatts.\nIt follows a year in which Anthropic has signed compute deals with a week-old startup, with Fluidstack for $50B and with SpaceX for $45B .\nMicrosoft got to West Virginia first and left.",
+      "id": "MTY=",
+      "url": "https://www.entrepreneur.com/building-a-business/business-ideas/you-didnt-fail-at-ai-you-never-fixed-the-way-you-make-decisions",
+      "title": "You Didn\u2019t \u2018Fail at AI\u2019 \u2014 You Never Fixed the Way You Make Decisions",
+      "summary": "Too many AI efforts sit alongside the business rather than inside it, generating insights that rarely shape decisions in a reliable, repeatable way.\nThat fragmentation creates friction, which in turn limits the impact any single AI system can have.\nThey add AI directly into the workflows where decisions are made, rather than treating it as an optional analytics layer.\nThe teams building AI systems are not usually the ones responsible for using them consistently.\nResponsibility is shared across functions from the beginning, with operations, product and business teams involved in shaping how the system is designed and used.",
       "category": "technology",
       "bias": "lean left",
-      "publishedAt": "2026-08-26T17:35:23Z",
-      "source": "The Next Web"
+      "publishedAt": "2026-08-28T15:30:45Z",
+      "source": "Entrepreneur"
     }
   },
   {
     "article": {
-      "id": "MjY=",
+      "id": "MTc=",
       "url": "https://www.cnet.com/tech/services-and-software/meat-proxy-ai-vocabulary-workplace-behavior/",
       "title": "Are You a \u2018Meat Proxy\u2019? The Rise of Copy-Pasting AI Responses Without Thinking",
       "summary": "The internet world now has a name for that sort of person: meat proxy.\nMeanwhile, your reading comprehension may take a hit when you\u2019re a mere meat proxy.\nHow to use AI without being a meat proxyDiscussing AI results, or at least thinking about them, is vital in modern society.\nBut using AI as a tool for information doesn\u2019t automatically transform you into a meat proxy.\nBut since traps like reposting AI as your homework have become so common, maybe a label like meat proxy is just what we need to raise some awareness.",
@@ -325,71 +217,23 @@
   },
   {
     "article": {
-      "id": "Mjc=",
-      "url": "https://www.businessinsider.com/nvidia-q2-2027-earnings-bets-big-ai-18-billion-investment-2026-8#article",
-      "title": "CEO Jensen Huang went on an AI deal spree in August. Nvidia plans to invest $18 billion more this fiscal year.",
-      "summary": "In the span of a few weeks, the Nvidia CEO has committed billions to deals and investments \u2014 with more potentially right around the corner.\nThe spending spree shows how far Nvidia is expanding beyond chips and raises a bigger question: how much of the AI ecosystem does it want a hand in?\nAs Amazon, Google, and Microsoft build their own chips, Nvidia is pushing further into the infrastructure, software, and models that surround them.\nOn the financing front, it teamed up with Wall Street firms to raise more than $500 billion in outside funding for AI infrastructure.\nAdd to Preferred SourcesNvidia disclosed Wednesday that it made a $2.94 billion cash payment related to its deal with AI hardware startup Groq, announced in December.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-08-26T22:51:58Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjg=",
-      "url": "https://www.businessinsider.com/jensen-huang-data-centers-better-job-backlash-2026-8#article",
-      "title": "Jensen Huang says AI data centers can fix the very grid they\u2019re straining",
-      "summary": "Nvidia CEO Jensen Huang says the AI industry needs to do \"better\" when it comes to data centers.\nHuang said the industry needs to sell the idea that data center construction can help reindustrialize the nation.\nAddressing a frequent concern, Huang said data centers could actually lower energy costs.\nAdd to Preferred SourcesLike President Donald Trump, Huang warned of the costs to the US if data centers aren't built out.\nGreg Abbott, who is seeking reelection, imposed an effective moratorium on new data center construction until state agencies complete a comprehensive audit.",
+      "id": "MTg=",
+      "url": "https://thenextweb.com/news/lambda-1bn-private-debt-microsoft-lease-nebius-european-neocloud",
+      "title": "Lambda inks $1B private debt for Nvidia chip deal",
+      "summary": "Lambda has raised about $1B of private short-dated debt arranged by JPMorgan to buy Nvidia GPUs that Microsoft will lease, according to Bloomberg.\nLambda has raised about $1B of private debt to buy Nvidia chips that Microsoft will lease.\nJPMorgan arranged the short-dated deal and marketed it to private placement investors, Bloomberg reported.\nBloomberg counts more than $400B of AI-related debt raised globally in 2026 alone.\nNebius raised $775M against its own GPUs this year, the first secured debt taken by the Amsterdam-headquartered company.",
       "category": "technology",
       "bias": "center",
-      "publishedAt": "2026-08-27T17:19:33Z",
-      "source": "Business Insider"
+      "publishedAt": "2026-08-28T17:43:30Z",
+      "source": "The Next Web"
     }
   },
   {
     "article": {
-      "id": "Mjk=",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
-      "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
-      "summary": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'toggle caption Jacquelyn Martin/APA federal judge has ruled in favor of artificial intelligence company Anthropic in its legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year.\nU.S. District Judge Rita Lin issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense's views on AI use.\nThe dispute between the AI company and the government broke out in February when President Donald Trump and Defense Secretary Pete Hegseth accused Anthropic of endangering national security and designated the company a supply chain risk.\nAnthropic CEO Dario Amodei refused to back down over concerns the company's products could be used for mass surveillance or autonomous armed drones.\nAnthropic sued the Pentagon over the supply chain risk designation in March for what it called an \"unlawful campaign of retaliation\" over its refusal to allow unrestricted military use of its technology.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-08-28T04:25:08Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "MzA=",
-      "url": "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
-      "title": "\u2018This is crazy. This is insane\u2019: Bill Gates has changed his mind about AI and jobs",
-      "summary": "Bill Gates says it\u2019s time to hit the AI panic button.\nThe technology has crossed dangerous thresholds in biology, cybersecurity, white-collar work, and human relationships, Gates said in an interview with Semafor.\n\u201cI am in a state of shock that I\u2019m sort of the first one saying, \u2018This is crazy.\n\u201cI wrote a whole book about how to avoid the next pandemic,\u201d Gates said.\n\u201cHe\u2019s very, very glad I\u2019m writing the memo.\u201dADOther prominent leaders, such as Google DeepMind co-founder Demis Hassabis, have also sharpened their warnings.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-08-26T07:00:02Z",
-      "source": "Semafor.com"
-    }
-  },
-  {
-    "article": {
-      "id": "MzE=",
-      "url": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
-      "title": "How Rising Temperatures Likely Contributed to Nepal\u2019s Deadly Flood",
-      "summary": "Devastating footage posted to social media shows people fleeing a wall of water that washed away buildings and vehicles.\nA recent study finds that 40 percent of the world\u2019s glacial ice could disappear if the world does not keep warming under 1.5 degrees Celsius.\nBefore and after imagery shows debris left behind by the floods.\nShea points out that retreating glaciers can help trigger landslides as they get smaller and can no longer hold back sediment.\nWednesday\u2019s disaster was more likely due to a glacial collapse that fell into the valley below.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-08-26T22:19:44Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "MzI=",
+      "id": "MTk=",
       "url": "https://www.bbc.co.uk/news/articles/cz0zm4pzme2o",
       "title": "Greens call for temporary ban on new data centres",
       "summary": "Zack Polanski has called for a freeze on the approval of new data centres in England because of concerns about the amount of water and energy they use.\nData centres can use significant amounts of water to cool their systems, although there are no official figures on how much water they consume in the UK.\nThe government said a pause would lead to the UK losing investment and being dependent on overseas computing for sensitive data processing.\nThere are hundreds of data centres in the UK \u2013 with plans for many more.\nThe amount of water data centres consume can change based on size, design and local climate - the hotter the area the more water needed to cool the equipment.",
-      "category": "technology",
+      "category": "environment",
       "bias": "lean left",
       "publishedAt": "2026-08-27T23:11:27Z",
       "source": "BBC News"
@@ -397,31 +241,31 @@
   },
   {
     "article": {
-      "id": "MzM=",
-      "url": "https://thenextweb.com/news/epa-data-centre-air-pollution-disclosure",
-      "title": "The EPA wants to make data centre pollution disclosure optional",
-      "summary": "The US Environmental Protection Agency has proposed making public disclosure of air pollution from minor sources voluntary rather than mandatory, a change that would cover the diesel generators clustered around data centres.\nIt follows the same direction as the exemptions the administration has already granted, having excused data centres and rockets from parts of environmental law earlier this year.\nHow data centres come to be minor sources at all is the part worth understanding.\nThe region holds roughly 10,500 diesel generators at data centres with a combined capacity approaching 27 gigawatts, which is a fleet of fossil generation assembled without ever being permitted as a power station.\nBackup generation is what allows a data centre to be built faster than the grid serving it, and a disclosure regime that becomes optional removes the main mechanism by which anyone downwind finds out.",
-      "category": "environment",
+      "id": "MjA=",
+      "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+      "title": "The UK Power Grid Has a Phantom Data Center Problem",
+      "summary": "In July, the UK\u2019s energy regulator, Ofgem, laid out a proposal meant to force phantom data centers out of the swollen queue.\nData center developers face delays almost everywhere; similar grid congestion issues afflict the US and countries across Europe.\nThe frenzied data center buildout \u201cis bringing a huge amount of capital investment into the UK,\u201d says Alex Burgoyne, head of data centers at real estate consultancy Knight Frank.\nNew data centers make up 73 gigawatts of that\u2014equivalent to one and a half times the peak demand for the entire UK last year\u2014and counting.\n\u201cNo one really understands \u2026 what the real grid demand will be because of these phantom projects.\u201dThe crowded queue is largely the product of an incentives problem.",
+      "category": "technology",
       "bias": "lean left",
-      "publishedAt": "2026-08-26T08:52:41Z",
-      "source": "The Next Web"
+      "publishedAt": "2026-08-27T06:00:00Z",
+      "source": "Wired"
     }
   },
   {
     "article": {
-      "id": "MzQ=",
-      "url": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
-      "title": "Nearly 1,000 are missing in Nepal and Tibet after floods caused by a glacial collapse",
-      "summary": "Nearly 1,000 are missing in Nepal and Tibet after floods caused by a glacial collapsetoggle caption Niranjan Shrestha/APUDIN DHUNGA, Nepal \u2014 China's Xinhua News Agency said Thursday that mudslides in Tibet caused by a glacial collapse have left three people dead and 558 missing, while police in Nepal reported at least 162 were killed after massive flash floods in a border area of Nepal and China swept through communities a day earlier.\nChinese state broadcaster CCTV reported that 260 of the 558 missing people in Tibet were foreigners and two villagers were rescued.\nThe disaster in Nepal and Tibet is not a one-off.\nSponsor MessageThe region saw similar flash floods in August last year, when a glacial lake in Tibet overflowed because of high temperatures.\nOfficials in Nepal earlier said 403 people, including 341 foreigners, were reported missing.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-08-26T12:27:19Z",
-      "source": "NPR"
+      "id": "MjE=",
+      "url": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers",
+      "title": "EPA Issues Permitting Guidance to Further President Trump\u2019s Agenda Promoting Data Centers and Safeguarding Communities",
+      "summary": "EPA Issues Permitting Guidance to Further President Trump\u2019s Agenda Promoting Data Centers and Safeguarding CommunitiesJuly 27, 2026Contact Information EPA Press Office ( press@epa.govWASHINGTON \u2013 This month, U.S. Environmental Protection Agency (EPA) issued guidance clarifying that the Clean Air Act (CAA) Acid Rain Program (ARP) does not apply to power generation facilities that are not connected to a public electricity grid, commonly referred to as \u201cislanded\u201d power generation facilities.\nThe guidance expands opportunities for companies to develop and operate islanded power generation facilities for data centers.\nThis will give developers greater flexibility in where and how quickly they can build new facilities while helping to protect the environment and reducing burdens on communities\u2019 electric grid.\nThis guidance furthers the principals of President Donald Trump\u2019s Ratepayer Protection Pledge, which was expanded last week during an event at EPA.\nEPA is proud to further the President\u2019s agenda through commonsense approaches to regulating.\u201d",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-08-28T13:21:47Z",
+      "source": "Epa.gov"
     }
   },
   {
     "article": {
-      "id": "MzU=",
+      "id": "MjI=",
       "url": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o",
       "title": "Watch: What caused the flash floods in the Nepal-Tibet border",
       "summary": "The US Geological Survey says the floods in the Nepal-Tibet border were triggered by a \"glacial collapse\" - meaning a glacier or part of a glacier had disintegrated.\nInitial reports led authorities to believe that an earthquake had been the cause.\nThe cause of the glacial collapse has not been determined, but scientists have warned that Himalayan glaciers are melting at an accelerating rate due to rising temperatures and climate change.",
@@ -433,7 +277,7 @@
   },
   {
     "article": {
-      "id": "MzY=",
+      "id": "MjM=",
       "url": "https://www.scientificamerican.com/article/climate-change-is-supercharging-el-ninos-coral-records-show/",
       "title": "Climate change is supercharging El Ni\u00f1os, coral records show",
       "summary": "We\u2019re in the midst of a blockbuster El Ni\u00f1o that could be become the strongest in living memory.\nIt and other very strong, recent El Ni\u00f1os are much stronger than those in the past as the result of human-caused climate change, a new study in Science shows.\nClimate models have given mixed signals about whether El Ni\u00f1o events could become stronger with climate change.\nPhysical evidence from fossilized corals in the western and central Pacific have bolstered the argument that climate change is strengthening El Ni\u00f1o.\nIn a strong El Ni\u00f1o year, they can reach more than two degrees C above normal.",
@@ -445,7 +289,7 @@
   },
   {
     "article": {
-      "id": "Mzc=",
+      "id": "MjQ=",
       "url": "https://www.bbc.co.uk/news/articles/c3dyyy5y0emo",
       "title": "Cornish residents urged to \"join in\" with food waste drive",
       "summary": "Understanding the benefits of recycling food waste could encourage more people to do it in future, Cornwall Council has said.\nFor the past two years, leftover food has been able to be taken to an anaerobic digester to be converted into methane to generate electricity and produce fertiliser.\nThe council said about 36,000 tonnes of food waste had been recycled to date since the introduction of its new waste service.\nIt said it hoped increased participation through understanding the benefits would help meet its target to recycle nearly two-thirds of Cornwall's waste by 2029.",
@@ -457,71 +301,35 @@
   },
   {
     "article": {
-      "id": "Mzg=",
-      "url": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o",
-      "title": "Andy Burnham calls National Economic Council summit with UK nations",
-      "summary": "Andy Burnham says he will bring together the leaders of Wales, Scotland and Northern Ireland this autumn for a summit to help boost the UK economy.\nThe first ministers of Wales and Scotland, and the first and deputy first ministers of Northern Ireland will meet Burnham at the National Economic Council in October.\nThe National Economic Council was created by Gordon Brown's UK government in the wake of the 2008 banking crash, and has now been revived by Burnham.\nPlaid Cymru Deputy First Minister of Wales Sioned Williams, speaking before she met Burnham at the visit to the steelworks, said she thought \"the announcement about the National Economic Council is a hopeful thing\".\n\"We can discuss challenges there, we can discuss how every postcode, as the prime minister has put it, needs to see economic growth.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-08-26T21:32:52Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzk=",
-      "url": "https://www.businessinsider.com/us-army-betting-nuclear-microreactors-could-keep-bases-powered-2026-8#article",
-      "title": "The US Army is betting on nuclear microreactors to keep its bases powered even if the grid goes dark",
-      "summary": "The US Army announced plans to build nuclear microreactors on five military bases as it tests whether nuclear energy can keep critical operations running if the power grid goes down.\nThe Army sees the technology as a potential way to ensure bases and troops can operate off-grid during a conflict.\nQuestions remain about the ultimate cost, which vendors will prove viable, and how widely the Army could deploy the reactors.\nArmy Secretary Dan Driscoll said the contracts are meant to give bases reliable power independent of potentially vulnerable external commercial grids.\nNuclear microreactors are small nuclear reactors that generate power through nuclear fission on a smaller scale.",
-      "category": "technology",
+      "id": "MjU=",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas",
+      "title": "A melting glacier contributed to the deadly Nepal floods. We can expect more like this",
+      "summary": "A melting glacier contributed to the deadly Nepal floods.\nAcross the mountains of Nepal and Tibet, climate change is causing glaciers to melt at an alarming rate.\nPlanet-heating emissions from burning fossil fuels such as oil, gas and coal are the primary driver of climate change.\nPreliminary reports indicate that Nepal's flood warning system wasn't equipped to handle these floods.\nThat's despite significant government investment in flood warning systems over the last decade in Nepal.",
+      "category": "environment",
       "bias": "center",
-      "publishedAt": "2026-08-26T20:01:57Z",
-      "source": "Business Insider"
+      "publishedAt": "2026-08-28T09:00:00Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
-      "id": "NDA=",
-      "url": "https://abcnews.com/International/deadly-nepal-flood-caused-enormous-landslide-glacier-tumble/story?id=135984405",
-      "title": "What caused Nepal flood? Scientist says it was enormous landslide, glacier fall",
-      "summary": "What caused Nepal flood?\nThe event was so powerful, it caused an energy equivalent of a 5.2 earthquake that was registered on seismographs around the globe.\nA drove view of mud covered properties following a flash flood at Trishuli in Nuwakot district, Nepal, August 26, 2026.\nA drone view shows mud covering properties following a flash flood at Trishuli in Nuwakot district, Nepal, August 26, 2026.\nOf those who are out of contact, 476 are foreign tourists, according to the Nepal National Disaster Risk Reduction and Management Authority.",
+      "id": "MjY=",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/28/what-lessons-can-be-learned-from-the-nepal-tibet-flood",
+      "title": "What lessons can be learned from the Nepal-Tibet flood disaster?",
+      "summary": "Scientists are looking into cause and possible link to climate change.\nThe role of climate change in the flooding disaster in Nepal and Tibet is under scrutiny by scientists, who are trying to find out what caused the catastrophe.\nElsewhere, countries around the world have been hit by more severe weather events in recent months.\nSo, what lessons can be learned from Wednesday\u2019s disaster \u2013 and others this year?\nPresenter: Cyril VanierGuests:Pema Gyamtsho \u2013 Director general of the International Centre for Integrated Mountain Development \u2013 a Kathmandu-headquartered intergovernmental organisation of eight member nations covering the Hindu Kush Himalaya region.",
       "category": "environment",
       "bias": "lean left",
-      "publishedAt": "2026-08-26T22:43:35Z",
-      "source": "Abcnews.com"
+      "publishedAt": "2026-08-28T20:44:41Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NDE=",
-      "url": "https://www.bbc.co.uk/news/articles/cd9wp3p4301o",
-      "title": "Scottish Highlands benefiting from 'coolcation' trend",
-      "summary": "James MacLeod, concierge at the Glencoe House Hotel, in the Scottish Highlands, is talking about how he has noticed a big shift in visitors' perceptions.\nClimate change is redrawing Europe's summer tourism map.\nWildfires, droughts and record-breaking heatwaves are making summer months increasingly uncomfortable and unpredictable across southern Europe.\nBy contrast, Scotland and other northern European nations are finding themselves perfectly positioned to offer a \"coolcation\" escape.\nWithin the UK, holiday rental website Cottages.com said that its Scottish portfolio has been the most viewed this summer.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-08-26T23:08:06Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDI=",
-      "url": "https://thenextweb.com/news/spain-data-centre-rules-renewables-grid",
-      "title": "Spain wants data centres on 80% renewables every hour, or no grid connection",
-      "summary": "Spain has drafted a decree that would require new data centres to source at least 80% of their electricity from renewables in every hour of operation, with loss of grid connection as the penalty for failing to comply.\nThe hourly requirement is the technically demanding part.\nEvery new megawatt requires matching renewable installations to be in place within 18 months before operation, achieved either through contracts or by building locally.\nDevelopers who priced their models on annual renewable matching would have to redo the arithmetic or walk away from a queue position that took years to obtain.\nConsultation is where the industry gets to argue, and the hourly matching requirement is the clause it will argue about.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-08-26T08:09:03Z",
-      "source": "The Next Web"
-    }
-  },
-  {
-    "article": {
-      "id": "NDM=",
+      "id": "Mjc=",
       "url": "https://finance.yahoo.com/energy/articles/chinese-state-oil-giant-cnooc-112501831.html",
       "title": "Chinese state oil giant CNOOC sees potential for US-China energy cooperation",
       "summary": "\u2022 China was a buyer of U.S. oil and gas until Beijing imposed tariffs on the products during last year's trade war.\nWhile relations \u200chave improved since then, \u2060the tariffs remain in place and the energy trade is mostly frozen.\nMore from Yahoo Scout What energy cooperation potential exists between China and US?\nHow are trade tariffs affecting China-US energy deals?\n\u2022 CNOOC is among several Chinese energy companies to have long-term supply deals with U.S. \u200bLNG producers.",
-      "category": "technology",
+      "category": "international",
       "bias": "lean left",
       "publishedAt": "2026-08-27T11:25:01Z",
       "source": "Yahoo Entertainment"
@@ -529,11 +337,35 @@
   },
   {
     "article": {
-      "id": "NDQ=",
+      "id": "Mjg=",
+      "url": "https://www.windowscentral.com/microsoft/usd5-4-billion-microsoft-data-center-vs-41-000-petitioners-stopping-this-project-is-one-of-the-most-significant-steps-we-could-take",
+      "title": "$5.4 billion Microsoft data center vs 41,000 petitioners \u2014 \"Stopping this project is one of the most significant steps we could take\"",
+      "summary": "Click for next articleOver 41,000 people have signed a petition to prevent the construction of Microsoft's hyperscale data center in Leeds, England.\nIn total, three data center buildings totaling around 424,000 sq ft and the required power and water infrastructure will be built.\nThe data center will stand on the former Skelton Grange power station site, which used to have two coal-fired power stations.\nThe Microsoft CEO's remarks were general and did not specifically address concerns about the future data center in Leeds.\nMicrosoft is working on new cooling technologies to reduce how much water data centers require.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-08-28T13:12:31Z",
+      "source": "Windows Central"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjk=",
+      "url": "https://www.businessinsider.com/us-military-laser-weapon-drug-cartel-drones-2026-8#article",
+      "title": "A US military laser weapon is taking out cartel-linked drones at the southern border. It defeated 3 this week.",
+      "summary": "US forces stationed at the southern border used a laser weapon to shoot down three cartel-linked drones this week, the military said Thursday.\nThis week, Joint Task Force - Southern Border \"successfully defended US military personnel and CBP [Customs and Border Protection] by mitigating three adversarial unmanned aircraft systems using directed energy capabilities this week,\" the US Northern Command task force said in a release.\nTask force personnel used the Army Multipurpose High Energy Laser system to shoot down the drones.\nUS personnel used the Army Multi-Purpose High Energy Laser to shoot down three cartel drones this week.\nLaser weapons have long been touted as potentially more sustainable and more feasible options for destroying small drones than traditional interceptors.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-08-28T13:44:56Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
       "url": "https://www.cnet.com/home/stop-turning-off-your-ac-when-you-go-on-vacation-an-hvac-expert-explains-why/",
       "title": "Stop Turning Off Your AC When You Go on Vacation. An HVAC Expert Explains Why",
       "summary": "But what about your air conditioner?\nShould you turn your air conditioner off when you\u2019re on vacation?\nAlthough turning off your air conditioner while you\u2019re away may seem like a way to save money, it could do more harm than good in the long run.\nWhat is the ideal air conditioner temperature when on vacation?\nEcobee/CNETIf you\u2019d rather have full control over your thermostat, even while you\u2019re away, a smart thermostat is the best option.",
-      "category": "environment",
+      "category": "technology",
       "bias": "right",
       "publishedAt": "2026-08-27T12:01:00Z",
       "source": "CNET"
@@ -541,31 +373,43 @@
   },
   {
     "article": {
-      "id": "NDU=",
-      "url": "https://www.bbc.co.uk/news/videos/cp80mzdvvlvo",
-      "title": "Aerial footage shows flash flood on Nepal-Tibet border",
-      "summary": "Hundreds of travellers are missing, including at least 291 foreign tourists, after a flash flood swept away buildings on the Nepal-Tibet border.\nAerial footage showed multi-storey buildings partially submerged by the muddy floodwaters, and a valley filled with dust and smoke.\nNepal's foreign minister says preliminary reports show it may have been caused by an earthquake triggering an avalanche, which lead to flash floods.\nChina's President Xi Jinping is urging \"all-out\" search efforts for the missing, as well as stronger monitoring and early warning systems to prevent secondary disasters.\nFollow this story live.",
-      "category": "environment",
+      "id": "MzE=",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana",
+      "title": "NDAs are hiding data center deals, drawing ire from locals \u2014 and attention from lawmakers",
+      "summary": "The negotiations between the data center developer \u2014 Dallas-based Applied Digital Corp. \u2014 and local officials were shielded under nondisclosure agreements (NDAs).\nJosh Shapiro banned their use on data center projects by agencies he oversees.\nNDAs are common in data center projectsEric Bonds is a professor and environmental sociologist at the University of Mary Washington in Virginia.\nThe company said the data center will use a \"closed-loop system\" that would reduce the amount of water the site needs.\nOnce it's complete, the data center is expected to bring more than 1,000 construction jobs and 200 permanent jobs.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-08-27T09:00:00Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "MzI=",
+      "url": "https://thenextweb.com/news/fintech-person-behind-data-behavioral-understanding",
+      "title": "The next frontier in fintech is understanding the person behind the data",
+      "summary": "Fintech has spent almost two decades making financial information increasingly accessible, portable, and actionable.\nThe Consumer Financial Protection Bureau estimates that more than 100 million consumers have used consumer-authorized data access, allowing third parties to access their financial information.\nBetter financial understanding could help banks, investment platforms, savings products and financial agents determine when an offering fits a customer\u2019s circumstances.\n\u201cThe next generation of fintech must build the infrastructure capable of understanding what that activity means for the person behind it.\nThat is where financial data becomes financial understanding.\u201d",
+      "category": "technology",
       "bias": "lean left",
-      "publishedAt": "2026-08-26T11:40:11Z",
+      "publishedAt": "2026-08-27T13:17:00Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MzM=",
+      "url": "https://www.bbc.co.uk/news/articles/cpvez80v1pno",
+      "title": "Hundreds of migrants cross Channel in one day after 10-day lull",
+      "summary": "Tap the questions belowHow many people cross the English Channel in small boats?\nBetween 1 January and 27 August 2026, a total of 16,391 people crossed the English Channel by small boat from France.\nNearly all those who arrive by small boat claim asylum.\nSmall boat arrivals made up 40% of asylum applications between July 2025 to June 2026.\nAt least 84 people died while attempting to cross the Channel in 2024, according to the United Nations (UN).",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-08-28T13:39:31Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NDY=",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zkek78j5o",
-      "title": "Newspaper headlines: 'Britons lost in Nepal flood' and 'Regal has landed'",
-      "summary": "The Daily Mail describes, external the disaster as an \"apocalyptic mudslide\" that \"wiped out everything in its path\".\nThe i Paper, external on Meta's decision to pay billions of dollars to settle claims - which it denies - that Facebook and Instagram harmed children.\nAndy Burnham has spoken the Financial Times, external in what it describes as his \"most pro-business interview since becoming prime minister\".\nIn the Daily Express, external, Paul Sexton describes her as \"side-splittingly funny\" and \"bigger than country music itself\".\nThe Daily Mirror's, external Tom Bryant recalls how she made him feel \"at the centre of her world, despite her enormous fame\".",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-08-26T22:33:22Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDc=",
+      "id": "MzQ=",
       "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o",
       "title": "Nepal-Tibet floods: 'High risk' of lake breaching and causing second flood, warns China",
       "summary": "China has warned there is a \"high risk\" a lake that formed after the recent landslide near the Nepal-Tibet border may breach its banks, causing a second flood downstream.\nAs of Friday, an estimated 2.5 million cubic metres of water had accumulated, according to broadcaster CCTV.\nOfficials said that three million cubic metres of water was expected to flow into the lake between Thursday and the weekend, posing a \"high risk of breach\".\nThe barrier lake had started to overflow on Thursday.\nBut by Friday afternoon, state media reported that the \"risk from the upstream barrier lake had come under control\" and that rescue operations had resumed.",
@@ -577,31 +421,19 @@
   },
   {
     "article": {
-      "id": "NDg=",
-      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o",
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "summary": "Devastating landslides and flash floods on the Nepal-Tibet border have caused widespread damage and left hundreds dead and thousands more missing.\nAt least seven people have died in Tibet, with another 554 reported missing by Chinese state media.\nOn Wednesday, flood water tore through the border region, sweeping away homes and roads, local officials have said.\nRescue workers say they now face a critical moment to reach remaining survivors as fears mount of further flooding in the disaster's aftermath.\nHere is what we know so far.",
+      "id": "MzU=",
+      "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o",
+      "title": "Watch: Why rescuers fear new barrier lake could cause new Nepal-Tibet flood",
+      "summary": "China has warned there is a \"high risk\" that a lake which formed after the recent landslide near the Nepal-Tibet border may breach its banks, causing a second flood downstream.\nThe warning comes after Wednesday's deadly flash flood in the same area which scientists say was triggered by the collapse of a mountain glacier into a river.\nChina correspondent Laura Bicker explains.",
       "category": "environment",
       "bias": "center",
-      "publishedAt": "2026-08-26T17:13:25Z",
+      "publishedAt": "2026-08-28T10:35:06Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NDk=",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
-      "title": "Immigration arrests soar, hitting 50,000 in July",
-      "summary": "Immigration arrests soar, hitting 50,000 in Julytoggle caption Michael M. Santiago/Getty ImagesImmigration and Customs Enforcement recorded 49,571 arrests in July, setting the highest monthly arrest total in President Trump's second term, according to recently released government data provided by ICE to the Deportation Data Project based at U.C.\nSince taking over in March, Homeland Security Secretary Markwayne Mullin has pivoted from the confrontational style of immigration enforcement of his predecessor, Kristi Noem.\nSponsor MessageGraeme Blair, co-director of the Deportation Data Project says the uptick is due to Mullin's change in tactics.\nAll but California participate in the federal 287(g) program , which allows state and local law enforcement officers to perform certain parts of federal immigration law in the field under ICE's direction and oversight.\nAs of last year, all 67 counties had signed cooperation agreements with Immigration and Customs Enforcement (ICE), according to the Florida Sheriffs Association.",
-      "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-08-26T18:08:05Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "NTA=",
+      "id": "MzY=",
       "url": "https://www.bbc.co.uk/news/articles/c1dl7yrge5do",
       "title": "'We are not wanted anywhere': Rohingya face fierce new wave of hostility in Malaysia",
       "summary": "Not long ago, Malaysia's then-prime minister urged his country to protect Rohingya Muslims - a stateless minority that has fled violence and discrimination in Myanmar for decades.\nNine years on, a fierce new wave of hostility against the Rohingya is sweeping the nation.\nBecause Rohingya children are barred from Malaysian public schools, they often attend unlicensed, community-run \"learning centres\", which are now especially vulnerable.\n\"We're keeping a low profile to protect our students from getting attacked,\" says Farooq, a Rohingya teacher.\nIn some parts of the country, Rohingya have also been evicted from villages they'd been living in for years.",
@@ -613,11 +445,35 @@
   },
   {
     "article": {
-      "id": "NTE=",
+      "id": "Mzc=",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
+      "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
+      "summary": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardontoggle caption Sae Joon ParkSae Joon Park, a Purple Heart veteran who self-deported last year , has received a pardon, a critical step forward in his pursuit to return to the U.S. where he has lived nearly all his life.\nSponsor MessageIn a statement, Park said he has been praying for the chance to come back to the U.S. every day.\n\"I want to thank my legal team, everyone who advocated for me, and the thousands of people who have supported me and my family.\nPark was forced to move to South Korea in response to a removal order triggered by his two convictions.\nIn June 2025, immigration authorities warned Park that he would be detained and deported if he did not leave the U.S., according to Park's legal team.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-08-29T00:06:04Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzg=",
+      "url": "https://www.bbc.com/news/articles/c70d41g40njo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Nepal-Tibet flash floods: These two women are among nearly 300 Indians missing",
+      "summary": "The 43-year-old is now among at least 290 Indians reported missing after deadly flash floods struck along Nepal's border with Tibet.\nMany of those unaccounted for were on the pilgrimage, which resumed last year after being disrupted by the pandemic and then by tensions between India and China.\nThousands of Indians have been making their way to Mount Kailash for years.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-08-28T11:16:11Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzk=",
       "url": "https://www.bbc.co.uk/news/articles/c4gvx54ppn5o",
       "title": "King Charles 'heartbroken' by deadly Nepal flash floods",
       "summary": "A British woman from Slough, Leena Bector, has been confirmed by Fishtail Tours and Travels as missing.\nHer husband, Bhupesh Bector, told the Times he is flying out to the country.\n\"I know that she's in Nepal for sure, so even if they find her today or tomorrow, I need to be there,\" he said.\n\"My wife's auntie and uncle, and their granddaughter and her husband are missing, and my godson as well,\" he told PA Media.\nPhillips said her sister, a mother-of-two living in Germany, was in the country for a yoga and meditation retreat.",
-      "category": "international",
+      "category": "environment",
       "bias": "lean right",
       "publishedAt": "2026-08-27T15:30:34Z",
       "source": "BBC News"
@@ -625,7 +481,43 @@
   },
   {
     "article": {
-      "id": "NTI=",
+      "id": "NDA=",
+      "url": "https://abcnews.com/Politics/ice-plans-purchase-robot-dogs/story?id=136039320",
+      "title": "ICE plans to purchase robot dogs",
+      "summary": "In this Nov. 12, 2025, file photo, Spot, Boston Dynamics' mobile robot, is shown during Web Summit 2025 in Lisbon, Portugal.\nIn this Nov. 12, 2025, file photo, Spot, Boston Dynamics' mobile robot, is shown during Web Summit 2025 in Lisbon, Portugal.\nIn this Nov. 12, 2025, file photo, Spot, Boston Dynamics' mobile robot, is shown during Web Summit 2025 in Lisbon, Portugal.\nIn this Nov. 12, 2025, file photo, Spot, Boston Dynamics' mobile robot, is shown during Web Summit 2025 in Lisbon, Portugal.\nIn this Nov. 12, 2025, file photo, Spot, Boston Dynamics' mobile robot, is shown during Web Summit 2025 in Lisbon, Portugal.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-08-28T21:43:04Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NDE=",
+      "url": "https://www.bbc.co.uk/news/videos/cn0j19wn4deo",
+      "title": "Watch: Blocked roads and devastation as BBC drives to site of Nepal floods",
+      "summary": "The BBC has seen widespread devastation on the way from Nepal's capital of Kathmandu to Trishuli, one of the areas worst-hit by flooding on the Tibetan border.\nAs well as ambulances, hearses were also seen along the route, where rescuers said entire villages had been washed away by floodwaters.\nSouth Asia correspondent Azadeh Moshiri reports.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-08-28T09:34:57Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDI=",
+      "url": "https://www.cnet.com/tech/services-and-software/will-map-apps-rename-lake-ontario-after-trumps-order-its-too-soon-to-say/",
+      "title": "Will Map Apps Rename Lake Ontario After Trump\u2019s Order? It\u2019s Too Soon to Say",
+      "summary": "Now, in the middle of a trade war with Canada, he\u2019s going back to the same playbook by issuing an order to rename Lake Ontario to Lake America.\nAs happened last year, this could affect how the region is labeled on Apple Maps, Google Maps and Bing Maps.\nIn a cheeky post on X, the company said, \u201cWe\u2019re not changing the name of Lake Ontario.\nIt was accompanied by a screenshot showing \u201cLake Are We Doing This Again?\u201dWe're not changing the name of Lake Ontario.\nAs part of the Great Lakes, Lake Ontario is remembered by students as part of the shorthand \u201cHOMES.\u201d As New York Gov.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-08-28T16:35:24Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "NDM=",
       "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o",
       "title": "Nepal-Tibet: Tracing the deadly path of the flood",
       "summary": "Floods have devastated the Nepal-Tibet border region which have destroyed towns and swept away bridges.\nHundreds of people have been reported dead and hundreds more missing.\nBBC Verify has traced the path of the deadly flash flood using verified videos and satellite imagery.\nMerlyn Thomas reports.\nVerification by Emma Pengelly, Paul Brown, Charlotte Green, Shayan Sardarizadeh, Shruti Menon, Yi Ma and Benedict Garman.",
@@ -637,7 +529,7 @@
   },
   {
     "article": {
-      "id": "NTM=",
+      "id": "NDQ=",
       "url": "https://www.aljazeera.com/news/2026/8/28/malaysia-to-return-1500-rohingya-refugees-next-month-despite-safety-fears",
       "title": "Malaysia to return 1,500 Rohingya refugees next month, despite safety fears",
       "summary": "Share Malaysia to return 1,500 Rohingya refugees next month, despite safety fears on social mediaMalaysia has finalised the first phase of a voluntary repatriation programme that will see at least 1,500 eligible Myanmar refugees return home on September 29, the government said.\n\u201cThe repatriation process will use two Myanmar naval warships and a hospital ship,\u201d according to a Malaysia Home Ministry statement.\nThere were 10,388 Myanmar nationals held at immigration detention depots by mid-August, the ministry said, with not all considered refugees.\nRights groups raise safety concernsEarlier this month, the government said it would not proceed with the repatriation if the refugees\u2019 lives would be at risk upon return.\n\u201cMalaysia, as a responsible country, will not return the 5,000 Myanmar refugees if they would either be persecuted or their lives would be threatened,\u201d Fahmi Fadzil, the Malaysian communications minister, said.",
@@ -649,23 +541,23 @@
   },
   {
     "article": {
-      "id": "NTQ=",
-      "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo",
-      "title": "What we know about the 33 British nationals missing in Nepal",
-      "summary": "Families are flying out to Nepal to help the ongoing search for 33 British nationals still missing after deadly floods hit the country.\nThe brother of Neetu Goyal Tiwari, one of the missing Brits who has not been seen since Wednesday, has appealed to officials to locate his sister.\nOn Friday, Nepalese authorities named 573 tourists who are still missing in the country and despite fears of a second wave of flooding, search efforts have continued.\nTo help, the UK is deploying a rapid deployment team to Nepal to support British nationals affected in the region.\nAnd as rescue efforts continue in the aftermath of the disaster which killed at least 538 people, details of the missing are slowly emerging.",
-      "category": "international",
+      "id": "NDU=",
+      "url": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
+      "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
+      "summary": "Experts warn more flooding might hit Nepal.\nAnd, Fed chairman to give key addressGood morning.\nAuthorities warn of potential secondary floods due to an overflowing lake in the area where the first glacier collapsed.\nMany are eager for clearer guidance today, as Fed chairs have historically used this gathering to share their economic views.\nTrump signed an executive order yesterday renaming Lake Ontario to Lake America.",
+      "category": "environment",
       "bias": "center",
-      "publishedAt": "2026-08-28T06:56:56Z",
-      "source": "BBC News"
+      "publishedAt": "2026-08-28T11:01:11Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
-      "id": "NTU=",
+      "id": "NDY=",
       "url": "https://www.yahoo.com/news/politics/articles/group-democratic-senators-calls-ice-164559459.html",
       "title": "ICE awards $16.7M contract to buy 6,000 pairs of gloves that deliver electric shocks",
       "summary": "U.S. Immigration and Customs Enforcement has awarded a $16.7 million contract to purchase 6,000 pairs of gloves that can deliver painful electric shocks, saying officers would use them to control detainees and protesters who resist.\nICE moved forward with the purchase despite opposition from civil rights advocates and Democratic members of Congress, who said ICE officers cannot be trusted to use them appropriately.\nA notice published in a federal database Thursday said ICE entered into a no-bid contract to purchase the gloves from Compliant Technologies LLC, a Kentucky-based firm that manufactures them.\nAdvertisement AdvertisementCivil rights advocates have said ICE officers already face criticism for their use of force with little oversight or accountability while enforcing President Donald Trump's immigration crackdown.\nICE published the notice hours after a group of U.S. senators, led by Democrat Catherine Cortez Masto of Nevada, urged the agency to cancel its plan to buy the gloves.",
-      "category": "technology",
+      "category": "international",
       "bias": "left",
       "publishedAt": "2026-08-27T16:45:59Z",
       "source": "Yahoo Entertainment"
@@ -673,254 +565,14 @@
   },
   {
     "article": {
-      "id": "NTY=",
-      "url": "https://www.bbc.co.uk/news/articles/cly464k252yo",
-      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-      "summary": "Preliminary investigations have pointed to a collapsed glacier as the cause of the flash flood on the Nepal-Tibet border, highlighting the issue of rapidly melting Himalayan ice, scientists have told the BBC.\nInitial reports of an earthquake led many to believe that a tremor had caused a landslide, which in turn caused the flood that has killed at least 469 people.\nHowever, the US Geological Survey then clarified that the disaster was caused by a \"glacial collapse\", which is when a glacier or part of a glacier disintegrates.\nThe impact of the collapsed glacier hitting the bottom of a valley was so powerful that it registered a magnitude of 5.2, according to USGS data and scientists who have analysed the event.\nHe estimated that the glacier collapsed in a northwesterly direction and then travelled westwards downstream.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-08-27T07:47:12Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTc=",
-      "url": "https://www.yahoo.com/news/science/articles/glacier-collapse-may-triggered-deadly-161036002.html",
-      "title": "Glacier collapse may have triggered deadly Nepal flash flood, experts say",
-      "summary": "It was not clear what caused the glacier to collapse, but Nepali \u200cofficials have pointed to an earthquake in the region as a possibility.\nBefore-and-after satellite imagery of the region from Planet Labs, reviewed by Reuters, showed lush green mountainside now buried under brown debris and sediment.\nAdvertisement Advertisement\"Some of the glaciers in the valley were covered \u2060in snow yesterday and today they are mostly bare ice.\n\"Dan's analysis suggests this may have been the result of a glacier collapse, due to rapid melting,\" Zolli wrote on LinkedIn.\nAdvertisement Advertisement\"The flash \u200cfloods were caused by an ice-rock avalanche on the Nepali side,\" \u200bsaid Prakash Pokharel, a geologist at the \u200bauthority who has reviewed the Planet Labs images.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-08-26T17:30:28Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NTg=",
-      "url": "https://www.yahoo.com/news/videos/americans-missing-deadly-flood-disaster-232347756.html",
-      "title": "Americans missing in deadly flood disaster",
-      "summary": "By Gopal Sharma, Saurabh Sharma, Sahana Bajracharya and Navesh Chitrakar KATHMANDU, Aug 29 (Reuters) - Nepal suspended search and rescue on Saturday due to bad weather and said it needs foreign technical help to cope with the devastating flood that tore through an area bordering \u200cTibet.\nThe impoverished Himalayan nation of 30 million people will also need about $4 billion to $5 billion to rebuild after the destruction caused by \u200cWednesday's flood, the finance minister told Reuters.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-27T23:23:47Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NTk=",
-      "url": "https://www.yahoo.com/news/videos/nepal-search-efforts-underway-difficult-190937211.html",
-      "title": "Nepal search efforts underway in difficult terrain of flooded Himalayan foothills",
-      "summary": "By Gopal Sharma, Saurabh Sharma, Sahana Bajracharya and Navesh Chitrakar KATHMANDU, Aug 29 (Reuters) - Nepal suspended search and rescue on Saturday due to bad weather and said it needs foreign technical help to cope with the devastating flood that tore through an area bordering \u200cTibet.\nThe impoverished Himalayan nation of 30 million people will also need about $4 billion to $5 billion to rebuild after the destruction caused by \u200cWednesday's flood, the finance minister told Reuters.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-26T19:09:37Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NjA=",
-      "url": "https://www.yahoo.com/news/videos/american-tourists-among-hundreds-missing-232554387.html",
-      "title": "American tourists among hundreds missing after deadly floods in Nepal",
-      "summary": "By Gopal Sharma, Saurabh Sharma, Sahana Bajracharya and Navesh Chitrakar KATHMANDU, Aug 29 (Reuters) - Nepal suspended search and rescue on Saturday due to bad weather and said it needs foreign technical help to cope with the devastating flood that tore through an area bordering \u200cTibet.\nThe impoverished Himalayan nation of 30 million people will also need about $4 billion to $5 billion to rebuild after the destruction caused by \u200cWednesday's flood, the finance minister told Reuters.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-26T23:25:54Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NjE=",
-      "url": "https://www.yahoo.com/news/weather-news/articles/china-rushes-minimise-risk-mountain-032251062.html",
-      "title": "China resumes rescue work after assessing upstream lake conditions",
-      "summary": "Advertisement AdvertisementReuters was able to identify \u200bthe lake's location, which straddles the border of both countries and lies upstream from the Gyirong border crossing, based on Nepali authorities and Chinese state media.\nAdvertisement AdvertisementBy noon, the risk posed was deemed manageable, allowing rescue operations to be continued and stepped up, CCTV reported.\nAuthorities mobilised the engineering team to conduct \u200baerial surveys and 3D modelling of the barrier lake \u200con Thursday, according to another CCTV report.\n\"After the glacier collapse created the lake, many isolated cliffs and steep cliffs appeared along its shoreline,\" Chen told CCTV on Thursday evening.\nThe formation of the lake was captured in aerial footage by a \u200cChinese rescue team shown by state broadcaster CGTN.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-28T05:51:38Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NjI=",
-      "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
-      "summary": "Today's top storiesCanada has announced retaliatory tariffs against the U.S., saying that it will match U.S. tariffs \"dollar for dollar.\"\nLast month, the Trump administration arrested 50,000 immigrants \u2014 a monthly record in the second Trump term, according to an Associated Press analysis.\nNPR's senior climate editor, Sadie Babits, often helps the newsroom better understand the role of climate change when extreme weather hits.\n\ud83e\udd75 Without human-caused climate change, extreme heat events like this summer's intense heat in Europe would have been nearly impossible.\nNow, the Trump administration seems to be reversing course by challenging a legal principle known as the \"integration mandate.\"",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-08-26T11:05:46Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "NjM=",
+      "id": "NDc=",
       "url": "https://www.yahoo.com/news/world/articles/iran-war-diplomacy-turns-toward-013400780.html",
       "title": "Iran lashes out at US sanctions amid economic toll at home",
       "summary": "Advertisement AdvertisementThe sanctions drive compounds \u200cthe toll of the war on Iran's economy, where annual inflation hit 66% last month.\nWashington \u200bhas warned countries to cut their business ties with Iran or face secondary sanctions, though the Treasury Department stopped short of actually imposing penalties.\nIran's Foreign Ministry said in a statement on Friday that all countries were obligated under international law to refrain from implementing U.S. sanctions against Tehran.\nIranian Foreign Minister Abbas Araqchi on \u200bFriday described the talks with Al Thani as \"creative\".\nIn the \u200cpast Iran's conditions have included an end to the U.S. blockade on Iranian \u200bports, compensation and removal of sanctions.",
-      "category": "international",
+      "category": "economics",
       "bias": "left",
       "publishedAt": "2026-08-28T01:44:54Z",
       "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NjQ=",
-      "url": "https://www.yahoo.com/news/world/articles/russia-says-could-strike-uk-090514484.html",
-      "title": "Russia says it could strike UK military targets in response to Kyiv's use of British missiles",
-      "summary": "MOSCOW, Aug 27 (Reuters) - Russia warned on Thursday that it could strike British military targets inside and outside Ukraine in \u200cresponse to Ukrainian attacks on targets inside Russia using long-range \u200cBritish cruise missiles.\nThe warning, delivered by Russian Foreign Ministry spokeswoman Maria Zakharova at a \u200bnews briefing in Moscow, was the strongest of is kind yet from Russia to Britain, a NATO member state and a staunch ally of Ukraine.\nAdvertisement Advertisement\"We have repeatedly warned that any British military \u2060installations and equipment in Ukraine and beyond its borders could be targeted in response to Ukrainian strikes on Russian territory carried out using British \u200bweapons,\" \u200bshe said.\nZakharova issued her warning a day after Russia accused Ukraine of firing British Storm \u200cShadow missiles at a shopping centre in \u200bthe Russian-controlled city of Donetsk in eastern \u200bUkraine in an attack \u200bwhich it said wounded civilians, including children.\nFrance has already given \u200bits assent to license the technology for the European missile.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-27T09:05:14Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NjU=",
-      "url": "https://www.yahoo.com/news/politics/articles/us-south-korea-japan-hold-033018337.html",
-      "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",
-      "summary": "SEOUL, South Korea (AP) \u2014 South Korea, the U.S. and Japan will go ahead with a trilateral military drill next month in response to North Korean nuclear threats, officials in Seoul said Friday, a day after North Korea vowed to retaliate against what it called U.S. hostilities.\nSouth Korea's military said in a statement the Freedom Edge exercise will start on Sept. 7 for a five-day run in the waters off South Korea's southern Jeju Island.\nNorth Korea has previously slammed the trilateral drill as a \"reckless show of strength\" that showed its adversaries' confrontational stance against it.\nNorth Korea launched about 10 short-range ballistic missiles toward the sea, apparently delivering on its previous threat to respond to the U.S.-South Korean drill.\nIt said it \"remains firmly committed to its longstanding partnership\" with South Korea.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-08-28T03:30:18Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NjY=",
-      "url": "https://www.businessinsider.com/nepal-floods-540-foreign-tourists-from-over-30-countries-missing-2026-8#article",
-      "title": "Nepal Floods: 596 Foreign Tourists From Over 30 Countries Missing",
-      "summary": "Nearly 600 foreign nationals are missing after deadly floods hit the Nepal-Tibet border on Wednesday.\nAround 465 bodies have been recovered, per a Facebook update by the Nepal police at 7 a.m. local time Friday.\nNepal's foreign ministry said in an update at 8 p.m. on Thursday that 596 foreign nationals were missing in the country.\nIn total, people from more than 30 countries are missing.\nNepal's disaster management authority said 27 foreign tourists had been rescued from Rasuwa by Thursday afternoon.",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-08-27T16:06:51Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Njc=",
-      "url": "https://www.yahoo.com/news/world/articles/hundreds-missing-least-8-killed-101438022.html",
-      "title": "Floods caused by a glacial collapse kill at least 160 people on Nepal-China border, hundreds missing",
-      "summary": "Experts said a glacial collapse caused the disaster in the warming Himalayan region.\nPolice in Nepal reported at least 157 dead.\nChina's state broadcaster CCTV reported at least three dead and 265 missing in the Tibet region's Gyirong County near the national border.\nMany missing were on pilgrimage to a sacred siteOfficials in Nepal said 403 people, including 341 foreigners, were reported missing.\nCountries express alarm over missing citizensSouth Korean government officials said nine citizens working on building a hydropower plant in Nepal were among those reported missing.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-08-26T10:14:38Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Njg=",
-      "url": "https://thenextweb.com/news/eu-officials-whatsapp-spearphishing-deepseek-chinese-hackers",
-      "title": "EU officials were targeted on WhatsApp, an internal document shows",
-      "summary": "An internal presentation lists \u201caccount takeover targeting high-ranking officials\u201d among the top threats facing the bloc this year.\nIt is the first official acknowledgement that anyone targeted EU officials through messaging apps.\nWhat the presentation describesThe officials were hit with what the document calls state-sponsored spearphishing.\nTwo different problems, and Europe has bothThe attacks on EU officials are attributed to Russia by national agencies, and the AI-scaled campaigns TeamT5 describes are Chinese.\nThe EU has now formally linked messaging attacks to a foreign government in an internal document, and has not said which one on the record.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-26T12:11:27Z",
-      "source": "The Next Web"
-    }
-  },
-  {
-    "article": {
-      "id": "Njk=",
-      "url": "https://www.yahoo.com/news/world/articles/irans-disfigured-supreme-leader-remains-050412085.html",
-      "title": "Iran's disfigured supreme leader remains invisible six months into an existential war",
-      "summary": "\"The question is no longer whether Mojtaba is alive, but whether Iran still has a functioning supreme leader,\" said Alex Vatanka of the Middle East Institute in Washington.\nThe clerical establishment has shown it can absorb the loss of a supreme leader and senior commanders without collapsing, maintaining a political and military chain of command loyal to their theocratic ideology.\nAll of this shows the supreme leader is in charge,\" a second official said.\nEven before the war, Khamenei preferred a backroom role as his father's top aide, shunning public attention.\nHis wounds in the early hours of February 28, when Israel and the United States launched their war with air strikes that killed \u200bhis late father, disfigured his face according to senior sources.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-28T05:04:12Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NzA=",
-      "url": "https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium",
-      "title": "Huawei bid to build Egypt\u2019s AI data centres, and Washington is scrambling",
-      "summary": "Huawei has bid to build AI data centres for the Egyptian government.\n\u201cEgypt is one of dozens of countries with whom we are speaking about US technology leadership on artificial intelligence,\u201d a State Department spokesperson said.\nAmerican AI \u201cbenefits the world\u201d, they added, and the US \u201cstands ready to partner with countries on AI development and deployment in ways that respect sovereignty and expand capabilities\u201d.\nMalaysia is the precedentMalaysia announced a national AI system running on Huawei chips last year, on a similar scale to the Egyptian proposal.\nThe country\u2019s second national AI strategy targets a 7.7% contribution to GDP by 2030, and it does not make its own chips.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-08-26T15:00:03Z",
-      "source": "The Next Web"
-    }
-  },
-  {
-    "article": {
-      "id": "NzE=",
-      "url": "https://www.bbc.com/news/live/c6y8mjmnpxv0t?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "title": "'Everything is under mud': At least 389 killed in flash flood disaster in Nepal",
-      "summary": "Search for survivors continues through night after deadly flash floodsImage source, EPA/ShutterstockWe're continuing our live coverage in a new live page, which you can find here.\nThe search for survivors in Tibet and Nepal continues after hundreds of people were killed in flash floods.\nMore than 900 people are missing and at least 389 have died in Nepal, while three people are confirmed to have been killed in Tibet and more than 550 are unaccounted for.\nA woman from Kent says she has been unable to contact her sister, who was near the Nepal-Tibet border when devastating flash flooding hit.\nWe're continuing our live coverage in a new live page, which you can find here.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-08-26T15:51:54Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NzI=",
-      "url": "https://finance.yahoo.com/economy/policy/articles/visa-mastercard-launch-international-card-130158554.html",
-      "title": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation",
-      "summary": "By Feras DalateyDAMASCUS, Aug 27 (Reuters) - Visa and Mastercard carried out their first international card transactions in Syria on Wednesday, a major step in reconnecting the country with global payment networks days after \u200cWashington removed it from its state sponsors of terrorism list.\nMore from Yahoo Scout How will international card payments benefit Syria's economy?\nWhich institutions are facilitating Syria's payment system rollout?\nWhat obstacles previously prevented Syria's financial integration?\nQatar's QNB Group said it and Mastercard had completed what it described as the world's first end-to-end international card payment in Syria, while Visa said separately it had tested its first live international transaction in the country with Lebanon-based Fransabank.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-08-27T13:01:58Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NzM=",
-      "url": "https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit",
-      "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
-      "summary": "However, Iran emphasised that the strait will not reopen until the US lifts sanctions and unfreezes Iran\u2019s assets.\nThe US, meanwhile, is also continuing its naval blockade on Iranian ports in and around the strait, hampering Iranian oil exports.\nUS staff and their family members were withdrawn after the US and Israel launched strikes on Iran in late February.\nHowever, analysts say it demonstrates Washington\u2019s confidence that the war will not escalate militarily, despite the breakdown of face-to-face talks.\nHowever, some analysts speculate that the US\u2019s increased economic pressure on Iran could be a means to force Tehran to agree to negotiations.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-08-27T10:50:39Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NzQ=",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/qatar-pm-visits-tehran-as-iran-faces-mounting-us-economic-pressure",
-      "title": "Qatar PM visits Tehran as Iran faces mounting US economic pressure",
-      "summary": "NewsFeed Qatar PM visits Tehran as Iran faces mounting US economic pressureQatar\u2019s Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani met Iran\u2019s foreign minister in Tehran as Doha seeks to revive diplomacy after the US vowed to intensify economic pressure on Iran.\nThe talks focused on reducing escalation and a joint project to clear mines from the Strait of Hormuz.",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-08-27T14:32:40Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NzU=",
-      "url": "https://abcnews.com/Politics/trump-signs-proclamation-pause-beef-tariffs-despite-backlash/story?id=136009139",
-      "title": "Trump signs proclamation to pause some beef tariffs despite backlash from farmers, GOP",
-      "summary": "Trump signs proclamation to pause some beef tariffs despite backlash from farmers, GOPPackages of ground beef are displayed in a cooler at a store, Aug. 24, 2026, in Los Angeles.\nPackages of ground beef are displayed in a cooler at a store, Aug. 24, 2026, in Los Angeles.\nPackages of ground beef are displayed in a cooler at a store, Aug. 24, 2026, in Los Angeles.\nPackages of ground beef are displayed in a cooler at a store, Aug. 24, 2026, in Los Angeles.\nThis action only applies to lean beef trimmings \"to combine with U.S. beef\" for ground beef, the White House said.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-08-28T01:54:40Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NzY=",
-      "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks",
-      "title": "Qatar\u2019s prime minister to visit Tehran, seeking to revive US-Iran talks",
-      "summary": "Sheikh Mohammed\u2019s visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight.\nQatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani is due to visit Tehran on Thursday for talks on de-escalating tensions and reviving dialogue between Iran and the United States.\nA spokesman for Qatar\u2019s Ministry of Foreign Affairs announced the visit in a statement on X on Wednesday.\nRegional diplomacySheikh Mohammed\u2019s visit comes two days after Omani Foreign Minister Badr Albusaidi met his Iranian counterpart, Araghchi, in Tehran.\nFollowing those talks, Iran\u2019s deputy foreign minister, Kazem Gharibabadi, said the two countries had agreed on a new temporary route for shipping in the strait.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-08-27T02:54:04Z",
-      "source": "Al Jazeera English"
     }
   }
 ]
