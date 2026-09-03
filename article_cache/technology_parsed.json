@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "MQ==",
+    "url": "https://thenextweb.com/news/fsb-ai-cyber-risk-financial-stability",
+    "title": "AI-driven cyber attacks are now the top risk to the financial system, the FSB says",
+    "summary": "The chair of the Financial Stability Board has told G20 finance ministers that what artificial intelligence does to cyber risk is now the most immediate threat to the global financial system.\nThe IMF reached a similar conclusion earlier this year, warning that AI is already fuelling cyberattacks against financial institutions.\nMoreover, Bailey warned that many countries have no system for managing how advanced AI models get deployed inside their financial sectors.\nA briefing is a request for information, whereas a letter to G20 ministers naming a top concern is a regulator putting a position on the record before anyone asks.\nThe Cyber Resilience Act took effect in September with vulnerability reporting windows measured in hours, and DORA has been governing operational resilience in financial services since 2025.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-08-31T08:04:04Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "Mw==",
+    "url": "https://finance.yahoo.com/economy/policy/articles/jackson-hole-global-central-bankers-100541446.html",
+    "title": "At Jackson Hole, global central bankers glimpse dystopian AI future",
+    "summary": "More from Yahoo Scout What are AI's practical implications for financial markets?\nWhat dystopian AI scenarios did Brunnermeier present to central bankers?\nHow could AI agents outmaneuver Federal Reserve monetary policy?\nOr where central bankers, who in recent decades have moved toward more \u200ctransparency, must speak in opaque terms and act in unpredictable ways to keep AI agents from gaming the system.\nWhen deployed at scale, AI agents could easily outmaneuver \u2060financial authorities and remake how financial markets behave, he argued, using the term \"asymmetric understanding\" to capture that dynamic.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-08-31T10:37:36Z",
+    "source": "Yahoo Entertainment"
+  }
+]
