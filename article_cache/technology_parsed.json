@@ -1,1 +1,312 @@
-[]
+[
+  {
+    "id": "Mg==",
+    "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
+    "title": "Google dodges another breakup attempt",
+    "summary": "US District Court Judge Leonie Brinkema declined the Justice Department\u2019s request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years.\nThey could include proposals like restricting Google from using self-preferencing ad auction tactics or letting third-party ad tech tools access the same real-time information as Google.\nIn that case, Judge Amit Mehta also declined to go as far as a breakup, opting instead for Google to share data with competitors and alter its behavior.\nHowever, Brinkema found that the DOJ failed to prove Google illegally monopolized a market for advertiser-side tools.\nThe remedies decision concludes the district court phase of the third major tech monopoly case brought by the federal government in recent years.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-02T15:42:17Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTc=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
+    "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor.\nThe company claims the new model \u201cworks harder\u201d than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \u201ccalling tools iteratively.\u201d It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more.\nGoogle warns that \u201cthe model might use more tokens to maximize performance, especially at higher effort levels.\u201d Developers can keep using Gemini 3.7 Flash if they want to minimize token usage.\nGemini 3.8 Flash\u2019s launch was followed by some early impressions online.\nArtificial Analysis highlighted the model\u2019s pricing, saying Gemini 3.8 Flash is \u201cthe cheapest we\u2019ve measured at this level of intelligence.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-02T20:11:40Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://thenextweb.com/news/microsoft-fabric-gcc-high-government-cloud-eucs-certification-stalled-europe-sovereignty",
+    "title": "Microsoft Fabric reaches the US government cloud, with general availability from October",
+    "summary": "Microsoft has launched its Fabric data platform in Government Community Cloud High on public preview, with general availability from 1 October, pitched at agentic AI workloads.\nMicrosoft has launched its Fabric data platform inside the US federal cloud tier.\nIt is on public preview in Government Community Cloud High, with general availability from 1 October, Nextgov reported.\nPublic authorities would run sovereignty risk assessments across four tiers, restricting US providers for sensitive public data in health, finance and justice.\nWashington specified the accredited tier Microsoft is now shipping into, and Brussels is still deciding whether to build one while calling the dependency a political risk.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-02T23:52:10Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjA=",
+    "url": "https://thenextweb.com/news/top-rippling-alternatives-mid-market-companies",
+    "title": "Top Rippling alternatives for mid-market companies",
+    "summary": "TL;DR Rippling bundles HR with IT and finance, but mid-market HR teams often pay for modules they never use.\nHiBobCredit: HiBobBest for: Mid-market companies that want a people-first HR platform without the IT-admin weightBob, the platform built by HiBob, treats HR as the main event rather than a companion to device management.\nPaylocityCredit: PaylocityBest for: Mid-market companies that want HR, payroll, and finance in a single systemPaylocity brings payroll, benefits, HR, and an engagement layer together for mid-market employers, and it leans harder on culture tools than most payroll-rooted platforms.\nPersonioBest for: European SMBs consolidating core HR and recruitingPersonio grew up serving small and mid-sized companies across Europe, and it centralizes core HR and recruiting in one system tuned to regional compliance, with absence management built in.\nMid-market buyers weigh core HR, payroll, engagement, and analytics in one place.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-03T19:27:20Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://www.wired.com/story/face-recognition-is-becoming-the-norm-for-dating-apps/",
+    "title": "Face Recognition Is Becoming the Norm for Dating Apps",
+    "summary": "The spread of AI-generated fake accounts has become a rising concern for dating apps, as things like chatfishing and voice cloning have gotten more widespread across the industry.\nMore than a dozen major dating apps and sites use face recognition to verify users, often relying on liveness checks, 3D authentication, video selfies, or biometric ID to demonstrate humanness.\nOne company pushing for the use of ID-verification tech in dating apps is Tools for Humanity.\nLikewise, Face Check collects and stores an encrypted map of information about the shape of the user\u2019s face, not the actual picture, Match said.\nBut even as dating apps claim that your biometric data is safe, security continues to be a significant concern.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-03T09:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://thenextweb.com/news/opera-microsoft-edge-dma-court-ruling",
+    "title": "Opera loses EU court fight to have Microsoft Edge labelled a gatekeeper",
+    "summary": "Microsoft Edge will stay outside the European Union\u2019s toughest tech rulebook.\nThe bloc\u2019s General Court on Wednesday rejected Opera\u2019s challenge to the European Commission\u2019s decision not to designate the browser as a gatekeeper service under the Digital Markets Act.\nOpera challenged a Commission decision from February 2024, which came after a market investigation into Microsoft.\nMicrosoft is a gatekeeper in the EU, just not for Edge.\nIts argument was that Edge has a \u201cdurable and privileged position on Windows\u201d that the Commission had not adequately assessed.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-02T11:30:13Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+    "summary": "An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.\nOpenAI\u2019s next big model is here: GPT-6 Astra.\nThe company calls it a \u201cgenerational leap in capability\u201d for areas like cybersecurity, professional work, software engineering, science, and computer use.\nThe model rolls out today to OpenAI\u2019s cybersecurity customers (enterprise customers with access to its Daybreak platform).\nIn a release, the company said GPT-6 Astra can complete multistep agentic tasks, build working websites, and create \u201cpolished\u201d documents, spreadsheets, and presentations.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-03T17:33:13Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+    "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "summary": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion.\nHugging Face was founded a decade ago by three French entrepreneurs in New York City, who wanted to launch an AI \u201ccompanion\u201d app.\n\u201cOpen-source AI is at an inflection point,\u201d wrote Hugging Face cofounder and CEO Cl\u00e9ment Delangue in a post on X announcing the acquisition.\nHugging Face has more recently been front and center after its platform was hacked by AI agents from OpenAI.\nAnd if all of them use Hugging Face all day, every day, we\u2019ll obviously be in a good position.\u201dObviously, Nvidia seems to agree.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-03T12:43:09Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MjY=",
+    "url": "https://www.cnet.com/tech/services-and-software/openai-gpt-6-astra-release-ai-agi-chatgpt/",
+    "title": "OpenAI\u2019s Astra Is Here: What to Know About GPT-6",
+    "summary": "Like every model release, OpenAI says the new one (Astra) is better than the previous ones on a number of topics, including coding, alignment and safety.\nAstra is also built to run more and better AI agents, or bots that can handle autonomous tasks.\nTo create Astra, OpenAI did \u201cby far our largest scale training run,\u201d Aidan Clark, vice president of research, told reporters on Thursday.\nAstra was also OpenAI\u2019s first model that involved previous AI models very heavily in the training process, with the older generations helping train the new one.\nJakub Pachocki, the company\u2019s chief scientist, said international safety standards are necessary for the industry as AI models (and their capabilities) develop.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-03T18:00:20Z",
+    "source": "CNET"
+  },
+  {
+    "id": "Mjc=",
+    "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+    "title": "NYC bans AI use for students until they reach high school",
+    "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms.\nThe one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a small pilot program for AI education tools.\nHigh school-aged students will only be permitted to use AI in specific instances, and they\u2019ll be offered AI literacy classes twice a year to help students \u201cthink critically\u201d before they come to \u201crely on it.\u201d\u201cChildren need teachers and human connection in order to learn and grow.\nTeachers will still be permitted to use AI for lesson planning, and exceptions may be granted for AI tools that help students with disabilities or multilingual students.\nThese changes follow NYC\u2019s public school system introducing a bell-to-bell ban on \u201cpersonal internet-enabled electronic devices\u201d (including smartphones) for the 2025-2026 school year.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-02T13:51:03Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.businessinsider.com/openai-chatgpt-legal-ai-launch-2026-9#article",
+    "title": "OpenAI is about to make its biggest push yet into the legal industry",
+    "summary": "Now, it's taking its case to law firms.\nThe ChatGPT maker is planning to launch new integrations with third-party legal software companies, according to people familiar with the matter.\nThe company has been in talks with multiple legal software providers about allowing OpenAI's chatbot to plug into their tools and data sources, the people said.\nLaw firms are under pressure from clients to move faster and show they're not billing associates for work that software can do.\nThat demand has produced a flood of startups addressing legal work.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-03T20:28:56Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://www.cnet.com/tech/services-and-software/gpt-6-stole-the-show-but-anthropic-meta-and-google-also-had-new-ai-models-this-week/",
+    "title": "GPT-6 Stole the Show, but Anthropic, Meta and Google Also Had New AI Models This Week",
+    "summary": "It wasn\u2019t just OpenAI: Fellow AI heavy hitters Anthropic, Meta, and Google also announced updates to AI models.\nClaude Fable 5.1 and Mythos 5.1Anthropic announced updates for its Fable and Mythos models \u2014 both of which are some of the best available today.\nAnthropic says that both Fable 5.1 and Mythos 5.1 are the same model, but each has a different set of safeguards.\nIt also says that Fable 5.1, when set to low or medium effort, has performance similar to Fable 5 but at a much lower cost.\nGemini 3.8 and 3.8 Flash CyberGoogle released two new models in the form of Gemini 3.8 Flash and 3.8 Flash Cyber.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-03T21:10:31Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://thenextweb.com/news/huskeys-raises-27m-series-a-led-by-blackstone",
+    "title": "Huskeys Raises $27M Series A Led by Blackstone to Build a New Security Layer for the Network Edge",
+    "summary": "The funding was first reported by the Wall Street Journal and comes as Huskeys builds what it calls a new category of cybersecurity technology: Network Edge Security Management, or NESM.\nTeams must understand whether controls are working, determine how policy changes will affect legitimate traffic, and respond to emerging threats without disrupting business-critical applications.\nBlocking legitimate traffic can affect customers and revenue, while allowing malicious traffic through can create an opening for attackers.\nAI-driven traffic and increasingly fragmented edge environments require a new approach to security management,\u201d said Adam Fletcher, Chief Information Security Officer at Blackstone.\n\u201cHuskeys has built a platform designed to operate at enterprise scale while advancing a new category for the modern network edge.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-02T13:19:15Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzE=",
+    "url": "https://www.cnet.com/tech/services-and-software/g20-tech-government-leaders-ai-data-centers-protests/",
+    "title": "At G20, Big Tech and Global Leaders Can\u2019t Escape AI\u2019s Data Center Problem",
+    "summary": "Data centers are a crucial piece of infrastructure that tech companies need to power their training of new AI models.\nTech companies are quick to claim that data centers create jobs and give back to the tax base.\nAnd the growing opposition is bipartisan: Both Democrats and Republicans (as well as independents) are against new data centers in their area.\nThat\u2019s why the US government is launching a campaign to persuade other global leaders to promote AI data centers.\nThough tech companies often boast that data centers create jobs, many studies say that job growth is overstated.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-09-02T18:42:19Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MzI=",
+    "url": "https://www.businessinsider.com/lori-cashman-visible-ventures-gen-z-kids-ai-2026-9#article",
+    "title": "I'm a VC with 5 kids. I encourage them to use AI and not to pick the safest career.",
+    "summary": "I'm also the founder of a venture capital firm that works with many Gen Z founders.\nAI is going to create lots of opportunities for this generationThings are changing so quickly with AI.\nIt's really within the last year that I've been beating the drum, encouraging my kids to use any AI tools they can.\nThe ability to solve interdisciplinary problems will serve Gen Z well in the future.\nI believe Gen Z will be very entrepreneurial and end up trailblazing paths that look different from past careers.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-03T18:38:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://thenextweb.com/news/gemini-3-8-flash-cyber-release-cadence-eu-ai-act-gpai-article-53",
+    "title": "Google releases Gemini 3.8 Flash and a cybersecurity variant limited to governments",
+    "summary": "Google has released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber, its third Flash release in six weeks, with the cyber model restricted to trusted testers and governments.\nIt is the company\u2019s third Flash model in six weeks, Ars Technica reported.\nA general model Google calls a workhorse, and Flash Cyber, tuned for finding and fixing software vulnerabilities.\nIt joined the general purpose AI Code of Practice on 30 July 2025, a week after Meta refused to.\nFlash Cyber goes only to trusted testers and governments, and Google does not say which governments.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-02T20:33:02Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzQ=",
+    "url": "https://thenextweb.com/news/wonderful-550m-series-c-5bn-valuation-amsterdam-eu-data-act-lock-in",
+    "title": "Wonderful raises $550M Series C at $5B valuation, led by Insight Partners with Salesforce",
+    "summary": "Wonderful has closed a $550M Series C at a $5B valuation led by Insight Partners with Salesforce participating, eighteen months after being founded and six months after a $150M round at $2B.\nIts press release is datelined Amsterdam while Israeli technology press covers it as an Israeli company.\nWonderful has raised $550M at a $5B valuation.\nInsight Partners led the Series C, with Salesforce joining, the company said.\nIsraeli technology press covers Wonderful as an Israeli company, and both founders built companies in Israel before this one.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-02T17:42:11Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzU=",
+    "url": "https://thenextweb.com/news/crowdstrike-openai-gpt-5-6-cyber-anthropic-claude-marketplace",
+    "title": "CrowdStrike put OpenAI in the product and Anthropic at the checkout",
+    "summary": "CrowdStrike said on Wednesday that it will run OpenAI\u2019s GPT-5.6 Cyber inside a purpose-built cyber harness.\nIts Frontier AI Readiness and Resilience service applies GPT-5.6 Cyber \u201cwithin CrowdStrike\u2019s purpose-built cyber harness\u201d.\nPolicing the agents it also sellsThe other half is Falcon Guardian, CrowdStrike\u2019s AI detection and response product, applied to Codex agents.\nAnthropic turns up on the other side of the counterFive hours later CrowdStrike announced a second deal, this time with Anthropic.\nIt also introduced an Agentic Identity Provider, which issues AI agents their own identities and treats that as the control plane for the enterprise.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-03T08:19:35Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzY=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "title": "Instagram\u2019s AI detection is a mess (again)",
+    "summary": "They say Meta has been automatically applying an \u201cAI Content\u201d label to images that they didn\u2019t create or edit using generative AI tools.\nIn 2024, the detection system reportedly swept up pictures whose Adobe metadata indicated they had been retouched with generative AI tools, even if the changes were extremely minor and substantively resulted in the same photograph.\nThese are just some of the images I posted to Instagram to test its AI detection, but only the two on the top right (created in Meta AI) were tagged.\nThat said, only a handful should add generative AI metadata to photographs: Spatial Reframing, Extend, and updated Clean Up added in iOS 27.\nThe results have left me questioning if there is any sense in how Meta is applying \u201cAI Content\u201d tags.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-03T18:37:50Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mzc=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "title": "Why AI food looks like that",
+    "summary": "There are many reasons why this AI food is so wrong, from the technical nuances of how AI systems generate images and the materials used to train them to the psychological baggage humans perceive the images through.\nThat helps explain why so many AI food images are so relentlessly noodly, unsettlingly patterned, and riddled with the kind of clustered holes that can trigger trypophobia.\nAI models have no understanding of why food should not look like other non-food images in that way.\nA lot of popular AI material involves food, Cook said, recalling a trend for AI-generated videos of people jumping in or on piles of food.\nAI generated food looks wrong because, on a primal level, it feels wrong.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-03T14:08:47Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mzg=",
+    "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+    "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+    "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology.\nThey\u2019re more expensive than power banks with comparable specs, but a longer functional lifespan should outweigh the premium pricing.\nBelkin\u2019s new semi-solid-state wireless power bank maxes out at just 15W of power delivery, and even less when charging two devices.\nImage: BelkinThe UltraCharge Pro Slim Magnetic Power Bank 5K Qi2 15W with BoostSolid Cell is the smaller and cheaper option of Belkin\u2019s two new power banks at $69.99.\nYou can charge up to three devices using Belkin\u2019s 10,000mAh semi-solid-state power bank using two USB-C ports and a single USB-A port.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-02T21:35:32Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://www.theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsmooth-dryer-brush-styling",
+    "title": "Dyson\u2019s new straightener has liquid cooling pipes to reduce hair damage",
+    "summary": "The $329 Corrale CoolShine straightener upgrades the original Corrale that launched in 2020 with active cooling technology designed to \u201creduce residual heatexposure\u201d so hair feels smoother, softer, and cooler to the touch after styling.\nAlongside it is the new $249 Dyson Airsmooth dryer brush designed for both drying and styling hair using a new anti-snag bristle technology developed by the company.\nThose precisely controlled heating elements are now joined by water-filled pipes that draw excess heat away from hair as it\u2019s being pulled through the straightener.\nSo in a single pass, hair is being heated, straightened, and then cooled back down to help reduce potential damage from being heated too long.\nThe Airsmooth dryer brush features a unique teardrop-shaped design and looped bristles engineered to reduce snags while brushing.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-03T14:04:24Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://thenextweb.com/news/deutsche-telekom-t-mobile-merger-elliott-stake-german-state-blocking-minority-ireland-holdco",
+    "title": "T-Mobile\u2019s Gopalan turns to home internet and AI after a 25% slide",
+    "summary": "T-Mobile US chief executive Srini Gopalan is selling home internet and AI as the growth story.\nElliott Investment Management has built a stake in parent Deutsche Telekom and wants the plan dropped in favour of buybacks.\nA new holding company would make an all-share bid for both and list on both sides of the Atlantic.\nA full merger would cut the combined state holding to roughly 17%, below the 25% that carries a blocking minority under German company law.\nT-Mobile\u2019s own executives told Deutsche Telekom in August that they no longer support it.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-03T22:16:57Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+    "title": "Google says its AI weather model is getting better",
+    "summary": "Google is rolling out an updated AI weather model that\u2019s supposed to be more accurate, especially when it comes to predicting rain and snowfall.\nAI weather models created by Google and other developers, in contrast, can make faster predictions by recognizing patterns in historical weather data.\nImage: GoogleGoogle also designed its latest AI weather model to produce forecasts for renewable energy generation.\nGoogle has also worked with the US National Hurricane Center and other agencies in Asia to improve weather forecasting using its AI models.\nWhile AI models are becoming more accurate, they\u2019re still expected to work in tandem with traditional physics-based models.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-03T14:41:03Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "NDQ=",
+    "url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
+    "title": "Sam Altman says AI developers have fumbled at communicating the technology\u2019s benefits",
+    "summary": "Sam Altman says the AI industry has done a terrible job of communicating the benefits of the technology and is now exposed to a backlash, after local opposition blocked or delayed 75 data centre projects worth about $130B in a single quarter.\nSam Altman says the AI industry has done a terrible job of explaining what the technology is for.\nAt least 75 data centre projects worth about $130B were blocked or delayed by local opposition in the first three months of this year.\nDanish data centre capacity stood at 398MW at the start of the year, with a further 208MW under construction.\nA data centre energy efficiency package and the Cloud and AI Development Act would tie public support to energy, water and circularity performance.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-09-03T22:02:39Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NDY=",
+    "url": "https://www.cnet.com/tech/services-and-software/trump-administration-sides-with-openai-in-publishers-copyright-lawsuits/",
+    "title": "Trump Administration Sides With OpenAI in Publishers\u2019 Copyright Lawsuits",
+    "summary": "The Trump administration has weighed in on a series of copyright disputes between news organizations and OpenAI, supporting the ChatGPT-maker\u2019s position that its use of publishers\u2019 content to train AI models constituted fair use.\nZiff Davis filed the suit in 2025, alleging OpenAI infringed Ziff Davis copyrights in training and operating its AI systems.\n\u201cBoth AI and creators can thrive \u2013 AI companies simply need to pay fairly for the content that makes their products possible, as copyright law requires,\u201d James said.\nMajor media companies aren\u2019t the only ones who\u2019ve sued OpenAI over copyright infringement.\nEarlier this summer, publishers accused OpenAI of withholding evidence about how it trains its models, claims the company has denied.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-02T18:35:55Z",
+    "source": "CNET"
+  },
+  {
+    "id": "NDk=",
+    "url": "https://www.businessinsider.com/us-navy-top-admiral-says-lasers-needed-counter-cheap-drones-2026-9#article",
+    "title": "The US Navy's top admiral says lasers are key to keeping cheap drones from eating into warship missile magazines",
+    "summary": "The US Navy's top admiral sees laser weapons as a strategic answer to the cost challenge of combating cheap drones.\n\"This is why directed energy weapons \u2014 especially high-powered lasers \u2014 matter strategically,\" Caudle said.\nUS personnel used the Army Multi-Purpose High Energy Laser to shoot down three cartel drones last week.\nAdditionally, the Arleigh Burke-class destroyer USS Preble is equipped with Lockheed Martin's High Energy Laser with Integrated Optical-dazzler and Surveillance, or HELIOS.\nLast week, the US Army saw a laser weapons win, using the Army Multipurpose High Energy Laser to eliminate three drug cartel-linked drones at the southern US border.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-02T17:06:46Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NTA=",
+    "url": "https://9to5mac.com/2026/09/02/ai-will-be-the-defining-test-of-apples-environmental-commitments-says-greenpeace/",
+    "title": "AI will be the defining test of Apple's environmental commitments",
+    "summary": "Greenpeace says the adoption of AI poses the biggest threat to Apple\u2019s environmental track record, and argues that how the company responds will be the \u201cdefining test\u201d of whether it really means what it says.\nApple\u2019s environmental achievements to date have been unrivalled, but the massive data center demands created by Siri AI and other Apple Intelligence features could change all of that \u2026Greenpeace has praised Apple\u2019s environmental initiatives for more than a decade now.\nThat included a 2015 report on the company\u2019s use of renewable energy to power data centers.\nAll three of its data center expansions announced in the past year will be powered with renewable energy.\n\u201cAI will be the defining test of Apple\u2019s climate commitments,\u201d Li says.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-09-02T12:24:47Z",
+    "source": "9to5Mac"
+  },
+  {
+    "id": "NTc=",
+    "url": "https://thenextweb.com/news/army-locust-laser-weapon-contract-e-hel-border-drones",
+    "title": "The US Army used a laser weapon on American soil, then bought it",
+    "summary": "The company says it is the first production contract for directed energy systems in United States history.\nWhat was boughtThe Enduring-High Energy Laser programme covers dozens of LOCUST X3 systems delivered over the next few years.\nThey came from the Army Multi-Purpose High Energy Laser programme, the prototype effort that preceded this week\u2019s contract.\nThe clearance came firstFiring a laser weapon inside American airspace required permission that did not previously exist.\nThe distinction the company draws is between prototype purchases, which have happened before, and a production contract, which it says has not.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-03T09:26:48Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NjI=",
+    "url": "https://thenextweb.com/news/indonesia-local-currency-stablecoins-asia-corridor",
+    "title": "From One Corridor to Many: Indonesia as the Blueprint for Asia\u2019s Stablecoin Future",
+    "summary": "The Next Phase of Stablecoin AdoptionDollar-backed stablecoins demonstrated that fiat-denominated value can move globally, settle around the clock, and integrate with programmable financial infrastructure.\nWhy Indonesia Is a Natural Starting PointIndonesia is one of Asia\u2019s largest digital economies, with expanding regional trade, widespread adoption of digital financial services, and an active fintech ecosystem.\nRatio is working with these participants to expand the IDR corridor and prepare infrastructure for institutional adoption.\nThe Full IDR Settlement FlowThrough our work with IDRX and Nobu Bank, the IDR corridor is now live and integrated.\nFrom there, Asia\u2019s stablecoin network can grow one corridor at a time: locally regulated, institutionally connected, and built on interoperable infrastructure.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-03T14:00:42Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NzI=",
+    "url": "https://thenextweb.com/news/doj-statement-of-interest-openai-copyright-fair-use-eu-ai-act-recital-106-tdm-opt-out",
+    "title": "Justice Department sides with OpenAI in publishers\u2019 copyright fight",
+    "summary": "The Justice Department filed a statement of interest backing OpenAI\u2019s fair use defence in the consolidated publisher copyright cases, arguing that licensing costs would threaten national security.\nThe US government has told a New York court that training AI models on publishers\u2019 work is fair use.\nThe statement of interest also argues that licensing costs would hand the largest technology companies an oligopoly on model training.\nArticle 53 requires every general-purpose model provider to operate a policy identifying and respecting those reservations.\nNo provider should be able to gain a competitive advantage in the Union market by applying lower copyright standards than Europe\u2019s.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-02T22:10:56Z",
+    "source": "The Next Web"
+  }
+]

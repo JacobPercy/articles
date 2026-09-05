@@ -1,1 +1,902 @@
-[]
+[
+  {
+    "article": {
+      "id": "MA==",
+      "url": "https://www.yahoo.com/news/articles/us-pressure-iran-starting-tell-150155652.html",
+      "title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
+      "summary": "Washington has in recent weeks sought to ratchet up the economic pressure on Tehran, in an effort to extract concessions in any future negotiation that six months \u200cof conflict have so far failed to secure.\nWhile more energy is flowing to international markets through the Strait of Hormuz despite Iranian efforts to continue disrupting the seaway, the U.S. blockade of Iranian oil exports has \u200centirely cut off Tehran's main source of revenue.\n\"They are under very, very severe economic pressure.\nIran hopes the threat of inflation will deter the U.S. administration before midterm elections in November, while Washington aims to push Iranians to revolt, a senior Iranian official said.\nThat effort is making Iran's existing sanctions evasion networks - front companies, unregistered tankers and smuggling - too expensive to use, the three senior sources said.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T15:01:55Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "MQ==",
+      "url": "https://finance.yahoo.com/economy/articles/us-weekly-jobless-claims-rise-124059056.html",
+      "title": "US labor market remains stable; services input price rises point to elevated inflation",
+      "summary": "Rising price pressures have led economists to expect an interest rate hike from the U.S. central bank \u200cby year end.\nWhat drove unemployment claims to rise last week?\nHow are inflation pressures affecting Federal Reserve policy?\nInitial claims for state unemployment benefits climbed 2,000 to a seasonally adjusted 206,000 for the week ended August 29, the Labor Department said.\nEconomists continued to view the labor market as being in a \"slow hire, slow fire\" mode.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-09-03T12:48:32Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "Mg==",
+      "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
+      "title": "Google dodges another breakup attempt",
+      "summary": "US District Court Judge Leonie Brinkema declined the Justice Department\u2019s request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years.\nThey could include proposals like restricting Google from using self-preferencing ad auction tactics or letting third-party ad tech tools access the same real-time information as Google.\nIn that case, Judge Amit Mehta also declined to go as far as a breakup, opting instead for Google to share data with competitors and alter its behavior.\nHowever, Brinkema found that the DOJ failed to prove Google illegally monopolized a market for advertiser-side tools.\nThe remedies decision concludes the district court phase of the third major tech monopoly case brought by the federal government in recent years.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-09-02T15:42:17Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "Mw==",
+      "url": "https://www.businessinsider.com/recession-outlook-warning-signs-us-consumer-spending-economy-gary-shilling-2026-9#article",
+      "title": "Legendary economist Gary Shilling says consumer signals point to a recession in the next 12 months",
+      "summary": "American shoppers are waving some red flags that hint at a recession in the next year, one legendary economist is warning.\nIn a note this week, Shilling pointed to one particualr area of concern in the economy: the US consumer.\n\"Consumers are signaling that all is not great with the economy,\" Shilling wrote.\nRetail sales have dropped off a cliffRevised retail sales data showed that Americans pulled back significantly on spending in July.\nThe number of Americans filing for bankruptcy rose 12% in the 12 months leading up to the end of June, Shilling said.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-09-03T16:46:18Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NA==",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bond-selloff-deepens-inflation-oil-031138640.html",
+      "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
+      "summary": "More from Yahoo Scout What role is Middle East conflict playing in energy prices?\nWhat factors are driving bond yields to multi-decade highs?\nHow might rising yields impact stock valuations and borrowers?\nYields rise as prices fall and vice versa.\nBOND MARKET PAINHere are some related stories on \u2060the surge in government bond yields, what is behind them and why investors and borrowers are worrying:- What's behind the selloff in world bond markets?",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-09-02T15:24:01Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NQ==",
+      "url": "https://www.businessinsider.com/august-jobs-report-interest-rates-fed-meeting-bond-yields-economy-2026-9",
+      "title": "August Jobs Report Is a 'Warmup' Before the Next Fed Meeting, BofA Says",
+      "summary": "According to Bank of America, though, jobs are just the appetizer ahead of the Fed meeting on September 15th and 16th.\n\"A significantly weaker report could lower hike odds, but CPI remains the key release for determining whether the Fed follows through.\nFed Chair Kevin Warsh's own words last week at Jackson Hole should elevate the importance of CPI in investors' eyes.\n\"Absent a significant downside surprise in employment, we doubt Friday's report would decisively settle the Sep FOMC debate.\nRegardless, the bank said, \"markets will probably retain some uncertainty ahead of the inflation data, the Fed's current primary focus.\"",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-09-02T19:31:36Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Ng==",
+      "url": "https://www.businessinsider.com/job-market-long-term-unemployment-hiring-slowdown-looking-for-work-2026-9#article",
+      "title": "Why Long-Term Unemployment Is Rising Without a Recession",
+      "summary": "Spiegel said he sometimes avoids social events because he fears he'll have to talk about his job search.\nBusiness Insider is speaking with workers who've found themselves at a corporate crossroads \u2014 whether due to a layoff, resignation, job search, or shifting workplace expectations.\nSharone said that hope is critical for long-term unemployed jobseekers because their search is a marathon and not a sprint.\nEven in today's difficult job market, some long-term job seekers are managing to break through.\nNearly two years after her job search began, McClain recently landed a full-time customer-service job at a call center.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-09-03T09:30:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Nw==",
+      "url": "https://ritholtz.com/2026/09/150-trillion-global-economy/",
+      "title": "$150 Trillion Global Economy (2030)",
+      "summary": "I am a sucker for infographics like these:In 2025, Global GDP hit an all-time high of $118.4 trillion \u2014 about $14,406 per person worldwide.\nTo reach $150T by 2030 \u2014 26.7% higher than where we are now \u2014 would require 4 years of gains averaging 4.86%.\n3% annual GDP growth with a 2% inflation rate hits $150T in 2030.\nChina, which was half of the US GDP not too long ago, is now 68.9% of our economy\u2019s size; Europe, at $37 trillion, is about the same size as the United States\u2019 economy.\n$150 trillion is not a reach, and at current growth and inflation rates, if sustained, the world would reach $300 trillion sometime in 2044\u2026Source:World Economic Outlook via Visual Capitalist",
+      "category": "economics",
+      "bias": "right",
+      "publishedAt": "2026-09-02T21:30:08Z",
+      "source": "Ritholtz.com"
+    }
+  },
+  {
+    "article": {
+      "id": "OA==",
+      "url": "https://finance.yahoo.com/markets/articles/morning-bid-labor-days-103821254.html",
+      "title": "Morning Bid: Labor days",
+      "summary": "Meantime, market attention is turning to the week's U.S. labor market updates, with the rise in ADP's private sector payrolls for August coming in slightly below forecast ahead of the nationwide jobs report tomorrow.\nIn earnings news, Broadcom's update on Wednesday beat expectations but its \u200bfourth-quarter \u200boutlook underwhelmed, with its stock falling out of hours.\nStill, the chipmaker \u200bforecast strong AI chip sales for the next two \u200cyears.\nChart of the dayBroadcom on Wednesday forecast strong AI chip sales for the next two years, offering fresh evidence that Big Tech's appetite for AI infrastructure remains undiminished as investors scrutinize returns on massive spending.\nToday's events to \u200bwatch\u2022 U.S. weekly jobless claims (8:30 a.m. EDT), July trade balance (8:30 a.m. EDT), ISM \u200bAugust non-manufacturing PMI (10 a.m. EDT)\u2022 Fed's Christopher Waller participates in \u200ba Reuters NEXT Newsmaker interview (8:30 a.m. EDT)",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-09-03T10:38:21Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "OQ==",
+      "url": "https://www.semafor.com/article/09/02/2026/nigerias-gdp-hits-5-year-high-boosting-tinubus-reelection-bid",
+      "title": "Nigeria\u2019s economy grows at fastest pace in five years",
+      "summary": "Nigeria\u2019s GDP expanded at the fastest pace in five years, boosting President Bola Tinubu\u2019s reelection pitch that his policies have stabilized a once-ailing economy.\nThough growth remains below official targets, Tinubu has nonetheless overseen a turnaround of the continent\u2019s third-largest economy since coming to office in 2023.\nNigeria\u2019s naira currency, which weakened sharply under Tinubu following devaluations, has appreciated 12% in the twelve months to June.\nNigeria\u2019s net direct investment inflows have improved significantly under Tinubu and the oil industry is booming.\nHowever, insecurity remains a notable weak point, testing his reelection odds ahead of an election in January.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-09-02T13:10:09Z",
+      "source": "Semafor.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTA=",
+      "url": "https://www.cnn.com/2026/09/03/politics/trump-rising-prices-republican-ads",
+      "title": "Trump falsely claims prices are falling rapidly. Some Republican ads acknowledge reality",
+      "summary": "President Donald Trump has a triumphant message on inflation.\nEven as consumer prices continue rising, Trump continues to falsely claim that they are falling \u2013 and even that they are down since he returned to office, though they are actually up 4.3% over that period.\nSome Republican midterm candidates have been running commercials that acknowledge reality \u2013 implicitly rejecting the narrative of their party\u2019s chief spokesman on one of the year\u2019s most important issues.\nAn ad from Republican Ohio gubernatorial candidate Vivek Ramaswamy features a testimonial from a woman who touts him as strong on healthcare affordability.\nPolls suggest most Americans believe Trump is to blame for high gas prices and that Trump\u2019s policies have increased the cost of living.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T09:00:30Z",
+      "source": "CNN"
+    }
+  },
+  {
+    "article": {
+      "id": "MTE=",
+      "url": "https://www.businessinsider.com/job-market-long-term-unemployment-hiring-slowdown-looking-for-work-2026-9",
+      "title": "Why Long-Term Unemployment Is Rising Without a Recession",
+      "summary": "Spiegel said he sometimes avoids social events because he fears he'll have to talk about his job search.\nBusiness Insider is speaking with workers who've found themselves at a corporate crossroads \u2014 whether due to a layoff, resignation, job search, or shifting workplace expectations.\nSharone said that hope is critical for long-term unemployed jobseekers because their search is a marathon and not a sprint.\nEven in today's difficult job market, some long-term job seekers are managing to break through.\nNearly two years after her job search began, McClain recently landed a full-time customer-service job at a call center.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-09-03T09:30:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTI=",
+      "url": "https://www.yahoo.com/news/politics/articles/critical-employees-begin-retire-trump-183839608.html",
+      "title": "\u2018Critical employees will begin to retire\u2019: Trump\u2019s new pay plan will deny most federal roles a raise, and it has workers warning of a retention crunch",
+      "summary": "Trump's 2027 fiscal budget proposal did not mention pay increases for civilian federal employees, who include air traffic controllers, IRS tax auditors, and food safety inspectors.\nMeanwhile, members of the military would see between a 5% to 7% pay increase, part of an effort to \"rebuild our military's readiness and capabilities.\"\n\"Aviation safety inspectors and other critical employees will begin to retire and the recruitment of these aviation safety professionals will suffer.\"\nIn 2019, a Democrat-controlled House overrode Trump's proposal to freeze pay for federal workers with a 1.9% pay increase retroactive to the beginning of the year, that Trump signed.\nDemocratic legislators Rep. James Walkinshaw of Virginia and Sen. Brian Schatz of Hawaii have introduced the FAIR Act that would give a 4.1% federal pay raise next year.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T18:38:39Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "MTM=",
+      "url": "https://www.businessinsider.com/what-bond-yields-mean-for-your-wallet-mortgage-rates-stocks-2026-9#article",
+      "title": "What the big bond sell-off means for your wallet",
+      "summary": "With America's debt mounting and oil prices on the rise again, the bond market has been gripped by a sell-off this week.\nFrom consumer prices to personal finance, here's how the big bond market sell-off could impact your wallet.\nWhat it means for your investment accountHigher bond yields can present a problem for stocks for a couple of reasons.\nThe bond market is signaling that it sees higher rates on the horizon for a variety of reasons.\nHigher mortgage rates could also exacerbate the \"lock-in effect,\" with current owners opting to stay put rather than move and buy a new home at higher rates than their current mortgage.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-09-02T18:50:50Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTQ=",
+      "url": "https://finance.yahoo.com/news/shein-shares-slide-more-5-084738229.html",
+      "title": "Shein shares slide more than 5% on second day of Hong Kong trading",
+      "summary": "HONG KONG, Sept 2 (Reuters) - Shares of online fast-fashion retailer Shein fell more than 5% on \u200cWednesday, a day after a lacklustre debut session \u200cfollowing a long-awaited initial public offering.\nOn Wednesday, the stock closed at HK$46 on its second day of trading in Hong Kong, while the \u200ccity's Hang Seng \u2060Index closed flat.\nMore from Yahoo Scout How much did Shein raise in its Hong Kong IPO?\nHigher import duties in key markets, growing regulatoryrisks and intensified competition from rivals are hampering Shein's growth prospects, investors and analysts said.\n(Reporting by Donny Kwok and Summer Zhen \u200bHong Kong; Writingby Scott Murdoch; Editing by Christopher \u200bCushing, EdwinaGibbs and Louise Heavens)",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T08:47:38Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "MTU=",
+      "url": "https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia",
+      "title": "Kais Saied\u2019s economic experiment has failed Tunisia",
+      "summary": "Instead, economic indicators deteriorated, public-finance imbalances worsened and creating wealth and jobs became increasingly difficult.\nThe numbers are stubbornWhatever one\u2019s political position on Kais Saied, the economic figures provide a clear measure of the results.\nThe community companies project, another central pillar of Saied\u2019s programme, illustrates the shortcomings of his economic vision and its lack of a solid theoretical foundation.\nTunisia had already suffered for years from weak growth, high unemployment, public-finance imbalances, declining investment and regional disparities that successive governments failed to reduce.\nIt comes from rational leadership, economic openness and a healthy investment climate built on confidence in state institutions and their fairness.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-09-03T13:09:47Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "MTY=",
+      "url": "https://www.yahoo.com/news/articles/russia-sechin-says-china-not-065030885.html",
+      "title": "Russia\u2019s Sechin says China, not OPEC, calls shots on global energy markets",
+      "summary": "VLADIVOSTOK, Sept 4 (Reuters) - Igor Sechin, chief of Russia's top oil producer Rosneft, said \u200con Thursday that China, not OPEC, has \u200cstabilized global oil markets by reducing crude imports by 5.5 \u200bmillion barrels per day this year.\nSechin, the most influential Russian energy manager and a long-standing ally of President Vladimir Putin, was speaking at a \u200cRussian - Chinese business \u2060forum in the far eastern city of Vladivostok.\n\"This year, China has effectively \u2060taken the lead from OPEC and, without being a member of any cartel, has managed to \u200bstabilise the \u200bglobal oil market by \u200bcutting its oil \u200cimports by 5.5 million barrels per day,\" Sechin said.\nAdvertisement AdvertisementAdvertisement AdvertisementSechin, known for his skepticism towards OPEC, said China will get more influence on the energy markets as the number of OPEC members is \u200cdeclining.\n(Reporting by Vladimir Soldatkin; \u200bWriting by Vladimir Soldatkin; Editing by Tomasz \u200bJanowski and Gleb Bryanski)",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-09-04T06:50:30Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "MTc=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor.\nThe company claims the new model \u201cworks harder\u201d than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \u201ccalling tools iteratively.\u201d It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more.\nGoogle warns that \u201cthe model might use more tokens to maximize performance, especially at higher effort levels.\u201d Developers can keep using Gemini 3.7 Flash if they want to minimize token usage.\nGemini 3.8 Flash\u2019s launch was followed by some early impressions online.\nArtificial Analysis highlighted the model\u2019s pricing, saying Gemini 3.8 Flash is \u201cthe cheapest we\u2019ve measured at this level of intelligence.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-09-02T20:11:40Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTg=",
+      "url": "https://www.yahoo.com/news/world/articles/venezuelans-pride-bruised-deal-us-142956959.html",
+      "title": "Proud of their oil, Venezuelans view US stake in their reserves as a surrender",
+      "summary": "Advertisement AdvertisementAdvertisement AdvertisementWhile the deal could eventually generate billions of dollars for an oil industry and economy wrecked by years of mismanagement, many Venezuelans see it as a surrender.\nAbreu works as a security guard in Cabimas, in the country's northwest, the heart of the oil industry.\nAdvertisement AdvertisementIn February, a legal overhaul opened the path to private investment in the oil industry, which some saw as a prelude to bigger changes.\nAdvertisement AdvertisementBecause Venezuela's energy infrastructure has been severely degraded, it will take years before new investments will lead to significantly higher oil production, experts say.\n\"Well, on the one hand, one feels and thinks that one of the largest oil reserves has been handed over,\" Erwin Ayala, an oil company worker, said outside his home.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-09-03T14:29:56Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "MTk=",
+      "url": "https://thenextweb.com/news/microsoft-fabric-gcc-high-government-cloud-eucs-certification-stalled-europe-sovereignty",
+      "title": "Microsoft Fabric reaches the US government cloud, with general availability from October",
+      "summary": "Microsoft has launched its Fabric data platform in Government Community Cloud High on public preview, with general availability from 1 October, pitched at agentic AI workloads.\nMicrosoft has launched its Fabric data platform inside the US federal cloud tier.\nIt is on public preview in Government Community Cloud High, with general availability from 1 October, Nextgov reported.\nPublic authorities would run sovereignty risk assessments across four tiers, restricting US providers for sensitive public data in health, finance and justice.\nWashington specified the accredited tier Microsoft is now shipping into, and Brussels is still deciding whether to build one while calling the dependency a political risk.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-09-02T23:52:10Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MjA=",
+      "url": "https://thenextweb.com/news/top-rippling-alternatives-mid-market-companies",
+      "title": "Top Rippling alternatives for mid-market companies",
+      "summary": "TL;DR Rippling bundles HR with IT and finance, but mid-market HR teams often pay for modules they never use.\nHiBobCredit: HiBobBest for: Mid-market companies that want a people-first HR platform without the IT-admin weightBob, the platform built by HiBob, treats HR as the main event rather than a companion to device management.\nPaylocityCredit: PaylocityBest for: Mid-market companies that want HR, payroll, and finance in a single systemPaylocity brings payroll, benefits, HR, and an engagement layer together for mid-market employers, and it leans harder on culture tools than most payroll-rooted platforms.\nPersonioBest for: European SMBs consolidating core HR and recruitingPersonio grew up serving small and mid-sized companies across Europe, and it centralizes core HR and recruiting in one system tuned to regional compliance, with absence management built in.\nMid-market buyers weigh core HR, payroll, engagement, and analytics in one place.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-09-03T19:27:20Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MjE=",
+      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo",
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "summary": "Moskovsky Komsomolets had suggested that UK Prime Minister Andy Burnham should be seeing Russia, not in his dreams, \"but in his nightmares\".\nIncreasingly Russia's president is mixing the geopolitical with the zoological.\nHe recently spoke about killer whales \"tearing polar bears apart\" to justify Russia's war on Ukraine.\nThe Kremlin says the Russian president didn't meet John Ratcliffe during that trip.\nBut if they do head to Moscow, President Trump's envoys will encounter a Kremlin leader who remains determined that any peace in Ukraine should be on Russia's terms.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T11:47:11Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "MjI=",
+      "url": "https://www.wired.com/story/face-recognition-is-becoming-the-norm-for-dating-apps/",
+      "title": "Face Recognition Is Becoming the Norm for Dating Apps",
+      "summary": "The spread of AI-generated fake accounts has become a rising concern for dating apps, as things like chatfishing and voice cloning have gotten more widespread across the industry.\nMore than a dozen major dating apps and sites use face recognition to verify users, often relying on liveness checks, 3D authentication, video selfies, or biometric ID to demonstrate humanness.\nOne company pushing for the use of ID-verification tech in dating apps is Tools for Humanity.\nLikewise, Face Check collects and stores an encrypted map of information about the shape of the user\u2019s face, not the actual picture, Match said.\nBut even as dating apps claim that your biometric data is safe, security continues to be a significant concern.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T09:00:00Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "MjM=",
+      "url": "https://thenextweb.com/news/opera-microsoft-edge-dma-court-ruling",
+      "title": "Opera loses EU court fight to have Microsoft Edge labelled a gatekeeper",
+      "summary": "Microsoft Edge will stay outside the European Union\u2019s toughest tech rulebook.\nThe bloc\u2019s General Court on Wednesday rejected Opera\u2019s challenge to the European Commission\u2019s decision not to designate the browser as a gatekeeper service under the Digital Markets Act.\nOpera challenged a Commission decision from February 2024, which came after a market investigation into Microsoft.\nMicrosoft is a gatekeeper in the EU, just not for Edge.\nIts argument was that Edge has a \u201cdurable and privileged position on Windows\u201d that the Commission had not adequately assessed.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-09-02T11:30:13Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MjQ=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+      "summary": "An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.\nOpenAI\u2019s next big model is here: GPT-6 Astra.\nThe company calls it a \u201cgenerational leap in capability\u201d for areas like cybersecurity, professional work, software engineering, science, and computer use.\nThe model rolls out today to OpenAI\u2019s cybersecurity customers (enterprise customers with access to its Daybreak platform).\nIn a release, the company said GPT-6 Astra can complete multistep agentic tasks, build working websites, and create \u201cpolished\u201d documents, spreadsheets, and presentations.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T17:33:13Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjU=",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "summary": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion.\nHugging Face was founded a decade ago by three French entrepreneurs in New York City, who wanted to launch an AI \u201ccompanion\u201d app.\n\u201cOpen-source AI is at an inflection point,\u201d wrote Hugging Face cofounder and CEO Cl\u00e9ment Delangue in a post on X announcing the acquisition.\nHugging Face has more recently been front and center after its platform was hacked by AI agents from OpenAI.\nAnd if all of them use Hugging Face all day, every day, we\u2019ll obviously be in a good position.\u201dObviously, Nvidia seems to agree.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-09-03T12:43:09Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "MjY=",
+      "url": "https://www.cnet.com/tech/services-and-software/openai-gpt-6-astra-release-ai-agi-chatgpt/",
+      "title": "OpenAI\u2019s Astra Is Here: What to Know About GPT-6",
+      "summary": "Like every model release, OpenAI says the new one (Astra) is better than the previous ones on a number of topics, including coding, alignment and safety.\nAstra is also built to run more and better AI agents, or bots that can handle autonomous tasks.\nTo create Astra, OpenAI did \u201cby far our largest scale training run,\u201d Aidan Clark, vice president of research, told reporters on Thursday.\nAstra was also OpenAI\u2019s first model that involved previous AI models very heavily in the training process, with the older generations helping train the new one.\nJakub Pachocki, the company\u2019s chief scientist, said international safety standards are necessary for the industry as AI models (and their capabilities) develop.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-09-03T18:00:20Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjc=",
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "title": "NYC bans AI use for students until they reach high school",
+      "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms.\nThe one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a small pilot program for AI education tools.\nHigh school-aged students will only be permitted to use AI in specific instances, and they\u2019ll be offered AI literacy classes twice a year to help students \u201cthink critically\u201d before they come to \u201crely on it.\u201d\u201cChildren need teachers and human connection in order to learn and grow.\nTeachers will still be permitted to use AI for lesson planning, and exceptions may be granted for AI tools that help students with disabilities or multilingual students.\nThese changes follow NYC\u2019s public school system introducing a bell-to-bell ban on \u201cpersonal internet-enabled electronic devices\u201d (including smartphones) for the 2025-2026 school year.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T13:51:03Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjg=",
+      "url": "https://www.businessinsider.com/openai-chatgpt-legal-ai-launch-2026-9#article",
+      "title": "OpenAI is about to make its biggest push yet into the legal industry",
+      "summary": "Now, it's taking its case to law firms.\nThe ChatGPT maker is planning to launch new integrations with third-party legal software companies, according to people familiar with the matter.\nThe company has been in talks with multiple legal software providers about allowing OpenAI's chatbot to plug into their tools and data sources, the people said.\nLaw firms are under pressure from clients to move faster and show they're not billing associates for work that software can do.\nThat demand has produced a flood of startups addressing legal work.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-09-03T20:28:56Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjk=",
+      "url": "https://www.cnet.com/tech/services-and-software/gpt-6-stole-the-show-but-anthropic-meta-and-google-also-had-new-ai-models-this-week/",
+      "title": "GPT-6 Stole the Show, but Anthropic, Meta and Google Also Had New AI Models This Week",
+      "summary": "It wasn\u2019t just OpenAI: Fellow AI heavy hitters Anthropic, Meta, and Google also announced updates to AI models.\nClaude Fable 5.1 and Mythos 5.1Anthropic announced updates for its Fable and Mythos models \u2014 both of which are some of the best available today.\nAnthropic says that both Fable 5.1 and Mythos 5.1 are the same model, but each has a different set of safeguards.\nIt also says that Fable 5.1, when set to low or medium effort, has performance similar to Fable 5 but at a much lower cost.\nGemini 3.8 and 3.8 Flash CyberGoogle released two new models in the form of Gemini 3.8 Flash and 3.8 Flash Cyber.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-09-03T21:10:31Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
+      "url": "https://thenextweb.com/news/huskeys-raises-27m-series-a-led-by-blackstone",
+      "title": "Huskeys Raises $27M Series A Led by Blackstone to Build a New Security Layer for the Network Edge",
+      "summary": "The funding was first reported by the Wall Street Journal and comes as Huskeys builds what it calls a new category of cybersecurity technology: Network Edge Security Management, or NESM.\nTeams must understand whether controls are working, determine how policy changes will affect legitimate traffic, and respond to emerging threats without disrupting business-critical applications.\nBlocking legitimate traffic can affect customers and revenue, while allowing malicious traffic through can create an opening for attackers.\nAI-driven traffic and increasingly fragmented edge environments require a new approach to security management,\u201d said Adam Fletcher, Chief Information Security Officer at Blackstone.\n\u201cHuskeys has built a platform designed to operate at enterprise scale while advancing a new category for the modern network edge.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-09-02T13:19:15Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MzE=",
+      "url": "https://www.cnet.com/tech/services-and-software/g20-tech-government-leaders-ai-data-centers-protests/",
+      "title": "At G20, Big Tech and Global Leaders Can\u2019t Escape AI\u2019s Data Center Problem",
+      "summary": "Data centers are a crucial piece of infrastructure that tech companies need to power their training of new AI models.\nTech companies are quick to claim that data centers create jobs and give back to the tax base.\nAnd the growing opposition is bipartisan: Both Democrats and Republicans (as well as independents) are against new data centers in their area.\nThat\u2019s why the US government is launching a campaign to persuade other global leaders to promote AI data centers.\nThough tech companies often boast that data centers create jobs, many studies say that job growth is overstated.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-09-02T18:42:19Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MzI=",
+      "url": "https://www.businessinsider.com/lori-cashman-visible-ventures-gen-z-kids-ai-2026-9#article",
+      "title": "I'm a VC with 5 kids. I encourage them to use AI and not to pick the safest career.",
+      "summary": "I'm also the founder of a venture capital firm that works with many Gen Z founders.\nAI is going to create lots of opportunities for this generationThings are changing so quickly with AI.\nIt's really within the last year that I've been beating the drum, encouraging my kids to use any AI tools they can.\nThe ability to solve interdisciplinary problems will serve Gen Z well in the future.\nI believe Gen Z will be very entrepreneurial and end up trailblazing paths that look different from past careers.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-09-03T18:38:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MzM=",
+      "url": "https://thenextweb.com/news/gemini-3-8-flash-cyber-release-cadence-eu-ai-act-gpai-article-53",
+      "title": "Google releases Gemini 3.8 Flash and a cybersecurity variant limited to governments",
+      "summary": "Google has released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber, its third Flash release in six weeks, with the cyber model restricted to trusted testers and governments.\nIt is the company\u2019s third Flash model in six weeks, Ars Technica reported.\nA general model Google calls a workhorse, and Flash Cyber, tuned for finding and fixing software vulnerabilities.\nIt joined the general purpose AI Code of Practice on 30 July 2025, a week after Meta refused to.\nFlash Cyber goes only to trusted testers and governments, and Google does not say which governments.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-09-02T20:33:02Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MzQ=",
+      "url": "https://thenextweb.com/news/wonderful-550m-series-c-5bn-valuation-amsterdam-eu-data-act-lock-in",
+      "title": "Wonderful raises $550M Series C at $5B valuation, led by Insight Partners with Salesforce",
+      "summary": "Wonderful has closed a $550M Series C at a $5B valuation led by Insight Partners with Salesforce participating, eighteen months after being founded and six months after a $150M round at $2B.\nIts press release is datelined Amsterdam while Israeli technology press covers it as an Israeli company.\nWonderful has raised $550M at a $5B valuation.\nInsight Partners led the Series C, with Salesforce joining, the company said.\nIsraeli technology press covers Wonderful as an Israeli company, and both founders built companies in Israel before this one.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-09-02T17:42:11Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MzU=",
+      "url": "https://thenextweb.com/news/crowdstrike-openai-gpt-5-6-cyber-anthropic-claude-marketplace",
+      "title": "CrowdStrike put OpenAI in the product and Anthropic at the checkout",
+      "summary": "CrowdStrike said on Wednesday that it will run OpenAI\u2019s GPT-5.6 Cyber inside a purpose-built cyber harness.\nIts Frontier AI Readiness and Resilience service applies GPT-5.6 Cyber \u201cwithin CrowdStrike\u2019s purpose-built cyber harness\u201d.\nPolicing the agents it also sellsThe other half is Falcon Guardian, CrowdStrike\u2019s AI detection and response product, applied to Codex agents.\nAnthropic turns up on the other side of the counterFive hours later CrowdStrike announced a second deal, this time with Anthropic.\nIt also introduced an Agentic Identity Provider, which issues AI agents their own identities and treats that as the control plane for the enterprise.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-09-03T08:19:35Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "MzY=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "title": "Instagram\u2019s AI detection is a mess (again)",
+      "summary": "They say Meta has been automatically applying an \u201cAI Content\u201d label to images that they didn\u2019t create or edit using generative AI tools.\nIn 2024, the detection system reportedly swept up pictures whose Adobe metadata indicated they had been retouched with generative AI tools, even if the changes were extremely minor and substantively resulted in the same photograph.\nThese are just some of the images I posted to Instagram to test its AI detection, but only the two on the top right (created in Meta AI) were tagged.\nThat said, only a handful should add generative AI metadata to photographs: Spatial Reframing, Extend, and updated Clean Up added in iOS 27.\nThe results have left me questioning if there is any sense in how Meta is applying \u201cAI Content\u201d tags.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T18:37:50Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzc=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "title": "Why AI food looks like that",
+      "summary": "There are many reasons why this AI food is so wrong, from the technical nuances of how AI systems generate images and the materials used to train them to the psychological baggage humans perceive the images through.\nThat helps explain why so many AI food images are so relentlessly noodly, unsettlingly patterned, and riddled with the kind of clustered holes that can trigger trypophobia.\nAI models have no understanding of why food should not look like other non-food images in that way.\nA lot of popular AI material involves food, Cook said, recalling a trend for AI-generated videos of people jumping in or on piles of food.\nAI generated food looks wrong because, on a primal level, it feels wrong.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-09-03T14:08:47Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzg=",
+      "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+      "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology.\nThey\u2019re more expensive than power banks with comparable specs, but a longer functional lifespan should outweigh the premium pricing.\nBelkin\u2019s new semi-solid-state wireless power bank maxes out at just 15W of power delivery, and even less when charging two devices.\nImage: BelkinThe UltraCharge Pro Slim Magnetic Power Bank 5K Qi2 15W with BoostSolid Cell is the smaller and cheaper option of Belkin\u2019s two new power banks at $69.99.\nYou can charge up to three devices using Belkin\u2019s 10,000mAh semi-solid-state power bank using two USB-C ports and a single USB-A port.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-09-02T21:35:32Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzk=",
+      "url": "https://www.theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsmooth-dryer-brush-styling",
+      "title": "Dyson\u2019s new straightener has liquid cooling pipes to reduce hair damage",
+      "summary": "The $329 Corrale CoolShine straightener upgrades the original Corrale that launched in 2020 with active cooling technology designed to \u201creduce residual heatexposure\u201d so hair feels smoother, softer, and cooler to the touch after styling.\nAlongside it is the new $249 Dyson Airsmooth dryer brush designed for both drying and styling hair using a new anti-snag bristle technology developed by the company.\nThose precisely controlled heating elements are now joined by water-filled pipes that draw excess heat away from hair as it\u2019s being pulled through the straightener.\nSo in a single pass, hair is being heated, straightened, and then cooled back down to help reduce potential damage from being heated too long.\nThe Airsmooth dryer brush features a unique teardrop-shaped design and looped bristles engineered to reduce snags while brushing.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-09-03T14:04:24Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "NDA=",
+      "url": "https://thenextweb.com/news/deutsche-telekom-t-mobile-merger-elliott-stake-german-state-blocking-minority-ireland-holdco",
+      "title": "T-Mobile\u2019s Gopalan turns to home internet and AI after a 25% slide",
+      "summary": "T-Mobile US chief executive Srini Gopalan is selling home internet and AI as the growth story.\nElliott Investment Management has built a stake in parent Deutsche Telekom and wants the plan dropped in favour of buybacks.\nA new holding company would make an all-share bid for both and list on both sides of the Atlantic.\nA full merger would cut the combined state holding to roughly 17%, below the 25% that carries a blocking minority under German company law.\nT-Mobile\u2019s own executives told Deutsche Telekom in August that they no longer support it.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-09-03T22:16:57Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "NDE=",
+      "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "title": "Google says its AI weather model is getting better",
+      "summary": "Google is rolling out an updated AI weather model that\u2019s supposed to be more accurate, especially when it comes to predicting rain and snowfall.\nAI weather models created by Google and other developers, in contrast, can make faster predictions by recognizing patterns in historical weather data.\nImage: GoogleGoogle also designed its latest AI weather model to produce forecasts for renewable energy generation.\nGoogle has also worked with the US National Hurricane Center and other agencies in Asia to improve weather forecasting using its AI models.\nWhile AI models are becoming more accurate, they\u2019re still expected to work in tandem with traditional physics-based models.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-09-03T14:41:03Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "NDI=",
+      "url": "https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes",
+      "title": "Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'",
+      "summary": "An anonymous reader quotes a report from The Guardian:",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-09-03T03:30:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "NDM=",
+      "url": "https://www.yahoo.com/news/science/articles/india-power-demand-surging-solar-013128097.html",
+      "title": "India\u2019s power demand is surging, but some solar energy is going to waste",
+      "summary": "That solar power went unused even as extreme heat and poor monsoon rains drove up demand for power in India for cooling and pumping groundwater for agriculture.\nClean power gets switched off despite record demandIndia has more than 300 gigawatts of clean power capacity, more than half its total installed electricity capacity.\nThe western states of Gujarat and Rajasthan account for nearly 50% of India's solar power capacity.\nAlso, Indian policymakers expect nearly 70% of India's installed power capacity to come from nonfossil sources by 2036.\nAdvertisement AdvertisementBatteries make it possible to store solar electricity when it is abundant in the afternoon and discharge it after sunset, when demand remains high.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T01:31:28Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDQ=",
+      "url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
+      "title": "Sam Altman says AI developers have fumbled at communicating the technology\u2019s benefits",
+      "summary": "Sam Altman says the AI industry has done a terrible job of communicating the benefits of the technology and is now exposed to a backlash, after local opposition blocked or delayed 75 data centre projects worth about $130B in a single quarter.\nSam Altman says the AI industry has done a terrible job of explaining what the technology is for.\nAt least 75 data centre projects worth about $130B were blocked or delayed by local opposition in the first three months of this year.\nDanish data centre capacity stood at 398MW at the start of the year, with a further 208MW under construction.\nA data centre energy efficiency package and the Cloud and AI Development Act would tie public support to energy, water and circularity performance.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-09-03T22:02:39Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "NDU=",
+      "url": "https://abcnews.com/US/wireStory/epa-proposal-leave-public-dark-data-center-plans-136167246",
+      "title": "EPA proposal could leave the public in the dark on data center plans",
+      "summary": "The EPA proposal would eliminate a federal requirement that states notify the public and seek comment before issuing air pollution permits for data centers and other industrial facilities.\nCritics say the move could thwart local residents from learning about proposed data centers or making their voices heard before projects are approved and construction begins.\nThe Republican president calls data centers critical to winning the AI race against China.\nThe federal plan would leave many communities in the dark before data centers show up in their backyards, they said.\nVirginia and Georgia are both among states with the highest concentration of current and proposed data centers.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-09-03T11:16:45Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NDY=",
+      "url": "https://www.cnet.com/tech/services-and-software/trump-administration-sides-with-openai-in-publishers-copyright-lawsuits/",
+      "title": "Trump Administration Sides With OpenAI in Publishers\u2019 Copyright Lawsuits",
+      "summary": "The Trump administration has weighed in on a series of copyright disputes between news organizations and OpenAI, supporting the ChatGPT-maker\u2019s position that its use of publishers\u2019 content to train AI models constituted fair use.\nZiff Davis filed the suit in 2025, alleging OpenAI infringed Ziff Davis copyrights in training and operating its AI systems.\n\u201cBoth AI and creators can thrive \u2013 AI companies simply need to pay fairly for the content that makes their products possible, as copyright law requires,\u201d James said.\nMajor media companies aren\u2019t the only ones who\u2019ve sued OpenAI over copyright infringement.\nEarlier this summer, publishers accused OpenAI of withholding evidence about how it trains its models, claims the company has denied.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T18:35:55Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "NDc=",
+      "url": "https://www.bbc.com/news/articles/ce3rql5rzx4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "title": "Renewable energy in NI reaches record level",
+      "summary": "There is also a high rate of dispatch down in Northern Ireland \u2013 when turbines are switched off because there is not enough demand for the power being generated.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-09-04T06:17:29Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDg=",
+      "url": "https://www.scientificamerican.com/article/un-admits-exceeding-paris-agreements-1-5-degrees-c-warming-target-is-unavoidable/",
+      "title": "U.N. admits exceeding Paris Agreement\u2019s 1.5-degree-C warming target is \u2018unavoidable\u2019",
+      "summary": "The world is set to blow past the Paris Agreement\u2019s longtime threshold \u201cwithin the next few years,\u201d according to a new reportThe world is on track to exceed the Paris Agreement\u2019s target of no more than 1.5 degrees Celsius (2.7 degrees Fahrenheit) of warming above preindustrial temperatures within the next few years, the United Nations admits in a new report.\nBy purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our world today.\nNow the report urges the world to prepare for life past 1.5 degrees C of warming.\nIndeed, the U.S., the globe\u2019s biggest historical greenhouse gas emitter, officially pulled out of the Paris Agreement in January.\n\u201cEvery fraction of a degree avoided and every year by which overshoot is shortened will save lives, protect ecosystems and reduce economic losses,\u201d the authors write.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T20:15:00Z",
+      "source": "Scientific American"
+    }
+  },
+  {
+    "article": {
+      "id": "NDk=",
+      "url": "https://www.businessinsider.com/us-navy-top-admiral-says-lasers-needed-counter-cheap-drones-2026-9#article",
+      "title": "The US Navy's top admiral says lasers are key to keeping cheap drones from eating into warship missile magazines",
+      "summary": "The US Navy's top admiral sees laser weapons as a strategic answer to the cost challenge of combating cheap drones.\n\"This is why directed energy weapons \u2014 especially high-powered lasers \u2014 matter strategically,\" Caudle said.\nUS personnel used the Army Multi-Purpose High Energy Laser to shoot down three cartel drones last week.\nAdditionally, the Arleigh Burke-class destroyer USS Preble is equipped with Lockheed Martin's High Energy Laser with Integrated Optical-dazzler and Surveillance, or HELIOS.\nLast week, the US Army saw a laser weapons win, using the Army Multipurpose High Energy Laser to eliminate three drug cartel-linked drones at the southern US border.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-09-02T17:06:46Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NTA=",
+      "url": "https://9to5mac.com/2026/09/02/ai-will-be-the-defining-test-of-apples-environmental-commitments-says-greenpeace/",
+      "title": "AI will be the defining test of Apple's environmental commitments",
+      "summary": "Greenpeace says the adoption of AI poses the biggest threat to Apple\u2019s environmental track record, and argues that how the company responds will be the \u201cdefining test\u201d of whether it really means what it says.\nApple\u2019s environmental achievements to date have been unrivalled, but the massive data center demands created by Siri AI and other Apple Intelligence features could change all of that \u2026Greenpeace has praised Apple\u2019s environmental initiatives for more than a decade now.\nThat included a 2015 report on the company\u2019s use of renewable energy to power data centers.\nAll three of its data center expansions announced in the past year will be powered with renewable energy.\n\u201cAI will be the defining test of Apple\u2019s climate commitments,\u201d Li says.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-09-02T12:24:47Z",
+      "source": "9to5Mac"
+    }
+  },
+  {
+    "article": {
+      "id": "NTE=",
+      "url": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko",
+      "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
+      "summary": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to have to work together to meet demand for crossings.\nWith crossings at a six-year low, it includes loading more migrants on larger vessels, as the 'mega-dinghies' that were first seen last month.\nThe gangs claim more are being prepared.",
+      "category": "immigration",
+      "bias": "lean right",
+      "publishedAt": "2026-09-03T06:21:09Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTI=",
+      "url": "https://www.yahoo.com/news/world/articles/spanish-prime-minister-rejects-suggestions-104938673.html",
+      "title": "Spain's leader struggles to answer lawmakers about Ceuta border crisis",
+      "summary": "While rejecting suggestions that Moroccan authorities helped orchestrate the incident, S\u00e1nchez said Moroccan police \"allowed the border to be crossed.\"\nLast week, Spain's Defense Minister Margarita Robles said Spanish intelligence had provided prior warning of the border rush, while Interior Minister Fernando Grande-Marlaska said it had not.\nS\u00e1nchez faced a barrage of questions on Thursday from lawmakers after his opening address alongside calls for early elections.\nQuestions about Morocco's roleS\u00e1nchez also maintained there was no evidence Morocco's government was behind the mass crossing.\nS\u00e1nchez condemned comments from two Moroccan ministers questioning the sovereignty of Ceuta and Melilla, Spain's other territory in North Africa.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T10:49:38Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NTM=",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
+      "title": "ICE officer faces federal charges for lying over shooting of Venezuelan immigrant",
+      "summary": "ICE officer faces federal charges for lying over shooting of Venezuelan immigranttoggle caption Michael Gonzalez/AP PhotoFederal prosecutors have brought charges against an officer with Immigration and Customs Enforcement for lying to investigators about a shooting of a Venezuelan man in Minnesota earlier this year.\nThe charges represent a rare moment of the Justice Department seeking to hold immigration officers accountable for their actions and tactics while conducting arrests.\nChristian Castro, the ICE officer, was in north Minneapolis in January as part of a broad immigration crackdown in the state known as Operation Metro Surge.\nSosa-Celis's attorney criticized the new federal charges against Castro, saying the ICE officer \"lied to cover up the fact that he shot my client through the door of an occupied house without a self-defense justification.\"\nSponsor MessageFederal immigration officers have shot at more than 20 people under the Trump administration's immigration crackdown.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-09-03T18:14:53Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NTQ=",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
+      "title": "New immigration court tactic leads to huge lines and chaos in Miami",
+      "summary": "New immigration court tactic leads to huge lines and chaos in Miamitoggle caption Eva Marie Uzcategui for NPRMIAMI \u2014 Yerandy Gonzalez looks at the line of hundreds of people in front of him and shakes his head.\nThe line \u2014 which stretches across a few blocks on this humid Tuesday morning \u2014 is of people waiting to go inside Miami's immigration court.\n\"It's a very unfair, but a very effective tactic,\" said David Wilson, the vice chair of the American Immigration Lawyers Association's immigration court committee.\nIn the Miami immigration court, the increase of in-absentia orders in July spiked from 1,383 in May to 2,886 in July \u2014 a 108% increase.\ntoggle caption Eva Marie Uzcategui for NPRStanding in line outside the Miami immigration court, she says she's concerned about everything.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-09-02T16:42:48Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NTU=",
+      "url": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o",
+      "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+      "summary": "After the catastrophic flash floods along the Nepal-Tibet border a week ago, more than 1,000 people have died and nearly 4,000 more are missing, according to Nepal's disaster agency.\nThe BBC has travelled to the district of Betrawati in Nepal, as some people return to their homes to see the devastation caused by the floods.\nSouth Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved as rescue efforts continue.\nMore on this story.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-09-02T15:16:42Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTY=",
+      "url": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o",
+      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+      "summary": "A US Immigration and Customs Enforcement (ICE) agent has been charged with lying about the non-fatal shooting of a Venezuelan migrant in the state of Minnesota.\nChristian Castro, who is not yet in custody, faces a six-count federal indictment relating to shooting on 14 January, according to the BBC's US media partner CBS.\nThe Department of Homeland Security initially said he fired in self-defence after being attacked by three Venezuelan illegal migrants with a shovel and broom handle.\nMinnesota investigators allege Castro fired through a closed door, shooting the man in the leg.\nIt is rare for the current justice department to accuse a federal agent of breaking the law on the job.",
+      "category": "immigration",
+      "bias": "lean right",
+      "publishedAt": "2026-09-03T20:49:05Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTc=",
+      "url": "https://thenextweb.com/news/army-locust-laser-weapon-contract-e-hel-border-drones",
+      "title": "The US Army used a laser weapon on American soil, then bought it",
+      "summary": "The company says it is the first production contract for directed energy systems in United States history.\nWhat was boughtThe Enduring-High Energy Laser programme covers dozens of LOCUST X3 systems delivered over the next few years.\nThey came from the Army Multi-Purpose High Energy Laser programme, the prototype effort that preceded this week\u2019s contract.\nThe clearance came firstFiring a laser weapon inside American airspace required permission that did not previously exist.\nThe distinction the company draws is between prototype purchases, which have happened before, and a production contract, which it says has not.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T09:26:48Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "NTg=",
+      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o",
+      "title": "BBC travels inside occupied Lebanon as officials say Israel is expanding positions",
+      "summary": "The drive on the highway by the Mediterranean in southern Lebanon, near the border with Israel, is scenic and, these days, desolate.\nCrops lie abandoned and buildings destroyed by Israeli air strikes, too many to count, are in ruins.\nA few minutes further south, around a dozen Israeli flags indicate the start of occupied territory.\nIt has seen three invasions by the Israeli military in wars against the group in the last two decades alone.\nThere, as it did in Gaza, Israel has flattened entire villages, and air strikes and demolitions have continued even after a ceasefire was announced in June.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-09-02T05:03:09Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTk=",
+      "url": "https://www.yahoo.com/news/world/articles/exclusive-nepal-rebuild-early-warning-133616693.html",
+      "title": "Exclusive-Nepal to rebuild early-warning system on China border after deadly flood, sources say",
+      "summary": "By Sarita Chaganti SinghSept 2 (Reuters) - Nepal plans to rebuild an early-warning system for landslides on part of its border with China, installing seismic sensors, cameras and a satellite link, two Nepali government sources told Reuters, a week after a glacial flood killed more \u200cthan 1,000.\n\"The landscape is adjusting after the mega \u2060event, so [it] could trigger a few more landslides,\" one of the sources said.\nSuch a blackout occurred when last week's flood knocked out at least four gauging stations near the border.\nAdvertisement AdvertisementLast week's flood struck a border crossing at 8:32 a.m., but \u200ba public alert was not issued until 9:13 a.m., \u200cReuters has reported.\n(Reporting by Sarita Chaganti Singh in New Delhi; \u200bWriting Ariba Shahid; Editing by Rick Noack, Gareth Jones and Christian Schmollinger)",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-09-03T03:31:44Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NjA=",
+      "url": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties",
+      "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
+      "summary": "New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.\nBritish Prime Minister Andy Burnham and French President Emmanuel Macron have held talks about migration, the war in Ukraine and trade during an official meeting in London.\n\u201cThe progress we have seen this summer shows what can be achieved when the UK and France work together,\u201d Burnham said.\nThe British prime minister is also seeking closer post-Brexit cooperation with Europe in a bid to boost sluggish domestic growth.\n\u201cThe Prime Minister set out how the Made in Europe agenda could pose significant challenges for UK industry,\u201d a UK government spokesperson said.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T21:40:42Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjE=",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5953128/ice-detention-death-lianyong-wei",
+      "title": "ICE detainee dies just hours after he was admitted into detention",
+      "summary": "ICE detainee dies just hours after he was admitted into detentiontoggle caption Heather Diehl/Getty ImagesA Chinese immigrant was found dead just hours after being booked into immigration detention in a U.S. territory, according to U.S. Immigration and Customs Enforcement.\nInstead, they offered the following standard language: \"Comprehensive medical care is provided from the moment individuals arrive and throughout the entirety of their stay.\"\nDHS said Chajon-Raxon was released from ICE custody on July 22.\nThat same day, ICE released him from custody.\n\"Per ICE policy, when an individual is no longer in ICE custody, then ICE will no longer be responsible for monitoring or reviewing deaths that may occur,\" DHS officials told NPR.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-09-02T09:00:00Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NjI=",
+      "url": "https://thenextweb.com/news/indonesia-local-currency-stablecoins-asia-corridor",
+      "title": "From One Corridor to Many: Indonesia as the Blueprint for Asia\u2019s Stablecoin Future",
+      "summary": "The Next Phase of Stablecoin AdoptionDollar-backed stablecoins demonstrated that fiat-denominated value can move globally, settle around the clock, and integrate with programmable financial infrastructure.\nWhy Indonesia Is a Natural Starting PointIndonesia is one of Asia\u2019s largest digital economies, with expanding regional trade, widespread adoption of digital financial services, and an active fintech ecosystem.\nRatio is working with these participants to expand the IDR corridor and prepare infrastructure for institutional adoption.\nThe Full IDR Settlement FlowThrough our work with IDRX and Nobu Bank, the IDR corridor is now live and integrated.\nFrom there, Asia\u2019s stablecoin network can grow one corridor at a time: locally regulated, institutionally connected, and built on interoperable infrastructure.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-09-03T14:00:42Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "NjM=",
+      "url": "https://www.aljazeera.com/news/2026/9/3/spains-pm-says-no-evidence-morocco-planned-ceuta-border-rush",
+      "title": "Spain\u2019s PM says no evidence Morocco planned Ceuta border rush",
+      "summary": "Spanish Prime Minister Pedro Sanchez says Madrid has found no evidence that Morocco orchestrated a surge of 70,000 people who crossed into its North African enclave of Ceuta a month ago.\nSpeaking in parliament on Thursday, Sanchez responded to claims in a police report that emerged this week and suggested the border rush into Ceuta in late July was planned to overwhelm border controls.\n\u201cI can assure you that no institution \u2013 not the diplomatic service nor the European Commission nor any international body \u2013 has provided the Spanish government with any solid evidence that Morocco planned or carried out the incident.\nIn late July, about 72,000 people swam and rushed into Ceuta, a Spanish enclave with a population of 84,000 that borders Morocco.\nSanchez has defended Morocco during the crisis, highlighting Rabat\u2019s cooperation in returning most of the migrants within 48 hours.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-09-03T17:32:26Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjQ=",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "summary": "Ukraine's president has told airlines that Russian airspace will be \"effectively closing\" as his country escalates its drone strikes.\n\"We want to warn every airline that uses Russian airspace, every insurer, everyone who still uses key Russian airports: the Russian sky is becoming completely dangerous,\" Volodymyr Zelensky said.\nZelensky directed the warning to airlines continuing to operate flights to Russian airports, especially in major cities like St Petersburg and Moscow.\nIn a statement on X, Foreign Minister Andrii Sybiha said that Ukraine had officially notified the International Civil Aviation Organization that Russian airspace was not safe for civilian aviation.\nSeveral airlines that fly through Russia told the BBC that they were carefully monitoring the situation.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-09-02T04:23:23Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NjU=",
+      "url": "https://uk.news.yahoo.com/taiwan-condemns-chinas-wolf-warrior-031408973.html",
+      "title": "Taiwan condemns China's 'wolf warrior' behaviour at Pacific forum",
+      "summary": "By Ben Blanchard and Yi-Chin LeeTAIPEI, Sept 4 (Reuters) - Taiwan Foreign Minister Lin Chia-lung condemned China's \"wolf warrior\" diplomacy at this week's forum of Pacific Islands leaders, and said Chinese officials \u200chad also engaged in espionage at the event.\nAdvertisement AdvertisementAdvertisement AdvertisementSummit host Palau is one of three Pacific island countries with official diplomatic ties to Chinese-claimed Taiwan.\n\"This \u200ckind of Chinese 'wolf warrior' diplomacy actually easily \u2060undermines Pacific unity, and it is quite off-putting and disliked,\" he said, adding that Taiwan and China were both invited guests.\n\"Wolf warrior\" diplomacy, which takes its name from \u2060a popular Chinese movie franchise, refers to strong remarks by Chinese officials in public, marking a departure from the restraint generally seen previously.\n\"We saw that at almost every venue or event, there was Chinese presence \u2014 essentially engaging in a form of espionage,\" he said.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-09-04T03:14:08Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NjY=",
+      "url": "https://www.yahoo.com/news/politics/articles/putin-cites-chance-peace-deal-095255693.html",
+      "title": "Putin cites chance of peace deal, Zelenskiy says US negotiators to visit both countries",
+      "summary": "Putin, speaking at an economic forum in Russia's far east, said a number of countries including the U.S. \u200cand China were ready to support a peace settlement.\nAdvertisement AdvertisementAdvertisement Advertisement\"Ultimately, however, the problem must be resolved by the countries involved in the conflict \u2014 Russia and Ukraine,\" he said.\nIn Kyiv, Zelenskiy said in his nightly video address that preliminary dates had been set for a visit by U.S. negotiators.\n\"We expect to see representatives of the U.S. president here in Kyiv,\" Zelenskiy said.\nPUTIN: CONTACTS MOSTLY TAKE PLACE VIA INTELLIGENCE AGENCIESPutin said contacts with Ukraine were still taking place.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T12:25:42Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "Njc=",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "summary": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil dealtoggle caption FEDERICO PARRA/AFP via Getty ImagesStay up to date with our Up First newsletter, sent every weekday morning.\nThis comes in the wake of Friday's announcement that Venezuela will give the U.S. access to 65 billion barrels of oil.\nThe company will expand its operations in the Orinoco Belt, where much of Venezuela's oil reserves lie.\nThe catalyst for improving the life conditions of Americans, our hemisphere, and everyone in the world, is to massively expand energy production around the world.\"\nIt also comes as President Trump has encouraged American oil companies to invest in Venezuela's oil operations .",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-09-02T14:08:03Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "Njg=",
+      "url": "https://abcnews.com/International/zelenskyy-foreign-airlines-suspend-russia-flights-after-ukrainian/story?id=136164969",
+      "title": "Zelenskyy says foreign airlines suspend Russia flights after Ukrainian warning",
+      "summary": "This file photo shows planes parked at Sheremetyevo International Airport outside Moscow, Russia, on July 19, 2026.\nThis file photo shows planes parked at Sheremetyevo International Airport outside Moscow, Russia, on July 19, 2026.\nThis file photo shows planes parked at Sheremetyevo International Airport outside Moscow, Russia, on July 19, 2026.\n\"We're getting word that the first airlines have started to suspend flights to Russian airports following our announcement about the drone hazard that objectively exists in Russian airspace,\" Zelenskyy said in a post to X.\n\"Ukraine has already officially informed international organizations and our partners about the real situation in Russian airspace,\" Zelenskyy added.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T08:29:48Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Njk=",
+      "url": "https://uk.news.yahoo.com/eu-eu-states-summon-russian-081939401.html",
+      "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases",
+      "summary": "Germany said it would close Russia's consulate general in Bonn and terminate its agreement with \u200bthe \u200bRussian House cultural centre in Berlin.\nTWO SUSPECTS IDENTIFIED, MEDIA OUTLETS SAYDetails of two Leipzig attack suspects were \u200breported by German media outlets Sueddeutsche Zeitung, NDR and WDR.\nInvestigators have identified \u200cthe logistics coordinator and instructor behind the attack, the outlets reported.\nTwo days before the failed drone attack, the suspect left Germany by plane, they reported.\nGERMANY PROBES SABOTAGE CASESAs the EU prepared \u200cits response, Germany was grappling with two new suspected sabotage cases within 24 hours.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T12:05:23Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NzA=",
+      "url": "https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world",
+      "title": "Trumpism is changing world order",
+      "summary": "This US presidency is rewriting the rules of global governance and ushering the world into a new era.\nCombining coercive leverage with strategic media manipulation, this shift has heralded a new foreign policy phenomenon: Trumpism.\nBy combining assertions of national sovereignty with an anti-establishment tone, Trumpism systematically challenges the core assumptions that had underpinned global governance for generations.\nInstitutional disruption and systemic paralysisThe systemic consequences of Trumpism have reverberated across every layer of the global governance hierarchy.\nThis volatile leadership style has exposed deep vulnerabilities within global governance, accelerating the fragmentation of the post-Cold War liberal international order.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-09-02T14:15:17Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NzE=",
+      "url": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-claims-us-201737023.html",
+      "title": "FACT FOCUS: Trump claims US banks cannot operate in Canada. That's not true",
+      "summary": "TRUMP: \"They have their banks here, Bank of Canada, all of their big banks \u2014 big, beautiful banks.\nThere are eight Canadian banks operating in the U.S., according to the Federal Reserve's most recent data.\nAdvertisement AdvertisementThere are three categories of banks in Canada \u2014 Schedule I, Schedule II and Schedule III.\nForeign entities can choose to operate as either Schedule II or Schedule III banks.\nSchedule II banks are foreign-owned subsidiaries incorporated in Canada that fall under essentially the same banking framework as banks owned domestically.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T20:17:37Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NzI=",
+      "url": "https://thenextweb.com/news/doj-statement-of-interest-openai-copyright-fair-use-eu-ai-act-recital-106-tdm-opt-out",
+      "title": "Justice Department sides with OpenAI in publishers\u2019 copyright fight",
+      "summary": "The Justice Department filed a statement of interest backing OpenAI\u2019s fair use defence in the consolidated publisher copyright cases, arguing that licensing costs would threaten national security.\nThe US government has told a New York court that training AI models on publishers\u2019 work is fair use.\nThe statement of interest also argues that licensing costs would hand the largest technology companies an oligopoly on model training.\nArticle 53 requires every general-purpose model provider to operate a policy identifying and respecting those reservations.\nNo provider should be able to gain a competitive advantage in the Union market by applying lower copyright standards than Europe\u2019s.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-09-02T22:10:56Z",
+      "source": "The Next Web"
+    }
+  },
+  {
+    "article": {
+      "id": "NzM=",
+      "url": "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis",
+      "title": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
+      "summary": "Share Asia looks to store oil, gas closer to home after Strait of Hormuz crisis on social mediaAsia suffered some of the worst economic fallout when the United States and Israel went to war with Iran six months ago.\nIn the months since, Asia has begun seeking a more permanent solution to the biggest energy disruption in history \u2013 keeping the oil and gas it needs much closer to home.\nThough highly dependent on Middle Eastern energy, Japan has weathered the crisis better than many other economies because it holds one of the world\u2019s largest strategic oil reserves.\nIn Bangkok and Manila, the war has revived a push to establish comprehensive state-held strategic oil reserves.\n\u201cWhatever internal uncertainty there might have been around the costs or effort associated with building up potentially superfluous national energy reserves will certainly have evaporated,\u201d he said.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-09-03T04:26:27Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NzQ=",
+      "url": "https://www.channelnewsasia.com/singapore/tommy-koh-retire-mfa-asean-6360556",
+      "title": "'Singapore's perpetual karma is to be relevant': Tommy Koh looks back on 55 years in global diplomacy",
+      "summary": "\u201cWe had no foreign service when I joined.\nWhen I came back from the UN in 1971, we still had no foreign service,\u201d said Prof Koh, who was Singapore\u2019s permanent representative to the United Nations from 1968 to 1971.\nIn an interview with CNA at the National University of Singapore's Centre for International Law, where he is board chairman, Prof Koh recounted his exchange with Mr Lee.\nYou join the civil service, admin service, you have many opportunities,\u2019\u201d recalled Prof Koh.\nBut every subsequent minister brought something to the table, and I learnt from every one of them,\u201d said Prof Koh.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-09-03T22:00:00Z",
+      "source": "CNA"
+    }
+  }
+]
