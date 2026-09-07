@@ -1,16 +1,16 @@
 [
   {
-    "id": "Mzc=",
-    "url": "https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes",
-    "title": "Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'",
-    "summary": "An anonymous reader quotes a report from The Guardian:",
+    "id": "Ng==",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5948016/diesel-price-record-high",
+    "title": "The price of diesel hits a record high",
+    "summary": "The price of diesel hits a record hightoggle caption Brandon Bell/Getty Images North AmericaStay up to date with our Up First newsletter, sent every weekday morning.\nThe price of diesel has reached an all-time high, according to AAA.\nA gallon of diesel cost $3.76 on the eve of the Iran war.\nSome refineries in Asia have also limited their diesel exports, which has further constrained the global diesel supply.\nThere are seasonal factors that could keep the cost of diesel high for months to come.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2026-09-03T03:30:00Z",
-    "source": "Slashdot.org"
+    "publishedAt": "2026-09-04T07:44:21Z",
+    "source": "NPR"
   },
   {
-    "id": "Mzg=",
+    "id": "MzM=",
     "url": "https://www.bbc.com/news/articles/cy0zx368prno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
     "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
     "summary": "History has already shown the Trishuli River basin to be volatile, Thakkar says, pointing to how it had been hit by floods in the last two years.\nIn September 2024, an unprecedented cloudburst over the Trishuli and Bhote Koshi river basins sparked flash floods in Rasuwa, Nuwakot and Dhading - settlements by the river that are also among the hardest hit from last week's floods.",
@@ -20,7 +20,7 @@
     "source": "BBC News"
   },
   {
-    "id": "NDA=",
+    "id": "MzQ=",
     "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno",
     "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
     "summary": "Hydropower continues to dominate large-scale investments in Nepal, and some climate activists say the funding has continued despite known disaster risks.\nThe Upper Trishuli-1 project, which has been all but destroyed after last week's floods, was one of Nepal's largest foreign direct investment ventures, valued at about $647m.\nThe Upper Trishuli 3A, which has also been severely hit, was funded by China's Export-Import Bank.\nHistory has already shown the Trishuli River basin to be volatile, Thakkar says, pointing to how it had been hit by floods in the last two years.\n\"Clearly we will need to improve in the way we build and operate our hydropower plants,\" he adds.",
@@ -30,7 +30,7 @@
     "source": "BBC News"
   },
   {
-    "id": "NDE=",
+    "id": "MzY=",
     "url": "https://www.bbc.com/news/articles/ce3rql5rzx4o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
     "title": "Renewable energy in NI reaches record level",
     "summary": "There is also a high rate of dispatch down in Northern Ireland \u2013 when turbines are switched off because there is not enough demand for the power being generated.",
@@ -40,7 +40,17 @@
     "source": "BBC News"
   },
   {
-    "id": "NDI=",
+    "id": "Mzc=",
+    "url": "https://www.bbc.co.uk/news/videos/ced7yj7564zo",
+    "title": "Watch: Examining US official's claim that data centres 'don't use water'",
+    "summary": "US Commerce Secretary Howard Lutnick suggested that data centres don't use water.\nAccording to the International Energy Agency, a data centre in the United States uses around 2 million litres per day on average.\nThey have become a controversial topic for communities across the US in the run up to November's midterm elections.\nProduced by Aisha Sembhi.\nGraphics by Mesut Ersoz.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-09-04T20:06:56Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "Mzg=",
     "url": "https://www.yahoo.com/news/world/articles/malaysias-sarawak-declares-emergency-serian-080130767.html",
     "title": "Malaysia declares emergency in Serian district in Sarawak state due to haze",
     "summary": "KUALA LUMPUR, Sept 4 (Reuters) - Malaysia declared an emergency in the district of Serian, in Sarawak state, after thick haze caused \u200cby forest fires in neighbouring Indonesia pushed air pollution up to \u200chazardous levels on Friday.\nSarawak, on Borneo, has been heavily affected by fires on the Indonesian \u200bside of the island, with haze forcing school closures in some parts of the state.\n\"Sultan Ibrahim has consented to the declaration of a state of emergency throughout \u200bthe \u200bSerian district, Sarawak, following haze conditions that \u200bhave reached a level of \u200cair pollution hazardous to public health and safety,\" the statement said.\nSarawak disaster management committee chairman Douglas Uggah Embas had earlier told a news conference the state had requested an emergency declaration after API readings breached 500.\nThe emergency would be confined to the Serian district, covering an area of about \u200c20 kilometres (12.4 miles) radius, with essential services \u200bsuch as supermarkets, petrol stations, and banks expected \u200bto continue operating, Douglas \u200bsaid.",
@@ -48,5 +58,45 @@
     "bias": "left",
     "publishedAt": "2026-09-04T09:26:55Z",
     "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://www.nature.com/articles/s41467-026-77364-9.pdf",
+    "title": "Toward efficient green methanol from biomass and renewable power",
+    "summary": "You do not have permission under this licence to share adapted material derived from this article or parts of it.\nThe images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material.\nIf material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.\nTo view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.\nReprints and permissions",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-09-04T00:00:00Z",
+    "source": "Nature.com"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://www.bbc.co.uk/news/articles/cj4j5zn5n75o",
+    "title": "Richard Hammond to find a way to share Welsh mansion with bats",
+    "summary": "Former Top Gear star Richard Hammond has said he will \"find a way\" of sharing his new \u00a32m home with rare bats that have paused his renovation plans.\nThe 56-year-old bought the 19th Century Georgian mansion in Llanwenarth, near Abergavenny, in November 2025.\n\"If I have to share it with the bats, I'll find a way of sharing it with the bats,\" Hammond told BBC Wales.\n\"You don't move somewhere as beautiful as this and expect to stamp out everything that already lives there...\nThe survey ahead of the planned renovation work at the property identified a legal requirement to apply for a protected species development licence in order for it to continue.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-09-05T11:47:51Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o",
+    "title": "Renewable energy in NI reaches record level",
+    "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.\nThe Economy Minister Caoimhe Archibald said the increasing level of renewable energy would help Northern Ireland \"move away from price volatility and towards more stable and fairer prices\" .\nSolar energy provided 6%, landfill gas provided 1%, and hydro/tidal generation provided 1%.\nThat is to protect the grid which has a limit on the amount of renewable energy it can carry due to fluctuations.\nBut moving to more renewable energy is a critical part of the journey to net zero and the transition from fossil fuels.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-09-04T05:11:45Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NDQ=",
+    "url": "https://cleantechnica.com/2026/09/05/ifa-berlin-recap-part-1-diverse-approaches-to-sustainability/",
+    "title": "IFA Berlin Recap Part 1: Diverse Approaches To Sustainability",
+    "summary": "The SU7, SU7 Max and SU7 Ultra were on the show floor, with a YU7 SUV outside the event.\nAs many customers are concerned with safety, Jackery introduced the FortiShield Safety System at IFA.\nThe resulting increased usage of battery storage also increases the potential benefit to both the end customer and the environment.\nIn terms of portable battery storage, the Explorer 2000 Plus V2 increases power output while becoming 12.6% smaller and 22.1% lighter.\nFor battery storage integrated into the living space, Jackery had the sleek FridgeGuard on display, which we have covered before.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-09-05T11:08:03Z",
+    "source": "CleanTechnica"
   }
 ]
