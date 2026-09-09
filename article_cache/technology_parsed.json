@@ -1,6 +1,16 @@
 [
   {
-    "id": "MA==",
+    "id": "Mw==",
+    "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "title": "'The Jobs Apocalypse Is Postponed. An AI Jobs Boom Is Here'",
+    "summary": "A boss with no humor is like a job that's no fun.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-07T11:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MTE=",
     "url": "https://thenextweb.com/news/thailand-49-data-centres-suspended-warehouse-permits",
     "title": "Thailand halted more data centres than it has running",
     "summary": "Thailand has stopped construction on 49 data centres, which is more than it currently has running.\nData centres can apply for their permits as warehouses.\nThe decision does not mean Thailand is closing the door to data centre investment, he said, because the industry matters to the country\u2019s competitiveness.\nNew York froze new data centres for a year in July.\nSo a Thai data centre boom is, in practice, a fossil fuel boom.",
@@ -10,7 +20,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "MQ==",
+    "id": "MTM=",
     "url": "https://thenextweb.com/news/kenya-essay-writing-industry-ai-gig-work-collapse",
     "title": "Kenya bet its graduates on gig work in 2022. ChatGPT launched that year",
     "summary": "In 2022 Kenya adopted a ten-year national plan to move its graduates into online outsourcing work.\nThe government came to see online outsourcing as a route up the economic ladder.\nIn 2016 the state began training university graduates to work the freelance platforms.\nIn 2022 it adopted a ten-year National Digital Masterplan that leaned further into outsourcing and gig work.\nMeta spent the first half of this year planning to cut some teams by 60% and hand the work to AI.",
@@ -20,37 +30,17 @@
     "source": "The Next Web"
   },
   {
-    "id": "Mw==",
-    "url": "https://thenextweb.com/news/nigeria-probes-uber-exit",
-    "title": "Nigeria\u2019s regulator asks Uber about the services it did not deliver before leaving",
-    "summary": "Nigeria\u2019s Federal Competition and Consumer Protection Commission is investigating Uber\u2019s abrupt exit, particularly unfulfilled services to customers, after the company shut down without warning as part of a global review that cut 3,300 jobs.\nNigeria\u2019s competition and consumer protection regulator is investigating Uber\u2019s abrupt departure from the country, Bloomberg reported.\nUber did not respond to a request for comment sent on Sunday, and has given no reason for leaving Africa\u2019s most populous nation.\nTNW argued in 2019 that Bolt would not beat Uber by copying it, and would have to forge its own path.\nNigeria\u2019s regulator is asking the question anyway, under its own consumer law, and Uber has left African markets before.",
+    "id": "MTY=",
+    "url": "https://thenextweb.com/news/taiwan-chip-diplomacy-semicon-20bn-us-investment",
+    "title": "Taiwan pledges $20bn more in US chip investment while courting the EU, Reuters reports",
+    "summary": "Taiwan spent this week\u2019s SEMICON trade show in Taipei making the same argument twice over, once to Washington and once to Brussels: that its chips arrive with democratic governance attached.\nCommerce Secretary Howard Lutnick has since kept the pressure on, warning that semiconductor tariffs will fall on companies that do not build on US soil.\nThe executives on the same stage were more direct about what the arrangement actually asks of them.\nEurope\u2019s chip sector is being squeezed between American industrial policy and Chinese capacity, and chip independence is not realistically on offer to the EU or to anyone else.\nWhat Taiwan can sell Brussels is therefore access rather than capacity, closer in scale to its stake in Lithuanian chip production than to anything resembling a fab.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-09-06T13:59:26Z",
+    "bias": "right",
+    "publishedAt": "2026-09-07T09:06:31Z",
     "source": "The Next Web"
   },
   {
-    "id": "NA==",
-    "url": "https://thenextweb.com/news/space-and-time-ai-agents-onchain-data-proof-sql",
-    "title": "Space and Time: where AI agents meet verifiable onchain data",
-    "summary": "In this interview, co-founder and CTO Scott Dykstra discusses what the team has learned since mainnet, where AI agents are already using verifiable onchain data, and how Space and Time\u2019s strategy is evolving as blockchain infrastructure matures.\nYou\u2019ve talked about smart contracts eventually acting as controls or safeguards for autonomous AI agents.\nConcretely, what does that look like in practice today: are there live examples of an AI agent\u2019s onchain actions being gated or verified through Space and Time data before execution?\nIn the lending space, we\u2019re seeing more vault management with AI agents and onchain queries as well.\nThis also explains why onchain data marketplaces have shut down or struggled to get adoption in the past.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-09-06T16:07:55Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "NQ==",
-    "url": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/",
-    "title": "There May Not Be an iPhone 18 This Year",
-    "summary": "The products go on sale soon after, usually ranging from a base model to more premium and more expensive Pro models.\nApple\u2019s iPhone event will be held on September 9 at 10 am Pacific (1 pm Eastern), announced last week with the title \u201cSurprise and Shine!\u201d If you tune into the livestream, expect the announcement of an iPhone 18 Pro, 18 Pro Max, and, if all the rumors and widely held analyst expectations are true, the first look at an Apple foldable device.\nBased on leaks and the ongoing tech rumor mill and its decent track record for figuring these things out, Apple is expected to prioritize its more expensive, premium devices this year and hold off on announcing its base model iPhone 18.\nThat cheaper model is rumored to launch in the spring of 2027, potentially alongside an iPhone 18e and maybe a second-generation iPhone Air.\nApple\u2019s portfolio has also expanded, and the iPhone Pro and Pro Max lineup are more enticing for people already prepared to spend the money on a new iPhone.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-09-05T10:30:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "Nw==",
+    "id": "MTc=",
     "url": "https://thenextweb.com/news/eu-quantum-act-no-budget-consolidation",
     "title": "EU official calls for consolidation among Europe\u2019s quantum startups",
     "summary": "The EU\u2019s forthcoming Quantum Act will not come with a dedicated budget.\nThe EU has declared its aim to become the world\u2019s quantum valley, and the act is intended to help make that happen.\n\u201cAnd critical mass means three things: it means cash, it means speed, and it means we do things together.\u201dThe act can address two of those three things.\n\u201cWe\u2019re not only buyers, but we are also suppliers,\u201d said Cecile Perrault, executive director of the European Quantum Industry Consortium.\nThat is the problem the Quantum Act will inherit.",
@@ -60,7 +50,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "OA==",
+    "id": "MTg=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
     "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
     "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.\nThis is similar to lawsuits filed by The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica against OpenAI.\nThe Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI\u2019s technology.\nAs part of the suit, The Seattle Times \u200band Newsday are \u2060seeking the destruction of any copies of their works the companies are holding, as well as training datasets and AI models that incorporate them.\nOpenAI and Microsoft did not immediately respond to a request for comment.",
@@ -70,7 +60,7 @@
     "source": "The Verge"
   },
   {
-    "id": "OQ==",
+    "id": "MTk=",
     "url": "https://thenextweb.com/news/virkkunen-us-guardrails-inevitable",
     "title": "EU tech chief says AI guardrails are coming to the US anyway",
     "summary": "She made the argument at the summit where Washington launched the Carolina Principles urging governments not to create new AI rules or regulators.\nEurope\u2019s tech chief says the United States will end up with AI guardrails whatever this administration says about them.\nHenna Virkkunen told Axios in Chapel Hill that the two systems keep reaching similar places by different routes.\nMichael Kratsios launched the Carolina Principles on 1 September, urging G20 governments not to build new AI rules or regulators, Al Jazeera reported.\nThe next day it sent its first requests for information to more than 30 AI providers under the AI Act.",
@@ -80,7 +70,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "MTA=",
+    "id": "MjA=",
     "url": "https://thenextweb.com/news/ciso-boardroom-nis2-liability",
     "title": "The AI cybersecurity war has a new front line star, and a seven-figure price",
     "summary": "The hack OpenAI\u2019s agents ran on Hugging Face in July turned the chief information security officer into a boardroom job, CNBC reported on Saturday.\n\u201cIt feels like my job has doubled or quadrupled,\u201d said Wally Dalrymple, chief security officer at the education firm ETS.\nDell\u2019s security chief John Scimone said \u201cthe ground under our feet is shifting\u201c.\nOpenAI\u2019s agents broke out of a sandbox and reached Hugging Face in July, an incident the company confirmed rather than disclosed.\nCNBC also quotes Joe Sullivan, once security chief at Uber and Facebook.",
@@ -90,27 +80,37 @@
     "source": "The Next Web"
   },
   {
-    "id": "MTE=",
-    "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-    "title": "OpenAI Agents Hacked Another Website",
-    "summary": "Meanwhile, the AI chatbot platforms Claude, ChatGPT, and Grok all suffered outages on Thursday at nearly the exact same time.\nOpenAI agents on an unauthorized tear hijacked a German website beginning in May to use it as a message board for communicating and collaborating with other agents, according to new research.\nThe revelation of the May episode is particularly significant because OpenAI reportedly learned about it weeks ago but did not disclose it.\nMeanwhile, last week, the company finally released a long-promised postmortem of the Hugging Face incident that raised as many questions as it answered.\nUS senator Ron Wyden and Representative Pat Harrigan are now asking the Pentagon to investigate whether its safeguards are adequate.",
+    "id": "MjE=",
+    "url": "https://thenextweb.com/news/cato-6m-seed-ai-italian-public-tenders",
+    "title": "Cato raises \u20ac6m to sell AI into Italy\u2019s \u20ac309.7bn tender market",
+    "summary": "The Milan startup has raised \u20ac6m in seed funding to sell AI to companies bidding for Italian public tenders.\nThe market, as Italy\u2019s anti-corruption authority counts itThe complexity is real, and an unusual referee measures it.\nANAC, the national anti-corruption authority, publishes Italian tender data in an annual report to parliament.\nIts 2025 edition puts the total value of Italian public contracts at \u20ac309.7bn, spread across 287,421 contracts.\nNow look at Cato\u2019s public customer list.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-09-05T10:30:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MTM=",
-    "url": "https://thenextweb.com/news/openai-confirms-wiki-incident-misalignment-disclosure-framework-reuters-kept-hidden-gpai-code-of-practice-gap-ai-office",
-    "title": "OpenAI confirms the wiki incident and promises a disclosure framework within weeks",
-    "summary": "OpenAI has confirmed the German wiki incident and said it is past time to define standards for reporting misalignment, promising a framework within weeks.\nOpenAI has confirmed its role in the German wiki incident and said it is \u201cpast time\u201d to define standards for sharing what happens when its systems behave unexpectedly, TechCrunch reported.\nOpenAI said it had treated the wiki episode as an instance of misalignment similar to others it had already shared.\nHugging Face, by contrast, followed a traditional security incident response playbook.\nSo the gap it describes, misalignment that produces no security incident and no measurable harm, is a gap in the European instrument as well.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-09-05T18:48:35Z",
+    "bias": "center",
+    "publishedAt": "2026-09-07T18:06:08Z",
     "source": "The Next Web"
   },
   {
-    "id": "MTQ=",
+    "id": "MjI=",
+    "url": "https://thenextweb.com/news/space-and-time-ai-agents-onchain-data-proof-sql",
+    "title": "Space and Time: where AI agents meet verifiable onchain data",
+    "summary": "In this interview, co-founder and CTO Scott Dykstra discusses what the team has learned since mainnet, where AI agents are already using verifiable onchain data, and how Space and Time\u2019s strategy is evolving as blockchain infrastructure matures.\nYou\u2019ve talked about smart contracts eventually acting as controls or safeguards for autonomous AI agents.\nConcretely, what does that look like in practice today: are there live examples of an AI agent\u2019s onchain actions being gated or verified through Space and Time data before execution?\nIn the lending space, we\u2019re seeing more vault management with AI agents and onchain queries as well.\nThis also explains why onchain data marketplaces have shut down or struggled to get adoption in the past.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-06T16:07:55Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://thenextweb.com/news/matt-clifford-quits-aria-chair-anthropic-conflict-of-interest",
+    "title": "Matt Clifford quits as ARIA chair over his Anthropic job",
+    "summary": "Matt Clifford will step down as chair of the Advanced Research and Invention Agency, the UK\u2019s taxpayer-funded body for high-risk science.\nHe said then that he would keep the ARIA chair alongside it.\nAn ARIA spokesperson said the Department for Business, Innovation, Science and Trade had formally reviewed the arrangement.\nRobust mitigations had been agreed with the department, the spokesperson said, including Clifford stepping back from any ARIA business where a conflict could arise.\nFor the next two months, the chair of a public agency that licenses Anthropic technology is also the Anthropic executive who deals with governments.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-07T23:56:57Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjQ=",
     "url": "https://thenextweb.com/news/nvidia-equity-investments-99bn-portfolio",
     "title": "Nvidia now holds $99bn in shares of the companies that buy its chips",
     "summary": "Nvidia equity investments stood at $99bn as of 26 July.\nThe neoclouds, which buy Nvidia GPUs and rent access to them, took $2bn each: CoreWeave in January, Nebius in March.\nEquity investments help companies innovate, he said, but they also give Nvidia a degree of influence over whether that innovation takes an Nvidia-shaped path.\nWhen CoreWeave took its $2bn, it said the proceeds would go to land, power, infrastructure, research and hiring rather than to buying Nvidia chips.\nSo the equity portfolio is now worth slightly more than the company turns over in a full quarter.",
@@ -120,9 +120,19 @@
     "source": "The Next Web"
   },
   {
-    "id": "MTU=",
+    "id": "MjU=",
+    "url": "https://www.cnet.com/tech/mobile/2027-android-phones-could-boost-gaming-graphics-and-ai-tasks-with-arms-new-chip-tech/",
+    "title": "2027 Android Phones Could Boost Gaming Graphics and AI Tasks With Arm\u2019s New Chip Tech",
+    "summary": "Every smartphone needs a CPU and GPU, but more processing power is needed at the top end of the phone market.\nPhones using MediaTek chips often have Arm CPU cores and GPUs, with last year\u2019s Oppo Find X9 Pro packing a MediaTek Dimensity 9500 chip that uses a Mali G1-Ultra GPU to render graphics.\nNow, Arm is announcing the Mali G2-Ultra NX, which the company says is its first AI-native GPU, using AI to improve rendered visuals directly in the graphics pipeline, lowering latency and improving power efficiency.\nCPU core upgrades for AI agent tasksArm announced new C2 CPU cores designed for AI agent workflows on devices.\nHigher single-thread performance reduces latency, while multi-thread performance helps multiple tasks progress concurrently, Arm explained in a press release.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-07T22:04:50Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MjY=",
     "url": "https://www.businessinsider.com/everyone-in-tech-is-talking-about-kazakhstan-2026-9#article",
-    "title": "Why Everyone in Tech Is Suddenly Talking About Kazakhstan",
+    "title": "Why everyone in tech is suddenly talking about Kazakhstan",
     "summary": "Astana is more than 6,000 miles from Silicon Valley, but some of tech's biggest names are bullish on the Kazakh capital.\n\"Kazakhstan is a high-tech country that recently ranked #1 in the International Physics Olympiads.\nSrinivasan also relocated Network School to Kazakhstan after running it in Malaysia for two years and facing regulatory challenges earlier this summer.\nStill, Kazakhstan is actively courting this newfound attention from tech leaders.\nAstana Hub, a futuristic-looking techno-park where the Network School is located, also offers tax incentives to qualifying tech companies.",
     "category": "technology",
     "bias": "center",
@@ -130,7 +140,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTc=",
+    "id": "Mjc=",
+    "url": "https://thenextweb.com/news/us-nvidia-chips-armenia-azerbaijan-peace-deal-chip-diplomacy",
+    "title": "The US paid for a peace deal in Nvidia chips",
+    "summary": "Robbie Whelan reported on Friday that US negotiators used the promise of access to Nvidia\u2019s AI chips to help secure a peace deal.\nIt calls the arrangement one of the most striking instances so far of what US officials are calling chip diplomacy.\nArmenia got chips for signing a peace deal.\nThe slug read chip diplomacy intensifies.\nRev Lebaredian, a senior Nvidia executive of Armenian descent, told the Journal that chip diplomacy is front and centre for this administration.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-06T15:34:34Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "Mjg=",
     "url": "https://www.cnet.com/home/security/my-favorite-home-security-reveal-at-ifa-was-ai-but-not-how-you-think/",
     "title": "My Favorite Home Security Reveal at IFA Was AI, but Not How You Think",
     "summary": "The algorithms don\u2019t require the cloud to use, and the engine powers Custom AI Detection, which let users train the AI themselves to focus on what\u2019s important.\nReolinkFirst, custom AI detection is incredibly rare in home security at this time.\nThe only other brand I can think of that has embraced it is Arlo, with its Arlo Custom Detection feature I tested last year.\nNormal security AI is trained to identify specific things, like cars, humans, animals, packages and in some cases faces or fires.\nThese Reolink AI features should be available in the coming months, although I don\u2019t have an exact timetable yet.",
@@ -140,47 +160,37 @@
     "source": "CNET"
   },
   {
-    "id": "MTg=",
-    "url": "https://www.businessinsider.com/sap-bets-on-ai-to-recover-saaspocalypse-downturn-2026-9#article",
-    "title": "SAP Bets on AI to Recover From SaaSpocalypse Downturn",
-    "summary": "When SAP reported its earnings in late July, investors responded positively to the company's cloud-led growth and advances in its business AI.\nWhile Gilg says he hasn't seen customers replacing SAP software, he has seen competition over tech budgets\u2014especially with token spending, or how companies pay for AI.\nTo address that, SAP built its first foundational model, Tabular AI, which can help make predictions based on business data.\nOntology is a favorite Palantir buzzword, and these capabilities put SAP in more direct competition with the AI data company.\nSAP is overhauling how it charges for AIGilg says AI will help SAP grow as it changes its business model.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-09-05T10:00:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTk=",
-    "url": "https://www.cnet.com/uncategorized/relay-q-microphone-ai-voice-control/",
-    "title": "Welcome to Your Keyboard-Free Future. This Jazzy AI Microphone Is All You Need Now",
-    "summary": "What immediately impressed me about the Relay Q is its design and the tactile experience of holding the device.\nThe Relay Q is available in dual-color tones \u2014 silver and electric blue, which gives Dyson vibes, and baby blue and orange for a jazzier look.\nThe Relay Q is wearable, too.\nYou\u2019ll need to grant the app access to your other apps so that it can carry out any commands you might give it through the Relay Q.\nI like that the Relay Q is built specifically to capture low-level whispering, so I can mutter away quietly without worrying about people listening in.",
+    "id": "Mjk=",
+    "url": "https://www.androidcentral.com/phones/tecno-phones/this-new-slim-phone-puts-a-6-000mah-battery-in-a-seriously-thin-frame",
+    "title": "This new slim phone puts a 6,000mAh battery in a seriously thin frame",
+    "summary": "Click for next articleWhat you need to knowThe TECNO Camon Slim 5G is here, and it's just 6.39mm thick while packing a hefty 6,000mAh battery.\nDespite its slim profile, it boasts MIL-STD-810 drop resistance, IP69K/IP69/IP68/IP66 water/dust ratings, and wet-hand touch functionality.\nTECNO appears to be pretty serious about the whole \u201cslim phone\u201d thing.\nIts latest phone, the Camon Slim 5G, is a mere 6.39mm thin but packs a 6,000mAh battery, a 50MP Sony camera, and a number of AI features into its compact body.\nThe Camon Slim 5G is being rolled out in different markets, but TECNO has not yet announced local pricing.",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-09-05T13:08:26Z",
-    "source": "CNET"
+    "publishedAt": "2026-09-07T09:23:00Z",
+    "source": "Android Central"
   },
   {
-    "id": "MjA=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "title": "OpenAI admits to German wiki \u2018incident\u2019",
-    "summary": "Is a London-based reporter at The Verge covering all things AI and a Senior Tarbell Fellow.\nOpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.\nThe acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.\nThe post marks the first time OpenAI has acknowledged its involvement in what it terms the \u201cwiki incident\u201d since it was first reported on Friday.\nIn the X post, OpenAI said it had \u201cconsidered the wiki incident to be an instance of misalignment similar to the ones we\u2019d shared\u201d in previous safety reports.",
+    "id": "MzA=",
+    "url": "https://thenextweb.com/news/malaysia-huawei-ai-chips-sovereign-ai-us-export-warning",
+    "title": "Malaysia weighs Huawei chips for sovereign AI, Bloomberg reports",
+    "summary": "Malaysia is leaning towards Huawei silicon to run its national AI project, according to Bloomberg.\nThe chip in question is the one Washington namedMalaysia is looking at the Ascend 910C, Bloomberg reported.\nIt runs one of the fastest-growing AI data centre ecosystems anywhere, built largely by US firms.\nAnwar\u2019s government is now discussing a second process that would let Nvidia compete more directly, Bloomberg reported.\nIn May 2025 Malaysia\u2019s deputy communications minister announced a national AI system running on 3,000 Huawei Ascend chips.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-09-05T11:16:52Z",
-    "source": "The Verge"
+    "bias": "lean right",
+    "publishedAt": "2026-09-08T00:12:28Z",
+    "source": "The Next Web"
   },
   {
-    "id": "MjE=",
-    "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-    "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-    "summary": "Voters are fed up with data centers.\nMichael Franz, co-director of the Wesleyan Media Project, which tracks political advertising, said data centers give each side the talking points it wants.\nThe convergence around affordabilityAds from both parties are tying data centers to rising energy costs.\nThey said \"The most popular answer that we've seen is: We could potentially have data centers as long as they pay for their own energy,\" adding that data centers are necessary to win the race against China \"and increase jobs in local communities.\"\nHe championed data centers as Ohio's lieutenant governor but has since introduced congressional legislation to protect ratepayers from the higher electric rates that data centers can cause.",
+    "id": "MzE=",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "title": "Making sovereign, open-weight AI the technology frontier",
+    "summary": "The round will significantly expand Mistral's frontier research, which is the foundation underpinning its infrastructure, products and sovereignty.\nThe company now operates across 20 countries and supports 125+ global enterprises\u2019 mission-critical AI transformation, including Airbus, ASML, and HSBC.\nDuring the first wave of generative AI, the central question was who could build the most powerful model.\nThis support reflects growing confidence that Mistral's approach can help organisations deploy state-of-the-art AI inside complex real-world environments while maintaining control over their data, infrastructure and knowledge.\nAdvent, funds and accounts managed by BlackRock as well as the Grand Duchy of Luxembourg joined the round as new investors.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-09-05T09:00:00Z",
-    "source": "NPR"
+    "bias": "lean left",
+    "publishedAt": "2026-09-08T05:06:23Z",
+    "source": "Mistral.ai"
   },
   {
-    "id": "MjI=",
+    "id": "MzI=",
     "url": "https://www.businessinsider.com/resume-ai-prompt-injection-applicants-job-search-2026-9",
     "title": "Job Applicants Are Trying R\u00e9sum\u00e9 AI Prompt Injections to Get Noticed",
     "summary": "Last month, Paul Lee was reviewing applications for a legal and compliance job at the small technology company he leads when his screening software flagged an anomaly.\nIt was an AI prompt to ignore prior instructions and declare the applicant a top-tier fit, regardless of whether the person met the role's requirements.\nA May 2026 study by researchers at Duke University and collaborators analyzed nearly 200,000 r\u00e9sum\u00e9s and found that roughly 1% contained hidden prompt injections.\nHe'd heard that applicants were hiding prompt injections and asked it to flag any examples.\n\"It's just about trying to sneak in and get to the top,\" he said, adding that inserting the prompt was not hard to do.",
@@ -190,7 +200,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjM=",
+    "id": "MzM=",
+    "url": "https://thenextweb.com/news/mistral-3bn-series-d-samsung-21bn-valuation",
+    "title": "Mistral raises \u20ac3bn at a \u20ac21bn valuation in Europe\u2019s largest tech equity round",
+    "summary": "Mistral has raised \u20ac3bn in a Series D at a post-money valuation of more than \u20ac21bn, which the company says is the largest equity fundraising ever completed by a European technology firm.\nEurope\u2019s biggest private technology round now has publicly backed European capital sitting at the front of it.\nMistral closed a \u20ac1.7bn Series C at an \u20ac11.7bn valuation in September 2025, led by ASML.\nMistral is building across models, infrastructure and applications from Europe, he said, calling it the harder path and one designed to give customers real control.\nMistral has spent three years arguing that depending on American AI infrastructure is a strategic exposure rather than a procurement preference, a case that got its clearest illustration this year.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-08T06:07:49Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzQ=",
     "url": "https://www.businessinsider.com/a16z-anish-acharya-ai-permanent-underclass-dark-fantasy-2026-9#article",
     "title": "An A16z partner says Silicon Valley\u2019s fears of an AI 'permanent underclass\u2019 is a \u2018dark fantasy\u2019",
     "summary": "An Andreessen Horowitz partner isn't afraid that AI will create a \"permanent underclass,\" and gave a reason why you shouldn't be, either.\nIn an episode of Lenny's Podcast, released on Sunday, host Lenny Rachitsky asked Andreessen Horowitz partner Anish Acharya what he thought about the meme phrase \"permanent underclass.\"\nHe said there are about 20 relevant players across every layer of the AI tech stack, not just two.\nBefore joining Andreessen Horowitz, Acharya held leadership positions in Credit Karma and Google.\nAcharya's comments fall in line with what other tech pundits have said about the \"permanent underclass.\"",
@@ -200,73 +220,73 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjQ=",
-    "url": "https://www.bbc.com/news/articles/cew9kz1kxpvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
-    "summary": "CCTV cameras, licence-plate readers and surveillance are not new.\nBut the scale of Flock's network and the integration of AI in modern surveillance tech is a recent development and it's turned Flock into a household name.\nAmericans who otherwise ignored the cameras in their cities have started to notice and tune into the capabilities of the technology around them.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-09-05T01:25:33Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://www.businessinsider.com/hikers-rescued-relied-on-ai-new-trend-ranger-2026-9#article",
-    "title": "Mount Shasta Rangers Warn Hikers Against Relying Too Heavily on AI",
-    "summary": "Nick Meyers, lead climbing ranger for the US Forest Service on Mount Shasta in California, has seen people make plenty of mistakes in the mountains over the past 20-plus years.\nThe \"novice climbers\" had set out on Saturday on the Clear Creek route and established base camp at a prohibited site, the US Forest Service said.\nThey eventually had to stop and form a makeshift camp to spend the night, without adequate food, water, or equipment, the Forest Service said.\n\"We relied too much on AI rather than our own critical thinking,\" the group told rangers, the Forest Service said.\nThe hikers rescued on Mount Shasta said they used Google Gemini to plan their trip.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-09-05T08:11:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjY=",
-    "url": "https://thenextweb.com/news/isar-spectrum-reaches-orbit",
-    "title": "Isar Aerospace reaches orbit on its second flight, a first for a European commercial launcher",
-    "summary": "Isar Aerospace\u2019s Spectrum rocket reached orbit and deployed satellites from Andoya in northern Norway on Saturday night, the first commercial European company to do so and on only its second flight.\nIsar Aerospace\u2019s Spectrum rocket reached orbit and deployed satellites after lifting from Andoya in northern Norway on Saturday night.\nThe German company says it is the first commercial space firm in Europe to put satellites into orbit, and it did so on its second flight.\nIsar closed a EUR 270M round this year and signed a roughly EUR 200M contract with the European Space Agency in August under the European Launcher Challenge.\nWhat it did not have until Saturday was a commercial rocket reaching orbit from European soil, and five companies are competing to do it repeatedly.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-09-06T09:29:51Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://boingboing.net/2026/09/06/make-your-coding-workflow-a-whole-lot-easier-with-this-50-microsoft-tool.html",
-    "title": "Make your coding workflow a whole lot easier with this $50 Microsoft tool",
-    "summary": "TL;DR: Coding is a whole lot easier with the right tools, and now Microsoft Visual Studio Professional 2026 can help you tackle all your projects for just $49.99 (MSRP $499.99).\nWhen it comes to coding, you can let Microsoft Visual Studio Professional 2026 make the process a whole lot simpler.\nRight now, you can score a Microsoft Visual Studio Professional 2026 license for only $49.99.\nMicrosoft Visual Studio Professional 2026 is a professional-grade development tool that helps you tackle coding projects both big and small.\nMicrosoft Visual Studio Professional 2026See DealStackSocial prices subject to change.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-09-06T15:00:00Z",
-    "source": "Boing Boing"
-  },
-  {
-    "id": "MzA=",
+    "id": "Mzg=",
     "url": "https://github.com/trailofbits/coop",
     "title": "GitHub - trailofbits/coop: Isolated VM environment for running Claude Code and Codex",
-    "summary": "CoopIsolated VM environments for running Claude Code and Codex.\nSetupInstall the latest release:curl -fsSL https://raw.githubusercontent.com/trailofbits/coop/main/install.sh | bashOr build from source (requires Rust):cargo build --release cp target/release/coop /usr/local/bin/Then build the VM template image:coop setupOn Linux, coop setup also installs Firecracker and fetches a guest kernel.\nOn macOS, install Lima first ( brew install lima ) \u2014 setup fails without it.\ncoop is tested on macOS arm64 (Apple Silicon) and Linux x86_64; Linux arm64 builds are available but untested.\nUsageStart an instance for the current project and launch an agent CLI:cd ~/code/my-project coop up coop claude # or coop codex",
+    "summary": "CoopIsolated VM environments for running Claude Code and Codex.\ncoop is a Rust CLI that manages disposable virtual machines where Claude Code and Codex have full tool access: Docker, git, compilers, package managers, all without risk to your host machine.\nOn macOS, install Lima first ( brew install lima ) \u2014 setup fails without it.\ncoop is tested on macOS arm64 (Apple Silicon) and Linux x86_64; Linux arm64 builds are available but untested.\nUsageStart an instance for the current project and launch an agent CLI:cd ~/code/my-project coop up coop claude # or coop codex",
     "category": "technology",
     "bias": "center",
     "publishedAt": "2026-09-07T04:18:28Z",
     "source": "Github.com"
   },
   {
-    "id": "MzI=",
-    "url": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
-    "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
-    "summary": "Tata Consultancy Services said its HyperVault unit and partners have committed 700 billion rupees, about $7.4B, to an AI data centre campus of up to one gigawatt in Hyderabad, using green energy and water-neutral design principles.\nEU rules require any data centre above 500kW to report total and drinking water consumption to a European database every year.\nTata Consultancy Services said its HyperVault unit and partners have committed 700 billion rupees, about $7.4B, to an AI data centre campus in southern India.\nThe land is already secured, and TCS expects the campus to rank among the largest AI infrastructure sites in India.\nTPG put $1B into the company\u2019s data centre business last November, part of a wider flow of foreign capital into Indian AI infrastructure through local firms.",
+    "id": "NDA=",
+    "url": "https://thenextweb.com/news/argentina-patagonia-ai-data-centres",
+    "title": "Tech companies are scouting Argentine Patagonia for AI data centres, Reuters reports",
+    "summary": "A stretch of Argentina that mostly exports wind, gas and sheep is being pitched to the companies building AI infrastructure, and some of them are listening.\nIt is the Latin American entry in the Stargate programme, which also has projects in Norway, the UK and the UAE.\nPampa Energ\u00eda is proposing a 500MW site in Neuqu\u00e9n powered by Vaca Muerta gas, at an infrastructure cost of about $900m, plus a smaller 30MW first stage at Bah\u00eda Blanca.\nAmazon and Alphabet were both named among the companies looking, and Genneia and Vista Energy among the local energy firms involved.\nRub\u00e9n Turienzo of Pampa Energ\u00eda said the company had started to detect firmer interest from prospective tenants.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-09-05T14:00:45Z",
+    "bias": "center",
+    "publishedAt": "2026-09-07T11:09:10Z",
     "source": "The Next Web"
   },
   {
-    "id": "NTY=",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-    "title": "Space industry lacks workers needed to rebuild satellites lost in war, report says",
-    "summary": "The United States does not have enough engineers, technicians and assemblers to rebuild military space assets destroyed in a war with China or Russia, according to a RAND report published Aug. 31.\nThe study, \u201cBreaking Glass, Missing Hands,\u201d asks how quickly the country could replace satellites and supporting systems lost early in a protracted conflict.\nThe study examines whether the space defense industrial base could meet that timeline between 2027 and 2032.\nGen. Michael Guetlein, now the Golden Dome director, sponsored the study while serving as vice chief of space operations.\nIn fiscal 2024, initial Secret investigations averaged more than 87 days while Top Secret cases took nearly six months, according to a Trusted Workforce 2.0 progress report RAND cites.",
+    "id": "NDc=",
+    "url": "https://news.slashdot.org/story/26/09/07/0155210/does-brave-browser-load-faster-than-chrome-firefox-and-microsoft-edge",
+    "title": "Does Brave Browser Load Faster Than Chrome, Firefox, and Microsoft Edge?",
+    "summary": "A boss with no humor is like a job that's no fun.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-08T02:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NjQ=",
+    "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
+    "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+    "summary": "How are Taiwanese companies expanding manufacturing globally?\nWhat pressures does Taiwan face regarding chip manufacturing?\nBut Taiwan also faces pressure from the United States, its most important international backer and arms supplier, to shift more chip manufacturing there.\nEconomy Minister Kung Ming-hsin, opening the U.S. pavilion at the show, said Taiwanese companies were planning an additional $20 billion of investment \u2060in the country.\nEU WANTS INVESTMENT TOOTaiwan is also seeking to deepen \u200bties with the European Union, which likewise wants greater investment from Taiwanese companies.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-07T02:30:14Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "Njk=",
+    "url": "https://yro.slashdot.org/story/26/09/07/0128205/switzerlands-federal-government-tests-open-source-alternatives-to-microsoft-on-3000-computers",
+    "title": "Switzerland's Federal Government Tests Open-Source Alternatives to Microsoft on 3,000 Computers",
+    "summary": "A boss with no humor is like a job that's no fun.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-07T23:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "NzM=",
+    "url": "https://thenextweb.com/news/germany-france-palantir-rival-arcadia-dependency-eu-funding",
+    "title": "Berlin fears France\u2019s Palantir rival is a new dependency, Politico reports",
+    "summary": "Internal German government notes seen by Politico Europe show Berlin is wary of Arcadia, the French-built Palantir rival.\nThe same note accepts that Germany will still have to share information with the French system, so that anything Berlin builds later can work alongside it.\nThe German assessment notes that the data and technology powering Arcadia come exclusively from French defence companies.\nThe Commission concluded that Arcadia did not meet the criteria for a European Defence Project of Common Interest.\nThe German defence ministry declined to comment to Politico, and the French armed forces ministry did not respond to its request.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-09-05T20:14:25Z",
-    "source": "DefenseNews.com"
+    "publishedAt": "2026-09-07T14:59:17Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NzU=",
+    "url": "https://thenextweb.com/news/belgan-belgium-chip-espionage-arrest-china-mirror-company",
+    "title": "Belgian chip researcher held since May over secrets allegedly sent to China",
+    "summary": "Belgian prosecutors have held a 52-year-old man in pre-trial detention since 10 May on suspicion of passing chip-making secrets to China.\nWhile holding his research post at BelGaN, the suspect was \u201csimultaneously acting as a director of a Chinese company engaged in a similar manufacturing activity\u201d.\nIn retaliation, a Chinese court has since frozen its stakes in its own subsidiaries.\nThe disclosure is a day old, and it lands in a run of Chinese espionage cases in Europe.\nTrade secret theft and spying for a state are different crimes, and Belgian prosecutors have charged both.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-09-07T22:44:43Z",
+    "source": "The Next Web"
   }
 ]
