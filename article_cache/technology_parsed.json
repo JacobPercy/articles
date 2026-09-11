@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "id": "Mg==",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+    "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
+    "summary": "A new Anthropic model seeks to test how AI could impact the U.S. economytoggle caption Imen Ben Youssef/AFPWill artificial intelligence light a fire under the U.S. economy in the coming years?\nThe economy continues on a 'normal' path with AI making changes around the margins,\" Anthropic experts write in an accompanying blog post.\n\"In the extreme scenario, AI transforms the economy.\nAI's impact on economy is uncertainA survey by Anthropic of nearly 11,000 people found that the public's expectations of AI are also mixed.\n\"If the AI can do amazing things but nobody uses it, then it's not going to have an economic impact,\" says Anton Korinek, Anthropic's head of transformative AI economic studies.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-09T13:34:48Z",
+    "source": "NPR"
+  },
+  {
+    "id": "MTE=",
+    "url": "https://www.businessinsider.com/tiktoker-vivian-tu-bringing-voice-to-new-ai-finance-app-2026-9#article",
+    "title": "TikToker Vivian Tu Brings 'Your Rich BFF' to a New AI Finance App",
+    "summary": "To Tu, personal touches like these are what set Ask Dolly apart from other finance apps.\nAsk Dolly has two paid tiers.\nFor $19 a month, users can get unlimited conversations with an AI financial tool, Pocket Dolly, that's based on Tu and other sources.\nShe gave the example of a user Ask Dolly helped in this way.\n\"I wanted this to be able to be something that could eventually live without Vivian Tu,\" Tu said of Ask Dolly.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-09T11:15:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTM=",
+    "url": "https://thenextweb.com/news/how-i-learned-to-stop-worrying-and-love-the-gamification-of-finance",
+    "title": "How I learned to stop worrying and love the gamification of finance",
+    "summary": "Gamification has a bad name in finance, and rightfully so.\nIn good gamification, the worst case is small, known, and capped before you start.\nThe entry fee plus the exit fee, about 5% round trip, and less in practice because the floor rises while you hold.\nThe increase of financial gamificationPeople respond to games, and finance will keep using that whether we like it or not.\nGood gamification asks you to risk almost nothing and pays you for everyone else\u2019s fun.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-09T17:46:15Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MTc=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+    "title": "Students who use AI generally score worse at school",
+    "summary": "Students who use AI to help them study tend to perform worse at school than those who don\u2019t, according to data from a global OECD educational report.\nStudents who said they used AI weekly to generally help them learn outperformed nonusers, though not by much.\nThis likely reflects better access to hardware, stable internet access, and paid AI tools.\nAI use also varied widely internationally: Over 95 percent of Vietnamese students reported using AI tools, compared to just 60 percent in Japan.\nAI users do have one thing going for them: The study found that curiosity levels correlate with AI use, peaking with daily users.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-09T12:05:01Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://thenextweb.com/news/stoke-space-1bn-series-e-fully-reusable-nova",
+    "title": "Stoke Space raises $1bn for a rocket that has never flown",
+    "summary": "Stoke Space has raised a billion dollars for a rocket that has never flown.\nWhat the money is actually forStoke is building Nova, a launch vehicle designed to be fully reusable.\nThe company is targeting early 2027 for that first orbital launch.\nThe company frames that second vehicle as a response to customers rather than an engineering ambition.\nIts technology development has drawn support from NASA, the US Space Force, the Defense Innovation Unit and the National Science Foundation, Stoke says.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-08T10:13:28Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://www.businessinsider.com/why-vcs-are-questioning-ai-companies-big-revenue-claims-2026-9#article",
+    "title": "Why VCs Are Questioning AI Companies' Big Revenue Claims",
+    "summary": "Few metrics thrill Silicon Valley investors more than surging annual recurring revenue (ARR).\nCluely CEO Roy Lee raised eyebrows earlier this year when he admitted to misstating his startup's ARR to a TechCrunch reporter.\nWith startups under much less regulatory scrutiny than public companies, revenue claims are rarely verified.\nMany AI companies no longer sell a simple per-seat license that costs the same every month.\nOpenAI has described subscription sales as ARR while calling its newer advertising business an annualized revenue run rate.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-08T09:00:03Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjA=",
+    "url": "https://thenextweb.com/news/pentagon-ai-chief-allies-resources-scale",
+    "title": "Pentagon AI chief says US allies lack the resources to keep pace",
+    "summary": "He said his office is helping these countries avoid some of the mistakes the Pentagon made while developing its own AI capabilities.\nThe Pentagon signed agreements with seven AI companies for classified systems earlier this year.\nNo European defence ministry has a budget on that scale for AI, and European countries also do not have domestic frontier AI companies comparable to the US firms they could contract with.\nA senior US official saying that European allies lack the resources and scale to match America inevitably becomes part of that debate.\nThey may be accurate, but they also make a clear case for continued reliance on American AI capabilities.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-09T14:10:12Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjE=",
+    "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+    "title": "Gen AI Tools Are Now Being Used to Push \u2018Slop Jihad\u2019",
+    "summary": "\u201cThe principal concern is the growing volume and diversity of material,\u201d says Adam Hadley, executive director of Tech Against Terrorism, a UN-backed counterterrorism organization that has also written a report about the Slop Jihad trend.\nThe Slop Jihad trend has seen some pushback from more traditional supporters who don\u2019t like the new aesthetic.\n\u201cThere seems to be some animosity towards it, because they don't believe the producers of Slop Jihad are true believers,\u201d Ayad says, referring to some reactions to the SpongeBob video.\nWhile Ayad did find a limited number of Slop Jihad videos on other platforms like Instagram and Facebook, the vast majority of the videos were found on TikTok.\nIn total, he found 150 Slop Jihad videos from 71 accounts with more than 5.4 million total views on the platform.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-08T10:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://www.businessinsider.com/lawyers-back-new-vc-firm-gcvc-legal-tech-investing-2026-9#article",
+    "title": "Legal tech is booming. A new VC firm wants lawyers in on the action.",
+    "summary": "Instead, it's part of the origin story of GCVC, a venture fund that wants lawyers to have a stake in the startups remaking their profession.\nMatt Holbreich, a former Fenwick lawyer turned investor, described the effort in Lincolnesque terms: \"There's never really been a venture capital fund of lawyers, by lawyers, for lawyers,\" he said.\nInvestors poured $2 billion into startups building for the legal sector in the first half of the year, according to Crunchbase.\nYet the lawyers who use this software are rarely in the rooms deciding which tools get funded.\nHolbreich and Rabin declined to share the fund size, citing rules that prohibit investors from marketing a fundraise.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-08T09:00:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+    "title": "Volvo cancels EX40 in the US, updates XC40 with better sensors and Gemini AI",
+    "summary": "Today, Volvo said it was canceling the entry-level electric EX40 in the US, while also giving its aging hybrid XC40 a new look.\nVolvo is expected to replace the EX40 with the slightly larger EX50, riding on the automaker\u2019s lower-cost SPA3 platform.\nAs a hybrid, the XC40 serves as a bridge for customers who want better gas mileage but aren\u2019t ready for the pure EV lifestyle.\nThis is a Volvo after all, the automaker most committed to Safety (at least according to its well-cultivated reputation).\nPrevious Next1 / 4The ultimate goal is to build a better XC40 \u2014 one that\u2019s safer and more capable, which hopefully translates to better sales numbers and a long, continuous shelf life for Volvo\u2019s tiny SUV.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-09T22:31:34Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+    "title": "Microsoft breaks another patch Tuesday record",
+    "summary": "Sources tell me that Microsoft will set another patch Tuesday record today, the third in just a few months.\nMicrosoft typically patches around 100 flaws every month, but in June it set a new record of around 200 fixes.\nJuly\u2019s patch Tuesday was even bigger, with Microsoft patching at least 570 security holes, almost triple the number of June\u2019s record-breaking release.\nMicrosoft engineers had a chance to catch their breath a bit in August when they plugged nearly 400 security vulnerabilities.\nI understand today\u2019s September patch Tuesday is about to set a new record, with more than 650 security fixes for Windows alone.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-08T10:13:24Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.entrepreneur.com/building-a-business/she-helped-instagram-fight-back-against-tiktok-with-ai-now-shes-using-the-same-playbook-on-a-problem-every-business-owner-knows",
+    "title": "She Helped Instagram Fight Back Against TikTok With AI. Now She\u2019s Using the Same Playbook on a Problem Every Business Owner Knows.",
+    "summary": "Zhang sees AI as a way to handle repetitive work without distracting employees from the guests in front of them.\n\u201cWe definitely iterated a ton and made tough decisions along the way.\u201dAt the time, Zhang wrote a white paper outlining what she believed would help Instagram compete.\nIt wasn\u2019t Zhang\u2019s first experience seeing AI work at massive scale.\n\u201cWe can help Google engineers be more productive, but I think they don\u2019t need a lot of help,\u201d Zhang says.\n\u201cA lot of the calls were actually for large orders,\u201d Zhang says.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-08T17:30:00Z",
+    "source": "Entrepreneur"
+  },
+  {
+    "id": "MjY=",
+    "url": "https://www.entrepreneur.com/business-news/tech/ai-made-building-your-own-software-easier-than-ever-but-that-doesnt-mean-you-should-heres-what-it-could-cost-you",
+    "title": "AI Made Building Your Own Software Easier Than Ever \u2014 But That Doesn\u2019t Mean You Should. Here\u2019s What It Could Cost You.",
+    "summary": "The build vs. buy conversation, then vs. nowFor most of my career, build vs. buy was mostly a capability question.\nWhat building it yourself can cost youThe capability question may be settled, but the responsibility question isn\u2019t.\nAnd before you decide to build software internally, you have to consider the financial and reputational costs you\u2019ll be responsible for.\nUsing AI to build a product might seem easier than it used to be, but running a serious AI-powered product isn\u2019t cheap.\nToday\u2019s build vs. buy debate requires specific rules and guardrailsNone of this means your teams should stop building things themselves.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-08T18:00:00Z",
+    "source": "Entrepreneur"
+  },
+  {
+    "id": "Mjc=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle.\nWith a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch.\nYou can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing.\nHere\u2019s my original doodle and the first image ChatGPT made of the cat, which had green eyes.\nScreenshot by Jay Peters / The VergeAs for ChatGPT Images 2.5, OpenAI says that it makes images with \u201cmore natural lighting and richer textures,\u201d is better at following your editing instructions \u201cacross multiple turns,\u201d and that image generation latency has been reduced by \u201cup to 50% compared with Images 2.0.\u201d ChatGPT Images 2.5 is out now for ChatGPT, ChatGPT Work, and Codex users on desktop, mobile, and web, according to OpenAI.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-08T20:16:09Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "summary": "Buckmaster claims OpenAI also tried to influence who got credit for the work.\nAre you a current or former OpenAI employee or mathematician who wants to talk about what\u2019s happening?\nAfter reading rumors that Anthropic was making progress toward solving Navier-Stokes, Bubeck said the company decided to dedicate more resources to tackling the problem.\nOn Monday, Alp\u00f6ge and Buckmaster, a mathematician at NYU, posted documents claiming key advances in an area relevant to the Navier-Stokes problem.\nBuckmaster claims that he asked OpenAI leaders about whether the company had accessed the pair\u2019s Codex logs.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-08T16:42:05Z",
+    "source": "Wired"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-personal-computer-2026-news-2/",
+    "title": "Meta\u2019s New AI Agent Wants to Get Personal With You",
+    "summary": "This seems to be the year of AI agents, and Meta is diving into the game.\nThe company on Tuesday announced a new agent program called Muse, which CEO Mark Zuckerberg describes as a \u201cpersonal agent\u201d that understands your habits and goals.\nIntroducing Muse, the personal agent that understands your goals and works 24/7 to get things done for you.\nMeta\u2019s Muse, for example, can do online shopping (with your permission), create documents, fill out forms and respond to emails.\nMeta says that Muse is a more general-purpose agent, not limited to specific tasks like coding.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-09-08T22:33:09Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://thenextweb.com/news/south-korea-ai-power-demand-nuclear-reactors",
+    "title": "South Korea\u2019s AI boom could need 20 new nuclear reactors\u2019 worth of power",
+    "summary": "The figure comes from Kim Sung-hwan, minister of climate, energy and environment, in an interview with Reuters published on Tuesday.\n\u201cProjects originally planned to be built by around 2045 have been significantly accelerated and are now due to be completed by the early 2030s,\u201d Kim told Reuters.\nDescribing work tied to the national chip and AI investment programme, which the Reuters copy sizes at 800tn won.\nA poll by the state-run Korea Energy Information Culture Agency found 79% of 2,000 respondents backed including new nuclear plants in the roadmap.\nKim said several US technology companies, Nvidia among them, have expressed interest in building data centres in South Korea specifically because its power supply is dependable.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-08T09:39:18Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-invest-15-billion-ai-070119247.html",
+    "title": "Google to invest $15 billion AI infrastructure in Finland",
+    "summary": "HELSINKI, Sept 9 (Reuters) - Alphabet's Google will invest at least \u20ac13 billion ($15.1 billion) in artificial intelligence infrastructure in \u200cFinland over the next two years, it said on \u200cWednesday, calling it the company's single largest investment in Europe.\nMore from Yahoo Scout How will Google's investment impact Finland's economy?\nWhat role does clean energy play in Google's Finland expansion?\nWhat AI infrastructure will Google build in Finland?\nIts cold climate makes coping with the heat produced \u200cby data centres cheaper \u2060and it also has large amounts of low-carbon electricity.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-09T07:01:19Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "Mzg=",
+    "url": "https://hackaday.com/2026/09/09/its-gnu-radio-companion-but-in-the-browser/",
+    "title": "It\u2019s GNU Radio Companion, But In The Browser",
+    "summary": "The progression of the web browser from a tool for simple static information browsing into a do-everything computing environment has been inexorable, with package after package making the jump.\nToday it\u2019s the turn of GNU Radio Companion, lowering the barrier to software defined radio considerably.\nLoading it up gives you a very familiar window if you\u2019re used to GNU Radio Companion, and it comes with a set of example flowgraphs that cover a large range of applications.\nWe\u2019ve spent a while here playing with it, and it does everything we\u2019re used to from the version outside the browser.\nThe only thing we\u2019re told it won\u2019t do is work with a networked SDR, but that\u2019s no deal breaker.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-09T15:30:09Z",
+    "source": "Hackaday"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/",
+    "title": "Hackaday Europe 2026: Outdoors With Robots",
+    "summary": "Whatever the reason, Erin\u2019s talk at Hackaday Europe 2026 is an invitation to take your projects out into the outdoors.\nUnderwater bots have it hard.\nWhether it\u2019s going to get there or not, it\u2019s got a bunch of great design elements for anything you have that\u2019s going to have to roll.\nExperiencesWhatever the environmental challenges of taking your bot outside, it\u2019s the non-laboratory environment that\u2019s the most challenging, and rewarding.\nAnd of course, bringing your robot outside is a great opportunity to share what you\u2019ve been working on with the offline world.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-09-08T15:35:23Z",
+    "source": "Hackaday"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://thenextweb.com/news/neso-palantir-21m-direct-award-foundry-lock-in",
+    "title": "Palantir gets \u00a321m from Britain\u2019s grid operator, no competition",
+    "summary": "Britain\u2019s publicly owned energy system operator has handed Palantir a \u00a321.2m contract with no competition.\nPalantir took roughly \u00a360m of NHS contracts during and after the pandemic, some of them without competition.\nIt then won the Federated Data Platform contract, worth up to \u00a3330m, through an open process.\nIt has a Palantir system running critical processes.\nIn Britain, Palantir holds contracts worth around \u00a3670m and paid \u00a32m in corporation tax in 2024.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-08T12:56:02Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NDI=",
+    "url": "https://thenextweb.com/news/google-finland-13bn-data-centres-nuclear-wind",
+    "title": "Google will invest \u20ac13bn in four Finnish data centre sites over two years",
+    "summary": "Google will spend \u20ac13bn on data centre infrastructure across four Finnish sites during 2027 and 2028, its largest single investment in Europe, the company announced the plan today.\nIt is doing it because in the Nordics you can no longer assume a grid connection exists for the asking.\nWhat Google has not disclosed is how much power the sites will draw.\nTikTok is building a second data centre there at a cost of \u20ac1bn, and Nebius has been tripling its Nvidia capacity in the country.\nDeepening our collaboration with Google will deliver lasting benefits for both parties, says Petteri Orpo, Prime Minister of Finland.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-09-09T07:52:10Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NTI=",
+    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "title": "A Secretive DHS \u2018Predictive Policing\u2019 Unit is Analyzing Americans\u2019 Financial Habits and Pulling Them Over",
+    "summary": "Border Patrol is running secretive predictive policing units that analyze Americans\u2019 financial activity and other data, then feed that intelligence to local police who pull people over who are not suspected of any specific crime, but which the government thinks may be worth searching, 404 Media has found.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-09-08T14:40:30Z",
+    "source": "404media.co"
+  },
+  {
+    "id": "NTQ=",
+    "url": "https://thenextweb.com/news/malaysia-huawei-ai-chips-sovereign-ai-us-export-warning",
+    "title": "Malaysia weighs Huawei chips for sovereign AI, Bloomberg reports",
+    "summary": "Malaysia is leaning towards Huawei silicon to run its national AI project, according to Bloomberg.\nThe chip in question is the one Washington namedMalaysia is looking at the Ascend 910C, Bloomberg reported.\nIt runs one of the fastest-growing AI data centre ecosystems anywhere, built largely by US firms.\nAnwar\u2019s government is now discussing a second process that would let Nvidia compete more directly, Bloomberg reported.\nIn May 2025 Malaysia\u2019s deputy communications minister announced a national AI system running on 3,000 Huawei Ascend chips.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-09-08T00:12:28Z",
+    "source": "The Next Web"
+  }
+]
