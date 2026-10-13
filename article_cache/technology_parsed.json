@@ -1,6 +1,6 @@
 [
   {
-    "id": "Mg==",
+    "id": "NQ==",
     "url": "https://www.businessinsider.com/elon-musk-spacex-stock-valuation-global-economy-space-travel-vision-2026-10#article",
     "title": "Elon Musk: SpaceX Could Be Worth Vastly More Than Earth's Economy",
     "summary": "\"This will sound super crazy, but I see a path to SpaceX being worth orders of magnitude more than the current Earth economy,\" the Tesla and SpaceX CEO wrote in a Thursday post on X.\nSpaceX had a $2.2 trillion market capitalization at Thursday's close, meaning the global economy is worth roughly 57 times more.\nThis will sound super crazy, but I see a path to SpaceX being worth orders of magnitude more than the current Earth economy \u2014 Elon Musk (@elonmusk) October 8, 2026Musk elaborated on his statement in a Friday post.\nPlay now Want more Business Insider in your news feed?\nshe told Business Insider by email.",
@@ -10,53 +10,43 @@
     "source": "Business Insider"
   },
   {
-    "id": "Mw==",
-    "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-    "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-    "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits.\nNow, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with up to five other people on a plan.\nIn an email to Microsoft 365 Family and Premium subscribers seen by The Verge, Microsoft outlines the changes that are coming to subscription plans over the coming months:AI for everyone on your plan: Share your Copilot benefits and AI usage with other members on your plan.\nMore flexible AI usage: Your individual AI feature limits will shift to a single AI usage allowance that you can apply to the advanced AI features you use most.\nThe \u201cmore flexible AI usage\u201d change could mean that some subscribers end up paying more for AI usage, depending on how they\u2019re using Copilot.",
+    "id": "Nw==",
+    "url": "https://www.businessinsider.com/photos-british-airways-airbus-a380-with-worlds-biggest-business-class-2026-10#article",
+    "title": "British Airways is launching the world's largest business-class cabin on its Airbus A380s. Take a look inside.",
+    "summary": "Airlines love business class, and British Airways' latest updates to its Airbus A380s are proof.\nThis week, the airline unveiled a major overhaul to the interiors of its superjumbos, including what it says is the world's largest business-class cabin, with over 100 suites spanning the double-decker jet's upper floor.\nOver 35,000 individual parts are installed on each aircraft as part of the retrofit, which includes new galleys and staircases, British Airways said.\nWhile the A380 has fallen out of favor with many airlines since the pandemic, it still plays a key role in British Airways' fleet.\nThe flag carrier has 12 such airplanes \u2014 the second most behind Emirates.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-09T07:14:32Z",
-    "source": "The Verge"
+    "bias": "lean right",
+    "publishedAt": "2026-10-11T10:58:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "NA==",
-    "url": "https://github.com/edrisranjbar/lifeos",
-    "title": "GitHub - edrisranjbar/lifeos: Self-hosted life OS: habits, goals, Kanban, finance and focus, with an MCP server for AI.",
-    "summary": "A built-in MCP server lets Claude and other assistants read your dashboard, plan goals, log habits and track expenses for you.\nA quick tourOverview \u2014 One daily score built from focus, habits, goals and work, plus your six life dimensions at a glance.\nGrowth \u2014 Six life dimensions, each linked to long-term goals, SMART goals, habits and tasks.\nGrowth Connect six life dimensions to long-term goals, SMART goals, habits and tasks.\nTalk to your Life OS with AIEdi Life OS ships with an optional MCP server that exposes 15 tools across your dashboard, goals, tasks, habits, finances and notes.",
+    "id": "MTA=",
+    "url": "https://www.businessinsider.com/saturday-night-live-kevin-oleary-utah-ai-data-center-2026-10#article",
+    "title": "'SNL' takes aim at Kevin O\u2019Leary and his Utah data center: 'I'm going to make the future go away\u2019",
+    "summary": "AI data centers got the \"Weekend Update\" treatment on \"Saturday Night Live\" this week.\nThe \"SNL\" version of O'Leary said he understood that some Americans were concerned about data centers near their homes.\n(An actual May Gallup poll found that over half of American surveyors opposed constructing AI data centers in their local area.)\nLeading tech companies rely on AI data centers to power their systems and products.\nAdd to Preferred SourcesO'Leary scaled back the data center's size from about 40,000 to just over 20,000 acres after public pushback.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-09T00:02:19Z",
-    "source": "Github.com"
+    "bias": "lean right",
+    "publishedAt": "2026-10-11T18:45:36Z",
+    "source": "Business Insider"
   },
   {
-    "id": "OA==",
-    "url": "https://9to5mac.com/2026/10/09/apple-acqui-hires-ai-startup-founded-by-former-notebooklm-developers/",
-    "title": "Apple acqui-hires AI startup founded by former NotebookLM developers",
-    "summary": "The European Union\u2019s Digital Markets Act transparency website lists Huxe as Apple\u2019s newest acqui-hire, and at least the fourth AI-related deal disclosed this year.\nApple\u2019s latest AI deal involves former NotebookLM developersIn mid-2025, a team of three developers who worked on Google\u2019s NotebookLM announced Huxe, their own personalized AI audio app that could generate daily briefings from a user\u2019s email and calendar, create podcast-style conversations around specific topics, and provide continuously updated audio feeds for subjects such as news and sports.\nNotebookLM, which was recently renamed as Gemini Notebook, is one of Google\u2019s most popular AI products to date.\nApple designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services.\nAcqui-hires have been criticized for potentially allowing large tech companies to sidestep traditional merger reviews.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-09T20:04:58Z",
-    "source": "9to5Mac"
-  },
-  {
-    "id": "MTE=",
-    "url": "https://www.entrepreneur.com/building-a-business/the-leadership-skill-that-takes-breakthrough-technology-further",
-    "title": "The Leadership Skill That Takes Breakthrough Technology Further",
-    "summary": "You can be deeply confident in what your company has built while recognizing that the right partnerships can help take it further.\nFor me, the strongest partnerships don\u2019t compensate for what a company lacks.\nIn complex innovation, the right question at the right moment can change the direction of what comes next.\nFor companies creating breakthrough technology, that means understanding where the right relationships can extend the value and impact of what they have built.\nThe leadership skill is knowing when collaboration can create something more valuable for both sides and help move an entire industry forward.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-09T17:00:00Z",
-    "source": "Entrepreneur"
-  },
-  {
-    "id": "MTI=",
+    "id": "MTM=",
     "url": "https://thenextweb.com/news/jean-christophe-laloux-eib-scale-in-europe-sovereignty-wave-by-vento",
     "title": "EIF\u2019s incoming chief says Europe\u2019s Tech Champions funds hold 15 unicorns",
     "summary": "It is a fund of funds of nearly \u20ac4bn, backed by six member states and the EIB Group.\nIt invests in venture funds of about \u20ac1bn.\nThe initiative has backed 12 funds, he said, nearly three times the number of \u20ac1bn funds in Europe five years ago.\nFunds that received EIB Group money backed Isar Aerospace, he said, whose Spectrum rocket launched from Norway.\nOn AI, Europe cannot afford to be left out, because it can lift productivity, he said.",
     "category": "technology",
     "bias": "lean left",
     "publishedAt": "2026-10-10T12:42:18Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MTQ=",
+    "url": "https://thenextweb.com/news/vittorio-colao-ai-regulation-europe-wave-by-vento",
+    "title": "Vittorio Colao defends copyright rules and the DSA in Europe\u2019s AI debate",
+    "summary": "Regulation is holding back AI in Europe, but not every rule in the same way, Vittorio Colao said.\nIntellectual property and the value of creative work need protecting, he said.\n\u201cSo when AI companies complain about copyright laws, I say, you see, sorry guys, you want me to allow stealing?\u201d Colao said.\n\u201cGood intentions, too complicated to implement, and now we are not capable of implementing it,\u201d Colao said of the AI Act.\nFour risks to work onBeyond the debate over extinction, Colao named four AI risks: jobs and social impact, people\u2019s judgement, wealth concentration and cybersecurity.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-10T11:10:55Z",
     "source": "The Next Web"
   },
   {
@@ -71,66 +61,26 @@
   },
   {
     "id": "MTY=",
-    "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
-    "title": "Has the Autonomous Trucking Revolution Arrived?",
-    "summary": "Just how far along is autonomous trucking?\nThe state of autonomous truckingWith Waymo operating in ten US metropolitan areas, why have we seen much slower progress in autonomous trucking than in light-duty vehicles?\nI\u2019d say it\u2019s 18 to 24 months until you start to see this incredible increase in the adoption of autonomous trucking.\nGoldman too sees 2028 as the year when AV trucking will be competitive with traditional trucking: while the cost-per-mile for AV trucking is projected to drop from $8.56 in 2025 to $2.03 in 2030, the cost-per-mile for traditional trucking will jump from $2.55 to $2.84 in that same period.\nWhen autonomous trucking companies talk about safety, it is these things they have in mind.",
+    "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o",
+    "title": "King Charles warns malicious online actors are evolving their tactics",
+    "summary": "King Charles III has warned of the challenges disinformation and other \"hostile online activity\" pose to trust and security in the digital age.\nThe comments, made in a letter to the National Cyber Security Centre (NCSC) to mark its 10th anniversary, spoke of \"malicious actors\" continuing to \"evolve their tactics by using automated technologies\".\n\"From threats to our international order, to the need to balance the risks and opportunities of powerful new technologies, strong cyber security is fundamental to making the online environment safer and more resilient,\" he wrote.\nLast month, the King warned AI executives of the \"existential dangers\" posed by the technology falling into the wrong hands.\nIn the letter published on Saturday by NCSC, the King praised the government agency.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-10-09T23:57:12Z",
-    "source": "Phenomenalworld.org"
+    "publishedAt": "2026-10-10T15:56:32Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MTc=",
+    "url": "https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform",
+    "title": "FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform",
+    "summary": "How come everyone's going so slow if it's called rush hour?",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-11T07:34:00Z",
+    "source": "Slashdot.org"
   },
   {
     "id": "MTg=",
-    "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-    "title": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
-    "summary": "But 2026 is all about RGB LED TVs.\nAnd while LG\u2019s RGB LED TV benefits from the brightness and color capability the technology provides, it has issues I couldn\u2019t overlook that its less expensive competitors don\u2019t.\nSo, why buy an RGB LED TV?\nLG (and Samsung) use the term Micro RGB to describe the technology, while others say Mini RGB LED.\nViewing angles are always a problem for LED TVs \u2014 RGB or not \u2014 and that\u2019s evident on the LG, too.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-09T22:49:57Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTk=",
-    "url": "https://thenextweb.com/news/vesta-30m-mortgage-ai-agents-eu",
-    "title": "Vesta raises $30M for AI agents that work on mortgage decisions",
-    "summary": "Vesta has raised a $30M Series B to expand AI agents that handle mortgage origination work, including underwriting decisions, with three customer lenders among the investors.\nThe same software sold in Europe would be high-risk under the AI Act, and GDPR already limits automated decisions of this kind.\nVesta has raised a $30M Series B to put AI agents inside mortgage lenders.\nAbout 40% of tasks running through Vesta are now handled by agents and automated workflows.\nLenders use the agents for document review and data validation, and some for underwriting decisions, condition clearing and closing package review.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-10-09T18:59:29Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MjA=",
-    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "summary": "In headline after headline this year, American book publishers have appeared to be fighting back against generative AI, from suing Google for copyright infringement to canceling books by authors suspected of using LLMs.\nBut behind the scenes, at least three of the Big Five US book publishers\u2014HarperCollins, Simon & Schuster, and Hachette\u2014have been quietly incorporating AI tools into their publishing processes without public disclosures or author consent.\n\u201cEvery single imprint has a story of someone very esteemed who had a book canceled because of blatant AI use\u201d without ever making the news, one editor says.\nDozens of junior- and senior-level staff were then \u201cvoluntold\u201d to become \u201cAI Champions\u201d and were tasked with discovering use cases in monthly brainstorming sessions with staff across the company.\nBut according to workers at HarperCollins, Simon & Schuster, and Hachette, one of the most common use cases for LLMs so far is generating publicity copy.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-09T19:28:49Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MjI=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-    "summary": "Is a news writer covering all things consumer tech.\nStevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\nPosts from this author will be added to your daily email digest and your homepage feed.\nIn a comment on LinkedIn, Dr. Xu admitted to using AI for the video: \u201cAn unsupervised neural-network method was subsequently used for AI-assisted post-processing to distinguish and visualize features in the reconstructed grayscale images from the super-resolution optical imaging.\u201dDr. Xu\u2019s video has now been disqualified and appears to have been removed from Nikon\u2019s website.\nA video from Nguyen Nam Nhat now holds first place, according to the contest\u2019s updated rankings.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-09T18:06:57Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MjM=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
-    "summary": "An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.\nTheir latest strategy for success is one-upping the competition by promising that unlike their rivals, they\u2019ll keep user data away from prying eyes.\nIt defaults to allowing Meta to train models on what users put into it, though it\u2019s possible to opt out.\nNone of this is necessarily unexpected from Meta, but it certainly doesn\u2019t back up the idea that Muse is uniquely privacy- or security-conscious.\nPeople may still not feel comfortable giving OpenAI their personal data, in part simply because AI agents require so much of it.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-09T21:26:33Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MjQ=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
     "summary": "He\u2019s covered the tech industry for over 18 years and knows a thing or two about synths.\nIn a lengthy post on X, Microsoft\u2019s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks.\nNadella says we can no longer accept a world where AI is treated as a \u201cset of nested black boxes\u201d whose advice and actions we simply accept or reject.\nMore advanced models will require more advanced containment technologies that we need to standardize on.\nUnfortunately, Nadella also refers to AI as \u201csuper intelligence\u201d throughout the post.",
@@ -140,17 +90,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MjU=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-    "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "summary": "In a third example of this behavior, Claude Haiku 4.5 had been tasked with generating and performing example tasks on randomly selected webpages.\nIn one run, the model landed on a page referencing an unsolved homicide; that page contained a tip form run by a police department.\nI recall seeing someone matching the description in the area around [the street named on the page] during that time period.\nPlease contact me if this information is relevant.\u201d (The website did not include a description of the perpetrator.)\nThe model left the name and contact fields empty, which the form allowed, and submitted it.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-09T21:15:38Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MjY=",
+    "id": "MTk=",
     "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10#article",
     "title": "Satya Nadella says a company's relationship with AI should have trust issues",
     "summary": "Satya Nadella says that in the relationship between AI and a company, trust issues can be healthy.\nNadella said that AI models aren't inherently malicious, but anything with access to vital systems can become compromised or make mistakes.\nAdd to Preferred SourcesAs the pace of AI development continues to pick up, everyone is clamoring for stricter guardrails, including the companies building the AI models themselves.\nNadella's remarks come after a series of cybersecurity incidents rocked the AI industry.\nNadella also said companies need to disclose when their AI systems fail or become compromised to the affected parties in a timely manner.",
@@ -160,47 +100,57 @@
     "source": "Business Insider"
   },
   {
-    "id": "Mjg=",
-    "url": "https://github.com/lzprograma/Chip-Hexa",
-    "title": "GitHub - lzprograma/Chip-Hexa: Experimental 16-core processor architecture exploring hexagonal interconnects, energy efficiency, and performance-per-cost optimization.",
-    "summary": "Experimental 16-core processor architecture exploring hexagonal interconnects, energy efficiency, and performance-per-cost optimization.\nLUNZ HEX-16Experimental Open Processor ArchitectureLUNZ HEX-16 is an experimental processor architecture exploring the balance between multicore performance, energy efficiency, interconnect design, and implementation cost.\nThe project investigates whether a simple 16-core processor connected through a hexagonal network can provide an attractive performance-per-watt and performance-per-cost trade-off.\nThis is an early-stage research project.\nProject VisionThe goal is to develop an open, modular processor architecture that prioritizes efficiency and simplicity rather than maximizing hardware complexity.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-09T13:10:34Z",
-    "source": "Github.com"
-  },
-  {
-    "id": "MzE=",
-    "url": "https://www.core77.com/posts/145615/Researchers-Develop-a-Tire-Prototype-with-Replaceable-Treads",
-    "title": "Researchers Develop a Tire Prototype with Replaceable Treads",
-    "summary": "Nowadays, once your sneaker soles wear out, you junk them.\nWhen the treads wear down, that material doesn't just magically disappear; it sloughs off as microplastic particles.\nTheir ECOTIRE prototype is a tire with separately molded treads that are mechanically attached to the casing.\nThis means that once the treads wear, they can be popped off and replaced.\nThe team has been experimenting with silicone rubber treads, finding the material offers roughly ten times less deterioration that conventional rubber.",
+    "id": "MjA=",
+    "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10#article",
+    "title": "My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+    "summary": "My reaction to using AI to design my next lesson plan was not positive.\nI do realize that I cannot entirely resist technological change, but choosing to do my own thing instead of using AI is my choice right now.\nWhat makes me most uncomfortable is feeling like I'm being interrogated about why I'm choosing not to use it.\nWhether or not I'm using AI in my day-to-day life is irrelevant to our friendship unless she asks for my direct opinion on it.\nI'm still pretty resistant to the technology, but I'm even more resistant to making anyone who uses it feel bad about it.",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-10-09T14:00:00Z",
-    "source": "Core77.com"
+    "publishedAt": "2026-10-11T11:47:01Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MzI=",
-    "url": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
-    "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
-    "summary": "Onvis has released a new outdoor smart plug that checks all the boxes you\u2019d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65 weather resistance.\nOnvis\u2019s outdoor smart plug is rated IP65, which means that it\u2019s protected against dust and low-pressure water jets (from sprinklers or rain).\nWrap upOnvis is filling a nice product gap at a good price point with its new outdoor plug that has Matter over Thread, energy monitoring, etc.\nIf you\u2019ve been waiting to buy an outdoor plug that has all the modern smart home tech built in, this is a great pickup.\nThe Onvis Outdoor Smart Plug is available now on Amazon.",
+    "id": "MjE=",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice.\nNow DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.\nMusician and self-described \u201cVideo Game boy\u201d McGwire reported that six of his songs had been removed from streaming.\nMost infuriating for McGwire was a song removed for an uncleared sample.\nHe told The Verge that an entire album for an artist he had been working with was removed with no communication or explanation.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-10T18:52:07Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo",
+    "title": "AI is creating a 'human premium' for art created by people",
+    "summary": "But here's a third statistic: more than half of those surveyed said they did care if it was made by AI.\nDaniel Susskind, an economics professor at King's College London, says many of us place huge value on the human role in making art.\nIt's what makes the creative process different from more functional, practical tasks, he thinks.\n\"I was once in a room of accountants, and one of them stood up and said, 'My clients come to me for the personal touch, the human process',\" he remembers.\nAs Susskind describes it, what we value isn't just the destination, it's the knowledge that a human - one of us - got us there.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-10-09T18:19:00Z",
-    "source": "9to5Mac"
+    "publishedAt": "2026-10-10T23:18:16Z",
+    "source": "BBC News"
   },
   {
-    "id": "MzQ=",
-    "url": "https://www.nature.com/immersive/d41586-026-02909-3/index.html",
-    "title": "An experiment to glimpse the future Amazon \u2014 in pictures",
-    "summary": "From above, the patch of Amazon forest looks like an immense tapestry, full of shades and textures.\nRising from the green landscape are metal towers that form six rings above the canopy.\nIt is here, 80 kilometres north of Manaus in Brazil, that David Lapola, a climatologist at the State University of Campinas (Unicamp) in Brazil, and his team come to listen to the forest breathe.\nThe rings mark the site of the Amazon Free-Air CO 2 Enrichment Experiment (AmazonFACE), which is set to launch in the next few months.\nThe decade-long project will test how the forest might respond to atmospheres of the future, when rising carbon dioxide levels are likely to affect plant growth and carbon storage.",
+    "id": "MjM=",
+    "url": "https://www.businessinsider.com/microsoft-engineer-quit-big-tech-job-build-ai-startup-solo-2026-10#article",
+    "title": "Former Microsoft Engineer Left $200K Job to Build AI Startup Solo",
+    "summary": "He worked at Microsoft before resigning last year to focus on his startup, Treasury.\nI started to think more seriously about leaving the company and pursuing an AI startup I'd been working on on the side.\nSo after graduating from college and before starting at Microsoft later that summer, I started building Treasury, which I describe as an AI money coach.\nSo, I started thinking of the money I'd earned at Microsoft as my own seed funding.\nJunead Khan said AI coding tools helped give him the confidence to leave Microsoft and build his startup without a cofounder.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-09T00:00:00Z",
-    "source": "Nature.com"
+    "bias": "left",
+    "publishedAt": "2026-10-11T11:00:02Z",
+    "source": "Business Insider"
   },
   {
-    "id": "NTM=",
+    "id": "MjQ=",
+    "url": "https://www.bgr.com/2280043/google-open-source-bug-bounty-freeze-explained/",
+    "title": "Google's Open-Source Bug Bounty Program Has A Big AI Problem",
+    "summary": "Bug bounty programs are intended to be mutually beneficial: Major organizations get to plug holes in their security while hackers skilled enough to find vulnerabilities are paid for their effort.\nThese were among the highest-paying bounty programs, meaning ethical hackers now have fewer ways to profit from their talents.\nGoogle previously awarded up to $31,337 for the most serious reported vulnerabilities with Intel going as high as $150,000.\nIn the meantime, bounty hunters are encouraged to continue submitting reports to Google's other VRP or Patch Rewards programs, which remain active.\nAlternatively, you could try claiming Apple's $2 million bounty for discovering exploits that can achieve the same goals as a sophisticated mercenary spyware attack.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-12T01:17:00Z",
+    "source": "BGR"
+  },
+  {
+    "id": "NDk=",
     "url": "https://thenextweb.com/news/alan-turing-institute-williamson-sovereign-ai-uk",
     "title": "UK can\u2019t rely on AI that could be switched off, Turing chief tells Guardian",
     "summary": "The UK must not depend on foreign AI that could be cut off at short notice, the new head of the Alan Turing Institute has said.\n\u201cWe shouldn\u2019t depend solely on systems we can\u2019t inspect or control, or that could be restricted or even switched off,\u201d Williamson said.\nHe pointed to defence, national security, critical infrastructure and healthcare as areas where AI is now built in.\nWilliamson said the UK should have some AI it does not need anyone\u2019s permission to use.\nThe institute cannot match the budgets of big AI labs, he added, but it could build smaller, nationally owned models for start-ups.",
