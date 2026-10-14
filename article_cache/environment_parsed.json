@@ -1,6 +1,6 @@
 [
   {
-    "id": "NA==",
+    "id": "MTA=",
     "url": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
     "title": "California\u2019s Tallest and Most Iconic Trees Are Getting Heatstroke",
     "summary": "A grove of coast redwood trees is a forest of forests.\nThis means trees are slowing their \u201cbreathing\u201d and \u201ceating\u201d because they can\u2019t cool down fast enough when temperatures rise.\nTrees use the pores in their leaves, stomata, to do two things: take carbon dioxide in, and let water out.\nOpen stomata mean the tree is \u201cbreathing\u201d in carbon dioxide and photosynthesizing, but probably also letting water out.\nClosed stomata mean the tree is conserving water but also slowing down its photosynthesis, since it isn\u2019t taking in any carbon dioxide.",
@@ -10,7 +10,7 @@
     "source": "Wired"
   },
   {
-    "id": "MjU=",
+    "id": "MjY=",
     "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o",
     "title": "UK launches flood taskforce to prepare for extreme winter weather",
     "summary": "The government has launched a new taskforce to respond to extreme weather, including the risk of flooding this winter.\n\"We're facing extreme weather, with flood and drought intertwined but the government is taking decisive action,\" Department for Environment, Food and Rural Affairs (Defra) Minister Emma Hardy said in a statement ahead of the meeting.\nDefra will host the first meeting on Wednesday, bringing together the Met Office, Environment Agency and mayoral authorities as well as the farming, water and insurance industries.\nIt has urged households to check their flood risk, sign up to alerts and make a flood plan to prepare for any emergencies.\nThe warnings follow 12 months of extreme weather across the UK, with the summer of 2026 the country's hottest on record.",
@@ -20,53 +20,43 @@
     "source": "BBC News"
   },
   {
-    "id": "Mjk=",
-    "url": "https://www.bbc.co.uk/news/articles/cr4g1wy331pdo",
-    "title": "Surrey County Council exceeds its tree planting target",
-    "summary": "More than 800,000 new trees have been planted across Surrey over the past five years, exceeding the council's own target, according to a report.\nSurrey County Council's report found 116,359 trees had been planted in the 2025/26 financial year alone.\nIt said the total planted between 2021 and 2026 was around 885,000, surpassing its initial target of 600,000.\nHowever, Elmbridge Borough Council recently passed a motion calling for the future East Surrey council to update its tree strategy to consider survival rates.\nIt said many trees planted in the borough were dying within a year as a result of not receiving the right aftercare.",
+    "id": "Mjg=",
+    "url": "https://www.bbc.co.uk/news/articles/cwvgdej69m2ro",
+    "title": "Appeal for major energy storage system in Devon rejected",
+    "summary": "Proposals to install a major battery energy storage system have been rejected after an appeal by the developer was dismissed.\nSky UK Development's plans for the battery system site (BESS) on land near Raymond's Hill in Axminster were refused by East Devon District Council's planning committee last year.\nThe applicant appealed the decision with the Planning Inspectorate, proposing changes to mitigate concerns around groundwater contamination and the risk of battery units catching fire.\nA key risk highlighted during the planning debate for the proposed BESS revolved around what could happen if one of the battery units caught fire, according to the Local Democracy Reporting Service, external.\nOpponents claimed the amounts of water needed to contain such blazes and prevent their spread could mean any water running off into a nearby local waterway.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-10-11T07:04:06Z",
+    "bias": "right",
+    "publishedAt": "2026-10-12T12:10:34Z",
     "source": "BBC News"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://www.nature.com/articles/d41586-026-03255-0",
+    "title": "Daily briefing: Visit a huge climate experiment in the Amazon rainforest",
+    "summary": "Hello Nature readers, would you like to get this Briefing in your inbox free every day?\nInvisible ink becomes visible under UV light on a silicon hand.Credit: Carson BrunsA group of nanoscientists has developed tattoo inks that become visible only under ultraviolet light, and can be hidden again using bright visible light.\nNature | 6 min readAn unprecedented deadlock among members of the Intergovernmental Panel on Climate Change (IPCC) could affect the publication of its influential climate-change report.\nOr it might not \u2014 as in the case of a similar experiment in the mature eucalyptus forest of Australia.\nBut local models also have limitations \u2014 they can \u2018hallucinate\u2019, for example \u2014 and computers powerful enough to run them are expensive.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-10-12T00:00:00Z",
+    "source": "Nature.com"
   },
   {
     "id": "MzI=",
-    "url": "https://www.bbc.co.uk/news/articles/cq8r6nzp4230o",
-    "title": "Forever chemicals at former Oxfordshire fuel depot 'have been removed'",
-    "summary": "Barrels of chemicals left at an approved development site have been removed and testing carried out, a developer has said.\nThe Islip Fuel Depot in Oxfordshire is a former RAF and Esso fuel storage and transfer facility and has had outline planning permission approved to build residential and affordable homes.\nConcerns were raised after campaigners discovered about 40 barrels of firefighting foam liquid, which contains PFAS - a group of chemicals often dubbed forever chemicals, had been left at the site for decades.\nDeveloper, Newcore, said it had already identified the potential contamination and that \"this potential risk and any contamination identified will be cleaned up immediately.\"\nThe depot previously supplied fuel to the former RAF Upper Heyford, around five miles north, which is suspected to be the source of forever chemical, or PFAS, contamination from firefighting foam.",
+    "url": "https://www.bgr.com/2280646/how-us-recycles-wind-turbine-into-cement/",
+    "title": "Here's How US Recycling Companies Are Turning Old Wind Turbine Blades Into Cement",
+    "summary": "Wind turbines are great for generating clean energy, but they have a life cycle of, at most, around 20\u201330 years.\nHowever, wind turbine blades aren't easy to recycle, as they are made from fiberglass, a material that is difficult and expensive to break down.\nFortunately, recycling companies have found a variety of ways to recycle around 85% of a wind turbine blade, one of which is turning it into concrete and cement.\nBy breaking down turbine blades, it's possible to recover materials and fibers that are useful for concrete production.\nA study published in 2024 concluded that fibers from wind turbine blades can strengthen concrete.",
     "category": "environment",
     "bias": "center",
-    "publishedAt": "2026-10-10T06:13:15Z",
-    "source": "BBC News"
+    "publishedAt": "2026-10-12T21:47:00Z",
+    "source": "BGR"
   },
   {
-    "id": "MzM=",
-    "url": "http://www.rollingstone.com/politics/politics-features/climate-change-report-published-fired-scientists-1235640295/",
-    "title": "Fired Government Scientists Are Finding New Ways to Spread the Word on Climate Change",
-    "summary": "In April of last year, Donald Trump\u2019s administration halted work on a climate science report that the United States had been producing for over 20 years.\nThe congressionally mandated National Climate Assessment (NCA) is meant to give Americans a clear view of how climate change is impacting the nation.\nNow, many of these scientists have released the first of a series of reports meant to look at how climate research has progressed since the last NCA in 2023, and where climate research could go next.\n\u201cThese changes are already harming people, economies, infrastructure, and ecosystems globally and across the United States.\u201dEditor\u2019s picksKenney says regular assessments and syntheses are important for the climate science community.\nHe described how the \u201cclimate research community has begun organizing to promote genuine science and preserve U.S. participation in the global climate science community.\u201d\u201cJust because a threat is not articulated by the federal government doesn\u2019t mean the threat\u2019s going away,\u201d Samaras says.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-10-11T13:15:00Z",
-    "source": "Rolling Stone"
-  },
-  {
-    "id": "MzQ=",
-    "url": "https://www.juancole.com/2026/10/climate-worsened-hurricane.html",
-    "title": "How climate change worsened Hurricane Isaias",
-    "summary": "(Image credit: NOAA)The largest storm surge observed at any NOAA tide gauge from Isaias occurred at Panama City Beach (Fig.\n\u2014 Shel Winkley (@shelwinkleywx.bsky.social) 2026-10-07T23:40:14.466ZHow climate change worsened Hurricane IsaiasIn a press release on Oct. 9, Dr. Daniel Gilford, Meteorologist and Climate Scientist at Climate Central, said:\u201cThe first hurricane of the season clearly shows the fingerprints of climate change.\nBut as I explained in my 2026 post, Global warming is making the strongest hurricanes stronger, a 5% increase in hurricane winds yields about a 50% increase in damage: Hurricane damage increases exponentially with an increase in winds (see NOAA\u2019s damage multiplier table).\n(Image credit: Climate Central)Climate Central detailed multiple other ways that climate change made Isaias worse:Isaias underwent rapid intensification over waters that were 1.4 degrees Celsius (2.4\u00b0F) warmer on average than they would have been in a world without climate change.\nJUST IN: Saildrone Explorer SD-1045 passed through the eye of Category 3 Hurricane Isaias, recording wind gusts over 90 knots (103 mph).",
-    "category": "environment",
-    "bias": "right",
-    "publishedAt": "2026-10-11T04:06:02Z",
-    "source": "Juancole.com"
-  },
-  {
-    "id": "NDc=",
-    "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o",
-    "title": "Homes and bridges swept away as fresh floods hit Nepal",
-    "summary": "A major river in Nepal has flooded, sweeping away houses, bridges and damaging a part of hydropower station, authorities have said.\nA video of the flood shows the moment raging waters sweep down a valley and wash away an entire building complex.\nThe flood swept away about a dozen houses and several suspension bridges, while a hydroelectric project was damaged, carrying some of the construction equipment away, the disaster management authority said.\n\"We are yet to see the full scale of the damage, but they may have lost their homes, schools and communities.\nNepal is prone to disasters, from earthquakes to landslides and floods, as a result of the unpredictable natural environment in the Himalayas.",
+    "id": "Mzc=",
+    "url": "https://finance.yahoo.com/energy/articles/oil-theft-rise-heart-u-222558567.html",
+    "title": "Oil theft is on the rise in the heart of U.S. shale country\u2014and it\u2019s mostly carried out in targeted, organized heists",
+    "summary": "The spike in oil prices since the Iran war began this year has attracted more thieves, and they are increasingly professional criminals.\nWhile oil theft has long been a part of the industry, the problem has become prevalent enough for the Dallas Fed to ask about in its quarterly surveys.\nAnd now that U.S. oil prices have been hovering around $100 a barrel lately, criminals can't resist the payoff.\nNearly half of the oil executives (47%) said the most common form of theft was targeted and organized, while 42% described it as opportunistic petty theft.\nIn August, executives from a wastewater disposal company were charged with felony oil theft, money laundering, and organized crime.",
     "category": "environment",
     "bias": "lean left",
-    "publishedAt": "2026-10-11T12:03:52Z",
-    "source": "BBC News"
+    "publishedAt": "2026-10-11T22:25:58Z",
+    "source": "Yahoo Entertainment"
   }
 ]

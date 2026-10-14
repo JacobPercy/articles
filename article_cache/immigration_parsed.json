@@ -1,6 +1,6 @@
 [
   {
-    "id": "Mjc=",
+    "id": "Mjk=",
     "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o",
     "title": "Djibouti boat capsize: Children among 139 dead with 84 still missing, UN says",
     "summary": "At least 139 migrants including 15 children have died and dozens more are still missing after a boat sank off the coast of Djibouti, the UN's migration office has said.\nThe boat had been travelling from Djibouti to Yemen with 305 people aboard when it capsized near the port town of Obock on Thursday night.\nAround 82 people were rescued, the International Organization for Migration (IOM) said.\nIOM's Djibouti mission chief Alexandre Coissac called the tragedy a \"stark reminder\" of the dangers migrants face when seeking a new life elsewhere.\nSince 10 September, the IOM said its Displacement Tracking Matrix had observed more than 20,000 \"movements\" from Ethiopia to Djibouti.",
@@ -10,7 +10,7 @@
     "source": "BBC News"
   },
   {
-    "id": "MzE=",
+    "id": "MzU=",
     "url": "https://www.businessinsider.com/got-divorced-abroad-stayed-in-france-cheaper-living-pension-2026-10#article",
     "title": "I got divorced abroad and decided to stay in Europe. My $900 pension goes so much further in a tiny French village.",
     "summary": "This as-told-to essay is based on a conversation with Karen Anderson, 57, a Californian who moved to the UK in 2011 and now lives in a small village in northwestern France.\nAnd in 2016, we bought a house in France for \u20ac45,000 ($50,450), far less than anything we could have afforded in the UK.\nI eventually returned to Europe, but by 2023, my ex-husband and I decided to divorce.\nDespite being so small, the village has a restaurant and a church dating back to the 14th or 15th century.\nIt may look like a dream to other people, but Americans don't always see the sacrifices you make to live abroad.",
@@ -20,7 +20,57 @@
     "source": "Business Insider"
   },
   {
-    "id": "Mzc=",
+    "id": "Mzg=",
+    "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o",
+    "title": "Immigration agents search congresswoman Ilhan Omar's home",
+    "summary": "US immigration agents have searched the home of Minnesota Representative Ilhan Omar as part of a criminal investigation.\nHomeland Security Investigations (HSI) agents \"executed a judicially authorised search warrant\" for the property in the Washington DC area, a US justice department spokesperson said.\nThe search \"is part of an ongoing federal criminal investigation\", the spokesperson said, but no further details were given.\nOmar, a Democrat and outspoken critic of President Donald Trump, described the search on social media as \"an attempt to target political enemies and weaponize federal law enforcement\".\nThe Republican president said of the Somali-born congresswoman: \"She comes from a country that is a non-country.",
+    "category": "immigration",
+    "bias": "center",
+    "publishedAt": "2026-10-12T13:39:42Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://www.yahoo.com/news/articles/federal-agents-searched-minnesota-rep-121754172.html",
+    "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced'",
+    "summary": "Omar, an outspoken critic of President Donald Trump, said she was being targeted as one of the Republican's \"political enemies.\"\nIn a statement on X on Monday, Omar called the search an \"attempt to target political enemies and weaponize federal law enforcement.\"\nHours after the search, Trump told reporters he had \"nothing to do\" with it and it's \"really up to the DOJ.\"\nVance has in the past accused Omar of committing immigration fraud, an allegation she has denied, and has said the administration was looking for pathways to investigate her.\nAdvertisement AdvertisementConservative online sites have alleged that Omar married a brother to commit immigration fraud.",
+    "category": "immigration",
+    "bias": "left",
+    "publishedAt": "2026-10-12T12:17:54Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://www.opencampus.org/2026/10/09/to-protect-immigrant-students-a-chicago-area-college-told-flock-to-remove-its-cameras-the-company-refused/",
+    "title": "To protect immigrant students, a Chicago-area college told Flock to remove its cameras. The company refused.",
+    "summary": "Then in September 2025, Immigration and Customs Enforcement detained an Elgin Community College student in a campus parking lot.\nStudents have to pass at least one of the college\u2019s seven Flock cameras on their way to class there.\nThe Illinois Secretary of State also found that U.S. Customs and Border Protection searched Illinois Flock data last year in violation of state law.\nStill, college officials asked Flock to remove the surveillance cameras \u201cout of an abundance of caution for our students,\u201d Heinrich said.\nThe company has said federal agencies, including Immigration and Customs Enforcement, can no longer access local Flock data unless law enforcement agencies grant access.",
+    "category": "immigration",
+    "bias": "left",
+    "publishedAt": "2026-10-11T22:09:34Z",
+    "source": "Opencampus.org"
+  },
+  {
+    "id": "NDI=",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament",
+    "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
+    "summary": "Abdi-Wali makes history as first Somali-born refugee in UK ParliamentNewsFeed Abdi-Wali makes history as first Somali-born refugee in UK ParliamentNewly sworn-in Labour MP Sagal Abdi-Wali has made history as the first Somali-born refugee woman elected to UK Parliament.\nShe won London\u2019s Holborn and St Pancras seat, vacated by former Prime Minister Keir Starmer, defeating Green Party leader Zack Polanski.",
+    "category": "immigration",
+    "bias": "left",
+    "publishedAt": "2026-10-12T21:08:08Z",
+    "source": "Al Jazeera English"
+  },
+  {
+    "id": "NDM=",
+    "url": "https://www.dailymail.com/news/article-16201965/Nigel-Farage-Reform-suspend-UK-asylum-five-years.html",
+    "title": "Nigel Farage says Reform will suspend the UK asylum system for five years and deport thousands of refugees if he becomes PM",
+    "summary": "Nigel Farage today pledged to ban anyone from being granted asylum in the UK for five years if Reform wins the next election.\nThe Reform UK leader re-ignited a proposal from earlier this year to suspend the asylum system for a full parliamentary term and declare void any applications in progress.\nAll asylum tribunals, legal refugee routes and resettlement schemes will be scrapped and a Reform government would not hear the around 90,000 outstanding asylum and humanitarian protection appeals and instead deport the claimants.\nReform says there is 'no mandate' for such schemes and that anyone who has arrived under them would be deported.\nBut Reform is now expanding the toolkit of measures for countries that would not be hit hard by such restrictions.",
+    "category": "immigration",
+    "bias": "lean right",
+    "publishedAt": "2026-10-12T09:19:23Z",
+    "source": "Dailymail.com"
+  },
+  {
+    "id": "NDQ=",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes",
     "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
     "summary": "At least 139 dead as migrant boat from Djibouti to Yemen capsizesNewsFeed At least 139 dead as migrant boat from Djibouti to Yemen capsizesAt least 139 migrants, including 15 children, have died and 84 remain missing after a boat carrying more than 300 people capsized off Djibouti en route to Yemen.\nThe disaster highlights the dangers of the Eastern Route, where more than 900 people died or went missing in 2025.",
@@ -30,7 +80,17 @@
     "source": "Al Jazeera English"
   },
   {
-    "id": "Mzg=",
+    "id": "NDU=",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents",
+    "title": "US Rep. Ilhan Omar\u2019s home searched by immigration agents",
+    "summary": "NewsFeed US Rep. Ilhan Omar\u2019s home searched by immigration agentsMinnesota Representative Ilhan Omar\u2019s home has been searched by Homeland Security Investigations agents as part of an undisclosed \u2018criminal investigation\u2019.\nThe search comes just weeks before the midterm elections, and after years of attacks from President Trump and Republicans.",
+    "category": "immigration",
+    "bias": "lean right",
+    "publishedAt": "2026-10-12T19:37:11Z",
+    "source": "Al Jazeera English"
+  },
+  {
+    "id": "NDY=",
     "url": "https://www.naturalnews.com/2026-10-11-migrant-policy-withdrawn-south-africa-after-riots.html",
     "title": "Migrant Policy Withdrawn in South Africa After Violent Riots \u2013 NaturalNews.com",
     "summary": "Migrant Policy Withdrawn in South Africa After Violent RiotsSouth Africa's Department of Home Affairs (DHA) said the policy produced serious consequences that could not have been foreseen and placed DHA officials at risk.\nhttps://bbc.com/news/articles/cy42yx1kn90o Cars torched and shops looted as anti-migrant violence erupts in South Africa.\nhttps://bbc.com/news/articles/cwm24v45p4jgo South Africa withdraws asylum directive after violent anti-migrant .... https://english.news.cn/20261009/e4f550403ac14fcaabd28d0e2b0f0fcd/c.html South Africa protests turn violent amid rage over asylum .... https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling South Africa condemns 'fake videos' of alleged xenophobic attacks.\nhttps://www.dailysabah.com/world/africa/south-africa-scraps-asylum-directive-after-anti-immigrant-violence Home Affairs Withdraws Asylum Directive After Violent Anti-Immigrant .... https://www.atnews.co.za/home-affairs-withdraws-asylum-directive-after-violent-anti-immigrant-protests-leave-cars-torched-in-gauteng-kzn/ South Africa's anti-migrant unrest led over 160,000 to flee.\nhttps://www.france24.com/en/live-news/20260721-south-africa-s-anti-migrant-unrest-led-over-160-000-to-flee South Africa processes over 86,000 foreigners for deportation.",
@@ -38,35 +98,5 @@
     "bias": "center",
     "publishedAt": "2026-10-11T06:00:00Z",
     "source": "Naturalnews.com"
-  },
-  {
-    "id": "NDE=",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit",
-    "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
-    "summary": "NewsFeed Ceuta migrants allege beatings as camps cleared ahead of royal visitPeople in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps ahead of a visit by Spain\u2019s king and queen on October 13.\nTension persists with Morocco which claims sovereignty over the enclave in North Africa.",
-    "category": "immigration",
-    "bias": "lean left",
-    "publishedAt": "2026-10-11T12:40:35Z",
-    "source": "Al Jazeera English"
-  },
-  {
-    "id": "NDI=",
-    "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti",
-    "title": "At least 139 dead, 84 missing as migrant boat capsizes off Djibouti",
-    "summary": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere.\nShare At least 139 dead, 84 missing as migrant boat capsizes off Djibouti on social mediaAt least 139 people, including 15 children, have died and 84 are missing after a boat capsized off the coast of Djibouti, according to the United Nations migration agency.\nThe boat was heading from Djibouti to Yemen with more than 300 people on board.\nThe IOM said it had recorded \u201cmore than 20,000 incoming movements to Djibouti from Ethiopia\u201d since September 10.\nDjibouti is not only a place where migrants depart from, but several thousand people are also fleeing to the country from Yemen due to the renewed conflict.",
-    "category": "immigration",
-    "bias": "lean left",
-    "publishedAt": "2026-10-11T11:34:40Z",
-    "source": "Al Jazeera English"
-  },
-  {
-    "id": "NDU=",
-    "url": "https://www.dailymail.com/news/article-16200371/Spanish-police-Ceuta-migrant-camp-royal-family-visit.html",
-    "title": "Spanish police remove last major Ceuta migrant camp just days before royal family visit",
-    "summary": "Spanish police have removed the last major migrant camp in Ceuta just days before King Felipe and Queen Letizia are due to visit the North African enclave.\nAlthough most returned within days, at least 10,000 remained in Ceuta, sleeping rough in the streets or on beaches and straining the small city's resources.\nMorocco claims sovereignty over Ceuta and Melilla, Spain's two North African enclaves.\nThe opposition has accused socialist prime minister Pedro Sanchez's government of reacting too slowly to the migrant crisis in Ceuta.\nLast Sunday, Spanish police cleared thousands of migrants from a camp in the North African enclave.",
-    "category": "immigration",
-    "bias": "center",
-    "publishedAt": "2026-10-11T13:02:50Z",
-    "source": "Dailymail.com"
   }
 ]
