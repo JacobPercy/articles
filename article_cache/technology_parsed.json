@@ -1,6 +1,16 @@
 [
   {
     "id": "OQ==",
+    "url": "https://thenextweb.com/news/ai-data-centre-power-talent",
+    "title": "Data centre firms say the AI bottleneck is now power and labour",
+    "summary": "Executives from NTT Data, Brookfield and Infosys say electricity and skilled labour, not chips, now limit how fast AI data centres get built.\nIn Europe the binding constraint is worse, with grid connections in congested markets running to ten years.\nExecutives running some of the world\u2019s largest data centre operations say it is electricity and people.\nA survey of 300 data centre decision-makers in the UK, Ireland and the Nordics put power availability and skills shortages among the leading obstacles.\nDublin turned down a Google data centre over energy, and grassroots opposition blocked $130B of US projects in the first quarter alone.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-13T16:19:56Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MTE=",
     "url": "https://www.businessinsider.com/400-mile-range-ev-charging-volvo-bmw-mercedes-2026-10#article",
     "title": "The era of the 400-mile range EV is upon us",
     "summary": "#BMWiX4 #BMW #BMWNewEra #NeueKlasse #BMWGroup https://t.co/4kqvYE1E9s \u2014 BMW (@BMW) October 7, 2026Fellow German luxury automaker Mercedes-Benz is also joining the race.\nThe coming electric C-Class has a range of up to 474 miles, under Europe's more generous range testing system.\nSwedish automaker Volvo is also releasing the EX60 next year, including a trim with 400 miles of range.\nAmerica has seen some 400-mile electric vehicles before, but so far, they've remained in a small corner of the consumer market.\nThe fresh EVs coming from luxury European carmakers feature smaller, more energy-dense battery cells that use their power more efficiently.",
@@ -10,27 +20,47 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTI=",
-    "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-    "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-    "summary": "DOJ launches antitrust probe of TV networks.\nToday's top storiesPresident Trump is urging Ukrainians to hold wartime elections and replace President Volodymyr Zelenskyy, as he blames him for not ending the war.\nTrump lifted sanctions on Russian diesel on Friday temporarily, and stated both sides agreed to an \"energy ceasefire.\"\nMost Ukrainians acknowledge that holding elections now would be risky, given the ongoing conflict, with Russia bombing their cities daily.\nThe Saudis have requested U.S. refueling support for their fighter jet strikes on Yemen's Houthis, but Trump has yet to agree.",
+    "id": "MTQ=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+    "title": "Google finally releases Gemini 4 Argon",
+    "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.\nGoogle says Argon delivers \u201cfrontier reasoning and improved performance across complex workflows,\u201d while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots.\nThe launch fills in some of the blanks left behind from when Google first teased Argon a few weeks ago.\nIn line with other recent frontier model releases, the public rollout follows a limited release to a select set of \u201ctrusted cyber defenders\u201d to be tested for potential risks.\nBut Argon\u2019s arrival suggests we can\u2019t count Google out of the AI race just yet.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-12T11:29:56Z",
-    "source": "NPR"
+    "bias": "left",
+    "publishedAt": "2026-10-13T12:12:37Z",
+    "source": "The Verge"
   },
   {
-    "id": "MTM=",
-    "url": "https://www.businessinsider.com/imf-director-warns-ai-could-leave-young-workers-career-ladder-2026-10#article",
-    "title": "IMF Director Warns AI Could Wipe Out Entry-Level Jobs Foryoung Workers",
-    "summary": "AI could help keep the global economy growing while pulling the first rung of the career ladder out from under young workers.\nGeorgieva told a panel on Monday that while AI investment is helping sustain global growth, a stronger economy doesn\u2019t necessarily mean better career prospects, especially for young people.\n\"You have those that build the infrastructure for AI, and many of them are in Asia, including Thailand,\" Georgieva said.\n\"So that shift in higher gear is what is keeping the world economy growing at 3% \u2014 around 3% \u2014 despite the fact we are being dragged down by the energy supply shock.\"\nThe IMF estimates that AI will affect about 40% of jobs worldwide, rising to 60% in advanced economies, with some jobs enhanced, others downgraded, and some eliminated.",
+    "id": "MTU=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "title": "Character.AI files for bankruptcy",
+    "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney.\nIn a press release and blog post published Monday, Character said it had filed for Chapter 11 bankruptcy protection in the US to facilitate the sale of the company and its assets.\nIn its bankruptcy filing, Character listed estimated liabilities between $50 million and $100 million.\nAs part of the proposed sale, Disney would serve as the lead bidder for Character.AI\u2019s assets, setting a baseline for competing offers.\n\u201cAs we navigate this process, maintaining a safe and engaging experience for our community remains a top priority,\u201d it said.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-13T05:01:01Z",
+    "bias": "left",
+    "publishedAt": "2026-10-13T10:32:23Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTY=",
+    "url": "https://www.businessinsider.com/ai-training-employee-data-emails-slack-dms-2026-10#article",
+    "title": "AI Labs Are Fueling a Wild Market for Your Emails and Slack DMs",
+    "summary": "As they race to automate white-collar work, AI labs have found the perfect source of training data: your Slack DMs.\nTech giants have moved to harvest their employees' data for AI training.\nAs AI companies build new models, the real-world data guides the AI on how best to handle specific tasks.\nNick Heiner helps improve AI agents by building office-like digital environments at AI training startup Surge AI.\nAP Photo/Mark SchiefelbeinA huge market that few workers are aware ofThough the company data market is nascent, the AI training startups cashing in are optimistic.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-13T09:30:01Z",
     "source": "Business Insider"
   },
   {
-    "id": "MTQ=",
+    "id": "MTc=",
+    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "summary": "The Business, Innovation, Science, and Trade Committee, comprising a cross-party panel of MPs, held an evidence session on Tuesday with appearances from four frontier AI firms, four former staff of the firms turned whistleblowers and senior British civil servants.\n\u201cThe rules should be binding,\u201d Anthropic\u2019s head of Europe Liam Booth-Smith told the committee, when asked if the company\u2019s view was that AI safety now needs a statutory framework.\n\u201cWe don\u2019t think basing everything on voluntary commitments for frontier risk is a good long-term plan,\u201d he said.\nExposing this divide in a second jurisdiction was the point, according to select committee chair Liam Byrne.\nMI5 director Ken McCallum used his annual threat update to warn of bioweapon misuse as a significant threat from AI.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-10-13T19:35:29Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MTg=",
     "url": "https://thenextweb.com/news/japan-cyberattacks-warning-data-leaks",
     "title": "Japan steps up cyber warnings as data leaks hit millions of customers",
     "summary": "Its head, Masaaki Taira, said Japan was in \u201ca state of emergency in cyber space\u201d, the Financial Times reported.\nDeputy Chief Cabinet Secretary Yusuke Nakanishi spoke on Wednesday, The Japan Times reported.\nA record for ransomwareThe National Police Agency logged a record 123 ransomware incidents in the first half of 2026, The Japan Times reported.\n\u201cLLMs are driving that down drastically,\u201d Ziegler told The Japan Times.\nLast month, the security firm Gambit said AI agents had stolen credit card records, about 600,000 of them.",
@@ -40,7 +70,7 @@
     "source": "The Next Web"
   },
   {
-    "id": "MTU=",
+    "id": "MTk=",
     "url": "https://www.entrepreneur.com/building-a-business/the-new-non-negotiable-for-small-businesses-knowing-your-cyber-risk-heres-where-to-begin",
     "title": "The Cybersecurity Gap Facing Small Businesses Right Now",
     "summary": "For small and medium-sized enterprises (SMEs), cybersecurity is now fundamental to building trust, serving customers and growing with confidence.\nThat same research found that 71% of small businesses prioritize protection from cyber threats, yet only 37% currently use cybersecurity tools.\nBusiness owners recognize cybersecurity as important, but many still struggle to find solutions that are accessible, practical and relevant to the realities of running a small business.\nHow SMEs can embed security into everyday businessOne of the biggest opportunities facing the industry today is making cybersecurity easier for small businesses to understand and act upon.\nSmall businesses shouldn\u2019t need cybersecurity teams to understand where they are vulnerable.",
@@ -50,7 +80,7 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MTY=",
+    "id": "MjA=",
     "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
     "title": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
     "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \u201cprimary AI inference system\u201d for Microsoft\u2019s products and services.\nMaia 200 is already running on production AI workloads across Microsoft, including Microsoft Copilot, GitHub Copilot, Microsoft Foundry, and Microsoft\u2019s own AI models.\n\u201cMaia 200 is the best performing AI infrastructure in our fleet, measured in real world metrics for AI services,\u201d says Guthrie.\n\u201cWe have to work across the full stack, all the way down to the silicon,\u201d says Microsoft AI CEO Mustafa Suleyman.\nThat\u2019s why running our Microsoft AI models on top of the Maia chip is a critical focus for our team.\u201d",
@@ -60,7 +90,37 @@
     "source": "The Verge"
   },
   {
-    "id": "MTc=",
+    "id": "MjE=",
+    "url": "https://thenextweb.com/news/pluto-security-42m-ai-workspace-security-stealth",
+    "title": "Pluto Security emerges from stealth with $42M in funding",
+    "summary": "CEO and co-founder Shahar Bahat believes traditional security approaches struggle when employees adopt new tools faster than security teams can evaluate them.\nRather than making blocking the default response, Pluto aims to help security teams support legitimate work while limiting risky activity.\nSecurity teams can block malicious skills and restrict unsafe agent actions.\nIt combines its product with security research and free resources.\nShe said Pluto offers security teams a way to understand AI activity and respond precisely rather than simply blocking innovation.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-13T16:00:23Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://thenextweb.com/news/europe-ai-adoption-gap-sifted-lbs-report",
+    "title": "Europe trails the US on AI because of how firms work, Sifted report says",
+    "summary": "Only 20% of EU firms use AI at all, up from 13.5% a year earlier, Eurostat data shows.\nThe report cites McKinsey data showing 88% of organisations use AI somewhere, but just 7% have fully scaled it.\nSome firms are now limiting AI use as they weigh cost against benefit, LBS deputy dean Gary Dushnitsky told Sifted.\nThe report cites research from marketing firm Whito showing 75% of firms using AI see productivity gains, but only 12% see more revenue.\nSome European AI firms are also choosing to stay independent.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-13T18:02:25Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.cnet.com/tech/services-and-software/gemini-4-argon-general-release-google-ai-news/",
+    "title": "You Can Use Gemini 4 Argon Now: Google\u2019s New AI Is Built for Coding, Math and Robotics",
+    "summary": "Gemini 4 Argon is available globally for enterprises and for Google AI Ultra and Pro subscribers in the Gemini app.\nIt\u2019s also available in Android Studio, Google AI Studio and the agentic developer platform Google Antigravity.\nGoogle says that it has used Gemini 4 internally to help with software engineering, cybersecurity and research.\nThe AI also played a role in developing physical AI, like Google\u2019s robotics research, helping ground a humanoid device in the real world\u2019s physics and understand its surroundings.\nWe\u2019re far away from the days of Nano Banana \u2014 Google\u2019s AI image generator that blew its competition out of the water and enraged creators.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-13T16:01:09Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MjQ=",
     "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo",
     "title": "AI minister warns it is 'likely' UK's cyber defences will be breached",
     "summary": "The UK's AI minister has warned it is \"likely, if not inevitable\" the country's cyber defences will at some point be breached.\nSpeaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.\nThe minister said the move would build on two existing pilots which have helped identify and fix over 1,000 vulnerabilities across government systems.\nHe said his message to the largest companies behind the world's most powerful AI systems was: \"Listen when your scientists warn of serious dangers.\nIn his speech, Narayan also confirmed scientists at the UK's AI watchdog, the AI Security Institute (AISI), were conducting \"rigorous evaluations\" of the latest generation of advanced AI models to \"identify risks early\" and \"to test robust safeguards to help keep people safe\".",
@@ -70,7 +130,17 @@
     "source": "BBC News"
   },
   {
-    "id": "MTg=",
+    "id": "MjU=",
+    "url": "https://thenextweb.com/news/palantir-shyam-sankar-pentagon-replaced-anthropic-face-the-nation",
+    "title": "Palantir CTO says the Pentagon has already replaced Anthropic\u2019s AI",
+    "summary": "The Pentagon has already replaced Anthropic\u2019s AI models, with no operational impact, Palantir\u2019s chief technology officer, Shyam Sankar, said on CBS\u2019s Face the Nation on Sunday.\nThe Pentagon stopped using Anthropic\u2019s products after a dispute over its safeguards for military AI.\nHe said most of America\u2019s roughly 2,000 AI researchers share its worldview.\n\u201cSo many AI researchers have started smoking as a way of signaling to other researchers how much they believe in AI,\u201d Sankar said.\nSankar said the accord was for companies that make AI models, which Palantir does not.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-13T12:15:53Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjY=",
     "url": "https://thenextweb.com/news/shou-chew-tiktok-ai-scientific-breakthrough",
     "title": "TikTok\u2019s Shou Chew expects an AI science breakthrough within three years",
     "summary": "TikTok chief executive Shou Chew expects AI to deliver a major scientific breakthrough within two to three years.\n\u201cIn the next two to three years, we\u2019re going to have a real scientific breakthrough: physics, biotech, chemistry, material science, because of AI.\nPeople still handle the nuances of visual recognition and long-term memory retrieval better than AI, Chew said.\nStronger AI models also make it much cheaper for bad actors to attack platforms such as TikTok, Chew said.\nChew said ByteDance is looking at how to work with scientists to make progress in science.",
@@ -80,17 +150,47 @@
     "source": "The Next Web"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.businessinsider.com/work-calendar-invite-scam-phishing-ai-deepfakes-2026-10#article",
-    "title": "Calendar Invite Scams Are Rising, and AI Makes Them More Convincing",
-    "summary": "They also warn that AI agents could give attackers a leg up by accepting fraudulent invitations on workers' behalf.\nWorkers are common targets since many are used to receiving meeting invitations from colleagues, clients, and partners, he added.\nCalendar invitation scams often take one of two forms.\nThe impersonator might use the name of an actual staffer, but a fake email address, as well as AI-generated audio or video to make the ruse more convincing, he said.\nScores of Jenn Drummond's contacts recently received an unexpected calendar invitation from her email address, warning that they had been served with a court summons.",
+    "id": "Mjc=",
+    "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+    "title": "Rivian partner Mind Robotics hires Doug Field as president",
+    "summary": "Rivian CEO RJ Scaringe\u2019s startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO\u2019s secretive robotics project.\nMind Robotics said Field will oversee its effort to build \u201cuniversally capable robots\u201d for the purpose of working in Rivian\u2019s factories, as well as other applications.\nMind Robotics hasn\u2019t confirmed whether it\u2019s working on a humanoid design or something else entirely.\nMind Robotics is using AI training data from Rivian, and the robots will be initially tested in Rivian\u2019s factories.\nRivian also owns equity in Mind Robotics and will be the first customer for its robots.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-12T09:17:01Z",
-    "source": "Business Insider"
+    "bias": "left",
+    "publishedAt": "2026-10-13T15:48:23Z",
+    "source": "The Verge"
   },
   {
-    "id": "MjA=",
+    "id": "Mjg=",
+    "url": "https://thenextweb.com/news/aramco-digital-orbitronai-industrial-ai-partnership",
+    "title": "Aramco Digital teams up with OrbitronAI to build AI for heavy industry",
+    "summary": "Aramco Digital, the tech arm of Saudi oil giant Aramco, has teamed up with start-up OrbitronAI to build and sell AI tools for heavy industry, the two firms said.\nThey will then test them and turn the ones that work into products they can sell to the wider industry.\n\u201cThrough our partnership with OrbitronAI, we intend to convert that industrial advantage into scalable AI products for Aramco, our affiliates and the wider industrial market,\u201d said Ashraf Tahini, chief executive of Aramco Digital.\n\u201cTogether with Aramco Digital, we are building a repeatable model for Industrial Value Recovery,\u201d said Saulius Adomaitis, OrbitronAI\u2019s co-founder and chief executive.\nHis co-founders are Luvy Singh, who ran supply chains at Shell and other big firms; Ashu Gupta, the chief AI officer; and Poonam Gupta, who runs engineering.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-10-13T11:18:48Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://thenextweb.com/news/nvidia-huang-europe-2-billion",
+    "title": "Nvidia plans $2B in European AI deals in the next week",
+    "summary": "Jensen Huang says Nvidia will announce $2B of European investments within a week, on top of $8B over the past year, and named four French startups in Paris.\nNvidia committed more than $40B to AI equity in the first four months of this year alone.\nJensen Huang says Nvidia will announce $2B of European investments within a week.\nOpen weights lower the cost of the model and leave the hardware bill exactly where it was, which is with Nvidia.\nNvidia\u2019s GTC conference runs there from 20 to 22 October, inside the week Huang described, and he arrives as European calls to slow AI development grow.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-13T16:34:25Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MzI=",
+    "url": "https://thenextweb.com/news/ccw-europe-2026-customer-contact-ai-nebi",
+    "title": "Beyond AI: what Europe\u2019s flagship customer contact event revealed",
+    "summary": "Customer Contact Week Europe 2026 brought together around 700 attendees and 50 exhibitors over three days to talk about the future of customer contact.\nInternational technology company Nebi joined as an exhibitor and sponsor, and what we observed over those three days gave us a lot to think about.\nCustomer contact is a space that is changing rapidly, and the people working in it know it.\nAI is the conversationWalk the exhibition floor and one thing becomes immediately clear: artificial intelligence is no longer a niche topic in the customer contact industry.\nNebi participated in Customer Contact Week Europe 2026 as an exhibitor and sponsor.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-13T21:27:30Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NDE=",
     "url": "https://www.businessinsider.com/bird-ceo-says-ai-is-empowering-high-agency-generalist-workers-2026-9#article",
     "title": "A tech CEO who cut his staff from over 1,000 to 120 says AI is boosting the value of 'high-agency' generalists",
     "summary": "\"If you're high agency and you're full stack, then AI leverages you to basically be your best self.\"\nVis said AI is helping employees work across tasks that companies have historically treated as distinct roles.\nFigma CEO Dylan Field has said the technology is empowering \"generalist behavior\" as the once-distinct worlds of product, design, development, and research start to blur.\nAt Bird, however, Vis said AI is widening the work employees can take on beyond engineering.\nStill, Vis said companies should not use AI simply as a pretext to cut workers.",
@@ -100,47 +200,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjE=",
-    "url": "https://www.cnet.com/tech/services-and-software/meta-muse-and-wonder-ai-models/",
-    "title": "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals",
-    "summary": "Tech giant Meta debuted its new Muse Wonder and Muse Wonder Full premium AI models on Monday, continuing a push toward what CEO Mark Zuckerberg recently called the \u201cAI frontier,\u201d where the heavy hitters in the artificial intelligence space have dominated.\nThe models build upon the Muse Spark AI model, launched earlier this year.\nMeta/CNETMuse Wonder and Wonder FullMuse Wonder is the \u201cstate-of-the-art\u201d premium-tier AI model from Meta.\nThat said, Meta says it has trained its Muse Wonder model to avoid sharing private information without permission and has hardened it against cyberattacks.\nRecently, Anthropic revoked access to its AI models, Mythos 5 and Fable 5, after the US government imposed sweeping restrictions on who could use them.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-10-12T22:55:13Z",
-    "source": "CNET"
-  },
-  {
-    "id": "MjI=",
-    "url": "https://thenextweb.com/news/drone-attack-shuts-a-third-yandex-data-centre",
-    "title": "Drone attack shuts a third Yandex data centre in Russia in 4 days",
-    "summary": "Yandex has lost a third major data centre in four days.\nBesides Vladimir, Yandex runs sites in Sasovo, Kaluga, Ivanteevka, and Mytishchi, according to DatacenterDynamics.\nAfter the Sasovo strike, the websites of Russian Railways and mobile operator MegaFon went down, according to independent outlet Meduza.\nThe attacks on Yandex follow a month of Russian strikes on Ukrainian data centres and telecoms sites, some in central Kyiv.\nBack in Moscow, Yandex shares fell more than 4% after the Kaluga strike.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-12T08:22:09Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://thenextweb.com/news/uk-ai-security-institute-pre-release-access-openai-anthropic",
-    "title": "UK says it will again test OpenAI and Anthropic models before release",
-    "summary": "Britain\u2019s AI Security Institute will keep testing the most powerful AI models before they are released, the UK government said on Monday.\nAI minister Kanishka Narayan said the UK had worked closely with the US to keep that access, Bloomberg reported.\nWhat changedLast month, the White House asked OpenAI and Anthropic to hold new models back from UK testers until US officials had checked them.\nAnthropic did not share its Mythos model with the institute, Bloomberg reported.\nHe said he was \u201cvery confident\u201d the UK would be able to test the latest models.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-12T16:19:23Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him",
-    "title": "Linus Torvalds On Why AI Works For Him",
-    "summary": "An anonymous reader quotes a report from ZDNet:Torvalds acknowledged that AI tools are helping identify security vulnerabilities and improve the Linux kernel, but at the cost of overwhelming maintainers with questionable bug reports and superficial fixes.\nHe called some submissions \"mindless band-aid kind of patches.\n\"That said, despite AI's growing influence, Torvalds believes Linux's success comes from steady, incremental development rather than sweeping changes.\n\"I'm a big believer in the whole incremental small changes that, over time, turn into big features,\" he said.\nThe development goal remains \"incremental improvement and steady progress all the time.\"",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-13T03:30:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MzY=",
+    "id": "NDI=",
     "url": "https://www.bgr.com/2284505/missouri-researchers-mri-tech-spot-failing-roads-before-potholes-form/",
     "title": "Missouri Researchers Are Using MRI-Style Tech To Spot Failing Roads Before Potholes Form",
     "summary": "Asphalt roads have existed in the United States since 1870, and there are even robots that can find and repair potholes in our asphalt roads \u2014 but we still don't fully understand the chemistry of how asphalt changes due to age and exposure to the elements.\nThat level of understanding is exactly what researchers at the Missouri University of Science and Technology are trying to achieve.\nThe research team led by Dr. Klaus Woelk, professor of chemistry at Missouri S&T, started by using a spectrometer to analyze asphalt samples.\nAsphalt changes and becomes more brittle over time when exposed to oxygen, sunlight, and various types of weather.\n\"Our results can help develop standards for asphalt rejuvenation materials.",
@@ -150,17 +210,7 @@
     "source": "BGR"
   },
   {
-    "id": "Mzk=",
-    "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
-    "title": "A college in Illinois tried to cancel its Flock contract and it refused",
-    "summary": "Heinrich said Elgin Community College staff began to cover the cameras using black trash bags and zip ties so that they would not be able to capture footage.\nBut workers in an unmarked vehicle, which Heinrich assumed belonged to Flock, repeatedly removed the coverings.\n\u201cWe were kind of in a back and forth for a bit where we\u2019d cover, and then when they\u2019d come to service, they\u2019d remove,\u201d Heinrich said.\n\u201cThen we\u2019d cover and then they\u2019d remove.\u201d",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-11T20:06:43Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "NDg=",
+    "id": "NTY=",
     "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
     "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
     "summary": "U.S. restrictions on Chinese drones are hurting cash-strapped police departmentsLoading...For hours, bullets tore through the home, hitting neighboring houses and cars.\nAs the SWAT team prepared to enter, Kevin Fennessy with the Ocean County Sheriff's Office tried something new first.\nHe says the organization supports efforts to boost the American drone industry, but that reducing access to Chinese drones is not a good solution.\nLoading...toggle caption i Albert Yee for NPRFor them, that meant turning to DJI drones.\nSponsor MessageBeal, who says his organization is \"agnostic\" when it comes to what drones departments use, says he thinks Chinese-made drones are \"light years ahead of what our American drones are able to do.\"",
@@ -168,5 +218,15 @@
     "bias": "center",
     "publishedAt": "2026-10-12T09:00:00Z",
     "source": "NPR"
+  },
+  {
+    "id": "NjI=",
+    "url": "https://www.businessinsider.com/kospi-stock-index-today-taiwan-taiex-index-ai-trade-rally-2026-10#article",
+    "title": "The world's hottest AI stock market has gone cold",
+    "summary": "South Korea's stock market has gone from the world's hottest to its coldest in just a few months.\nThe Kospi, the world's best-performing major stock benchmark in the first half of 2026, has since fallen about 24%, making it the worst-performing major market in the second half.\nBut investors are increasingly looking beyond South Korea's memory-chip giants to companies with broader exposure to the AI hardware boom.\nIn July, analysts at GlobalData.TS Lombard pointed out that much of the earnings growth at Korean memory-chip makers came from higher memory-chip prices.\nIts market offers exposure across AI infrastructure, from advanced chip manufacturing and packaging to servers and networking equipment.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-12T08:52:39Z",
+    "source": "Business Insider"
   }
 ]
