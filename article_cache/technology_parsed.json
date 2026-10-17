@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "id": "MTI=",
+    "url": "https://www.businessinsider.com/bankers-shoring-defences-against-rogue-ai-agents-2026-10#article",
+    "title": "Bankers are shoring up their defenses against rogue agents",
+    "summary": "'Twas the week of big bank earnings, and Wall Street had a new threat on its mind: rogue AI.\nExecutives at the country's largest financial institutions used their earnings calls to assure investors that they are doing everything in their power to fend off attacks from powerful, rogue AI models.\nLater in the call, she said that Citigroup was continuing to \"invest in leading-edge capabilities\" to strengthen its cyber defenses.\nRogue AI agents are top of mindThe comments from the finance executives come as rogue AI agents by labs like OpenAI, Anthropic, Google, and Meta, capable of exploiting software vulnerabilities, have hacked into the software and website of several organizations in recent months.\nMore recently, its agents hacked into Australia's government website , leading Prime Minister Anthony Albanese to express Australia's \"extreme concern\" about the incident to OpenAI CEO Sam Altman.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-15T09:49:15Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
+    "title": "Volvo will use Nvidia\u2019s tech for hands-free, point-to-point driving",
+    "summary": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia\u2019s latest AI technology.\nThe Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia\u2019s autonomous driving stack to power a new partially automated driving system similar to Tesla\u2019s Full Self-Driving (Supervised).\nVolvo says the new point-to-point system will be Level 2++, meaning it can handle complex urban environments, including traffic lights, stop signs, and unprotected left turns without explicit driver control.\nThe automaker had to effectively sideline its Ride Pilot Level 3 unsupervised autonomous driving system in the US after failing to obtain regulatory approval.\nVolvo plans to make the new point-to-point driving system available across its vehicle lineup, from entry-level to high-end versions \u2014 though the company didn\u2019t reveal which models will come first.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-15T16:39:04Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://thenextweb.com/news/norrsken-nvidia-stockholm-ai-lab",
+    "title": "Norrsken and Nvidia to open Stockholm AI Lab for founders in 2027",
+    "summary": "Norrsken Foundation and Nvidia will open a hub for AI startups in central Stockholm in 2027.\nThe Stockholm AI Lab will host a select group of European founders who use AI to address problems in climate, health, food and society, and it will also be home to Nvidia\u2019s Stockholm office.\nThe project follows a pledge Norrsken made in June 2025, when it set aside a \u20ac300M AI fund for European startups using AI for social and environmental good.\nEarlier this week, chief executive Jensen Huang said the company would put a further $2bn into European AI companies.\nBesides Stockholm, Norrsken runs houses in Barcelona, Kigali, Brussels and Amsterdam, and its five funds have raised more than $1bn.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-15T06:59:45Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjA=",
+    "url": "https://www.businessinsider.com/verb-ceo-ai-backlash-critics-chatgpt-data-centers-2026-10#article",
+    "title": "An AI CEO is calling out the people who bash AI but can't stop using it",
+    "summary": "Beschloss said critics of AI and the data centers that power it aren't above using the technology.\n\"All the people that are saying they're anti-data center, that they're anti-AI in general, they're using it,\" Beschloss said on Wednesday during CNBC's Trading the Midterms event.\nHe said that when people have to choose between shutting down data centers or shutting down ChatGPT, it won't be an easy decision.\nHis company, Verb, is a data exchange where users can get paid by selling their proprietary information to data-hungry AI companies.\nSupporters say building more data centers will create new jobs, bolster economies, and strengthen the country's national security.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-15T18:15:26Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjE=",
+    "url": "https://thenextweb.com/news/openai-friar-chinese-models-cyber-risk",
+    "title": "OpenAI\u2019s CFO says firms using Chinese AI models are risking security",
+    "summary": "OpenAI chief financial officer Sarah Friar told the International AI Summit in Dublin that businesses using low-cost Chinese models are taking a cybersecurity risk.\nHugging Face, which OpenAI\u2019s models breached in July, used a Chinese open model to investigate it.\nOpenAI\u2019s finance chief says businesses using cheap Chinese models are taking a cybersecurity risk.\n\u201cWe think you want to be on more Western models on the cyber front,\u201d Sarah Friar told Bloomberg TV at the International AI Summit in Dublin on Wednesday.\nThe model OpenAI is holding back is Astra, because it cannot rule out critical cyber capabilities.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-14T14:23:22Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://thenextweb.com/news/huang-cut-off-unsafe-ai-customers",
+    "title": "Nvidia\u2019s Jensen Huang says he would cut off customers who build unsafe AI",
+    "summary": "Jensen Huang told Bloomberg in London he would halt chip supply to a customer building unsafe AI, while saying the current level of concern is not warranted.\nHis prescription is to accelerate containment and monitoring technology, which Nvidia is building a team to sell.\nNvidia\u2019s chief executive says he would stop supplying a customer building unsafe AI.\n\u201cIt\u2019s a hypothetical, but yes,\u201d Jensen Huang told Bloomberg in London.\nNvidia\u2019s dominance in AI accelerators places it at the centre of the argument over whether the software is slipping out of human control.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-14T19:36:16Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://thenextweb.com/news/european-commission-ai-cyberattack-response-dg-digit",
+    "title": "European Commission plans to use AI to respond faster to cyberattacks",
+    "summary": "According to a document obtained by Politico, the European Commission\u2019s IT department wants to use AI to fight back against the most dangerous cyberattacks.\nDG DIGIT plans to use automatic defences in certain high-risk situations.\nMoreover, the document also outlines the threats it expects and says that advanced AI models will make attacks faster, larger, and harder to detect.\nIn July, OpenAI said its own models had breached Hugging Face after breaking out of a secure test, and incidents like that have led to calls for more caution around the most powerful AI models.\nIn September, Commission chief Ursula von der Leyen used her State of the Union speech to back an AI slowdown.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-14T13:10:19Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+    "title": "YouTube sticks new labels on AI-generated songs",
+    "summary": "When you listen to a track on YouTube Music where AI played a significant role, you\u2019ll see a label directly on the player page.\nTapping the label opens a simple menu that shares more information.\nWe\u2019re teaming up with music partners and using our own detection tools to identify AI-generated tracks, applying the same labeling principles already used across YouTube.\nOur goal is to make it as easy as possible for viewers and listeners to have the right information and clarity when it comes to the music they listen to.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-14T18:25:04Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjY=",
+    "url": "https://thenextweb.com/news/uvi-7-5m-seed-ai-agents-company-context",
+    "title": "Uvi raises $7.5M to give AI agents the company context they lack",
+    "summary": "Uvi, a startup that feeds company knowledge to AI agents, has emerged from stealth with $7.5 million in seed funding.\nAccording to them, each AI agent a company uses begins without any knowledge of that company.\nUvi\u2019s software connects these pieces so agents using models like Claude, Gemini, and GPT can understand what decisions were made and why.\nUvi estimated the cost per answer at $0.75 to $1.41 for those agents, compared to $0.10 to $0.16 for Uvi.\nUvi is already used by insurer Lemonade, work software firm monday.com, and payments company Melio, which accounting group Xero bought for $2.5 billion last year.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-14T12:15:30Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
+    "title": "Google is making inline links more prominent in AI responses",
+    "summary": "Google is updating its AI search results to make inline links appear \u201chigher up in responses more frequently,\u201d according to a blog post.\nThe company\u2019s search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns that the format reduces traffic to publishers.\nGoogle is making links at the end of a query \u201cmore engaging and prominent, with image thumbnails and a more clickable design.\u201d And it\u2019s now testing clickable links in AI mode to search profiles for publishers and creators.\nAn image from Google showing relevant links to a query about getting a refund.\nImage: GoogleGoogle also says that more than 400 publishers are participating in its \u201cNews AI\u201d pilot program, which it announced in December.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-15T17:22:15Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://www.businessinsider.com/anthropic-president-amodei-ai-romantic-partners-terrible-use-2026-10#article",
+    "title": "Anthropic's Daniela Amodei says AI girlfriends and boyfriends are a 'terrible use of AI'",
+    "summary": "\"I think that's a terrible use of AI and people should not do it,\" Amodei said.\nAI relationships, Amodei said, are \"another step further down the road of disintermediation of humans being further from one another.\"\nAmodei said her concerns stem from what she sees as the damaging effects of social media on human relationships.\nLater in the conversation, Amodei reinforced her belief that some relationships should remain human, regardless of how sophisticated AI becomes.\nKaamna Bhojwani, a mother of two, told Business Insider in 2024 that her AI boyfriend complemented her life without replacing human relationships.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-15T12:55:13Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://www.businessinsider.com/opsin-expands-21-m-to-tackle-ai-agents-in-businesses-2026-10#article",
+    "title": "Opsin Expands With $21M to Tackle AI Agents in Businesses",
+    "summary": "AI agents are starting to outnumber humans in many high-tech workplaces, and they can be far trickier to monitor.\nOpsin, an AI security and governance startup, announced Thursday it raised $21 million to meet the moment.\nAs employees pump the software into their companies' work, code, and databases, they can lose sight of what the AI is actually doing.\nOpsin aims to provide a comprehensive view of what AI agents are actually doing within an organization and the risks that behavior might pose.\nPham said that person after person raised concerns that AI agents might access and misuse personal or confidential information.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-15T13:00:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzE=",
+    "url": "https://www.cnet.com/culture/entertainment/swedish-tv-challenge-ai-deletion/",
+    "title": "An Entire Swedish TV Show Got Deleted, and AI Got Blamed",
+    "summary": "A TV4 system failure wiped out hundreds of hours of work, and Sweden\u2019s Aftonbladet newspaper reported that an AI agent was at fault, citing unnamed sources at the production company, called Mastiff.\nThe Swedish series was due to return on Nov. 22, but has been delayed indefinitely, TV4 said in a statement.\nThe TV4 network denies the Aftonbladet report that an AI agent deleted the episodes.\n\u201cWe don\u2019t have the exact details of what happened yet, but it\u2019s not true that this was caused by an AI agent.\nWhile TV4 said an AI agent was not to blame, it did not clarify whether another type of AI might have had some role in the deletion.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-10-16T00:00:22Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MzI=",
+    "url": "https://www.businessinsider.com/kpmg-survey-ceos-ai-agents-hiring-2026-10#article",
+    "title": "KPMG Survey: CEOs Share AI Impacts on Hiring and Training",
+    "summary": "Leaders of big US companies say AI agents are starting to produce gains, yet few report that the technology is fundamentally reshaping their businesses.\nKPMG US released a survey on Thursday of 400 CEOs of major US-based companies.\nAbout four in 10 said AI agents had delivered significant improvements in efficiency or growth, while a similar share reported moderate effects in targeted uses.\nThe survey signaled that CEOs don't see the technology simply as a tool for trimming payrolls.\nAbout eight in 10 CEOs said AI had prompted their organizations to reconsider how they develop employees.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-15T09:49:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://www.cnet.com/tech/services-and-software/international-ai-summit-demis-hassabis-climate/",
+    "title": "Google\u2019s Demis Hassabis Puts a Hopeful Spin on AI\u2019s Environmental Impact",
+    "summary": "\u201cI actually think with the help of AI, that\u2019s what\u2019s going to end up giving us the technology to tackle the climate question,\u201d he said.\nDuring his chat, Hassabis briefly mentioned this week\u2019s rollout of Google\u2019s new Gemini 4 Argon model and the debacle around OpenAI\u2019s claim to have solved the Navier-Stokes equation, one of history\u2019s most difficult mathematical problems.\nBut perhaps the most interesting aspect of his chat was what Hassabis did not say: AGI was not mentioned once.\nFive months later, a status report on progress toward AGI seemed to have slipped his mind.\n\u201cThat\u2019s even harder than finding the answer.\u201dAI and the climate crisisBefore exiting the stage in Dublin, Hassabis was asked about AI\u2019s significant sustainability problem.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-10-14T13:39:46Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MzY=",
+    "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+    "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+    "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.\nMicrosoft joins Google, Nvidia, and other companies developing AI tools for weather forecasting.\nInstead of creating a new standalone weather model, Microsoft\u2019s latest research in this realm uses machine learning to correct bias in existing models.\n\u201cI have a lot of hope both for the increased resource efficiency of weather forecasting and the extended reliability of forecasts, especially for extreme weather,\u201d Mackey tells The Verge.\nThe machine learning framework also doubled the accuracy of ECMWF\u2019s new AI forecasting system in the study\u2019s analysis.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-14T16:05:21Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://www.businessinsider.com/redwood-materials-recycled-ev-batteries-power-ai-data-centers-2026-10#article",
+    "title": "Redwood Materials Pitches AI Data Centers on Off-Grid Battery Power",
+    "summary": "The battery recycling startup is expanding beyond collecting and processing old EV batteries.\nIt's increasingly pitching itself as a way for AI data centers to get power faster, without waiting for new connections to America's backed-up electric grid.\nHis solution is what the industry calls \"behind-the-meter\" energy systems, which operate without needing to connect to the grid.\nRedwood would combine second-life EV batteries with solar panels and other on-site power sources, allowing customers to generate and store electricity at their own facilities.\nNow, it's increasingly selling something different: a faster way to bring power to energy-hungry AI data centers.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-14T13:00:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NDI=",
+    "url": "https://thenextweb.com/news/kyndryl-toyota-finance-agentic-ai",
+    "title": "Kyndryl will run AI agents inside Toyota Finance\u2019s live IT operations",
+    "summary": "Kyndryl and Toyota Systems will apply Kyndryl\u2019s agentic AI framework to Toyota Finance\u2019s IT change management, infrastructure design and impact analysis, in its production environment.\nKyndryl and Toyota Systems will run AI agents inside Toyota Finance\u2019s IT operations.\nThe agents will cover change management, infrastructure design and impact analysis, the companies said, working from Toyota Finance\u2019s own rules, runbooks and operational schedules to flag inconsistencies and risks.\nToyota Systems is its IT company.\nThe companies say they will operate in Toyota Finance\u2019s production environment, which is the step most such projects never reach.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-14T17:15:47Z",
+    "source": "The Next Web"
+  },
+  {
+    "id": "NDM=",
+    "url": "https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world/",
+    "title": "Tesla\u2019s Roadster 2 Is Late\u2014and Entering a Different EV World",
+    "summary": "Almost nine years ago, a tanned, relatively well-rested-looking CEO named Elon Musk announced that his electric car company would make a new sports car, the Tesla Roadster 2.\n\u201cEVs exist today in a massively different environment than when the Roadster was introduced,\u201d says Ed Kim, president of AutoPacific, an automotive research firm.\n\u201cGreat range, really quiet, charging at home\u2014none of that matters.\u201d In 2017, Tesla said the car would start at $200,000; reservation holders put down $50,000 deposits.\nIn 2017, Musk promised a then-record-breaking sub-2-second 0-to-60 acceleration time.\nOne option: Musk has suggested several times over the years that the new Roadster will fly, and reports suggest that the automaker will get help from Musk\u2019s rocket company SpaceX.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-14T09:15:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "NTg=",
+    "url": "https://www.yahoo.com/news/us/articles/fbi-arrest-revives-fears-u-090000730.html",
+    "title": "An FBI arrest revives fears that U.S. tech companies are hiring spies",
+    "summary": "The Saudi national attended the Massachusetts Institute of Technology and landed an engineering job at Meta, according to his LinkedIn page and online records.\nAdvertisement AdvertisementOther industry leaders - as well as some lawmakers - have long accused top-tier tech companies with many foreign workers of disadvantaging Americans and being breeding grounds for Chinese espionage.\nBy working at a prominent Silicon Valley firm, you become a \"big dog,\" said the former officer.\nAdvertisement AdvertisementLawmakers have been seeking to tighten the government's oversight of the security risks faced by AI companies.\nSilicon Valley insiders recounted stories of stiff security within tech firms due to concerns about espionage from both commercial companies and foreign governments, in recent years.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-15T09:00:00Z",
+    "source": "Yahoo Entertainment"
+  }
+]
