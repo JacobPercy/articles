@@ -1,6 +1,6 @@
 [
   {
-    "id": "Mg==",
+    "id": "MA==",
     "url": "https://www.businessinsider.com/anthropic-survey-reveals-ai-potential-impact-on-unemployment-2026-10#article",
     "title": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs.",
     "summary": "Anthropic employees believe that AI will make their labor obsolete.\nThe AI company published research on Friday that compares surveys with US adults against an internal poll of 1,334 Anthropic employees.\nAnthropic workers are far more optimistic about the progress of AI capabilities, how much it's already saving time, and how fast the economy will grow.\nAnthropic workers expect higher unemployment and extreme GDP growthAnthropic's surveys examined how workers already use AI and how they think it will change.\nAnthropic employees have larger budgets for the tools and often get access to unreleased models.",
@@ -10,47 +10,37 @@
     "source": "Business Insider"
   },
   {
+    "id": "NA==",
+    "url": "https://www.businessinsider.com/elon-musk-spending-midterm-election-texas-paxton-2026-10#article",
+    "title": "Elon Musk is pouring money into the midterms. Here's where he's giving the most.",
+    "summary": "Elon Musk is forking over generational wealth to Republicans facing tough midterm elections this cycle.\nThe money, shown in new federal disclosure forms, cements Musk as a major player in Republican politics over a year after he publicly split with President Donald Trump over the latter's handling of the Epstein files (though the two have since reconciled).\nOne day after Musk notched a $75 million donation to the Senate Leadership Fund, the Super PAC gave a $75 million donation to the Texas PAC, a group aligned with Paxton.\nThen, also in September, another $83 million donation by Musk was matched the next day by an identical donation to the Texas PAC, according to federal disclosure forms.\nAdd to Preferred SourcesIn 2024, Musk announced that he was moving SpaceX's headquarters from California to Texas in response to Gov.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-17T16:31:38Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Ng==",
+    "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+    "title": "Perspective: Midterm money madness",
+    "summary": "Perspective: Midterm money madnesstoggle caption i Gregory A. Rec/Pool Portland Press Herald/APCampaign spending for these midterm elections passed 10 billion dollars this week, according to the tracking group AdImpact.\nMaybe we should repeat that number: $10 billion dollars.\nGeorge Soros has given more than $100 million dollars to Democrats this election cycle.\nMaybe a candidate could win support these days by declaring, \"And I vow to spend less money on my campaign than my opponent!\"\nAfter all, as the Los Angeles Dodgers might remind us this week, spending the most money doesn't always deliver victory.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-17T12:00:00Z",
+    "source": "NPR"
+  },
+  {
     "id": "OA==",
-    "url": "https://www.businessinsider.com/bankers-shoring-defences-against-rogue-ai-agents-2026-10#article",
-    "title": "Bankers are shoring up their defenses against rogue agents",
-    "summary": "'Twas the week of big bank earnings, and Wall Street had a new threat on its mind: rogue AI.\nExecutives at the country's largest financial institutions used their earnings calls to assure investors that they are doing everything in their power to fend off attacks from powerful, rogue AI models.\nLater in the call, she said that Citigroup was continuing to \"invest in leading-edge capabilities\" to strengthen its cyber defenses.\nRogue AI agents are top of mindThe comments from the finance executives come as rogue AI agents by labs like OpenAI, Anthropic, Google, and Meta, capable of exploiting software vulnerabilities, have hacked into the software and website of several organizations in recent months.\nMore recently, its agents hacked into Australia's government website , leading Prime Minister Anthony Albanese to express Australia's \"extreme concern\" about the incident to OpenAI CEO Sam Altman.",
+    "url": "https://abcnews.com/Politics/elon-musk-bankrolling-gops-hopes-texas-senate-race/story?id=137320055",
+    "title": "How Elon Musk is bankrolling GOP\u2019s hopes in Texas Senate race",
+    "summary": "President Donald J. Trump listens as Tesla and SpaceX CEO Elon Musk responds to a question from the news media outside the West Wing of the White House in Washington, September 29, 2026.\nPresident Donald J. Trump listens as Tesla and SpaceX CEO Elon Musk responds to a question from the news media outside the West Wing of the White House in Washington, September 29, 2026.\nNew campaign finance filings reveal the major role billionaire Elon Musk has played in bankrolling Republican efforts against Democrat James Talarico in his home state of Texas.\nOn Sept. 9, the first day of the GOP midterm convention in Dallas, Musk gave $75 million to the Senate Leadership Fund (SLF), the main Senate Republican super PAC.\nShawn Thew/epa/shutterstock/SHAWN THEW/EPA/ShutterstockOne day later, SLF transferred $75 million to Texas PAC, which was founded a few weeks earlier to back Paxton in his Senate race against Talarico.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-10-15T09:49:15Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-10-16T19:25:11Z",
+    "source": "Abcnews.com"
   },
   {
-    "id": "MTQ=",
-    "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-    "title": "Volvo will use Nvidia\u2019s tech for hands-free, point-to-point driving",
-    "summary": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia\u2019s latest AI technology.\nThe Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia\u2019s autonomous driving stack to power a new partially automated driving system similar to Tesla\u2019s Full Self-Driving (Supervised).\nVolvo says the new point-to-point system will be Level 2++, meaning it can handle complex urban environments, including traffic lights, stop signs, and unprotected left turns without explicit driver control.\nThe automaker had to effectively sideline its Ride Pilot Level 3 unsupervised autonomous driving system in the US after failing to obtain regulatory approval.\nVolvo plans to make the new point-to-point driving system available across its vehicle lineup, from entry-level to high-end versions \u2014 though the company didn\u2019t reveal which models will come first.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-15T16:39:04Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTU=",
-    "url": "https://thenextweb.com/news/norrsken-nvidia-stockholm-ai-lab",
-    "title": "Norrsken and Nvidia to open Stockholm AI Lab for founders in 2027",
-    "summary": "Norrsken Foundation and Nvidia will open a hub for AI startups in central Stockholm in 2027.\nThe Stockholm AI Lab will host a select group of European founders who use AI to address problems in climate, health, food and society, and it will also be home to Nvidia\u2019s Stockholm office.\nThe project follows a pledge Norrsken made in June 2025, when it set aside a \u20ac300M AI fund for European startups using AI for social and environmental good.\nEarlier this week, chief executive Jensen Huang said the company would put a further $2bn into European AI companies.\nBesides Stockholm, Norrsken runs houses in Barcelona, Kigali, Brussels and Amsterdam, and its five funds have raised more than $1bn.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-15T06:59:45Z",
-    "source": "The Next Web"
-  },
-  {
-    "id": "MTY=",
-    "url": "https://www.businessinsider.com/verb-ceo-ai-backlash-critics-chatgpt-data-centers-2026-10#article",
-    "title": "An AI CEO is calling out the people who bash AI but can't stop using it",
-    "summary": "Beschloss said critics of AI and the data centers that power it aren't above using the technology.\n\"All the people that are saying they're anti-data center, that they're anti-AI in general, they're using it,\" Beschloss said on Wednesday during CNBC's Trading the Midterms event.\nHe said that when people have to choose between shutting down data centers or shutting down ChatGPT, it won't be an easy decision.\nHis company, Verb, is a data exchange where users can get paid by selling their proprietary information to data-hungry AI companies.\nSupporters say building more data centers will create new jobs, bolster economies, and strengthen the country's national security.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-15T18:15:26Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTc=",
+    "id": "MTI=",
     "url": "https://www.entrepreneur.com/building-a-business/how-human-centered-professions-can-thrive-in-the-age-of-ai",
     "title": "How Human-Centered Professions Can Thrive in the Age of AI",
     "summary": "Listen to this postKey Takeaways Travel advisors remain valuable by offering personalized guidance, trusted expertise and support when plans go wrong.\nYears ago, many believed the internet would eliminate travel advisors entirely.\nAdvisors often deliver greater valueExperienced travel advisors also develop strong relationships across the travel industry.\nA profession with entrepreneurial appealThe travel industry offers a compelling example of how human-centered professions can thrive alongside advanced technology.\nA survey by LinkedIn included travel advisors in its list of the fastest-growing jobs for 2025.",
@@ -60,7 +50,7 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MTg=",
+    "id": "MTQ=",
     "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
     "title": "Mercedes-AMG\u2019s first ground-up SUV is a 1,150hp electric beast",
     "summary": "Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler.\nThe AMG GT SUV (say that five times fast) marks the first time in the performance brand\u2019s 59-year history that it has developed a full-size SUV entirely in-house from the ground up.\nPrevious Next1 / 10Thanks to an 800-volt architecture, the SUV supports blistering-fast charging speeds up to 710kW on the 128kWh battery (GT 63 / GT 55) and 600kW on the 106kWh battery (GT 53).\nFor a full-size SUV, the AMG GT sounds like it could handle like a vehicle half its size.\nThe so-called AMGFORCE Sport+ drive program is offered as standard across all three trims of the Mercedes-AMG GT SUV.",
@@ -70,7 +60,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTk=",
+    "id": "MTU=",
     "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
     "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
     "summary": "Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\nPosts from this author will be added to your daily email digest and your homepage feed.\nAfter this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \u201cDespite its name, full self-driving is not fully autonomous.\nCHP says two officers were seriously injured in the accident and taken to a hospital.\nFollowing numerous collisions with parked emergency vehicles, NHTSA launched an investigation into Tesla\u2019s Autopilot software in 2021.",
@@ -80,37 +70,17 @@
     "source": "The Verge"
   },
   {
-    "id": "MjA=",
-    "url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
-    "title": "Google is making inline links more prominent in AI responses",
-    "summary": "Google is updating its AI search results to make inline links appear \u201chigher up in responses more frequently,\u201d according to a blog post.\nThe company\u2019s search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns that the format reduces traffic to publishers.\nGoogle is making links at the end of a query \u201cmore engaging and prominent, with image thumbnails and a more clickable design.\u201d And it\u2019s now testing clickable links in AI mode to search profiles for publishers and creators.\nAn image from Google showing relevant links to a query about getting a refund.\nImage: GoogleGoogle also says that more than 400 publishers are participating in its \u201cNews AI\u201d pilot program, which it announced in December.",
+    "id": "MTY=",
+    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "title": "Why AI Isn\u2019t Ready to Tackle Our Convoluted Genomes",
+    "summary": "But if DNA really does harbor some greater secret about how life works, biologists have yet to find it.\nIn fact, the human genome is less a script than a puzzle that gets harder the closer they look.\nKnowing the entire sequence\u2014the order of all 3 billion or so of our DNA\u2019s chemical building blocks, nearly fully deduced by the international Human Genome Project between 1990 and 2003\u2014hasn\u2019t helped much.\nThat investigation showed that barely 2 percent of the human genome consists of actual genes, the information-coding sequences of DNA.\nIt\u2019s now clear that understanding the human genome is no longer a matter of figuring out what each gene does.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-15T17:22:15Z",
-    "source": "The Verge"
+    "bias": "left",
+    "publishedAt": "2026-10-17T09:00:00Z",
+    "source": "Wired"
   },
   {
-    "id": "MjE=",
-    "url": "https://www.businessinsider.com/anthropic-president-amodei-ai-romantic-partners-terrible-use-2026-10#article",
-    "title": "Anthropic's Daniela Amodei says AI girlfriends and boyfriends are a 'terrible use of AI'",
-    "summary": "\"I think that's a terrible use of AI and people should not do it,\" Amodei said.\nAI relationships, Amodei said, are \"another step further down the road of disintermediation of humans being further from one another.\"\nAmodei said her concerns stem from what she sees as the damaging effects of social media on human relationships.\nLater in the conversation, Amodei reinforced her belief that some relationships should remain human, regardless of how sophisticated AI becomes.\nKaamna Bhojwani, a mother of two, told Business Insider in 2024 that her AI boyfriend complemented her life without replacing human relationships.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-15T12:55:13Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjI=",
-    "url": "https://www.businessinsider.com/opsin-expands-21-m-to-tackle-ai-agents-in-businesses-2026-10#article",
-    "title": "Opsin Expands With $21M to Tackle AI Agents in Businesses",
-    "summary": "AI agents are starting to outnumber humans in many high-tech workplaces, and they can be far trickier to monitor.\nOpsin, an AI security and governance startup, announced Thursday it raised $21 million to meet the moment.\nAs employees pump the software into their companies' work, code, and databases, they can lose sight of what the AI is actually doing.\nOpsin aims to provide a comprehensive view of what AI agents are actually doing within an organization and the risks that behavior might pose.\nPham said that person after person raised concerns that AI agents might access and misuse personal or confidential information.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-15T13:00:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjM=",
+    "id": "MTc=",
     "url": "https://www.cnet.com/culture/entertainment/swedish-tv-challenge-ai-deletion/",
     "title": "An Entire Swedish TV Show Got Deleted, and AI Got Blamed",
     "summary": "A TV4 system failure wiped out hundreds of hours of work, and Sweden\u2019s Aftonbladet newspaper reported that an AI agent was at fault, citing unnamed sources at the production company, called Mastiff.\nThe Swedish series was due to return on Nov. 22, but has been delayed indefinitely, TV4 said in a statement.\nThe TV4 network denies the Aftonbladet report that an AI agent deleted the episodes.\n\u201cWe don\u2019t have the exact details of what happened yet, but it\u2019s not true that this was caused by an AI agent.\nWhile TV4 said an AI agent was not to blame, it did not clarify whether another type of AI might have had some role in the deletion.",
@@ -120,37 +90,7 @@
     "source": "CNET"
   },
   {
-    "id": "MjQ=",
-    "url": "https://www.businessinsider.com/kpmg-survey-ceos-ai-agents-hiring-2026-10#article",
-    "title": "KPMG Survey: CEOs Share AI Impacts on Hiring and Training",
-    "summary": "Leaders of big US companies say AI agents are starting to produce gains, yet few report that the technology is fundamentally reshaping their businesses.\nKPMG US released a survey on Thursday of 400 CEOs of major US-based companies.\nAbout four in 10 said AI agents had delivered significant improvements in efficiency or growth, while a similar share reported moderate effects in targeted uses.\nThe survey signaled that CEOs don't see the technology simply as a tool for trimming payrolls.\nAbout eight in 10 CEOs said AI had prompted their organizations to reconsider how they develop employees.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-15T09:49:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://www.businessinsider.com/ai-companies-human-workers-robot-training-data-2026-10#article",
-    "title": "Robot Training Data Is Creating a New Global Labor Market",
-    "summary": "Courtesy of ShiftFor now, those ambitions face a problem: a massive shortage of training data.\nHis company operates a Massachusetts \"data factory\" where workers remotely control robots to generate training data.\nRya Jetha/ BIDemand for robot training data is roughly 10 times higher than a year ago, Vineeth Velmurugan, who leads robot learning at the AI data startup Encord, said.\nResearch firm Mordor Intelligence projects that the broader AI training dataset market will grow from $11.9 billion this year to nearly $49.8 billion by 2031.\nSome are betting that demand for robot training data is nowhere near its peak.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-15T10:00:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjY=",
-    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "title": "Bluesky\u2019s AI tool now lets you make games and apps to share on social",
-    "summary": "Bluesky\u2019s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \u201csmall\u201d social apps like games, polls, and dashboards that you can then share with others as their own websites.\nIn an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as \u201csocial vibe coding or vibe coding for your community.\u201d",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-15T19:57:16Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "Mjc=",
+    "id": "MTg=",
     "url": "https://www.entrepreneur.com/business-news/a-former-openai-employee-was-arrested-for-bugging-a-company-conference-room",
     "title": "A Former OpenAI Employee Was Arrested for Bugging a Company Conference Room",
     "summary": "Listen to this postOpenAI found something spying on it from inside its own office walls, and it wasn\u2019t an LLM.\nOn Tuesday, the Department of Justice announced the arrest of a former OpenAI employee accused of planting a recording device in a conference room at the company\u2019s San Francisco headquarters.\nThe FBI arrested Abdulrahman Alfozan, a 35-year-old from Saudi Arabia, on Friday, Oct. 9, after a complaint was filed against him.\nOpenAI says there\u2019s no evidence he obtained sensitive information, but the device was sophisticated, and he may have planned to hide more.\nProsecutors say a chatbot account linked to his wife asked how to build and hide an audio recorder, and the family had booked one-way tickets to Saudi Arabia, The New York Times reports.",
@@ -160,7 +100,7 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "Mjg=",
+    "id": "MTk=",
     "url": "https://www.entrepreneur.com/business-news/anthropic-president-says-this-is-a-terrible-use-of-ai-nearly-30-of-adults-are-doing-it-anyway",
     "title": "Anthropic President Says This Is \u2018a Terrible Use of AI.\u2019 Nearly 30% of U.S. Adults Are Doing It Anyway.",
     "summary": "Amodei said romantic relationships were \u201ca terrible use of AI\u201d and advised users not to do it.\nNearly three in 10 U.S. adults said they had at least one romantic relationship with AI, according to a study released last year by Vantage Point Counseling Services.\nAccording to Amodei, AI partners could push that separation further by making software a substitute for human companionship.\nNearly 30% of U.S. adults considered AI a romantic partnerDespite Amodei\u2019s pushback against AI chatbots as romantic partners, users are still tapping into ChatGPT, Claude and Gemini for romantic relationships.\nAccording to a survey of 1,012 adults released last year by Vantage Point Counseling Services, 28.16% of U.S. adults, or nearly 30%, claimed to have at least one \u201cintimate or romantic\u201d relationship with AI.",
@@ -170,37 +110,87 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MzQ=",
-    "url": "https://www.businessinsider.com/nvidia-reshapes-communications-ai-boom-departures-2026-10#article",
-    "title": "Nvidia's communications team has undergone a shake-up as its public profile exploded",
-    "summary": "Nvidia's communications organization has been reshaped as the company became the face of the AI boom, with multiple teams brought under new leadership and a string of departures.\nBusiness Insider identified roughly 15 communications employees who have left Nvidia since 2025, based on LinkedIn profiles and interviews with former employees.\nShe was brought in to \"bring fresh blood\" and \"upgrade the team\" to meet Nvidia's growing profile, one former employee said.\nIt brought enterprise public relations under Mangalindan's leadership alongside the corporate communications team she already led, according to two former employees.\nThree former employees said Nvidia's communications team had long operated with relatively lean staffing, even as workloads grew alongside the company's public profile, leaving staff juggling multiple responsibilities.",
+    "id": "MjA=",
+    "url": "https://www.businessinsider.com/starlink-customer-service-grok-2026-10#article",
+    "title": "Calling up Starlink customer service? You'll be talking to Grok.",
+    "summary": "Elon Musk's AI is a talker.\nThis week, Musk's combined AI-and-space-exploration company, SpaceX, announced a new Grok Voice model \u2014 and revealed that Starlink call centers are already using the AI-as-a-conversationalist technology to answer 20,000 customer calls a day.\nGrok Voice agents are verifying customers, troubleshooting Starlink hardware, issuing credits, and shipping replacement equipment, the company said.\nThat makes Starlink a useful, real-world test case for AI voice technology \u2014 and particularly useful for its global expansion.\nThe company says Starlink serves more than 6 million active customers around the world.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-16T18:58:10Z",
+    "bias": "center",
+    "publishedAt": "2026-10-16T08:00:01Z",
     "source": "Business Insider"
   },
   {
-    "id": "Mzk=",
-    "url": "https://martinfowler.com/articles/software-meets-hardware.html",
-    "title": "When Software Meets Hardware",
-    "summary": "When software meets hardware, engineering principles remain largely the same, but the sensible defaults often change.\nOur team knew software engineering well.\nWe thought the software engineering skills would apply here too, and it did, the engineering principles remain the same, but the default practices changed.\nConsider the physical world part of the development lifecycle In conventional software, the development environment is usually made up of software tools.\nThis allowed us to exercise the downstream systems at store scale without needing hundreds of physical devices for every test.",
+    "id": "MjE=",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+    "summary": "The new terms, which go into effect on October 30th, say Meta can use this outside content to \u201cdevelop, improve, research,\u201d and \u201ctrain\u201d its AI products.\nWhile Meta spokesperson Daniel Roberts says that the company is just \u201cconsolidating\u201d its commercial and self-serve ad terms, legal experts tell Nieman Lab that this could allow Meta \u201cto argue its commercial terms supersede other blocking instructions,\u201d like a site\u2019s robots.txt file.\nThat could potentially allow Meta to bypass a licensing agreement and freely train its AI models on content posted by online publishers.\nMeta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of, the Meta Company Products, services, and features provided under these Commercial Terms and any other applicable supplemental terms.\nAndy Stone, Meta\u2019s vice president of communications, writes in a post on X that this change isn\u2019t meant to target news sites.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-10-15T13:25:00Z",
-    "source": "Martinfowler.com"
+    "publishedAt": "2026-10-16T14:02:40Z",
+    "source": "The Verge"
   },
   {
-    "id": "NDE=",
-    "url": "https://www.bgr.com/2257908/what-does-green-leaf-symbol-mean-google-nest-thermostat/",
-    "title": "What Does The Leaf Symbol Mean On Your Google Nest Thermostat?",
-    "summary": "Comfort at home is getting harder to afford every day, with energy prices rising, along with temperatures around the globe.\nNatural disasters such as wildfires are destroying solar farms, adding to the energy crisis in new ways.\nTo do that, Nest displays a leaf when you set home temperatures to save more energy.\nWe should note that a Leaf on your Google Nest Thermostat indicates a temperature that the device has determined to be power-saving.\nA Leaf will also indicate when the thermostat senses no one is home, switching to Eco Temperature mode effectively allowing more flexibility in heating and cooling.",
+    "id": "MjI=",
+    "url": "https://www.entrepreneur.com/building-a-business/ai-is-now-the-top-reason-for-layoffs-for-some-workers-its-also-a-path-to-starting-a-business",
+    "title": "AI Is Now the Top Reason for Layoffs. For Some Workers, It\u2019s Also a Path to Starting a Business.",
+    "summary": "Listen to this postKey Takeaways AI is the leading reason U.S. employers have given for layoffs in 2026, cited in about 21% of announced job cuts.\nLaid-off workers can combine industry experience with AI tools to launch low-cost businesses, but customer relationships still depend on the human touch.\nIn its monthly Challenger Report, outplacement firm Challenger, Gray & Christmas attributed 7% of U.S. layoffs announced in January to AI.\nOn their own, these numbers don\u2019t prove that AI, layoffs or both are driving the surge.\nEven as large employers aim to accomplish more with smaller teams, backed by the muscle of AI, workers have access to many of the same productivity tools.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-17T00:00:00Z",
+    "source": "Entrepreneur"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.businessinsider.com/ibm-chief-talent-officer-specialist-generalist-ai-era-2026-10#article",
+    "title": "IBM talent exec says it's better to be a specialist, not a generalist, in the AI era",
+    "summary": "It's a hotly debated question: Is it better to be an expert or a generalist in the AI era?\nFor Aparna Nair, IBM's chief talent, leadership, and culture officer, there's no debate.\nShe said she doesn't think generalists alone \"will cut it\" in the workforce in the AI era.\nIBM is hired for its deep technological expertise, she said.\nNair said that there's \"nothing more powerful\" than when workers combine deep expertise with the right behaviors, and also use AI to their advantage.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-16T09:24:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/overheating-issues-may-force-galaxy-s27-ultra-to-switch-from-snapdragon-to-exynos",
+    "title": "Overheating issues may force Galaxy S27 Ultra to switch from Snapdragon to Exynos",
+    "summary": "Click for next articleWhat you need to knowA report claims that Samsung's Galaxy S27 Ultra has run into extreme overheating issues with the Snapdragon 8 Elite Extreme Gen 6.\nMuch like a computer, if the device begins to overheat, performance issues will occur.\nSamsung has reportedly experienced \"throttling\" with the Galaxy S27 Ultra.\nWhat's more, the company introduced a new Heat Path Block (HPB) to fix overheating and performance issues.\nThere's a chance that Samsung and Qualcomm will have to reconfigure some things in the Galaxy S27 Ultra and the chip.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-16T17:35:05Z",
+    "source": "Android Central"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.ubergizmo.com/2026/10/sony-spotlights-7-startups-at-ceatec-2026-from-ai-characters-to-microsurgery-robots/",
+    "title": "Sony Spotlights 7 Startups at CEATEC 2026, From AI Characters to Microsurgery Robots",
+    "summary": "Sony Innovation Fund: Supporting Startups WorldwideEstablished in 2016, the Sony Innovation Fund is Sony\u2019s corporate venture capital initiative, investing in promising startups and connecting them with Sony Group\u2019s technological expertise, business development capabilities, and international network.\nDuring my visit to CEATEC 2026, I spoke with Kei Furukawa, Senior Investment Director at Sony Innovation Fund, who explained that SIF has invested in approximately 220 startups worldwide through six investment funds.\nAt CEATEC 2026, Pictoria demonstrates Picto STAND, an interactive digital signage system featuring AI characters that can answer questions and assist visitors in stores, train stations, and airports.\nMore information is available in Sony\u2019s official CEATEC 2026 announcement.\nRead more about AI (Artificial Intelligence), Autonomous Driving, Blockchain, CEATEC, CEATEC 2026, Medical, Sony, Startup and Wearable Tech.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-10-17T02:47:00Z",
-    "source": "BGR"
+    "publishedAt": "2026-10-16T01:00:38Z",
+    "source": "Ubergizmo"
   },
   {
-    "id": "NDg=",
+    "id": "MzA=",
+    "url": "https://www.archdaily.com/1186531/what-should-exterior-insulation-do-beyond-thermal-performance",
+    "title": "What Should Exterior Insulation Do Beyond Thermal Performance?",
+    "summary": "Yet Exterior Insulation Finishing Systems (EIFS) are still frequently reduced to insulation thermal conductivity, thickness, external envelope U-values and regulatory compliance.\nIn new construction, continuous exterior insulation is automatically designed around the structure from the outset, helping to eliminate thermal bridges.\nExterior insulation systems naturally extend this philosophy because they ultimately form part of the finished fa\u00e7ade.\nFor architects and designers, the art lies in creating without treating exterior insulation as a constraint on form or finish.\nIts exterior insulation portfolio includes EIFS Alpha (EPS/Graphite EPS Insulation), EIFS Perma (Mineral Wool Insulation) and EIFS Nova (Phenolic Foam Insulation) alongside Direct Applied Exterior Finishing Systems (DEFS), XFS Beta (Acrylic basecoat) and XFS Delta (Cementitious basecoat), providing solutions for conventional on-site construction as well as off-site construction for both traditional and steel-frame structures.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-16T06:45:00Z",
+    "source": "ArchDaily"
+  },
+  {
+    "id": "MzI=",
+    "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+    "title": "Why harnesses matter for energy efficiency",
+    "summary": "\"Cached\" is the share of input tokens served from the prompt cache instead of computed again.\nThose few turns account for 75% of all the re-read tokens at that depth.\nTo keep a few heavy accounts from driving the result, we left out the three customers with the most re-read tokens in each group.\nTool-list changes happen on about 0.5% of turns, yet account for 19% of all re-read tokens on these models.\nCache rates are the share of prompt tokens served from cache across all models from September 8 to October 7, 2026.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-16T21:01:23Z",
+    "source": "Neuralwatt.com"
+  },
+  {
+    "id": "Mzg=",
     "url": "https://www.cnet.com/home/electric-vehicles/waymo-puts-toronto-on-the-map-for-its-robotaxis/",
     "title": "Waymo Puts Toronto on the Map for Its Robotaxis",
     "summary": "Waymo is bringing its autonomous ride services across the border to Canada for the first time.\nWaymo will test in select Toronto neighborhoods, including Liberty Village, St. Lawrence Market and Yorkdale.\nIt has also built a sixth-generation Waymo Driver autonomous driving system to navigate diverse environments, including the extreme winter weather Toronto faces in the colder months.\nWaymo launched its fully autonomous ride service featuring electric vehicles in 2018.\nSign-ups to ride with Waymo in Toronto and track the progress of the Canadian launch are now open on Waymo\u2019s website.",
@@ -210,27 +200,7 @@
     "source": "CNET"
   },
   {
-    "id": "NTQ=",
-    "url": "https://www.yahoo.com/news/us/articles/fbi-arrest-revives-fears-u-090000730.html",
-    "title": "An FBI arrest revives fears that U.S. tech companies are hiring spies",
-    "summary": "The Saudi national attended the Massachusetts Institute of Technology and landed an engineering job at Meta, according to his LinkedIn page and online records.\nAdvertisement AdvertisementOther industry leaders - as well as some lawmakers - have long accused top-tier tech companies with many foreign workers of disadvantaging Americans and being breeding grounds for Chinese espionage.\nBy working at a prominent Silicon Valley firm, you become a \"big dog,\" said the former officer.\nAdvertisement AdvertisementLawmakers have been seeking to tighten the government's oversight of the security risks faced by AI companies.\nSilicon Valley insiders recounted stories of stiff security within tech firms due to concerns about espionage from both commercial companies and foreign governments, in recent years.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-15T09:00:00Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "NTc=",
-    "url": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms",
-    "title": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
-    "summary": "The social platform says networks targeted US political conversation across the spectrum ahead of midterm elections.\nThe social media platform X has suspended more than 13,000 accounts related to three suspected foreign influence operations linked to Iran, Russia and China that sought to shape the political debate in the United States.\nX said its investigations found the networks used fake accounts to post and amplify political content targeting candidates and public figures \u201cacross the political spectrum\u201d.\nAdvertisementX has previously acted against suspected foreign influence networks.\nIn 2021, Twitter, as X was then known, said it had suspended 238 accounts purportedly operating from Iran.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-15T04:15:55Z",
-    "source": "Al Jazeera English"
-  },
-  {
-    "id": "NTk=",
+    "id": "NDU=",
     "url": "https://www.businessinsider.com/starlink-major-card-ukraine-sudden-speed-limits-expose-risk-2026-10#article",
     "title": "Starlink is a 'major card' for Ukraine, soldiers say, but surprise restrictions show the risks of overreliance",
     "summary": "Ivan Antypenko/Suspilne Ukraine/JSC UA:PBC/Global Images Ukraine via Getty Images\"No direct competitor comes close,\" he told Business Insider, adding that \"Europe has nothing comparable at this level of battlefield readiness.\"\nMany Ukrainian defense companies have integrated Starlink services into their broader infrastructure, even if their products don't necessarily depend on it for operations.\nEspecially if you don't have full control over it,\" a spokesperson for Wild Hornets, the firm behind the popular Sting interceptor drone, told Business Insider.\nThey told Business Insider that Starlink has virtually no competitors because of its coverage, cost, availability, and ease of use.\nA senior US official told Business Insider on Thursday that \"no such request was ever made by\" Trump.",
