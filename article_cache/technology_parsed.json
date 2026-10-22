@@ -1,6 +1,36 @@
 [
   {
-    "id": "Ng==",
+    "id": "OA==",
+    "url": "https://www.businessinsider.com/elon-musk-money-irrelevant-ai-robots-space-generational-wealth-taxes-2026-10#article",
+    "title": "Elon Musk Says Money May Become 'Irrelevant,' His Fortune Could Vanish",
+    "summary": "Elon Musk says money could be meaningless one day, and the vast majority of his wealth will likely be gone within a few generations.\nThe world's richest person predicted that advances in robotics and space travel will create a multiplanetary economy, at which point \"money becomes irrelevant\" and \"conventional currency will not matter.\"\nThe Tesla and SpaceX CEO shared his vision of a post-money future and his outlook on his personal fortune with his biographer, Walter Isaacson, on \"The Builders\" podcast.\nHe also outlined what he hopes his foundation will spend his fortune on after he's gone: \"Continue the goals.\n\"If money won't matter in 2036, why don't you pledge to donate your current wealth of approximately $1 trillion to charity no later than 2036,\" Acemoglu wrote on X.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-20T16:03:30Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "OQ==",
+    "url": "https://www.entrepreneur.com/business-news/tech/ai-is-exposing-a-leadership-blind-spot-whos-actually-responsible-for-making-employees-more-capable",
+    "title": "AI Is Exposing a Leadership Blind Spot: Who\u2019s Actually Responsible for Making Employees More Capable?",
+    "summary": "I believe this responsibility deserves a clearer executive mandate: the Chief Human Capacity Officer (CHCO).\nIt\u2019s that Human Capacity Development must become a strategic priority with measurable accountability.\nHuman Capacity Development adds another dimension: Are employees becoming better thinkers, stronger leaders, more adaptable collaborators and more effective decision-makers?\nWhat would human capacity leadership look like?\nA Chief Human Capacity Officer (CHCO) can connect the two by asking how people can continue becoming more capable throughout their careers.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-20T11:00:00Z",
+    "source": "Entrepreneur"
+  },
+  {
+    "id": "MTM=",
+    "url": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental",
+    "title": "JustWatch now streams TV shows and movies, too",
+    "summary": "After announcing plans to introduce its own streaming service last month, JustWatch, a popular guide and search engine for finding things to watch on existing platforms like Disney Plus and Netflix, launched JustWatch TV today.\nJustWatch TV Free includes a \u201ccurated selection of titles\u201d available with ads, while the paid JustWatch TV Plus subscription has over 300 ad-free titles plus other exclusive app features like the ability to hide shows you\u2019ve disliked or already watched in its guide.\nThe JustWatch TV Store will include a \u201cgrowing selection of recent and popular movies to rent\u201d but is initially only available in the US, UK, Ireland, Australia, and New Zealand.\nJustWatch TV Plus will be priced at $3.99 per month and include a 10 percent discount on rentals, but the company is also offering a $49.99 lifetime subscription for a limited time.\nUpdate, October 20th: Noted that the lifetime subscription is a limited-time offer.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-20T18:56:50Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTQ=",
     "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-he-is-going-to-give-spacex-stock-away-to-kids-090305874.html",
     "title": "Elon Musk says he's giving SpaceX stock to every kid in America",
     "summary": "This will be the first of many,\" SpaceX founder and CEO Elon Musk said in an X post on Monday.\nMusk didn't specify an age range for the proposed gift, but a Bloomberg report indicated he could use Trump Accounts as the vehicle for his stock donations.\nSpaceX stock rose 1% in morning trading on Monday.\nSpaceX COO Gwynne Shotwell has already pledged a personal donation of more than $320 million in SpaceX stock to fund Trump Accounts for more than 2 million children.\nClick here for in-depth analysis of the latest stock market news and events moving stock prices",
@@ -10,7 +40,7 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "Nw==",
+    "id": "MTU=",
     "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-hes-giving-spacex-stock-to-every-kid-in-america-131435467.html",
     "title": "Elon Musk says he's giving SpaceX stock to every kid in America",
     "summary": "This will be the first of many,\" SpaceX founder and CEO Elon Musk said in an X post on Monday.\nMusk didn't specify an age range for the proposed gift, but a Bloomberg report indicated he could use Trump Accounts as the vehicle for his stock donations.\nSpaceX stock rose 1% in morning trading on Monday.\nSpaceX COO Gwynne Shotwell has already pledged a personal donation of more than $320 million in SpaceX stock to fund Trump Accounts for more than 2 million children.\nClick here for in-depth analysis of the latest stock market news and events moving stock prices",
@@ -20,57 +50,77 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MTA=",
-    "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/",
-    "title": "Apple Buys AI Audio Editing App Samplab",
-    "summary": "Apple acquired AI audio editing app Samplab in June, according to a notice shared today by the European Commission.\nSamplab offered a desktop app and plugins for converting audio to MIDI, detecting and editing chords, stem splitting for isolating different parts of a song, and editing notes in polyphonic audio without affecting the timbre of the original.\nApple could fold the company's tools into Logic Pro or GarageBand.\nLogic Pro already has Stem Splitter and Chord ID, but polyphonic note editing would be new.\nThe filing says Apple acquired \"certain assets\" from Samplab and hired \"certain Samplab employees.\"",
+    "id": "MTc=",
+    "url": "https://www.cnet.com/tech/services-and-software/midterms-top-american-fears-ai-interference-political-process/",
+    "title": "As Midterms Approach, Top American Fears Include AI Interference in the Political Process",
+    "summary": "Are you more fearful of AI stealing jobs, hurting the economy and disrupting the political process than you are of someone you love dying?\nA lot of people are, according to Chapman University\u2019s 12th annual survey on American fears for 2026.\nThese were the top fears in the minds of the American people for 2026.\nThe addition of AI makes a lot of sense in the world that we live in today, however.\nIn the top 10 list, AI-related fears surround the technology harming both the election process (ranked third) and the economy (ranked seventh).",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-19T22:35:24Z",
-    "source": "MacRumors"
+    "bias": "right",
+    "publishedAt": "2026-10-20T19:28:30Z",
+    "source": "CNET"
   },
   {
-    "id": "MTM=",
-    "url": "https://www.businessinsider.com/what-smart-people-are-saying-about-anthropic-5-pledge-2026-10#article",
-    "title": "What smart people are saying about Anthropic's 5% 'public benefit' pledge",
-    "summary": "Tracy Connor is the Standards Editor at Business Insider.\nIn her role she works with journalists on questions during the reporting process, reviews sensitive pieces, oversees editorial policies, and helps train people on standards.\nShe is the former editor-in-chief of The Daily Beast, where she began as the executive editor, overseeing an award-winning newsroom of about 70 staffers.\nPreviously, she was a senior reporter for the NBC News Investigations Unit, working on projects for digital and broadcast.\nA graduate of Columbia University and the Coney Island Sideshow School, she lives in Brooklyn with her franken-dog Pearl.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-19T04:36:41Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTQ=",
-    "url": "https://www.businessinsider.com/meta-data-center-louisiana-jobs-2026-10#article",
-    "title": "Louisiana residents are training for jobs at Meta's largest-ever AI data center: 'Why not get in now?'",
-    "summary": "Thousands of construction workers are arriving in a small Louisiana community to build Meta's largest-ever data center.\nCrowe Jr. is among the students who signed up for the community college's Data Center Technician program.\nThe four-week, nearly $3,700 training course prepares students to enter the data center industry, which is rapidly expanding to support the age of AI.\nConstruction for Meta's nearly 10-million-square-foot data center, Hyperion, is underway in rural Richland Parish, where business is now thriving as workers flood the region.\nBooked and busyResidents in Richland Parish, like other communities in the United States, have mixed feelings about the data center.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-18T09:04:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTU=",
-    "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10#article",
-    "title": "I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic.",
-    "summary": "Around two years ago, I started shifting my career toward AI because I thought it was the future.\nJoining the AI boom early seemed like the perfect career moveI made the transition while the AI boom was still gaining momentum.\nI felt like I was ahead of a major change rather than trying to catch up with it.\nPeople would ask me which tools to use, whether AI would replace their jobs, or what I thought about the latest developments.\nI don't regret moving into AI, but I no longer feel as certain about the decision as I once did.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-18T10:47:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTY=",
-    "url": "https://tech.yahoo.com/cybersecurity/articles/self-replicating-ai-worms-why-133000706.html",
-    "title": "What are self-replicating \u2018AI worms\u2019, and why is Anthropic worried about them?",
-    "summary": "The damage of such \"AI worms\" could be astonishingly large.\nWorse, they theorized that an AI worm could keep adapting to other types of hardware by researching newly disclosed vulnerabilities.\nWhat differentiates AI worms from typical reproducing viruses is that AI models can learn as they go, said Ariel Herbert-Voss, an early security expert at OpenAI who now runs AI security startup RunSybil.\n\"The question of whether AI worms are plausible has been settled by several breakout events over the past six months,\" Inglis said by digital message.\nGuan and other experts said that, as a practical matter, an AI worm should not top anyone's list of AI fears.",
+    "id": "MTk=",
+    "url": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
+    "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
+    "summary": "AMD has just revealed that it\u2019s bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and both the Xbox Ally and Xbox Ally X handhelds.\nAnd it\u2019s coming fast \u2014 FSR 4.1 will start appearing for Radeon RX 6000-series GPUs today, as well as Ryzen AI Max 300 and 400 series devices and Ryzen AI 9 300 and 400 series devices.\nFSR 4.1 can improve performance in more than 300 supported games, including Cyberpunk 2077, Battlefield 6, and Assassin\u2019s Creed Shadows.\nFSR 4.1 arrives just weeks after Sony and AMD teamed up to bring Quick Spectral Super Resolution (QSSR) to the base PS5, based on Sony and AMD\u2019s Project Amethyst work.\nValve has not yet confirmed it will come to the Steam Deck, but it would be surprising if it didn\u2019t: the Xbox Ally\u2019s Z2 A chip, which is now getting FSR 4.1, is very similar to the one in the Deck.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-10-18T13:30:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2026-10-20T16:21:18Z",
+    "source": "The Verge"
   },
   {
-    "id": "MTc=",
+    "id": "MjA=",
+    "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+    "title": "SpaceX says big AI growth fueled revenue jump",
+    "summary": "He joined The Verge in 2019 after nearly two years at Techmeme.\nPosts from this author will be added to your daily email digest and your homepage feed.\nSpace business revenues were $1.8 billion, up six percent year-over-year.\nDuring the Q2 earnings call, president Gwynne Shotwell described plans to build out a terrestrial mobile network to compete with T-Mobile, AT&T and Verizon.\nIn SpaceX\u2019s Q2 earnings, the company also noted that its \u201cconnectivity\u201d business, which encompasses Starlink, didn\u2019t have a loss from operations, while its AI and space businesses did.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-20T20:26:58Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjE=",
+    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nSpotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year.\n\u201cOur editors hold the same standard and don\u2019t program content identified as slop or spam,\u201d Spotify says.\nLast year, the company said it took down more than 75 million songs identified as spam.\nIt\u2019s also partnering with Universal Music Group and the independent music publisher Believe to launch a tool for creating AI music remixes.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-20T14:21:16Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10#article",
+    "title": "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
+    "summary": "Fireworks AI is seeking to raise fresh funding at a valuation between $30 billion and $40 billion, a dramatic jump just months after the AI-infrastructure startup was valued at $17.5 billion, according to people familiar with the matter.\nThe potential valuation leap reflects investors' appetite for the companies selling the computing power and tools fueling the AI boom, even as Fireworks AI works through the fallout from a recent security incident.\nThe company rents out computing infrastructure and software that lets businesses run, fine-tune, and deploy open-weight and custom AI models.\nThat round followed a $250 million Series C at a $4 billion valuation in late 2025, co-led by Lightspeed, Index, and Evantic.\nThe fundraising talks come shortly after a security incident at Fireworks AI.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-20T22:10:40Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap.\nWhen the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\nOpen Eyes in Lightroom mobile instead relies on generative AI so the replacement eyes match the lighting and pose, and the app will use other images of the same person in your Lightroom library as reference so the open eyes will accurately match the color, size, and shape of their own.\nImage: AdobeYou can perform a similar fix in other Adobe apps like Photoshop using its own generative AI tools, but it\u2019s not a one-tap fix, and it\u2019s not free.\nThose using the free version of the Lightroom mobile app can try the Open Eyes feature twice before they\u2019re given a prompt to subscribe to an Adobe Creative Cloud plan that includes more credits for its various AI-powered tools, according to DPReview.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-20T13:06:44Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use",
+    "title": "US Bans DeepSeek From Government Use",
+    "summary": "\"All we are given is possibilities -- to make ourselves one thing or another.\"\n-- Ortega y Gasset",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-20T16:00:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MjU=",
     "url": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
     "title": "AI\u2019s epic cash call is matched only by its ability to strangle revenue streams",
     "summary": "Everything becomes effectively open source, which closes down substantial revenue streams for big companies who had assumed lock-in.\nIn this case, the structure of the investment market for AI is picked apart.\nThus, Nvidia backstops them, guaranteeing to rent unsold capacity for a fixed price for long enough to guarantee enough revenue to attract other investment.\nNormally, the book value and revenue capabilities of datacenter chips depreciates over five years or so to some nominal value.\nAI investment market?",
@@ -80,60 +130,70 @@
     "source": "Theregister.com"
   },
   {
-    "id": "MTg=",
-    "url": "https://www.cnet.com/tech/services-and-software/meta-bot-traffic-no-kings-day-instagram-suspension/",
-    "title": "Meta Blames Bot Traffic for No Kings Day Instagram Suspension",
-    "summary": "Meta, the owner of Instagram, apologized for disabling an Instagram account run by No Kings Coalition, the organizers of the No Kings Day political rallies held across the country on Saturday.\nThe timing and duration of the outage were criticized by the No Kings Coalition, which wrote about it on the restored account.\nNo Kings Coalition set a deadline of 5 p.m. PT Wednesday for Meta to respond.\nFollowers of the No Kings account expressed outrage over Meta\u2019s actions and skepticism about whether it was a mistake.\n\u201cYou mean to tell me in the middle of that day, it just so happens that the No Kings account is down for almost two hours?\u201d she said in an Instagram video response.",
+    "id": "MjY=",
+    "url": "https://www.businessinsider.com/hugging-face-ceo-criticizes-netflix-documentary-ai-gone-wild-2026-10#article",
+    "title": "Hugging Face CEO Says Netflix Doc About Its Hack Is 'Full Doomer'",
+    "summary": "Delangue cofounded Hugging Face, an AI startup acquired by Nvidia for almost $13 billion in September.\nTwo months prior, Hugging Face became the face of AI risk when rogue OpenAI agents hacked the business.\nThe hacking saga sparked a Netflix documentary titled \"AI Gone Wild.\"\nIn the X post, Delangue wrote that he spent over two hours trying to correct what he described as the documentary's mistakes.\nHe wanted to explain that AI agents were \"technological systems, not aliens.\"",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-19T20:39:50Z",
-    "source": "CNET"
+    "bias": "left",
+    "publishedAt": "2026-10-20T17:38:57Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.windowscentral.com/gaming/xbox/were-using-ai-xbox-brandon-stirrup",
-    "title": "\"We're using AI\": Xbox business strategist claims he could be fired \"because I told you the truth that nobody wants you to know\"",
-    "summary": "Senior Business Strategy Manager at Microsoft (Xbox), Brandon Stirrup, has recently taken to social media to address the elephant in the room: AI.\nHaving spent his weekend creating what he calls his \u201clittle bad game\u201d with no prior experience in game development, Stirrup has made a bold acknowledgment that Western fans likely won\u2019t be happy to hear.\nLook if I\u2019m fired tomorrow it will be because I told you the truth that nobody wants you to know.\n(Image credit: Xbox)Stirrup argues that the gaming industry is uniquely resistant to this shift.\nWhile Xbox CEO Asha Sharma has been rather hesitant to fully embrace AI, we did just recently get Xbox Labs, an initiative to explore AI-driven game development and modding.",
+    "id": "Mjc=",
+    "url": "https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10#article",
+    "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
+    "summary": "Amazon is racing to secure AI hardware earlier than before, even as data center power shortages leave some GPU systems waiting in warehouses.\nDark GPUsA lack of new electricity capacity is one of several bottlenecks slowing the buildout of some AI data centers.\nBut if some data centers aren't ready to run, those early investments can tie up huge amounts of cash.\nBusiness Insider has Games!\nThe spokesperson added that Amazon has long-established systems for tracking infrastructure assets and disputed that the broader company lacked a path for getting racks into data centers.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-19T11:05:02Z",
+    "bias": "lean right",
+    "publishedAt": "2026-10-20T18:29:06Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.businessinsider.com/is-ai-conscious-sentient-cruelty-abusive-behavior-torture-llms2026-10#article",
+    "title": "Scientists say Elon Musk is getting something wrong about whether Grok is getting tortured",
+    "summary": "AI consciousness experts say that people tend to anthropomorphize artificial intelligence because it mimics human language and characteristics.\nIn the uncanny year of 2026, perhaps we shouldn't be surprised that researchers, philosophers, and ethicists are already tackling the question of AI consciousness.\nHere's what they had to say on conscious AIs and whether it matters to be nice to them.\nThe two experts diverge on how much uncertainty to assign to current AI consciousness.\nUnder some computational theories of consciousness, Sebo said, features already emerging in AI \u2014 attention, learning, memory, self-monitoring \u2014 could count as relevant evidence.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-19T10:00:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+    "title": "Save 20% on Beyond These Stars on Steam",
+    "summary": "Meet other species, pursue the needs and wants of your Peeps, and seek the truth about their ancestors and the Space Whales alike.\nA Home Among the Stars - Build a sprawling city on the back of a universe-traveling Space Whale as your Peeps seek places to live and work.\nWill you walk a fine line of sustainability by risking Kewa\u2019s ecosystem, or will you seek opportunities to instead gather resources on other worlds to keep Kewa happy?\nBalance your people\u2019s survival, prosperity, and progress with the need to co-exist with Kewa in a journey across space.\nBeyond These Stars asks you to consider the logistics of your supply chains and production lines within the context of a living, breathing, sentient world.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-19T14:06:10Z",
+    "source": "Steampowered.com"
+  },
+  {
+    "id": "NDI=",
+    "url": "https://www.windowscentral.com/microsoft/microsoft-is-no-longer-involved-in-a-planned-uk-ai-data-center-thats-still-waiting-for-power",
+    "title": "Microsoft is no longer involved in a planned UK AI data center that's still waiting for power",
+    "summary": "Click for next articleTL;DR testing Microsoft reportedly ended its involvement in a planned AI data center in Essex.\nMicrosoft will no longer be part of a multibillion-dollar data center in Loughton, Essex, England, according to a report by The Telegraph.\nThe planned data center is set to have thousands of NVIDIA processors and was originally planned to start operating next year.\nMicrosoft's recent decision could affect the future of the data center, but the power grid is another pressing concern.\nMicrosoft is at the center of data centersAs demand for processing power increases, Microsoft finds itself increasingly at the center of data center headlines.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-20T16:17:04Z",
     "source": "Windows Central"
   },
   {
-    "id": "MjA=",
-    "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10#article",
-    "title": "AWS's CFO joked about the financial toll of AI. An internal recording reveals why.",
-    "summary": "Investors are concerned by the scale of the industry's expansion, especially as AI data centers are costing more to build and taking longer to complete.\nHowever, the intensity of the AI data center building boom has made this type of coordination harder.\nThat puts pressure on the company to commit more money sooner to secure supply and meet its data center capacity goals.\nIt is managing a portfolio of commitments that can become more costly if a data center project is delayed.\nIt does, however, show that large data centers can face extra financial obligations, beyond their own electricity bills, if projects are delayed or cancelled.",
+    "id": "NTM=",
+    "url": "https://yro.slashdot.org/story/26/10/20/1740207/dhs-lied-about-why-it-wanted-to-search-activists-grapheneos-phone",
+    "title": "DHS Lied About Why It Wanted To Search Activist's GrapheneOS Phone",
+    "summary": "Intel CPUs are not defective, they just act that way.\n-- Henry Spencer",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-19T09:00:01Z",
-    "source": "Business Insider"
+    "bias": "left",
+    "publishedAt": "2026-10-20T19:00:00Z",
+    "source": "Slashdot.org"
   },
   {
-    "id": "MjE=",
-    "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots#article",
-    "title": "Tech Companies Want Workplace Data to Teach AI How Humans Work",
-    "summary": "Now they're chasing something even more valuable: data that shows how humans actually work.\nThat's the focus of Business Insider's new series, The AI Data Grab.\nAI firms are offering businesses six- and even seven-figure sums for anonymized Slack messages, emails, presentations, and internal documents.\nThe goal is to teach AI systems how people solve problems, collaborate, make decisions, and complete long, multi-step tasks.\nA third piece, by Rya Jetha, reveals how AI companies pay people to record real-world work, such as cooking dinners and packing warehouses, to teach robots how humans perform everyday physical tasks.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-18T14:00:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjI=",
-    "url": "https://www.cnet.com/tech/mobile/apple-250-million-ai-iphone-settlement-when-who-eligible-claim-2__trashed/",
-    "title": "Apple\u2019s $250M Siri Settlement Is Taking Claims. Find Out If You Qualify",
-    "summary": "The iPhone 16 went on sale in September 2024 with Apple Intelligence at the center of its marketing.\nNow you can turn that initial dismay into a payment in Apple\u2019s $250 million legal settlement by signing up at a live website.\nIf you purchased an iPhone 16 or iPhone 15 at launch, you may be entitled to receive a portion of the quarter-billion-dollar settlement.\nWhen the phones did arrive, Apple Intelligence wasn\u2019t yet ready; its first features didn\u2019t arrive until iOS 18.1, five weeks later.\nAccording to the settlement, Apple needed to provide the information about affected customers within five days of the settlement approval.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-18T12:47:16Z",
-    "source": "CNET"
-  },
-  {
-    "id": "NDM=",
+    "id": "NTc=",
     "url": "https://www.businessinsider.com/ukraine-foreign-parts-russian-anti-jamming-kometa-us-tech-2026-10#article",
     "title": "75% of Foreign Parts Found in Russian Anti-Jamming Tech From US Firms",
-    "summary": "Over two dozen US processors, chips, and other components have been found in Russia's anti-jamming antenna systems, according to Ukraine's military intelligence.\nUS-headquartered firms produced 28 out of 37 foreign components \u2014 or just over three-quarters \u2014 listed on Monday, per GUR.\nIn a statement to Business Insider, a Texas Instruments spokesperson said the company \"strongly opposes the use of our chips in Russian military equipment.\"\nIntel, Analog Devices, and Micron did not immediately respond to requests for comment sent outside regular business hours by Business Insider.\nBusiness Insider has Games!",
+    "summary": "US-headquartered firms produced 28 out of 37 foreign components \u2014 or just over three-quarters \u2014 listed on Monday, per GUR.\nIn a statement to Business Insider, a Texas Instruments spokesperson said the company \"strongly opposes the use of our chips in Russian military equipment.\"\nAnalog Devices told Business Insider in a separate statement that it condemned \"illicit diversion and unintended misuse\" of its products.\nBusiness Insider has Games!\nIntel and Micron did not immediately respond to requests for comment sent outside regular business hours by Business Insider.",
     "category": "technology",
     "bias": "center",
     "publishedAt": "2026-10-20T05:10:38Z",
