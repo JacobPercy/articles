@@ -29,7 +29,7 @@
       "url": "https://www.businessinsider.com/ken-griffin-citadel-calls-trumps-tariffs-us-allies-a-disaster-2026-10#article",
       "title": "Ken Griffin calls Trump\u2019s tariffs on US allies 'a disaster' and predicts it will hurt Republicans in the midterms",
       "summary": "Ken Griffin sees trouble ahead for Republicans and says Donald Trump\u2019s fights with America\u2019s allies are part of the problem.\n\u201cI think that the tariff battles with Canada, with Europe, with our allies has just been a disaster,\u201d Griffin said.\nGriffin predicted Republicans would almost certainly lose control of at least one chamber of Congress, describing the midterms as a check on the party in power.\n\u201cThe House almost is in a really tough spot and the Senate's going to be really close,\" Griffin said.\nGriffin also has thoughts on Trump\u2019s explanation of the war in Iran and called the administration\u2019s treatment of immigrants \"disgraceful.\"",
-      "category": "economics",
+      "category": "international",
       "bias": "right",
       "publishedAt": "2026-10-21T04:01:01Z",
       "source": "Business Insider"
@@ -38,18 +38,6 @@
   {
     "article": {
       "id": "Mw==",
-      "url": "https://www.businessinsider.com/gas-oil-prices-soar-as-trump-deals-iran-war-inflation-2026-10#article",
-      "title": "Gas and Oil Prices Soar As Trump Deals With Iran War, Inflation",
-      "summary": "It's expensive out there: Gas prices have been stuck at over $4 a gallon for more days this year than any other.\nSince the Iran war first kicked off in February and the Strait was subsequently closed, gas and oil prices have skyrocketed.\nTrump has highlighted the broader goals of the war and argued that the increase in gas prices would be transient.\nAfter the start of the war in February, crude oil prices soared and remain significantly higher than when Trump's second term began.\nLong gone are the days of gas stations touting below-$3 prices; prices are still hovering in the mid-$4 range.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-10-19T10:00:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NA==",
       "url": "https://www.yahoo.com/news/politics/articles/golden-age-vs-were-working-040104930.html",
       "title": "A 'golden age' vs. 'we're working on it': Trump and Vance give different pitches on the economy",
       "summary": "But these days, when it comes to questions about high prices, President Donald Trump insists that the pain is his.\nAnd during a CBS News town hall on Saturday, Vance said, \"I recognize that gas prices are too high right now\" and \"we're working on it.\"\n\"I think Vance is more real.\"\nAdvertisement Advertisement\"I think he's out of touch, I think he's never seen what a true day as a Texan or anybody in general who is in the working class,\" Rodriguez said.\n\"I think he's a very good businessman,\" Bunker said.",
@@ -61,7 +49,7 @@
   },
   {
     "article": {
-      "id": "NQ==",
+      "id": "NA==",
       "url": "https://finance.yahoo.com/markets/article/trump-announces-8-billion-for-farmers-to-offset-soaring-diesel-costs-111330890.html",
       "title": "Trump announces $8 billion for farmers to offset soaring diesel costs",
       "summary": "President Trump announced an $8 billion aid package on Monday to help US farmers pay for diesel this harvest season.\nThe relief program, announced at a campaign rally in Kansas and on social media, aims to bring down fuel costs for Americans ahead of next month's midterm elections.\n\"Tonight, I am also pleased to announce that the Department of Agriculture will be launching a new 'Harvest Fuel Relief Program,' providing our Farmers with 8 BILLION DOLLARS in support to offset Diesel costs during this Harvest Season,\" Trump's account posted on Truth Social (DJT).\n(Photo by DUSTIN FRANZ / AFP via Getty Images) \u00b7 DUSTIN FRANZ via Getty ImagesThe Harvest Fuel Relief Program will be administered by the US Department of Agriculture.\nEarlier this month, the Trump administration moved to lift restrictions on red-dyed diesel, a tax-exempt fuel typically reserved for tractors and farm gear.",
@@ -73,31 +61,19 @@
   },
   {
     "article": {
-      "id": "Ng==",
-      "url": "https://finance.yahoo.com/real-estate/article/homebuyers-are-canceling-sales-at-near-record-rates-100000951.html",
-      "title": "Homebuyers are canceling sales at near-record rates",
-      "summary": "Homebuyers are backing out of contracts at near-record rates, a potential sign of how higher mortgage rates are prompting buyers to rethink their plans.\nBut pending sales tend to fall through at higher rates when buyers have more options and more negotiating power, as they currently do in much of the country.\nIndeed, metro areas that are notably buyer's markets, like Jacksonville and Tampa, Fla., and Las Vegas, all had contract cancellation rates approaching 20%, higher than anywhere else in the country.\nBut they're relatively rare in strong seller's markets like San Francisco, where just 2.8% of deals fell apart.\nClaire Boston is a Senior Reporter for Yahoo Finance covering housing, mortgages, and home insurance.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-10-19T10:00:00Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Nw==",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo",
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "summary": "French authorities have imposed overnight curfews in parts of central Paris and other cities after a weekend of riots and looting across the country.\nPolice in Paris said a curfew would be in force between 23:00 local time (21:00 GMT) and 06:00 in Place de la R\u00e9publique, where protesters had gathered over the weekend, and the Les Halles shopping area.\nA ban on unauthorised gatherings has also been imposed in several other parts of the city centre.\nPartial curfews variously restricting the movement of young people and gatherings were announced for cities including Marseille, Bordeaux, Nice and Lyon in the south as well as Lille and other towns in the north.\nEarlier Interior Minister Laurent Nu\u00f1ez, who has been strongly criticised by opposition politicians over the preparedness for the disorder but whose resignation was rejected by President Emmanuel Macron, admitted police had \"lost control\" in some cities.",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-10-19T20:50:44Z",
+      "id": "NQ==",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy4pdqx0w5o",
+      "title": "What difference will the Jackdaw gas field make?",
+      "summary": "The UK government says the approval of the Jackdaw gas field will mean heat for millions of homes, and help finance the transition to clean energy.\nBBC Business editor Simon Jack explains how the project will work, and the impact it could have on energy supply and security.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-10-21T16:45:50Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "OA==",
+      "id": "Ng==",
       "url": "https://www.businessinsider.com/elon-musk-money-irrelevant-ai-robots-space-generational-wealth-taxes-2026-10#article",
       "title": "Elon Musk Says Money May Become 'Irrelevant,' His Fortune Could Vanish",
       "summary": "Elon Musk says money could be meaningless one day, and the vast majority of his wealth will likely be gone within a few generations.\nThe world's richest person predicted that advances in robotics and space travel will create a multiplanetary economy, at which point \"money becomes irrelevant\" and \"conventional currency will not matter.\"\nThe Tesla and SpaceX CEO shared his vision of a post-money future and his outlook on his personal fortune with his biographer, Walter Isaacson, on \"The Builders\" podcast.\nHe also outlined what he hopes his foundation will spend his fortune on after he's gone: \"Continue the goals.\n\"If money won't matter in 2036, why don't you pledge to donate your current wealth of approximately $1 trillion to charity no later than 2036,\" Acemoglu wrote on X.",
@@ -109,7 +85,19 @@
   },
   {
     "article": {
-      "id": "OQ==",
+      "id": "Nw==",
+      "url": "https://www.businessinsider.com/derek-thompson-ai-substack-data-centers-video-interview-podcast-kafka-2026-10#article",
+      "title": "Derek Thompson on Data Centers, Substack, and the New Pivot to Video",
+      "summary": "The following is an edited excerpt:Peter Kafka: Perhaps the only thing Americans agree on is data centers \u2014 they hate them, and don't want them built in their communities.\nWhat is the \"Abundance\" view on data centers?\nDerek Thompson: I don't see data centers and houses as being equivalent.\nI think data centers are houses for chips.\nDo I think data centers are just like houses?",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-10-21T15:47:24Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "OA==",
       "url": "https://www.entrepreneur.com/business-news/tech/ai-is-exposing-a-leadership-blind-spot-whos-actually-responsible-for-making-employees-more-capable",
       "title": "AI Is Exposing a Leadership Blind Spot: Who\u2019s Actually Responsible for Making Employees More Capable?",
       "summary": "I believe this responsibility deserves a clearer executive mandate: the Chief Human Capacity Officer (CHCO).\nIt\u2019s that Human Capacity Development must become a strategic priority with measurable accountability.\nHuman Capacity Development adds another dimension: Are employees becoming better thinkers, stronger leaders, more adaptable collaborators and more effective decision-makers?\nWhat would human capacity leadership look like?\nA Chief Human Capacity Officer (CHCO) can connect the two by asking how people can continue becoming more capable throughout their careers.",
@@ -121,19 +109,7 @@
   },
   {
     "article": {
-      "id": "MTA=",
-      "url": "https://www.entrepreneur.com/business-news/this-princeton-ph-d-has-applied-to-2300-jobs-in-2-years-he-still-cant-find-a-job",
-      "title": "This Princeton Ph.D. Has Applied to 2,300 Jobs in 2 Years. He Still Can\u2019t Find a Job: \u2018It\u2019s Quite Surprising\u2019",
-      "summary": "Now he can\u2019t even get a food-prep job with a company that sells frozen crab cakes.\nSince graduating in 2024, Weis has applied to more than 2,300 jobs and still hasn\u2019t landed one, according to The Wall Street Journal.\nWhen that didn\u2019t work out, he widened his search to software engineering and eventually frozen crab prep.\n\u201cI don\u2019t know how to put it together.\u201dHis story reflects a frozen job market for college graduates.\nEconomists call it a \u201clow-hire, low-fire\u201d environment, where workers stay put and openings stay scarce.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-10-19T14:30:00Z",
-      "source": "Entrepreneur"
-    }
-  },
-  {
-    "article": {
-      "id": "MTE=",
+      "id": "OQ==",
       "url": "https://finance.yahoo.com/economy/article/the-villages-is-betting-180m-on-more-retirees-moving-to-florida--where-home-sales-are-stale-181721315.html",
       "title": "The Villages is betting $180M on more retirees moving to Florida \u2014 where home sales are stale",
       "summary": "The Villages, the largest retirement community in the US with roughly 170,000 residents across 57,000 acres in central Florida, is aiming to get even bigger.\nThe resort-like community plans to issue $180 million in high-yield debt primarily to finance more homes, according to an investor presentation this week.\nSales of existing single-family homes there were down 3.5% in September from a year ago, according to the Florida Realtors Association.\nWhat's more: The notion of what makes an ideal retirement community is evolving.\n\"There's still juice in these master planned communities like the Villages, and there's a market for them,\" Schurman said.",
@@ -145,19 +121,7 @@
   },
   {
     "article": {
-      "id": "MTI=",
-      "url": "https://www.businessinsider.com/student-loan-borrowers-parents-surging-monthly-payments-debt-relief-bills-2026-10#article",
-      "title": "Student-Loan Borrowers, Parents Face Surging Monthly Payments: Report",
-      "summary": "A big financial hit could be coming for student-loan borrowers, a new report says.\nBorrowers moving from the Biden-era SAVE plan to the new Repayment Assistance Plan, or RAP, could see their student-loan bills increase by $2,163 annually on average, the report said.\nThe SAVE plan allowed for lower payments and a shorter timeline to debt relief.\nAdd to Preferred SourcesParents and borrowers face increased risk of defaultTrump's student-loan repayment overhaul also limits parents' options.\nThose new parent borrowers will be limited to the costlier tiered standard repayment plan and will lose access to the income-contingent repayment plan.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-10-19T13:00:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MTM=",
+      "id": "MTA=",
       "url": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental",
       "title": "JustWatch now streams TV shows and movies, too",
       "summary": "After announcing plans to introduce its own streaming service last month, JustWatch, a popular guide and search engine for finding things to watch on existing platforms like Disney Plus and Netflix, launched JustWatch TV today.\nJustWatch TV Free includes a \u201ccurated selection of titles\u201d available with ads, while the paid JustWatch TV Plus subscription has over 300 ad-free titles plus other exclusive app features like the ability to hide shows you\u2019ve disliked or already watched in its guide.\nThe JustWatch TV Store will include a \u201cgrowing selection of recent and popular movies to rent\u201d but is initially only available in the US, UK, Ireland, Australia, and New Zealand.\nJustWatch TV Plus will be priced at $3.99 per month and include a 10 percent discount on rentals, but the company is also offering a $49.99 lifetime subscription for a limited time.\nUpdate, October 20th: Noted that the lifetime subscription is a limited-time offer.",
@@ -169,59 +133,83 @@
   },
   {
     "article": {
+      "id": "MTE=",
+      "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo",
+      "title": "Alberta's decision to stay in Canada gives Carney backing to take on Trump",
+      "summary": "\"Vote like Canada depends on it,\" Prime Minister Mark Carney declared to cheering crowds in Calgary last week on a stage emblazoned with bright red and white \"Forever Canadian\" banners.\nCarney, the former central banker who grew up in Alberta, is now Canada's builder-in-chief \u2013 at home, and beyond its borders.\nAlbertans' overwhelming \"yes\" to stay in Canada gives him political bricks and mortar, too.\n\"Don't mess with Canada,\" warned Thomas Lukaszuk, a former lawmaker whose Forever Canadian campaign played a key role in this referendum's outcome.\nEveryone knows he's talking about the troublesome neighbour to the south \u2013 in particular its president, who keeps threatening to turn Canada into the 51st US state.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-10-20T22:22:17Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "MTI=",
+      "url": "https://finance.yahoo.com/economy/article/united-airlines-ceo-we-should-have-a-national-wealth-tax-092341353.html",
+      "title": "United Airlines CEO: 'We should have a national wealth tax'",
+      "summary": "United Airlines CEO Scott Kirby gave a wide-ranging, often provocative interview to the New York Times, defending fees for aisle and window seats and countering the rise in airfares by asserting \"it's expensive to fly airplanes.\"\n\"We should have a national wealth tax \u2014 it won't work by state because people will just move.\nAnd I think we should have inheritance taxes that get close to 100% at some level.\nUnited Airlines CEO Scott Kirby speaks during a media event showcasing the airline's new premium \"Elevated\" aircraft interior at Los Angeles International Airport in Los Angeles, California, on March 24, 2026.\nA few states impose a state inheritance tax.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-10-20T08:23:21Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "MTM=",
+      "url": "https://www.yahoo.com/news/politics/articles/gimmick-giveback-even-trump-supporters-040110352.html",
+      "title": "Gimmick or giveback? Even some Trump supporters don't expect to get $5,000 checks after midterms",
+      "summary": "Advertisement AdvertisementAdvertisement AdvertisementThe offering of government checks has become a go-to tactic for Trump when he faces a political jam.\nStaunch supporters such as Lucy Martinez, the president of a Republican women's club who attended a recent Trump rally in Texas, said there's no doubt in their minds.\nRoughly half of registered voters say Donald Trump does not keep his promises to Americans, according to an AP-NORC poll from September.\nAbout 3 in 10 say Trump tries to keep his promises but is unable to, while only about 2 in 10 say he keeps his promises.\nAbout half say Trump tries to keep his promises but is unable to, and about 4 in 10 say he keeps his promises.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-10-20T04:01:10Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
       "id": "MTQ=",
-      "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-he-is-going-to-give-spacex-stock-away-to-kids-090305874.html",
-      "title": "Elon Musk says he's giving SpaceX stock to every kid in America",
-      "summary": "This will be the first of many,\" SpaceX founder and CEO Elon Musk said in an X post on Monday.\nMusk didn't specify an age range for the proposed gift, but a Bloomberg report indicated he could use Trump Accounts as the vehicle for his stock donations.\nSpaceX stock rose 1% in morning trading on Monday.\nSpaceX COO Gwynne Shotwell has already pledged a personal donation of more than $320 million in SpaceX stock to fund Trump Accounts for more than 2 million children.\nClick here for in-depth analysis of the latest stock market news and events moving stock prices",
+      "url": "https://www.businessinsider.com/elon-musk-ai-robots-only-way-solve-debt-2026-10#article",
+      "title": "Elon Musk says 'AI and robots' are the only way to solve America's debt burden",
+      "summary": "Elon Musk said artificial intelligence and robots \u2014 not government spending cuts \u2014 are the only way to fix the US national debt problem.\n\"I came to the conclusion that the only way we're going to solve the national debt is with AI and robots.\nWe're not going to solve it by trying to save our way there,\" Musk told Isaacson, calling the latter \"impossible.\"\nThe US national debt load hit a record $40 trillion in August and has continued to climb, according to Treasury data.\n\"There will still be currency, but I think currency will be measured in fundamental physics metrics like wattage and tonnage, mass and energy,\" he said, predicting, \"Conventional currency will not matter.\"",
       "category": "technology",
       "bias": "center",
-      "publishedAt": "2026-10-19T09:03:05Z",
-      "source": "Yahoo Entertainment"
+      "publishedAt": "2026-10-20T17:45:19Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MTU=",
-      "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-hes-giving-spacex-stock-to-every-kid-in-america-131435467.html",
-      "title": "Elon Musk says he's giving SpaceX stock to every kid in America",
-      "summary": "This will be the first of many,\" SpaceX founder and CEO Elon Musk said in an X post on Monday.\nMusk didn't specify an age range for the proposed gift, but a Bloomberg report indicated he could use Trump Accounts as the vehicle for his stock donations.\nSpaceX stock rose 1% in morning trading on Monday.\nSpaceX COO Gwynne Shotwell has already pledged a personal donation of more than $320 million in SpaceX stock to fund Trump Accounts for more than 2 million children.\nClick here for in-depth analysis of the latest stock market news and events moving stock prices",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-10-19T12:15:04Z",
-      "source": "Yahoo Entertainment"
+      "url": "https://www.project-syndicate.org/commentary/investors-must-not-forget-the-supply-shocks-driving-persistent-inflation-by-sebnem-kalemli-ozcan-2026-10",
+      "title": "What\u2019s Driving Persistent Inflation?",
+      "summary": "Email requiredPassword required Remember me?\nPlease enter your email address and click on the reset-password button.\nIf your email exists in our system, we'll send you an email with a link to reset your password.\nPlease note that the link will expire twenty-four hours after the email is sent.\nIf you can't find this email, please check your spam folder.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-10-21T11:29:44Z",
+      "source": "Project Syndicate"
     }
   },
   {
     "article": {
       "id": "MTY=",
-      "url": "https://www.vox.com/press-room/506918/kyla-scanlon-weekly-podcast-best-of-luck-vox",
-      "title": "Bestselling Author and Economic Commentator Kyla Scanlon Launches Weekly Podcast, \u2018Best of Luck,\u2019 with Vox",
-      "summary": "Kyla Scanlon, New York Times bestselling author and economic commentator, and Vox today announced the launch of Best of Luck, a new weekly video interview podcast premiering October 27.\nHow Money & Markets Really Work, a CNN contributor and analyst, and a monthly New York Times Opinion contributor.\nAt Vox, Best of Luck joins a stable of popular podcasts including Today, Explained, The Gray Area, and America, Actually.\nHow Money & Markets Really Work, was a New York Times bestseller and used hand-drawn diagrams to make the machinery of the economy clear.\nShe writes monthly for New York Times Opinion, has a video partnership with Foreign Policy, and is a contributor and analyst at CNN.",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs",
+      "title": "France\u2019s growing debt woes: How bond markets set countries\u2019 borrowing costs",
+      "summary": "France\u2019s rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.\nThe surge reflects a growing conviction in bond markets that lending to France is becoming an increasingly risky proposition.\nWhile France\u2019s debt levels are relatively high, the amount that a country owes is just one consideration for investors pricing the risk of its bonds.\nWhile relatively high, France\u2019s debt is lower than that of several other economies, including the United States, Japan and Italy.\nAnd the debt burden a country can support also depends on who wants to buy that country\u2019s debt,\u201d Kenningham said.",
       "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-10-19T21:36:19Z",
-      "source": "Vox"
+      "bias": "center",
+      "publishedAt": "2026-10-20T10:53:01Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
       "id": "MTc=",
-      "url": "https://www.cnet.com/tech/services-and-software/midterms-top-american-fears-ai-interference-political-process/",
-      "title": "As Midterms Approach, Top American Fears Include AI Interference in the Political Process",
-      "summary": "Are you more fearful of AI stealing jobs, hurting the economy and disrupting the political process than you are of someone you love dying?\nA lot of people are, according to Chapman University\u2019s 12th annual survey on American fears for 2026.\nThese were the top fears in the minds of the American people for 2026.\nThe addition of AI makes a lot of sense in the world that we live in today, however.\nIn the top 10 list, AI-related fears surround the technology harming both the election process (ranked third) and the economy (ranked seventh).",
-      "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-10-20T19:28:30Z",
-      "source": "CNET"
-    }
-  },
-  {
-    "article": {
-      "id": "MTg=",
       "url": "https://www.businessinsider.com/jensen-huang-warns-europe-move-faster-ai-risk-falling-behind-2026-10#article",
       "title": "Jensen Huang has a message for Europe: stop overthinking AI or get left behind",
       "summary": "That's the pointed message Nvidia CEO Jensen Huang has delivered to European leaders during his trip to the continent over the past week.\nAsked how Europe should regulate AI, Huang said safety had to be paramount, but cautioned that policymakers could not regulate their way to technological leadership.\n\"There's nothing to regulate if the industry doesn't thrive,\" Huang told Merz, arguing that Germany needed to foster a domestic AI industry while ensuring it developed safely and responsibly.\nIt was the same urgent message Huang had delivered in London days earlier.\nIf the continent spends too long debating how to regulate AI, it may find that the meaningful innovation is done elsewhere.",
-      "category": "international",
+      "category": "technology",
       "bias": "center",
       "publishedAt": "2026-10-20T14:42:54Z",
       "source": "Business Insider"
@@ -229,7 +217,7 @@
   },
   {
     "article": {
-      "id": "MTk=",
+      "id": "MTg=",
       "url": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
       "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
       "summary": "AMD has just revealed that it\u2019s bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and both the Xbox Ally and Xbox Ally X handhelds.\nAnd it\u2019s coming fast \u2014 FSR 4.1 will start appearing for Radeon RX 6000-series GPUs today, as well as Ryzen AI Max 300 and 400 series devices and Ryzen AI 9 300 and 400 series devices.\nFSR 4.1 can improve performance in more than 300 supported games, including Cyberpunk 2077, Battlefield 6, and Assassin\u2019s Creed Shadows.\nFSR 4.1 arrives just weeks after Sony and AMD teamed up to bring Quick Spectral Super Resolution (QSSR) to the base PS5, based on Sony and AMD\u2019s Project Amethyst work.\nValve has not yet confirmed it will come to the Steam Deck, but it would be surprising if it didn\u2019t: the Xbox Ally\u2019s Z2 A chip, which is now getting FSR 4.1, is very similar to the one in the Deck.",
@@ -241,7 +229,79 @@
   },
   {
     "article": {
+      "id": "MTk=",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "summary": "The UK government says it is working to identify any potential exposure in its online services, after critical cyber-security flaws were identified in the PHP programming language that underpins a significant number of the world's websites.\nGovernments and some of the world's biggest companies are rushing to protect systems that use PHP before hackers can exploit the flaws.\nThe flaws were first discovered by AI, after which governments urged anyone who uses PHP to address them.\nA UK government spokesperson urged \"all organisations, private and public, large and small\" to follow guidance to protect their systems.\nWhen you visit a website like Wikipedia, PHP is the code that collects information you need and presents it in a way you can read on the web.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-10-22T04:38:16Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
       "id": "MjA=",
+      "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+      "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+      "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft\u2019s new Advanced Shader Delivery technology to speed up game launches.\nThe technology also removes mid-game \u201cjust-in-time\u201d shader compilation, reducing stuttering and CPU spikes.\nMicrosoft\u2019s Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud.\n\u201cThis system is storefront-agnostic, meaning you benefit even when playing games purchased on Steam, as long as the Xbox PC app is installed on your PC,\u201d says Burnes.\nYou can download Nvidia\u2019s latest 621.01 update here, and Advanced Shader Delivery is also supported on AMD GPUs with Adrenalin 26.6.1 or higher and Qualcomm\u2019s Snapdragon X2 series with driver version 2026.08.3 or higher.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-10-21T13:09:26Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjE=",
+      "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+      "title": "A critical PHP vulnerability may take websites down today",
+      "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, have rolled out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked.\nIn an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of 9.2 out of a possible 10, with some cybersecurity agencies encouraging websites to temporarily take their systems offline if they\u2019re unable to apply the fix immediately.\nThe impact of these vulnerabilities could be vast, with one security researcher estimating that more than 1.3 million internet-connected hosts are likely affected.\nWordfence also warned that the fix can\u2019t be installed using automatic updates, so site owners need to find out who is responsible for updating PHP to apply the patch manually.\nUpdate, October 21st: Updated language to reflect that the security patches have now been released.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-10-21T11:49:17Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjI=",
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "summary": "The internet security site VirusTotal says its scanner currently registers about 3.8 million sites running PHP with at least one port open.\nAccording to OpenAI, an AI security group called Calif identified a \u201ccritical\u201d PHP flaw using GPT-5.6 Sol, and Google-owned Wiz independently discovered and reported the vulnerabilities using AI.\nThe PHP Group says that basically any site running PHP is at risk.\nGoDaddy says that any site using PHP should assume it is affected and update to the fixed release as soon as possible.\nIt also says that sites running PHP 8.1 or older should upgrade to a newer version, as they\u2019re no longer supported and there will not be an official fix coming.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-10-21T20:37:21Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjM=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "summary": "Walmart will soon let AI agents shop on its website for you.\nThe embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity\u2019s shopping agent and Meta\u2019s Muse AI assistant.\nBy default, Walmart will require approval for all AI agent purchases, but you can also let it shop within a certain budget, such as up to $100.\nThe retailer has built an \u201cAgent Gateway,\u201d currently available in beta, that connects AI agents through the Model Context Protocol, an open standard that allows AI agents to plug into different services on the web.\nThe company will let users shop with AI agents on Sam\u2019s Club as well.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-10-21T19:00:16Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjQ=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "title": "Data centers could erase decades of air quality gains",
+      "summary": "New and proposed data centers are demanding a tremendous amount of electricity.\nTech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources.\nHARC modeled different outcomes based on three different projections for data center energy demand.\nMany proposed data center projects are speculative and could fall by the wayside.\nNOx emissions could be up to 10 times lower if data centers pair grid power with renewable electricity generated onsite.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-10-21T22:33:44Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjU=",
       "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
       "title": "SpaceX says big AI growth fueled revenue jump",
       "summary": "He joined The Verge in 2019 after nearly two years at Techmeme.\nPosts from this author will be added to your daily email digest and your homepage feed.\nSpace business revenues were $1.8 billion, up six percent year-over-year.\nDuring the Q2 earnings call, president Gwynne Shotwell described plans to build out a terrestrial mobile network to compete with T-Mobile, AT&T and Verizon.\nIn SpaceX\u2019s Q2 earnings, the company also noted that its \u201cconnectivity\u201d business, which encompasses Starlink, didn\u2019t have a loss from operations, while its AI and space businesses did.",
@@ -253,7 +313,19 @@
   },
   {
     "article": {
-      "id": "MjE=",
+      "id": "MjY=",
+      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+      "title": "A Design Flaw in Share Links Exposes Users\u2019 Personal Conversations With Meta\u2019s Muse",
+      "summary": "Passive DNS records store the historical resolution of domain names to IP addresses, as well as nameserver, and mail-server records over time.\nPassive DNS systems typically collect DNS responses from sensors positioned at recursive DNS resolvers or other infrastructure.\nClaroc researchers were able to discover the Muse share links because all of them use the domain name cf.metaaiusercontent.com.\nThe ease in discovering share links further justifies asking if Muse is worthy of the access it requires.\nWith Meta\u2019s suspension of the feature, Muse users no longer face this particular threat, at least for now.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-10-21T12:35:00Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjc=",
       "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
       "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
       "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nSpotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year.\n\u201cOur editors hold the same standard and don\u2019t program content identified as slop or spam,\u201d Spotify says.\nLast year, the company said it took down more than 75 million songs identified as spam.\nIt\u2019s also partnering with Universal Music Group and the independent music publisher Believe to launch a tool for creating AI music remixes.",
@@ -265,7 +337,7 @@
   },
   {
     "article": {
-      "id": "MjI=",
+      "id": "Mjg=",
       "url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10#article",
       "title": "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
       "summary": "Fireworks AI is seeking to raise fresh funding at a valuation between $30 billion and $40 billion, a dramatic jump just months after the AI-infrastructure startup was valued at $17.5 billion, according to people familiar with the matter.\nThe potential valuation leap reflects investors' appetite for the companies selling the computing power and tools fueling the AI boom, even as Fireworks AI works through the fallout from a recent security incident.\nThe company rents out computing infrastructure and software that lets businesses run, fine-tune, and deploy open-weight and custom AI models.\nThat round followed a $250 million Series C at a $4 billion valuation in late 2025, co-led by Lightspeed, Index, and Evantic.\nThe fundraising talks come shortly after a security incident at Fireworks AI.",
@@ -277,79 +349,19 @@
   },
   {
     "article": {
-      "id": "MjM=",
-      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap.\nWhen the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\nOpen Eyes in Lightroom mobile instead relies on generative AI so the replacement eyes match the lighting and pose, and the app will use other images of the same person in your Lightroom library as reference so the open eyes will accurately match the color, size, and shape of their own.\nImage: AdobeYou can perform a similar fix in other Adobe apps like Photoshop using its own generative AI tools, but it\u2019s not a one-tap fix, and it\u2019s not free.\nThose using the free version of the Lightroom mobile app can try the Open Eyes feature twice before they\u2019re given a prompt to subscribe to an Adobe Creative Cloud plan that includes more credits for its various AI-powered tools, according to DPReview.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-10-20T13:06:44Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MjQ=",
-      "url": "https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use",
-      "title": "US Bans DeepSeek From Government Use",
-      "summary": "\"All we are given is possibilities -- to make ourselves one thing or another.\"\n-- Ortega y Gasset",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-10-20T16:00:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "MjU=",
-      "url": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
-      "title": "AI\u2019s epic cash call is matched only by its ability to strangle revenue streams",
-      "summary": "Everything becomes effectively open source, which closes down substantial revenue streams for big companies who had assumed lock-in.\nIn this case, the structure of the investment market for AI is picked apart.\nThus, Nvidia backstops them, guaranteeing to rent unsold capacity for a fixed price for long enough to guarantee enough revenue to attract other investment.\nNormally, the book value and revenue capabilities of datacenter chips depreciates over five years or so to some nominal value.\nAI investment market?",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-10-19T08:30:00Z",
-      "source": "Theregister.com"
-    }
-  },
-  {
-    "article": {
-      "id": "MjY=",
-      "url": "https://www.businessinsider.com/hugging-face-ceo-criticizes-netflix-documentary-ai-gone-wild-2026-10#article",
-      "title": "Hugging Face CEO Says Netflix Doc About Its Hack Is 'Full Doomer'",
-      "summary": "Delangue cofounded Hugging Face, an AI startup acquired by Nvidia for almost $13 billion in September.\nTwo months prior, Hugging Face became the face of AI risk when rogue OpenAI agents hacked the business.\nThe hacking saga sparked a Netflix documentary titled \"AI Gone Wild.\"\nIn the X post, Delangue wrote that he spent over two hours trying to correct what he described as the documentary's mistakes.\nHe wanted to explain that AI agents were \"technological systems, not aliens.\"",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-10-20T17:38:57Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjc=",
-      "url": "https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10#article",
-      "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
-      "summary": "Amazon is racing to secure AI hardware earlier than before, even as data center power shortages leave some GPU systems waiting in warehouses.\nDark GPUsA lack of new electricity capacity is one of several bottlenecks slowing the buildout of some AI data centers.\nBut if some data centers aren't ready to run, those early investments can tie up huge amounts of cash.\nBusiness Insider has Games!\nThe spokesperson added that Amazon has long-established systems for tracking infrastructure assets and disputed that the broader company lacked a path for getting racks into data centers.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-10-20T18:29:06Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjg=",
-      "url": "https://www.businessinsider.com/is-ai-conscious-sentient-cruelty-abusive-behavior-torture-llms2026-10#article",
-      "title": "Scientists say Elon Musk is getting something wrong about whether Grok is getting tortured",
-      "summary": "AI consciousness experts say that people tend to anthropomorphize artificial intelligence because it mimics human language and characteristics.\nIn the uncanny year of 2026, perhaps we shouldn't be surprised that researchers, philosophers, and ethicists are already tackling the question of AI consciousness.\nHere's what they had to say on conscious AIs and whether it matters to be nice to them.\nThe two experts diverge on how much uncertainty to assign to current AI consciousness.\nUnder some computational theories of consciousness, Sebo said, features already emerging in AI \u2014 attention, learning, memory, self-monitoring \u2014 could count as relevant evidence.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-10-19T10:00:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
       "id": "Mjk=",
+      "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+      "summary": "But policies meant to help meet that target are interfering with attempts to trigger a data center building frenzy.\nAs part of its broader climate commitments, the previous German administration voted through the Energy Efficiency Act in 2023.\nAmong other things, it required all new data centers to recycle a portion of the waste heat generated by their computer equipment, ideally into nearby municipal heating systems.\n\u201cWe need clean heat, and data centers are a source of clean heat,\u201d Graichen tells WIRED.\n\u201cIt felt that [the burden] was all on the data center.\u201d",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-10-21T08:30:00Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
       "url": "https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo",
       "title": "Newspaper headlines: 'Burnham faces climate revolt' and 'Harry wants to fix feud'",
       "summary": "According to the Financial Times, ministers are expected to say that the project will help increase energy supplies this winte, externalr.\nBut an ally of Shabana Mahmood tells the paper that Burnham is \"on her side\" and is \"holding the line\".\nA defence source tells the paper that \"if Houthi drones or missiles come over the border\" then British jets will \"take them out\".\nIt says the Duke of Sussex is hoping to \"fix his bitter family feud\".\nBut the Daily Mail accuses him of \"reopening old wounds\" in what it describes as a \"new Sussex psychodrama\", external.",
@@ -361,7 +373,7 @@
   },
   {
     "article": {
-      "id": "MzA=",
+      "id": "MzE=",
       "url": "https://www.yahoo.com/news/science/articles/major-loss-california-beaches-predicted-222313361.html",
       "title": "Major loss of California beaches predicted in latest climate forecast",
       "summary": "Climate change is not expected to change average precipitation overall, but it will become even more skewed and sporadic, so wet and dry years both will become more frequent in California, and droughts will last longer.\nFor years experts have laid out different pathways for how the world could seriously address climate change.\nThe report authors also looked at how climate change could play out differently if the world burns more or fewer fossil fuels and puts in place stronger or weaker policies.\nSign up for Boiling Point, our twice-weekly newsletter on energy, the environment and climate across the American West.\nThis story originally appeared in Los Angeles Times.",
@@ -373,7 +385,31 @@
   },
   {
     "article": {
-      "id": "MzE=",
+      "id": "MzI=",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo",
+      "title": "Jackdaw: Will it cut energy bills and how much gas will it provide?",
+      "summary": "However, NSTA estimates that Norwegian North Sea gas production - which Britain already imports by pipeline in large volumes - has a considerably lower average emissions impact than that of the UK's existing North Sea gas production.\nThis is because UK North Sea gas mostly comes from smaller fields and is extracted with older infrastructure and technology than those of Norway.\nSo the impact on the environment of the Jackdaw decision partly depends on what happens to the mix of UK gas consumption in future - and where it comes from - which is uncertain.\nIf additional gas production from Jackdaw displaces US LNG imports, UK-related national emissions could be lower than otherwise.\nBut if additional gas production from Jackdaw displaces gas imports from Norway instead then UK-related national emissions could be higher than otherwise.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-10-21T11:57:49Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "MzM=",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "title": "Climate: The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
+      "summary": "The target set in 2015 by the Paris Agreement\u2014to limit global warming to 1.5\u00b0C by 2100\u2014has become unachievable within the span of a single decade, the United Nations Environment Programme (UNEP) notes in its 2026 Emissions Gap Report.\n\u201cThe opportunity to bridge the 1.5\u00b0C emissions gap with \u2018no or limited\u2019 overshoot has been lost,\u201d states the report, titled \u201cThe Point of Return.\u201dExceeding the 1.5\u00b0C threshold above pre-industrial levels is now imminent and inevitable.\nThe urgent task is to ensure that global warming remains below the 2\u00b0C threshold, with the aim of returning to 1.5\u00b0C by the end of the century.\nThe UN Chief outlined the levers for action available to humanity:\u201cThe emissions gap is now a leadership gap.\nBecause the climate knows no borders, limiting any overshoot of 1.5\u00b0C as much as possible requires action across the entire economy and on a global scale.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-10-21T09:07:49Z",
+      "source": "Unric.org"
+    }
+  },
+  {
+    "article": {
+      "id": "MzQ=",
       "url": "https://www.bbc.co.uk/weather/articles/cr62yw2lvyg2o",
       "title": "How the UK's hottest summer has affected autumn leaves",
       "summary": "This year's display of autumn leaves could look rather different following the UK's hottest summer on record.\nMonths of heat and drought have put trees under stress, causing some to shed their leaves earlier than usual in a phenomenon known as a \"false autumn\".\nExperts say this could mean a more varied display of autumn colours, with some trees losing their leaves prematurely while others are yet to change colour.\nHowever, some trees could still produce spectacular shades of red, orange and gold.",
@@ -385,7 +421,7 @@
   },
   {
     "article": {
-      "id": "MzI=",
+      "id": "MzU=",
       "url": "https://www.nature.com/articles/d41586-026-03355-x",
       "title": "Global emissions slow \u2014 but world hurtles towards 2 \u00b0C of warming",
       "summary": "There is also a smaller, 10% chance of warming exceeding 3.4 \u00b0C on the current trajectory, which researchers say would be catastrophic.\nEven under a scenario where countries achieve all existing emissions pledges, the report projects 2.1 \u00b0C of warming.\nInitial estimates show that global greenhouse-gas emissions in 2025 were about the same or slightly lower than in 2024.\nMyllyvirta points out that even if this year doesn\u2019t represent an emissions peak, the report projects a 5\u20138% drop by 2030 relative to 2025 levels.\nUN finally admits global warming will shoot past 1.5 \u00baC climate limitGlaring gap",
@@ -397,7 +433,7 @@
   },
   {
     "article": {
-      "id": "MzM=",
+      "id": "MzY=",
       "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo",
       "title": "Climate Change Committee chair on Northern Ireland fact-finding mission",
       "summary": "\"Courage and leadership\" are needed to ensure Northern Ireland catches up on tackling climate change.\nThe new chair of the Climate Change Committee, Nigel Topping, is spending two days on a fact-finding mission to hear the thoughts of people across different sectors.\nHe said Northern Ireland was a small nation that could be \"agile and innovative\" in tackling challenges like increasing renewable energy, improving waste management and reducing emissions.\nIt is being described as a fact-finding mission, looking at \"challenges and opportunities\".\nHe acknowledged that politics in Northern Ireland was \"complex\" and that \"when things flip-flop, it doesn't help\", due to the impact on investment decisions and people's choices.",
@@ -409,7 +445,7 @@
   },
   {
     "article": {
-      "id": "MzQ=",
+      "id": "Mzc=",
       "url": "https://abcnews.com/Politics/trump-admin-sees-escalating-risk-houthis-prompting-unprecedented/story?id=137397953",
       "title": "Trump admin sees escalating risk from Houthis, prompting unprecedented wave of warnings",
       "summary": "Concern comes as Saudi Arabia has struggled to defend against Houthi attacks.\nSaudi Arabia has also displayed signs of growing alarm, postponing a major annual investment conference commonly referred to as \"Davos in the Desert\" due to the security environment.\nSaudi Media Ministry via APRiyadh is actively trying to court regional support for its fight against the Houthis, and Saudi Crown Prince Mohammad bin Salman previously appealed to President Trump for support.\nThe U.S. has been providing Saudi Arabia with significant targeting assistance and intelligence support.\nAmid broader regional tensions, the Houthis resumed attacks against Saudi Arabia in July.",
@@ -421,19 +457,7 @@
   },
   {
     "article": {
-      "id": "MzU=",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653",
-      "title": "Iran live updates: US military repositions personnel at Mideast bases, source says",
-      "summary": "The seal is seen on a podium at the Pentagon, Wednesday, Dec. 10, 2025, in Washington, before Defense Secretary Pete Hegseth speaks.\nThe seal is seen on a podium at the Pentagon, Wednesday, Dec. 10, 2025, in Washington, before Defense Secretary Pete Hegseth speaks.\nThe seal is seen on a podium at the Pentagon, Wednesday, Dec. 10, 2025, in Washington, before Defense Secretary Pete Hegseth speaks.\nThe seal is seen on a podium at the Pentagon, Wednesday, Dec. 10, 2025, in Washington, before Defense Secretary Pete Hegseth speaks.\nThe U.S. also continues to accuse Iran of targeting commercial shipping in the Strait of Hormuz, a flashpoint in the war.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-10-19T07:21:42Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "MzY=",
+      "id": "Mzg=",
       "url": "https://www.mentalfloss.com/geography/cities/greenest-cities-america-ranked",
       "title": "The Greenest Cities in America, Ranked",
       "summary": "Going green is no longer just a buzzword, but the blueprint for modern city living.\nThe clean, green capitals of the United States prove that maintaining a sustainable city is a symbiotic process that doesn't have to involve sacrificing comfort or convenience.\nIn America's greenest city, \"green\" isn't merely a metaphor\u2014it's the literal color of the landscape when you take in all of Oakland's lush parks.\nResidents run along the shores of Lake Merritt in Oakland, California, which earned the #1 overall spot on the list of America's greenest cities.\n| ScottMorris/ShutterstockSecuring the silver spot, Silicon Valley's capital shows that tech innovation and green living can go hand in hand.",
@@ -445,7 +469,7 @@
   },
   {
     "article": {
-      "id": "Mzc=",
+      "id": "Mzk=",
       "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
       "title": "France is divided over who to blame for weekend riots",
       "summary": "That's not France!\"\nIts walls were daubed with red-lettered graffiti insulting French police and signed with the date of the riots, 17 October.\nWhy orchestrate it now, after weeks of student protests?\nFrench intelligence had briefed government circles earlier this month that left-wing anarchist groups were involved in the student protests.\nTheir signature: a capital A, circled in black, was spray-painted on many buildings across France this weekend.",
@@ -457,7 +481,7 @@
   },
   {
     "article": {
-      "id": "Mzg=",
+      "id": "NDA=",
       "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo",
       "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
       "summary": "The UK will deploy RAF Typhoon jets to defend Saudi Arabia in response to escalating Houthi missile and drone attacks, the government has said.\nThe defensive mission will help defend Saudi cities and infrastructure - a move authorised by Prime Minister Andy Burnham - against aerial attacks by the Iran-backed group.\nIt follows Houthi attacks on the Saudi capital Riyadh, as well as on energy sites on the country's coast.\n\"These aircraft will operate in a defensive role and will not conduct offensive strikes against the Houthis,\" Defence Secretary Wes Streeting said in a written statement on Tuesday.",
@@ -469,55 +493,43 @@
   },
   {
     "article": {
-      "id": "Mzk=",
-      "url": "https://www.bbc.co.uk/news/articles/cxp8gdzj606zo",
-      "title": "Volunteers plant 109,000 trees in new Lancashire woodlands",
-      "summary": "New woodlands have been created by volunteers planting more than 109,000 trees across Lancashire in the last year.\nIn the last two tree-planting seasons, the Lancashire Woodland Partnership has planted almost 500,000 trees and more than 27,233 metres of new hedges.\nLancashire County Councillor Joshua Roberts said the woodlands were \"supporting wildlife, helping tackle climate change, improving people's wellbeing\".\nThe partnership brings together environmental organisations, local authorities, landowners, volunteers and communities to combine resources, expertise and local knowledge.\nThe organisations then plant trees where they can deliver the greatest benefits for wildlife, people and the environment.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-10-19T05:38:04Z",
+      "id": "NDE=",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "summary": "\"The US Department of State issued an ordered departure for non-emergency US government employees and their family members in Saudi Arabia,\" a state department spokesperson said in a statement.\n\"Iranian-supported Houthis have increasingly engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions,\" it added.\nNo details of the attack have yet been given, but the strike comes after airports in Saudi Arabia have been repeatedly targeted by Houthi forces.\nYemen has been devastated by a civil war that began when the Houthis ousted the government from the capital, Sanaa, in 2014.\nAn informal ceasefire had been in place for the past four years, but it unravelled in July after the Houthis announced a \"maritime embargo\" against Saudi Arabia and began missile and drone attacks on Saudi airports, oil facilities and tankers in the Red Sea.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-10-22T01:07:34Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NDA=",
-      "url": "https://www.businessinsider.com/france-cost-of-living-protests-stats-anger-affordability-2026-10#article",
-      "title": "4 figures that help explain the affordability crisis behind France's protests",
-      "summary": "Here are four numbers that help explain the financial frustrations driving the protests.\nElectricity prices rose 43% over that period, while fuel prices were 31% higher at the end of 2025 than in 2015.\nAs with much of the world, the war in Iran and the Strait of Hormuz crisis sent fuel prices soaring.\nBy April 2026, fuel prices in France were 30% higher than at the end of 2025, per the INSEE report.\nOf those, 19.4% reported some difficulty, 13.7% reported difficulty, and 8% reported great difficulty, highlighting the widespread financial strain facing French households.",
-      "category": "economics",
+      "id": "NDI=",
+      "url": "https://www.businessinsider.com/how-ameresco-built-geo-strategy-boost-ai-search-brand-visibility-2026-10#article",
+      "title": "A CMO was horrified by how ChatGPT described her company. Here\u2019s how she\u2019s fixing it.",
+      "summary": "When Ameresco CMO Leila Dillon asked ChatGPT and other AI answer engines to describe what her company did, she was shocked by the results.\nThe publicly traded company is an energy infrastructure provider, helping power the rapidly growing AI buildout, as well as military bases and municipal facilities.\nDillon set about overhauling the company's messaging and how it structured its marketing content to better reflect its business.\nAmeresco tracked how often AI chatbots mentioned the company in response to 50 questions that potential customers and investors might ask.\nThose included:Updating its corporate boilerplate from \"a leading cleantech integrator specializing in energy efficiency and renewable energy\" to \"a leading energy infrastructure company,\" reflecting the new positioning across its marketing and communications.",
+      "category": "technology",
       "bias": "center",
-      "publishedAt": "2026-10-19T15:55:58Z",
+      "publishedAt": "2026-10-21T10:30:01Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "NDE=",
-      "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
-      "title": "Save 20% on Beyond These Stars on Steam",
-      "summary": "Meet other species, pursue the needs and wants of your Peeps, and seek the truth about their ancestors and the Space Whales alike.\nA Home Among the Stars - Build a sprawling city on the back of a universe-traveling Space Whale as your Peeps seek places to live and work.\nWill you walk a fine line of sustainability by risking Kewa\u2019s ecosystem, or will you seek opportunities to instead gather resources on other worlds to keep Kewa happy?\nBalance your people\u2019s survival, prosperity, and progress with the need to co-exist with Kewa in a journey across space.\nBeyond These Stars asks you to consider the logistics of your supply chains and production lines within the context of a living, breathing, sentient world.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-10-19T14:06:10Z",
-      "source": "Steampowered.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NDI=",
-      "url": "https://www.windowscentral.com/microsoft/microsoft-is-no-longer-involved-in-a-planned-uk-ai-data-center-thats-still-waiting-for-power",
-      "title": "Microsoft is no longer involved in a planned UK AI data center that's still waiting for power",
-      "summary": "Click for next articleTL;DR testing Microsoft reportedly ended its involvement in a planned AI data center in Essex.\nMicrosoft will no longer be part of a multibillion-dollar data center in Loughton, Essex, England, according to a report by The Telegraph.\nThe planned data center is set to have thousands of NVIDIA processors and was originally planned to start operating next year.\nMicrosoft's recent decision could affect the future of the data center, but the power grid is another pressing concern.\nMicrosoft is at the center of data centersAs demand for processing power increases, Microsoft finds itself increasingly at the center of data center headlines.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-10-20T16:17:04Z",
-      "source": "Windows Central"
-    }
-  },
-  {
-    "article": {
       "id": "NDM=",
+      "url": "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo",
+      "title": "Will Jackdaw cut your energy bills?",
+      "summary": "The UK government has approved production from the Jackdaw gas field in the North Sea.\nMinisters said the first gas could be produced by the end of this month, helping heat millions of homes, and also announced the creation of a new energy wealth fund.\nBBC Verify correspondent Ben Chu looks at whether the approval of Jackdaw will mean lower bills for households and businesses.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-10-21T16:17:49Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDQ=",
       "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo",
       "title": "Kim Jong Un: Why do rumours about his death keep coming back?",
       "summary": "Kim Jong Un has appeared in North Korean state media looking remarkably healthy for a man rumoured to have died from a brain haemorrhage.\nFor those who watch North Korea closely, this kind of rumour has become almost routine.\nXie alleged that Kim suffered a severe brain haemorrhage and was transferred to Beijing because North Korea lacked the medical facilities to treat him.\nHe claimed Kim later died and that his body had been secretly returned to North Korea, with the regime concealing his death.\nKim is seen examining displays, accompanied by Kim Ju Ae and his usual entourage of officials.",
@@ -529,7 +541,7 @@
   },
   {
     "article": {
-      "id": "NDQ=",
+      "id": "NDU=",
       "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo",
       "title": "Haitian migrants changed this town - Trump's deportation drive is reshaping it again",
       "summary": "In this closely fought midterm election campaign, the small town of Springfield, Ohio, has become a symbol of modern America.\nTo President Donald Trump, Springfield crystallises America's problems due to years of unchecked immigration.\nToday, he says his mass deportation drive means its people are \"getting their town back\".\nBut to others, Springfield represents a well-known cycle in the story of modern America.\nBut in June, the Supreme Court upheld the Trump administration's decision to end TPS for some 350,000 Haitians in the US.",
@@ -541,7 +553,43 @@
   },
   {
     "article": {
-      "id": "NDU=",
+      "id": "NDY=",
+      "url": "https://www.yahoo.com/news/us/articles/trump-administration-asks-supreme-court-201343357.html",
+      "title": "Trump administration asks Supreme Court to lift halt on Big Bend border wall",
+      "summary": "WASHINGTON (AP) \u2014 The Trump administration asked the Supreme Court on Wednesday to let it resume building a border wall project through the Big Bend region of Texas.\nThe administration has been racing forward with construction on a border wall and other infrastructure from the Pacific Ocean to the Gulf of Mexico.\n\"The Court finds that Plaintiffs are likely to succeed on the merits of their major questions doctrine claim that the Big Bend Waivers were issued in excess of the Secretary's authority,\" she wrote.\nAdvertisement AdvertisementTrump has long vowed to build a border wall along the roughly 2,000-mile length of the southwest border.\nThe opposition in Texas's Big Bend region had been brewing for months, but it escalated in August when bulldozers were spotted clearing land in Big Bend National Park.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-10-21T20:13:43Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDc=",
+      "url": "https://www.yahoo.com/news/articles/trump-asks-us-supreme-court-220351669.html",
+      "title": "Trump asks US Supreme Court to allow Big Bend border wall construction",
+      "summary": "Advertisement AdvertisementAdvertisement AdvertisementThe Republican president has long touted building or reinforcing barriers along the US-Mexico border as a signature part of his anti-immigration policies.\nAdvertisement AdvertisementUS District Judge Kathleen Cardone in El Paso issued an injunction on October 2 halting the construction.\nThe Justice Department in its request urged the Supreme Court \u200bto pause or overturn Cardone's injunction.\nIn August, the administration paused construction in Big Bend after the project drew bipartisan criticism over \u200bits potential impact on the \u200cpark's landscape and wildlife.\nCrews had begun clearing land in the park for roads and \u200bborder security infrastructure, prompting protests and lawsuits seeking to halt the work.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-10-21T22:13:37Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDg=",
+      "url": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
+      "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
+      "summary": "North Korea says it will resume propaganda broadcasts across border into South Koreatoggle caption i Ahn Young-joon/APSEOUL, South Korea \u2014 North Korea plans to resume anti-Seoul propaganda broadcasts along the heavily armed border with South Korea, leader Kim Jong Un's sister said, reviving a psychological warfare campaign as tensions rise after land mine blasts injured three South Korean front-line soldiers.\nShe renewed a threat to retaliate against any South Korean provocation aimed at the fortification work.\nShe warned that if South Korean warning shots \u2014 which Seoul says are meant to force North Korean soldiers doing fortification work back across the border \u2014 cause \"actual harm to our territorial security and our service persons' safety,\" North Korean border guards \"will show no mercy for the armed gangsters bereft of reason.\"\nNorth Korea denied responsibility for the explosions and warned of strong retaliation if provoked.\nSouth Korea's military has said North Korean soldiers crossed the border's military demarcation line 50 times this year during fortification work, and that it responded with warning shots and broadcasts.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-10-22T06:36:07Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NDk=",
       "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo",
       "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
       "summary": "A solicitor has been secretly filmed by the BBC explaining how he could make a \u00a345,000 illegal-working fine go away.\nMohammad Alias Yousaf - also known as Alias - made the claim to an undercover reporter, who was posing as a mini-mart owner facing a fine for employing an illegal worker.\nAt least \u00a3150m is currently owed to the government in uncollected illegal-working fines, according to Home Office figures obtained by the BBC.\nMany business owners do not take the fines seriously, a law enforcement official has told us anonymously.\nShe told us she had seen immigration fine notices, \"some worth \u00a340,000, stuffed in a box\" on a mini-mart counter.",
@@ -553,7 +601,19 @@
   },
   {
     "article": {
-      "id": "NDY=",
+      "id": "NTA=",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
+      "title": "Macron accuses foreign leaders of exploiting French riots for political gain",
+      "summary": "French President Emmanuel Macron has accused foreign leaders of exploiting the riots which erupted across the country on Saturday for electoral purposes.\nWithout naming them, he said they were campaigning for forthcoming elections \"at France's expense\" with their comments on the violence, which erupted on the fringe of cost-of-living protests.\nMacron said the unnamed leaders had been influenced by fake videos generated by AI about the riots.\nThe government admitted the police had \"lost control\" during the violence, which came after weeks of protests by students over conditions in high schools.\nMacron vowed afterwards that the authorities would be \"uncompromising\" towards \"agitators from ultra-left fringe groups\", which he blamed for much of the trouble.",
+      "category": "international",
+      "bias": "right",
+      "publishedAt": "2026-10-21T14:04:28Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTE=",
       "url": "https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation",
       "title": "US jails Guatemalan man for 30 years over deadly smuggling operation",
       "summary": "Share US jails Guatemalan man for 30 years over deadly smuggling operation on social mediaA Guatemalan man has been sentenced to 30 years in a United States prison for his role in a human-smuggling operation that killed 53 migrants trapped in a truck \u2013 a disaster that had been described as one of the deadliest such incidents along the US-Mexico border in recent history.\nHe was first arrested in Guatemala in August 2024, as part of a cross-border effort to dismantle the human-smuggling network.\nBy the time the truck was driving from Laredo, Texas, to San Antonio \u2013 a distance of 250km (155 miles) \u2013 prosecutors say the air conditioning had stopped functioning.\nFelipe Orduna-Torres, identified as the leader of the operation in the US, was sentenced to life in prison in a federal court in San Antonio in June 2025.\nThe I-35 highway near where the truck was found runs through San Antonio from the Mexican border.",
@@ -565,7 +625,7 @@
   },
   {
     "article": {
-      "id": "NDc=",
+      "id": "NTI=",
       "url": "https://www.yahoo.com/news/us/articles/trump-administration-says-revoked-over-220518005.html",
       "title": "Trump administration says it has revoked over 300,000 visas",
       "summary": "By Kanishka SinghWASHINGTON, Oct 20 (Reuters) - President Donald Trump's administration has revoked over 300,000 US visas during his second term, the \u200cState Department said on Tuesday as the federal government continues its \u200csweeping immigration crackdown.\nThe number showed an acceleration in the pace of visa revocations in recent \u200bweeks.\nIn announcing the latest number on X, State Department spokesman Tommy Pigott said the Trump administration \"has revoked more \u200bvisas at \u200ba faster pace than any administration \u200bin history.\"\nAdvertisement AdvertisementIn addition to attempts \u200bto deport foreign protesters, the Trump administration has \u200benforced tightened social media screening \u200bof immigrants and visa applicants.\nWhile Trump campaigned in 2024 on \u200bstopping illegal immigration, his \u200cadministration has also made legal immigration more difficult \u2014 for example \u200bby imposing expensive fees for certain work visas.",
@@ -577,11 +637,11 @@
   },
   {
     "article": {
-      "id": "NDg=",
+      "id": "NTM=",
       "url": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion",
       "title": "\u2018Every day could cost lives\u2019: UK government blocks Gaza families\u2019 reunion",
       "summary": "\u201cHe asks me, why don\u2019t you open it?\u201d the father, who requested anonymity, told Al Jazeera.\nThe father has been granted protection in Britain, while his wife and their two children, remain trapped in a tent in Gaza.\n\u2018They bombed the area next to us\u2019A second family that spoke to Al Jazeera also requested anonymity.\nThe mother told Al Jazeera they have since been displaced again.\n\u201cThere is a real contradiction in what we are seeing,\u201d Ghassan Ghaben, senior community advocacy officer at the British Palestinian Committee, told Al Jazeera.",
-      "category": "international",
+      "category": "immigration",
       "bias": "left",
       "publishedAt": "2026-10-20T12:58:49Z",
       "source": "Al Jazeera English"
@@ -589,19 +649,7 @@
   },
   {
     "article": {
-      "id": "NDk=",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o",
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "summary": "Spain's Supreme Court has ruled the former president of Catalonia, Carles Puigdemont, can return without fear of arrest nearly a decade after going into self-imposed exile having led a failed independence bid.\nThe court upheld a decision to lift an arrest warrant for him linked to the referendum his regional government organised in 2017, in defiance of Madrid.\nBut the Spain to which he may return is much different from a decade ago, with Catalan independence now a marginal political issue.\nMonday's ruling brings to an end a lengthy legal wrangle between the Spanish judiciary and the former Catalan president.\nThe Constitutional Court overruled that interpretation earlier this month, and on Monday the Supreme Court rejected an appeal by the far-right Vox party against lifting national arrest warrants for Puigdemont, as well as his former ministers Llu\u00eds Puig and Toni Com\u00edn, paving the way for their return to Spain.",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-10-19T14:06:53Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTA=",
+      "id": "NTQ=",
       "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
       "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
       "summary": "In Lyon, one of France's largest cities, authorities also renewed a curfew in the city center from 9 p.m. to 6 a.m., saying no disturbances had been recorded overnight.\nSponsor MessageMarseille, France's second-largest city, imposed a curfew for unaccompanied minors starting Tuesday night.\nDarmanin declined to comment on the suspect's profile, but said far-left groups appeared to have organized to attack symbols of the state throughout France.\nOn Sunday evening, small groups set fire to trash bins, bicycles and other objects in the streets and looted businesses in Paris, Lyon, Marseille and other cities.\nSponsor MessageIn Paris alone, about 300 people have been sent before prosecutors following the Oct. 17 protests, the city prosecutor's office said in a statement.",
@@ -613,7 +661,7 @@
   },
   {
     "article": {
-      "id": "NTE=",
+      "id": "NTU=",
       "url": "https://www.yahoo.com/news/us/articles/fact-focus-trump-republicans-blame-181540152.html",
       "title": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence",
       "summary": "Trump has tried to put the blame on migrants, urging French President Emmanuel Macron to \"close your borders and take control before it is too late!\"\n\"When I look at France, when you look at Italy, when you look at all the turmoil and the hatred \u2014 that's not about school.\nSocial media is awash with posts claiming to link Muslim rioters to acts of religiously motivated violence.\nWhile radical far-left activists have been found by authorities to be behind some of the violence, they are not entirely to blame for the extent of the vandalism and clashes.\nPolice on Tuesday arrested one suspect for the arson of Limoges' town hall, describing him as radical far-left activist previously classified as a potential national security threat.",
@@ -625,7 +673,7 @@
   },
   {
     "article": {
-      "id": "NTI=",
+      "id": "NTY=",
       "url": "https://abcnews.com/US/us-citizen-injured-ice-detainment-long-beach-california/story?id=137397850",
       "title": "US citizen injured during ICE detainment in Long Beach, California, officials say",
       "summary": "US citizen injured during ICE detainment in Long Beach, California, officials sayA man is seen being detained by ICE agents in Long Beach, California, on Oct. 17, 2026.\nA man is seen being detained by ICE agents in Long Beach, California, on Oct. 17, 2026.\nA man is seen being detained by ICE agents in Long Beach, California, on Oct. 17, 2026.\nA man is seen being detained by ICE agents in Long Beach, California, on Oct. 17, 2026.\nThe Long Beach mayor said he submitted a formal complaint to DHS on Monday \"demanding accountability for the actions of federal immigration agents in Long Beach.\"",
@@ -637,55 +685,55 @@
   },
   {
     "article": {
-      "id": "NTM=",
-      "url": "https://yro.slashdot.org/story/26/10/20/1740207/dhs-lied-about-why-it-wanted-to-search-activists-grapheneos-phone",
-      "title": "DHS Lied About Why It Wanted To Search Activist's GrapheneOS Phone",
-      "summary": "Intel CPUs are not defective, they just act that way.\n-- Henry Spencer",
+      "id": "NTc=",
+      "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall",
+      "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+      "summary": "The Trump administration has asked the Supreme Court to allow it to resume plans to build a border wall through the Big Bend region of West Texas, as part of its anti-immigration policy to strengthen security on the border with Mexico.\nThe Department of Homeland Security plans include vehicle barriers, patrol roads, lighting and detection technology in and around Big Bend National Park.\nThe Justice Department in its request urged the Supreme Court to pause or overturn Cardone\u2019s injunction.\nThe Supreme Court has not yet responded to this appeal.\nIn August, the administration paused construction in Big Bend after the project drew bipartisan criticism over its potential impact on the park\u2019s landscape and wildlife.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-10-22T03:19:38Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTg=",
+      "url": "https://tech.slashdot.org/story/26/10/22/0020206/americas-war-department-will-test-heat-ray-weapon-for-potential-use",
+      "title": "America's War Department Will Test Heat Ray Weapon For Potential Use",
+      "summary": "To thine own self be true.\n(If not that, at least make some money.)",
       "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-10-20T19:00:00Z",
+      "publishedAt": "2026-10-22T07:00:00Z",
       "source": "Slashdot.org"
     }
   },
   {
     "article": {
-      "id": "NTQ=",
-      "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat",
-      "title": "Finland seeking one million land mines as it eyes Russian threat",
-      "summary": "Share Finland seeking one million land mines as it eyes Russian threat on social mediaFinland is seeking to acquire one million anti-personnel mines.\nThe plan to spend 100 million euros ($112 million) on the munitions comes after Helsinki and regional peers withdrew from a United Nations compact rejecting their use.\n\u201cIt would be useful in many ways if Finnish companies produced the anti-personnel mines in Finland,\u201d Mikkonen said.\nForeign Minister Elina Valtonen on Monday urged the EU to stop issuing tourist visas to Russians until the war ends.\nValtonen noted that Schengen countries granted nearly half a million tourist visas to Russians in 2025.",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-10-19T19:57:10Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTU=",
-      "url": "https://www.businessinsider.com/housing-market-warning-homebuilder-sentiment-nahb-mortgage-rates-2026-10#article",
-      "title": "Housing Market Warning: Homebuilder Sentiment Drops to 14-Year Low",
-      "summary": "Homebuilder sentiment fell three points to 29 in October, according to the National Association of Home Builders/Wells Fargo Housing Market Index.\nOctober's reading marks the lowest homebuilder sentiment the US has seen since June 2012, the NAHB said, when the housing market was still moving through the aftermath of the 2008 crisis.\nHere's what explains the decline:The housing market is frozen.\nAdd to Preferred SourcesThe Housing Market Index remains well-below the midway threshold of 50, which suggests that homebuilding is solidly in contractional territory.\nSara Godfrey, an economist at Oxford Economics, said the latest \"depressed\" homebuilder sentiment reading was consistent with the firm's view that the housing market would remain stagnant all throughout next year.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-10-19T18:05:13Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NTY=",
-      "url": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court",
-      "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
-      "summary": "Share Mahmoud Khalil takes deportation fight to the US Supreme Court on social mediaPro-Palestine activist Mahmoud Khalil has petitioned the United States Supreme Court to review a court ruling that could pave the way for his re-arrest and deportation.\nThat court had ruled that federal law should have prohibited lower courts from ordering Khalil\u2019s release from immigration detention in June 2025.\nA permanent US resident and former Columbia University graduate student, Khalil was arrested inside the student housing complex where he lived with his wife, a US citizen.\nHe has fought his deportation both in the immigration court system and in the federal district court system, where he has filed a habeas corpus case.\nIn April, the Board of Immigration Appeals denied his appeal in the immigration court system and issued a final order of removal in his case.",
-      "category": "immigration",
+      "id": "NTk=",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "title": "The Future of CSS \u2728 \u2022 Josh W. Comeau",
+      "summary": "Subgrid is a super-powerful extension to CSS Grid which enables entirely new layouts.\nCode editor: < style > .box { border-radius : 16 px ; & .squircle { corner-shape : squircle ; } & .bevel { corner-shape : bevel ; } & .notch { corner-shape : notch ; } & .scoop { corner-shape : scoop ; } } </ style > < div class = \" wrapper \" > < div class = \" box \" > Round (default) </ div > < div class = \" box squircle \" > Squircle </ div > < div class = \" box bevel \" > Bevel </ div > < div class = \" box notch \" > Notch </ div > < div class = \" box scoop \" > Scoop </ div > </ div > <style> .box { border-radius: 16px; &.squircle { corner-shape: squircle; } &.bevel { corner-shape: bevel; } &.notch { corner-shape: notch; } &.scoop { corner-shape: scoop; } } </style> <div class=\"wrapper\"> <div class=\"box\">Round (default)</div> <div class=\"box squircle\">Squircle</div> <div class=\"box bevel\">Bevel</div> <div class=\"box notch\">Notch</div> <div class=\"box scoop\">Scoop</div> </div> Resize editor.\nCode editor: < style > main { border : 3 px dashed red ; } p { border : inherit ; } </ style > < main > < p > This paragraph inherits the dashed red border!\nThere are a lot of upsides to CSS Grid, but one of the downsides is that it\u2019s not as easy to add borders between grid cells.\nThis is just one of many techniques we explore in my comprehensive CSS course, CSS for JavaScript Developers.",
+      "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-10-19T23:56:32Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-10-21T01:47:28Z",
+      "source": "Joshwcomeau.com"
     }
   },
   {
     "article": {
-      "id": "NTc=",
+      "id": "NjA=",
+      "url": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+      "title": "Will TP-Link really make routers in the US? Here\u2019s what it told us",
+      "summary": "\u201cNothing is written in stone.\u201dWhy does TP-Link need an import waiver if it\u2019ll be building routers in the US?\nKovksy suggests it\u2019s all based on misinformation, even the company\u2019s market share: \u201cIt\u2019s about 9 to 10 percent, which is like top three.\nIf it gets the waiver, does TP-Link intend to produce all US-bound routers in the US?\nNotably, TP-Link would not confirm Kovsky\u2019s suggestion that it might completely manufacture routers in the US and only source the raw components.\nI told the company that if I could say TP-Link was committed to anything other than \u201cfinal assembly,\u201d it\u2019d be well worth sharing with readers.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-10-21T17:54:56Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "NjE=",
       "url": "https://www.businessinsider.com/ukraine-foreign-parts-russian-anti-jamming-kometa-us-tech-2026-10#article",
       "title": "75% of Foreign Parts Found in Russian Anti-Jamming Tech From US Firms",
       "summary": "US-headquartered firms produced 28 out of 37 foreign components \u2014 or just over three-quarters \u2014 listed on Monday, per GUR.\nIn a statement to Business Insider, a Texas Instruments spokesperson said the company \"strongly opposes the use of our chips in Russian military equipment.\"\nAnalog Devices told Business Insider in a separate statement that it condemned \"illicit diversion and unintended misuse\" of its products.\nBusiness Insider has Games!\nIntel and Micron did not immediately respond to requests for comment sent outside regular business hours by Business Insider.",
@@ -697,19 +745,7 @@
   },
   {
     "article": {
-      "id": "NTg=",
-      "url": "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl",
-      "title": "\u2018The world will be amazed:\u2019 Iran\u2019s commanders prepare for further war",
-      "summary": "\u201cThe world will be amazed,\u201d Iran\u2019s Revolutionary Guards spokesperson Hossein Mohebbi said late last month.\nBoth sides have claimed victory \u2013 Tehran pointing to its survival and Washington the damage inflicted on the Iranian regime.\nMeanwhile, the Trump administration continues testing new economic and military measures to force Iran into capitulation, which Tehran has stubbornly resisted.\nAtta Kenare/AFP/Getty ImagesIranians are \u201cconvinced\u201d war is going to restart, another resident in Tehran told CNN.\n\u201cWe don\u2019t want war,\u201d Ali Al-Nuaimi, chairman of the Defense, Interior and Foreign Affairs Committee of the UAE\u2019s Federal National Council said.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-10-19T04:00:45Z",
-      "source": "CNN"
-    }
-  },
-  {
-    "article": {
-      "id": "NTk=",
+      "id": "NjI=",
       "url": "https://abcnews.com/International/wireStory/rubio-jaishankar-hold-talks-mumbai-us-india-aim-137406921",
       "title": "Rubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade deal",
       "summary": "U.S. Secretary of State Marco Rubio has held talks with India's foreign minister in MumbaiRubio and Jaishankar hold talks in Mumbai as US and India aim to finalize trade dealUS Secretary of State Marco Rubio, left, shakes hands with India's Foreign Minister Subrahmanyam Jaishankar, right, before their meeting in Mumbai, India, Tuesday, Oct. 20, 2026.\n(Kylie Cooper/Pool Photo via AP)US Secretary of State Marco Rubio, left, shakes hands with India's Foreign Minister Subrahmanyam Jaishankar, right, before their meeting in Mumbai, India, Tuesday, Oct. 20, 2026.\n(Kylie Cooper/Pool Photo via AP)US Secretary of State Marco Rubio, left, shakes hands with India's Foreign Minister Subrahmanyam Jaishankar, right, before their meeting in Mumbai, India, Tuesday, Oct. 20, 2026.\n(Kylie Cooper/Pool Photo via AP)US Secretary of State Marco Rubio, left, shakes hands with India's Foreign Minister Subrahmanyam Jaishankar, right, before their meeting in Mumbai, India, Tuesday, Oct. 20, 2026.\n(Kylie Cooper/Pool Photo via AP)MUMBAI, India -- MUMBAI, India (AP) \u2014 U.S. Secretary of State Marco Rubio held talks with India's foreign minister in Mumbai on Tuesday as the two countries seek to deepen energy cooperation and move closer to finalizing a trade deal.",
@@ -721,7 +757,7 @@
   },
   {
     "article": {
-      "id": "NjA=",
+      "id": "NjM=",
       "url": "https://www.yahoo.com/news/world/articles/ukraine-back-foot-kremlin-moots-160302002.html",
       "title": "Zelensky, US envoys to hold Oslo talks as Ukraine claims US missile holdup",
       "summary": "Ukraine President Volodymyr Zelensky will hold talks with top US envoys in Norway on Tuesday, after accusing the United States of deliberately delaying the delivery of interceptor missiles to his war-torn country.\n\"Ukraine has requested that US special envoys Steve Witkoff and Jared Kushner join the meetings.\n\"Zelensky doesn't know what he's talking about,\" Trump said on Monday in another attack on his Ukrainian counterpart.\n- Russian strikes -Ukrainian authorities said Tuesday that Russian strikes killed four people around the country, as Moscow targets energy and transport infrastructure with winter approaching.\nThe attacks came after Zelensky said that Kyiv would resume hitting Russian refineries in the face of unrelenting strikes.",
@@ -733,7 +769,7 @@
   },
   {
     "article": {
-      "id": "NjE=",
+      "id": "NjQ=",
       "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o",
       "title": "Protesters and police in Albania fight in seventh day of violent clashes",
       "summary": "Outside the cafe in the park, when the gas has cleared, 27-year-old activist Sidorela Vatnikaj, a masters student, describes her typical day.\nShe is uncomfortable with the violence towards the authorities from her fellow protesters, but blames the police for starting and fuelling it.\n\"They come from families whose family members had no other choice than to leave the country - a million in the past decade.\n\"We need a technocratic government for one year, to prepare the country for real, democratic elections,\" Vatnikaj replies.\nYoung people in Albania feel encouraged by their fellow Gen Z protesters around the world, Vatnikaj said.",
@@ -745,7 +781,7 @@
   },
   {
     "article": {
-      "id": "NjI=",
+      "id": "NjU=",
       "url": "https://rt-english.com/news/647448-kallas-us-ukraine-surrender/",
       "title": "Kallas lashes out at US over Ukraine peace efforts",
       "summary": "The EU foreign policy chief has accused Washington of trying to force Kiev to surrender on Moscow\u2019s termsEU foreign policy chief Kaja Kallas has accused Washington of trying to force Ukraine to surrender to Russia, attacking President Donald Trump\u2019s diplomatic efforts to end the conflict.\nSpeaking to the European Parliament in Strasbourg on Tuesday, Kallas credited Europe\u2019s military and financial backing of Kiev with prolonging the conflict and preventing Ukraine from accepting Moscow\u2019s terms.\n\u201cAmerican negotiators have been trying to push Ukraine into surrender for already almost two years, one and a half years now,\u201d she said, as quoted by Euronews.\nMoscow has cited Kiev\u2019s aggressive posture and the hostile position of its European backers as major obstacles to a peace settlement.\nTrump has stepped up his criticism of Ukrainian leader Vladimir Zelensky, describing him as \u201cmore difficult to deal with\u201d than Russian President Vladimir Putin.",
@@ -757,11 +793,11 @@
   },
   {
     "article": {
-      "id": "NjM=",
+      "id": "NjY=",
       "url": "https://www.bbc.com/news/articles/cqm26z110vzko",
       "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
       "summary": "The head of National Counter Terrorism Policing, Assistant Commissioner Laurence Taylor said: \"This is very much a live investigation, and our evidence gathering continues, but at this time our position remains the same; we consider it highly likely that there is Iranian state involvement.",
-      "category": "immigration",
+      "category": "international",
       "bias": "lean right",
       "publishedAt": "2026-10-20T17:47:00Z",
       "source": "BBC News"
@@ -769,7 +805,7 @@
   },
   {
     "article": {
-      "id": "NjQ=",
+      "id": "Njc=",
       "url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis",
       "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
       "summary": "Share Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?\nOn Tuesday, Araghchi wrote on X: \u201cNever in our history have Iran and Russia worked as closely as now.\u201dBut Russia\u2019s position is not straightforward.\nSo how close are Moscow and Tehran, and does Russia really want the US-Iran crisis to end?\nIn Tehran, Lavrov said Russian specialists who had left Iran\u2019s Bushehr nuclear power plant \u2013 heavily damaged in US strikes \u2013 would gradually return.\nBut Hashemi said he did not think \u201cTrump is looking to Putin to help solve the Iran war\u201d.",
@@ -781,7 +817,7 @@
   },
   {
     "article": {
-      "id": "NjU=",
+      "id": "Njg=",
       "url": "https://abcnews.com/Politics/us-nearing-deal-russia-free-multiple-jailed-americans/story?id=137415614",
       "title": "US nearing deal with Russia to free multiple jailed Americans: Sources",
       "summary": "Sources say the talks have centered on freeing Stephen Hubbard.\nIn this Oct. 7, 2024, file photo released by the Moscow City Court Press Service, Stephen Hubbard, a U.S. citizen accused of fighting as a mercenary in Ukraine against Russia stands in a glass cage during a court session in Moscow.\nThe Trump administration is closing in on a deal with Moscow that would see multiple Americans released from detention in Russia, two U.S. officials and another source familiar with the matter tell ABC News.\nMoscow City Court Press Service via APHowever, officials caution that while the terms of the arrangement are coming into focus, nothing has been finalized and it\u2019s still possible it won\u2019t materialize or that its scope will change.\nThere are currently at least eight American citizens and two dual U.S.-Russia nationals detained by Moscow: Hubbard, Gordon Black, Michael Leake, Robert Woodland, David Barnes, Daniel Schneider, Andre Khachatorrian, Chuck Zimmerman, Aleksandr Antonov and Eugene Spector.",
@@ -793,7 +829,19 @@
   },
   {
     "article": {
-      "id": "NjY=",
+      "id": "Njk=",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "summary": "Nasscom, the trade association of India's $300bn (\u00a3226bn) technology industry, says that Indian companies have reduced the dependence on H-1B visas and are hiring more locally.\n\"Consequently, the number of employees transitioning from H-1B visas to permanent residency through the PERM process is also relatively limited,\" the association adds.\nTata Consultancy Services (TCS), said its PERM applications were in single digits in the last two years.\nMicrosoft said in a statement that it has filed for H-1B visas mostly to retain existing staff, not to import new workers.\nBrokerage firm HDFC Securities said the impact on tech firms would be minimal, as PERM-linked jobs make up only a small share of revenue, even if higher-paid American workers replace them.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-10-21T23:06:37Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NzA=",
       "url": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row",
       "title": "South Korea to pull more embassy staff from Ukraine after POW row",
       "summary": "Earlier this month, South Korea recalled its ambassador from Kyiv after Zelenskyy disclosed the prisoner transfer.\nShare South Korea to pull more embassy staff from Ukraine after POW row on social mediaSouth Korea\u2019s Ministry of Foreign Affairs says it will withdraw additional embassy personnel from Ukraine following Kyiv\u2019s lack of \u201cconstructive response\u201d in a dispute about North Korean prisoners of war (POWs).\nSeoul had told Kyiv of its position via multiple channels but had not received a sufficient response from Ukraine, ministry spokesperson Park Doo-soon said on Tuesday.\nEarlier this month, South Korea recalled its ambassador from Kyiv after President Volodymyr Zelenskyy told the United Nations General Assembly (UNGA) that Ukraine had transferred two captured North Korean soldiers to the South.\nThe disclosure angered Seoul, which said the operation should have remained confidential to protect the soldiers\u2019 families in North Korea.",
@@ -805,13 +853,13 @@
   },
   {
     "article": {
-      "id": "Njc=",
-      "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
-      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-      "summary": "Share EU revises Arctic strategy as pressure from Russia, US grows on social mediaThe European Commission has unveiled a new Arctic strategy for the European Union that lists security and resilience first among four priorities, alongside climate change, economic prosperity and opportunities for Arctic communities.\nThe strategy calls for a new maritime security hub to help member states and partners share information and monitor maritime activity in the Arctic, the Commission said on Tuesday.\nThe Commission said the EU will back a strategic pan-Arctic fibre-optic telecommunications cable project linking Greenland directly to Europe.\nFinnish Prime Minister Petteri Orpo called Russia the most significant long-term threat and said the EU must treat the Arctic as a strategic frontier.\nThe Commission reiterated the EU\u2019s position remains that oil, coal and gas should stay in the ground, including in the Arctic.",
+      "id": "NzE=",
+      "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
+      "title": "Iran\u2019s enriched uranium re-emerges as point of contention in US talks",
+      "summary": "Iran\u2019s nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.\nHis response came amid media reports that the US wants Iran to transfer part of its enriched uranium out of the country.\n\u201cThey cannot have a nuclear weapon,\u201d Trump told his supporters at a rally at Northern Kentucky University.\nWhat the MoU says about Iran\u2019s uranium programmeThe MoU signed on June 17 left the future of Iran\u2019s enriched uranium stockpile to further negotiations, but identified downblending under international supervision of the International Atomic Energy Agency as the minimum approach to resolving the issue.\nDownblending involves mixing highly enriched uranium with lower-enriched material, making it less suitable for rapid conversion into weapons-grade material.",
       "category": "international",
       "bias": "lean left",
-      "publishedAt": "2026-10-20T20:05:39Z",
+      "publishedAt": "2026-10-21T12:18:10Z",
       "source": "Al Jazeera English"
     }
   }
