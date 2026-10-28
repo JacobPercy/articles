@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "id": "Mg==",
+    "url": "https://www.cnet.com/tech/services-and-software/microsofts-employee-buyout-ai-reshaping-economy/",
+    "title": "Microsoft\u2019s Massive Employee Buyout Shows How AI Is Reshaping the Economy",
+    "summary": "The voluntary exit offer applies to staff at experience level 70 or below across the US, Canada, India and the UK.\nMicrosoft\u2019s operating income increased by about $30 billion between the 2026 and 2025 fiscal years.\nThe buyout affects teams including Xbox, Windows, Copilot and finance, but excludes certain data-center, sales and marketing staff, according to Bloomberg.\nXbox already cut 1,600 employees in July in one round of layoffs, and another round is expected before June 2027.\nThough AI might not yet be eliminating jobs at scale, companies are spending billions on compute while becoming far more selective about adding personnel.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-26T20:29:55Z",
+    "source": "CNET"
+  },
+  {
+    "id": "Ng==",
+    "url": "https://www.businessinsider.com/elon-musk-neoclouds-doomed-spacex-not-buying-2026-10#article",
+    "title": "Elon Musk says neoclouds are cooked, and SpaceX won't be buying them",
+    "summary": "He wrote that debt markets are reluctant to finance any company that relies almost entirely on AI data centers for revenue.\nHe said SpaceX has secured $40 billion in debt to buy GPUs, but unlike neoclouds, his company earns revenue from its Starlink and rocket-launch activities.\nMusk's post was in reply to one by venture capitalist Chamath Palihapitiya, who wrote on X that neoclouds are \"disorganized and poorly capitalized.\"\nReplying to another X thread speculating if he was trying to drive down the prices of neocloud stocks and scoop them up for cheap, Musk replied, \"SpaceX is not buying any neoclouds.\nHyperscalers like Amazon, Google, Meta, and Microsoft, which have experience building and operating data centers, will likely successfully complete construction of their planned centers, the report predicted.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-26T05:37:21Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Nw==",
+    "url": "https://www.businessinsider.com/fed-meeting-interest-rates-bond-yields-mark-zandi-2026-10#article",
+    "title": "Top Economist Says Rate Hike Not Needed, As Bond Market Is Doing Fed's Job",
+    "summary": "The \"work\" that Zandi sees the bond market doing is making borrowing costs higher, which is what the Fed aims to do when it tries to cool inflation.\nPrior to the Fed's September rate increase, Zandi said that he viewed the decision as a \"serious mistake\" that could prove costly for the US economy.\nA month later, the economist is still focused on the threats that further rate hikes could pose at a time when macro and geopolitical uncertainty remains high.\nZandi noted that global oil prices are surging back toward wartime peaks, as tensions with Iran show no signs of easing.\n\"Higher oil prices will further undermine real wages and, ultimately, consumer spending, something the Fed shouldn't dismiss,\" he added.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-26T17:50:09Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "OA==",
+    "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10#article",
+    "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+    "summary": "One of the world's largest investment firms says that only tech companies are getting a share of the AI pie.\n\"The technology has delivered zero financial payoff to corporate America outside of tech.\"\nIn a series of graphs, Slok measured three main metrics that have boomed for tech companies but not for regular companies: revenue per worker, profit margins, and productivity growth.\nSince 2022, revenue per employee figures have skyrocketed for tech companies \u2014 rising from $550,000 to nearly $800,000 today.\nSimilarly, while profit margins soared among tech companies since 2022, they've stagnated at about 10% for everyone else.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-25T16:08:22Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "OQ==",
+    "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+    "title": "Microsoft offers buyouts to 60,000 employees",
+    "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India.\nIn a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \u201cthe opportunity to leave Microsoft with financial support and career planning resources\u201d as the company looks to trim staff without another round of layoffs.\nThe voluntary exit offers come just months after Microsoft laid off 4,800 employees, a move that primarily impacted its Xbox and commercial sales teams.\n\u201cThe Voluntary Exit Offer is new for us,\u201d Coleman writes in a memo to employees.\nMicrosoft also says it may consider a future voluntary exit offer \u201cwhere there is a business and workforce need.\u201d",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-26T16:07:16Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTM=",
+    "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+    "title": "Anthropic IPO live updates: S-1 filing discloses $16.3B in first-half revenue, plans to list as 'ANT'",
+    "summary": "Anthropic (ANTH.PVT) publicly filed its S-1 investor prospectus on Monday, ahead of its planned initial public offering later this fall under the ticker symbol \"ANT.\"\nThe AI lab, helmed by CEO Dario Amodei, has exploded in popularity thanks to its Claude Code AI coding tool and Claude Cowork enterprise offering.\nAs of May, Anthropic was valued at $965 billion, more than rival OpenAI's (OPAI.PVT) $852 billion valuation in March.\nThe AI lab has faced a number of controversies this year, including a run-in with the Trump administration over how the government can use the company's AI models, and current and former employees warning about the potential threat of killer AI.\nLIVE COVERAGE IS OVER 28 updates",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-26T14:28:39Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MTU=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+    "title": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
+    "summary": "Anthropic:We believe that AI is one of the most consequential technologies in human history.\nIf managed well, it could rapidly accelerate scientific innovation, greatly increase economic growth rates, bring cures for major diseases within reach, and solve problems that have resisted generations of human effort.\nAnthropic aims to realize these benefits while navigating and preventing the risks that come with a technological revolution this fast and this powerful.\nThere are four things that we would like any investor in Anthropic to understand: the incredible potential of AI, the risks we must address, Anthropic\u2019s unique approach to building a company and operating in the world, and the ways in which our behavior may differ from that of a purely profit-maximizing company.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-26T13:33:37Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTY=",
+    "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "title": "The RealReal won\u2019t let AI agents hog designer clothing",
+    "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it\u2019s updating its bot defense system, effectively making it harder for AI agents to shop on its site.\nOn the retailer\u2019s website, an item goes \u201con hold\u201d and is unavailable for other customers to buy for 20 minutes once it\u2019s placed in a user\u2019s shopping cart.\nMuse has been a hit for Meta and could signal a turning point for AI agents: The company said 10 million people in the US had downloaded the app in 40 days.\nAn influx of AI agents accessing consumer platforms could also break or complicate even the most unexpected things shoppers take for granted, like the reserve system of a used clothing website.\nThere is, of course, a realistic limit to how long a person is willing to spend adding and re-adding designer clothing to their shopping cart if they\u2019re indecisive.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-26T17:30:55Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTc=",
+    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+    "summary": "I\u2019d started emailing with it after asking editors I know whether they\u2019d received any story pitches from AI agents.\nIn September, Defector, a sports and culture outlet, began receiving daily pitches from self-identified AI agents.\nDo you want to talk about AI agents posing as journalists?\nWIRED\u2019s research team was recently contacted by iLands agents looking for fact-checking work; New York Magazine editor Jasmine Vojdani recently wrote about how iLands agents have been spamming literary magazine editors.\nEarlier this fall, I received a startling email from an AI agent called Sam Ellis, asking me to answer a few questions for a story it was working on about AI agents in newsrooms.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-26T09:30:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://www.scientificamerican.com/article/anthropics-s-1-filing-spotlights-safety-fears-and-science-ambitions-ahead-of-ipo/",
+    "title": "Anthropic\u2019s S-1 filing spotlights safety fears and science ambitions ahead of IPO",
+    "summary": "\u201cMoving quickly brings AI\u2019s benefits sooner, but moving too quickly could outrun the world\u2019s ability to make AI systems safe,\u201d the company wrote.\nOn supporting science journalismIf you're enjoying this article, consider supporting our award-winning journalism by subscribing.\nIn the filing, Anthropic acknowledged that its future relies on outpacing its competition in developing increasingly capable and complex large language models.\n\u201cWe deploy technical safeguards, including automated classifiers, specifically intended to detect and block these categories of misuse,\u201d the company warned.\nEven that expansion presents dangers, the company acknowledged, because more traditional science and research is outside its current area of expertise.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-26T18:00:00Z",
+    "source": "Scientific American"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "title": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
+    "summary": "According to the filing, the artificial intelligence company plans to go public on Nasdaq under the ticker symbol ANT.\n\u201cThe advent of machine intelligence is one of the seminal moments in human history,\u201d Anthropic wrote in the filing.\n\u201cWe encourage you, as a prospective owner of our stock, not to think of your purchase in purely transactional terms.\nAnthropic also pointed to the risk that it could lose control of the AI models it develops.\nIt also highlighted the volatility of government action, specifically noting the Trump administration\u2019s decision to designate the company as a supply chain risk.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-26T14:50:47Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MjA=",
+    "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
+    "title": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility",
+    "summary": "FIX 2026 recognized nine companies for innovations in humanoid robotics, autonomous vehicles, industrial AI, cybersecurity, and data center cooling.\nAt FIX 2026 in Daegu, South Korea, nine companies presented their technologies at a press conference highlighting the winners of the Best Innovation Technology Awards, FIX 2026\u2019s highest distinction.\nBoth models aim to address one of the key challenges in humanoid robotics: reproducing the dexterity, gripping strength, and precise finger movements of the human hand.\nAI/ICT: Cooling, Cybersecurity, and Autonomous FactoriesCENS: Precision Cooling for AI ServersCENS presented its CENS-D130 precision spray cooling technology, developed to address the growing heat generated by powerful AI servers.\nWACE: Letting AI Make Factory DecisionsWACE\u2019s VEXPLOR, a manufacturing AI operating system, aims to move industrial AI beyond dashboards and recommendations.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-25T01:18:41Z",
+    "source": "Ubergizmo"
+  },
+  {
+    "id": "MjE=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "summary": "OpenAI results added to GitHub today:Local smoothing for the Euclidean wave equation.\nThe proof uses an auxiliary partial differential equation to establish Sogge\u2019s local smoothing for waves in every spatial dimension at least two.\nIt also yields the Kakeya maximal and dimension conjectures and Stein\u2019s spherical restriction estimates throughout the interior of the conjectured range.\nAn independent working group of computer scientists led by Russell Impagliazzo, Ramamohan Paturi, and Ryan Williams will examine and explain the proof.\nAt the group\u2019s request, we are making the materials public immediately so others can examine them as well.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-26T23:47:59Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+    "title": "Zen Browser is the Arc replacement I was looking for",
+    "summary": "I know many of you are mourning the loss of the Arc browser, and I get it.\nBut I abandoned Arc quite some time ago for the Zen Browser and haven\u2019t really missed it.\nIf you\u2019re willing to deal with some minor inconveniences, I think you\u2019ll find Zen is the Arc replacement you\u2019re looking for.\nYes, you can install Chrome extensions in Arc, but anecdotally, I\u2019ve found that Zen handles extensions better.\nBoth Zen and Arc are different enough from a UI perspective that not all extensions display properly, but Zen offers more workarounds.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-25T19:24:50Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o",
+    "title": "From agriculture to AI-griculture: How tech is changing farming",
+    "summary": "George McMaster's farming career started with milking eight cows in a byre, relying on his eyes to spot any health issues in his cattle.\nHe still watches his now-300-strong herd, but via a feed from an AI camera in the milking parlour at the farm near Islandmagee in County Antrim.\nThe device uses an algorithm which assigns each cow its own ID, records a short video of the animal every day, analyses it and flags any changes - often before they are visible to the human eye.\nFor the third generation farmer, it is \"absolutely incredible to move from all hand-done to sitting on the phone, watching what's happening outside\".",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-26T00:13:09Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+    "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+    "summary": "If the reports end up being true, it'll be the most significant change to the lineup in many years, introducing a touchscreen OLED MacBook Pro.\nAs exciting as it sounds, however, it's also the perfect opportunity to buy up the previous generation's M5 Max MacBook Pro at its lowest price ever.\nThis absolutely stacked version of the MacBook Pro is one of the most powerful laptops you can buy.\nThe M5 Max is a huge upgrade over both the M4 Max and the M5 Pro, offering GPU performance we've never seen on a MacBook before.\nRumors say that they will sport the same chip options as the current MacBook Pros, meaning we'd get an M5 Pro and M5 Max once again.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-25T11:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MzQ=",
+    "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+    "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
+    "summary": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display.\nIt's called Shift Left Edge, and it insets the display edge so that on-screen content isn't hidden beneath the case.\nHow to Turn On Shift Left EdgeOpen the Settings app on your iPhone Duo.\nToggle on Shift Left Edge, then tap Enable in the prompt that appears.\nApple offers two official cases for its new foldable: the aforementioned iPhone Duo Case, and a Folio with Kickstand that causes no such display occlusion.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-25T22:00:02Z",
+    "source": "MacRumors"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://www.bgr.com/2292409/do-smart-home-devices-meet-matter-standard/",
+    "title": "Double Check Your Smart Home Devices To See If They Meet This Industry Standard",
+    "summary": "If a smart device has Matter support, you're signing up a simpler, unified smart home experience.\nIt operates over Wi-Fi, Ethernet, or its own wireless \"Thread\" protocol to transmit data between proprietary smart home devices that normally wouldn't be able to communicate.\nMatter tech makes the dream of a fully connected smart home possible without having to buy into a single company's proprietary ecosystem.\nTo find out if your smart home tech supports Matter, first check the packaging for the Matter logo and name.\nYou may also need a Thread border router to make sure all your devices work together seamlessly.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-26T10:17:00Z",
+    "source": "BGR"
+  }
+]
