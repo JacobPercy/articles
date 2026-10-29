@@ -14,6 +14,18 @@
   {
     "article": {
       "id": "MQ==",
+      "url": "https://www.businessinsider.com/republicans-feel-inflation-crunch-midterm-elections-consumer-sentiment-2026-10#article",
+      "title": "Republicans Feel Inflation Crunch As Midterms Approach",
+      "summary": "While self-identified Republicans still feel better than their Democratic and Independent counterparts, they're increasingly feeling the pinch of rising prices.\nFrom January to October 2026, the share of Republicans citing high prices as a drag on their finances rose the most out of all political factions.\nAnd, more broadly, Republicans seem to be souring on economic conditions.\nDo you have thoughts on high prices or inflation?\nAdd to Preferred SourcesThe cost concerns come as Iran War volatility \u2014 and the resulting fallout on energy prices \u2014 kept inflation high.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-10-27T17:00:28Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Mg==",
       "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo",
       "title": "Israelis and Americans are both voting - with global consequences",
       "summary": "In the next week, two sets of elections will be held on two continents, the outcomes of which could have profound consequences for the world.\nVoters in Israel go to the polls on Tuesday to elect a new parliament; a week later, voters in the United States will elect a new Congress.\nBut the consequences of these elections will undoubtedly be global.\nThe future governance of Israel will have a lasting impact on the Middle East and wars raging across the region.\nAnd any change in the electoral map of America could shape not just those wars but also the future of the global economy.",
@@ -25,7 +37,7 @@
   },
   {
     "article": {
-      "id": "Mg==",
+      "id": "Mw==",
       "url": "https://www.cnet.com/tech/services-and-software/microsofts-employee-buyout-ai-reshaping-economy/",
       "title": "Microsoft\u2019s Massive Employee Buyout Shows How AI Is Reshaping the Economy",
       "summary": "The voluntary exit offer applies to staff at experience level 70 or below across the US, Canada, India and the UK.\nMicrosoft\u2019s operating income increased by about $30 billion between the 2026 and 2025 fiscal years.\nThe buyout affects teams including Xbox, Windows, Copilot and finance, but excludes certain data-center, sales and marketing staff, according to Bloomberg.\nXbox already cut 1,600 employees in July in one round of layoffs, and another round is expected before June 2027.\nThough AI might not yet be eliminating jobs at scale, companies are spending billions on compute while becoming far more selective about adding personnel.",
@@ -37,19 +49,19 @@
   },
   {
     "article": {
-      "id": "Mw==",
-      "url": "https://finance.yahoo.com/economy/policy/article/inflation-under-trump-is-only-about-half-the-rate-under-biden-voters-are-still-just-as-mad-120043933.html",
-      "title": "Inflation under Trump is only about half the rate under Biden. Voters are still just as mad.",
-      "summary": "So far in President Trump's second term, prices in the US have risen only about half as quickly as during his predecessor's four years in office.\nYet Trump has a 72% disapproval rating on the issue and risks paying a steep political price \u2014 just as former President Biden did \u2014 with voters drawing a direct connection between rising prices and the president's policies.\nDuring the last election cycle, prices of all items rose more than 20% in Biden's term , sparking widespread voter angst.\nTrump has often pushed back against questions about high energy prices, saying they won't be a problem once the war in Iran ends.\nToys are a particularly stark example, falling by 4.6% during Biden's term and then rising by 7.8% so far in Trump's term.",
+      "id": "NA==",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
+      "summary": "Sam Altman, the CEO of Anthropic\u2019s archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year.\nGiven that many shareholder votes are decided by a simple majority, Founder LLC basically gives Anthropic\u2019s founders the ability to block or force through decisions, regardless of how other shareholders vote.\nThe prospectus says Founder LLC will \u201cinitially\u201d be seven of Anthropic\u2019s founders: Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Christopher Olah.\nAnother potential vulnerability emerges if Anthropic\u2019s founders start leaving.\nOther means of subverting the trust also exist, he explained, including coordinated action by the public shareholders, employee stockholders, and founders.",
       "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-10-25T12:00:43Z",
-      "source": "Yahoo Entertainment"
+      "bias": "right",
+      "publishedAt": "2026-10-27T17:04:30Z",
+      "source": "The Verge"
     }
   },
   {
     "article": {
-      "id": "NA==",
+      "id": "NQ==",
       "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
       "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
       "summary": "Trump did not explicitly endorse Lula's rival Fl\u00e1vio Bolsonaro, who refused to recognise the result.\nBut Trump was a close ally of Fl\u00e1vio's father, the former President Jair Bolsonaro.\nWhen I spoke to Lula at his residence about a year ago, relations had hit rock bottom.\nTrump had recently imposed punitive tariffs on Brazil, largely as a political response to Jair Bolsonaro's coup trial, which the US president called a \"witch-hunt\".\nEven some in the agricultural lobby, typically strong Bolsonaro supporters but reliant on US trade, thought Lula had a point.",
@@ -57,18 +69,6 @@
       "bias": "lean left",
       "publishedAt": "2026-10-27T01:46:38Z",
       "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NQ==",
-      "url": "https://finance.yahoo.com/economy/articles/forget-house-senate-economy-may-224814398.html",
-      "title": "Forget the House and the Senate, the economy may hinge on state and local races in the midterm elections",
-      "summary": "Data centers have emerged as a national issue during this midterm election cycle, and candidates for the House and Senate have seized on it in their campaigns.\nBut state and local officials actually have more sway over data center construction and energy infrastructure, so the winners of lower-profile races may hold the economy's future in their hands.\nThat dynamic was on display on Tuesday, when Amazon canceled a plan to build data centers in Loudoun County, Virginia, after reaching an agreement with local officials amid widespread backlash from residents.\nGreg Abbott has turned from a data center booster to a skeptic as he faces a tough re-election race against Democratic state representative Gina Hinojosa.\nMichael Pearce, chief U.S. economist at Oxford Economics, also observed that midterm races for state capitals and town halls represent a bigger risk to the data center buildout than what happens in Washington, D.C.",
-      "category": "economics",
-      "bias": "center",
-      "publishedAt": "2026-10-25T22:48:14Z",
-      "source": "Yahoo Entertainment"
     }
   },
   {
@@ -86,24 +86,24 @@
   {
     "article": {
       "id": "Nw==",
-      "url": "https://www.businessinsider.com/fed-meeting-interest-rates-bond-yields-mark-zandi-2026-10#article",
-      "title": "Top Economist Says Rate Hike Not Needed, As Bond Market Is Doing Fed's Job",
-      "summary": "The \"work\" that Zandi sees the bond market doing is making borrowing costs higher, which is what the Fed aims to do when it tries to cool inflation.\nPrior to the Fed's September rate increase, Zandi said that he viewed the decision as a \"serious mistake\" that could prove costly for the US economy.\nA month later, the economist is still focused on the threats that further rate hikes could pose at a time when macro and geopolitical uncertainty remains high.\nZandi noted that global oil prices are surging back toward wartime peaks, as tensions with Iran show no signs of easing.\n\"Higher oil prices will further undermine real wages and, ultimately, consumer spending, something the Fed shouldn't dismiss,\" he added.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-10-26T17:50:09Z",
-      "source": "Business Insider"
+      "url": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
+      "title": "How Aldi is pushing down grocery prices",
+      "summary": "It's the only time I've lived near Aldi, the grocery store known for low prices.\nSponsor MessageAldi is a German company known for having low, low prices, and it deserves that reputation.\nAll to say: Aldi is disrupting the grocery business and actually lowering prices even as the cost of food\u2014at restaurants and other grocery stores\u2014goes up and up.\nAldi unbundled the part of the grocery business it can do super cheaply, and it intentionally locates Aldi stores near competitor grocery stores so shoppers can easily go grab the last few things on their list (the rest of the bundle).\nI think the way Aldi's growth pressured competitors to keep prices low shows that grocers are not the right target of our ire over food prices.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-10-27T10:30:00Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
       "id": "OA==",
-      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10#article",
-      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "summary": "One of the world's largest investment firms says that only tech companies are getting a share of the AI pie.\n\"The technology has delivered zero financial payoff to corporate America outside of tech.\"\nIn a series of graphs, Slok measured three main metrics that have boomed for tech companies but not for regular companies: revenue per worker, profit margins, and productivity growth.\nSince 2022, revenue per employee figures have skyrocketed for tech companies \u2014 rising from $550,000 to nearly $800,000 today.\nSimilarly, while profit margins soared among tech companies since 2022, they've stagnated at about 10% for everyone else.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-10-25T16:08:22Z",
+      "url": "https://www.businessinsider.com/fed-meeting-interest-rates-bond-yields-mark-zandi-2026-10#article",
+      "title": "Top Economist Says Rate Hike Not Needed, As Bond Market Is Doing Fed's Job",
+      "summary": "The \"work\" that Zandi sees the bond market doing is making borrowing costs higher, which is what the Fed aims to do when it tries to cool inflation.\nPrior to the Fed's September rate increase, Zandi said that he viewed the decision as a \"serious mistake\" that could prove costly for the US economy.\nA month later, the economist is still focused on the threats that further rate hikes could pose at a time when macro and geopolitical uncertainty remains high.\nZandi noted that global oil prices are surging back toward wartime peaks, as tensions with Iran show no signs of easing.\n\"Higher oil prices will further undermine real wages and, ultimately, consumer spending, something the Fed shouldn't dismiss,\" he added.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-10-26T17:50:09Z",
       "source": "Business Insider"
     }
   },
@@ -123,10 +123,10 @@
     "article": {
       "id": "MTA=",
       "url": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447",
-      "title": "Iran live updates: Houthis claim new attack on Riyadh airport, Saudis report interception",
-      "summary": "This file photo shows Houthi activists standing in front of a banner depicting missile launches, at a rally in Sanaa, Yemen, on July 31, 2026.\nThis file photo shows Houthi activists standing in front of a banner depicting missile launches, at a rally in Sanaa, Yemen, on July 31, 2026.\nThis file photo shows Houthi activists standing in front of a banner depicting missile launches, at a rally in Sanaa, Yemen, on July 31, 2026.\nThis file photo shows Houthi activists standing in front of a banner depicting missile launches, at a rally in Sanaa, Yemen, on July 31, 2026.\nMeanwhile, intensified fighting between Saudi-backed Yemeni forces and Iran-backed Houthi rebels in Yemen has seen the latter repeatedly attack Saudi military, oil infrastructure and transport facilities.",
+      "title": "Iran live updates: US military estimates war with Iran now costs $47.1 billion",
+      "summary": "Trump denied that he had directed Vance to reach out on the subject of peace negotiations, and instead implied that the U.S. was working to get humanitarian aid into Iran.\n\"No, what that is, is we -- they need help with medical supplies and various things.\nPresident Donald Trump speaks to reporters before boarding Air Force One at Joint Base Andrews, Maryland, Oct. 28, 2026.\nMark Schiefelbein/AP PhotoTrump made the comments on the tarmac at Joint Base Andrews while en route to Ohio for a campaign rally.\nThe White House and the vice president's office did not respond to requests for comment.",
       "category": "international",
-      "bias": "lean left",
+      "bias": "left",
       "publishedAt": "2026-10-26T07:17:34Z",
       "source": "Abcnews.com"
     }
@@ -134,18 +134,6 @@
   {
     "article": {
       "id": "MTE=",
-      "url": "https://www.yahoo.com/news/politics/articles/brazil-faces-tense-lula-vs-050015086.html",
-      "title": "Lula is declared winner of Brazil's election as Bolsonaro rejects results",
-      "summary": "Bolsonaro is the son of former President Jair Bolsonaro, whom Lula defeated to take the presidency in 2022.\nLula says Brazil is 'not anyone's backyard'A video published by Lula's campaign shows the veteran leader celebrating with First Lady Ros\u00e2ngela da Silva and allies after his runoff victory was confirmed by Brazil's electoral court.\nHe pointed to financial markets' positive reaction to the result of the first round, when Bolsonaro bested Lula.\nThe president of the electoral court, Kassio Nunes Marques, who was appointed to the Supreme Court by former President Bolsonaro, said that the extension of voting hours did not impact results.\nHe was released from prison after 580 days and saw Brazil's Supreme Court annul his sentence after police found messages that showed the judge who convicted him was biased.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-10-25T05:00:15Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "MTI=",
       "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
       "title": "South Korea\u2019s GDP growth beats forecasts amid AI boom",
       "summary": "South Korea\u2019s economy grew much faster than expected in the July-September quarter amid booming demand for chips used in artificial intelligence (AI).\nExports, which account for about 45 percent of South Korea\u2019s GDP, rose 2.3 percent quarter-on-quarter, driven by semiconductors, machinery and electrical equipment, according to the central bank.\nThe latest results put the South Korean economy well on track to achieve its biggest economic expansion in more than a decade.\nSouth Korean Finance Minister Lee Hyoung-il said earlier this month that he expected growth to reach 3.4-3.6 percent in 2026, which would be the strongest performance since 2011, excluding the COVID-19 pandemic.\nSouth Korea\u2019s economy grew 1 percent in 2025, its slowest expansion since the pandemic.",
@@ -157,11 +145,11 @@
   },
   {
     "article": {
-      "id": "MTM=",
+      "id": "MTI=",
       "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
       "title": "Anthropic IPO live updates: S-1 filing discloses $16.3B in first-half revenue, plans to list as 'ANT'",
       "summary": "Anthropic (ANTH.PVT) publicly filed its S-1 investor prospectus on Monday, ahead of its planned initial public offering later this fall under the ticker symbol \"ANT.\"\nThe AI lab, helmed by CEO Dario Amodei, has exploded in popularity thanks to its Claude Code AI coding tool and Claude Cowork enterprise offering.\nAs of May, Anthropic was valued at $965 billion, more than rival OpenAI's (OPAI.PVT) $852 billion valuation in March.\nThe AI lab has faced a number of controversies this year, including a run-in with the Trump administration over how the government can use the company's AI models, and current and former employees warning about the potential threat of killer AI.\nLIVE COVERAGE IS OVER 28 updates",
-      "category": "technology",
+      "category": "economics",
       "bias": "center",
       "publishedAt": "2026-10-26T14:28:39Z",
       "source": "Yahoo Entertainment"
@@ -169,19 +157,67 @@
   },
   {
     "article": {
-      "id": "MTQ=",
-      "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean",
-      "title": "Bangladesh per capita GDP forecast to outstrip India\u2019s: What does it mean?",
-      "summary": "Bangladesh is expected to surpass India\u2019s per capita GDP this year, but the complete economic picture is a mix of success stories and new challenges.\nShare Bangladesh per capita GDP forecast to outstrip India\u2019s: What does it mean?\nBut its neighbour\u2019s per capita GDP, which is GDP divided by the total population, is expected to surpass that of India, the world\u2019s most populous nation.\nIn 2029, based on current growth forecasts, India\u2019s per capita GDP of $3,661 would top Bangladesh\u2019s $3,334, according to the IMF.\nExperts noted that Bangladesh is facing a weaker near-term growth outlook, even as its projected GDP per capita edges above India\u2019s.",
+      "id": "MTM=",
+      "url": "https://www.cnet.com/news/halloween-candy-prices-take-a-scary-bite-out-of-shoppers-budgets/",
+      "title": "Halloween Candy Prices Take a Scary Bite Out of Shoppers\u2019 Budgets",
+      "summary": "October is important for candy sales, as shoppers stock up for parties, trick-or-treaters, or \u2014 let\u2019s be honest \u2014 personal consumption.\n\u201cConfection remains a resilient category.\u201dMoney monstrosityAmericans will likely spend over $13 billion on Halloween this year, the National Retail Federation reports.\nCandy remains the favorite purchase, with 95% of Halloween shoppers planning to snag some this year, followed by decorations, costumes and greeting cards, according to the National Retail Federation.\nIn 2026, shoppers are expected to spend over $4 billion on Halloween candy alone.\nHalloween sales hit the high street and online two or three days before Halloween as stores try to clear stock,\u201d says James Bricknell, CNET commerce managing editor.",
       "category": "economics",
       "bias": "center",
-      "publishedAt": "2026-10-25T14:11:29Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-10-27T21:58:52Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MTQ=",
+      "url": "https://www.businessinsider.com/millennials-gen-z-adults-buying-toys-kidulting-2026-10#article",
+      "title": "Millennials and Gen Z Are 'Kidulting,' Buying Childhood Toys As Adults",
+      "summary": "In February, she and her friend went to the American Girl store in New York.\nByron bought an American Girl doll in February.\nFarmer also buys toys for herself, including her first American Girl doll through Facebook Marketplace \u2014 Nicki, one of the '90s-inspired dolls.\nHe posts about his Lego collection and passion for cars; he recently started collecting Hot Wheels, another childhood favorite.\nByron, the Gen Zer who bought an American doll, still has her collection of dolls from her childhood.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-10-27T09:30:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MTU=",
+      "url": "https://www.businessinsider.com/luxury-real-estate-trends-what-wealthy-homebuyers-want-2026#article",
+      "title": "4 Luxury Real Estate Trends Shaping How the Ultrawealthy Buy Homes in 2026",
+      "summary": "While many Americans are sitting on the sidelines, waiting for the real-estate market to become more affordable, ultrawealthy buyers are still snapping up homes.\nSotheby's International Realty's 2026 Mid-Year luxury outlook survey found that 55% of its real-estate affiliated professionals worldwide who specialize in properties priced at $10 million and above saw an increase in luxury homebuyers in their local markets over the previous 12 months.\n\"The affluent remain engaged and confident in the luxury housing market.\nWhite Jr., president and CEO of Sotheby's International Realty, said in the brokerage's report.\nHere are four trends gaining traction among ultrawealthy homebuyers according to Sotheby's report, from a revival in San Francisco's real estate market to a growing demand for homes that allow buyers to age in place.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-10-26T11:31:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTY=",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+      "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+      "summary": "Trump escalates anti-Muslim attacks against El-Sayed in Michigantoggle caption i Julia Demaree Nikhinson/APPORT HURON, Mich. \u2014 President Donald Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States in remarks that drew a sharp rebuke from a former top Arab American ally.\nMichigan's Senate race between El-Sayed and Republican Mike Rogers is among a handful of contests that could determine control of the chamber.\nEl-Sayed was born in the United States to Egyptian immigrant parents who divorced when he was young.\n\"The president of the United States saying that about a person because of his religion, that is just not acceptable,\" said Bahbah.\nRapper Nicki Minaj appeared on stage and urged people to get out and vote for the state's Republican ticket.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-10-26T09:22:36Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "MTc=",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "summary": "A UK government watchdog is considering an investigation into the Home Office\u2019s use of generative AI tools to process asylum applications, WIRED has learned.\nThe potential probe follows lawmakers and researchers publicly questioning the tools\u2019 accuracy and the government\u2019s secrecy around their use.\nThey cannot be used in isolation and do not make decisions on claims,\u201d a Home Office spokesperson tells WIRED in an email.\nThey use the APS as a search assistant to find and summarize country policy information, which informs them whether the applicant faces a genuine risk of harm in their home country.\nIn July, a UK judge accused the Home Office of citing an \u201cAI hallucinated\u201d document to refuse a Moroccan woman and her child\u2019s asylum claim on the basis that her home country would be safe for her to return to.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-10-27T15:10:26Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "MTg=",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
       "title": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
       "summary": "Anthropic:We believe that AI is one of the most consequential technologies in human history.\nIf managed well, it could rapidly accelerate scientific innovation, greatly increase economic growth rates, bring cures for major diseases within reach, and solve problems that have resisted generations of human effort.\nAnthropic aims to realize these benefits while navigating and preventing the risks that come with a technological revolution this fast and this powerful.\nThere are four things that we would like any investor in Anthropic to understand: the incredible potential of AI, the risks we must address, Anthropic\u2019s unique approach to building a company and operating in the world, and the ways in which our behavior may differ from that of a purely profit-maximizing company.",
@@ -193,7 +229,7 @@
   },
   {
     "article": {
-      "id": "MTY=",
+      "id": "MTk=",
       "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
       "title": "The RealReal won\u2019t let AI agents hog designer clothing",
       "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it\u2019s updating its bot defense system, effectively making it harder for AI agents to shop on its site.\nOn the retailer\u2019s website, an item goes \u201con hold\u201d and is unavailable for other customers to buy for 20 minutes once it\u2019s placed in a user\u2019s shopping cart.\nMuse has been a hit for Meta and could signal a turning point for AI agents: The company said 10 million people in the US had downloaded the app in 40 days.\nAn influx of AI agents accessing consumer platforms could also break or complicate even the most unexpected things shoppers take for granted, like the reserve system of a used clothing website.\nThere is, of course, a realistic limit to how long a person is willing to spend adding and re-adding designer clothing to their shopping cart if they\u2019re indecisive.",
@@ -205,7 +241,31 @@
   },
   {
     "article": {
-      "id": "MTc=",
+      "id": "MjA=",
+      "url": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims",
+      "title": "Cybersecurity CEO Indicted For Allegedly Scamming Millions From Ransomware Victims",
+      "summary": "You can observe a lot just by watching.\n-- Yogi Berra",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-10-27T17:00:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "MjE=",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers.\nIn Pages, Apple says the AI assistant can draft, restructure, and tweak written content.\nImage: AppleKeynote, Pages, and Numbers now support the Model Context Protocol on macOS 27 or later, allowing third-party AI agents to plug into the apps.\nThe AI assistant is rolling out in beta to devices compatible with Apple Intelligence.\nIt works on devices running iOS 27, iPadOS 27, or macOS 27 or later.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-10-27T13:50:51Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjI=",
       "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
       "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
       "summary": "I\u2019d started emailing with it after asking editors I know whether they\u2019d received any story pitches from AI agents.\nIn September, Defector, a sports and culture outlet, began receiving daily pitches from self-identified AI agents.\nDo you want to talk about AI agents posing as journalists?\nWIRED\u2019s research team was recently contacted by iLands agents looking for fact-checking work; New York Magazine editor Jasmine Vojdani recently wrote about how iLands agents have been spamming literary magazine editors.\nEarlier this fall, I received a startling email from an AI agent called Sam Ellis, asking me to answer a few questions for a story it was working on about AI agents in newsrooms.",
@@ -217,7 +277,19 @@
   },
   {
     "article": {
-      "id": "MTg=",
+      "id": "MjM=",
+      "url": "https://www.cnet.com/tech/services-and-software/php-warning-web-vulnerability/",
+      "title": "Last Week\u2019s Critical PHP Warning Was the Tip of the Web Vulnerability Iceberg",
+      "summary": "Shortly after alerts were issued about the new vulnerabilities, new versions of PHP were issued, and site operators were urged to update.\nAnd for web surfers, it\u2019s not obvious what PHP version a site is running without running terminal commands or using an online PHP checker.\nWhile companies and governments rely on PHP, \u201cIt is clear PHP is severely underfunded,\u201d she said.\nA large majority of 71% of these site owners hadn\u2019t heard about the recent PHP flaws.\nIn addition to its security updates, Cloudflare has also introduced a PHP Capture the Flag contest as part of its Bug Bounty Program on HackerOne.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-10-27T18:39:30Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MjQ=",
       "url": "https://www.scientificamerican.com/article/anthropics-s-1-filing-spotlights-safety-fears-and-science-ambitions-ahead-of-ipo/",
       "title": "Anthropic\u2019s S-1 filing spotlights safety fears and science ambitions ahead of IPO",
       "summary": "\u201cMoving quickly brings AI\u2019s benefits sooner, but moving too quickly could outrun the world\u2019s ability to make AI systems safe,\u201d the company wrote.\nOn supporting science journalismIf you're enjoying this article, consider supporting our award-winning journalism by subscribing.\nIn the filing, Anthropic acknowledged that its future relies on outpacing its competition in developing increasingly capable and complex large language models.\n\u201cWe deploy technical safeguards, including automated classifiers, specifically intended to detect and block these categories of misuse,\u201d the company warned.\nEven that expansion presents dangers, the company acknowledged, because more traditional science and research is outside its current area of expertise.",
@@ -229,7 +301,7 @@
   },
   {
     "article": {
-      "id": "MTk=",
+      "id": "MjU=",
       "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
       "title": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
       "summary": "According to the filing, the artificial intelligence company plans to go public on Nasdaq under the ticker symbol ANT.\n\u201cThe advent of machine intelligence is one of the seminal moments in human history,\u201d Anthropic wrote in the filing.\n\u201cWe encourage you, as a prospective owner of our stock, not to think of your purchase in purely transactional terms.\nAnthropic also pointed to the risk that it could lose control of the AI models it develops.\nIt also highlighted the volatility of government action, specifically noting the Trump administration\u2019s decision to designate the company as a supply chain risk.",
@@ -241,19 +313,55 @@
   },
   {
     "article": {
-      "id": "MjA=",
-      "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
-      "title": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility",
-      "summary": "FIX 2026 recognized nine companies for innovations in humanoid robotics, autonomous vehicles, industrial AI, cybersecurity, and data center cooling.\nAt FIX 2026 in Daegu, South Korea, nine companies presented their technologies at a press conference highlighting the winners of the Best Innovation Technology Awards, FIX 2026\u2019s highest distinction.\nBoth models aim to address one of the key challenges in humanoid robotics: reproducing the dexterity, gripping strength, and precise finger movements of the human hand.\nAI/ICT: Cooling, Cybersecurity, and Autonomous FactoriesCENS: Precision Cooling for AI ServersCENS presented its CENS-D130 precision spray cooling technology, developed to address the growing heat generated by powerful AI servers.\nWACE: Letting AI Make Factory DecisionsWACE\u2019s VEXPLOR, a manufacturing AI operating system, aims to move industrial AI beyond dashboards and recommendations.",
+      "id": "MjY=",
+      "url": "https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html",
+      "title": "Anthropic publicly files IPO prospectus, noting strong revenue growth and massive spending",
+      "summary": "But the company also spent $9 billion on AI infrastructure in the first six months of the year, ahead of the $7.3 billion it spent throughout 2025.\nAccording to the S-1, Anthropic saw a net loss of $80.7 billion through June, though the vast majority of that was the result of accounting charges.\nThe company's market debut will test investors' appetite for a second public listing by a firm with an already massive valuation.\nThe filing lays out a host of potentially damaging scenarios in which its AI models could cause real-world harm.\nIn an early September essay, Amodei called on the AI industry to slow the development of frontier AI models over fears that they could become too powerful for humans to control.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-10-25T01:18:41Z",
-      "source": "Ubergizmo"
+      "bias": "center",
+      "publishedAt": "2026-10-26T13:18:07Z",
+      "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "MjE=",
+      "id": "Mjc=",
+      "url": "https://www.businessinsider.com/ai-scams-older-americans-experts-red-flags-2026-10#article",
+      "title": "AI Scams Targeting Older Americans: 5 Experts Share Advice",
+      "summary": "Don Grant advises that having open conversations about financial fraud is one of the most effective ways to educate older Americans.\nDon Grant advises that having open conversations about financial fraud is one of the most effective ways to educate older Americans.\nFake technical support scammers contact you with claims of a breach at your bank or financial institution.\nTake the time to log into a verifiable site and call a verifiable number with questions.\nI have open conversations about financial fraud, anonymously citing actual situations where a scammer attempted to separate them from their money.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-10-27T09:00:02Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjg=",
+      "url": "https://www.businessinsider.com/anthropic-ipo-filing-reveals-looming-threat-to-nvidia-pricing-power-2026-10#article",
+      "title": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing",
+      "summary": "Anthropic is hedging its bets by using multiple chips to handle its AI work \u2014 a strategy that could eventually erode Nvidia's dominance.\nAshish Nadkarni, an analyst at IDC, added that a multichip approach also makes Anthropic less vulnerable to fluctuations in Nvidia's chip supply.\nBreaking Nvidia's grip isn't easyAlthough Anthropic's chip mix isn't new, the company is now pitching it as a core advantage to investors, Moorhead said.\nAnthropic also continues to spend billions on Nvidia compute, Moorhead said.\nThere's a broader risk for Nvidia if AI compute becomes more of a commodity.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-10-27T19:31:17Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjk=",
+      "url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10#article",
+      "title": "This 11-Person Startup Raised $40 Million to Train Robots in Virtual Worlds",
+      "summary": "A London-based robotics startup is betting it can teach robots new tricks without collecting the mountains of real-world data its much bigger rivals are chasing.\nWhile rivals building general-purpose AI models for robots are scrambling to amass real-world data, Machenta is taking a contrarian approach.\nIn a video shared with Business Insider, three robots pack and close a box on an assembly line, a task Johns said they learned this way.\nMachenta's team Oscar MayCompanies are increasingly buying and collecting data to teach robots how to interact with the real world.\nJohns said that Machenta is taking on the harder challenge of designing algorithms that can generate synthetic data useful for teaching robots physical tasks.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-10-27T10:00:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
       "title": "OpenAI announces three big science discoveries and a new way to work with academics",
       "summary": "OpenAI results added to GitHub today:Local smoothing for the Euclidean wave equation.\nThe proof uses an auxiliary partial differential equation to establish Sogge\u2019s local smoothing for waves in every spatial dimension at least two.\nIt also yields the Kakeya maximal and dimension conjectures and Stein\u2019s spherical restriction estimates throughout the interior of the conjectured range.\nAn independent working group of computer scientists led by Russell Impagliazzo, Ramamohan Paturi, and Ryan Williams will examine and explain the proof.\nAt the group\u2019s request, we are making the materials public immediately so others can examine them as well.",
@@ -265,43 +373,55 @@
   },
   {
     "article": {
-      "id": "MjI=",
-      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "title": "Zen Browser is the Arc replacement I was looking for",
-      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it.\nBut I abandoned Arc quite some time ago for the Zen Browser and haven\u2019t really missed it.\nIf you\u2019re willing to deal with some minor inconveniences, I think you\u2019ll find Zen is the Arc replacement you\u2019re looking for.\nYes, you can install Chrome extensions in Arc, but anecdotally, I\u2019ve found that Zen handles extensions better.\nBoth Zen and Arc are different enough from a UI perspective that not all extensions display properly, but Zen offers more workarounds.",
+      "id": "MzE=",
+      "url": "https://www.cnet.com/tech/services-and-software/ai-chatbots-election-voting-research-decisions/",
+      "title": "Why You Shouldn\u2019t Use AI Chatbots to Decide Who to Vote For",
+      "summary": "Many tech issues are on the ballot, including AI policies \u2014 but people are also reportedly turning to generative AI chatbots to help them prepare for Election Day.\nBut if you\u2019re going to use chatbots for your election research, make sure you take these precautions.\nGoogle displayed a pop-up message in my Gemini window telling me to verify election information with official sources.\nAI chatbots are popular tools for sifting through online information, but they\u2019re unreliable.\nChatbots can help lay out information \u2014 and misinformation \u2014 but you\u2019re ultimately the only person responsible for your vote.",
       "category": "technology",
       "bias": "lean right",
-      "publishedAt": "2026-10-25T19:24:50Z",
+      "publishedAt": "2026-10-26T12:20:03Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MzI=",
+      "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+      "title": "Trump is making it easier for fossil fuel companies to leak methane",
+      "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks.\nMethane is a smog-forming pollutant and a powerful greenhouse gas that\u2019s up to 80 times as potent as carbon dioxide on a 20-year horizon.\nIt\u2019s the primary component of what the fossil fuel industry calls \u201cnatural gas\u201d that routinely leaks from oil and gas wells and pipelines.\nThese wells are responsible for half of the industry\u2019s methane emissions despite only producing 6 percent of US oil and gas, ProPublica reports.\n\u201cFor over a decade, [our group] has been fighting for methane protections for our families\u2014and we were making progress.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-10-27T18:25:13Z",
       "source": "The Verge"
     }
   },
   {
     "article": {
-      "id": "MjM=",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o",
-      "title": "From agriculture to AI-griculture: How tech is changing farming",
-      "summary": "George McMaster's farming career started with milking eight cows in a byre, relying on his eyes to spot any health issues in his cattle.\nHe still watches his now-300-strong herd, but via a feed from an AI camera in the milking parlour at the farm near Islandmagee in County Antrim.\nThe device uses an algorithm which assigns each cow its own ID, records a short video of the animal every day, analyses it and flags any changes - often before they are visible to the human eye.\nFor the third generation farmer, it is \"absolutely incredible to move from all hand-done to sitting on the phone, watching what's happening outside\".",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-10-26T00:13:09Z",
+      "id": "MzM=",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
+      "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+      "summary": "Trump says he's ending restrictions on climate-warming methane from oil drillingtoggle caption i Annie Rice/APBILLINGS, Mont.\nMethane is responsible for about a third of planet-warming greenhouse gas emissions, scientists estimate.\ntoggle caption i David Goldman/APCuts in methane emissions have emerged in recent years as a global priority to slow the rate of climate change.\nZeldin has said the methane rule would have cost $18 billion and was holding back the U.S. energy industry.\nThe fee marked the first time the U.S. government directly imposed a fee, or tax, on greenhouse gas emissions.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-10-28T06:15:31Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "MzQ=",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7y3dyv382o",
+      "title": "Newspaper headlines: Budget for a 'difficult moment' and Netanyahu's 'fate in balance'",
+      "summary": "The Times and the Daily Telegraph report that the chancellor will scrap standing charges on gas household bills - fixed daily fees that must be paid, even if no gas is used.\nAccording to the Telegraph that will knock up to \u00a350 off a typical annual bill, external.\nAccording to the Financial Times, tax rises in the Budget will be modest, external, and targeted at banks and the gambling sector.\nThe paper says the City of London has become resigned to the idea of a tax raid on bank profits.\nThe paper says Healey strongly supports the project, but Energy Secretary Miatta Fahnbulleh, and Foreign Secretary Ed Miliband are opposed.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-10-28T00:42:03Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "MjQ=",
-      "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
-      "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
-      "summary": "If the reports end up being true, it'll be the most significant change to the lineup in many years, introducing a touchscreen OLED MacBook Pro.\nAs exciting as it sounds, however, it's also the perfect opportunity to buy up the previous generation's M5 Max MacBook Pro at its lowest price ever.\nThis absolutely stacked version of the MacBook Pro is one of the most powerful laptops you can buy.\nThe M5 Max is a huge upgrade over both the M4 Max and the M5 Pro, offering GPU performance we've never seen on a MacBook before.\nRumors say that they will sport the same chip options as the current MacBook Pros, meaning we'd get an M5 Pro and M5 Max once again.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-10-25T11:00:00Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "MjU=",
+      "id": "MzU=",
       "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo",
       "title": "Storm Boelo: More high winds hit parts of UK as clean-up continues",
       "summary": "Strong winds are expected to continue across Scotland and parts of Northern Ireland on Tuesday, after Storm Boelo brought flooding and power cuts to thousands over the weekend.\nGusts will continue to reach 50-60mph, possibly up to 70mph in the most exposed parts of northwest and northern Scotland.\nThat is is likely to bring further travel disruption and more power cuts in places.\nBoelo is the second storm to have hit parts of the UK in recent days, following Storm Austen.\nThe Met Office has warned about the possibility of further power cuts and people should make sure they have essentials prepared, including torches and batteries.",
@@ -313,7 +433,7 @@
   },
   {
     "article": {
-      "id": "MjY=",
+      "id": "MzY=",
       "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo",
       "title": "Political battle intensifies within Labour over Rosebank oil field",
       "summary": "Scottish Labour leader Michael Marra is wading into the political battle which is intensifying over the Rosebank oil field.\nHe is making a direct appeal to Energy Secretary Miatta Fahnbulleh to approve the plans to allow production to begin in the North Atlantic.\nEnvironmentalists have long campaigned against the proposals for drilling in the UK's largest untapped oil field, 80 miles north-west of Shetland.\nThat the debate is now taking place within the Labour Party is a sign of the UK's recent journey on the politics of energy.\nWhen Labour came to power in 2024, it was with a manifesto pledge not to allow any new drilling for oil and gas in the North Sea.",
@@ -325,67 +445,103 @@
   },
   {
     "article": {
-      "id": "Mjc=",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261022081259.htm",
-      "title": "Scientists discover Arctic sea ice loss could be far worse than predicted",
-      "summary": "Much of the attention surrounding Arctic ice loss has focused on the dramatic retreat of summer sea ice.\nWhy Arctic Winter Sea Ice Matters for Global WeatherWinter sea ice influences weather far beyond the Arctic by controlling how much heat and moisture escape from the ocean into the atmosphere.\nIn March 2025, winter sea ice reached the lowest annual maximum extent recorded since modern monitoring began.\nThe comparison revealed a significant problem: collectively, the climate models predicted more winter sea ice than the ancient evidence supported.\nArctic Ice Loss Could Have Wider Consequences for EuropeThe findings may have implications that extend beyond the disappearance of Arctic sea ice itself.",
+      "id": "Mzc=",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
+      "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+      "summary": "Gooch's sister owns a house in a suburban neighborhood near the San Juan River.\n\"This is a catastrophic flood of historic proportions,\" said Devon Neeley, San Juan County's public information officer.\n\"The public is anxious to get back in; we recognize that, we're sympathetic to that,\" said San Juan County Fire Chief David Vega at a public briefing Sunday.\ntoggle caption i Navajo Nation Police DeparmentNew Mexico Governor Michelle Lujan Grisham visited San Juan County on Monday.\n\"I hope we're only spending 30 to 40 million (dollars),\" Lujan Grisham said, responding to recovery cost estimates from San Juan County manager Mike Stark.",
       "category": "environment",
       "bias": "center",
-      "publishedAt": "2026-10-26T08:50:24Z",
-      "source": "Science Daily"
+      "publishedAt": "2026-10-27T21:17:57Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
-      "id": "Mjg=",
-      "url": "https://grist.org/climate/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/",
-      "title": "Climate change rarely goes on trial. This one could be a landmark.",
-      "summary": "The lawsuit is the latest in a yearslong campaign by young people who are using the courts to force elected officials to mitigate climate change.\nSet in Vancouver, the proceedings are slated to last five weeks, with the 15 plaintiffs expected to testify alongside climate scientists and other experts.\n\u201cWe found that some of the positive decisions from some countries have been inspirational in other countries,\u201d said Michael Gerrard, faculty director of the Columbia University\u2019s Sabin Center for Climate Change Law.\nThe original lawsuit took aim at much of Canada\u2019s approach to climate change.\nThey argue that the efforts don\u2019t go far enough to avoid violating their charter rights in the context of climate change and that the government committed to the net-zero law.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-10-26T08:15:00Z",
-      "source": "Grist"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjk=",
-      "url": "https://grist.org/justice/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/",
-      "title": "Climate change rarely goes on trial. This one could be a landmark.",
-      "summary": "The lawsuit is the latest in a yearslong campaign by young people who are using the courts to force elected officials to mitigate climate change.\nSet in Vancouver, the proceedings are slated to last five weeks, with the 15 plaintiffs expected to testify alongside climate scientists and other experts.\n\u201cWe found that some of the positive decisions from some countries have been inspirational in other countries,\u201d said Michael Gerrard, faculty director of the Columbia University\u2019s Sabin Center for Climate Change Law.\nThe original lawsuit took aim at much of Canada\u2019s approach to climate change.\nThey argue that the efforts don\u2019t go far enough to avoid violating their charter rights in the context of climate change and that the government committed to the net-zero law.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-10-26T08:15:00Z",
-      "source": "Grist"
-    }
-  },
-  {
-    "article": {
-      "id": "MzA=",
-      "url": "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo",
-      "title": "What are the unanswered questions around the River Tyne nurdle spill?",
-      "summary": "On 19 July about 18 tonnes of plastic nurdles, consisting of hundreds of millions of tiny balls, spilled into the River Tyne after a crash between ships at the Port of Tyne.\nIt is believed to be the worst recorded incident of its type in Europe.\nIn the months since, teams of volunteers have joined in efforts to collect the microplastics that continue to wash up on north-east England's coast.\nBut several questions remain.\nSo what do we know about the spill right now - and what are we still waiting to find out?",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-10-26T06:07:12Z",
+      "id": "Mzg=",
+      "url": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo",
+      "title": "Serbia's student movement: How and why students brought down Vu\u010di\u0107",
+      "summary": "Theirs is a movement born from tragedy that began with students blockading streets and turned into almost daily protests and a national movement against corruption and government negligence.\nFrom Belgrade to Novi Sad and Ni\u0161, the mood was euphoric as supporters gathered in town centres or in front of Student List headquarters.\nIn a post on social media, the students declared \"Serbia is free\".\nMost symbolic of all was the demise of so-called \u0106aciland, a pro-Vu\u010di\u0107 tent camp set up 18 months ago at Pioneers Park in central Belgrade in front of the Serbian parliament.\nMetal fences were torn down amid shouts of \"Vu\u010di\u0107 is leaving\".",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-10-26T00:31:51Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "MzE=",
-      "url": "https://www.nature.com/articles/d41586-026-03403-6",
-      "title": "Global climate body fights for survival: why the IPCC must be saved",
-      "summary": "The United Nations body \u2014 the world\u2019s forum for climate scientists \u2014 had failed, not for the first time, to agree a timetable for its next comprehensive review of the science of global climate change.\nThis would be in time for a UN climate meeting called the Global Stocktake, at which countries assess their progress towards meeting climate pledges.\nReviewing IPCC assessment reports is a big undertaking.\nFor the first time in its history, it might not have the funds to finish an assessment report.\nThe timing of the next assessment report must be resolved.",
+      "id": "Mzk=",
+      "url": "https://finance.yahoo.com/energy/articles/trump-casts-high-gas-price-210511413.html",
+      "title": "Trump Casts High Gas Price as \u2018Short-Term Pain\u2019 at Texas Rally",
+      "summary": "High prices that have strained household budgets have become the dominant issue in the election, weighing down Republican candidates in red states such as Texas.\nYou're going to see very soon,\" Trump said at a rally in Corpus Christi.\nThe average price for a gallon of regular was $4.27, according to auto club AAA, up from $2.98 before the war.\nEarlier: Trump, Rubio Plan to Visit Tanker With Venezuelan Crude in Texas\"It'll be refined right here in Texas, including right here in Corpus Christi,\" Trump said at the rally.\n\"The only man standing between Texas and this raging lunatic is a man named President Donald J. Trump,\" Trump said.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-10-27T21:05:11Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDA=",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o",
+      "title": "Part of Antarctica named after former BBC reporter Jonathan Amos",
+      "summary": "Part of Antarctica has been named after former BBC science correspondent Jonathan Amos.\nA stretch of water between Rothschild Island and Alexander Island in the west of the White Continent is now called the Amos Channel.\nAmos was given the honour for his \"exceptional and influential role in bringing Antarctic research to the forefront of public understanding\" during his 38-year career at BBC News, the naming committee said.\nThe channel is a new feature in Antarctica that appeared when a chunk of ice that connected Rothschild and Alexander Islands disintegrated.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-10-26T14:54:40Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDE=",
+      "url": "https://www.nature.com/articles/d41586-026-03415-2",
+      "title": "Could a giant sunshade in space \u2018solve global warming\u2019? Scientists are taking the idea seriously",
+      "summary": "These \u201csentient satellites\u201d, he wrote, \u201ccan solve global warming for ~1B years\u201d.\nA non-profit organization called the Planetary Sunshade Institute in Los Angeles, California, published a report this month that researchers say is the most detailed analysis yet of such geoengineering methods.\nNot so science fictionBlocking sunlight to cool the planet through solar geoengineering has long been controversial.\nThe \u201caccelerating climate crisis\u201d is pushing the world towards solar geoengineering, says Morgan Goodwin, a climate activist and executive director of the Planetary Sunshade Institute.\nThat grant is part of a larger \u00a356.8-million ARIA research programme on solar geoengineering.",
       "category": "environment",
       "bias": "left",
-      "publishedAt": "2026-10-27T00:00:00Z",
+      "publishedAt": "2026-10-28T00:00:00Z",
       "source": "Nature.com"
     }
   },
   {
     "article": {
-      "id": "MzI=",
+      "id": "NDI=",
+      "url": "https://www.cnet.com/home/electric-vehicles/ford-fathom-ev-truck-cheaper-built-in-bidirectional-home-charging/",
+      "title": "Ford\u2019s Most Affordable EV Will Offer Built-in Bidirectional Home Charging",
+      "summary": "Historically, true bidirectional power has been a premium feature on more expensive electric cars and has required additional, costly home hardware.\nFord Fathom and Universal EV PlatformThe upcoming Fathom will be based on what Ford calls its Universal EV Platform, designed with the aid of its 2023 acquisition, startup Auto Motive Power, with bidirectional power on the plate from the start.\nBy moving the DC-to-AC inverter into the Fathom\u2019s hardware, Ford says it can reduce the total cost of home bidirectional power.\nThe Ford Fathom will be available for preorder in 2027.\nAnd considering the rising cost of energy (both electricity and fuel), this setup may pay for itself relatively quickly.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-10-27T19:31:21Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "NDM=",
+      "url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
+      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
+      "summary": "The Franklin County board of elections building at 1700 Morse Street in central Columbus, Ohio, is an early voting site for next week\u2019s midterms.\nIt is also located in the middle of the large Somali American community that was targeted by the Immigration and Customs Enforcement (ICE) agency\u2019s Operation Buckeye last December.\nThe campaign was designed, the agency said, to find \u201cthe worst of the worst criminal illegal aliens.\u201dThe result was a paltry number of arrests, months of sustained harassment, and a lingering feeling that ICE agents could return at any minute, especially around election time.\nThey have been trained to document, record, and report any sightings of federal immigration agents, sharing the information in dozens of Signal and WhatsApp groups.\nOfficially, the Department of Homeland Security has said that it has no plans to deploy ICE agents to polling locations on Election Day.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-10-27T10:15:00Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "NDQ=",
+      "url": "https://abcnews.com/US/supreme-court-declines-restore-policy-allowing-immigration-judges/story?id=137614314",
+      "title": "Supreme Court declines to restore policy allowing immigration judges to close deportation cases",
+      "summary": "In this June 9, 2025, file photo, a room sign is shown outside of an immigration court at the Ted Weiss Federal Building in New York.\nIn this June 9, 2025, file photo, a room sign is shown outside of an immigration court at the Ted Weiss Federal Building in New York.\nIn this June 9, 2025, file photo, a room sign is shown outside of an immigration court at the Ted Weiss Federal Building in New York.\nThe Supreme Court on Tuesday declined to unfreeze a Biden-era policy that allowed immigration judges to use their discretion to temporarily close deportation cases for immigrants.\nDeportation hearings in immigration court are legal proceedings initiated by the Department of Homeland Security in which an immigration judge determines whether a migrant should be removed from the United States.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-10-27T18:51:16Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NDU=",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
       "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
       "summary": "Jordan has struck what its military says were \"terrorist organisations\" in Syria in retaliation for an attack on a Christian funeral last week that killed nine people.\nSyrian health officials told state media that five people, including women, children and an elderly man, were killed in the strike on a village in the southern Daraa province.\nJordan said its fighter jets had killed and wounded \"several terrorists\", without giving further details.\nJordan said it had co-ordinated with the Syrian government, but Syria said it had not been notified of Monday's attack.\nIt comes after nine people were killed and 34 injured in a shooting at a funeral in a Greek Orthodox church in Karak on Friday.",
@@ -397,7 +553,7 @@
   },
   {
     "article": {
-      "id": "MzM=",
+      "id": "NDY=",
       "url": "https://slate.com/podcasts/what-next/2026/10/an-arizona-congressional-election-coming-down-to-the-wire",
       "title": "Can this Marine Flip a Border Seat?",
       "summary": "You have remaining gift available this month.\nThis gift link is valid through .\nThere was an error with your gift link.\nPlease try again.",
@@ -409,59 +565,59 @@
   },
   {
     "article": {
-      "id": "MzQ=",
-      "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
-      "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
-      "summary": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display.\nIt's called Shift Left Edge, and it insets the display edge so that on-screen content isn't hidden beneath the case.\nHow to Turn On Shift Left EdgeOpen the Settings app on your iPhone Duo.\nToggle on Shift Left Edge, then tap Enable in the prompt that appears.\nApple offers two official cases for its new foldable: the aforementioned iPhone Duo Case, and a Folio with Kickstand that causes no such display occlusion.",
+      "id": "NDc=",
+      "url": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group",
+      "title": "Spain deports migrants from Ceuta in move criticised by rights group",
+      "summary": "The deportation was the first of its kind since a mass border crossing into the territory from Morocco in July.\nShare Spain deports migrants from Ceuta in move criticised by rights group on social mediaSpain has deported more than a dozen migrants from its North African enclave of Ceuta, prompting criticism from Amnesty International, which said Prime Minister Pedro Sanchez\u2019s left-wing government was endangering their human rights.\nIt was the first deportation of its kind since a mass border crossing into the territory from Morocco in July.\nAt least 100 people died during the mass crossing into the autonomous city, which covers just 18.5 square kilometres (7.2sq miles) and has a population of about 80,000.\nHuman rights guaranteesAmnesty International has warned that the human rights of those deported from Ceuta on Tuesday could be at risk.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-10-27T17:10:58Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NDg=",
+      "url": "https://www.yahoo.com/news/us/articles/us-supreme-court-denies-immigration-160948159.html",
+      "title": "US Supreme Court denies immigration judges the power to shelve deportation cases",
+      "summary": "By Andrew ChungOct 27 (Reuters) - The US Supreme Court declined on Tuesday to reinstate the authority of immigration judges to temporarily postpone deportation cases, keeping in place an agreement between President Donald Trump's administration and Republican-governed Texas that bars the once-common practice.\nThe administration and Texas filed the agreement in a federal court in Texas on June 22, the same day that the state sued to challenge the immigration court procedure.\nAdvertisement AdvertisementHUNDREDS OF THOUSANDS OF CASESAdministrative closure has been applied over the years in hundreds of thousands of deportation cases.\nAdvertisement AdvertisementIn a lawsuit, Texas argued that the rule lets immigration judges \"effectively grant indefinite amnesty to aliens \u200billegally present in this country.\"\nThe New Orleans-based 5th US Circuit Court of Appeals declined to put the agreement on hold pending an appeal \u200bof O'Connor's decision.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-10-27T16:13:01Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NDk=",
+      "url": "https://www.yahoo.com/news/world/articles/brazil-wonders-where-earth-flavio-154803613.html",
+      "title": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says",
+      "summary": "\"The State Department will issue visas to Flavio Bolsonaro and his family and allow them entry into the United States,\" a senior State Department official said.\nAdvertisement AdvertisementTrump told reporters on Wednesday that he would approve of Bolsonaro coming to the United States.\nI know Flavio a little bit.\nThe elder Bolsonaro also went to the United States after refusing to concede to Lula in 2022, when former US President Joe Biden was in office.\nEduardo Bolsonaro, Bolsonaro's younger brother who lives in the \u200cUnited States, said ahead of the vote that an election loss would require a move.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-10-27T18:43:31Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NTA=",
+      "url": "https://www.cnet.com/tech/mobile/battle-smart-rings-oura-filed-lawsuit-against-ultrahuman-again/",
+      "title": "Battle of the Smart Rings: Oura Sues Ultrahuman for Patent Infringement \u2014 Again",
+      "summary": "The legal battle between Oura, maker of the Oura Ring, and Ultrahuman, maker of the Ultrahuman Ring Pro, continues.\nOura said that the Ultrahuman Ring Pro infringed on its design and utility patents.\nMore from CNETOura\u2019s smart ring legal battlesOura sued Ultrahuman in Texas in 2023 for patent infringement over the company\u2019s ring, then the Ring Air.\nIn March 2024, Oura filed a patent infringement complaint with the US International Trade Commission against Ultrahuman, RingConn and Circular.\nThis comes after Samsung preemptively sued Oura in May 2024 to prevent Oura from suing Samsung over patent infringement.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-10-25T22:00:02Z",
-      "source": "MacRumors"
-    }
-  },
-  {
-    "article": {
-      "id": "MzU=",
-      "url": "https://itainews.com/archives/2068825.html",
-      "title": "\u75db\u3044\u30cb\u30e5\u30fc\u30b9(\uff89\u2200`) : \u79fb\u6c11\u3092\u591a\u304f\u53d7\u3051\u5165\u308c\u3066\u3044\u308b\u30b9\u30da\u30a4\u30f3\u30fb\u30d0\u30eb\u30bb\u30ed\u30ca\u3067\u3082\u5927\u898f\u6a21\u306a\u66b4\u52d5\u30fb\u7565\u596a\u30fb\u653e\u706b\u304c\u767a\u751f",
-      "summary": "6: \u30a8\u30af\u30b9\u30d7\u30ed\u30a4\u30c0\u30fc(\u6771\u4eac\u90fd) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:24:07.08 ID:DFEDy+PK0\u79fb\u6c11\u304c\u5f53\u305f\u308a\u524d\u306b\u3084\u308b\u72af\u7f6a\u3092\u307f\u3066\u3001\u81ea\u56fd\u6c11\u3082\u771f\u4f3c\u3059\u308b\u306e\u304c\u6050\u308d\u3057\u30448: \u30df\u30c9\u30eb\u30ad\u30c3\u30af(\u65b0\u6f5f\u770c) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:26:27.43 ID:AVys6Ep90\u4e00\u4f53\u306a\u305c\u202617: \u30c9\u30e9\u30b4\u30f3\u30b9\u30af\u30ea\u30e5\u30fc(\u307f\u3087) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:36:31.57 ID:DMmMwRQ+0\u305d\u3089\u305d\u3046\u306a\u308a\u307e\u3059\u30663: \u30b8\u30e3\u30b9\u30c8\u30d5\u30a7\u30a4\u30b9\u30ed\u30c3\u30af(\u57fc\u7389\u770c) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:22:32.62 ID:lbeGbAxY0\u65e5\u672c\u3067\u3082\u8d77\u304d\u3066\u307b\u3057\u3044\u304b\u3089\u81ea\u6c11\u515a\u304c\u305f\u304f\u3055\u3093\u8f38\u5165\u3057\u3066\u308b4: \u30b8\u30e3\u30b9\u30c8\u30d5\u30a7\u30a4\u30b9\u30ed\u30c3\u30af(\u5ead) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:23:13.75 ID:ZRY4dHB60NHK\u300c\u79fb\u6c11\u306f\u95a2\u4fc2\u306a\u3044\uff01\uff01\u30d5\u30a7\u30a4\u30af\u30cb\u30e5\u30fc\u30b9\u3060\uff01\uff01\u300d7: \u30d6\u30e9\u30c7\u30a3\u30b5\u30f3\u30c7\u30fc(\u6771\u4eac\u90fd) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:24:24.42 ID:3LFEZgev0\u3053\u308d\u3057\u3042\u3048\u301cwwww10: \u30d2\u30c3\u30d7\u30a2\u30bf\u30c3\u30af(\u548c\u6b4c\u5c71\u770c) [JP] 2026/10/25(\u65e5) 11:33:12.24 ID:3HYxe72J0\u4e00\u9023\u306eEU\u306e\u66b4\u52d5\u306f\u30a6\u30af\u30e9\u30a4\u30ca\u306bNATO\u53c2\u6226\u3055\u305b\u306a\u3044\u305f\u3081\u306e\u6247\u52d5\u3060\u308d\uff1f11: \u30df\u30e9\u30ce\u4f5c \u3069\u3069\u3093\u30b9\u30ba\u30b9\u30ed\u30a6\u30f3(\u30b8\u30d1\u30f3\u30b0) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:34:03.71 ID:Y1g8Y8qh0\u81ea\u5206\u306e\u56fd\u3058\u3083\u3042\u306a\u3044\u304b\u3089\u3084\u308a\u305f\u3044\u653e\u984c\u3060\u306a\u305d\u306e\u56fd\u306e\u56fd\u6c11\u304c\u3069\u3046\u306a\u308d\u3046\u3068\u77e5\u3063\u305f\u3053\u3063\u3061\u3083\u306a\u3044\u81ea\u5206\u304c\u826f\u3051\u308c\u3070\u305d\u308c\u3067\u3044\u3044\u3068\u3044\u3046\u30b9\u30bf\u30a4\u30eb\u305d\u308c\u3092\u771f\u4f3c\u308b\u4e00\u90e8\u306e\u30a2\u30db\u30a6\u304c\u66b4\u52d5\u7565\u596a\u7834\u58ca\u884c\u70ba\u3092\u62e1\u3052\u3066\u3044\u304f19: \u30c8\u30e9\u30fc\u30b9\u30ad\u30c3\u30af(\u5ead) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:37:46.46 ID:ltcZOthp0\u79fb\u6c11\u306f\u30ea\u30b9\u30af\u3067\u3057\u304b\u306a\u3044\u306a\u307e\u308b\u3067\u4e2d\u56fd\u306e\u3088\u3046\u306021: \u30a2\u30f3\u30af\u30eb\u30db\u30fc\u30eb\u30c9(\u6771\u4eac\u90fd) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:39:45.40 ID:rl0c+GGP0\u66b4\u52d5\u3068\u304b\u7565\u596a\u3063\u3066\u4e2d\u4e16\u307f\u3042\u308b\u3088\u306a22: \u30cb\u30fc\u30eb\u30ad\u30c3\u30af(\u5ead) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:42:21.65 ID:1UMIqeef0\u30a4\u30bf\u30ea\u30a2\u3067\u3082\u8d77\u304d\u3066\u306a\u304b\u3063\u305f\uff1f\u30df\u30ec\u30fc\u30cd\u3055\u3093\u304c\u901f\u653b\u53e9\u304d\u6f70\u3059\u5ba3\u8a00\u3057\u3066\u306a\u304b\u3063\u305f\uff1f23: \u30a2\u30ad\u30ec\u30b9\u8171\u56fa\u3081(\u8338) [US] 2026/10/25(\u65e5) 11:43:52.88 ID:ROXJYfms0\u30b9\u30da\u30a4\u30f3\u306e\u60e8\u72b6\u306f\u30bb\u30a6\u30bf\u898b\u308a\u3083\u5206\u304b\u308b\u304b\u3089\u306a\u3001\u30b5\u30e8\u30af\u653f\u6a29\u306e\u30c4\u30b1\u3092\u307e\u3068\u3081\u3066\u6255\u308f\u3055\u308c\u3066\u308b25: \u30ed\u30fc\u30ea\u30f3\u30b0\u30bd\u30d0\u30c3\u30c8(\u3084\u308f\u3089\u304b\u9280\u884c) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:45:23.84 ID:twUj3qvs0\u3084\u3063\u3071\u308a\u79fb\u6c11\u306f\u4fb5\u7565\u800526: \u5782\u76f4\u843d\u4e0b\u5f0fDDT(\u897f\u65e5\u672c) [\uff87\uff7a] 2026/10/25(\u65e5) 11:46:01.38 ID:aDyYmULU0\u306e\u3079\u3064\u5e55\u7121\u3057\u306b\u79fb\u6c11\u5165\u308c\u308b\u304b\u3089\u3053\u3046\u306a\u308b\u3093\u3060\u3088\u3061\u3083\u3093\u3068\u5be9\u67fb\u3057\u3066\u4fdd\u8a3c\u4eba\u7acb\u3066\u3066\u57fa\u6e96\u6e80\u305f\u3057\u3066\u3068\u304b\u3084\u3089\u3093\u304b\u308934: \u30a8\u30eb\u30dc\u30fc\u30c9\u30ed\u30c3\u30d7(\u5927\u962a\u5e9c) [PL] 2026/10/25(\u65e5) 11:53:44.78 ID:fVcDbD8V0>>26\u5b8c\u5168\u306b\u7ba1\u7406\u79fb\u6c11\u3057\u3066\u304d\u305f\u30a2\u30e1\u30ea\u30ab\u3067\u3082\u305a\u305f\u305a\u305f\u3060\u304b\u3089\u306a28: \u30a6\u30a8\u30b9\u30bf\u30f3\u30e9\u30ea\u30a2\u30c3\u30c8(\u9577\u5d0e\u770c) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:47:18.45 ID:9UZWGFkI0\u3053\u308c\u79fb\u6c11\u653f\u7b56\u306e\u672c\u8cea\u306f\u306a\u3093\u306a\u3093\u3084\u308d\u3053\u3046\u3044\u3046\u6df7\u6c8c\u30fb\u7834\u58ca\u306b\u3064\u306a\u304c\u308b\u306e\u306f\u8ab0\u3067\u3082\u308f\u304b\u3063\u3066\u3066\u3001\u305d\u308c\u304c\u7d4c\u6e08\u306e\u5fa9\u6d3b\u306b\u3064\u306a\u304c\u308b\u3066\u3044\u3046\u8a08\u7b97\u304c\u51fa\u3066\u308b\u3068\u304b\uff1f\u4e0a\u3082\u99ac\u9e7f\u3067\u306f\u306a\u3044\u3084\u308d\u3046\u3057\u306a29: \u30d1\u30ed\u30b9\u30da\u30b7\u30e3\u30eb(\u5ead) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:48:00.70 ID:1HZSESJF0\u30cb\u30fc\u30c8\u3084\u79fb\u6c11\u304c1\u5104\u3044\u3066\u3082\u56fd\u306b\u306f\u306a\u3089\u306a\u304430: \u30ad\u30e3\u30d7\u30c1\u30e5\u30fc\u30c9(\u5927\u962a\u5e9c) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:48:16.29 ID:k0dxmaU80\u59cb\u307e\u3063\u305f\u306a\u2026\u202632: \u30a8\u30eb\u30dc\u30fc\u30c9\u30ed\u30c3\u30d7(\u5927\u962a\u5e9c) [PL] 2026/10/25(\u65e5) 11:52:51.22 ID:fVcDbD8V0\u3053\u308c\u304c\u30d1\u30e8\u30af\u306e\u7406\u60f3\u4e16\u754c33: \u3068\u304d\u3081\u304d\u30e1\u30e2\u30ea\u30a2\u30eb(\u8338) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:53:05.65 ID:BRJjIiN10\u30d5\u30e9\u30f3\u30b9\u3088\u308a\u3057\u3087\u307c\u3044\u306a35: \u30e1\u30f3\u30de(\u8338) [US] 2026/10/25(\u65e5) 11:55:20.79 ID:j9atCAmb0>>33\u4eca\u306e\u3068\u3053\u308d\u30b9\u30da\u30a4\u30f3\u306f\u666f\u6c17\u304c\u3044\u3044\u3064\u307e\u308a\u4fbf\u4e57\u3057\u3066\u308b\u3060\u305136: \u30e1\u30f3\u30de(\u6771\u4eac\u90fd) [CA] 2026/10/25(\u65e5) 11:56:53.46 ID:wjfrJVVL0\u5f8c\u4e16\u306e\u6b74\u53f2\u5bb6\u306f\u6c11\u65cf\u5927\u79fb\u52d5\u306e\u6642\u4ee3\u3068\u8a18\u3059\u306e\u304b\u3082\u306a\u5148\u9032\u56fd\u3092\u81ea\u79f0\u3057\u3066\u3044\u305f\u56fd\u3005\u306f\u86ee\u65cf\u306e\u4fb5\u653b\u3067\u5d29\u58ca\u3057\u305f\u306837: \u30a6\u30a8\u30b9\u30bf\u30f3\u30e9\u30ea\u30a2\u30c3\u30c8(\u30b8\u30d1\u30f3\u30b0) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:59:34.23 ID:Kp6wlx8O0\u30b9\u30da\u30a4\u30f3\u306e\u30a2\u30d5\u30ea\u30ab\u98db\u3073\u5730\u306f\u3069\u3046\u306a\u3063\u305f\u3093\u3060\uff1f\u4e00\u6c17\u306b\u5831\u9053\u3092\u898b\u306a\u304f\u306a\u3063\u305f\u6c17\u304c\u3059\u308b\u308f38: 16\u6587\u30ad\u30c3\u30af(\u6771\u4eac\u90fd) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 11:59:40.13 ID:6slOL1ZX0\u3053\u306e\u624b\u306e\u5f37\u596a\u306f\u30ac\u30e9\u30b9\u7834\u3063\u3066\u304d\u3063\u304b\u3051\u4f5c\u308b\u5974\u304c\u3044\u308b\u4fb5\u5165\u3059\u308b\u30e2\u30d6\u306f\u958b\u3044\u3066\u3044\u305f\u304b\u3089\u3001\u30c1\u30e3\u30f3\u30b9\u3060\u3001\u3068\u8003\u3048\u7a83\u76d7\u3092\u50cd\u3044\u3066\u3057\u307e\u3046\u8a00\u3044\u63db\u3048\u308c\u3070\u5229\u7528\u3055\u308c\u3066\u3044\u308b43: \u30d0\u30ba\u30bd\u30fc\u30ad\u30c3\u30af(\u307f\u3087) [GB] 2026/10/25(\u65e5) 12:02:58.19 ID:ICiA6Vu/0\u5317\u6597\u306e\u62f3\u72b6\u614b\u306b\u306a\u308b\u306e\u304b46: \u30a6\u30a8\u30b9\u30bf\u30f3\u30e9\u30ea\u30a2\u30c3\u30c8(\u5ead) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 12:05:53.54 ID:hNjtoN+t0\u30b9\u30da\u30a4\u30f3\u3044\u3044\u306d\u301c\u66ae\u3089\u3057\u3066\u307f\u305f\u3044\u5834\u6240\u3060\u3063\u305f\u304c\u3001\u3084\u306f\u308a\u3053\u3093\u306a\u30b6\u30de\u306b\u9665\u3063\u3066\u3057\u307e\u3063\u305f\u304b\u30d5\u30e9\u30f3\u30b9\u3082\u30b9\u30da\u30a4\u30f3\u3082\u3069\u3053\u3082\u3053\u3093\u306a\u3067\u306f\u3001\u3082\u3046\u73fe\u751f\u4eba\u985e\u306e\u4eca\u306e\u6587\u660e\u306f\u6301\u3061\u305d\u3046\u306b\u306a\u3044\u306a47: \u304b\u304b\u3068\u843d\u3068\u3057(\u9759\u5ca1\u770c) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 12:06:21.32 ID:WDugKhC20\u65e5\u672c\u3067\u3082\u79fb\u6c11\u304c\u591a\u3044\u8857\u306f\u6c17\u3092\u4ed8\u3051\u308d\u3088\u5973\u5b50\u4f9b\u306f\u81ea\u52d5\u8eca\u3067\u9001\u8fce\u3057\u305f\u307b\u3046\u304c\u3044\u304449: \u9583\u5149\u5996\u8853(\u5ead) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 12:07:23.07 ID:OElANpPu0\u79fb\u6c11\u306e\u5b66\u751f\u3055\u3093\u304b\u3057\u3089\uff1f52: \u30b7\u30e7\u30eb\u30c0\u30fc\u30a2\u30fc\u30e0\u30d6\u30ea\u30fc\u30ab\u30fc(\u5c71\u5f62\u770c) [CA] 2026/10/25(\u65e5) 12:10:05.73 ID:5ulfYTSl0\u30a2\u30e9\u30d6\u306e\u6625 \u2192 \u30e8\u30fc\u30ed\u30c3\u30d1\u306e\u51ac53: \u30b8\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30e9\u30c6\u30ad\u30c3\u30af(\u5927\u962a\u5e9c) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 12:10:25.41 ID:kGWYrdH/0\u3053\u308c\u3063\u3066\u306a\u3093\u304b\u305d\u3046\u3044\u3046\u6247\u52d5\u3059\u308b\u7d44\u7e54\u7684\u306a\u4ed5\u7d44\u307f\u304c\u3042\u308b\u306e\u304b\uff1f\ud83d\ude28\u4f55\u3067\u3053\u3093\u306a\u9023\u52d5\u3059\u308b\u3093\u3060\u3088\u6016\u3044\u3088\ud83d\ude3054: \u30ec\u30a4\u30f3\u30e1\u30fc\u30ab\u30fc(\u5175\u5eab\u770c) [JP] 2026/10/25(\u65e5) 12:13:35.11 ID:157Yi3Bt0\u5b97\u6559\u6226\u4e89\u306e\u7d9a\u304d\u304b56: \u30df\u30e9\u30ce\u4f5c \u3069\u3069\u3093\u30b9\u30ba\u30b9\u30ed\u30a6\u30f3(\u795e\u5948\u5ddd\u770c) [US] 2026/10/25(\u65e5) 12:16:36.63 ID:hKUjl+QS0\u3067\u3082NHK\u304c\u79fb\u6c11\u95a2\u4fc2\u306a\u3044\u3063\u3066\u3086\u3063\u3066\u308b\u304b\u3089\ud83e\udd7961: \u30c1\u30a7\u30fc\u30f3\u653b\u6483(\u661f\u306e\u7720\u308b\u6df1\u6df5) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 12:21:08.40 ID:5I9NYgBn0\u30b9\u30da\u30a4\u30f3\u3067\u3082\u767d\u4eba\u5b66\u751f\u304c\u4e0d\u6e80\u3092\u6301\u3063\u3066\u308b\u306e\u304b64: \u30ec\u30c3\u30c9\u30a4\u30f3\u30af(\u5ead) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 12:33:19.55 ID:/NnVl7XG0\u3084\u3063\u3071\u308a\u79fb\u6c11\u306f\u3060\u3081\u3060\u306a\u3002\u7279\u306b\u30a4\u30b9\u30e9\u30e0\u3092\u4fe1\u3058\u3066\u308b\u4eba\u305f\u3061\u3002\u79fb\u4f4f\u5148\u3078\u306e\u30ea\u30b9\u30da\u30af\u30c8\u304c\u5fae\u5875\u3082\u306a\u3044\u3002\u53d7\u3051\u5165\u308c\u3061\u3083\u99c4\u76ee\u3060\u300265: \u9006\u843d\u3068\u3057(\u5ead) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 12:36:31.78 ID:T/TiwI4t0\u30d1\u30e8\u304c\u30b9\u30da\u30a4\u30f3\u3067\u306f\u8d77\u304d\u306a\u3044\u3068\u304b\u30c9\u30e4\u3063\u3066\u306a\u304b\u3063\u305f\u304b\uff1f66: \u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30d7\u30ec\u30b9(\u5343\u8449\u770c) [\uff86\uff80\uff9e] 2026/10/25(\u65e5) 12:38:58.59 ID:nIM2aifH0\u533f\u540d\u30a2\u30d7\u30ea\u4f7f\u3063\u3066\u308b\u3068\u3044\u3063\u3066\u3082\u306a\u3093\u3089\u304b\u306e\u4e88\u5146\u306f\u5bdf\u77e5\u3067\u304d\u306a\u3044\u3082\u3093\u306a\u306e\u304b\u306d\uff1f58: \u30af\u30ed\u30a4\u30c4\u30e9\u30b9(\u6771\u4eac\u90fd) [DE] 2026/10/25(\u65e5) 12:19:27.18 ID:6EXWKQ/M0\u3042\u3063\u3061\u306e\u4eba\u306f\u666e\u901a\u306b\u79fb\u6c11\u3068\u3044\u3046\u8a8d\u8b58\u306a\u3093\u3060\u306a",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-10-25T10:30:37Z",
-      "source": "Itainews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "MzY=",
-      "url": "https://www.cnn.com/2026/10/25/us/woodland-man-struck-by-ice-vehicle",
-      "title": "ICE said a man jumped on the hood of their vehicle. Video \u2014 and police \u2014 say otherwise",
-      "summary": "\u201cAn agitator jumped onto the hood of an ICE vehicle and the officer driving applied the brakes,\u201d a DHS spokesperson said in a statement in response to CNN\u2019s request for information.\nBy Thursday, in response to follow-up questions about the video footage, federal officials no longer said the person jumped on the hood.\nGoPro camera captures ICE vehicle striking Woodland man 0:51 \u2022 Source: CNN GoPro camera captures ICE vehicle striking Woodland man 0:51He said he was trying to record agents\u2019 unmarked vehicles.\nEyewitness captures Woodland man being struck by ICE vehicle.\n0:13 \u2022 Source: CNN Eyewitness captures Woodland man being struck by ICE vehicle.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-10-25T15:18:47Z",
-      "source": "CNN"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzc=",
-      "url": "https://www.snopes.com//fact-check/poland-border-guards-migrants/",
-      "title": "Does Poland allow border guards to shoot at migrants? Here's what the law says",
-      "summary": "Border officers could already use firearms in self-defense before the amendment became law.\nIt does not allow the indiscriminate use of firearms, although human rights organizations have warned it could lead to excessive force against migrants and weaken accountability for border officers.\nIn mid-2026, social media users claimed that Poland had passed legislation allowing its border patrol guards to shoot at migrants.\nThat year, Poland passed amendments to an existing law, allowing border security to use firearms in specific situations.\nThe amendments do not state that border officers can attack migrants, though human rights groups argue the language gives undue license to border security forces.",
-      "category": "immigration",
       "bias": "lean left",
-      "publishedAt": "2026-10-25T23:00:00Z",
-      "source": "Snopes.com"
+      "publishedAt": "2026-10-27T22:30:38Z",
+      "source": "CNET"
     }
   },
   {
     "article": {
-      "id": "Mzg=",
+      "id": "NTE=",
       "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade",
       "title": "Has Pakistan reopened its border with Iran for trade?",
       "summary": "Share Has Pakistan reopened its border with Iran for trade?\nMir Naveed Jan Kalmati, president of the Gwadar Chamber of Commerce and Industry, told Al Jazeera that trade \u201cpartially resumed this weekend\u201d.\nTrucks loaded in Iran before the closure, including those carrying liquefied petroleum gas (LPG), were also entering Pakistan, he confirmed to Al Jazeera.\nAdvertisement\u201cCustoms has given us the go-ahead, saying, \u2018Bring in as much cargo as you can,\u2019\u201d Ahmed told Al Jazeera.\nPakistan insisted it was done amid a deteriorating security situation in Balochistan province on the border with Iran.",
-      "category": "international",
+      "category": "immigration",
       "bias": "lean left",
       "publishedAt": "2026-10-26T13:01:16Z",
       "source": "Al Jazeera English"
@@ -469,7 +625,43 @@
   },
   {
     "article": {
-      "id": "Mzk=",
+      "id": "NTI=",
+      "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border",
+      "title": "Israeli military detains Egyptian national who crossed border",
+      "summary": "Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.\nIsrael\u2019s military has said that it detained an Egyptian civilian overnight after he crossed a border fence from Egyptian territory into Israel near Nitzana and that he was transferred to security forces for further questioning.\nNitzana is a small community in southern Israel\u2019s western Negev (Naqab) Desert, sitting directly adjacent to the Egyptian border opposite the Egyptian side\u2019s Al-Awja area.\nThe Nitzana border crossing, also known as the Eliav crossing, primarily handles cargo transport between the two countries rather than serving as a major passenger channel.\nThe incident occurred as Israel maintains heightened alert levels along the Egyptian border.",
+      "category": "immigration",
+      "bias": "right",
+      "publishedAt": "2026-10-27T15:10:27Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTM=",
+      "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes",
+      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+      "summary": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan\u2019s strikes on Syria.\nSyria is reopening its border crossing with Jordan, and the two countries will investigate Jordanian strikes on suspected ISIL (ISIS) sites that killed seven in southern Syria.\nJordan\u2019s strikes on Syria killed at least seven people in Deraa and Suwayda, including five members of the same family, three of whom were children.\nJordanian Foreign Minister Ayman Safadi said Monday\u2019s air attacks were based on field intelligence and aimed at \u201cneutralising confirmed threats and imminent terrorist operations targeting Jordan\u2019s security\u201d.\nJordanian security forces arrested two brothers and their brother-in-law on suspicion of carrying out the attack.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-10-28T03:10:17Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTQ=",
+      "url": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics",
+      "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+      "summary": "Khalil returned to Columbia University to discuss memoir detailing his arrest and detention by ICE agents.\n\u201cThe American public is finally changing, is finally looking at the Palestinian as an equal human,\u201d he told the AFP news agency in an interview.\nWhile Khalil described the event, attended by about 100 people, as a \u201cvictory\u201d, he accused university leadership of seeking \u201cto erase me, to erase any Palestinian voices on campus\u201d.\nDespite the personal toll, Khalil credited Palestinian student advocacy with driving broader political shifts in the United States, pointing to gains by progressive candidates.\nKhalil was released from immigration custody on June 20, 2025, though the Trump administration continues to seek his deportation.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-10-28T04:13:28Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTU=",
       "url": "https://www.breitbart.com/immigration/2026/10/26/small-texas-town-works-with-ice-to-deport-194-illegal-migrants-this-year/",
       "title": "Small Texas Town Works with ICE to Deport 194 Illegal Migrants This Year",
       "summary": "Cops in Ingram, Texas, worked with federal officials to detain and deport 194 illegal migrants this year so far, a report reveals.\nThe record is prompting complaints from pro-migration media and cheap labor-seeking businesses, but applause from the Department of Homeland Security.\nAnd since signing onto the program, the media claimed that nearly \u201cten percent\u201d of the town has been taken into custody by ICE officers.\nThe paper accuses the officer of \u201ctearing the town apart\u201d by working with ICE to detain lawbreaking illegal migrants.\n\u201cChoosing to enforce the law is not \u201ctearing the town apart,\u201d it is the natural result of what happens when smaller communities are overwhelmed by illegal immigration.",
@@ -481,55 +673,55 @@
   },
   {
     "article": {
-      "id": "NDA=",
-      "url": "https://goodmenproject.com/featured-content/the-latest-wave-of-trumps-immigration-crackdown-is-again-being-felt-in-schools/",
-      "title": "The Latest Wave of Trump\u2019s Immigration Crackdown Is Again Being Felt in Schools",
-      "summary": "\u201cImmigration enforcement exacerbated all the dimensions of our failing and incomplete educational recovery from the COVID-19 pandemic,\u201d he added.\n\u201cIt disconnects them from the people and support built specifically for them.\u201dThe impact of Trump\u2019s more recent enforcement policies extends far beyond attendance.\nThis comes on the heels of the government\u2019s decision to remove food stamp eligibility for many legally present immigrants, including children.\nThe Good Men Project accepts paid guest posts and provides bulk guest post packages for SEO agencies and resellers.\nAll Premium Members help support our mission and get to view The Good Men Project with NO ADS.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-10-25T22:00:36Z",
-      "source": "The Good Men Project"
-    }
-  },
-  {
-    "article": {
-      "id": "NDE=",
-      "url": "https://www.bgr.com/2292409/do-smart-home-devices-meet-matter-standard/",
-      "title": "Double Check Your Smart Home Devices To See If They Meet This Industry Standard",
-      "summary": "If a smart device has Matter support, you're signing up a simpler, unified smart home experience.\nIt operates over Wi-Fi, Ethernet, or its own wireless \"Thread\" protocol to transmit data between proprietary smart home devices that normally wouldn't be able to communicate.\nMatter tech makes the dream of a fully connected smart home possible without having to buy into a single company's proprietary ecosystem.\nTo find out if your smart home tech supports Matter, first check the packaging for the Matter logo and name.\nYou may also need a Thread border router to make sure all your devices work together seamlessly.",
-      "category": "technology",
+      "id": "NTY=",
+      "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko",
+      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+      "summary": "Two British nationals have appeared in court in connection with an alleged Iran-linked plot at RAF Fairford last month.\nThe pair appeared at Westminster Magistrates' Court on Tuesday.\nThe court heard vans bearing the logo \"Fuel2You\" were spotted close to the base.\nDuring the hearing at Westminster Magistrates' Court, Essghir stood in the dock wearing a grey sweatshirt and confirmed his name and address.\nHis charge relates to an alleged \"reconnaissance mission\" on 22 August, around a month before the Fairford incident.",
+      "category": "international",
       "bias": "center",
-      "publishedAt": "2026-10-26T10:17:00Z",
-      "source": "BGR"
-    }
-  },
-  {
-    "article": {
-      "id": "NDI=",
-      "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo",
-      "title": "Five ways Trump has changed immigration in the US",
-      "summary": "Immigration has always been central to Donald Trump's message.\nSome of his first-term ambitions to stem the flow of would-be immigrants were constrained by the courts.\nHe promised a closed border and mass deportations in his successful 2024 campaign - and few can deny that he's delivered on both.\nBut even among those who voted for a tougher stance, there is a concern that the crackdown has gone too far.\nHis signature policy has played out in five key ways.",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-10-26T11:29:02Z",
+      "publishedAt": "2026-10-27T09:05:48Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NDM=",
-      "url": "https://www.dailymail.com/news/article-16239755/Thugs-smash-windows-spray-paint-graffiti-dozens-homes-asylum-seekers-believed-stay-anti-HMO-attacks-leaving-families-fearing-safety.html",
-      "title": "Thugs smash windows and spray paint graffiti on dozens of homes where asylum seekers are believed to stay in anti-HMO attacks leaving families fearing for their safety",
-      "summary": "Families have been left fearing for their safety after thugs started smashing windows and spray-painting homes suspected of housing asylum seekers.\nMasked thugs have smashed windows, vandalised cars and sprayed 'No HMO' graffiti to hound asylum seekers but in many cases have inadvertently damaged non-HMO homes belonging to long-term residents.\nHMOs are increasingly used by the Government and private contractors to house asylum seekers and migrant workers as an alternative to asylum hotels.\nPolice and council chiefs have vowed to crack down on the suspected racist attacks, which have struck the working-class area of Salford.\nThe violence comes amid wider tensions over asylum accommodation following months of anti-immigration demonstrations across Britain, including protests outside hotels housing asylum seekers.",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-10-26T15:05:50Z",
-      "source": "Dailymail.com"
+      "id": "NTc=",
+      "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy",
+      "title": "What Vucic\u2019s defeat means for Serbia\u2019s foreign policy",
+      "summary": "As Belgrade prepares for a turbulent transition and the upcoming presidential elections in December, international observers and regional neighbours have been asking whether Vucic\u2019s departure will prompt a shift in Serbia\u2019s foreign policy.\nSerbia\u2019s relations with Bosnia and Herzegovina, Croatia, Montenegro and Kosovo have often been frayed by Vucic\u2019s nationalistic rhetoric.\nOf all elements of Serbian public policy, foreign policy will transform the least under the forthcoming governmental changes, Vuk Vuksanovic, a lecturer in foreign policy at King\u2019s College London, predicted to Al Jazeera.\nBosko Jaksic, a foreign policy analyst, told Al Jazeera that while ties will not be severed, recent controversial agreements will face scrutiny.\nMultiple chairsLooking at the broader geopolitical alignment, he emphasised that Serbia\u2019s foreign policy will inevitably undergo a review.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-10-26T20:38:40Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NDQ=",
+      "id": "NTg=",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "summary": "A ceasefire that began with the aim of getting food and medicine to the Russian-occupied Ukrainian city of Oleshky has been extended across the wider southern region of Kherson, according to sources.\nSeveral thousand residents are trapped in the city with no access to food, water and electricity.\nOn one side is the Dnipro river, while Russian forces are on the other and all the roads out are too dangerous.\nHowever, no breaches of the truce that began early on Tuesday have so far been reported.\nUS First Lady Melania Trump, who helped broker the ceasefire along with Pope Leo XIV, said on Tuesday that the area involved had been expanded to provide \"safe passage\" for humanitarian convoys.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-10-27T20:19:53Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTk=",
+      "url": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian",
+      "title": "Iran\u2019s anti-negotiation hardliners turn against President Pezeshkian",
+      "summary": "Hardliners believe Washington only understands the language of force, so the war should continue until the US capitulates to Iran\u2019s demands.\nIran\u2019s parliament is also considering a law to criminalise interviews with foreign media outlets, which would be another win for hardliners.\nFrom the perspective of Iran\u2019s anti-negotiation camp, the war between Iran and the United States has no end.\n\u201cIran\u2019s hardliners are not a marginal political force.\nThey are a well-organised and deeply entrenched part of [Iran\u2019s] political establishment.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-10-26T14:27:33Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjA=",
       "url": "https://www.businessinsider.com/people-stockpile-three-days-worth-essentials-threat-war-disaster-2026-10#article",
       "title": "Families should stockpile 3 days' worth of essentials in today's world of disaster and war, the UK warns",
       "summary": "The UK is telling families to prepare three days' worth of food, water, and essentials amid concern that natural disasters, armed conflict, and other emergencies are becoming more frequent.\nBurnham said the campaign was started as \"unexpected events seem to be becoming more and more common,\" but urged people not to panic.\nBy 2030, their force strength and war economy could put them in a position to attack,\" Streeting told The Telegraph on Sunday.\nThe defense minister added that the UK had 1,000 days left to prepare itself for war.\nIf you're based in the UK and have a reaction to share about the UK stockpiling notice, email our reporter: ghennessy@businessinsider.com.",
@@ -541,7 +733,7 @@
   },
   {
     "article": {
-      "id": "NDU=",
+      "id": "NjE=",
       "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia",
       "title": "Egyptian parliament authorises military aid for Saudi Arabia",
       "summary": "Legislators approve military support amid Houthi attacks on Saudi Arabia, but Cairo has ruled out strikes on Yemen.\nEgypt\u2019s parliament has authorised President Abdel Fattah el-Sisi to provide military support to Saudi Arabia as attacks by Yemen\u2019s Iran-aligned Houthis intensify.\nA parliamentary statement shared with the Reuters news agency said el-Sisi had been authorised to \u201cundertake necessary\u201d measures to support Saudi Arabia in defending itself, should Riyadh request assistance.\nIt follows Houthi attacks on Riyadh\u2019s international airport and facilities belonging to Saudi Arabia\u2019s state oil company, Aramco, disrupting flights and oil exports.\nThe vote followed closed-door parliamentary discussions and an earlier postponement of the military aid authorisation for Saudi Arabia, which is one of Egypt\u2019s most important economic partners.",
@@ -553,19 +745,19 @@
   },
   {
     "article": {
-      "id": "NDY=",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict",
-      "title": "Why is Egypt so wary of getting involved in Yemen\u2019s conflict?",
-      "summary": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.\nShare Why is Egypt so wary of getting involved in Yemen\u2019s conflict?\nBut even a defensive combat mission would involve the deployment of Egyptian forces outside the country\u2019s borders, so it requires approval from the Egyptian parliament.\n\u201cThen [the mentality is] that Egypt will send troops to Yemen once again, where they would also be killed, but this time on behalf of Saudi Arabia.\u201dHow could Egypt support Saudi Arabia?\n\u201cThe Houthis recall history and how the Egyptian support in defending the republic was vital \u2026 though I dismiss a similar role for the Egyptian army today.\u201d",
+      "id": "NjI=",
+      "url": "https://www.yahoo.com/news/world/articles/could-weeks-months-winner-israels-090535999.html",
+      "title": "Results trickling in after Israel's election shine a light on a complex political system",
+      "summary": "JERUSALEM (AP) \u2014 Israel was counting votes Wednesday in pivotal elections where no clear winner emerged in exit polls \u2014 a scenario that is shining a light on the country's complex political system.\nExit polls suggested Netanyahu's opponents had secured enough seats to form a government.\nIsraelis vote for parties and not candidates, and no single party has ever won an outright 61-seat majority in the Knesset, meaning political leaders must forge coalitions to govern.\nIsraeli broadcasters release exit pollsShortly after polls closed Tuesday at 10 p.m., Israel's three main television broadcasters released exit polls estimating how many seats were won by each party.\nThe exit polls usually provide a good indication of how people have voted.",
       "category": "international",
       "bias": "lean left",
-      "publishedAt": "2026-10-25T07:59:38Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-10-27T09:05:35Z",
+      "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NDc=",
+      "id": "NjM=",
       "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
       "title": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
       "summary": "The attacks come as top officials from Saudi Arabia, Turkiye, Pakistan and Iran meet in Tehran to de-escalate the regional conflict.\nShare Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom on social mediaIran and Mecca defence pact countries agree to further talks amid US war threatsThe Saudi-led coalition fighting in Yemen says it has intercepted three ballistic missiles and four drones launched by the Houthis towards Saudi Arabia.\nMajor-General Turki al-Maliki, the coalition spokesman, said on Tuesday that the missiles were aimed at the kingdom\u2019s Eastern Province and caused no casualties.\nSaudi Arabia said the visit was meant to open negotiating channels to \u201cprevent the return of military escalation\u201d.\nEgypt, a major financial and political partner of Saudi Arabia, has also moved closer to the fight.",
@@ -577,62 +769,50 @@
   },
   {
     "article": {
-      "id": "NDg=",
-      "url": "https://www.yahoo.com/news/politics/articles/aleksandar-vucic-serbias-veteran-ruler-212043564.html",
-      "title": "Aleksandar Vucic: Serbia's veteran ruler felled by student-led movement",
-      "summary": "\"Based on a stratified sample, it is clear that we lost these elections,\" Vucic told supporters at his party headquarters in Belgrade.\nAfter protests ousted the Yugoslav strongman in 2000, Vucic became a senior figure in the far-right Serbian Radical Party.\nHe served as deputy prime minister, defence minister and prime minister before becoming president in 2017.\nAs demands grew into calls for snap elections, Vucic and his supporters pushed back.\nIn September, nearly two years into the protests, Vucic finally called snap elections for October, citing \"major turbulence on the domestic political scene\", thus meeting a key student demand.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-10-25T21:20:43Z",
-      "source": "Yahoo Entertainment"
+      "id": "NjQ=",
+      "url": "https://9to5mac.com/2026/10/27/us-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators/",
+      "title": "US government acting illegally over electronic surveillance of its own citizens, say senators",
+      "summary": "Two senators with notable expertise in intelligence matters say that the US government is acting illegally over electronic surveillance of its own citizens.\nThey say the Foreign Intelligence Surveillance Court (FISC) has permitted intelligence agencies to continue warrantless interception of messages by US citizens despite failing to comply with the administration\u2019s own privacy promise to allow public review of such rulings \u2026The Foreign Intelligence Surveillance Act (FISA) was supposed to allow interception of communications by agents of foreign powers on US soil.\nControversially, however, it has also been used to intercept the communications of American citizens without a warrant under a clause known as Section 702.\nSeven months ago, the Foreign Intelligence Surveillance Court objected to search filters that let intelligence analysts pull Americans\u2019 messages from intercepted data without the approvals, written justifications, or records the law requires.\nWyden is the longest-serving member of the Senate Intelligence Committee, and Schiff formerly chaired the equivalent House committee.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-10-27T12:29:01Z",
+      "source": "9to5Mac"
     }
   },
   {
     "article": {
-      "id": "NDk=",
-      "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move",
-      "title": "Algeria\u2019s military deployment to Niger: What\u2019s behind the move?",
-      "summary": "This will be Algeria\u2019s first foreign troop deployment in 50 years as the country shifts its military doctrine amid new security challenges.\nShare Algeria\u2019s military deployment to Niger: What\u2019s behind the move?\nThe move is particularly significant given Algeria\u2019s military capabilities.\nThe country shares thousands of kilometres of borders with Mali, Niger and Libya, making developments in its southern neighbourhood particularly consequential.\nAnother factor shaping Algeria\u2019s calculations is the changing presence of foreign military forces across the region.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-10-26T09:52:11Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTA=",
-      "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment",
-      "title": "Qatar official calls for peace and security to boost trade, investment",
-      "summary": "Speaking at the World Investment Forum in Doha, state minister says peace and security are essential for trade and investment prosperity.\nShare Qatar official calls for peace and security to boost trade, investment on social mediaDoha, Qatar \u2013 Qatar\u2019s Minister of State for Foreign Trade Affairs Ahmad bin Mohammed al-Sayed has called for greater international cooperation and economic stability, warning that trade and investment cannot flourish without peace and security.\nSpeaking at the United Nations-led World Investment Forum in Doha on Sunday, al-Sayed said geopolitical upheaval and growing economic fragmentation were threatening global investment prospects.\nThese are all issues that redefine the landscape of global investment,\u201d he said.\n\u201cWe believe that investment in the future is related to investment in peace and security,\u201d the minister added.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-10-25T09:57:40Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTE=",
-      "url": "https://www.globalresearch.ca/turkey-new-defense-partnerships-reshape-eurasian-geopolitics/5944409",
-      "title": "Beyond NATO? Turkey\u2019s New Defense Partnerships Reshape Eurasian Geopolitics - Global Research",
-      "summary": "Turkey\u2019s latest defense agreement with Qatar, Pakistan and Indonesia could reshape military cooperation across Eurasia.\n***On October 21, 2026, Turkey, Qatar, Pakistan and Indonesia signed the Badr Memorandum of Understanding in Doha.\nPakistan brings a large military, nuclear deterrence, production base and its Chinese links \u2013 which complement Qatar\u2019s capital and Gulf position.\nThe agreement must be examined in parallel to the August 2026 Mecca Joint Defense Agreement between Turkey, Saudi Arabia and Pakistan, which includes a mutual-defense commitment.\nUltimately, industrial developments, among other factors, will determine whether this becomes a transregional defense network that can move beyond Cold War-style alignments \u2013 even without breaking with NATO.",
+      "id": "NjU=",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo",
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "summary": "His ally in the Beyachad party, former prime minister Yair Lapid, said Netanyahu's bloc had suffered a \"crushing defeat\".\nHowever, there was no sign of surrender at the Jerusalem headquarters of Netanyahu's Likud party, which was projected to be the largest party in parliament.\nKan and Channel 13's projections showed the blocs tied on 51 seats, while Channel 12 gave Netanyahu's bloc 52 seats and Eisenkot's 49.\nLater, Netanyahu appeared at Likud's headquarters and declared in a speech that his right-wing bloc had a \"great majority\".\n\"If you don't vote, we'll wake up tomorrow with a left-wing government, Arab parties, extreme Islam, and we'll lose the country,\" Netanyahu was filmed saying.",
       "category": "international",
       "bias": "center",
-      "publishedAt": "2026-10-26T02:48:26Z",
-      "source": "Globalresearch.ca"
+      "publishedAt": "2026-10-28T02:09:11Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NTI=",
-      "url": "https://www.dw.com/en/germanys-merz-in-asia-as-security-issues-loom-large/a-79764065",
-      "title": "Why is German Chancellor Friedrich Merz visiting Asia?",
-      "summary": "Chancellor Friedrich Merz will be meeting the leaders of Singapore, Japan and South Korea as Germany seeks to adjust its foreign policy to rising uncertainty and threats to global supply chains.\nGerman Chancellor Friedrich Merz kicked off a five-day tour of Asia on Monday, traveling to Singapore before his scheduled visits to Japan and South Korea.\nHow Japan, South Korea and Taiwan hedge vs.\nHowever, the German leader could voice concerns about South Korea's perceived \"outreach\" efforts towards North Korea and, by extension, Russia.\n\"There are lessons that South Korea can learn, of course, but there are a lot of differences,\" Kim said.",
+      "id": "NjY=",
+      "url": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo",
+      "title": "China: The Mbapp\u00e9-Chairman Mao controversy explained",
+      "summary": "Footballer Kylian Mbapp\u00e9 has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong, which led to him being dropped by several Chinese brands.\nChina's foreign ministry has also criticised the player.\nThe BBC's China correspondent Stephen McDonell explains the controversy.\nRead more here.",
       "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-10-26T13:32:00Z",
-      "source": "DW (English)"
+      "bias": "left",
+      "publishedAt": "2026-10-27T17:11:27Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "Njc=",
+      "url": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms",
+      "title": "Why India has soured on Trump ahead of US midterms",
+      "summary": "Seven years after Modi backed Trump, analysts say New Delhi may now hope US midterm losses leave the president chastened.\nShare Why India has soured on Trump ahead of US midterms on social mediaNew Delhi, India \u2013 Standing next to United States President Donald Trump, Indian Prime Minister Narendra Modi delivered praise after praise.\nModi even borrowed a line from his own successful election campaigns, saying: \u201cAbki baar, Trump sarkaar!\u201d, Hindi for \u201cThis time, a Trump government.\u201dBut Trump lost.\nFar from endorsing Trump, Indian officials have in recent weeks been more direct than ever in their criticism of his administration, amid a series of setbacks to bilateral ties.\nThe Indian prime minister even called Trump \u201cIndia\u2019s best friend in the White House\u201d.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-10-28T05:43:40Z",
+      "source": "Al Jazeera English"
     }
   }
 ]

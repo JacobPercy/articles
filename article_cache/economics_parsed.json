@@ -10,27 +10,47 @@
     "source": "BBC News"
   },
   {
-    "id": "Mw==",
-    "url": "https://finance.yahoo.com/economy/policy/article/inflation-under-trump-is-only-about-half-the-rate-under-biden-voters-are-still-just-as-mad-120043933.html",
-    "title": "Inflation under Trump is only about half the rate under Biden. Voters are still just as mad.",
-    "summary": "So far in President Trump's second term, prices in the US have risen only about half as quickly as during his predecessor's four years in office.\nYet Trump has a 72% disapproval rating on the issue and risks paying a steep political price \u2014 just as former President Biden did \u2014 with voters drawing a direct connection between rising prices and the president's policies.\nDuring the last election cycle, prices of all items rose more than 20% in Biden's term , sparking widespread voter angst.\nTrump has often pushed back against questions about high energy prices, saying they won't be a problem once the war in Iran ends.\nToys are a particularly stark example, falling by 4.6% during Biden's term and then rising by 7.8% so far in Trump's term.",
+    "id": "MQ==",
+    "url": "https://www.businessinsider.com/republicans-feel-inflation-crunch-midterm-elections-consumer-sentiment-2026-10#article",
+    "title": "Republicans Feel Inflation Crunch As Midterms Approach",
+    "summary": "While self-identified Republicans still feel better than their Democratic and Independent counterparts, they're increasingly feeling the pinch of rising prices.\nFrom January to October 2026, the share of Republicans citing high prices as a drag on their finances rose the most out of all political factions.\nAnd, more broadly, Republicans seem to be souring on economic conditions.\nDo you have thoughts on high prices or inflation?\nAdd to Preferred SourcesThe cost concerns come as Iran War volatility \u2014 and the resulting fallout on energy prices \u2014 kept inflation high.",
     "category": "economics",
-    "bias": "left",
-    "publishedAt": "2026-10-25T12:00:43Z",
-    "source": "Yahoo Entertainment"
+    "bias": "lean left",
+    "publishedAt": "2026-10-27T17:00:28Z",
+    "source": "Business Insider"
   },
   {
-    "id": "NQ==",
-    "url": "https://finance.yahoo.com/economy/articles/forget-house-senate-economy-may-224814398.html",
-    "title": "Forget the House and the Senate, the economy may hinge on state and local races in the midterm elections",
-    "summary": "Data centers have emerged as a national issue during this midterm election cycle, and candidates for the House and Senate have seized on it in their campaigns.\nBut state and local officials actually have more sway over data center construction and energy infrastructure, so the winners of lower-profile races may hold the economy's future in their hands.\nThat dynamic was on display on Tuesday, when Amazon canceled a plan to build data centers in Loudoun County, Virginia, after reaching an agreement with local officials amid widespread backlash from residents.\nGreg Abbott has turned from a data center booster to a skeptic as he faces a tough re-election race against Democratic state representative Gina Hinojosa.\nMichael Pearce, chief U.S. economist at Oxford Economics, also observed that midterm races for state capitals and town halls represent a bigger risk to the data center buildout than what happens in Washington, D.C.",
+    "id": "NA==",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
+    "summary": "Sam Altman, the CEO of Anthropic\u2019s archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year.\nGiven that many shareholder votes are decided by a simple majority, Founder LLC basically gives Anthropic\u2019s founders the ability to block or force through decisions, regardless of how other shareholders vote.\nThe prospectus says Founder LLC will \u201cinitially\u201d be seven of Anthropic\u2019s founders: Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Christopher Olah.\nAnother potential vulnerability emerges if Anthropic\u2019s founders start leaving.\nOther means of subverting the trust also exist, he explained, including coordinated action by the public shareholders, employee stockholders, and founders.",
+    "category": "economics",
+    "bias": "right",
+    "publishedAt": "2026-10-27T17:04:30Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Nw==",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
+    "title": "How Aldi is pushing down grocery prices",
+    "summary": "It's the only time I've lived near Aldi, the grocery store known for low prices.\nSponsor MessageAldi is a German company known for having low, low prices, and it deserves that reputation.\nAll to say: Aldi is disrupting the grocery business and actually lowering prices even as the cost of food\u2014at restaurants and other grocery stores\u2014goes up and up.\nAldi unbundled the part of the grocery business it can do super cheaply, and it intentionally locates Aldi stores near competitor grocery stores so shoppers can easily go grab the last few things on their list (the rest of the bundle).\nI think the way Aldi's growth pressured competitors to keep prices low shows that grocers are not the right target of our ire over food prices.",
     "category": "economics",
     "bias": "center",
-    "publishedAt": "2026-10-25T22:48:14Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2026-10-27T10:30:00Z",
+    "source": "NPR"
   },
   {
-    "id": "MTI=",
+    "id": "OA==",
+    "url": "https://www.businessinsider.com/fed-meeting-interest-rates-bond-yields-mark-zandi-2026-10#article",
+    "title": "Top Economist Says Rate Hike Not Needed, As Bond Market Is Doing Fed's Job",
+    "summary": "The \"work\" that Zandi sees the bond market doing is making borrowing costs higher, which is what the Fed aims to do when it tries to cool inflation.\nPrior to the Fed's September rate increase, Zandi said that he viewed the decision as a \"serious mistake\" that could prove costly for the US economy.\nA month later, the economist is still focused on the threats that further rate hikes could pose at a time when macro and geopolitical uncertainty remains high.\nZandi noted that global oil prices are surging back toward wartime peaks, as tensions with Iran show no signs of easing.\n\"Higher oil prices will further undermine real wages and, ultimately, consumer spending, something the Fed shouldn't dismiss,\" he added.",
+    "category": "economics",
+    "bias": "lean right",
+    "publishedAt": "2026-10-26T17:50:09Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTE=",
     "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
     "title": "South Korea\u2019s GDP growth beats forecasts amid AI boom",
     "summary": "South Korea\u2019s economy grew much faster than expected in the July-September quarter amid booming demand for chips used in artificial intelligence (AI).\nExports, which account for about 45 percent of South Korea\u2019s GDP, rose 2.3 percent quarter-on-quarter, driven by semiconductors, machinery and electrical equipment, according to the central bank.\nThe latest results put the South Korean economy well on track to achieve its biggest economic expansion in more than a decade.\nSouth Korean Finance Minister Lee Hyoung-il said earlier this month that he expected growth to reach 3.4-3.6 percent in 2026, which would be the strongest performance since 2011, excluding the COVID-19 pandemic.\nSouth Korea\u2019s economy grew 1 percent in 2025, its slowest expansion since the pandemic.",
@@ -40,13 +60,43 @@
     "source": "Al Jazeera English"
   },
   {
-    "id": "MTQ=",
-    "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean",
-    "title": "Bangladesh per capita GDP forecast to outstrip India\u2019s: What does it mean?",
-    "summary": "Bangladesh is expected to surpass India\u2019s per capita GDP this year, but the complete economic picture is a mix of success stories and new challenges.\nShare Bangladesh per capita GDP forecast to outstrip India\u2019s: What does it mean?\nBut its neighbour\u2019s per capita GDP, which is GDP divided by the total population, is expected to surpass that of India, the world\u2019s most populous nation.\nIn 2029, based on current growth forecasts, India\u2019s per capita GDP of $3,661 would top Bangladesh\u2019s $3,334, according to the IMF.\nExperts noted that Bangladesh is facing a weaker near-term growth outlook, even as its projected GDP per capita edges above India\u2019s.",
+    "id": "MTI=",
+    "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+    "title": "Anthropic IPO live updates: S-1 filing discloses $16.3B in first-half revenue, plans to list as 'ANT'",
+    "summary": "Anthropic (ANTH.PVT) publicly filed its S-1 investor prospectus on Monday, ahead of its planned initial public offering later this fall under the ticker symbol \"ANT.\"\nThe AI lab, helmed by CEO Dario Amodei, has exploded in popularity thanks to its Claude Code AI coding tool and Claude Cowork enterprise offering.\nAs of May, Anthropic was valued at $965 billion, more than rival OpenAI's (OPAI.PVT) $852 billion valuation in March.\nThe AI lab has faced a number of controversies this year, including a run-in with the Trump administration over how the government can use the company's AI models, and current and former employees warning about the potential threat of killer AI.\nLIVE COVERAGE IS OVER 28 updates",
     "category": "economics",
     "bias": "center",
-    "publishedAt": "2026-10-25T14:11:29Z",
-    "source": "Al Jazeera English"
+    "publishedAt": "2026-10-26T14:28:39Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MTM=",
+    "url": "https://www.cnet.com/news/halloween-candy-prices-take-a-scary-bite-out-of-shoppers-budgets/",
+    "title": "Halloween Candy Prices Take a Scary Bite Out of Shoppers\u2019 Budgets",
+    "summary": "October is important for candy sales, as shoppers stock up for parties, trick-or-treaters, or \u2014 let\u2019s be honest \u2014 personal consumption.\n\u201cConfection remains a resilient category.\u201dMoney monstrosityAmericans will likely spend over $13 billion on Halloween this year, the National Retail Federation reports.\nCandy remains the favorite purchase, with 95% of Halloween shoppers planning to snag some this year, followed by decorations, costumes and greeting cards, according to the National Retail Federation.\nIn 2026, shoppers are expected to spend over $4 billion on Halloween candy alone.\nHalloween sales hit the high street and online two or three days before Halloween as stores try to clear stock,\u201d says James Bricknell, CNET commerce managing editor.",
+    "category": "economics",
+    "bias": "center",
+    "publishedAt": "2026-10-27T21:58:52Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MTU=",
+    "url": "https://www.businessinsider.com/luxury-real-estate-trends-what-wealthy-homebuyers-want-2026#article",
+    "title": "4 Luxury Real Estate Trends Shaping How the Ultrawealthy Buy Homes in 2026",
+    "summary": "While many Americans are sitting on the sidelines, waiting for the real-estate market to become more affordable, ultrawealthy buyers are still snapping up homes.\nSotheby's International Realty's 2026 Mid-Year luxury outlook survey found that 55% of its real-estate affiliated professionals worldwide who specialize in properties priced at $10 million and above saw an increase in luxury homebuyers in their local markets over the previous 12 months.\n\"The affluent remain engaged and confident in the luxury housing market.\nWhite Jr., president and CEO of Sotheby's International Realty, said in the brokerage's report.\nHere are four trends gaining traction among ultrawealthy homebuyers according to Sotheby's report, from a revival in San Francisco's real estate market to a growing demand for homes that allow buyers to age in place.",
+    "category": "economics",
+    "bias": "lean right",
+    "publishedAt": "2026-10-26T11:31:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mzk=",
+    "url": "https://finance.yahoo.com/energy/articles/trump-casts-high-gas-price-210511413.html",
+    "title": "Trump Casts High Gas Price as \u2018Short-Term Pain\u2019 at Texas Rally",
+    "summary": "High prices that have strained household budgets have become the dominant issue in the election, weighing down Republican candidates in red states such as Texas.\nYou're going to see very soon,\" Trump said at a rally in Corpus Christi.\nThe average price for a gallon of regular was $4.27, according to auto club AAA, up from $2.98 before the war.\nEarlier: Trump, Rubio Plan to Visit Tanker With Venezuelan Crude in Texas\"It'll be refined right here in Texas, including right here in Corpus Christi,\" Trump said at the rally.\n\"The only man standing between Texas and this raging lunatic is a man named President Donald J. Trump,\" Trump said.",
+    "category": "economics",
+    "bias": "left",
+    "publishedAt": "2026-10-27T21:05:11Z",
+    "source": "Yahoo Entertainment"
   }
 ]
