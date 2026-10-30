@@ -1,16 +1,6 @@
 [
   {
-    "id": "MTc=",
-    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "summary": "A UK government watchdog is considering an investigation into the Home Office\u2019s use of generative AI tools to process asylum applications, WIRED has learned.\nThe potential probe follows lawmakers and researchers publicly questioning the tools\u2019 accuracy and the government\u2019s secrecy around their use.\nThey cannot be used in isolation and do not make decisions on claims,\u201d a Home Office spokesperson tells WIRED in an email.\nThey use the APS as a search assistant to find and summarize country policy information, which informs them whether the applicant faces a genuine risk of harm in their home country.\nIn July, a UK judge accused the Home Office of citing an \u201cAI hallucinated\u201d document to refuse a Moroccan woman and her child\u2019s asylum claim on the basis that her home country would be safe for her to return to.",
-    "category": "immigration",
-    "bias": "center",
-    "publishedAt": "2026-10-27T15:10:26Z",
-    "source": "Wired"
-  },
-  {
-    "id": "NDM=",
+    "id": "NDE=",
     "url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
     "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
     "summary": "The Franklin County board of elections building at 1700 Morse Street in central Columbus, Ohio, is an early voting site for next week\u2019s midterms.\nIt is also located in the middle of the large Somali American community that was targeted by the Immigration and Customs Enforcement (ICE) agency\u2019s Operation Buckeye last December.\nThe campaign was designed, the agency said, to find \u201cthe worst of the worst criminal illegal aliens.\u201dThe result was a paltry number of arrests, months of sustained harassment, and a lingering feeling that ICE agents could return at any minute, especially around election time.\nThey have been trained to document, record, and report any sightings of federal immigration agents, sharing the information in dozens of Signal and WhatsApp groups.\nOfficially, the Department of Homeland Security has said that it has no plans to deploy ICE agents to polling locations on Election Day.",
@@ -20,7 +10,7 @@
     "source": "Wired"
   },
   {
-    "id": "NDQ=",
+    "id": "NDI=",
     "url": "https://abcnews.com/US/supreme-court-declines-restore-policy-allowing-immigration-judges/story?id=137614314",
     "title": "Supreme Court declines to restore policy allowing immigration judges to close deportation cases",
     "summary": "In this June 9, 2025, file photo, a room sign is shown outside of an immigration court at the Ted Weiss Federal Building in New York.\nIn this June 9, 2025, file photo, a room sign is shown outside of an immigration court at the Ted Weiss Federal Building in New York.\nIn this June 9, 2025, file photo, a room sign is shown outside of an immigration court at the Ted Weiss Federal Building in New York.\nThe Supreme Court on Tuesday declined to unfreeze a Biden-era policy that allowed immigration judges to use their discretion to temporarily close deportation cases for immigrants.\nDeportation hearings in immigration court are legal proceedings initiated by the Department of Homeland Security in which an immigration judge determines whether a migrant should be removed from the United States.",
@@ -30,14 +20,24 @@
     "source": "Abcnews.com"
   },
   {
-    "id": "NDY=",
-    "url": "https://slate.com/podcasts/what-next/2026/10/an-arizona-congressional-election-coming-down-to-the-wire",
-    "title": "Can this Marine Flip a Border Seat?",
-    "summary": "You have remaining gift available this month.\nThis gift link is valid through .\nThere was an error with your gift link.\nPlease try again.",
+    "id": "NDM=",
+    "url": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
+    "title": "Partnerships between ICE and local police surge, report finds",
+    "summary": "Partnerships between ICE and local police surge, report findstoggle caption i Charly Triballeau/AFP via Getty ImagesThe number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy group FWD.us.\nThe group analyzed the federal ICE program, called 287(g), that deputizes state and local police for immigration enforcement.\n\"These state and local officers are a key lever in the administration's quieter approach to enforcement.\nThe most common and most aggressive form of these 287(g) partnerships, the Task Force Model, allows police and sheriff's departments to make immigration arrests.\n\"Even though Oklahoma may not be in the headlines, it's definitely a hotspot for immigration enforcement,\" Ramirez-Perez said.",
     "category": "immigration",
-    "bias": "lean right",
-    "publishedAt": "2026-10-26T09:00:00Z",
-    "source": "Slate Magazine"
+    "bias": "center",
+    "publishedAt": "2026-10-28T09:00:00Z",
+    "source": "NPR"
+  },
+  {
+    "id": "NDY=",
+    "url": "https://www.bbc.com/news/articles/cq8jzkpjr28vo",
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "summary": "The groups wrote in an online statement that the the leak was not meant to be a directory of every DHS agent.\nRather the aim was to replace \"anonymity with accountability\", according to Emma Best, a co founder of DDoSecrets.",
+    "category": "immigration",
+    "bias": "lean left",
+    "publishedAt": "2026-10-28T23:11:03Z",
+    "source": "BBC News"
   },
   {
     "id": "NDc=",
@@ -50,7 +50,7 @@
     "source": "Al Jazeera English"
   },
   {
-    "id": "NDg=",
+    "id": "NDk=",
     "url": "https://www.yahoo.com/news/us/articles/us-supreme-court-denies-immigration-160948159.html",
     "title": "US Supreme Court denies immigration judges the power to shelve deportation cases",
     "summary": "By Andrew ChungOct 27 (Reuters) - The US Supreme Court declined on Tuesday to reinstate the authority of immigration judges to temporarily postpone deportation cases, keeping in place an agreement between President Donald Trump's administration and Republican-governed Texas that bars the once-common practice.\nThe administration and Texas filed the agreement in a federal court in Texas on June 22, the same day that the state sued to challenge the immigration court procedure.\nAdvertisement AdvertisementHUNDREDS OF THOUSANDS OF CASESAdministrative closure has been applied over the years in hundreds of thousands of deportation cases.\nAdvertisement AdvertisementIn a lawsuit, Texas argued that the rule lets immigration judges \"effectively grant indefinite amnesty to aliens \u200billegally present in this country.\"\nThe New Orleans-based 5th US Circuit Court of Appeals declined to put the agreement on hold pending an appeal \u200bof O'Connor's decision.",
@@ -60,43 +60,13 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "NDk=",
-    "url": "https://www.yahoo.com/news/world/articles/brazil-wonders-where-earth-flavio-154803613.html",
-    "title": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says",
-    "summary": "\"The State Department will issue visas to Flavio Bolsonaro and his family and allow them entry into the United States,\" a senior State Department official said.\nAdvertisement AdvertisementTrump told reporters on Wednesday that he would approve of Bolsonaro coming to the United States.\nI know Flavio a little bit.\nThe elder Bolsonaro also went to the United States after refusing to concede to Lula in 2022, when former US President Joe Biden was in office.\nEduardo Bolsonaro, Bolsonaro's younger brother who lives in the \u200cUnited States, said ahead of the vote that an election loss would require a move.",
+    "id": "NTA=",
+    "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo",
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "summary": "Details of more than 41,000 personnel working for the US Department of Homeland Security (DHS), including thousands involved in immigration enforcement, have been leaked to the public.\nA DHS spokesperson said the agency is \"aware of a potential breach and is actively working to address the situation swiftly and effectively.\"\nA spokesperson for the Department of Peace pointed directly at actions by ICE agents for the group's work to hack DHS records.\nImmigration operations this year have repeatedly turned violent, external, with ICE agents shooting at more than two dozen people and killing at least nine people.\nOften, ICE agents carry out enforcement actions while their faces are covered by masks and sunglasses.",
     "category": "immigration",
     "bias": "left",
-    "publishedAt": "2026-10-27T18:43:31Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "NTE=",
-    "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade",
-    "title": "Has Pakistan reopened its border with Iran for trade?",
-    "summary": "Share Has Pakistan reopened its border with Iran for trade?\nMir Naveed Jan Kalmati, president of the Gwadar Chamber of Commerce and Industry, told Al Jazeera that trade \u201cpartially resumed this weekend\u201d.\nTrucks loaded in Iran before the closure, including those carrying liquefied petroleum gas (LPG), were also entering Pakistan, he confirmed to Al Jazeera.\nAdvertisement\u201cCustoms has given us the go-ahead, saying, \u2018Bring in as much cargo as you can,\u2019\u201d Ahmed told Al Jazeera.\nPakistan insisted it was done amid a deteriorating security situation in Balochistan province on the border with Iran.",
-    "category": "immigration",
-    "bias": "lean left",
-    "publishedAt": "2026-10-26T13:01:16Z",
-    "source": "Al Jazeera English"
-  },
-  {
-    "id": "NTI=",
-    "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border",
-    "title": "Israeli military detains Egyptian national who crossed border",
-    "summary": "Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.\nIsrael\u2019s military has said that it detained an Egyptian civilian overnight after he crossed a border fence from Egyptian territory into Israel near Nitzana and that he was transferred to security forces for further questioning.\nNitzana is a small community in southern Israel\u2019s western Negev (Naqab) Desert, sitting directly adjacent to the Egyptian border opposite the Egyptian side\u2019s Al-Awja area.\nThe Nitzana border crossing, also known as the Eliav crossing, primarily handles cargo transport between the two countries rather than serving as a major passenger channel.\nThe incident occurred as Israel maintains heightened alert levels along the Egyptian border.",
-    "category": "immigration",
-    "bias": "right",
-    "publishedAt": "2026-10-27T15:10:27Z",
-    "source": "Al Jazeera English"
-  },
-  {
-    "id": "NTU=",
-    "url": "https://www.breitbart.com/immigration/2026/10/26/small-texas-town-works-with-ice-to-deport-194-illegal-migrants-this-year/",
-    "title": "Small Texas Town Works with ICE to Deport 194 Illegal Migrants This Year",
-    "summary": "Cops in Ingram, Texas, worked with federal officials to detain and deport 194 illegal migrants this year so far, a report reveals.\nThe record is prompting complaints from pro-migration media and cheap labor-seeking businesses, but applause from the Department of Homeland Security.\nAnd since signing onto the program, the media claimed that nearly \u201cten percent\u201d of the town has been taken into custody by ICE officers.\nThe paper accuses the officer of \u201ctearing the town apart\u201d by working with ICE to detain lawbreaking illegal migrants.\n\u201cChoosing to enforce the law is not \u201ctearing the town apart,\u201d it is the natural result of what happens when smaller communities are overwhelmed by illegal immigration.",
-    "category": "immigration",
-    "bias": "right",
-    "publishedAt": "2026-10-26T23:35:11Z",
-    "source": "Breitbart News"
+    "publishedAt": "2026-10-28T22:12:43Z",
+    "source": "BBC News"
   }
 ]
