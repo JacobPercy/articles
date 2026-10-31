@@ -1,16 +1,6 @@
 [
   {
-    "id": "MzI=",
-    "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
-    "title": "Trump is making it easier for fossil fuel companies to leak methane",
-    "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks.\nMethane is a smog-forming pollutant and a powerful greenhouse gas that\u2019s up to 80 times as potent as carbon dioxide on a 20-year horizon.\nIt\u2019s the primary component of what the fossil fuel industry calls \u201cnatural gas\u201d that routinely leaks from oil and gas wells and pipelines.\nThese wells are responsible for half of the industry\u2019s methane emissions despite only producing 6 percent of US oil and gas, ProPublica reports.\n\u201cFor over a decade, [our group] has been fighting for methane protections for our families\u2014and we were making progress.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-10-27T18:25:13Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MzM=",
+    "id": "MzQ=",
     "url": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
     "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
     "summary": "Trump says he's ending restrictions on climate-warming methane from oil drillingtoggle caption i Annie Rice/APBILLINGS, Mont.\nMethane is responsible for about a third of planet-warming greenhouse gas emissions, scientists estimate.\ntoggle caption i David Goldman/APCuts in methane emissions have emerged in recent years as a global priority to slow the rate of climate change.\nZeldin has said the methane rule would have cost $18 billion and was holding back the U.S. energy industry.\nThe fee marked the first time the U.S. government directly imposed a fee, or tax, on greenhouse gas emissions.",
@@ -20,7 +10,47 @@
     "source": "NPR"
   },
   {
-    "id": "Mzc=",
+    "id": "MzY=",
+    "url": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo",
+    "title": "South West Water given lowest environmental rating",
+    "summary": "South West Water has been given the lowest possible environmental rating by the Environment Agency over high levels of pollution.\nThe regulator downgraded the firm from two stars out of a possible four to one, meaning it is now considered a \"poor performing company\" for its environmental impact.\nSouth West Water, which has 1.8 million customers across Devon, Cornwall, the Isles of Scilly and parts of Dorset and Somerset, said it knew there was \"much more to do\" and was taking action to improve areas that \"matter most\" to customers and the environment.\nThe annual Environmental Performance Assessment grades England's nine water and sewerage companies largely on how often they pollute rivers, streams and the sea.\nFor 2025, South West Water was among four companies rated as poor performing, or one star, while four others were rated as requiring improvement, two stars.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-10-29T11:31:23Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://www.scientificamerican.com/article/five-things-you-need-to-know-about-the-trump-administrations-rollback-of-methane-regulations/",
+    "title": "Five things you need to know about the Trump administration\u2019s rollback of methane regulations",
+    "summary": "Five things you need to know about the Trump administration\u2019s rollback of methane regulationsThe Trump administration has taken an axe to environmental regulations\u2014and this week the target became methane gas emissions.\nAll of that again went out the window with the second Trump administration.\nThese processes are responsible for 28 percent of all U.S. methane emissions, according to the EPA.\nMethane regulations have done little to move the needleWith all the regulatory back-and-forth, it\u2019s perhaps unsurprising that research into methane emissions finds little evidence that federal rules make a difference.\nIn the European Union, a 2024 regulation would have required methane monitoring and reporting on any imported oil, natural gas and coal.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-10-29T11:00:00Z",
+    "source": "Scientific American"
+  },
+  {
+    "id": "NDM=",
+    "url": "https://www.theregister.com/on-prem/2026/10/28/microsoft-faces-potential-vote-shareholders-curious-about-its-plans-to-tackle-emissions/5305953",
+    "title": "Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions",
+    "summary": "However, Microsoft estimates that without the carbon reduction initiatives it has already put in place, emissions would now be much higher, somewhere near 34 million tons.\nThe increase is largely accounted for by indirect emissions (Scope 3) from the construction and provisioning of datacenters to meet that demand for cloud services and AI training.\nNow Trillium Asset Management, financial advisors specializing in sustainable and responsible investing, is urging Microsoft shareholders to vote for Proposal 4 during their annual meeting scheduled for December 8.\nIn an SEC filing, the proposal asks Microsoft to disclose additional information illustrating how it will manage climate commitments.\nThis disclosure should go beyond existing disclosures, at reasonable cost, omitting proprietary information, and be made annually.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-10-28T14:15:00Z",
+    "source": "Theregister.com"
+  },
+  {
+    "id": "NDQ=",
+    "url": "https://www.dezeen.com/2026/10/29/montana-takt-acquisition/",
+    "title": "Montana acquires sustainable furniture maker Takt",
+    "summary": "Montana has announced its buyout of fellow Danish design brand Takt, known for its solid wood furniture and pioneering approach to sustainable design.\nFounded in 2019 by trained physicist and former Lego and Bang & Olufsen executive Henrik Taudorf Lorensen, Takt makes modern Scandinavian furniture from FSC-certified wood that is low-carbon, flat-pack and designed for disassembly.\n\u201cTakt brings experience with materials and the environment, and we are looking forward to bringing our respective experience together and taking this work even further,\u201d he said.\nBy gaining access to the established, international infrastructure of Montana, which has been operating since 1982, Lorensen hopes that Takt\u2019s furniture will be able to reach a larger audience.\n\u201c\u201cNow it is time for TAKT\u2019s next chapter, and we are delighted that it will be written together with Montana.\u201d",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-10-29T10:30:00Z",
+    "source": "Dezeen"
+  },
+  {
+    "id": "NDY=",
     "url": "https://www.jalopnik.com/2299966/prepare-to-inhale-more-methane-under-trump-plan/",
     "title": "Prepare To Inhale Way More Methane Than You're Used To",
     "summary": "Methane isn't one of those gases we want polluting our air.\nIt traps more heat than carbon dioxide, worsens ground-level ozone, and is associated with increased breathing problems, heart disease, cancer and strokes.\nWhen Americans are so unhealthy and we just saw the hottest summer on record, you'd think the government would want less methane in our air, but no.\nThe Associated Press reports that President Donald Trump just announced plans to increase the amount of methane oil and gas drillers are allowed to dump into our atmosphere.\nExcept, at the current U.S. level of oil consumption, the AP estimates that's only 10 days worth of oil.",
@@ -30,7 +60,7 @@
     "source": "Jalopnik"
   },
   {
-    "id": "Mzg=",
+    "id": "NDc=",
     "url": "https://www.bbc.co.uk/news/articles/c64g1je3034ko",
     "title": "RAF base chemical contamination worst in UK, report finds",
     "summary": "Chemical contamination at a former RAF base earmarked for 9,000 homes is the worst found in the UK, a report has said.\nTesting at RAF Upper Heyford carried out on behalf of a developer found \"unacceptable\" levels of polyfluoroalkyl substances (PFAS), referred to as forever chemicals.\nAt RAF Upper Heyford, firefighters would practice putting out an aeroplane set on fire above a \"pond\" of fuel.\nThis training area was found to be \"the most significant ongoing source of PFAS contamination identified\" - a few hundred metres north of existing developments.\nAnother report into ground and surface water found contamination was \"widespread\" at the site, with all samples exceeding environmental standards.",
@@ -38,15 +68,5 @@
     "bias": "lean left",
     "publishedAt": "2026-10-29T06:13:24Z",
     "source": "BBC News"
-  },
-  {
-    "id": "Mzk=",
-    "url": "https://www.nature.com/articles/d41586-026-03415-2",
-    "title": "Could a giant sunshade in space \u2018solve global warming\u2019? Scientists are taking the idea seriously",
-    "summary": "These \u201csentient satellites\u201d, he wrote, \u201ccan solve global warming for ~1B years\u201d.\nA non-profit organization called the Planetary Sunshade Institute in Los Angeles, California, published a report this month that researchers say is the most detailed analysis yet of such geoengineering methods.\nNot so science fictionBlocking sunlight to cool the planet through solar geoengineering has long been controversial.\nThe \u201caccelerating climate crisis\u201d is pushing the world towards solar geoengineering, says Morgan Goodwin, a climate activist and executive director of the Planetary Sunshade Institute.\nThat grant is part of a larger \u00a356.8-million ARIA research programme on solar geoengineering.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-10-28T00:00:00Z",
-    "source": "Nature.com"
   }
 ]

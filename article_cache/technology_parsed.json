@@ -1,36 +1,46 @@
 [
   {
-    "id": "Nw==",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-    "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
-    "summary": "Sam Altman, the CEO of Anthropic\u2019s archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year.\nGiven that many shareholder votes are decided by a simple majority, Founder LLC basically gives Anthropic\u2019s founders the ability to block or force through decisions, regardless of how other shareholders vote.\nThe prospectus says Founder LLC will \u201cinitially\u201d be seven of Anthropic\u2019s founders: Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Christopher Olah.\nAnother potential vulnerability emerges if Anthropic\u2019s founders start leaving.\nOther means of subverting the trust also exist, he explained, including coordinated action by the public shareholders, employee stockholders, and founders.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-10-27T17:04:30Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTU=",
-    "url": "https://www.businessinsider.com/andrew-morse-cnn-youtube-phareo-app-launch-creator-2026-10#article",
-    "title": "Former CNN Executive Andrew Morse Wants to Take on YouTube With Phareo",
-    "summary": "Are you sick of the algorithms that serve you video on giant platforms like YouTube and TikTok?\nOr are you a video-maker who's sick of the algorithms that don't serve your stuff to would-be watchers?\nThis is an edited excerpt of our conversation:Peter Kafka: You have a classic chicken/egg problem: Consumers are not going to use a new app unless it has compelling content they can't get somewhere else.\nI don't think that that's true.\nI think consumers are on these platforms because they have to be.",
+    "id": "OQ==",
+    "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+    "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
+    "summary": "Trading has resumed on Polymarket\u2019s flagship international platform after a hack that drained money from the wallets of some traders.\nPolymarket declined to comment when WIRED asked how many traders were impacted by the breach and how much money was lost, but the company said it will refund impacted traders.\nThe hack did not impact users on Polymarket US, the company\u2019s newer platform for people within the United States.\nThis is not the first time that Polymarket traders have experienced security woes.\nIn June 2026, Polymarket experienced another breach, which resulted in over $2 million in losses for impacted traders.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-10-28T12:00:01Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-10-29T19:51:56Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MTA=",
+    "url": "https://www.cnet.com/tech/services-and-software/mistral-new-le-chonk-ai-model-open-source-available/",
+    "title": "Mistral\u2019s New \u2018Le Chonk\u2019 AI Model Is Big, Open and Now Available for Download",
+    "summary": "New AI models are coming, and they don\u2019t stop coming.\nOn the heels of the recent rollouts of Meta\u2019s Muse and Google\u2019s Gemini 4 Carbon, Mistral AI is launching its new flagship frontier model, Mistral Large 4.\nThe model \u2013 affectionately known as \u201cLe Chonk\u201d \u2013 was available in public preview earlier this month.\nKey capabilities of Mistral Large 4Lample and Stock said that Mistral Large 4 was built to process both text and images, closing performance gaps from previous Mistral models.\nAgentic AI\u201cReally, the core competency we\u2019re looking at for ML4 is agentic capabilities,\u201d Stock said.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-29T17:32:56Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MTQ=",
+    "url": "https://finance.yahoo.com/markets/article/alphabet-and-microsoft-are-on-both-sides-of-the-ai-booms-biggest-bills-chart-of-the-day-100000027.html",
+    "title": "Alphabet and Microsoft are on both sides of the AI boom's biggest bills: Chart of the Day",
+    "summary": "Both rent computing power to the AI labs and own stakes in them, but this quarter Microsoft cashed in while Alphabet's bets cost it.\nMicrosoft (MSFT) stock rose about 2% after hours, while Alphabet (GOOGL, GOOG) fell over 9%, on track for its worst day since October 2023, after its sales came up short.\nThat's about 11% of Microsoft's $92 billion in revenue, and more than its Xbox and Windows businesses brought in combined.\nOpenAI's unpaid bills to Microsoft rose to about $7 billion from $6 billion three months earlier.\nMeta (META) took a similar route with its nearly $100 billion stock sale.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-29T10:00:00Z",
+    "source": "Yahoo Entertainment"
   },
   {
     "id": "MTY=",
-    "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom",
-    "title": "South Korea\u2019s GDP growth beats forecasts amid AI boom",
-    "summary": "South Korea\u2019s economy grew much faster than expected in the July-September quarter amid booming demand for chips used in artificial intelligence (AI).\nExports, which account for about 45 percent of South Korea\u2019s GDP, rose 2.3 percent quarter-on-quarter, driven by semiconductors, machinery and electrical equipment, according to the central bank.\nThe latest results put the South Korean economy well on track to achieve its biggest economic expansion in more than a decade.\nSouth Korean Finance Minister Lee Hyoung-il said earlier this month that he expected growth to reach 3.4-3.6 percent in 2026, which would be the strongest performance since 2011, excluding the COVID-19 pandemic.\nSouth Korea\u2019s economy grew 1 percent in 2025, its slowest expansion since the pandemic.",
+    "url": "https://www.businessinsider.com/scott-bessent-neocloud-debt-not-problematic-ai-treasury-secretary-2026-10#article",
+    "title": "Scott Bessent says neocloud debt isn't problematic at all",
+    "summary": "Treasury Secretary Scott Bessent weighed in on the neocloud debt debate that recently rattled the AI trade, and he doesn't seem too concerned.\nIn a CNBC interview Wednesday, Bessent was asked about yields on some AI-related debt climbing into the double digits.\nThe neocloud industry, which includes players such as CoreWeave and Nebius, provides cloud computing services to AI customers.\nThe Roundhill Neocloud ETF, which invests in major neocloud players such as CoreWeave, Nebius, and IREN, has fallen 24% over the past month.\nHe added that SpaceX would not be acquiring any neocloud companies.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-27T06:50:53Z",
-    "source": "Al Jazeera English"
+    "bias": "left",
+    "publishedAt": "2026-10-29T07:05:14Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MTc=",
+    "id": "MTg=",
     "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
     "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
     "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \u201csignificant gains\u201d in coding, agentic tasks, and cybersecurity.\nIn an announcement on Wednesday, Google highlights Carbon\u2019s top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month.\nCarbon sits ahead of Claude Opus 5.5 and GPT-6 Astra.\nGemini 4 Carbon also beat GPT-6 Astra on the SEC-bench Pro cybersecurity benchmark.",
@@ -40,7 +50,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MTg=",
+    "id": "MjA=",
     "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o",
     "title": "Neighbours: AI micro-drama recut of Australian show focusing on Margot Robbie worries actors and crew",
     "summary": "Former Neighbours actors and crew have raised concerns about plans to use AI to help re-edit old footage and make mini episodes for mobile phone viewers.\nFootage of Margot Robbie, who played Donna Freedman from 2008 to 2011, will be the initial focus of the micro-drama.\nThe micro-drama episodes will use \"original, previously broadcast footage, dialogue and performances\", according to Fremantle spokesman.\nUsing AI to help make short episodes from old footage was \"like cutting up a Picasso and rebuilding it\".\n\"Workers should be consulted before their likeness or expertise is used in a way they could never had envisioned when they signed contracts decades ago,\" said MEAA's acting CEO Adam Portelli.",
@@ -50,7 +60,7 @@
     "source": "BBC News"
   },
   {
-    "id": "MTk=",
+    "id": "MjE=",
     "url": "https://www.cnet.com/tech/services-and-software/google-genie-4-gemini-4-carbon-ai-news/",
     "title": "Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know",
     "summary": "Google is back with another new frontier AI model, just two weeks after its last release.\nAnd if you\u2019re a fan of world models, there\u2019s good news there, too: Google\u2019s latest, Genie 4, also debuted this week.\nWhereas chatbots predict the next word in a sentence, world models are grounded in the physics of a digital universe.\nYou may have heard of two AI bigwigs, Fei-Fei Li and Yann LeCun, building world models in their respective start-ups.\nMore from CNETNeither of these new models, Gemini 4 Carbon nor Genie 4, is available to the general public yet.",
@@ -60,37 +70,57 @@
     "source": "CNET"
   },
   {
-    "id": "MjA=",
-    "url": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims",
-    "title": "Cybersecurity CEO Indicted For Allegedly Scamming Millions From Ransomware Victims",
-    "summary": "Don't sweat it -- it's only ones and zeros.\n-- P. Skelly",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-27T17:00:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MjE=",
-    "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-    "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers.\nIn Pages, Apple says the AI assistant can draft, restructure, and tweak written content.\nImage: AppleKeynote, Pages, and Numbers now support the Model Context Protocol on macOS 27 or later, allowing third-party AI agents to plug into the apps.\nThe AI assistant is rolling out in beta to devices compatible with Apple Intelligence.\nIt works on devices running iOS 27, iPadOS 27, or macOS 27 or later.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-27T13:50:51Z",
-    "source": "The Verge"
-  },
-  {
     "id": "MjI=",
-    "url": "https://www.cnet.com/tech/services-and-software/php-warning-web-vulnerability/",
-    "title": "Last Week\u2019s Critical PHP Warning Was the Tip of the Web Vulnerability Iceberg",
-    "summary": "Shortly after alerts were issued about the new vulnerabilities, new versions of PHP were issued, and site operators were urged to update.\nAnd for web surfers, it\u2019s not obvious what PHP version a site is running without running terminal commands or using an online PHP checker.\nWhile companies and governments rely on PHP, \u201cIt is clear PHP is severely underfunded,\u201d she said.\nA large majority of 71% of these site owners hadn\u2019t heard about the recent PHP flaws.\nIn addition to its security updates, Cloudflare has also introduced a PHP Capture the Flag contest as part of its Bug Bounty Program on HackerOne.",
+    "url": "https://www.businessinsider.com/ai-controlled-gun-turrets-ukraine-war-reality-shahed-geran-defense2026-10#article",
+    "title": "AI-controlled .50-cal gun turrets are becoming a reality of war",
+    "summary": "One such system, the Sky Sentinel, is a .50-cal M2 Browning turret developed and operated by private air defense firm Carmine Sky.\nNotably, Brave1 said these turrets took down Russian Geran-5s and Banderols \u2014 jet-powered drones and cruise missiles that can reach speeds of 375 to 400 mph.\nThe turrets do have limited range, making them more useful as a final defense against drones or against low-flying targets.\nThey'll likely be one of several tools Ukraine is developing to counter Russian jet-powered threats.\nThese weapons, flying at nearly half the speed of sound and launched by the thousands every month, have become a major challenge for Ukrainian air defenses.",
     "category": "technology",
     "bias": "right",
-    "publishedAt": "2026-10-27T18:39:30Z",
-    "source": "CNET"
+    "publishedAt": "2026-10-30T06:52:34Z",
+    "source": "Business Insider"
   },
   {
     "id": "MjM=",
+    "url": "https://news.slashdot.org/story/26/10/29/1741210/canada-to-join-eu-network-of-supercomputers",
+    "title": "Canada to Join EU Network of Supercomputers",
+    "summary": "\"A child is a person who can't understand why someone would give away a perfectly good kitten.\"\n-- Doug Larson",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-29T18:00:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MjQ=",
+    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+    "title": "Microsoft\u2019s AI future has fewer jobs",
+    "summary": "Playground Games studio head Trevor Williams revealed the news in a recent internal memo, seen by Notepad.\nBoth Playground Games and Turn 10 Studios have merged into just Playground Games.\nThe studio now has two locations: Playground Games Leamington Spa and Playground Games Redmond.\nSources familiar with Bethesda\u2019s plans tell me that the Xbox-owned publisher is about to announce that the next Elder Scrolls game will officially be called The Elder Scrolls VI: Sentinel.\nI understand that Sentinel will be set in Hammerfell, a province in the Elder Scrolls universe that\u2019s appeared in The Elder Scrolls Adventures: Redguard and The Elder Scrolls Online.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-29T15:17:52Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+    "title": "Apple\u2019s new laptop supports one of the coolest features for color pros",
+    "summary": "It\u2019s the first laptop, and only the second product overall, to support Apple CMF 2026 color modes.\nThe specification that\u2019s been the standard for years is CIE 1931 (CIE stands for Commission Internationale de l\u2019\u00c9clairage, or International Commission on Illumination).\nCIE 1931 doesn\u2019t properly handle that and was created based on only 17 test subjects.\nApple CMF 2026 addresses that, so that displays look the same regardless of the technology they use.\nColor science and display technologies have come a long way since 1931, when the CIE 1931 color space was established.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-29T17:48:09Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjY=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "title": "The NYT Cooking app is testing AI recipe modifications",
+    "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users.\nCustomized recipes are private and can\u2019t be published or shared through the app.\nImage: Jennifer Pattison Tuohy / The Verge\u201cUnbelievably disappointing to see,\u201d said another NYT user.\n\u201cI\u2019ve always loved NYT Cooking and it pains me that the AI mandate has reached what used to be a wonderful and simple collection of recipes and notes from all sorts of different people.\u201dThis isn\u2019t the first time that AI has been used by the NYT Cooking app.\nClosing comments on older articles is standard practice at The Times so that our moderators can focus on new discussions.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-29T14:39:37Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjc=",
     "url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10#article",
     "title": "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation",
     "summary": "Just weeks after announcing a new round of funding at a $48 billion valuation, AI coding startup Cognition is fielding new investor interest at a much higher price.\nThe startup has received offers valuing it at between $70 billion and $80 billion and is seriously considering a round before the end of the year, according to sources familiar with the matter.\nFounded in 2023 by Scott Wu, Steven Hao, and Walden Yan, Cognition is best known for Devin, an AI coding agent designed to automate software engineering tasks.\nCognition's rapid valuation climb underscores the investor frenzy around AI coding, one of the hottest and most competitive corners of the AI market.\nA $75 billion valuation wouldn't be so far-fetched, as SpaceX just acquired fellow AI coding giant Cursor for $60 billion a few months ago.",
@@ -100,7 +130,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjQ=",
+    "id": "Mjg=",
     "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
     "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
     "summary": "Panos Panay, Amazon\u2019s senior vice president of Devices and Alexa, says a couple hundred million people now use Alexa+, the revamped version of the decade-old voice assistant, on its Echo devices.\nTo keep that momentum going, Amazon has new Echo products to deliver a richer Alexa+ experience, including minor refreshes on existing hardware and entirely new categories.\nAnnounced Wednesday and available for purchase now, they include the Echo Dot ($100), Echo Studio With Home Camera ($250), Echo Show 16 ($500), Echo Time ($200), and the first Alexa Photo Frame ($200).\nThat\u2019s higher than the marked-up prices on existing Amazon devices from this summer, which the company blamed on the memory shortage.\nEcho DotThe new Echo Dot costs $100 and comes in four colors.",
@@ -110,7 +140,17 @@
     "source": "Wired"
   },
   {
-    "id": "MjU=",
+    "id": "Mjk=",
+    "url": "https://www.businessinsider.com/google-employee-count-soars-tech-industry-layoffs-chart-2026-10#article",
+    "title": "This chart shows how much Google's head count surged in the AI boom",
+    "summary": "While AI may be driving some companies to slash their head count, Google's is soaring.\nWhen Google reported its Q3 earnings on Wednesday, it said it had 204,757 employees for the quarter ending September 2026.\nThe uptick in head count runs counter to another trend across the tech industry, where some of Google's peers are slashing their workforces.\nSome of Google's head count growth can be attributed to mergers and acquisitions.\nWhile the head count has grown somewhat steadily since Q2 2024, it has accelerated since the end of 2025.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-29T18:56:31Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzA=",
     "url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10#article",
     "title": "Dalet Labs Raises $7 Million for Shopping App Scene: Pitch Deck",
     "summary": "The company did not share further details on what brands Dalet Labs has already established relationships with.\nUsing influencers and social media to promote the app will be a core part of Dalet Labs' user acquisition plan.\nIt also plans to roll out a coupon campaign during the holidays, offering new users discounts on purchases made through the Scene app.\nThen it explains Dalet Labs' thesisCourtesy of Dalet LabsHere's what the slide says:Today, artificial intelligence represents the most profound computing shift since the PC.\nFinally, it introduces Dalet Labs' founderCourtesy of Dalet LabsHere's what the slide says:Omer Bar-Tal",
@@ -120,67 +160,47 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjY=",
-    "url": "https://www.businessinsider.com/ai-scams-older-americans-experts-red-flags-2026-10#article",
-    "title": "AI Scams Targeting Older Americans: 5 Experts Share Advice",
-    "summary": "Don Grant advises that having open conversations about financial fraud is one of the most effective ways to educate older Americans.\nDon Grant advises that having open conversations about financial fraud is one of the most effective ways to educate older Americans.\nFake technical support scammers contact you with claims of a breach at your bank or financial institution.\nTake the time to log into a verifiable site and call a verifiable number with questions.\nI have open conversations about financial fraud, anonymously citing actual situations where a scammer attempted to separate them from their money.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-27T09:00:02Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-    "title": "The Download: dead startups fueling AI and interspecies communication",
-    "summary": "This is our latest story to become an MIT Technology Review Narrated podcast, which we publish each week on Spotify and Apple Podcasts.\nJust navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it\u2019s released.\n1 Hackers have disrupted the US Federal Election Commission\u2019s websiteThe FEC filing system went offline a week before the midterms.\n(MIT Technology Review)2 Starlink restrictions have driven US allies to rethink their dependenceRestrictions in Ukraine have spooked officials across Europe.\n(MIT Technology Review)",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-28T12:10:00Z",
-    "source": "MIT Technology Review"
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://www.businessinsider.com/anthropic-ipo-filing-reveals-looming-threat-to-nvidia-pricing-power-2026-10#article",
-    "title": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing",
-    "summary": "Anthropic is hedging its bets by using multiple chips to handle its AI work \u2014 a strategy that could eventually erode Nvidia's dominance.\nAshish Nadkarni, an analyst at IDC, added that a multichip approach also makes Anthropic less vulnerable to fluctuations in Nvidia's chip supply.\nBreaking Nvidia's grip isn't easyAlthough Anthropic's chip mix isn't new, the company is now pitching it as a core advantage to investors, Moorhead said.\nAnthropic also continues to spend billions on Nvidia compute, Moorhead said.\nThere's a broader risk for Nvidia if AI compute becomes more of a commodity.",
+    "id": "MzE=",
+    "url": "https://www.cnet.com/news/privacy/homeland-security-leak-government-surveillance-icepick/",
+    "title": "The Massive DHS Breach Is Hacktivist Payback for Government Surveillance",
+    "summary": "The hacktivist crimew described the leak as an \u201cunprecedented\u201d and \u201cmassive\u201d exposure of the DHS\u2019s internal structure.\nMore from CNETThe breach appears to be the latest retaliation against government-led surveillance, including ICE\u2019s increasingly tech-driven enforcement tactics and private partnerships with companies such as Flock Security.\nFrom the outside, hacktivists are targeting their infrastructure (like this recent breach) to unmask federal agents and leak their surveillance toolkits.\nThe recent massive DHS breach isn\u2019t a random, isolated cyberattack.\n\u201cEven in the face of a domestic law enforcement presence with massive surveillance capabilities and military-esque technologies, there are still ways to engage in surveillance self-defense.\u201d",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-10-27T19:31:17Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-10-29T23:40:54Z",
+    "source": "CNET"
   },
   {
-    "id": "Mjk=",
-    "url": "https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10#article",
-    "title": "This 11-Person Startup Raised $40 Million to Train Robots in Virtual Worlds",
-    "summary": "A London-based robotics startup is betting it can teach robots new tricks without collecting the mountains of real-world data its much bigger rivals are chasing.\nWhile rivals building general-purpose AI models for robots are scrambling to amass real-world data, Machenta is taking a contrarian approach.\nIn a video shared with Business Insider, three robots pack and close a box on an assembly line, a task Johns said they learned this way.\nMachenta's team Oscar MayCompanies are increasingly buying and collecting data to teach robots how to interact with the real world.\nJohns said that Machenta is taking on the harder challenge of designing algorithms that can generate synthetic data useful for teaching robots physical tasks.",
+    "id": "MzI=",
+    "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+    "title": "Amazon\u2019s AI shopping assistant can now edit your grocery lists and gift registries",
+    "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nAmazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries.\nAs an example, Amazon says you can now ask Alexa for Shopping to \u201cCreate a new shopping list\u201d or \u201cShow me what\u2019s left on my wedding registry.\u201dThe ecommerce giant has continued to expand on its Alexa for Shopping assistant since its official launch in May, while resisting third-party AI shopping agents from companies like Meta and Perplexity.\nAlexa for Shopping lives next to the search bar across Amazon\u2019s app and website, and can do things like set price alerts, compare items, and automatically purchase products when they drop below a set price.\nAlong with the ability to manage registries and lists, Alexa for Shopping can now update your delivery instructions, answer billing questions about unrecognized charges and refunds, as well as pause and change recurring deliveries.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-10-27T10:00:01Z",
+    "publishedAt": "2026-10-29T13:52:48Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://www.businessinsider.com/barry-diller-career-pivots-ai-in-media-mgm-deal-2026-10#article",
+    "title": "Barry Diller talks career pivots, AI in media, and MGM deal",
+    "summary": "Media titan Barry Diller, the chairman of publishing empire IAC, has built and rebuilt his career more than most executives, from network television to Hollywood studios to the earliest internet empires.\nAs part of Business Insider's The Long Play, Diller talked to Peter Kafka, Business Insider's chief correspondent covering media and technology, about what successful businesses require: good timing, nerve, and the willingness to walk away from what's working.\nDuring this conversation, titled \"The Art of the Comeback: A Masterclass on Resilience,\" Diller shares his perspectives on AI adoption.\nHe also talks about why his MGM Resorts deal fell apart and how he's leveraging legacy print publications like Southern Living to create new revenue streams.\nThe 84-year-old media and tech exec told Kafka he wants to keep working as long as he can be engaged and useful.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-29T22:07:54Z",
     "source": "Business Insider"
   },
   {
-    "id": "MzA=",
-    "url": "https://www.businessinsider.com/biologist-predicted-death-insurance-longevity-habits-2026-10#article",
-    "title": "I've spent seven figures on longevity technology. I still think 4 simple habits matter more.",
-    "summary": "When I worked for insurance companies, I used their data to analyze the specific factors that affected individual life expectancy.\nPut sleep on the calendar and don't use your phone in bedSleep is one of the most critical aspects of longevity.\nI've spent big on health technologiesThe basic tenets of longevity \u2014 sleep, community, exercise, and unprocessed foods \u2014 will allow me to live a happy, healthy life.\nI've spent well into seven figures on health technology, including saunas, cold plunges, red light beds, and hyperbaric chambers at my two houses.\nBut I also know that you can't skip the basics of healthy living, no matter what cutting-edge technology you have access to.",
+    "id": "Mzk=",
+    "url": "https://www.businessinsider.com/ai-data-centers-backlash-debate-poll-midterm-election-2026-10#article",
+    "title": "Many voters say AI data centers will shape their midterm vote \u2014 but it\u2019s not their top concern",
+    "summary": "Many Americans are worried about AI data centers \u2014 and they plan to vote accordingly \u2014 but the colossal AI-powering warehouses aren't their main concern ahead of next week's midterm elections.\nWhen separated by political party, Republicans emerged as the group more apathetic to data centers.\nGreg Abbott, once a champion of AI data center expansion, said in August that the state had halted as many as 1,800 data center proposals.\nWithout AI data centers, they can't power the products they sell.\nSam Altman has recently suggested that new data centers could be built far from where people live, like the desert.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-28T09:12:01Z",
+    "bias": "center",
+    "publishedAt": "2026-10-29T17:31:54Z",
     "source": "Business Insider"
   },
   {
-    "id": "MzE=",
-    "url": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
-    "title": "The New M6 MacBook Pro Has a Serious Price Problem",
-    "summary": "Just yesterday, Apple refreshed its 14-inch MacBook Pro with the new M6 chip inside, and it\u2019s currently available for preorder.\nThe 14-inch M6 MacBook Pro currently costs $1,999.\nApple raised prices across all Macs earlier this year, but the base 14-inch MacBook Pro got hit the hardest, with a $300 bump.\nIt was already an awkward configuration, as it used the same M5 chip as the much cheaper MacBook Air models.\nThe addition of the M6 seems like it\u2019ll add some value, especially with the improvements to GPU performance I saw in the M6 Mac Mini.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-10-28T18:57:22Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MzY=",
+    "id": "NDU=",
     "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
     "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
     "summary": "Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world\u2019s server vendors and data centers.\nProject Mu, Microsoft\u2019s hardened EDK2 fork, used the code containing the vulnerable component as well.\nFurther compounding the urgency, patching UEFI code vulnerabilities in millions of end devices sold and used by thousands of hardware makers and cloud providers is cumbersome and time-consuming.\nWord of the vulnerability comes six days after another botched disclosure, this one involving a critical code-execution vulnerability in the PHP programming language.\nDuring this process\u2014known as the pre-execution environment boot\u2014the driver uses a network listener to monitor for ICMP errors.",
@@ -190,37 +210,17 @@
     "source": "Wired"
   },
   {
-    "id": "NDA=",
-    "url": "https://www.cnet.com/home/electric-vehicles/ford-fathom-ev-truck-cheaper-built-in-bidirectional-home-charging/",
-    "title": "Ford\u2019s Most Affordable EV Will Offer Built-in Bidirectional Home Charging",
-    "summary": "Historically, true bidirectional power has been a premium feature on more expensive electric cars and has required additional, costly home hardware.\nFord Fathom and Universal EV PlatformThe upcoming Fathom will be based on what Ford calls its Universal EV Platform, designed with the aid of its 2023 acquisition, startup Auto Motive Power, with bidirectional power on the plate from the start.\nBy moving the DC-to-AC inverter into the Fathom\u2019s hardware, Ford says it can reduce the total cost of home bidirectional power.\nThe Ford Fathom will be available for preorder in 2027.\nAnd considering the rising cost of energy (both electricity and fuel), this setup may pay for itself relatively quickly.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-27T19:31:21Z",
-    "source": "CNET"
-  },
-  {
-    "id": "NTI=",
-    "url": "https://www.cnet.com/tech/mobile/ultrahuman-ring-pro-hits-us-shelves-amid-oura-lawsuit/",
-    "title": "The Ultrahuman Ring Pro Hits US Shelves Amid Oura Lawsuit",
-    "summary": "Priced at $479, the Ring Pro requires no extra subscription to track heart rate, heart rate variability, skin temperature, sleep, movement, stress, recovery and your circadian rhythm.\nIn May, the company also launched a Kickstarter campaign with the Ring Pro at up to 43% off.\nThe Ultrahuman Ring Pro in aster black.\nUltrahumanThe Ring Pro\u2019s pros and consCNET Principal Writer Vanessa Hand Orellana has been testing the Ring Pro for months.\nThe Ultrahuman Ring Pro is also available in raw titanium.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-28T19:47:48Z",
-    "source": "CNET"
-  },
-  {
-    "id": "NTM=",
-    "url": "https://www.cnet.com/tech/mobile/battle-smart-rings-oura-filed-lawsuit-against-ultrahuman-again/",
-    "title": "Battle of the Smart Rings: Oura Sues Ultrahuman for Patent Infringement \u2014 Again",
-    "summary": "The legal battle between Oura, maker of the Oura Ring, and Ultrahuman, maker of the Ultrahuman Ring Pro, continues.\nOura said that the Ultrahuman Ring Pro infringed on its design and utility patents.\nMore from CNETOura\u2019s smart ring legal battlesOura sued Ultrahuman in Texas in 2023 for patent infringement over the company\u2019s ring, then the Ring Air.\nIn March 2024, Oura filed a patent infringement complaint with the US International Trade Commission against Ultrahuman, RingConn and Circular.\nThis comes after Samsung preemptively sued Oura in May 2024 to prevent Oura from suing Samsung over patent infringement.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-27T22:30:38Z",
-    "source": "CNET"
-  },
-  {
     "id": "NTQ=",
+    "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+    "title": "Hackers expose the identities of more than 40,000 DHS employees",
+    "summary": "Hackers expose the identities of more than 40,000 DHS employeestoggle caption i Heather Diehl/Getty Images North AmericaA hacking group cracked the U.S. Department of Homeland Security's personnel files, exposing the names, phone numbers and addresses of more than 40,000 DHS agents, operatives, and associates, on Wednesday, including those involved in undercover operations.\nThe hackers said they stole the data by subverting DHS's single sign on system, according to an online post.\nIt said it distributed that material to the group Distributed Denial of Secrets, which posted it online in a database called Icepick.\nTogether, the two created a searchable online database, with crimew doing all of the technical work, Ottignon told NPR.\nIn a note attached to the files, the Department of Peace wrote, \"They have our information, so it's only fair that we have theirs.\"",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-29T03:28:50Z",
+    "source": "NPR"
+  },
+  {
+    "id": "NTk=",
     "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
     "title": "Foreign gadget bans: all the news about the FCC\u2019s clampdown on Chinese tech",
     "summary": "What do drones, routers, and Roombas have in common?\nThey\u2019re the first consumer gadgets that are facing de facto import bans because of the US government\u2019s xenophobic stance \u2014 and they might not be the last.\nNext was a ban on all future foreign routers, all future foreign robots and power inverters, and within the robot ban, all future foreign robovacs.\nBesides, there are rarely any US companies to fill the gaps left by foreign ones.\nConsumer gadgets are largely made overseas, including practically all routers and practically all drones \u2014 just like how your Apple, Dell, and HP laptops are not made in the US.",
@@ -230,7 +230,7 @@
     "source": "The Verge"
   },
   {
-    "id": "NjA=",
+    "id": "NjU=",
     "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
     "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
     "summary": "The Verge: When it arrives in 2027, what percent of the components in the BlueChip laptop will be made in the US?\nIt\u2019s gonna be a whole mix of things based on when do certain memory fabs come online?\nI know the glass is gonna be made in the US, I know the frame is gonna be made in the US around that display.\nI think most likely the thing that we ship is not going to be 100-percent American.\nI would love to give you guys an American, 100-percent American laptop right off the bat, but that is not the environment the US government has created or US industry has created.",
