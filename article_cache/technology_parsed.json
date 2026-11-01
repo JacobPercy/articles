@@ -1,6 +1,6 @@
 [
   {
-    "id": "OQ==",
+    "id": "Mw==",
     "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
     "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
     "summary": "Trading has resumed on Polymarket\u2019s flagship international platform after a hack that drained money from the wallets of some traders.\nPolymarket declined to comment when WIRED asked how many traders were impacted by the breach and how much money was lost, but the company said it will refund impacted traders.\nThe hack did not impact users on Polymarket US, the company\u2019s newer platform for people within the United States.\nThis is not the first time that Polymarket traders have experienced security woes.\nIn June 2026, Polymarket experienced another breach, which resulted in over $2 million in losses for impacted traders.",
@@ -10,7 +10,7 @@
     "source": "Wired"
   },
   {
-    "id": "MTA=",
+    "id": "Ng==",
     "url": "https://www.cnet.com/tech/services-and-software/mistral-new-le-chonk-ai-model-open-source-available/",
     "title": "Mistral\u2019s New \u2018Le Chonk\u2019 AI Model Is Big, Open and Now Available for Download",
     "summary": "New AI models are coming, and they don\u2019t stop coming.\nOn the heels of the recent rollouts of Meta\u2019s Muse and Google\u2019s Gemini 4 Carbon, Mistral AI is launching its new flagship frontier model, Mistral Large 4.\nThe model \u2013 affectionately known as \u201cLe Chonk\u201d \u2013 was available in public preview earlier this month.\nKey capabilities of Mistral Large 4Lample and Stock said that Mistral Large 4 was built to process both text and images, closing performance gaps from previous Mistral models.\nAgentic AI\u201cReally, the core competency we\u2019re looking at for ML4 is agentic capabilities,\u201d Stock said.",
@@ -20,7 +20,17 @@
     "source": "CNET"
   },
   {
-    "id": "MTQ=",
+    "id": "OA==",
+    "url": "https://www.businessinsider.com/binance-cofounder-cz-elon-musk-trolling-hack-crypto-spacex-2026-10#article",
+    "title": "Binance cofounder asks Elon Musk to please stop trolling at a time like this",
+    "summary": "Musk set his sights on Binance cofounder Changpeng \"CZ\" Zhao on Thursday after hackers breached the cryptocurrency trading platform.\nWhile Binance users panicked and crypto markets wavered, Musk, who has tangled online with the Binance cofounder before, couldn't resist.\nIn a post, CZ told an X user that Binance would cover all the losses from the hacking incident, prompting another user to compare Binance to the now-bankrupt FTX.\n@cz_binance \ud83d\udd25\ud83d\ude02 \u2014 Elon Musk (@elonmusk) October 30, 2026\"I wish everyone followed that advice.\nAdd to Preferred SourcesBinance said Friday that it has begun recovering users' assets affected by the breach.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-30T16:03:41Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MTE=",
     "url": "https://finance.yahoo.com/markets/article/alphabet-and-microsoft-are-on-both-sides-of-the-ai-booms-biggest-bills-chart-of-the-day-100000027.html",
     "title": "Alphabet and Microsoft are on both sides of the AI boom's biggest bills: Chart of the Day",
     "summary": "Both rent computing power to the AI labs and own stakes in them, but this quarter Microsoft cashed in while Alphabet's bets cost it.\nMicrosoft (MSFT) stock rose about 2% after hours, while Alphabet (GOOGL, GOOG) fell over 9%, on track for its worst day since October 2023, after its sales came up short.\nThat's about 11% of Microsoft's $92 billion in revenue, and more than its Xbox and Windows businesses brought in combined.\nOpenAI's unpaid bills to Microsoft rose to about $7 billion from $6 billion three months earlier.\nMeta (META) took a similar route with its nearly $100 billion stock sale.",
@@ -31,43 +41,43 @@
   },
   {
     "id": "MTY=",
-    "url": "https://www.businessinsider.com/scott-bessent-neocloud-debt-not-problematic-ai-treasury-secretary-2026-10#article",
-    "title": "Scott Bessent says neocloud debt isn't problematic at all",
-    "summary": "Treasury Secretary Scott Bessent weighed in on the neocloud debt debate that recently rattled the AI trade, and he doesn't seem too concerned.\nIn a CNBC interview Wednesday, Bessent was asked about yields on some AI-related debt climbing into the double digits.\nThe neocloud industry, which includes players such as CoreWeave and Nebius, provides cloud computing services to AI customers.\nThe Roundhill Neocloud ETF, which invests in major neocloud players such as CoreWeave, Nebius, and IREN, has fallen 24% over the past month.\nHe added that SpaceX would not be acquiring any neocloud companies.",
+    "url": "https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html",
+    "title": "Binance hacked for record $6.3 billion, withdrawals suspended after \"complex attack\"",
+    "summary": "Customer withdrawals have been temporarily suspended, and co-CEO Richard Teng promised the exchange will cover all losses.\nBinance co-CEO Yi He said in a separate social media post Friday morning that customer withdrawals should resume within 48 hours.\nOther major crypto assets also tumbled after the hack, with ether (ETH-USD) dropping 4% to around $2,200.\nBinance said that about $3 billion in assets have been \"frozen on-chain so far.\"\nTether, the world's largest stablecoin issuer, \"froze more than 1.567B\" of its USDT stablecoin in relation to the hack,\" CEO Paolo Ardoino said on X.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-29T07:05:14Z",
-    "source": "Business Insider"
+    "bias": "lean right",
+    "publishedAt": "2026-10-30T13:56:05Z",
+    "source": "Yahoo Entertainment"
   },
   {
-    "id": "MTg=",
-    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-    "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
-    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \u201csignificant gains\u201d in coding, agentic tasks, and cybersecurity.\nIn an announcement on Wednesday, Google highlights Carbon\u2019s top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month.\nCarbon sits ahead of Claude Opus 5.5 and GPT-6 Astra.\nGemini 4 Carbon also beat GPT-6 Astra on the SEC-bench Pro cybersecurity benchmark.",
+    "id": "MTc=",
+    "url": "https://finance.yahoo.com/markets/article/the-binance-hack-is-way-bigger-than-any-other-known-heist-in-the-crypto-world-175821798.html",
+    "title": "The Binance hack is way bigger than any other known heist in the crypto world",
+    "summary": "The estimated $6.3 billion theft reported Thursday by crypto exchange Binance isn't the first time the industry has dealt with a major, unexpected incident in which large sums of customer assets are frozen, spurring a rout in crypto stocks.\nYahoo FinanceThe Binance hack has rattled crypto markets: Bitcoin (BTC), other digital assets, and related stocks have sunk over the last 24 hours.\nThe company has temporarily suspended customer withdrawals, and outside investigators are racing to track down the stolen funds.\nNearly $1.5 billion stolen from Bybit in February 2025Hackers linked to North Korea stole nearly $1.5 billion in ether from cryptocurrency exchange Bybit.\nIn an unusual development, the attacker subsequently returned nearly all of the stolen assets, claiming they did it \"for fun\" and to expose a software vulnerability.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-28T20:03:00Z",
-    "source": "The Verge"
+    "bias": "lean right",
+    "publishedAt": "2026-10-30T17:58:21Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+    "title": "The two most interesting risks to Anthropic",
+    "summary": "The two most interesting risks to AnthropicYou're reading a newsletter from The Indicator from Planet Money.\nNow, every set is exported to the U.S.toggle caption i Justin Sullivan/Getty Images North AmericaComing up:The risks to Anthropic's (and AI's) businessWhy we're saying 'buyout' and not 'layoff'How young people are doing with AI summariesNew's We're WatchingThe two most interesting risks to Anthropic - U.S. Securities & Exchange CommissionWhat to Know: Anthropic gave the world 94 pages of risks to its business (slash the entire AI economy) in its IPO prospectus aka the S-1.\nIt wouldn't be Anthropic if they didn't discuss the \"existential risks\" to humanity and society several times.\nThen Anthropic is stuck like CHUMPS in a contract paying a premium for old hardware, while some competitors may be doing more for less.\nOne interesting takeaway: this shift from human-to-bot traffic changes the business model of the internet.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-30T11:00:00Z",
+    "source": "NPR"
   },
   {
     "id": "MjA=",
-    "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o",
-    "title": "Neighbours: AI micro-drama recut of Australian show focusing on Margot Robbie worries actors and crew",
-    "summary": "Former Neighbours actors and crew have raised concerns about plans to use AI to help re-edit old footage and make mini episodes for mobile phone viewers.\nFootage of Margot Robbie, who played Donna Freedman from 2008 to 2011, will be the initial focus of the micro-drama.\nThe micro-drama episodes will use \"original, previously broadcast footage, dialogue and performances\", according to Fremantle spokesman.\nUsing AI to help make short episodes from old footage was \"like cutting up a Picasso and rebuilding it\".\n\"Workers should be consulted before their likeness or expertise is used in a way they could never had envisioned when they signed contracts decades ago,\" said MEAA's acting CEO Adam Portelli.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+    "title": "Silicon Valley wants you to invest in miracles",
+    "summary": "Anthropic\u2019s 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley\u2019s interactions with Wall Street.\nIn the letter, Anthropic\u2019s founders urge prospective stock owners \u201cnot to think of your purchase in purely transactional terms.\nSome of the statements in Anthropic\u2019s S-1 read as surprising admissions.\n\u201cPowerful AI\u201d \u2014 Anthropic\u2019s term for hypothetical future AI that surpasses collective human intelligence \u2014 is presented in the company\u2019s S-1 as inevitable.\nAnd besides, he added, \u201cnobody knows\u201d what will happen once a company goes public, including the company itself.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-29T03:15:35Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "MjE=",
-    "url": "https://www.cnet.com/tech/services-and-software/google-genie-4-gemini-4-carbon-ai-news/",
-    "title": "Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know",
-    "summary": "Google is back with another new frontier AI model, just two weeks after its last release.\nAnd if you\u2019re a fan of world models, there\u2019s good news there, too: Google\u2019s latest, Genie 4, also debuted this week.\nWhereas chatbots predict the next word in a sentence, world models are grounded in the physics of a digital universe.\nYou may have heard of two AI bigwigs, Fei-Fei Li and Yann LeCun, building world models in their respective start-ups.\nMore from CNETNeither of these new models, Gemini 4 Carbon nor Genie 4, is available to the general public yet.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-28T20:51:37Z",
-    "source": "CNET"
+    "bias": "left",
+    "publishedAt": "2026-10-30T13:11:05Z",
+    "source": "The Verge"
   },
   {
     "id": "MjI=",
@@ -80,17 +90,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjM=",
+    "id": "MjQ=",
     "url": "https://news.slashdot.org/story/26/10/29/1741210/canada-to-join-eu-network-of-supercomputers",
     "title": "Canada to Join EU Network of Supercomputers",
-    "summary": "\"A child is a person who can't understand why someone would give away a perfectly good kitten.\"\n-- Doug Larson",
+    "summary": "It's a poor workman who blames his tools.",
     "category": "technology",
-    "bias": "left",
+    "bias": "lean left",
     "publishedAt": "2026-10-29T18:00:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MjQ=",
+    "id": "MjU=",
     "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
     "title": "Microsoft\u2019s AI future has fewer jobs",
     "summary": "Playground Games studio head Trevor Williams revealed the news in a recent internal memo, seen by Notepad.\nBoth Playground Games and Turn 10 Studios have merged into just Playground Games.\nThe studio now has two locations: Playground Games Leamington Spa and Playground Games Redmond.\nSources familiar with Bethesda\u2019s plans tell me that the Xbox-owned publisher is about to announce that the next Elder Scrolls game will officially be called The Elder Scrolls VI: Sentinel.\nI understand that Sentinel will be set in Hammerfell, a province in the Elder Scrolls universe that\u2019s appeared in The Elder Scrolls Adventures: Redguard and The Elder Scrolls Online.",
@@ -100,7 +110,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MjU=",
+    "id": "MjY=",
     "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
     "title": "Apple\u2019s new laptop supports one of the coolest features for color pros",
     "summary": "It\u2019s the first laptop, and only the second product overall, to support Apple CMF 2026 color modes.\nThe specification that\u2019s been the standard for years is CIE 1931 (CIE stands for Commission Internationale de l\u2019\u00c9clairage, or International Commission on Illumination).\nCIE 1931 doesn\u2019t properly handle that and was created based on only 17 test subjects.\nApple CMF 2026 addresses that, so that displays look the same regardless of the technology they use.\nColor science and display technologies have come a long way since 1931, when the CIE 1931 color space was established.",
@@ -110,7 +120,27 @@
     "source": "The Verge"
   },
   {
-    "id": "MjY=",
+    "id": "Mjc=",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "summary": "With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.\nCurrently, sites have to signal their AI training preferences separately to each AI company.\nThe announcement comes as publishers grapple with the continuing influx of AI crawlers scraping their sites and feeding their content into AI models.\nOpenAI, Google, Microsoft, and Anthropic say they will restrict their AI crawlers from accessing a site if they encounter the shared token.\nGoogle previously implemented similar controls that allow sites to control whether their content appears in AI search features or is used for AI training, without impacting visibility in search.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-30T20:26:10Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.entrepreneur.com/business-news/tech/ai-and-emerging-tech-are-changing-how-people-travel-heres-how-travel-businesses-can-stay-visible-and-valuable",
+    "title": "AI and Emerging Tech Are Changing How People Travel. Here\u2019s How Travel Businesses Can Stay Visible and Valuable",
+    "summary": "Travel advisors should be able to answer three questions: Who are you?\nThat\u2019s why I don\u2019t see the future of AI in travel as a choice between technology and travel advisors.\nHow virtual reality is changing travel planningIf AI helps travelers understand their options, virtual reality can help them visualize those options.\nI think a better question for leaders is: What can this technology help people do better?\nThe future of travel technology shouldn\u2019t be about removing the human element.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-31T01:00:00Z",
+    "source": "Entrepreneur"
+  },
+  {
+    "id": "Mjk=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
     "title": "The NYT Cooking app is testing AI recipe modifications",
     "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users.\nCustomized recipes are private and can\u2019t be published or shared through the app.\nImage: Jennifer Pattison Tuohy / The Verge\u201cUnbelievably disappointing to see,\u201d said another NYT user.\n\u201cI\u2019ve always loved NYT Cooking and it pains me that the AI mandate has reached what used to be a wonderful and simple collection of recipes and notes from all sorts of different people.\u201dThis isn\u2019t the first time that AI has been used by the NYT Cooking app.\nClosing comments on older articles is standard practice at The Times so that our moderators can focus on new discussions.",
@@ -120,47 +150,7 @@
     "source": "The Verge"
   },
   {
-    "id": "Mjc=",
-    "url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10#article",
-    "title": "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation",
-    "summary": "Just weeks after announcing a new round of funding at a $48 billion valuation, AI coding startup Cognition is fielding new investor interest at a much higher price.\nThe startup has received offers valuing it at between $70 billion and $80 billion and is seriously considering a round before the end of the year, according to sources familiar with the matter.\nFounded in 2023 by Scott Wu, Steven Hao, and Walden Yan, Cognition is best known for Devin, an AI coding agent designed to automate software engineering tasks.\nCognition's rapid valuation climb underscores the investor frenzy around AI coding, one of the hottest and most competitive corners of the AI market.\nA $75 billion valuation wouldn't be so far-fetched, as SpaceX just acquired fellow AI coding giant Cursor for $60 billion a few months ago.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-28T15:56:41Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
-    "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-    "summary": "Panos Panay, Amazon\u2019s senior vice president of Devices and Alexa, says a couple hundred million people now use Alexa+, the revamped version of the decade-old voice assistant, on its Echo devices.\nTo keep that momentum going, Amazon has new Echo products to deliver a richer Alexa+ experience, including minor refreshes on existing hardware and entirely new categories.\nAnnounced Wednesday and available for purchase now, they include the Echo Dot ($100), Echo Studio With Home Camera ($250), Echo Show 16 ($500), Echo Time ($200), and the first Alexa Photo Frame ($200).\nThat\u2019s higher than the marked-up prices on existing Amazon devices from this summer, which the company blamed on the memory shortage.\nEcho DotThe new Echo Dot costs $100 and comes in four colors.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-28T12:01:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "Mjk=",
-    "url": "https://www.businessinsider.com/google-employee-count-soars-tech-industry-layoffs-chart-2026-10#article",
-    "title": "This chart shows how much Google's head count surged in the AI boom",
-    "summary": "While AI may be driving some companies to slash their head count, Google's is soaring.\nWhen Google reported its Q3 earnings on Wednesday, it said it had 204,757 employees for the quarter ending September 2026.\nThe uptick in head count runs counter to another trend across the tech industry, where some of Google's peers are slashing their workforces.\nSome of Google's head count growth can be attributed to mergers and acquisitions.\nWhile the head count has grown somewhat steadily since Q2 2024, it has accelerated since the end of 2025.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-29T18:56:31Z",
-    "source": "Business Insider"
-  },
-  {
     "id": "MzA=",
-    "url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10#article",
-    "title": "Dalet Labs Raises $7 Million for Shopping App Scene: Pitch Deck",
-    "summary": "The company did not share further details on what brands Dalet Labs has already established relationships with.\nUsing influencers and social media to promote the app will be a core part of Dalet Labs' user acquisition plan.\nIt also plans to roll out a coupon campaign during the holidays, offering new users discounts on purchases made through the Scene app.\nThen it explains Dalet Labs' thesisCourtesy of Dalet LabsHere's what the slide says:Today, artificial intelligence represents the most profound computing shift since the PC.\nFinally, it introduces Dalet Labs' founderCourtesy of Dalet LabsHere's what the slide says:Omer Bar-Tal",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-28T12:00:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MzE=",
     "url": "https://www.cnet.com/news/privacy/homeland-security-leak-government-surveillance-icepick/",
     "title": "The Massive DHS Breach Is Hacktivist Payback for Government Surveillance",
     "summary": "The hacktivist crimew described the leak as an \u201cunprecedented\u201d and \u201cmassive\u201d exposure of the DHS\u2019s internal structure.\nMore from CNETThe breach appears to be the latest retaliation against government-led surveillance, including ICE\u2019s increasingly tech-driven enforcement tactics and private partnerships with companies such as Flock Security.\nFrom the outside, hacktivists are targeting their infrastructure (like this recent breach) to unmask federal agents and leak their surveillance toolkits.\nThe recent massive DHS breach isn\u2019t a random, isolated cyberattack.\n\u201cEven in the face of a domestic law enforcement presence with massive surveillance capabilities and military-esque technologies, there are still ways to engage in surveillance self-defense.\u201d",
@@ -171,46 +161,46 @@
   },
   {
     "id": "MzI=",
-    "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
-    "title": "Amazon\u2019s AI shopping assistant can now edit your grocery lists and gift registries",
-    "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nAmazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries.\nAs an example, Amazon says you can now ask Alexa for Shopping to \u201cCreate a new shopping list\u201d or \u201cShow me what\u2019s left on my wedding registry.\u201dThe ecommerce giant has continued to expand on its Alexa for Shopping assistant since its official launch in May, while resisting third-party AI shopping agents from companies like Meta and Perplexity.\nAlexa for Shopping lives next to the search bar across Amazon\u2019s app and website, and can do things like set price alerts, compare items, and automatically purchase products when they drop below a set price.\nAlong with the ability to manage registries and lists, Alexa for Shopping can now update your delivery instructions, answer billing questions about unrecognized charges and refunds, as well as pause and change recurring deliveries.",
+    "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+    "title": "Google\u2019s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+    "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills.\nRight now, Google\u2019s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low.\nGoogle\u2019s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort.\nIt can also suggest schedule changes to save energy and automatically adjusts the temperature when you\u2019re away.\nThe Nest Learning Thermostat also improves on its predecessor with a beautifully designed adaptive display that shows your temperature settings, the weather, and the time from across the room.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-10-29T13:52:48Z",
+    "publishedAt": "2026-10-30T15:29:02Z",
     "source": "The Verge"
   },
   {
     "id": "MzM=",
-    "url": "https://www.businessinsider.com/barry-diller-career-pivots-ai-in-media-mgm-deal-2026-10#article",
-    "title": "Barry Diller talks career pivots, AI in media, and MGM deal",
-    "summary": "Media titan Barry Diller, the chairman of publishing empire IAC, has built and rebuilt his career more than most executives, from network television to Hollywood studios to the earliest internet empires.\nAs part of Business Insider's The Long Play, Diller talked to Peter Kafka, Business Insider's chief correspondent covering media and technology, about what successful businesses require: good timing, nerve, and the willingness to walk away from what's working.\nDuring this conversation, titled \"The Art of the Comeback: A Masterclass on Resilience,\" Diller shares his perspectives on AI adoption.\nHe also talks about why his MGM Resorts deal fell apart and how he's leveraging legacy print publications like Southern Living to create new revenue streams.\nThe 84-year-old media and tech exec told Kafka he wants to keep working as long as he can be engaged and useful.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-29T22:07:54Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mzk=",
-    "url": "https://www.businessinsider.com/ai-data-centers-backlash-debate-poll-midterm-election-2026-10#article",
-    "title": "Many voters say AI data centers will shape their midterm vote \u2014 but it\u2019s not their top concern",
-    "summary": "Many Americans are worried about AI data centers \u2014 and they plan to vote accordingly \u2014 but the colossal AI-powering warehouses aren't their main concern ahead of next week's midterm elections.\nWhen separated by political party, Republicans emerged as the group more apathetic to data centers.\nGreg Abbott, once a champion of AI data center expansion, said in August that the state had halted as many as 1,800 data center proposals.\nWithout AI data centers, they can't power the products they sell.\nSam Altman has recently suggested that new data centers could be built far from where people live, like the desert.",
+    "url": "https://www.androidcentral.com/accessories/smart-home/google-rolls-out-an-update-that-finally-tightens-the-screws-on-gemini-for-home",
+    "title": "Google rolls out an update that finally tightens the screws on Gemini for Home",
+    "summary": "Google concludes the week with a substantial update for Gemini for Home and its smart home app that users should keep an eye out for.\nAccording to Google, this week's patch includes a fix for Gemini's frustrating \"Sorry, I didn't understand\" error messages.\n(Image credit: Google)The Google Home app is also receiving quite a few bug fixes/updates this week, beginning with Matter devices.\nThe patch notes state Android devices can now view energy data for supported Matter products.\nGoogle Home Premium users can now find their benefits by tapping on their Profile > Google Home Premium > Features (to enable, too).",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-10-29T17:31:54Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-10-30T10:22:00Z",
+    "source": "Android Central"
+  },
+  {
+    "id": "Mzg=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+    "summary": "\u201cA lot of people want local inference.\nAnd somehow, they assume that the problem is solved now because we are going to have open-source models, we\u2019re going to be able to run them on our computers, and so we\u2019re not going to need all the stuff in the data center.\nBut from a global allocation perspective, actually, it\u2019s quite terrible to have everybody have a bunch of the world\u2019s limited supply of DRAM sitting in their own computer and being used five percent of the time.\nYou want maximum utilization in the cloud if you\u2019re trying to deal with this very supply constrained environment.\nAnd somehow everyone\u2019s\u2014 many people\u2019s intuition is the opposite of that.\u201d",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-30T20:48:43Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://hackaday.com/2026/10/28/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster/",
+    "title": "Battery Prototype Uses Superextensive Quantum Effects To Charge Faster",
+    "summary": "Although the term \u2018quantum battery\u2019 is a bit of a vague term, the cell that [Kieran Hymas] et al.\ndemonstrate in a recent paper does seem to suggest that it uses quantum effects to charge faster than would otherwise be possible, with this rate increasing faster than its volume, meaning at a superextensive rate.\nThe general idea behind a quantum battery is that these somehow use a quantum effect to store and release energy faster than would be possible using classical physics.\nFirst proposed in 2013, the initial Dicke model saw its theoretical quantum advantage shot down by 2020, leading to the search for alternative models.\nEffectively scaling up the cell would thus scale up the charge- and discharge rate faster than in a conventional chemical cell.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-29T02:00:26Z",
+    "source": "Hackaday"
   },
   {
     "id": "NDU=",
-    "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
-    "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
-    "summary": "Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world\u2019s server vendors and data centers.\nProject Mu, Microsoft\u2019s hardened EDK2 fork, used the code containing the vulnerable component as well.\nFurther compounding the urgency, patching UEFI code vulnerabilities in millions of end devices sold and used by thousands of hardware makers and cloud providers is cumbersome and time-consuming.\nWord of the vulnerability comes six days after another botched disclosure, this one involving a critical code-execution vulnerability in the PHP programming language.\nDuring this process\u2014known as the pre-execution environment boot\u2014the driver uses a network listener to monitor for ICMP errors.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-28T20:30:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "NTQ=",
     "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
     "title": "Hackers expose the identities of more than 40,000 DHS employees",
     "summary": "Hackers expose the identities of more than 40,000 DHS employeestoggle caption i Heather Diehl/Getty Images North AmericaA hacking group cracked the U.S. Department of Homeland Security's personnel files, exposing the names, phone numbers and addresses of more than 40,000 DHS agents, operatives, and associates, on Wednesday, including those involved in undercover operations.\nThe hackers said they stole the data by subverting DHS's single sign on system, according to an online post.\nIt said it distributed that material to the group Distributed Denial of Secrets, which posted it online in a database called Icepick.\nTogether, the two created a searchable online database, with crimew doing all of the technical work, Ottignon told NPR.\nIn a note attached to the files, the Department of Peace wrote, \"They have our information, so it's only fair that we have theirs.\"",
@@ -221,16 +211,6 @@
   },
   {
     "id": "NTk=",
-    "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
-    "title": "Foreign gadget bans: all the news about the FCC\u2019s clampdown on Chinese tech",
-    "summary": "What do drones, routers, and Roombas have in common?\nThey\u2019re the first consumer gadgets that are facing de facto import bans because of the US government\u2019s xenophobic stance \u2014 and they might not be the last.\nNext was a ban on all future foreign routers, all future foreign robots and power inverters, and within the robot ban, all future foreign robovacs.\nBesides, there are rarely any US companies to fill the gaps left by foreign ones.\nConsumer gadgets are largely made overseas, including practically all routers and practically all drones \u2014 just like how your Apple, Dell, and HP laptops are not made in the US.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-10-28T19:37:31Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "NjU=",
     "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
     "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
     "summary": "The Verge: When it arrives in 2027, what percent of the components in the BlueChip laptop will be made in the US?\nIt\u2019s gonna be a whole mix of things based on when do certain memory fabs come online?\nI know the glass is gonna be made in the US, I know the frame is gonna be made in the US around that display.\nI think most likely the thing that we ship is not going to be 100-percent American.\nI would love to give you guys an American, 100-percent American laptop right off the bat, but that is not the environment the US government has created or US industry has created.",
@@ -238,5 +218,25 @@
     "bias": "right",
     "publishedAt": "2026-10-29T02:22:46Z",
     "source": "The Verge"
+  },
+  {
+    "id": "NjI=",
+    "url": "https://www.businessinsider.com/microsoft-insiders-explain-why-60-000-employees-got-buyout-offers-2026-10#article",
+    "title": "Microsoft's massive employee buyout spooked everyone. Here's what's really going on inside the company.",
+    "summary": "Business Insider spent recent days speaking with Microsoft insiders to find out what's really happening.\nMicrosoft doubled down later and told Business Insider it anticipates 3,000 or fewer employees will take the buyout.\nThat's led to speculation that more layoffs may come in the wake of this week's bigger buyout offer.\nThis person thinks Microsoft made latest buyout offer because some employees complained that they weren't eligible for the retirement buyout earlier this year.\n\"It's easier to opt-in giant organizations,\" one Microsoft executive told Business Insider.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-30T09:00:02Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Njk=",
+    "url": "https://abcnews.com/US/nvidia-denies-report-ceo-allegedly-targeted-chinese-spy/story?id=137704250",
+    "title": "Nvidia responds to report that its CEO was allegedly targeted in Chinese spy plot",
+    "summary": "Nvidia responds to report that its CEO was allegedly targeted in Chinese spy plotJensen Huang, CEO of NVIDIA, gives a keynote address at the NVIDIA Berlin GPU Technology Conference, October 21, 2026 in Berlin, Germany.\nJensen Huang, CEO of NVIDIA, gives a keynote address at the NVIDIA Berlin GPU Technology Conference, October 21, 2026 in Berlin, Germany.\nJensen Huang, CEO of NVIDIA, gives a keynote address at the NVIDIA Berlin GPU Technology Conference, October 21, 2026 in Berlin, Germany.\nJensen Huang, CEO of NVIDIA, gives a keynote address at the NVIDIA Berlin GPU Technology Conference, October 21, 2026 in Berlin, Germany.\nNvidia, a top chipmaker, is responding to a report that its CEO, Jensen Huang, was allegedly targeted in a Chinese spy plot.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-30T16:04:00Z",
+    "source": "Abcnews.com"
   }
 ]
