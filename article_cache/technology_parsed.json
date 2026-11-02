@@ -1,26 +1,6 @@
 [
   {
     "id": "Mw==",
-    "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-    "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-    "summary": "Trading has resumed on Polymarket\u2019s flagship international platform after a hack that drained money from the wallets of some traders.\nPolymarket declined to comment when WIRED asked how many traders were impacted by the breach and how much money was lost, but the company said it will refund impacted traders.\nThe hack did not impact users on Polymarket US, the company\u2019s newer platform for people within the United States.\nThis is not the first time that Polymarket traders have experienced security woes.\nIn June 2026, Polymarket experienced another breach, which resulted in over $2 million in losses for impacted traders.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-29T19:51:56Z",
-    "source": "Wired"
-  },
-  {
-    "id": "Ng==",
-    "url": "https://www.cnet.com/tech/services-and-software/mistral-new-le-chonk-ai-model-open-source-available/",
-    "title": "Mistral\u2019s New \u2018Le Chonk\u2019 AI Model Is Big, Open and Now Available for Download",
-    "summary": "New AI models are coming, and they don\u2019t stop coming.\nOn the heels of the recent rollouts of Meta\u2019s Muse and Google\u2019s Gemini 4 Carbon, Mistral AI is launching its new flagship frontier model, Mistral Large 4.\nThe model \u2013 affectionately known as \u201cLe Chonk\u201d \u2013 was available in public preview earlier this month.\nKey capabilities of Mistral Large 4Lample and Stock said that Mistral Large 4 was built to process both text and images, closing performance gaps from previous Mistral models.\nAgentic AI\u201cReally, the core competency we\u2019re looking at for ML4 is agentic capabilities,\u201d Stock said.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-29T17:32:56Z",
-    "source": "CNET"
-  },
-  {
-    "id": "OA==",
     "url": "https://www.businessinsider.com/binance-cofounder-cz-elon-musk-trolling-hack-crypto-spacex-2026-10#article",
     "title": "Binance cofounder asks Elon Musk to please stop trolling at a time like this",
     "summary": "Musk set his sights on Binance cofounder Changpeng \"CZ\" Zhao on Thursday after hackers breached the cryptocurrency trading platform.\nWhile Binance users panicked and crypto markets wavered, Musk, who has tangled online with the Binance cofounder before, couldn't resist.\nIn a post, CZ told an X user that Binance would cover all the losses from the hacking incident, prompting another user to compare Binance to the now-bankrupt FTX.\n@cz_binance \ud83d\udd25\ud83d\ude02 \u2014 Elon Musk (@elonmusk) October 30, 2026\"I wish everyone followed that advice.\nAdd to Preferred SourcesBinance said Friday that it has begun recovering users' assets affected by the breach.",
@@ -30,17 +10,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTE=",
-    "url": "https://finance.yahoo.com/markets/article/alphabet-and-microsoft-are-on-both-sides-of-the-ai-booms-biggest-bills-chart-of-the-day-100000027.html",
-    "title": "Alphabet and Microsoft are on both sides of the AI boom's biggest bills: Chart of the Day",
-    "summary": "Both rent computing power to the AI labs and own stakes in them, but this quarter Microsoft cashed in while Alphabet's bets cost it.\nMicrosoft (MSFT) stock rose about 2% after hours, while Alphabet (GOOGL, GOOG) fell over 9%, on track for its worst day since October 2023, after its sales came up short.\nThat's about 11% of Microsoft's $92 billion in revenue, and more than its Xbox and Windows businesses brought in combined.\nOpenAI's unpaid bills to Microsoft rose to about $7 billion from $6 billion three months earlier.\nMeta (META) took a similar route with its nearly $100 billion stock sale.",
+    "id": "Ng==",
+    "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+    "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+    "summary": "A simple explainer of the massive $6.3 billion crypto heist at Binancetoggle caption i Justin Sullivan/Getty Images North AmericaIt was the biggest cyber heist in history.\nThe unit was also responsible for what was the previous biggest-ever cyber heist, the theft of $1.5 billion from crypto exchange Bybit last year.\nMeanwhile, crypto critics say the way Binance and other crypto exchanges are set up deserve scrutiny.\nAnd what's more concerning for critics, crypto exchanges also don't have to follow the same strict regulations that govern established Wall Street firm.\nSponsor MessageIt's another reason why the massive cyber heist of Binance is raising so many alarms.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-10-29T10:00:00Z",
-    "source": "Yahoo Entertainment"
+    "publishedAt": "2026-10-31T18:11:02Z",
+    "source": "NPR"
   },
   {
-    "id": "MTY=",
+    "id": "OA==",
     "url": "https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html",
     "title": "Binance hacked for record $6.3 billion, withdrawals suspended after \"complex attack\"",
     "summary": "Customer withdrawals have been temporarily suspended, and co-CEO Richard Teng promised the exchange will cover all losses.\nBinance co-CEO Yi He said in a separate social media post Friday morning that customer withdrawals should resume within 48 hours.\nOther major crypto assets also tumbled after the hack, with ether (ETH-USD) dropping 4% to around $2,200.\nBinance said that about $3 billion in assets have been \"frozen on-chain so far.\"\nTether, the world's largest stablecoin issuer, \"froze more than 1.567B\" of its USDT stablecoin in relation to the hack,\" CEO Paolo Ardoino said on X.",
@@ -50,7 +30,7 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MTc=",
+    "id": "OQ==",
     "url": "https://finance.yahoo.com/markets/article/the-binance-hack-is-way-bigger-than-any-other-known-heist-in-the-crypto-world-175821798.html",
     "title": "The Binance hack is way bigger than any other known heist in the crypto world",
     "summary": "The estimated $6.3 billion theft reported Thursday by crypto exchange Binance isn't the first time the industry has dealt with a major, unexpected incident in which large sums of customer assets are frozen, spurring a rout in crypto stocks.\nYahoo FinanceThe Binance hack has rattled crypto markets: Bitcoin (BTC), other digital assets, and related stocks have sunk over the last 24 hours.\nThe company has temporarily suspended customer withdrawals, and outside investigators are racing to track down the stolen funds.\nNearly $1.5 billion stolen from Bybit in February 2025Hackers linked to North Korea stole nearly $1.5 billion in ether from cryptocurrency exchange Bybit.\nIn an unusual development, the attacker subsequently returned nearly all of the stolen assets, claiming they did it \"for fun\" and to expose a software vulnerability.",
@@ -60,7 +40,7 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MTk=",
+    "id": "MTE=",
     "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
     "title": "The two most interesting risks to Anthropic",
     "summary": "The two most interesting risks to AnthropicYou're reading a newsletter from The Indicator from Planet Money.\nNow, every set is exported to the U.S.toggle caption i Justin Sullivan/Getty Images North AmericaComing up:The risks to Anthropic's (and AI's) businessWhy we're saying 'buyout' and not 'layoff'How young people are doing with AI summariesNew's We're WatchingThe two most interesting risks to Anthropic - U.S. Securities & Exchange CommissionWhat to Know: Anthropic gave the world 94 pages of risks to its business (slash the entire AI economy) in its IPO prospectus aka the S-1.\nIt wouldn't be Anthropic if they didn't discuss the \"existential risks\" to humanity and society several times.\nThen Anthropic is stuck like CHUMPS in a contract paying a premium for old hardware, while some competitors may be doing more for less.\nOne interesting takeaway: this shift from human-to-bot traffic changes the business model of the internet.",
@@ -70,7 +50,87 @@
     "source": "NPR"
   },
   {
+    "id": "MTI=",
+    "url": "https://www.cnet.com/2026/10/30/hackers-stole-billions-crypto-binance-polymarket/",
+    "title": "\u2018Largest Crypto Hack in History\u2019: Binance Loses More Than $6B",
+    "summary": "The company says it \u201cwill cover all losses\u201d for affected traders using its secured reserves and funds.\nWe have found no evidence of any wallet private\u2026 pic.twitter.com/5REncAI77y \u2014 Binance (@binance) October 30, 2026Crypto prices fell across the board upon the news of the Binance breach.\nCrypto markets are constantly open, and traders \u201cmine\u201d currency using complex computations that use a lot of energy.\nBut the Binance hack may be the \u201clargest hack in history,\u201d according to blockchain research firm TRM.\nBlockchain analyses from TRM and Chainalysis attribute the hack to a North Korean group called TraderTraitor, but Binance and law enforcement officials have not confirmed that.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-10-30T15:04:43Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MTM=",
+    "url": "https://www.cnet.com/tech/services-and-software/hackers-stole-billions-crypto-binance-polymarket/",
+    "title": "\u2018Largest Crypto Hack in History\u2019: Binance Loses More Than $6B",
+    "summary": "The company says it \u201cwill cover all losses\u201d for affected traders using its secured reserves and funds.\nWe have found no evidence of any wallet private\u2026 pic.twitter.com/5REncAI77y \u2014 Binance (@binance) October 30, 2026Crypto prices fell across the board upon the news of the Binance breach.\nCrypto markets are constantly open, and traders \u201cmine\u201d currency using complex computations that use a lot of energy.\nBut the Binance hack may be the \u201clargest hack in history,\u201d according to blockchain research firm TRM.\nBlockchain analyses from TRM and Chainalysis attribute the hack to a North Korean group called TraderTraitor, but Binance and law enforcement officials have not confirmed that.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-10-30T15:04:43Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MTU=",
+    "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+    "title": "Waymo\u2019s next robotaxi is a purpose-built Toyota bZ4X",
+    "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo.\nThe news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025.\nA team-up between the world\u2019s largest automaker and the world\u2019s leader in autonomous driving obviously has huge implications.\nBy adding the bZ4X, Waymo is attempting to prove that its autonomous driving technology is compatible with a wide range of vehicle types.\nWaymo also says it is continuing to explore integrating its technology into Toyota vehicles for personally owned autonomous vehicles.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-30T13:52:14Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTY=",
+    "url": "https://www.androidcentral.com/phones/t-mobile/t-mobile-tells-spacex-theres-no-room-for-an-mvno-deal",
+    "title": "T-Mobile tells SpaceX there's no room for an MVNO deal",
+    "summary": "Click for next articleT-Mobile isn\u2019t interested in turning SpaceX into a wireless partner, and CEO Srini Gopalan isn\u2019t exactly being subtle about it.\nGopalan said T-Mobile evaluates potential MVNO partnerships based on whether they open up new addressable markets, distribution channels, or capabilities.\nHe doesn't believe a SpaceX deal will accomplish any of those things.\nThe company would still consider a straight commercial or resale arrangement, but that\u2019s a very different proposition to providing SpaceX access through an MVNO deal.\nVerizon CEO Dan Schulman also dismissed an MVNO deal, and AT&T boss John Stankey downplayed the competitive threat.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-10-30T00:40:04Z",
+    "source": "Android Central"
+  },
+  {
+    "id": "MTc=",
+    "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/how-ai-is-reshaping-the-stock-market/",
+    "title": "How AI Is Reshaping the Stock Market",
+    "summary": "How will AI, inflation, and Federal Reserve policy shape the markets in the months ahead?\nJeremy Siegel, Wharton Emeritus professor of finance and senior economist at WisdomTree, shares his outlook on the economy and financial markets.\nSiegel discusses the outlook for interest rates, the uncertainty surrounding AI investment and corporate profitability, and whether today\u2019s market valuations are justified.\nHe also explains why diversification across technology, value stocks, and bonds could be especially important as investors navigate an uncertain economic future.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-30T05:12:24Z",
+    "source": "Upenn.edu"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+    "title": "Rivian\u2019s autonomy gamble faces its first real test",
+    "summary": "In short, the next two years will determine whether Rivian will succeed or fail in its high-stakes quest to become a full-stack autonomy player.\n\u201cWe believe autonomy is a primary product differentiator, market share driver, and long-term value creator,\u201d Derek Mulvey, VP for finance, said during the call.\n\u201cWe believe autonomy is a primary product differentiator, market share driver, and long-term value creator.\u201d \u2014 Derek MulveyBut it\u2019s unclear whether Rivian sees the R2 as its make-or-break vehicle or if solving autonomy will be the true decider.\nA vehicle crash could damage Rivian\u2019s brand and reputation, just as Tesla has experienced many times with FSD.\nTo be sure, Rivian couldn\u2019t afford to sit on the sidelines and concede the autonomous crown to Tesla and Waymo.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-30T17:16:09Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTk=",
+    "url": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion",
+    "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
+    "summary": "The moving cursor writes, and having written, blinks on.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-30T19:00:00Z",
+    "source": "Slashdot.org"
+  },
+  {
     "id": "MjA=",
+    "url": "https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in",
+    "title": "Reddit Will Force Everyone to Log In",
+    "summary": "The moving cursor writes, and having written, blinks on.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-30T16:00:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MjE=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
     "title": "Silicon Valley wants you to invest in miracles",
     "summary": "Anthropic\u2019s 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley\u2019s interactions with Wall Street.\nIn the letter, Anthropic\u2019s founders urge prospective stock owners \u201cnot to think of your purchase in purely transactional terms.\nSome of the statements in Anthropic\u2019s S-1 read as surprising admissions.\n\u201cPowerful AI\u201d \u2014 Anthropic\u2019s term for hypothetical future AI that surpasses collective human intelligence \u2014 is presented in the company\u2019s S-1 as inevitable.\nAnd besides, he added, \u201cnobody knows\u201d what will happen once a company goes public, including the company itself.",
@@ -90,37 +150,17 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjQ=",
-    "url": "https://news.slashdot.org/story/26/10/29/1741210/canada-to-join-eu-network-of-supercomputers",
-    "title": "Canada to Join EU Network of Supercomputers",
-    "summary": "It's a poor workman who blames his tools.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-10-29T18:00:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-    "title": "Microsoft\u2019s AI future has fewer jobs",
-    "summary": "Playground Games studio head Trevor Williams revealed the news in a recent internal memo, seen by Notepad.\nBoth Playground Games and Turn 10 Studios have merged into just Playground Games.\nThe studio now has two locations: Playground Games Leamington Spa and Playground Games Redmond.\nSources familiar with Bethesda\u2019s plans tell me that the Xbox-owned publisher is about to announce that the next Elder Scrolls game will officially be called The Elder Scrolls VI: Sentinel.\nI understand that Sentinel will be set in Hammerfell, a province in the Elder Scrolls universe that\u2019s appeared in The Elder Scrolls Adventures: Redguard and The Elder Scrolls Online.",
+    "id": "MjM=",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html",
+    "title": "Alphabet Is in Talks to Join Trump\u2019s Golden Dome Defense Program",
+    "summary": "(Bloomberg) -- Alphabet Inc.'s Google is in talks with the US Defense Department to work on a new data security effort underpinning the $185 billion Golden Dome missile defense program, according to people familiar with the matter.\nThe talks have focused on Google's data storage, networking and cybersecurity capabilities, one of the people said.\nGolden Dome is President Donald Trump's marquee defense program to build a layer of defense systems from ground to space that will protect the US from foreign attack.\nThe effort would mark Google's first publicly known involvement in the Golden Dome program and another sign of how the search engine giant is continuing to lean into national security and defense work.\nBoth the Pentagon's separate Golden Dome initiatives to pioneer space-based missile interceptors and its command-and-control consortium rely on numerous companies from startups to established primes, unlike past defense programs that have been more typically anchored by a single, large contractor.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-10-29T15:17:52Z",
-    "source": "The Verge"
+    "publishedAt": "2026-10-30T21:15:55Z",
+    "source": "Yahoo Entertainment"
   },
   {
-    "id": "MjY=",
-    "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
-    "title": "Apple\u2019s new laptop supports one of the coolest features for color pros",
-    "summary": "It\u2019s the first laptop, and only the second product overall, to support Apple CMF 2026 color modes.\nThe specification that\u2019s been the standard for years is CIE 1931 (CIE stands for Commission Internationale de l\u2019\u00c9clairage, or International Commission on Illumination).\nCIE 1931 doesn\u2019t properly handle that and was created based on only 17 test subjects.\nApple CMF 2026 addresses that, so that displays look the same regardless of the technology they use.\nColor science and display technologies have come a long way since 1931, when the CIE 1931 color space was established.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-29T17:48:09Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "Mjc=",
+    "id": "MjQ=",
     "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
     "title": "The biggest names in AI are backing a new way to opt out of scraping",
     "summary": "With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.\nCurrently, sites have to signal their AI training preferences separately to each AI company.\nThe announcement comes as publishers grapple with the continuing influx of AI crawlers scraping their sites and feeding their content into AI models.\nOpenAI, Google, Microsoft, and Anthropic say they will restrict their AI crawlers from accessing a site if they encounter the shared token.\nGoogle previously implemented similar controls that allow sites to control whether their content appears in AI search features or is used for AI training, without impacting visibility in search.",
@@ -130,7 +170,7 @@
     "source": "The Verge"
   },
   {
-    "id": "Mjg=",
+    "id": "MjU=",
     "url": "https://www.entrepreneur.com/business-news/tech/ai-and-emerging-tech-are-changing-how-people-travel-heres-how-travel-businesses-can-stay-visible-and-valuable",
     "title": "AI and Emerging Tech Are Changing How People Travel. Here\u2019s How Travel Businesses Can Stay Visible and Valuable",
     "summary": "Travel advisors should be able to answer three questions: Who are you?\nThat\u2019s why I don\u2019t see the future of AI in travel as a choice between technology and travel advisors.\nHow virtual reality is changing travel planningIf AI helps travelers understand their options, virtual reality can help them visualize those options.\nI think a better question for leaders is: What can this technology help people do better?\nThe future of travel technology shouldn\u2019t be about removing the human element.",
@@ -140,27 +180,77 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "Mjk=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-    "title": "The NYT Cooking app is testing AI recipe modifications",
-    "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users.\nCustomized recipes are private and can\u2019t be published or shared through the app.\nImage: Jennifer Pattison Tuohy / The Verge\u201cUnbelievably disappointing to see,\u201d said another NYT user.\n\u201cI\u2019ve always loved NYT Cooking and it pains me that the AI mandate has reached what used to be a wonderful and simple collection of recipes and notes from all sorts of different people.\u201dThis isn\u2019t the first time that AI has been used by the NYT Cooking app.\nClosing comments on older articles is standard practice at The Times so that our moderators can focus on new discussions.",
+    "id": "Mjc=",
+    "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "title": "An AI Agent Injected Drugs Into a Live Mouse\u2019s Brain",
+    "summary": "If you give an AI agent a robotic arm, an injector, and a live mouse, it might just perform brain surgery.\nBiotech founder Gabriel Ocana Santero recently did that using an agent to successfully carry out a brain injection procedure on a living mouse.\nSantero is the CEO and cofounder of Exin Therapeutics, a San Francisco\u2013based startup using AI to analyze brain activity to develop drugs for epilepsy and neurodegenerative diseases.\nAI models are trained primarily on published scientific literature.\nIt\u2019s why his team decided to connect an AI agent to a custom-built surgical setup used for performing brain injections on mice.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-10-29T14:39:37Z",
-    "source": "The Verge"
+    "publishedAt": "2026-10-31T10:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "title": "Meta\u2019s Muse Could Upend All Kinds of Businesses. It Hasn\u2019t Yet",
+    "summary": "Meta\u2019s Muse was among the hottest topics on corporate earnings calls in recent weeks.\nWall Street fears that proactive shopping assistants like Muse will erode brand loyalty, ignite price wars, and squeeze corporate profits.\nIn India, the delivery app giant Eternal estimated agentic commerce as \u201cclose to zero.\u201dThe comments leave questions about where users of Muse, Instinct, and other popular AI agents are spending their money.\nMeta declined to comment beyond the earnings call remarks, but pointed to partnerships with 10 retailers including Walmart, Best Buy, and Gap to simplify shopping with Muse.\nMany of them last reported earnings before Muse launched and haven\u2019t shared data about it yet.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-10-31T10:30:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-dont-want-ai-phone-what-do-about-it",
+    "title": "Fox News AI Newsletter: Don't want AI on your phone? What to do about it",
+    "summary": "Welcome to Fox News\u2019 Artificial Intelligence newsletter with the latest AI technology advancements.\nBut sometimes I just want to search the internet without an AI summary appearing every time.\nExperts consistently claim that a four-year degree is no longer worth the investment, warning that artificial intelligence (AI) is on the verge of rendering human labor obsolete.\nVOTER BACKLASH: Texas voter Mason McCallister discusses the growing backlash against secretive data center developments in rural communities.\nFOLLOW FOX NEWS ON SOCIAL MEDIAFacebookInstagramYouTubeXLinkedInSIGN UP FOR OUR OTHER NEWSLETTERSFox News FirstFox News OpinionFox News LifestyleFox News HealthDOWNLOAD OUR APPSFox NewsFox BusinessFox WeatherFox SportsTubiWATCH FOX NEWS ONLINEFox News GoSTREAM FOX NATIONFox NationStay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future with Fox News here.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-10-30T18:17:54Z",
+    "source": "Fox News"
   },
   {
     "id": "MzA=",
-    "url": "https://www.cnet.com/news/privacy/homeland-security-leak-government-surveillance-icepick/",
-    "title": "The Massive DHS Breach Is Hacktivist Payback for Government Surveillance",
-    "summary": "The hacktivist crimew described the leak as an \u201cunprecedented\u201d and \u201cmassive\u201d exposure of the DHS\u2019s internal structure.\nMore from CNETThe breach appears to be the latest retaliation against government-led surveillance, including ICE\u2019s increasingly tech-driven enforcement tactics and private partnerships with companies such as Flock Security.\nFrom the outside, hacktivists are targeting their infrastructure (like this recent breach) to unmask federal agents and leak their surveillance toolkits.\nThe recent massive DHS breach isn\u2019t a random, isolated cyberattack.\n\u201cEven in the face of a domestic law enforcement presence with massive surveillance capabilities and military-esque technologies, there are still ways to engage in surveillance self-defense.\u201d",
+    "url": "https://games.slashdot.org/story/26/11/01/0431200/xbox-manager-ai-already-being-used-in-xbox-game-development---and-throughout-the-game-industry",
+    "title": "Xbox Manager: AI Already Being Used In Xbox Game Development",
+    "summary": "To the systems programmer, users and applications serve only to provide a test load.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-10-29T23:40:54Z",
-    "source": "CNET"
+    "bias": "lean left",
+    "publishedAt": "2026-11-01T04:34:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MzE=",
+    "url": "https://www.businessinsider.com/how-to-invest-in-anthropic-before-its-ipo-funds-etfs-2026-10#article",
+    "title": "Want to invest in Anthropic before its IPO? These 5 funds offer exposure to the AI giant.",
+    "summary": "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO.\nIn a client note on Wednesday, Sevens Report Research founder Tom Essaye highlighted five funds that invest the creator of the Claude AI chatbot.\nEarly exposure can cost you a pretty pennyIf you want in on Anthropic before its IPO, you may have to pay a hefty premium.\nWhile low-cost index funds often have expense ratios well below 0.1%, specialized funds that invest in firms like Anthropic and other private companies can carry high price tags.\nWith all that in mind, let's take a look at some of the funds offering exposure to Anthropic before it hits the public market.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-30T16:32:10Z",
+    "source": "Business Insider"
   },
   {
     "id": "MzI=",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+    "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+    "summary": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research showstoggle caption i Matteo Della Torre/NurPhoto via Getty ImagesArtificial intelligence chatbots are increasingly becoming a regular part of life for American youth.\nTwo new surveys show that nearly two-thirds of tweens and teens use AI chatbots.\nIn Raynham, Mass., McKenzie Craig, 17, has been using chatbots since she was in eighth grade.\nSome chatbot uses are linked to worse mental healthResearchers at the JED Foundation also surveyed students on symptoms of overall well-being and mental health.\nThat, she explains, \"can lead to worse mental health.\"",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-10-30T09:00:00Z",
+    "source": "NPR"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://www.businessinsider.com/isomorphic-labs-discover-cancer-beating-drugs-ai-max-jaderberg-google-2026-10#article",
+    "title": "Google spinoff Isomorphic Labs is in a race to shake up the long, painful road to cancer-beating drugs",
+    "summary": "Max Jaderberg, Isomorphic's president and the person running day-to-day operations at the company under Hassabis' aegis as CEO, knows it's a lofty goal.\nJaderberg said Isomorphic planned to use its AI models to overcome many of the hurdles that typically trip up promising drug candidates.\nIn February, Isomorphic unveiled a \"drug design engine\" that the company said improves on AlphaFold.\nIsomorphic plans to use it to precisely engineer molecules so that patients can receive the minimum amount of drug needed, Jaderberg said.\nDespite Isomorphic's ambition, the road to the first AI-designed cancer drugs is still uncertain.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-31T10:05:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzQ=",
     "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
     "title": "Google\u2019s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
     "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills.\nRight now, Google\u2019s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low.\nGoogle\u2019s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort.\nIt can also suggest schedule changes to save energy and automatically adjusts the temperature when you\u2019re away.\nThe Nest Learning Thermostat also improves on its predecessor with a beautifully designed adaptive display that shows your temperature settings, the weather, and the time from across the room.",
@@ -170,7 +260,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MzM=",
+    "id": "MzY=",
     "url": "https://www.androidcentral.com/accessories/smart-home/google-rolls-out-an-update-that-finally-tightens-the-screws-on-gemini-for-home",
     "title": "Google rolls out an update that finally tightens the screws on Gemini for Home",
     "summary": "Google concludes the week with a substantial update for Gemini for Home and its smart home app that users should keep an eye out for.\nAccording to Google, this week's patch includes a fix for Gemini's frustrating \"Sorry, I didn't understand\" error messages.\n(Image credit: Google)The Google Home app is also receiving quite a few bug fixes/updates this week, beginning with Matter devices.\nThe patch notes state Android devices can now view energy data for supported Matter products.\nGoogle Home Premium users can now find their benefits by tapping on their Profile > Google Home Premium > Features (to enable, too).",
@@ -180,7 +270,7 @@
     "source": "Android Central"
   },
   {
-    "id": "Mzg=",
+    "id": "Mzk=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
     "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
     "summary": "\u201cA lot of people want local inference.\nAnd somehow, they assume that the problem is solved now because we are going to have open-source models, we\u2019re going to be able to run them on our computers, and so we\u2019re not going to need all the stuff in the data center.\nBut from a global allocation perspective, actually, it\u2019s quite terrible to have everybody have a bunch of the world\u2019s limited supply of DRAM sitting in their own computer and being used five percent of the time.\nYou want maximum utilization in the cloud if you\u2019re trying to deal with this very supply constrained environment.\nAnd somehow everyone\u2019s\u2014 many people\u2019s intuition is the opposite of that.\u201d",
@@ -190,37 +280,17 @@
     "source": "The Verge"
   },
   {
-    "id": "NDE=",
-    "url": "https://hackaday.com/2026/10/28/battery-prototype-uses-superextensive-quantum-effects-to-charge-faster/",
-    "title": "Battery Prototype Uses Superextensive Quantum Effects To Charge Faster",
-    "summary": "Although the term \u2018quantum battery\u2019 is a bit of a vague term, the cell that [Kieran Hymas] et al.\ndemonstrate in a recent paper does seem to suggest that it uses quantum effects to charge faster than would otherwise be possible, with this rate increasing faster than its volume, meaning at a superextensive rate.\nThe general idea behind a quantum battery is that these somehow use a quantum effect to store and release energy faster than would be possible using classical physics.\nFirst proposed in 2013, the initial Dicke model saw its theoretical quantum advantage shot down by 2020, leading to the search for alternative models.\nEffectively scaling up the cell would thus scale up the charge- and discharge rate faster than in a conventional chemical cell.",
+    "id": "NDM=",
+    "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+    "title": "Bidirectional Charging During Grid Outages",
+    "summary": "The basic problem is that while several manufacturers support having the car power your house when the grid is down (\"V2H\"), they generally treat it as a separate discharging-only mode.\nAnd it looks to me like even then they didn't support bidirectional charging during a grid outage.\nAnd it doesn't work with current models, plus \"Solar Charging cannot be used simultaneously with ... V2H\".\nI don't want to wait that long to get good backup power in place, since I want to be prepared for a world that might change quickly in the next few years.\nWhich we don't, but our shared Honda Fit is a 2013 and while it's been a fantastic car I don't expect it to last that much longer.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-29T02:00:26Z",
-    "source": "Hackaday"
+    "bias": "lean right",
+    "publishedAt": "2026-10-31T20:21:55Z",
+    "source": "Jefftk.com"
   },
   {
-    "id": "NDU=",
-    "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
-    "title": "Hackers expose the identities of more than 40,000 DHS employees",
-    "summary": "Hackers expose the identities of more than 40,000 DHS employeestoggle caption i Heather Diehl/Getty Images North AmericaA hacking group cracked the U.S. Department of Homeland Security's personnel files, exposing the names, phone numbers and addresses of more than 40,000 DHS agents, operatives, and associates, on Wednesday, including those involved in undercover operations.\nThe hackers said they stole the data by subverting DHS's single sign on system, according to an online post.\nIt said it distributed that material to the group Distributed Denial of Secrets, which posted it online in a database called Icepick.\nTogether, the two created a searchable online database, with crimew doing all of the technical work, Ottignon told NPR.\nIn a note attached to the files, the Department of Peace wrote, \"They have our information, so it's only fair that we have theirs.\"",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-10-29T03:28:50Z",
-    "source": "NPR"
-  },
-  {
-    "id": "NTk=",
-    "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
-    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-    "summary": "The Verge: When it arrives in 2027, what percent of the components in the BlueChip laptop will be made in the US?\nIt\u2019s gonna be a whole mix of things based on when do certain memory fabs come online?\nI know the glass is gonna be made in the US, I know the frame is gonna be made in the US around that display.\nI think most likely the thing that we ship is not going to be 100-percent American.\nI would love to give you guys an American, 100-percent American laptop right off the bat, but that is not the environment the US government has created or US industry has created.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-10-29T02:22:46Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "NjI=",
+    "id": "NzI=",
     "url": "https://www.businessinsider.com/microsoft-insiders-explain-why-60-000-employees-got-buyout-offers-2026-10#article",
     "title": "Microsoft's massive employee buyout spooked everyone. Here's what's really going on inside the company.",
     "summary": "Business Insider spent recent days speaking with Microsoft insiders to find out what's really happening.\nMicrosoft doubled down later and told Business Insider it anticipates 3,000 or fewer employees will take the buyout.\nThat's led to speculation that more layoffs may come in the wake of this week's bigger buyout offer.\nThis person thinks Microsoft made latest buyout offer because some employees complained that they weren't eligible for the retirement buyout earlier this year.\n\"It's easier to opt-in giant organizations,\" one Microsoft executive told Business Insider.",
@@ -230,7 +300,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "Njk=",
+    "id": "NzY=",
     "url": "https://abcnews.com/US/nvidia-denies-report-ceo-allegedly-targeted-chinese-spy/story?id=137704250",
     "title": "Nvidia responds to report that its CEO was allegedly targeted in Chinese spy plot",
     "summary": "Nvidia responds to report that its CEO was allegedly targeted in Chinese spy plotJensen Huang, CEO of NVIDIA, gives a keynote address at the NVIDIA Berlin GPU Technology Conference, October 21, 2026 in Berlin, Germany.\nJensen Huang, CEO of NVIDIA, gives a keynote address at the NVIDIA Berlin GPU Technology Conference, October 21, 2026 in Berlin, Germany.\nJensen Huang, CEO of NVIDIA, gives a keynote address at the NVIDIA Berlin GPU Technology Conference, October 21, 2026 in Berlin, Germany.\nJensen Huang, CEO of NVIDIA, gives a keynote address at the NVIDIA Berlin GPU Technology Conference, October 21, 2026 in Berlin, Germany.\nNvidia, a top chipmaker, is responding to a report that its CEO, Jensen Huang, was allegedly targeted in a Chinese spy plot.",
@@ -238,5 +308,15 @@
     "bias": "lean right",
     "publishedAt": "2026-10-30T16:04:00Z",
     "source": "Abcnews.com"
+  },
+  {
+    "id": "Nzk=",
+    "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
+    "title": "China denies allegations of spy operation targeting Nvidia CEO",
+    "summary": "China has rejected allegations of a Chinese espionage operation targeting Nvidia's chief executive, Jensen Huang, describing the claims as \"groundless speculation\".\nAlice Huang did not respond to the paper's request for comment.\nSurveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as \"unmasking\".\nIt remains unclear what information Alice Huang - who is also known as Huang Le - allegedly passed to Beijing, how valuable it was, or when she is believed to have begun gathering intelligence.\nHe added that allegations the Singaporean company was smuggling chips to China \"were thoroughly investigated and debunked last year\".",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-10-30T12:20:04Z",
+    "source": "BBC News"
   }
 ]
