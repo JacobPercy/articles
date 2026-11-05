@@ -2,22 +2,10 @@
   {
     "article": {
       "id": "MA==",
-      "url": "https://www.businessinsider.com/economic-concerns-rise-six-figure-earners-feel-pinch-2026-11#article",
-      "title": "Economic Concerns Rise As Six-Figure Earners Feel the Pinch",
-      "summary": "That dip is a worrying sign for spending \u2014 which is overwhelmingly powered by higher earners \u2014 and potentially pivotal as consumers gear up to vote in contentious midterm elections.\nAt the same time, higher earners' perceptions of their own position have changed: Half of high-income families \u2014 who earn over $155,600 \u2014 identify as working class.\nFor higher earners, that lifestyle creep and even rising costs might be contributing to their vibes.\nThat continued dreariness among higher earners might prove particularly potent in the coming days.\nAs swing state midterms loom, affordability is top of mind for many voters, and higher earners are no exception \u2014 they're increasingly disenchanted with the government's economic policy.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-11-01T10:00:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MQ==",
       "url": "https://finance.yahoo.com/economy/article/more-and-more-disenchanted-a-final-check-in-on-trumps-economic-approval-ratings-before-midterms-100000424.html",
       "title": "'More and more disenchanted': A final check-in on Trump's economic approval ratings before midterms",
       "summary": "President Trump's economic approval ratings are hovering at second-term lows, with inflation worries the central headwind for the president and his party as the midterm elections loom.\nA raft of recent polls underscores this reality: Trump's low overall approval ratings are being dragged down by economic sentiment that is even lower.\nA new national poll released on Sunday by NBC News found that a majority of Republicans \u2014 53% \u2014 say they are dissatisfied with the state of the economy.\nThe president is facing a negative net rating of -29.7% on trade and -31.1% on the economy overall, according to Silver, with this economic drag outpacing Trump's overall net approval rating of -22.6%.\nOne possible glimmer of hope for Republicans in that data: 20% of voters say they are either unsure or that neither party would do a better job.",
-      "category": "economics",
+      "category": "technology",
       "bias": "left",
       "publishedAt": "2026-11-02T10:00:00Z",
       "source": "Yahoo Entertainment"
@@ -25,7 +13,7 @@
   },
   {
     "article": {
-      "id": "Mg==",
+      "id": "MQ==",
       "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
       "title": "BMW is taking on Tesla\u2019s FSD with urban driver assist starting in 2027",
       "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow.\nWhile driving in town, it can assist with changing lanes, making turns, yielding to other cars, and driving through roundabouts.\nBMW, in particular, recently introduced its next-generation Neue Klasse platform, which includes a driver assist system partly powered by Qualcomm\u2019s technology.\nAnd with hands-free highway driving now widely available in many mass-market vehicles, the next frontier is a safe and capable city driving feature that rivals FSD.\nBMW is entering risky territory with the adoption of a Level 2 driving feature.",
@@ -37,13 +25,25 @@
   },
   {
     "article": {
+      "id": "Mg==",
+      "url": "https://finance.yahoo.com/economy/article/prediction-markets-vs-polls-election-forecasting-industry-faces-midterm-test-100000463.html",
+      "title": "Prediction markets vs. polls: Election forecasting industry faces midterm test",
+      "summary": "Prediction markets and pollsters both say Democrats are favored to take both the US House and Senate in the midterms.\nThat's setting up what could be another chapter in the burgeoning rivalry between prediction markets and polls following 2024's closely watched results.\nThree prediction markets place a 77.3% chance of Democrats taking control, while two polling-based models put the chances a bit higher at 80.2%.\nThis analysis was conducted by averaging the daily odds from three leading prediction markets, Kalshi, Polymarket, and PredictIt, to create one rolling prediction market measure.\nThis was especially true in 2024, when a 10-percentage-point difference between prediction markets and polls led to some post-election analyses claiming that prediction markets had gotten the results right and polls had gotten them wrong.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-03T14:43:53Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
       "id": "Mw==",
-      "url": "https://www.businessinsider.com/wall-street-rising-stars-finance-leaders-2026-11#article",
-      "title": "25 Wall Street Rising Stars and Executives to Watch",
-      "summary": "24 / 25For a few months this year, John Ballard's life was \"all Dominion, all the time.\"\nHe was part of a small team at JPMorgan working on Dominion Energy's roughly $67 billion merger with NextEra, which, if approved, would create the world's largest electricity producer.\n\"There's always a challenge of commanding a presence and being confident in your ability to deliver advice,\" he said.\nThat relationship building has also been key to his rise at JPMorgan, since he thinks \"interpersonal awareness\" is an underappreciated skill.\n\"It's figuring out how you fit into the broader team, what you should be doing, and what styles people like.\"",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-11-02T10:01:01Z",
+      "url": "https://www.businessinsider.com/2026-midterms-elon-musk-tech-ai-economy-2026-11#article",
+      "title": "What's at Stake in the 2026 Midterms for Elon Musk, Tech, Economy",
+      "summary": "Polls show AI is not the top issue in the midterms, but ask a voter about building a data center in their community, and you're liable to get an earful.\nAcross the country, candidates from both parties are racing to portray their opponents as too supportive of data center construction.\nMusk has donated $158 million to the Senate Republicans' allied super PAC, which in turn was donated to a pro-Paxton super PAC.\nFormer Congressman Mike Rogers, the Republican hopeful, has called for a pause on data center development in the state.\nHe also blasted Fitzpatrick over the Republican's previous support for a massive Amazon data center in Falls County.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-03T11:01:50Z",
       "source": "Business Insider"
     }
   },
@@ -62,37 +62,37 @@
   {
     "article": {
       "id": "NQ==",
-      "url": "https://www.businessinsider.com/retired-early-31-moved-us-ecuador-life-cheaper-baby-affordability-2026-11#article",
-      "title": "I retired early at 31 and left the US for Ecuador. Life is cheaper, and I get more time with my baby.",
-      "summary": "This as-told-to essay is based on a conversation with Johnston Osagie, 32, who retired early and moved from Tennessee to Ecuador with his wife and daughter.\nSuddenly, another 10 years of trading the best hours of my life for work instead of family didn't sound so appealing.\nI quit my job at Amazon in January, and my wife and I moved from Nashville to Cuenca, Ecuador, in February.\nBecause I wanted to retire early, I was aggressive with my portfolio allocations to achieve faster growth.\nI handed in my notice in January, a month before we moved to Ecuador.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-11-01T09:07:01Z",
-      "source": "Business Insider"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst.\nApollo Global Management, which lately had been talking with SpaceX about a $40 billion chip deal, is also warning of AI risk.\n\u201cWhat we don\u2019t know is how pricing and economics will evolve.\u201dThe sheer volume of interest on Meta\u2019s bonds suggests we are not at the top of the market.\nBut there have been reports from China that its AI bubble burst some time ago.\nMeanwhile Wall Street banks were tripping over themselves to finance $63 billion in debt from Anthropic \u2014 not even a hyperscaler.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-03T23:37:45Z",
+      "source": "The Verge"
     }
   },
   {
     "article": {
       "id": "Ng==",
-      "url": "https://finance.yahoo.com/markets/article/ai-stocks-just-lost-5-trillion--but-history-says-the-stock-markets-sweetest-stretch-starts-now-110000768.html",
-      "title": "AI stocks just lost $5 trillion \u2014 but history says the stock market's sweetest stretch starts now",
-      "summary": "The biggest AI and chip stocks have shed about $5 trillion in market value since Oct. 6, by Yahoo Finance calculations.\nNvidia (NVDA) and Alphabet (GOOGL) have each given up roughly $835 billion in market cap, and Intel (INTC) lost nearly half its value in October.\nThe other 625 large US stocks in that tally added about $1.3 trillion.\nChip stocks briefly broke below their July low Friday, then closed back above it.\nHartnett's line in the sand for chips is $520 on the VanEck Semiconductor ETF (SMH), which closed Friday near $522.",
-      "category": "economics",
-      "bias": "center",
-      "publishedAt": "2026-11-01T11:00:00Z",
-      "source": "Yahoo Entertainment"
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
+      "title": "Elon Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
+      "summary": "The US midterms campaign is set to be the most expensive on record - with the total cost projected to reach nearly $12bn (\u00a39bn), according to Open Secrets, an independent organisation that tracks campaign finance.\nMost of the spending is driven by outside political groups - known as Super Political Action Committees (Super Pacs) - pouring large sums of money into some key races ahead of election day on 3 November.\nThe top individual donor is billionaire businessman Elon Musk, who has spent almost half a billion dollars backing Republican candidates, particularly in Texas where many of his companies are based.\nBBC Verify has looked into the figures and where the money was spent.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-11-02T20:54:44Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "Nw==",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
-      "title": "Elon Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
-      "summary": "The US midterms campaign is set to be the most expensive on record - with the total cost projected to reach nearly $12bn (\u00a39bn), according to Open Secrets, an independent organisation that tracks campaign finance.\nMost of the spending is driven by outside political groups - known as Super Political Action Committees (Super Pacs) - pouring large sums of money into some key races ahead of election day on 3 November.\nThe top individual donor is billionaire businessman Elon Musk, who has spent almost half a billion dollars backing Republican candidates, particularly in Texas where many of his companies are based.\nBBC Verify has looked into the figures and where the money was spent.",
-      "category": "economics",
-      "bias": "right",
-      "publishedAt": "2026-11-02T20:54:44Z",
-      "source": "BBC News"
+      "url": "https://abcnews.com/Politics/democrats-projected-congress-blue-wave-fueled-trump-economy/story?id=137688143",
+      "title": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
+      "summary": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontentThe U.S. Capitol is reflected in the Capitol Reflecting Pool in Washington, D.C., on Oct. 27, 2026.\nDemocrats flipped at least six Senate seats, including in Republican strongholds like Kansas and South Carolina, ABC News projects.\nNorth Carolina: Democrat Roy Cooper, the state's former governor, will win the North Carolina Senate race, ABC News projects, flipping the seat blue.\nThe Republican caucus, led by Speaker Mike Johnson of Louisiana, currently holds a slim majority over Democrats with 220 seats, while Democrats have 215.\nOut of 435 seats in the House, 125 are currently held by women, including 95 Democrats and 30 Republicans.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-04T05:32:34Z",
+      "source": "Abcnews.com"
     }
   },
   {
@@ -101,7 +101,7 @@
       "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
       "title": "The Intel stock collapse is getting worse \u2014 and the $3.7 trillion chip rout is spreading",
       "summary": "Chip stocks kept tracking mud back through the house.\nThe chipmaker slid about 9% after its worst day since 1974 on Oct. 30, when a disappointing forecast knocked nearly 29% off the stock.\nMarvell (MRVL) fell even harder, a drop that came as it agreed to buy Lumentum (LITE) in a $115 billion deal.\nIntel, Marvell, AMD and the memory names led the chip rout, while Nvidia barely moved.\nChip and memory stocks have lost about $3.7 trillion in market value since Oct. 6, by Yahoo Finance calculations.",
-      "category": "economics",
+      "category": "technology",
       "bias": "left",
       "publishedAt": "2026-11-03T00:08:53Z",
       "source": "Yahoo Entertainment"
@@ -110,13 +110,13 @@
   {
     "article": {
       "id": "OQ==",
-      "url": "https://www.businessinsider.com/breaking-down-wall-streets-rising-stars-career-paths-titles-2026-11#article",
-      "title": "The paths to Wall Street success: Where 25 rising stars went to school and started their careers",
-      "summary": "And nearly half began their careers at four financial powerhouses: Goldman Sachs, JPMorgan, Morgan Stanley, and Bank of America.\nList of schoolsAmherst College Boston College University of California, Berkeley Columbia University Cornell University Dartmouth College Duke University Franklin & Marshall College Harvard University Middlebury College Princeton University University of Cambridge University of Chicago University of Dayton University of Florida University of Pennsylvania University of Virginia University of Warwick Virginia Polytechnic Institute and State University Wesleyan UniversityHow they got their startWall Street's biggest banks remain a popular launching pad.\nTwelve members of this year's stars began their careers at Goldman Sachs, JPMorgan, Morgan Stanley, or Bank of America.\nApollo principal Daniel Borkenstein started at PJT Partners before moving into private equity, while TPG's David Bessel got his start at Morgan Stanley.\nApollo principal Daniel Borkenstein started at PJT Partners before moving into private equity, while TPG's David Bessel got his start at Morgan Stanley.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-11-02T10:58:01Z",
-      "source": "Business Insider"
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+      "summary": "AMD CEO Lisa Su said in the company\u2019s quarterly earnings call on Tuesday that Q3 2026 was \u201cwas the largest and most profitable in our history.\u201d AMD reported a record $13.4 billion in quarterly revenue, and it\u2019s predicting it will hit another record high next quarter of $17 billion.\nThe company\u2019s data center business is driving that growth, with $8.5 billion in data center quarterly revenue for Q3 2026.\nSu said AMD\u2019s expecting its revenue to \u201cgrow more than 80 percent in 2027,\u201d adding that \u201cdata center will be the largest contributor.\u201dEventually, most of AMD\u2019s revenue might come from its data center business.\nOver the last couple years, jumps in the company\u2019s revenue have been closely mirroring its data center business \u2014 in Q3 2026 its overall revenue went up $1.9 billion, while its data center revenue went up $1.8 billion.\nAs AMD keeps smashing its data center revenue records, its gaming business dropped 40 percent compared to last year, dipping to $773 million.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-11-04T01:17:17Z",
+      "source": "The Verge"
     }
   },
   {
@@ -125,7 +125,7 @@
       "url": "https://abcnews.com/Business/midterm-candidates-plan-fight-inflation-economists-evaluate-proposals/story?id=137570780",
       "title": "How do midterm candidates plan to fight inflation? Economists evaluate their proposals",
       "summary": "Proposals include tax cuts and an end to the Iran war.\nThe Iran war set off a monthslong surge of inflation as fuel prices climbed in response to unrest in the Middle East, U.S. government data shows.\nSome candidates, mostly Democrats, have proposed an end to the Iran war as a means of dialing back price hikes.\nAfter the war, \"oil prices will come plummeting down even lower than they were at the start of the conflict,\" Trump said in September at the United Nations General Assembly.\nGas prices, meanwhile, would likely fall at a delayed pace as retailers sell through refined product purchased while oil prices were at higher levels, they added.",
-      "category": "economics",
+      "category": "technology",
       "bias": "lean left",
       "publishedAt": "2026-11-02T21:22:59Z",
       "source": "Abcnews.com"
@@ -134,78 +134,42 @@
   {
     "article": {
       "id": "MTE=",
-      "url": "https://www.businessinsider.com/doordash-introduces-budget-friendly-meal-deals-in-major-cities-2026-11#article",
-      "title": "DoorDash enters the restaurant value wars with a $12 meal deal",
-      "summary": "DoorDash is getting into the meal deal game.\nThe delivery service is offering $12 meal boxes in \"select areas across more than 20 cities\" including Atlanta, Chicago, and Philadelphia, it said on Monday.\n\"Meal Boxes are designed to drive a steady stream of everyday orders and introduce restaurants to new customers,\" DoorDash said in its statement.\nMany customers have continued to order food for delivery while cutting their spending in other areas, despite added costs such as delivery fees and tips.\nDoorDash's $12 boxes might be an acknowledgment that some diners are seeking budget-friendly options and convenience simultaneously.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-11-02T16:24:19Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MTI=",
-      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
-      "title": "iPhone Duo: Latest Buyer Wait Times",
-      "summary": "IPhone Duo order wait times averaged 89 days despite falling by a week, according to UBS Investment Bank data as of October 30.\nThe USB Evidence Lab tracker covers iPhone availability across more than 30 markets, and puts the iPhone Duo buyer wait time at nearly three months, even after the slight improvement.\nBy comparison, iPhone 18 Pro wait times averaged around five days, down three days from the previous week, while the Pro Max held steady at roughly 18 days.\niPhone Duo pre-orders slipped to late January within minutes on the device's October 16 launch, but most people who queued on launch day walked away with a new phone.\niPhone Duo\u200c starts at $1,999 for 256GB, with 512GB at $2,199, 1TB at $2,599, and 2TB at $3,199 on Apple's U.S. store.",
+      "url": "https://finance.yahoo.com/markets/crypto/article/binance-founder-changpeng-zhao-addresses-historic-crypto-hack-theres-no-100-security-123427760.html",
+      "title": "Binance founder Changpeng Zhao addresses historic crypto hack: 'There's no 100% security'",
+      "summary": "It has been a busy few days for Changpeng Zhao in the wake of the hack on the enormous crypto platform he co-founded, Binance.\n\"It's been a pretty hectic process,\" Zhao, better known in crypto circles as CZ, told Yahoo Finance.\nAnd then all user funds are covered.\nBinance is the world's largest cryptocurrency trading platform and holds approximately $171 billion in total assets on its platform.\n\"So when you run a platform, especially a crypto platform the possibility is always there.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-02T12:32:29Z",
-      "source": "MacRumors"
-    }
-  },
-  {
-    "article": {
-      "id": "MTM=",
-      "url": "https://www.businessinsider.com/gen-x-retirement-savings-financial-insecurity-job-search-unemployment-2026-11#article",
-      "title": "Gen Xers don't think they'll ever be able to retire comfortably",
-      "summary": "As the oldest Gen Xers enter their 60s, many fear they won't be able to live out the retirement of their dreams.\nIt's a far cry from the $750,000 Gen Xers feel they need to have saved by retirement to feel financially secure.\nMany older Gen Xers said that losing a job in their 50s derailed their careers.\nLess than a quarter of Gen X expects they could retire before 65, half the rate of Gen Z.\nMany Gen Xers began working when 401(k)s were first introduced into workforces after the decline of defined-benefit pension plans.",
-      "category": "economics",
-      "bias": "right",
-      "publishedAt": "2026-11-01T10:00:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MTQ=",
-      "url": "https://www.businessinsider.com/zohran-mamdani-reshaping-nyc-economy-2026-11#article",
-      "title": "Zohranomics 101: How Mamdani Is Reshaping NYC's $1.3 Trillion Economy",
-      "summary": "New York is an incredibly rich city, with a private wealth pool of over $3 trillion and an annual GDP of roughly $1.3 trillion.\nFrom 2019 to 2024, almost two-thirds of New York City's income growth went to the top 1%, according to the city's comptroller, compared to 39% nationally.\nBut the immutable truth facing any New York City mayor is that there is not much they can do to influence the economy.\nThe Mamdani administration is also trumpeting small-scale wins on filling potholes and making it easier to cancel subscriptions.\n\"Economic policy is also dictated by whether or not their employees want to be somewhere,\" she says.",
-      "category": "economics",
       "bias": "left",
-      "publishedAt": "2026-11-01T09:11:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MTU=",
-      "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day",
-      "title": "Bangladesh garment factories disrupted as protests continue for third day",
-      "summary": "Share Bangladesh garment factories disrupted as protests continue for third day on social mediaHundreds of garment factories in Bangladesh are facing disruptions as worker protests over low pay and the rising cost of living rock the country\u2019s industrial hubs.\nIn an attempt to quell the demonstrations, Bangladesh formed a new wage board on Sunday to review the minimum wage for garment workers.\nBangladesh\u2019s garment industry is worth about $38bn and is a key source of export earnings and employment.\nSlowing demandThe protests come as Bangladesh\u2019s garment industry, which competes with Vietnam\u2019s, Cambodia\u2019s and India\u2019s, faces a range of challenges.\nAdvertisementStill, Bangladesh has \u201camong the lowest garment wages in the world\u201d, said Babul Akhter, general secretary of the Bangladesh Garment and Industrial Workers Federation and a representative for workers on the wage board.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-02T07:08:28Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "MTY=",
-      "url": "https://www.yahoo.com/news/us/articles/fbi-links-record-6-3-010848750.html",
-      "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
-      "summary": "Investing.com -- The FBI has accused North Korea of orchestrating the $6.3 billion cryptocurrency hack targeting Binance, identifying a state-linked hacking group responsible for previous major crypto thefts as the perpetrators.\nThe findings mark the first formal attribution of the Binance attack to North Korea following earlier speculation about the country's involvement.\nPresident Donald Trump said Friday that U.S. authorities were investigating whether North Korean hackers were behind the theft.\nNorth Korean hackers have also been accused of carrying out a separate cryptocurrency theft worth approximately $620 million in 2022.\nOriginal ArticleAdvertisement AdvertisementFBI links record $6.3 billion Binance crypto theft to North KoreaIran offers 48-hour Hormuz reopening plan as Trump signals progress in talksSouth Korea exports surge 93.7% in October, fastest growth since 1974",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-01T01:08:48Z",
+      "publishedAt": "2026-11-03T12:26:05Z",
       "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "MTc=",
+      "id": "MTI=",
+      "url": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
+      "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
+      "summary": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets.\nAmong the documents included in the filing is an updated version of Apple\u2019s insider trading policy.\nYou must also not tip Apple Confidential Information to others who may participate in such markets.\nApple Confidential Information includes, but is not limited to, material nonpublic information.\nThis prohibition applies whether or not the activity constitutes insider trading or securities trading under applicable laws.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-03T21:58:58Z",
+      "source": "9to5Mac"
+    }
+  },
+  {
+    "article": {
+      "id": "MTM=",
+      "url": "https://www.cnet.com/tech/services-and-software/openai-data-centers-rebrand-midterms-pr-campaign/",
+      "title": "AI Data Centers Have a PR Problem. OpenAI Is Proposing a Rebrand",
+      "summary": "The effort is a response to an increasingly enraged electorate, as backlash to AI data center construction becomes a unifying issue across party lines.\nMore from CNETSupporters of AI data centers often argue that the construction and operation of these massive AI server farms bring job growth to local communities.\nVoters will decide how much control Trump\u2019s administration retains over Congress on Tuesday \u2014 and the AI industry is a big-ticket issue this cycle.\nAs it stands, Trump is working directly with AI companies to define security threats and respond on their own terms.\nDemocratic politicians have generally eyed the AI gold rush with greater outward skepticism and scrutiny, with some members of Congress even backing a resolution opposing AI company bailouts in the event of a financial bubble popping.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-04T00:22:47Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MTQ=",
       "url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article",
       "title": "Taiwan's AI stock boom is making early-stage startups a tougher pitch",
       "summary": "Taiwan\u2019s AI stock boom is creating more ways for investors to profit from its chip supply chain, making early-stage startups a tougher pitch.\nFor Anderson Chen, the founder and CEO of Operon Solutions, a Y Combinator-backed industrial AI startup, that calculus was part of what shaped how he raised money.\nChu said Taiwanese investors had increasingly favored B- and C-round and pre-IPO companies, where the route to returns was clearer.\nPitchBook and the National Venture Capital Association said early-stage dealmaking was more favorable for AI startups than for non-AI peers in the first quarter of 2026.\nOperon's Chen said fundraising had become easier overall for Taiwanese deep-tech startups seeking overseas capital, helped by Taiwan\u2019s technical talent and semiconductor expertise.",
@@ -217,7 +181,7 @@
   },
   {
     "article": {
-      "id": "MTg=",
+      "id": "MTU=",
       "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
       "title": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet",
       "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet.\nThe infected devices were used without owners\u2019 knowledge for \u201cmalicious activity,\u201d like ad fraud, data exfiltration, and routing unauthorized network traffic.\nGoogle claims the \u201cbackdoor and botnet were intentionally developed, deployed, and operated for financial gain,\u201d saying:Videostrong monetized the backdoor by selling access to criminal affiliates and loading those affiliates\u2019 malware modules onto infected devices.\nThese secondary modules were conducting ad-fraud; silently enrolling infected devices into residential proxy networks; and loading additional malware onto XCPE-compromised devices.\nGoogle also says it made changes to its review process for device manufacturers after this incident.",
@@ -225,6 +189,42 @@
       "bias": "lean left",
       "publishedAt": "2026-11-02T20:58:45Z",
       "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTY=",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \u201cwhether AI has been used in their work,\u201d the site announced today as part of a big post about AI-generated content on the platform.\nAn outright ban will not eliminate AI from the modding process but will prevent people from mentioning its use.\n\u201cThis is less of an issue related to AI, but it\u2019s becoming much more prevalent as mod production is speeding up,\u201d Folmann says.\nNexus Mods\u2019 full AI policy is here, and mod authors have 60 days to update their existing mods to meet the requirements.\nThe 60-day grace period ends on January 2nd, and after that time, the site will begin enforcing the rules.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-11-04T00:42:54Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTc=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "summary": "In many circles, \u201cAsk Chat\u201d has replaced \u201cGoogle it,\u201d and that\u2019s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\n(Fry did not specify the source of the Google search volume number.)\nDuring the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it \u2014 now, OpenAI seems to agree.\n(OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.)\nMuch like Google, OpenAI sees a potential path to profitability through ads, particularly as it approaches an IPO potentially slated for early next year.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-03T18:30:42Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTg=",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "title": "Here\u2019s Why You Shouldn\u2019t Use AI to Vote",
+      "summary": "But a lot of information from these chatbots is out of date and has been hallucinated or sourced from partisan websites.\nAccording to the Forum AI research, almost 40 percent of election answers given by all the mainstream chatbots contained at least one factual error.\nPink slime sites present as mainstream news websites but are in fact funded by political or ideological groups and individuals.\nThe worst offender, according to NewsGuard, was OpenAI\u2019s ChatGPT, which cited the pink slime sites in more than 70 percent of searches, while xAI\u2019s Grok chatbot performed best, citing pink slime sites in 30 percent of cases.\n\u201cOne of the problems is that executives and companies have really overpromised on what AI is capable of.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-03T14:45:08Z",
+      "source": "Wired"
     }
   },
   {
@@ -242,30 +242,54 @@
   {
     "article": {
       "id": "MjA=",
-      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "summary": "By the time the three hikers called for help from a rocky face on Mount Shasta in Northern California, they\u2019d made a series of bad decisions.\nBy morning, they were lost on a gnarly part of the mountain, and one hiker had banged up his knee.\nTo these guys\u2019 credit, they did try,\u201d said Nick Meyers, US Forest Service program manager of the Mount Shasta Wilderness Climbing and Avalanche Center, which responded to the call.\nSome search and rescue veterans say that AI chatbots are just the latest tools giving people new ways to get into trouble.\nBefore that, hikers and other recreationists were led astray by their reliance on Google Maps or smartphone connectivity.",
+      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "title": "Netflix will show you themed recommendations through a new \u2018AI Discover\u2019 tab",
+      "summary": "He joined The Verge in 2019 after nearly two years at Techmeme.\nPosts from this author will be added to your daily email digest and your homepage feed.\nNetflix\u2019s TV app is getting a new \u201cAI Discover\u201d tab where the company will show experimental, AI-powered featuresto help you find new shows and movies to watch.\nThe first of these experiments surfaces content based around themes, like \u201cSomething Light,\u201d \u201cFamily Movie Night,\u201d or \u201cQuick Watches.\u201d When you pick a theme, Netflix will show you recommendations that match it.\nIf you don\u2019t like a recommendation, you can tell that to Netflix, and the app will remember it.",
       "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-11-01T10:30:00Z",
-      "source": "Wired"
+      "publishedAt": "2026-11-03T17:28:14Z",
+      "source": "The Verge"
     }
   },
   {
     "article": {
       "id": "MjE=",
-      "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
-      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
-      "summary": "You can often find some kind of Dyson vacuum on sale, though the best time is to wait for an event like Black Friday.\nWhile that\u2019s only a few weeks away, a few Dyson vacuums are already on sale.\nIf you\u2019re looking to pick up a new vacuum, here are the best Dyson deals I\u2019ve spotted this week.\nThe Best Dyson Robot Vacuum Deal Right NowThe Dyson Spot+Scrub Ai came out earlier this year but has already been surpassed as Dyson\u2019s top-of-the-line robot vacuum.\nThe Best Dyson Stick Vacuum Deal Right NowIf you\u2019re going to buy a Dyson vacuum on sale, you might as well go for one of the better ones.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "title": "\u2018Our Risk, Their Reward\u2019: Zohran Mamdani on AI and Data Centers",
+      "summary": "KATIE DRUMMOND: It was almost exactly this time last year that I interviewed you in your campaign office.\nOne, it was just before the election, but two, you were just about to have a birthday.\nI was remembering that this weekend, because I was in Sunset Park on Saturday.\nSunset Park, for those who don't know, is the best park in Brooklyn, and actually all of New York.\n[Laughs] He kept coming back, \u201cSo young!\u201d I don\u2019t think it\u2019s a barrier.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-02T21:00:00Z",
+      "bias": "lean left",
+      "publishedAt": "2026-11-03T11:00:00Z",
       "source": "Wired"
     }
   },
   {
     "article": {
       "id": "MjI=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "title": "Google hasn\u2019t figured out how to make AI pay like its search engine",
+      "summary": "But Google\u2019s AI makeover also contributed to the slowdown: AI Mode queries were growing strongly but monetizing at a lower rate than traditional searches, Schindler says.\nIn many cases, AI Overviews add generated summaries to search results; electing AI Mode turns searching into a conversation.\nGoogle is currently expanding ads in AI Overviews and AI Mode, including internationally and across multiple turns of US AI Mode conversations.\nGoogle\u2019s claim that most AI Mode queries are additional doesn\u2019t tell us how much revenue it could lose from the searches AI Mode replaces.\nSearch revenue is still growing by double digits, but the company has yet to show how well its new way of searching can pay.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-03T22:41:23Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjM=",
+      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant.\nIf you\u2019re in the US, you can also sign up for a spot on the waitlist for the new Sonos 27voice assistant on November 6th, with access starting on November 12th.\nThe company launched a revamped Sonos 27 app operating system update in September with the ability to connect AI agents to the app.\nRelated How Sonos rebooted itselfOther features coming to the Sonos app in this update include the ability to swipe on the \u201cNow Playing\u201d screen or mini player to skip tracks, and a way to rearrange your favorites.\nThe Sonos app can also work with the iOS-only System Health feature, which can help you spot problems in your setup.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-03T22:20:50Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjQ=",
       "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
       "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.\nBrave has allegedly provided \u201cstolen copyrighted content\u201d to \u201cmany\u201d AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere.\nBrave also promotes \u201chundreds of top publishers\u201d as being accessible through its \u201cPaywall blocker\u201d feature in its browser.\n\u201cBrave has never asked for the Publishers\u2019 permission to access their websites, much less to copy the material and provide it to users or other AI companies,\u201d the complaint says.\nAlso added a statement from the attorney who filed the lawsuit on behalf of those publications.",
@@ -277,43 +301,43 @@
   },
   {
     "article": {
-      "id": "MjM=",
-      "url": "https://games.slashdot.org/story/26/11/01/0431200/xbox-manager-ai-already-being-used-in-xbox-game-development---and-throughout-the-game-industry",
-      "title": "Xbox Manager: AI Already Being Used In Xbox Game Development",
-      "summary": "You can write a small letter to Grandma in the filename.\n-- Forbes Burkowski, CS, University of Washington",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-01T04:34:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "MjQ=",
-      "url": "https://www.businessinsider.com/doordash-sees-limited-ai-orders-but-explores-new-tools-2026-11#article",
-      "title": "DoorDash's CEO: Don't be 'delusional' after just a few hundred AI agent orders",
-      "summary": "The age of AI agents ordering your meals isn't here yet, according to DoorDash.\nInstead, customers are still using DoorDash's app and website to place orders, Xu said.\nDespite the low order volume through third-party agents, DoorDash is making changes to its own AI tools.\nThose AI tools could eventually generate new orders on DoorDash, Xu said.\nSign up By clicking \"Sign up\", you agree to receive emails from Business Insider.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-01T10:09:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
       "id": "MjU=",
-      "url": "https://www.businessinsider.com/openai-pitching-2028-hopefuls-how-to-talk-about-ai-2026-11#article",
-      "title": "OpenAI is already pitching 2028 hopefuls on how to talk about AI",
-      "summary": "OpenAI's top lobbyist is privately telling prospective 2028 candidates that artificial intelligence will define their bids for the White House.\nIf the US loses its AI lead to China, he writes, \"This could well be the 2028 version of the 2002 vote to go to war in Iraq.\"\nIn the memo, he encourages candidates to show voters how they will keep humans at the helm of consequential decisions.\n\"A world in which America leads will look very different from one in which the Chinese Communist Party sets the pace,\" Lehane writes.\n\"The successful candidates won't promise to stop the future or simply trust everything will work out,\" Lehane writes.",
+      "url": "https://www.businessinsider.com/chinese-ai-models-rankings-artificial-analysis-private-tests-anthropic-openai-2026-11#article",
+      "title": "Chinese AI Models Fall Behind Anthropic, OpenAI in New AI Rankings",
+      "summary": "Artificial Analysis said the best so-called open-weight AI models had trailed the overall leader by just three points under the previous system.\nChinese companies have been releasing powerful AI models that other businesses can download and adapt, often at lower costs than American alternatives.\n\"I do think the previous index was flattering the open weight models too strongly,\" said Nathan Lambert, cofounder of Trillium Labs, which researches large language models, especially open-weight models.\nSmaller usageThere's another reason to question the threat from open-weight AI models: How much are people actually using them?\nThat's a surprisingly small amount of computing power given the enormous attention Chinese AI models have attracted.",
       "category": "technology",
       "bias": "center",
-      "publishedAt": "2026-11-02T15:56:15Z",
+      "publishedAt": "2026-11-03T10:00:02Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MjY=",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o",
+      "title": "Action needed to tackle Jersey's 'biodiversity crisis'",
+      "summary": "A scrutiny panel has heard Jersey is in a \"biodiversity crisis\", amid concerns the government is not focusing on the environment enough.\nWillie Peggie, government Director of Natural Environment, said the Environment Department needed time and resources for a state of nature report.\nPiers Sangan, who runs Sangan Island Conversation, said a biodiversity crisis included more invasive species, fewer native species, and a decline in the ecosystem.\nThe environment minister said policies were being worked on to further protect the environment.\nPeggie said any state of nature report should be similar to those in the UK, external, Guernsey, external and Alderney, external.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-11-03T17:25:10Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjc=",
+      "url": "https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918",
+      "title": "UK.gov lacks understanding of climate impact, says watchdog",
+      "summary": "Bodies also expect higher maintenance and repair costs, potential asset upgrades, and transition costs.\nMany bodies expect increased operating costs, including energy charges.\n\"Bodies did not articulate transition risks as well as physical risks in the strategy disclosures.\n\"The transition risks most frequently identified included the financial cost of transition, and supply chain disruption.\nWater consumption by datacenters could intensify strain on the UK\u2019s water systems already stressed by climate change, it argued.\u00ae",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-11-03T10:15:00Z",
+      "source": "Theregister.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjg=",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
       "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
       "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nPosts from this author will be added to your daily email digest and your homepage feed.\nThe announcement comes as opposition to data centers spreads across the US, in response to massive projects that have begun development and construction, frequently with little or no input from local residents.\nIn Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double the state\u2019s peak electricity demand in 2025, and spread hot air in the desert valley surrounding the data center.\nThis is besides the environmental impacts, as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years.",
@@ -325,50 +349,26 @@
   },
   {
     "article": {
-      "id": "Mjc=",
-      "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
-      "title": "PsiQuantum Unveils Optical Circuit Switch Technology Built on Advanced, Low-Loss Silicon Photonics Platform \u2014 PsiQuantum",
-      "summary": "October 28, 2026PALO ALTO, Calif. \u2013 PsiQuantum today unveiled its Optical Circuit Switching (OCS) technology, demonstrating how the company\u2019s advanced, low-loss silicon photonics platform can be applied to some of the most significant scaling challenges facing AI infrastructure.\nAI systems are scaling faster than computing infrastructure, with increasingly large pools of compute placing enormous demands on the networks connecting them.\nAI and quantum computing are complementary technologies: more efficient AI infrastructure can accelerate the development and operation of quantum systems, while some advances made for quantum computing can help remove bottlenecks in AI infrastructure.\nAs optics make AI infrastructure more efficient, stronger AI infrastructure can in turn support the design, control, and operation of increasingly capable quantum systems.\nWhat we are demonstrating today is that this platform can deliver exceptional performance for optical circuit switching for AI computing.\"",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-02T01:34:16Z",
-      "source": "Psiquantum.com"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjg=",
-      "url": "https://www.entrepreneur.com/building-a-business/there-is-a-preparedness-paradox-facing-americas-small-businesses",
-      "title": "There is a Preparedness Paradox Facing America\u2019s Small Businesses",
-      "summary": "Backup connectivity is one of the easiest, most-affordable protections small businesses can buy, and often one of the most overlooked.\nThe good news is that small business cybersecurity solutions now include AI-powered security tools.\nAbout a third of small business owners surveyed said the answer is weeks, not months.\nRelief funding for small businesses exists, but it\u2019s not guaranteed and it rarely arrives quickly.\nVisit Verizon\u2019s Small Business Digital Ready platform to start your preparedness journey today.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-11-02T14:00:00Z",
-      "source": "Entrepreneur"
-    }
-  },
-  {
-    "article": {
       "id": "Mjk=",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-      "summary": "In BriefAI hasn\u2019t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity giant that used to own TechCrunch).\nApollo\u2019s Torsten Slok focuses on what he calls the S&P 493 \u2014 the S&P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia, and Tesla \u2014 finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity.\n\u201cDespite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,\u201d Slok said.\nIs this simply a matter of non-tech companies lagging behind the tech giants?\nSlok sounded skeptical, arguing that it will be tough for corporate America to \u201cturn increasingly cheap intelligence into higher revenue growth and higher profit margins.\u201d\u201cAI may be a great calculator, but in business, intelligence is mostly judgment,\u201d he wrote, later adding, \u201cAI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins.\u201dRecent studies have also found that AI has yet to deliver significant productivity gains.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-01T22:10:45Z",
-      "source": "TechCrunch"
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o",
+      "title": "Welsh public sector unlikely to meet net zero carbon plans, say auditors",
+      "summary": "It criticised the Welsh government for not defining the \"collective ambition\" for net zero by 2030 as a \"target\".\nSome public bodies told us this had added to uncertainty around the level of priority to attach to carbon reduction.\"\nIn 2017, the then-Labour Welsh government called for a net zero public sector by 2030, saying that public bodies were \"uniquely placed\" to influence emissions in areas such as buildings and transport.\nResponding to the report, a spokesperson for the Welsh government said: \"A net zero public sector is a priority for Welsh government.\n\"We want to continue to support the decarbonisation of the public sector to lower emissions, energy bills and strengthen energy security.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-11-03T08:57:20Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "MzA=",
-      "url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
-      "title": "Squarespace is laying off 19 percent of employees",
-      "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nThe website-building platform Squarespace is laying off 19 percent of its employees as it works to \u201csimplify\u201d its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge.\nThe job cuts will affect around 300 of Squarespace\u2019s 1,800 employees.\n\u201cThe changes are intended to simplify how we operate, sharpen our priorities and enable the company to move faster as we position Squarespace for its next phase of growth,\u201d Seedman says.\nThe private equity firm Permira also closed its acquisition of Squarespace around that time.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-11-02T16:50:47Z",
-      "source": "The Verge"
+      "url": "https://www.bgr.com/2300552/california-wind-farm-topsy-turvy-effect-local-weather/",
+      "title": "This California Wind Farm Is Having A Topsy-Turvy Effect On Local Weather",
+      "summary": "Fewer than two hours from the heart of Los Angeles, there is a wind farm.\nHere, at San Gorgonio Pass, over 600 turbines generate enough electricity to power thousands of homes.\nIn fact, this wind farm alone is estimated to prevent the release of nearly 1 million tons of carbon dioxide every single year.\nWhat's interesting about it, though, is that the San Gorgonio Wind Farm is changing the local climate ... just not in the way you might expect.\nIn 1989, meteorologists visited San Gorgonio and performed the first ever field campaign in an operational wind farm.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-11-03T13:17:00Z",
+      "source": "BGR"
     }
   },
   {
@@ -398,6 +398,18 @@
   {
     "article": {
       "id": "MzM=",
+      "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "summary": "While these hacks have been frequent, the country\u2019s hackers allegedly made off with their biggest heist to date last week when $6.34 billion was siphoned from the wallets belonging to crypto exchange Binance.\nIn a new security update issued on Tuesday, Binance detailed its initial findings into how the company was compromised and hackers were able to steal billions in just 20 minutes.\nThe hack, according to Binance, was the result of an engineer falling for a fake job interview and downloading malicious software.\nThe FBI quickly linked TraderTraitor to the Binance hack on October 31.\n\u201cBinance\u2019s account aligns with what we know about the TraderTraitor playbook,\u201d says Rafe Pilling, a senior director of threat intelligence at security company Sophos.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-03T19:04:58Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "MzQ=",
       "url": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
       "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
       "summary": "If you're a customer of cloud-hosted AI workflow platform Trigger.dev, take heed, because your environment variables may have been exposed in a security incident disclosed on Sunday.\nTrigger offered little explanation in its Sunday security incident report, noting that its investigation had identified \u201cexposure across a subset of organizations\u201d and that an attacker had gained unauthorized access to environment variables belonging to those organizations.\nREG ADWe likely don't have to tell The Reg readers how important environment variables are in SaaS and cloud services like Trigger.\nIf compromised environment variables contain sensitive credentials, an attacker could basically end up with the keys to the kingdom, potentially gaining access to connected services and digital infrastructure.\nTrigger has some fairly high-profile customers, with companies like fashion brand Emporio Armani, Pentagon-supporting AI acquisitions platform GovSignals, SaaS calendar platform Cal.com, and others all listed on the company\u2019s site.",
@@ -409,115 +421,7 @@
   },
   {
     "article": {
-      "id": "MzQ=",
-      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "summary": "The latest findings from Dream show that the threat actor continues to rely on social engineering, while combining both credential phishing and malware delivery.\n]online/drive/file/d/1JpH3ySmJpvX6TyGnF7C-S8qYiaoxyC5OThe threat actor has also been observed setting decoy brand domains for a fake videoconferencing application called StarkMeet (stark-meet[.\nThe development is also a sign that the threat actor is trying out different methods for malware delivery, ranging from coding assessments to counterfeit software.\nDream said the DarkBlinders activity belongs to the same operational cluster as UNC5795 and Dust Specter, citing infrastructure and malware overlaps.\nThis is the last place we expected to find the threat actor hiding.\"",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-02T14:46:05Z",
-      "source": "Internet"
-    }
-  },
-  {
-    "article": {
       "id": "MzU=",
-      "url": "https://www.cnet.com/home/energy-and-utilities/370000-dreo-space-heaters-recalled/",
-      "title": "Over 370,000 Dreo Space Heaters Recalled After 17 Catch Fire",
-      "summary": "Dreo has recalled its DR-HSH015 space heater due to the risk of the unit catching fire.\nDREO said it received 17 reports of space heaters igniting, three resulting in property damage and one in a burn injury to the hand.\nThe space heater was available from outlets including Home Depot, Best Buy, Kohl\u2019s and Costco, as late as October 2026.\nOwners should stop using the recalled space heaters immediately, disconnect them from power, destroy them by cutting off the power cable and contact the company for a free replacement.\nSpace heaters are a popular way to heat cold rooms, and CNET\u2019s own tests found that properly functioning units can help owners reduce their energy bills over winter.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-02T22:00:09Z",
-      "source": "CNET"
-    }
-  },
-  {
-    "article": {
-      "id": "MzY=",
-      "url": "https://grist.org/culture/american-dream-climate-change-poll-costs/",
-      "title": "Exclusive: Most voters believe climate change threatens the American Dream",
-      "summary": "This story is part of the series The Dream That Oil Built , which explores the connections between climate change, fossil fuels, and the American Dream.\nVoters, on the other hand, view climate change itself as a problem for their aspirations.\n\u201cWe identify a strong concern about climate change as a threat to achieving the American Dream,\u201d said Grace Adcox, a senior climate strategist at the progressive think tank.\nCost of living tops voters\u2019 worries about the American Dream; climate change ranks last Share of likely voters who named each as the greatest threat today to their ability to achieve or maintain the American Dream 5 percent said they didn\u2019t know.\nWhy do so many people think climate change will hurt the American Dream, if it\u2019s so close to the bottom of the list of their concerns today?",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-11-02T09:30:00Z",
-      "source": "Grist"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzc=",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary": "Fighting has resumed in Ukraine's Kherson after a six-day truce brought quiet to the front-line region for the first time in years.\nUkraine also accused Russian forces of using the humanitarian ceasefire to strengthen their military positions, rotate units and deliver ammunition.\nAnd although last week the guns fell silent in Kherson region, elsewhere in Ukraine Russia's air strikes continued, killing scores of civilians and destroying crucial infrastructure.\nSome commentators have argued that Trump himself would be interested in presenting the Oleshky ceasefire as a foreign policy achievement scored days before the US midterm elections on Tuesday.\nThere were emotional scenes when hundreds of Oleshky residents arrived in northern Ukraine on Saturday.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-02T17:33:19Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzg=",
-      "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11#article",
-      "title": "Microsoft AI chief says AI is not conscious and we should keep it that way",
-      "summary": "Mustafa Suleyman said in a lengthy X post on Sunday that AI models currently don't have consciousness and that developers should keep it that way.\n\"If consciousness started to emerge in training, I would call for everyone to stop AI development until we could design out those properties.\"\nIf any evidence were to emerge that AI models were conscious, Suleyman said it must be disclosed to the general public immediately so we can decide our next steps as a society.\nConversations around whether AI models could one day become conscious are picking up steam in the tech world.\nGoogle DeepMind published research papers this year about AI consciousness and how ascribing that characteristic could present challenges.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-01T19:45:17Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzk=",
-      "url": "https://www.bbc.co.uk/news/articles/c64g14ene2epo",
-      "title": "Broughshane Waterfowl Park: Recovery effort continues after oil tank vandalism",
-      "summary": "Recovery efforts are continuing after an oil spill caused by the vandalism of a nearby home heating oil tank resulted in the death of 13 birds from Broughshane Waterfowl Park.\nMore than 20 birds were transported to the USPCA's headquarters last week for urgent specialist care, but the death toll has continued to rise.\nThe popular attraction in County Antrim has been forced to close while efforts continue to remove oil from the pond.\nPolice have appealed for anyone with information to come forward.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-11-01T06:42:13Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDA=",
-      "url": "https://www.bgr.com/2300113/japan-fukoka-renewable-energy-saltwater/",
-      "title": "Not Wind, Not Solar: Japan's Renewable Project Makes Energy From Saltwater",
-      "summary": "Wind and solar power are both well established sources of renewable energy, but for nations with plenty of coastline, a promising emerging technology called osmotic power offers another possibility.\nOsmotic power involves generating electricity from the natural interaction between saltwater and freshwater, and Japan has turned the intriguing idea into a working power plant.\nThe technology uses a membrane that separates saltwater from freshwater.\nThe membrane allows water molecules to pass through from the freshwater side into the saltwater side, while blocking most of the salt.\nJapan, a country that's no stranger to exploring new energy technologies, began operating the osmotic power facility in the western city of Fukuoka in 2025 using concentrated brine left over from seawater desalination alongside treated wastewater.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-11-02T19:17:00Z",
-      "source": "BGR"
-    }
-  },
-  {
-    "article": {
-      "id": "NDE=",
-      "url": "https://www.yankodesign.com/2026/11/02/jackery-shrank-its-power-station-into-a-96wh-cube-with-140w-usb-c/",
-      "title": "Jackery shrank its power station into a 96Wh cube with 140W USB-C",
-      "summary": "Instead of tuning into ballgames, it stores 96Wh of energy and delivers up to 158W across two USB-C ports and one USB-A port.\nIt\u2019s the smallest power station Jackery has ever built.\nPort labels are printed directly on the panel, and a small bracket under the two USB-C ports marks their 140W maximum.\n140 Watts That Fit in a Tote BagThe USB-C ports offer up to 140W and support three fast-charging protocols: USB Power Delivery (PD), Programmable Power Supply (PPS), and Adjustable Voltage Supply (AVS).\nThe one step back: only one USB-C port accepts input, whereas the 100 Plus could charge through either.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-02T23:30:25Z",
-      "source": "Yanko Design"
-    }
-  },
-  {
-    "article": {
-      "id": "NDI=",
-      "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-nea-parliament-6515336",
-      "title": "No need for more PM2.5 forecasts as too many indicators may confuse public: Grace Fu",
-      "summary": "SINGAPORE: Singapore does not need additional PM2.5 forecasts as too many indicators may confuse the public, Minister for Sustainability and the Environment Grace Fu said on Tuesday (Nov 3).\nMs Fu said the 24-hour Pollutant Standards Index (PSI) and hourly readings of fine particulate matter (PM2.5) have worked well in guiding decisions.\n\u201cWe don\u2019t think there is a need to include 12-hour, 24-hour or 48-hour PM2.5 forecasts as having too many indicators may complicate our public messages,\u201d she said.\nMs Fu said the daily PSI forecast helps the public plan activities for the next day, while hourly PM2.5 readings can guide immediate outdoor activities.\nIn response to Mr Fadli's supplementary questions on whether the government can provide PM2.5 forecasts or qualitative trend indicators, Ms Fu said the current system is the right one.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-11-03T05:02:23Z",
-      "source": "CNA"
-    }
-  },
-  {
-    "article": {
-      "id": "NDM=",
       "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans",
       "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
       "summary": "The Trump administration has forcibly sent at least 25,000 people to third countries, according to a tally by nonprofits Refugees International and Human Rights First.\nSince taking office, Trump has attempted to put an end to resettlement programmes for Afghans started by former President Joe Biden.\nThe Trump administration has instituted record-low quotas for asylum applications globally.\nTrump ordered a halt to processing applications from Afghans after a man from Afghanistan allegedly shot two National Guardsmen in Washington, DC, in November 2025.\nThe Trump administration also included Afghan nationals in a blanket visa ban earlier this year, saying it would review immigration applications filed by anyone from the country.",
@@ -529,7 +433,7 @@
   },
   {
     "article": {
-      "id": "NDQ=",
+      "id": "MzY=",
       "url": "https://www.newyorker.com/magazine/2026/11/09/why-immigration-agents-dont-quit-in-protest",
       "title": "Why Immigration Agents Don\u2019t Quit in Protest",
       "summary": "Much of the outcry stirred by the harsh policies of the first Trump Administration was quelled by Joe Biden\u2019s promise of a more measured approach.\nStill, there was a feeling among immigration agents that they were being shackled by the new Administration.\nBy 2024, the Border Patrol had lost a quarter of its workforce, with many longtime agents opting for early retirement.\nThe operation was so unpopular with the rank and file that Border Patrol and ICE struggled to find personnel for the deployment.\n\u201cWe can\u2019t always support what happens just because it\u2019s one of us,\u201d a Border Patrol agent had told a private group chat in the wake of Pretti\u2019s killing.",
@@ -541,31 +445,19 @@
   },
   {
     "article": {
-      "id": "NDU=",
-      "url": "https://abcnews.com/US/indicted-ice-officer-accused-intentionally-striking-man-expected-surrender/story?id=137742480",
-      "title": "Indicted ICE officer accused of intentionally striking man expected to surrender on Monday",
-      "summary": "The Immigration and Customs Enforcement officer accused of intentionally striking a man in Houston earlier this month is expected to surrender on Monday morning, his attorney, David Lindenmuth told ABC News.\nMario Alberto Morales was indicted by a grand jury in Houston on a charge of second-degree aggravated assault with a deadly weapon, according to the Harris County District Attorney's Office.\nAuthorities say that\u2019s when the vehicle struck Parra Hernandez and then came to a stop.\nAccording to Lindenmuth, Morales is a former corrections officer who enlisted in the Army.\nMorales also worked as a detention and processing officer at the Port Isabel Detention Center and worked with DHS as an ICE contractor, Lindenmuth said.",
+      "id": "Mzc=",
+      "url": "https://www.breitbart.com/immigration/2026/11/03/13-foreign-nationals-arrested-for-selling-fake-immigration-services-to-migrants/",
+      "title": "13 Foreign Nationals Arrested for Selling Fake Immigration Services",
+      "summary": "Thirteen foreign nationals were arrested this month and charged for a scheme to defraud migrants by selling fake immigration legalization services to help them gain lawful status.\nLegacy would falsify immigration documents to fraudulently obtain immigration status and benefits for their clients.\nA recent article at Substack revealed an entire industry of fraudulent immigration services, some using fake AI representatives in videos posted to TikTok, to rip off vulnerable migrants on services that will never be provided.\nIn other news, a large chain launched by a woman who was hailed as a top immigration lawyer was busted for fraudulent legal services.\nFurther, Vinod Doddamani is facing a proposed $250,000 fine after investigators alleged he submitted 64 fraudulent documents across 32 separate immigration cases.",
       "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-11-01T03:40:52Z",
-      "source": "Abcnews.com"
+      "bias": "right",
+      "publishedAt": "2026-11-03T22:27:57Z",
+      "source": "Breitbart News"
     }
   },
   {
     "article": {
-      "id": "NDY=",
-      "url": "https://abcnews.com/US/indicted-ice-officer-accused-intentionally-ramming-man-expected/story?id=137742480",
-      "title": "Indicted ICE officer accused of intentionally striking man expected to surrender on Monday",
-      "summary": "The Immigration and Customs Enforcement officer accused of intentionally striking a man in Houston earlier this month is expected to surrender on Monday morning, his attorney, David Lindenmuth told ABC News.\nMario Alberto Morales was indicted by a grand jury in Houston on a charge of second-degree aggravated assault with a deadly weapon, according to the Harris County District Attorney's Office.\nAuthorities say that\u2019s when the vehicle struck Parra Hernandez and then came to a stop.\nAccording to Lindenmuth, Morales is a former corrections officer who enlisted in the Army.\nMorales also worked as a detention and processing officer at the Port Isabel Detention Center and worked with DHS as an ICE contractor, Lindenmuth said.",
-      "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-11-01T03:28:38Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NDc=",
+      "id": "Mzg=",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm",
       "title": "At least seven migrants die on boat bound for Canary Islands amid storm",
       "summary": "At least seven migrants die on boat bound for Canary Islands amid stormNewsFeed At least seven migrants die on boat bound for Canary Islands amid stormAt least seven migrants have died aboard a boat carrying 139 people bound for the Canary Islands after a storm hit.\nRescuers reached the boat early on Monday, about 150km from Arrecife.\nFive bodies are missing overboard and two have been recovered.",
@@ -577,79 +469,55 @@
   },
   {
     "article": {
-      "id": "NDg=",
-      "url": "https://www.aljazeera.com/news/2026/11/3/uk-to-double-wait-for-permanent-residency-with-exemptions-for-care-workers",
-      "title": "UK to double wait for permanent residency, with exemptions for care workers",
-      "summary": "Share UK to double wait for permanent residency, with exemptions for care workers on social mediaThe United Kingdom has revised its immigration rules, doubling the time most foreign workers must wait to qualify for permanent residency to 10 years and making refugees who arrive on \u201csmall boats\u201d wait as long as 30 years.\nPermanent residency, known in the UK as indefinite leave to remain, carries the right to work, study, use the free National Health Service and claim welfare benefits.\nThe new rules, set to take effect next year, tie eligibility for permanent residency to income.\n\u201cThose who don\u2019t play by the rules will be refused or wait longer.\u201dCare workers, refugeesThe UK government first proposed last year that lower-skilled workers wait 10 to 15 years for permanent residency.\nMahmood said the rules would offer a path for care workers \u201cwho worked hard and answered our call when we needed them\u201d.",
-      "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-11-03T04:48:45Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NDk=",
-      "url": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon",
-      "title": "Israel\u2019s war on homes",
-      "summary": "\u201cAround 12:30 at night, the Israeli army vehicles were at al-Jalda Square,\u201d one Hebron resident told Al Jazeera.\n\u201cThey told us to leave our homes.\nWe left with the clothes on our backs.\u201dHours earlier on October 23, two Israeli soldiers had been killed by armed Palestinian men at a checkpoint near the city.\nHebron, the occupied West Bank\u2019s largest city, has been under Israeli siege ever since, with restrictions extending across a governorate of about 800,000 Palestinians.\nA black X now marks the homes from which families have been forcibly expelled.",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-11-01T07:34:55Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTA=",
-      "url": "https://www.dailymail.com/news/article-16257087/Mahmood-poised-massively-cut-immigration-crackdown.html",
-      "title": "Shabana Mahmood poised to massively cut back immigration crackdown in wake of demands from Labour's Left-wing",
-      "summary": "Plans to toughen immigration rules are expected to be massively watered down on Monday after a highly damaging battle within the Labour Party.\nHome Secretary Shabana Mahmood's proposals to make low-skilled foreign migrants wait far longer for 'settled' status in Britain have been rewritten after strident opposition from her party's Left-wing.\nLow-skilled foreign workers and anyone relying on welfare during that time would wait even longer.\nShadow Home Secretary Chris Philp said: 'It's clear Shabana Mahmood has been forced to surrender to Angela Rayner and the open-borders Labour Left.\n'After talking tough all year, Mahmood now appears to have capitulated control of immigration policy to Angela Rayner - and Mahmood's position is looking increasingly untenable.'",
-      "category": "immigration",
-      "bias": "lean right",
-      "publishedAt": "2026-11-01T23:43:59Z",
-      "source": "Dailymail.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NTE=",
-      "url": "https://www.yahoo.com/news/politics/articles/five-questions-determine-midterms-shake-160155986.html",
-      "title": "Five questions that will determine how the midterms shake out",
-      "summary": "Here are the five questions that probably will determine how Tuesday's midterm elections turn out.\nBy all accounts, many Democratic voters across the country are excited to vote.\nIn Florida's Senate race, Democrats nominated democratic socialist Angie Nixon, and few analysts see the race as competitive - despite the governor's race being competitive.\nTech billionaire Elon Musk is intently focused on Texas's Senate race, trying to boost the scandal-plagued Republican candidate, Ken Paxton.\nThe Justice Department also tried to stop the certification of the results in Alaska's Senate race if the Republican narrowly loses.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-11-02T16:01:55Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NTI=",
-      "url": "https://www.yahoo.com/news/politics/article/doj-appeals-to-supreme-court-to-set-aside-20000-california-ballots-from-suspected-noncitizens-heres-what-to-know-192102635.html",
-      "title": "DOJ appeals to Supreme Court to set aside 20,000 California ballots from suspected noncitizens. Here's what to know.",
-      "summary": "The Trump administration on Monday appealed to the Supreme Court to order California election officials to set aside mail-in ballots from people it believes are noncitizens.\nElection officials say the list is unreliable and likely includes many citizens' names.\nIn its appeal to the Supreme Court, the Trump administration asked for a \"limited injunction\" to set aside the ballots while the case plays out.\nWhat does this mean for California voters?\nNo court has ordered California to set aside any ballots, and counties are still processing the ballots voters return.",
+      "id": "Mzk=",
+      "url": "https://crooksandliars.com/2026/11/trump-rewrites-obamas-immigration-history",
+      "title": "Trump Rewrites Obama's Immigration History In Bizarre Rant",
+      "summary": "It's Election Day, with people lining up to cast their ballots, and Republicans are fully aware that they're about to lose power.\nTrump's midterm message is not to forget to include Barack Obama's middle name on Fox News while rewriting the Obama administration's immigration history live on TV.\n\"Under Barack Hussein Obama, tremendous numbers of people came in from the Middle East who hate Jewish people,\" he insisted.\nIn fact, the rate of Christian refugee admissions was 50 percent lower under Lyin' Trump\u2019s first two years than under Obama\u2019s entire term.\nAs Obama said about the Trump administration recently, \"These are not serious people,\" and Donald just confirmed that on Election Day.",
       "category": "immigration",
       "bias": "lean left",
-      "publishedAt": "2026-11-02T19:24:00Z",
-      "source": "Yahoo Entertainment"
+      "publishedAt": "2026-11-03T23:03:06Z",
+      "source": "Crooksandliars.com"
     }
   },
   {
     "article": {
-      "id": "NTM=",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456",
-      "title": "Iran live updates: Americans 'said NO TO WAR,' Ghalibaf says of midterm results",
-      "summary": "Iran live updates: Americans 'said NO TO WAR,' Ghalibaf says of midterm resultsAn Iranian woman holds a portrait of Iran's Supreme Leader Ayatollah Mojtaba Khamenei during a rally in Tehran's Enghelab Square on Nov. 3, 2026.\nAn Iranian woman holds a portrait of Iran's Supreme Leader Ayatollah Mojtaba Khamenei during a rally in Tehran's Enghelab Square on Nov. 3, 2026.\nAn Iranian woman holds a portrait of Iran's Supreme Leader Ayatollah Mojtaba Khamenei during a rally in Tehran's Enghelab Square on Nov. 3, 2026.\nAn Iranian woman holds a portrait of Iran's Supreme Leader Ayatollah Mojtaba Khamenei during a rally in Tehran's Enghelab Square on Nov. 3, 2026.\nThe opening strikes killed a host of top Iranian officials and commanders, among them Supreme Leader Ayatollah Ali Khamenei.",
+      "id": "NDA=",
+      "url": "https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race",
+      "title": "Surging ICE raids shadow final weeks of California congressional race",
+      "summary": "Local organisations and representatives say immigration raids have spread fear and uncertainty through communities.\n\u201cIt\u2019s having an impact on people who just want to go to work, want to go to school,\u201d he added.\n\u2018Unlawfully targeted\u2019Immigration authorities say the raids have targeted criminals and deny that they are racially discriminatory.\nWhile California in general is a bastion of support for the Democratic Party, rural areas are often favourable terrain for Republicans.\nAdvertisementPriscilla Ortega, a 23-year-old in the city of Lamont, said she is \u201cannoyed and very angry\u201d about rising prices and the impact of immigration raids.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-11-03T09:13:49Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NDE=",
+      "url": "https://www.thenational.scot/news/26692688.israel-linked-far-right-great-replacement-theory-influence-campaign/",
+      "title": "Israel linked to far-right great replacement theory influence campaign",
+      "summary": "Sohan Dsouza told The National: \u201cWe can\u2019t really assert that it definitely is Israel.\nBut the evidence shows that the entities involved in this operation are based in Israel, and have run influence campaigns for individuals and parties in the Israeli government.\u201dIt is estimated that over \u00a36 million was spent on \"great replacement\" ads linked to Israel.\n(Image: Getty)The report found that the campaign combined AI-generated imagery and songs, videogame and music-festival parodies, and repurposed footage of migration and protests.\nThe researchers released their first report in July 2024, where they linked an influence operation that was pushing racist content to European social media users, supposedly based in Vietnam, back to Israel.\nThe researchers traced the first phase of the campaign to Israeli interests through Vietnamese proxies and pro-Israel Evangelical Christian connections in the US.",
       "category": "international",
       "bias": "left",
+      "publishedAt": "2026-11-03T15:23:21Z",
+      "source": "The National"
+    }
+  },
+  {
+    "article": {
+      "id": "NDI=",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456",
+      "title": "Iran live updates: Americans 'said NO TO WAR,' Ghalibaf says of midterm results",
+      "summary": "Iranian Supreme Leader Ayatollah Mojtaba Khamenei said on Wednesday that U.S. military and soft power had suffered an \"irreversible decline\" in the ongoing conflict with Tehran in the Middle East.\nThe statements were released on Wednesday to mark the 47th anniversary of the storming of the U.S. embassy in Tehran in 1979.\nIranians hold an anti-U.S. placard and a portrait of Iran's Supreme Leader Ayatollah Mojtaba Khamenei during a rally in front of the former U.S. embassy to mark the anniversary of the 1979 Iran hostage crisis, in Tehran on Nov. 4, 2026.\n\"The slightest inclination towards surrender will embolden the arrogant enemy,\" Khamenei said, urging stronger deterrence measures by Tehran.\nAnyone with \"even the slightest hope\" that the U.S. would change its approach \"through partisan or factional shifts\" is \"seriously mistaken,\" he continued.",
+      "category": "international",
+      "bias": "lean right",
       "publishedAt": "2026-11-02T12:15:10Z",
       "source": "Abcnews.com"
     }
   },
   {
     "article": {
-      "id": "NTQ=",
+      "id": "NDM=",
       "url": "https://www.yahoo.com/news/us/articles/where-things-stand-iran-tense-085523514.html",
       "title": "US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says",
       "summary": "WASHINGTON (AP) \u2014 The United States has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, a U.S. official said Monday, on the eve of crucial midterm elections.\nBefore the strikes were confirmed, U.S. Vice President JD Vance offered measured optimism that a deal could still be struck.\nTrump told reporters that letter was focused on assisting Iran with \"medical supplies and various things.\"\n\"We've had a number of good conversations with the Iranians,\" Vance told reporters Monday when asked about the letter.\nThe two officials said diplomatic efforts have made progress, with Qatari mediators holding two rounds of talks last week with Iranian officials.",
@@ -661,31 +529,7 @@
   },
   {
     "article": {
-      "id": "NTU=",
-      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know",
-      "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-      "summary": "Trump says latest talks \u2018going fine\u2019; while Iranian leaders say they favour diplomacy but are ready for maximum response if the US resumes war.\nBut even amid signs of diplomatic progress, officials from both sides say they are ready for renewed military escalation.\nHere\u2019s what we know about the latest diplomatic efforts and the sharp rhetoric from both sides, and what it could mean for what lies ahead:What is the status of talks?\nAraghchi said on Saturday that an Iranian delegation, including one of his aides, travelled to Doha to meet Qatari mediators.\nWhat explains the parallel diplomatic efforts and war rhetoric?",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-01T11:14:27Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTY=",
-      "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war",
-      "title": "Iran and US explore diplomacy amid rising threats of war",
-      "summary": "Tehran, Iran \u2013 Ongoing contacts through mediators have provided a potential diplomatic opening between Iran and the United States, even as both sides express readiness for renewed military escalation.\nAfter two days of Qatari-mediated talks, Iranian authorities have signalled that a deal remains possible provided that their demands are tangibly implemented.\nOur forces are at the highest level of readiness.\u201dHis comments came as US President Donald Trump said on Saturday the talks were going \u201cfine\u201d but added that Iranian authorities were not \u201creliable\u201d.\nThe Republican leader, who ordered attacks alongside Israel against Iran on February 28, has repeatedly raised prospects of once more hitting the country\u2019s civilian infrastructure.\nIranian authorities have previously said if Iran\u2019s civilian infrastructure is attacked again, seabed cables and infrastructure across the region could also become targets.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-01T13:02:10Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTc=",
+      "id": "NDQ=",
       "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict",
       "title": "What\u2019s the future of the Western Sahara conflict?",
       "summary": "The United Nations ends its peacekeeping mission in the disputed territory.\nThe dispute over the territory of Western Sahara started more than 50 years ago.\nSince then, both Morocco and the Polisario Front have claimed the Western Sahara.\nIn the 1990s, the United Nations tried to reach a settlement, and deployed a peacekeeping mission to the region.\nLast week, that effort ended when Russia and the United States blocked proposals to extend the mission\u2019s mandate.",
@@ -697,7 +541,43 @@
   },
   {
     "article": {
-      "id": "NTg=",
+      "id": "NDU=",
+      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "summary": "Iran's chief negotiator in talks with the US has said that Americans voted \"NO TO WAR\", after President Donald Trump's Republican Party suffered a stunning defeat in the midterm elections.\nTrump acknowledged on Tuesday that the poor results for Republican congressional candidates were partly due to the war and the related surge in petrol prices.\nIn an interview with Fox News, Trump said of the midterm results: \"I think a part of it was Iran\".\nSpeaking separately to the BBC's US news partner, CBS News, Trump said the conflict would end \"when I say it ends\".\nThe IRCG also reported on Wednesday that its forces had shot down another US MQ-9 drone over the Strait of Hormuz.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-11-04T07:17:08Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDY=",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "summary": "Fighting has resumed in Ukraine's Kherson after a six-day truce brought quiet to the front-line region for the first time in years.\nUkraine also accused Russian forces of using the humanitarian ceasefire to strengthen their military positions, rotate units and deliver ammunition.\nAnd although last week the guns fell silent in Kherson region, elsewhere in Ukraine Russia's air strikes continued, killing scores of civilians and destroying crucial infrastructure.\nSome commentators have argued that Trump himself would be interested in presenting the Oleshky ceasefire as a foreign policy achievement scored days before the US midterm elections on Tuesday.\nThere were emotional scenes when hundreds of Oleshky residents arrived in northern Ukraine on Saturday.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-02T17:33:19Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDc=",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
+      "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+      "summary": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.\nAmid growing concerns about renewed attacks on Iran following Tuesday\u2019s midterm elections in the United States, US forces have struck Iran\u2019s Qeshm Island in what officials have reportedly described as a defensive measure.\nHere\u2019s what we know:What happened in the attack on Qeshm Island?\nThe US first struck a critical desalination plant on Qeshm Island on March 7 \u2013 one week into the war.\nThey have no money, no gasoline, and their people are getting very tired of it,\u201d Trump told Axios in an interview.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-11-03T10:40:34Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NDg=",
       "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
       "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
       "summary": "Iran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.\nUS President Donald Trump has signalled progress towards a possible agreement with Iran, as Tehran pushes to accelerate its ceasefire proposal.\n\u201cIt looks like that\u2019s coming together very nicely,\u201d Trump said on Monday at the Lincoln Memorial Reflecting Pool in Washington, DC.\nThe proposal includes a swift reopening of the Strait of Hormuz and a return to talks over Iran\u2019s nuclear programme.\nDespite the latest expressions of optimism, Trump has suggested several times that the US could strike Iran after the November 3 US midterm elections.",
@@ -709,7 +589,7 @@
   },
   {
     "article": {
-      "id": "NTk=",
+      "id": "NDk=",
       "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific",
       "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
       "summary": "Hit hard by Donald Trump\u2019s tariffs and the war on Iran, countries in the Asia-Pacific region want \u2018enormous changes\u2019 in US foreign policy.\nShare War, tariffs and China: What the US midterms mean for the Asia-Pacific on social mediaKuala Lumpur, Malaysia \u2013 Across the Asia-Pacific region, governments and businesses reeling from the energy shock of the United States and Israel\u2019s war on Iran are watching Tuesday\u2019s US midterm elections closely.\n\u201cIt\u2019s great political theatre.\u201dOutside the Middle East, no region has been hit harder by the war on Iran than the Asia-Pacific.\n\u2018Tariffs don\u2019t change\u2019On trade and tariffs, too, analysts see little room for Congress to rein in Trump.\nThe two men have met twice this year as ties have warmed after a bitter and costly trade war last year.",
@@ -721,11 +601,35 @@
   },
   {
     "article": {
-      "id": "NjA=",
+      "id": "NTA=",
+      "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south",
+      "title": "Lula\u2019s victory is a stress test for the Global South",
+      "summary": "Chinese President Xi Jinping, meanwhile, warmly congratulated Lula and hailed China-Brazil relations as \u201ca model of solidarity and cooperation among Global South countries\u201d.\nBut it is less a triumph for Beijing than a stress test for the Global South.\nThe longer-term challenge is whether China can help Brazil withstand that pressure through trade, investment and financial arrangements that endure beyond Lula\u2019s presidency.\nThe Global South stakesThe outcome in Brazil will shape how other Global South capitals watch the US-China rivalry.\nThe Global South does not need patrons.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-04T06:12:59Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTE=",
+      "url": "https://www.yahoo.com/news/articles/trump-says-us-halt-4-140212112.html",
+      "title": "US will halt $4B in aid to Israel as the Mideast ally weans itself from American dependence",
+      "summary": "Trump said Israel doesn't need the aid and it's a lot of money for the U.S. to spend.\nYou can consider military aid or cash,\" Trump said.\nTens of billions of dollars have gone to IsraelThe United States has sent tens of billions of dollars in military aid to Israel over decades.\nNetanyahu has talked about the need to wean Israel off the aid in the past and has said that the American aid would end at some point.\nAdvertisement AdvertisementHe told The Economist in January that he wanted to \"taper off\" U.S. military aid in the next 10 years and that such a change was \"in the works.\"",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-03T14:02:12Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NTI=",
       "url": "https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/",
       "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
       "summary": "During today\u2019s earnings call following its fiscal Q4 2026 report, Apple said it expects its December quarter \u201cto be the best quarter for revenue in the history of the company.\u201d Here are the details.\nApple on track for biggest quarter everApple today reported its fiscal Q4 2026 results, with revenue climbing 12% year over year to $114.5 billion and net profit reaching $30.71 billion.\nThis marked September-quarter records on both fronts, despite supply constraints on iPhone, Mac, and iPad, as well as rising memory costs.\nWe expect this to be the best quarter for revenue in the history of the company.\nIf this pans out, Apple\u2019s fiscal Q1 2027 revenue should fall between $153.82 billion and $158.13 billion, adding between $10 billion and $14.4 billion in revenue compared to the year-ago quarter.",
-      "category": "economics",
+      "category": "technology",
       "bias": "lean right",
       "publishedAt": "2026-11-02T23:38:32Z",
       "source": "9to5Mac"
@@ -733,7 +637,19 @@
   },
   {
     "article": {
-      "id": "NjE=",
+      "id": "NTM=",
+      "url": "https://www.yahoo.com/news/politics/articles/exclusive-us-intelligence-sharing-fractured-110514786.html",
+      "title": "US intelligence sharing has fractured under Trump, officials say",
+      "summary": "Advertisement AdvertisementAdvertisement AdvertisementThe problems emerged during Tulsi Gabbard's tenure \u200cas director of national intelligence, amid deep tensions between her office and the CIA.\nOne US intelligence official said the CIA has begun engaging as co-authors on some of the group's assessments in recent months.\nWhile the CIA continued sharing intelligence with the NIC and working with it on some reports, its analysts focused on their own assessments.\nNEW BARRIERSSome former intelligence officials worry that new barriers \u200care appearing between agencies.\nClayton, who became director of national intelligence in August, has resumed congressional briefings on election threats, officials said.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-11-03T11:55:12Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "NTQ=",
       "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access",
       "title": "US to suspend South Africa and Rwanda from duty-free trade access",
       "summary": "Share US to suspend South Africa and Rwanda from duty-free trade access on social mediaThe United States has said it will suspend South Africa and Rwanda from duty-free trade benefits under the African Growth and Opportunity Act (AGOA), effective January 1, 2027.\nSouth Africa has been the largest beneficiary of the programme, exporting about $1.7bn worth of goods to the US under AGOA in 2025.\n\u201cPresident Trump found that the governments of Rwanda and South Africa are engaging in practices that are inconsistent with AGOA\u2019s eligibility criteria,\u201d Greer said in a statement.\nWith regard to South Africa, Washington said it was concerned by barriers to US trade and investment, corruption and threats to US national security and foreign policy interests.\nGrowing tensionsPresident Donald Trump\u2019s administration has cracked down on South Africa for what Trump says is its persecution of white people.",
@@ -745,98 +661,14 @@
   },
   {
     "article": {
-      "id": "NjI=",
-      "url": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
-      "title": "The 2026 iPad Mini is a terrific tiny tablet \u2014 for a big price",
-      "summary": "For the past week, I\u2019ve been testing the midnight iPad Mini with cell service, 512GB of storage, and the nano-texture matte display coating.\nIf you don\u2019t already know the iPad Mini is your one true love, there\u2019s probably a better iPad out there for you.\nBut if you\u2019re an iPad Mini Person and you can stomach the price?\nAs ever, the iPad Mini is really only for iPad Mini People (and pilots and oil riggers, apparently).\nThis is a very good iPad Mini, but it\u2019s not quite the Mini in its final form.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-03T02:55:45Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "NjM=",
-      "url": "https://www.juancole.com/2026/11/britains-crisis-decline.html",
-      "title": "Britain\u2019s Suez Crisis Marked its Decline; Could Iran do the Same to U.S.?",
-      "summary": "Seventy years ago, the Egyptian government nationalised the Suez canal, sparking the Suez crisis.\nIts loss became particularly pressing during the Suez crisis as the pound came under intense pressure.\nDuring the Suez crisis, Britain\u2019s currency weakness and dependence on American financial support constrained its ability to act independently, despite its considerable military power.\nGeoeconomics, the relationship between economics and geopolitics, also played a central role in the Suez crisis.\nThe Suez crisis illustrates how political leaders can be slow to appreciate the economic constraints on their geopolitical ambitions.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-03T05:04:06Z",
-      "source": "Juancole.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NjQ=",
-      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
-      "title": "Israeli officials say results stand as Netanyahu claims election \u2018stolen\u2019",
-      "summary": "Election body says deadlocked result won\u2019t be undermined even if foreign interference claims are found to be true.\nThe head of Israel\u2019s elections commission has said the results of the country\u2019s general election would still stand even if claims of foreign interference were substantiated.\nIts leader, Mansour Abbas, denounced the arrests as undemocratic and \u201can attempt to influence the election results\u201d.\n\u2018Orchestrated and organised campaign\u2019Main opposition leader Eisenkot on Sunday accused Netanyahu of launching an \u201corchestrated and organised campaign to delegitimise the results\u201d.\nIsrael\u2019s three Arab-led parties, including the Ra\u2019am party, won a record 19 seats.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-02T00:29:16Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjU=",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126",
-      "title": "What we know about latest efforts to end US war on Iran",
-      "summary": "What we know about latest efforts to end US war on IranNewsFeed What we know about latest efforts to end US war on IranThe foreign ministers of the US and Iran say a diplomatic end to the war is still possible.\nAn Iranian delegation is in Doha talking to Qatari mediators but no direct US-Iran talks are planned.\nMeanwhile, Iran\u2019s Supreme Leader told the military to prepare to defend the country.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-01T03:24:02Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjY=",
-      "url": "https://skift.com/2026/11/02/adani-expects-one-or-two-foreign-airlines-to-pause-mumbai-flights-rather-than-move-airports/",
-      "title": "Adani Expects \u2018One or Two\u2019 Foreign Airlines to Pause Mumbai Flights Rather Than Move Airports",
-      "summary": "Some international airlines may temporarily suspend their Mumbai services rather than shift operations to Navi Mumbai International Airport, said Arun Bansal, CEO of Adani Airport Holdings.\n\u201cThere might be one or two airlines that decide not to operate from Mumbai for a couple of years, but that will have almost no impact on the overall passenger count,\u201d Bansal said during Adani Enterprises\u2019 second-quarter earnings call last week.\nHe added that the airport is close to wrapping up discussions with most international airlines, with only a few dialogues still to be resolved.\nThe proposed shift is part of a larger operational change at Mumbai\u2019s Chhatrapati Shivaji Maharaj International Airport (CSMIA), which Adani also operates.",
+      "id": "NTU=",
+      "url": "https://www.vox.com/politics/508758/trump-israel-aid-midterms-netanyahu",
+      "title": "Trump just said he was ending aid to Israel. He might actually mean it.",
+      "summary": "Jack Guez/AFP via Getty ImagesPresident Donald Trump announced Tuesday that the US would soon cut off military aid to Israel.\nTrump also suggested that Israeli Prime Minister Benjamin Netanyahu agreed with this reasoning and supported a cessation of US aid to his country.\nSimilar concerns have been voiced by former Israeli Prime Minster Naftali Bennet and ex-Israeli ambassador to Israel Michael Oren.\nDirect financial aid provokes political blowback in a way that other, more essential forms of US assistance do not.\nIn a recent survey from the Chicago Council on Global Affairs, a majority of Americans favored either reducing or ending aid to Israel.",
       "category": "international",
       "bias": "lean right",
-      "publishedAt": "2026-11-02T12:05:07Z",
-      "source": "Skift"
-    }
-  },
-  {
-    "article": {
-      "id": "Njc=",
-      "url": "https://www.aljazeera.com/opinions/2026/11/1/a-gulf-non-aggression-pact-could-be-the-path-forward",
-      "title": "A Gulf non-aggression pact could be the path forward",
-      "summary": "Proposing a non-aggression pact amid regional hostilities may seem premature.\nIn May of that year, then Iranian Foreign Minister Javad Zarif proposed a regional non-aggression pact with Gulf neighbours during a visit to Baghdad, which Russia\u2019s Foreign Minister Sergey Lavrov endorsed.\nThat September, Iranian President Hassan Rouhani launched the Hormuz Peace Endeavour (HOPE) at the UN General Assembly, envisaging a non-aggression pact among Hormuz states.\nConcluding a pact that worksThe strongest objection against a Gulf pact with Iran is simple: Why trust a state whose conduct has threatened the region\u2019s security?\nA regional pact would not settle every conflict touching the Gulf.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-01T07:03:56Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "Njg=",
-      "url": "https://abcnews.com/Politics/election-day-voter-poll/story?id=73792952",
-      "title": "What you need to know about the Election Day Voter Poll",
-      "summary": "What you need to know about the Election Day Voter PollA person holds an \"I Voted\" sticker in the town hall in Bangor, Maine, during early midterm voting, October 16, 2026.\nThe Voter Poll will also help explain what issues were important in the election and how important demographic groups voted.\nThe Voter Poll starts by contacting likely voters just before Election Day using multiple methods, including online, mailed postcards, text message, email and phone calls.\nPre-election respondents who have not voted at the time of their initial response are recontacted starting at 5 p.m. local time the day before Election Day through poll closing time in each state on Election Day.\nOn Election Day there is a strict embargo on any data coming from the early waves of the Voter Poll until 5 p.m.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-11-02T20:29:54Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "Njk=",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "summary": "Britain and France are to lead a military exercise to test a multinational force's ability to deploy to Ukraine, if there is a peace deal.\nPlans for a reassurance force for Ukraine were set out last year as one of the long-term security guarantees being proposed by European nations.\nBut there are still more questions than answers as to how such a military force might work in practice.\nHe said: \"This is not a hypothetical plan, it's a real force, ready to help Ukraine once the fighting stops.\"\nLt Gen Tom Bateman, the UK commander of the Multi National Force \u2013 Ukraine (MNF-U), said the exercise represented an important step in translating political commitments into credible military readiness.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-03T00:07:05Z",
-      "source": "BBC News"
+      "publishedAt": "2026-11-03T19:40:14Z",
+      "source": "Vox"
     }
   }
 ]

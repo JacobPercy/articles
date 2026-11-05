@@ -1,6 +1,16 @@
 [
   {
-    "id": "Mg==",
+    "id": "MA==",
+    "url": "https://finance.yahoo.com/economy/article/more-and-more-disenchanted-a-final-check-in-on-trumps-economic-approval-ratings-before-midterms-100000424.html",
+    "title": "'More and more disenchanted': A final check-in on Trump's economic approval ratings before midterms",
+    "summary": "President Trump's economic approval ratings are hovering at second-term lows, with inflation worries the central headwind for the president and his party as the midterm elections loom.\nA raft of recent polls underscores this reality: Trump's low overall approval ratings are being dragged down by economic sentiment that is even lower.\nA new national poll released on Sunday by NBC News found that a majority of Republicans \u2014 53% \u2014 say they are dissatisfied with the state of the economy.\nThe president is facing a negative net rating of -29.7% on trade and -31.1% on the economy overall, according to Silver, with this economic drag outpacing Trump's overall net approval rating of -22.6%.\nOne possible glimmer of hope for Republicans in that data: 20% of voters say they are either unsure or that neither party would do a better job.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-02T10:00:00Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MQ==",
     "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
     "title": "BMW is taking on Tesla\u2019s FSD with urban driver assist starting in 2027",
     "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow.\nWhile driving in town, it can assist with changing lanes, making turns, yielding to other cars, and driving through roundabouts.\nBMW, in particular, recently introduced its next-generation Neue Klasse platform, which includes a driver assist system partly powered by Qualcomm\u2019s technology.\nAnd with hands-free highway driving now widely available in many mass-market vehicles, the next frontier is a safe and capable city driving feature that rivals FSD.\nBMW is entering risky territory with the adoption of a Level 2 driving feature.",
@@ -8,6 +18,26 @@
     "bias": "lean left",
     "publishedAt": "2026-11-02T20:04:22Z",
     "source": "The Verge"
+  },
+  {
+    "id": "Mg==",
+    "url": "https://finance.yahoo.com/economy/article/prediction-markets-vs-polls-election-forecasting-industry-faces-midterm-test-100000463.html",
+    "title": "Prediction markets vs. polls: Election forecasting industry faces midterm test",
+    "summary": "Prediction markets and pollsters both say Democrats are favored to take both the US House and Senate in the midterms.\nThat's setting up what could be another chapter in the burgeoning rivalry between prediction markets and polls following 2024's closely watched results.\nThree prediction markets place a 77.3% chance of Democrats taking control, while two polling-based models put the chances a bit higher at 80.2%.\nThis analysis was conducted by averaging the daily odds from three leading prediction markets, Kalshi, Polymarket, and PredictIt, to create one rolling prediction market measure.\nThis was especially true in 2024, when a 10-percentage-point difference between prediction markets and polls led to some post-election analyses claiming that prediction markets had gotten the results right and polls had gotten them wrong.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-03T14:43:53Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "Mw==",
+    "url": "https://www.businessinsider.com/2026-midterms-elon-musk-tech-ai-economy-2026-11#article",
+    "title": "What's at Stake in the 2026 Midterms for Elon Musk, Tech, Economy",
+    "summary": "Polls show AI is not the top issue in the midterms, but ask a voter about building a data center in their community, and you're liable to get an earful.\nAcross the country, candidates from both parties are racing to portray their opponents as too supportive of data center construction.\nMusk has donated $158 million to the Senate Republicans' allied super PAC, which in turn was donated to a pro-Paxton super PAC.\nFormer Congressman Mike Rogers, the Republican hopeful, has called for a pause on data center development in the state.\nHe also blasted Fitzpatrick over the Republican's previous support for a massive Amazon data center in Falls County.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-03T11:01:50Z",
+    "source": "Business Insider"
   },
   {
     "id": "NA==",
@@ -20,17 +50,97 @@
     "source": "Android Central"
   },
   {
-    "id": "MTI=",
-    "url": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
-    "title": "iPhone Duo: Latest Buyer Wait Times",
-    "summary": "IPhone Duo order wait times averaged 89 days despite falling by a week, according to UBS Investment Bank data as of October 30.\nThe USB Evidence Lab tracker covers iPhone availability across more than 30 markets, and puts the iPhone Duo buyer wait time at nearly three months, even after the slight improvement.\nBy comparison, iPhone 18 Pro wait times averaged around five days, down three days from the previous week, while the Pro Max held steady at roughly 18 days.\niPhone Duo pre-orders slipped to late January within minutes on the device's October 16 launch, but most people who queued on launch day walked away with a new phone.\niPhone Duo\u200c starts at $1,999 for 256GB, with 512GB at $2,199, 1TB at $2,599, and 2TB at $3,199 on Apple's U.S. store.",
+    "id": "NQ==",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "title": "Please stop asking me when the AI bubble will pop",
+    "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst.\nApollo Global Management, which lately had been talking with SpaceX about a $40 billion chip deal, is also warning of AI risk.\n\u201cWhat we don\u2019t know is how pricing and economics will evolve.\u201dThe sheer volume of interest on Meta\u2019s bonds suggests we are not at the top of the market.\nBut there have been reports from China that its AI bubble burst some time ago.\nMeanwhile Wall Street banks were tripping over themselves to finance $63 billion in debt from Anthropic \u2014 not even a hyperscaler.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-02T12:32:29Z",
-    "source": "MacRumors"
+    "bias": "lean right",
+    "publishedAt": "2026-11-03T23:37:45Z",
+    "source": "The Verge"
   },
   {
-    "id": "MTc=",
+    "id": "Ng==",
+    "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o",
+    "title": "Elon Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
+    "summary": "The US midterms campaign is set to be the most expensive on record - with the total cost projected to reach nearly $12bn (\u00a39bn), according to Open Secrets, an independent organisation that tracks campaign finance.\nMost of the spending is driven by outside political groups - known as Super Political Action Committees (Super Pacs) - pouring large sums of money into some key races ahead of election day on 3 November.\nThe top individual donor is billionaire businessman Elon Musk, who has spent almost half a billion dollars backing Republican candidates, particularly in Texas where many of his companies are based.\nBBC Verify has looked into the figures and where the money was spent.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-11-02T20:54:44Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "Nw==",
+    "url": "https://abcnews.com/Politics/democrats-projected-congress-blue-wave-fueled-trump-economy/story?id=137688143",
+    "title": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
+    "summary": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontentThe U.S. Capitol is reflected in the Capitol Reflecting Pool in Washington, D.C., on Oct. 27, 2026.\nDemocrats flipped at least six Senate seats, including in Republican strongholds like Kansas and South Carolina, ABC News projects.\nNorth Carolina: Democrat Roy Cooper, the state's former governor, will win the North Carolina Senate race, ABC News projects, flipping the seat blue.\nThe Republican caucus, led by Speaker Mike Johnson of Louisiana, currently holds a slim majority over Democrats with 220 seats, while Democrats have 215.\nOut of 435 seats in the House, 125 are currently held by women, including 95 Democrats and 30 Republicans.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-04T05:32:34Z",
+    "source": "Abcnews.com"
+  },
+  {
+    "id": "OA==",
+    "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+    "title": "The Intel stock collapse is getting worse \u2014 and the $3.7 trillion chip rout is spreading",
+    "summary": "Chip stocks kept tracking mud back through the house.\nThe chipmaker slid about 9% after its worst day since 1974 on Oct. 30, when a disappointing forecast knocked nearly 29% off the stock.\nMarvell (MRVL) fell even harder, a drop that came as it agreed to buy Lumentum (LITE) in a $115 billion deal.\nIntel, Marvell, AMD and the memory names led the chip rout, while Nvidia barely moved.\nChip and memory stocks have lost about $3.7 trillion in market value since Oct. 6, by Yahoo Finance calculations.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-03T00:08:53Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "OQ==",
+    "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+    "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+    "summary": "AMD CEO Lisa Su said in the company\u2019s quarterly earnings call on Tuesday that Q3 2026 was \u201cwas the largest and most profitable in our history.\u201d AMD reported a record $13.4 billion in quarterly revenue, and it\u2019s predicting it will hit another record high next quarter of $17 billion.\nThe company\u2019s data center business is driving that growth, with $8.5 billion in data center quarterly revenue for Q3 2026.\nSu said AMD\u2019s expecting its revenue to \u201cgrow more than 80 percent in 2027,\u201d adding that \u201cdata center will be the largest contributor.\u201dEventually, most of AMD\u2019s revenue might come from its data center business.\nOver the last couple years, jumps in the company\u2019s revenue have been closely mirroring its data center business \u2014 in Q3 2026 its overall revenue went up $1.9 billion, while its data center revenue went up $1.8 billion.\nAs AMD keeps smashing its data center revenue records, its gaming business dropped 40 percent compared to last year, dipping to $773 million.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-11-04T01:17:17Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTA=",
+    "url": "https://abcnews.com/Business/midterm-candidates-plan-fight-inflation-economists-evaluate-proposals/story?id=137570780",
+    "title": "How do midterm candidates plan to fight inflation? Economists evaluate their proposals",
+    "summary": "Proposals include tax cuts and an end to the Iran war.\nThe Iran war set off a monthslong surge of inflation as fuel prices climbed in response to unrest in the Middle East, U.S. government data shows.\nSome candidates, mostly Democrats, have proposed an end to the Iran war as a means of dialing back price hikes.\nAfter the war, \"oil prices will come plummeting down even lower than they were at the start of the conflict,\" Trump said in September at the United Nations General Assembly.\nGas prices, meanwhile, would likely fall at a delayed pace as retailers sell through refined product purchased while oil prices were at higher levels, they added.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-02T21:22:59Z",
+    "source": "Abcnews.com"
+  },
+  {
+    "id": "MTE=",
+    "url": "https://finance.yahoo.com/markets/crypto/article/binance-founder-changpeng-zhao-addresses-historic-crypto-hack-theres-no-100-security-123427760.html",
+    "title": "Binance founder Changpeng Zhao addresses historic crypto hack: 'There's no 100% security'",
+    "summary": "It has been a busy few days for Changpeng Zhao in the wake of the hack on the enormous crypto platform he co-founded, Binance.\n\"It's been a pretty hectic process,\" Zhao, better known in crypto circles as CZ, told Yahoo Finance.\nAnd then all user funds are covered.\nBinance is the world's largest cryptocurrency trading platform and holds approximately $171 billion in total assets on its platform.\n\"So when you run a platform, especially a crypto platform the possibility is always there.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-03T12:26:05Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "MTI=",
+    "url": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
+    "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
+    "summary": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets.\nAmong the documents included in the filing is an updated version of Apple\u2019s insider trading policy.\nYou must also not tip Apple Confidential Information to others who may participate in such markets.\nApple Confidential Information includes, but is not limited to, material nonpublic information.\nThis prohibition applies whether or not the activity constitutes insider trading or securities trading under applicable laws.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-11-03T21:58:58Z",
+    "source": "9to5Mac"
+  },
+  {
+    "id": "MTM=",
+    "url": "https://www.cnet.com/tech/services-and-software/openai-data-centers-rebrand-midterms-pr-campaign/",
+    "title": "AI Data Centers Have a PR Problem. OpenAI Is Proposing a Rebrand",
+    "summary": "The effort is a response to an increasingly enraged electorate, as backlash to AI data center construction becomes a unifying issue across party lines.\nMore from CNETSupporters of AI data centers often argue that the construction and operation of these massive AI server farms bring job growth to local communities.\nVoters will decide how much control Trump\u2019s administration retains over Congress on Tuesday \u2014 and the AI industry is a big-ticket issue this cycle.\nAs it stands, Trump is working directly with AI companies to define security threats and respond on their own terms.\nDemocratic politicians have generally eyed the AI gold rush with greater outward skepticism and scrutiny, with some members of Congress even backing a resolution opposing AI company bailouts in the event of a financial bubble popping.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-04T00:22:47Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MTQ=",
     "url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article",
     "title": "Taiwan's AI stock boom is making early-stage startups a tougher pitch",
     "summary": "Taiwan\u2019s AI stock boom is creating more ways for investors to profit from its chip supply chain, making early-stage startups a tougher pitch.\nFor Anderson Chen, the founder and CEO of Operon Solutions, a Y Combinator-backed industrial AI startup, that calculus was part of what shaped how he raised money.\nChu said Taiwanese investors had increasingly favored B- and C-round and pre-IPO companies, where the route to returns was clearer.\nPitchBook and the National Venture Capital Association said early-stage dealmaking was more favorable for AI startups than for non-AI peers in the first quarter of 2026.\nOperon's Chen said fundraising had become easier overall for Taiwanese deep-tech startups seeking overseas capital, helped by Taiwan\u2019s technical talent and semiconductor expertise.",
@@ -40,7 +150,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTg=",
+    "id": "MTU=",
     "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
     "title": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet",
     "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet.\nThe infected devices were used without owners\u2019 knowledge for \u201cmalicious activity,\u201d like ad fraud, data exfiltration, and routing unauthorized network traffic.\nGoogle claims the \u201cbackdoor and botnet were intentionally developed, deployed, and operated for financial gain,\u201d saying:Videostrong monetized the backdoor by selling access to criminal affiliates and loading those affiliates\u2019 malware modules onto infected devices.\nThese secondary modules were conducting ad-fraud; silently enrolling infected devices into residential proxy networks; and loading additional malware onto XCPE-compromised devices.\nGoogle also says it made changes to its review process for device manufacturers after this incident.",
@@ -48,6 +158,36 @@
     "bias": "lean left",
     "publishedAt": "2026-11-02T20:58:45Z",
     "source": "The Verge"
+  },
+  {
+    "id": "MTY=",
+    "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \u201cwhether AI has been used in their work,\u201d the site announced today as part of a big post about AI-generated content on the platform.\nAn outright ban will not eliminate AI from the modding process but will prevent people from mentioning its use.\n\u201cThis is less of an issue related to AI, but it\u2019s becoming much more prevalent as mod production is speeding up,\u201d Folmann says.\nNexus Mods\u2019 full AI policy is here, and mod authors have 60 days to update their existing mods to meet the requirements.\nThe 60-day grace period ends on January 2nd, and after that time, the site will begin enforcing the rules.",
+    "category": "technology",
+    "bias": "right",
+    "publishedAt": "2026-11-04T00:42:54Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTc=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+    "title": "OpenAI says ChatGPT is catching up to Google in search",
+    "summary": "In many circles, \u201cAsk Chat\u201d has replaced \u201cGoogle it,\u201d and that\u2019s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\n(Fry did not specify the source of the Google search volume number.)\nDuring the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it \u2014 now, OpenAI seems to agree.\n(OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.)\nMuch like Google, OpenAI sees a potential path to profitability through ads, particularly as it approaches an IPO potentially slated for early next year.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-03T18:30:42Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "title": "Here\u2019s Why You Shouldn\u2019t Use AI to Vote",
+    "summary": "But a lot of information from these chatbots is out of date and has been hallucinated or sourced from partisan websites.\nAccording to the Forum AI research, almost 40 percent of election answers given by all the mainstream chatbots contained at least one factual error.\nPink slime sites present as mainstream news websites but are in fact funded by political or ideological groups and individuals.\nThe worst offender, according to NewsGuard, was OpenAI\u2019s ChatGPT, which cited the pink slime sites in more than 70 percent of searches, while xAI\u2019s Grok chatbot performed best, citing pink slime sites in 30 percent of cases.\n\u201cOne of the problems is that executives and companies have really overpromised on what AI is capable of.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-03T14:45:08Z",
+    "source": "Wired"
   },
   {
     "id": "MTk=",
@@ -61,26 +201,46 @@
   },
   {
     "id": "MjA=",
-    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-    "summary": "By the time the three hikers called for help from a rocky face on Mount Shasta in Northern California, they\u2019d made a series of bad decisions.\nBy morning, they were lost on a gnarly part of the mountain, and one hiker had banged up his knee.\nTo these guys\u2019 credit, they did try,\u201d said Nick Meyers, US Forest Service program manager of the Mount Shasta Wilderness Climbing and Avalanche Center, which responded to the call.\nSome search and rescue veterans say that AI chatbots are just the latest tools giving people new ways to get into trouble.\nBefore that, hikers and other recreationists were led astray by their reliance on Google Maps or smartphone connectivity.",
+    "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+    "title": "Netflix will show you themed recommendations through a new \u2018AI Discover\u2019 tab",
+    "summary": "He joined The Verge in 2019 after nearly two years at Techmeme.\nPosts from this author will be added to your daily email digest and your homepage feed.\nNetflix\u2019s TV app is getting a new \u201cAI Discover\u201d tab where the company will show experimental, AI-powered featuresto help you find new shows and movies to watch.\nThe first of these experiments surfaces content based around themes, like \u201cSomething Light,\u201d \u201cFamily Movie Night,\u201d or \u201cQuick Watches.\u201d When you pick a theme, Netflix will show you recommendations that match it.\nIf you don\u2019t like a recommendation, you can tell that to Netflix, and the app will remember it.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-11-01T10:30:00Z",
-    "source": "Wired"
+    "publishedAt": "2026-11-03T17:28:14Z",
+    "source": "The Verge"
   },
   {
     "id": "MjE=",
-    "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
-    "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
-    "summary": "You can often find some kind of Dyson vacuum on sale, though the best time is to wait for an event like Black Friday.\nWhile that\u2019s only a few weeks away, a few Dyson vacuums are already on sale.\nIf you\u2019re looking to pick up a new vacuum, here are the best Dyson deals I\u2019ve spotted this week.\nThe Best Dyson Robot Vacuum Deal Right NowThe Dyson Spot+Scrub Ai came out earlier this year but has already been surpassed as Dyson\u2019s top-of-the-line robot vacuum.\nThe Best Dyson Stick Vacuum Deal Right NowIf you\u2019re going to buy a Dyson vacuum on sale, you might as well go for one of the better ones.",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "title": "\u2018Our Risk, Their Reward\u2019: Zohran Mamdani on AI and Data Centers",
+    "summary": "KATIE DRUMMOND: It was almost exactly this time last year that I interviewed you in your campaign office.\nOne, it was just before the election, but two, you were just about to have a birthday.\nI was remembering that this weekend, because I was in Sunset Park on Saturday.\nSunset Park, for those who don't know, is the best park in Brooklyn, and actually all of New York.\n[Laughs] He kept coming back, \u201cSo young!\u201d I don\u2019t think it\u2019s a barrier.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-02T21:00:00Z",
+    "bias": "lean left",
+    "publishedAt": "2026-11-03T11:00:00Z",
     "source": "Wired"
   },
   {
     "id": "MjI=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+    "title": "Google hasn\u2019t figured out how to make AI pay like its search engine",
+    "summary": "But Google\u2019s AI makeover also contributed to the slowdown: AI Mode queries were growing strongly but monetizing at a lower rate than traditional searches, Schindler says.\nIn many cases, AI Overviews add generated summaries to search results; electing AI Mode turns searching into a conversation.\nGoogle is currently expanding ads in AI Overviews and AI Mode, including internationally and across multiple turns of US AI Mode conversations.\nGoogle\u2019s claim that most AI Mode queries are additional doesn\u2019t tell us how much revenue it could lose from the searches AI Mode replaces.\nSearch revenue is still growing by double digits, but the company has yet to show how well its new way of searching can pay.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-03T22:41:23Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjM=",
+    "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+    "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+    "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant.\nIf you\u2019re in the US, you can also sign up for a spot on the waitlist for the new Sonos 27voice assistant on November 6th, with access starting on November 12th.\nThe company launched a revamped Sonos 27 app operating system update in September with the ability to connect AI agents to the app.\nRelated How Sonos rebooted itselfOther features coming to the Sonos app in this update include the ability to swipe on the \u201cNow Playing\u201d screen or mini player to skip tracks, and a way to rearrange your favorites.\nThe Sonos app can also work with the iOS-only System Health feature, which can help you spot problems in your setup.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-03T22:20:50Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjQ=",
     "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
     "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
     "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.\nBrave has allegedly provided \u201cstolen copyrighted content\u201d to \u201cmany\u201d AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere.\nBrave also promotes \u201chundreds of top publishers\u201d as being accessible through its \u201cPaywall blocker\u201d feature in its browser.\n\u201cBrave has never asked for the Publishers\u2019 permission to access their websites, much less to copy the material and provide it to users or other AI companies,\u201d the complaint says.\nAlso added a statement from the attorney who filed the lawsuit on behalf of those publications.",
@@ -90,37 +250,17 @@
     "source": "The Verge"
   },
   {
-    "id": "MjM=",
-    "url": "https://games.slashdot.org/story/26/11/01/0431200/xbox-manager-ai-already-being-used-in-xbox-game-development---and-throughout-the-game-industry",
-    "title": "Xbox Manager: AI Already Being Used In Xbox Game Development",
-    "summary": "You can write a small letter to Grandma in the filename.\n-- Forbes Burkowski, CS, University of Washington",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-01T04:34:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://www.businessinsider.com/doordash-sees-limited-ai-orders-but-explores-new-tools-2026-11#article",
-    "title": "DoorDash's CEO: Don't be 'delusional' after just a few hundred AI agent orders",
-    "summary": "The age of AI agents ordering your meals isn't here yet, according to DoorDash.\nInstead, customers are still using DoorDash's app and website to place orders, Xu said.\nDespite the low order volume through third-party agents, DoorDash is making changes to its own AI tools.\nThose AI tools could eventually generate new orders on DoorDash, Xu said.\nSign up By clicking \"Sign up\", you agree to receive emails from Business Insider.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-01T10:09:01Z",
-    "source": "Business Insider"
-  },
-  {
     "id": "MjU=",
-    "url": "https://www.businessinsider.com/openai-pitching-2028-hopefuls-how-to-talk-about-ai-2026-11#article",
-    "title": "OpenAI is already pitching 2028 hopefuls on how to talk about AI",
-    "summary": "OpenAI's top lobbyist is privately telling prospective 2028 candidates that artificial intelligence will define their bids for the White House.\nIf the US loses its AI lead to China, he writes, \"This could well be the 2028 version of the 2002 vote to go to war in Iraq.\"\nIn the memo, he encourages candidates to show voters how they will keep humans at the helm of consequential decisions.\n\"A world in which America leads will look very different from one in which the Chinese Communist Party sets the pace,\" Lehane writes.\n\"The successful candidates won't promise to stop the future or simply trust everything will work out,\" Lehane writes.",
+    "url": "https://www.businessinsider.com/chinese-ai-models-rankings-artificial-analysis-private-tests-anthropic-openai-2026-11#article",
+    "title": "Chinese AI Models Fall Behind Anthropic, OpenAI in New AI Rankings",
+    "summary": "Artificial Analysis said the best so-called open-weight AI models had trailed the overall leader by just three points under the previous system.\nChinese companies have been releasing powerful AI models that other businesses can download and adapt, often at lower costs than American alternatives.\n\"I do think the previous index was flattering the open weight models too strongly,\" said Nathan Lambert, cofounder of Trillium Labs, which researches large language models, especially open-weight models.\nSmaller usageThere's another reason to question the threat from open-weight AI models: How much are people actually using them?\nThat's a surprisingly small amount of computing power given the enormous attention Chinese AI models have attracted.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-11-02T15:56:15Z",
+    "publishedAt": "2026-11-03T10:00:02Z",
     "source": "Business Insider"
   },
   {
-    "id": "MjY=",
+    "id": "Mjg=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
     "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
     "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nPosts from this author will be added to your daily email digest and your homepage feed.\nThe announcement comes as opposition to data centers spreads across the US, in response to massive projects that have begun development and construction, frequently with little or no input from local residents.\nIn Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double the state\u2019s peak electricity demand in 2025, and spread hot air in the desert valley surrounding the data center.\nThis is besides the environmental impacts, as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years.",
@@ -128,26 +268,6 @@
     "bias": "left",
     "publishedAt": "2026-11-02T18:01:30Z",
     "source": "The Verge"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
-    "title": "PsiQuantum Unveils Optical Circuit Switch Technology Built on Advanced, Low-Loss Silicon Photonics Platform \u2014 PsiQuantum",
-    "summary": "October 28, 2026PALO ALTO, Calif. \u2013 PsiQuantum today unveiled its Optical Circuit Switching (OCS) technology, demonstrating how the company\u2019s advanced, low-loss silicon photonics platform can be applied to some of the most significant scaling challenges facing AI infrastructure.\nAI systems are scaling faster than computing infrastructure, with increasingly large pools of compute placing enormous demands on the networks connecting them.\nAI and quantum computing are complementary technologies: more efficient AI infrastructure can accelerate the development and operation of quantum systems, while some advances made for quantum computing can help remove bottlenecks in AI infrastructure.\nAs optics make AI infrastructure more efficient, stronger AI infrastructure can in turn support the design, control, and operation of increasingly capable quantum systems.\nWhat we are demonstrating today is that this platform can deliver exceptional performance for optical circuit switching for AI computing.\"",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-02T01:34:16Z",
-    "source": "Psiquantum.com"
-  },
-  {
-    "id": "Mjk=",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-    "summary": "In BriefAI hasn\u2019t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity giant that used to own TechCrunch).\nApollo\u2019s Torsten Slok focuses on what he calls the S&P 493 \u2014 the S&P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia, and Tesla \u2014 finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity.\n\u201cDespite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,\u201d Slok said.\nIs this simply a matter of non-tech companies lagging behind the tech giants?\nSlok sounded skeptical, arguing that it will be tough for corporate America to \u201cturn increasingly cheap intelligence into higher revenue growth and higher profit margins.\u201d\u201cAI may be a great calculator, but in business, intelligence is mostly judgment,\u201d he wrote, later adding, \u201cAI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins.\u201dRecent studies have also found that AI has yet to deliver significant productivity gains.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-01T22:10:45Z",
-    "source": "TechCrunch"
   },
   {
     "id": "MzI=",
@@ -161,6 +281,16 @@
   },
   {
     "id": "MzM=",
+    "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+    "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+    "summary": "While these hacks have been frequent, the country\u2019s hackers allegedly made off with their biggest heist to date last week when $6.34 billion was siphoned from the wallets belonging to crypto exchange Binance.\nIn a new security update issued on Tuesday, Binance detailed its initial findings into how the company was compromised and hackers were able to steal billions in just 20 minutes.\nThe hack, according to Binance, was the result of an engineer falling for a fake job interview and downloading malicious software.\nThe FBI quickly linked TraderTraitor to the Binance hack on October 31.\n\u201cBinance\u2019s account aligns with what we know about the TraderTraitor playbook,\u201d says Rafe Pilling, a senior director of threat intelligence at security company Sophos.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-03T19:04:58Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MzQ=",
     "url": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
     "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
     "summary": "If you're a customer of cloud-hosted AI workflow platform Trigger.dev, take heed, because your environment variables may have been exposed in a security incident disclosed on Sunday.\nTrigger offered little explanation in its Sunday security incident report, noting that its investigation had identified \u201cexposure across a subset of organizations\u201d and that an attacker had gained unauthorized access to environment variables belonging to those organizations.\nREG ADWe likely don't have to tell The Reg readers how important environment variables are in SaaS and cloud services like Trigger.\nIf compromised environment variables contain sensitive credentials, an attacker could basically end up with the keys to the kingdom, potentially gaining access to connected services and digital infrastructure.\nTrigger has some fairly high-profile customers, with companies like fashion brand Emporio Armani, Pentagon-supporting AI acquisitions platform GovSignals, SaaS calendar platform Cal.com, and others all listed on the company\u2019s site.",
@@ -170,53 +300,13 @@
     "source": "Theregister.com"
   },
   {
-    "id": "MzQ=",
-    "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-    "summary": "The latest findings from Dream show that the threat actor continues to rely on social engineering, while combining both credential phishing and malware delivery.\n]online/drive/file/d/1JpH3ySmJpvX6TyGnF7C-S8qYiaoxyC5OThe threat actor has also been observed setting decoy brand domains for a fake videoconferencing application called StarkMeet (stark-meet[.\nThe development is also a sign that the threat actor is trying out different methods for malware delivery, ranging from coding assessments to counterfeit software.\nDream said the DarkBlinders activity belongs to the same operational cluster as UNC5795 and Dust Specter, citing infrastructure and malware overlaps.\nThis is the last place we expected to find the threat actor hiding.\"",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-02T14:46:05Z",
-    "source": "Internet"
-  },
-  {
-    "id": "MzU=",
-    "url": "https://www.cnet.com/home/energy-and-utilities/370000-dreo-space-heaters-recalled/",
-    "title": "Over 370,000 Dreo Space Heaters Recalled After 17 Catch Fire",
-    "summary": "Dreo has recalled its DR-HSH015 space heater due to the risk of the unit catching fire.\nDREO said it received 17 reports of space heaters igniting, three resulting in property damage and one in a burn injury to the hand.\nThe space heater was available from outlets including Home Depot, Best Buy, Kohl\u2019s and Costco, as late as October 2026.\nOwners should stop using the recalled space heaters immediately, disconnect them from power, destroy them by cutting off the power cable and contact the company for a free replacement.\nSpace heaters are a popular way to heat cold rooms, and CNET\u2019s own tests found that properly functioning units can help owners reduce their energy bills over winter.",
+    "id": "NTI=",
+    "url": "https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/",
+    "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
+    "summary": "During today\u2019s earnings call following its fiscal Q4 2026 report, Apple said it expects its December quarter \u201cto be the best quarter for revenue in the history of the company.\u201d Here are the details.\nApple on track for biggest quarter everApple today reported its fiscal Q4 2026 results, with revenue climbing 12% year over year to $114.5 billion and net profit reaching $30.71 billion.\nThis marked September-quarter records on both fronts, despite supply constraints on iPhone, Mac, and iPad, as well as rising memory costs.\nWe expect this to be the best quarter for revenue in the history of the company.\nIf this pans out, Apple\u2019s fiscal Q1 2027 revenue should fall between $153.82 billion and $158.13 billion, adding between $10 billion and $14.4 billion in revenue compared to the year-ago quarter.",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-11-02T22:00:09Z",
-    "source": "CNET"
-  },
-  {
-    "id": "Mzg=",
-    "url": "https://www.businessinsider.com/mustafa-suleyman-microsoft-ai-consciousness-2026-11#article",
-    "title": "Microsoft AI chief says AI is not conscious and we should keep it that way",
-    "summary": "Mustafa Suleyman said in a lengthy X post on Sunday that AI models currently don't have consciousness and that developers should keep it that way.\n\"If consciousness started to emerge in training, I would call for everyone to stop AI development until we could design out those properties.\"\nIf any evidence were to emerge that AI models were conscious, Suleyman said it must be disclosed to the general public immediately so we can decide our next steps as a society.\nConversations around whether AI models could one day become conscious are picking up steam in the tech world.\nGoogle DeepMind published research papers this year about AI consciousness and how ascribing that characteristic could present challenges.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-01T19:45:17Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NDE=",
-    "url": "https://www.yankodesign.com/2026/11/02/jackery-shrank-its-power-station-into-a-96wh-cube-with-140w-usb-c/",
-    "title": "Jackery shrank its power station into a 96Wh cube with 140W USB-C",
-    "summary": "Instead of tuning into ballgames, it stores 96Wh of energy and delivers up to 158W across two USB-C ports and one USB-A port.\nIt\u2019s the smallest power station Jackery has ever built.\nPort labels are printed directly on the panel, and a small bracket under the two USB-C ports marks their 140W maximum.\n140 Watts That Fit in a Tote BagThe USB-C ports offer up to 140W and support three fast-charging protocols: USB Power Delivery (PD), Programmable Power Supply (PPS), and Adjustable Voltage Supply (AVS).\nThe one step back: only one USB-C port accepts input, whereas the 100 Plus could charge through either.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-02T23:30:25Z",
-    "source": "Yanko Design"
-  },
-  {
-    "id": "NjI=",
-    "url": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
-    "title": "The 2026 iPad Mini is a terrific tiny tablet \u2014 for a big price",
-    "summary": "For the past week, I\u2019ve been testing the midnight iPad Mini with cell service, 512GB of storage, and the nano-texture matte display coating.\nIf you don\u2019t already know the iPad Mini is your one true love, there\u2019s probably a better iPad out there for you.\nBut if you\u2019re an iPad Mini Person and you can stomach the price?\nAs ever, the iPad Mini is really only for iPad Mini People (and pilots and oil riggers, apparently).\nThis is a very good iPad Mini, but it\u2019s not quite the Mini in its final form.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-03T02:55:45Z",
-    "source": "The Verge"
+    "publishedAt": "2026-11-02T23:38:32Z",
+    "source": "9to5Mac"
   }
 ]
