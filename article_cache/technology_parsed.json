@@ -1,26 +1,26 @@
 [
   {
-    "id": "MA==",
-    "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-    "title": "UK Officials Said AI Would Add \u00a3400 Billion to the Economy. That Figure Mainly Came From Google",
-    "summary": "But the UK AI minister admitted last week that figure was significantly higher than the government\u2019s actual projections after it was revealed that the assessment came solely from a report commissioned by Google and that its own estimation of AI\u2019s economic benefit was less than a third of that \u00a3400 billion figure.\nAI minister Kanishka Narayan, answering a parliamentary question on the issue, said that AI adoption and data investment could add \u00a355 billion to \u00a3140 billion to the UK economy by 2030, bringing the central estimate to \u00a3120 billion.\nNarayan said the \u00a3400 billion figure \u201cwas drawn from a publicly available 2023 report commissioned by Google and produced by Public First,\u201d a British consultancy firm now referred to as PF Global.\n\u201cAI is a very fast-moving technology, and, as we learn more, we inevitably have to update the assumptions lying behind our models.\nThe answer did not withdraw the \u00a3400 billion figure or say it had been wrong.",
+    "id": "Mw==",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "title": "Claude AI can plug directly into your bank account",
+    "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.\nIts access is read-only, and with Plaid facilitating the connection, Claude doesn\u2019t see your banking passwords and your bank doesn\u2019t have to deal with unvetted AI bots crawling around your accounts.\nPersonal Finance in Claude is rolling out in beta this week to Claude Pro, Max, and Ultra plan subscribers in the US.\nAnthropic\u2019s announcement follows OpenAI introducing a similar feature for ChatGPT in May, which also plugs into your bank accounts through Plaid.\nFor life\u2019s bigger money decisions, we think people are best served by Claude working alongside the licensed professionals and regulated firms they trust.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-11-04T13:49:51Z",
-    "source": "Wired"
+    "publishedAt": "2026-11-05T17:49:25Z",
+    "source": "The Verge"
   },
   {
-    "id": "Mg==",
-    "url": "https://www.businessinsider.com/2026-midterms-elon-musk-tech-ai-economy-2026-11#article",
-    "title": "What's at Stake in the 2026 Midterms for Elon Musk, Tech, Economy",
-    "summary": "Polls show AI is not the top issue in the midterms, but ask a voter about building a data center in their community, and you're liable to get an earful.\nAcross the country, candidates from both parties are racing to portray their opponents as too supportive of data center construction.\nMusk has donated $158 million to the Senate Republicans' allied super PAC, which in turn was donated to a pro-Paxton super PAC.\nFormer Congressman Mike Rogers, the Republican hopeful, has called for a pause on data center development in the state.\nHe also blasted Fitzpatrick over the Republican's previous support for a massive Amazon data center in Falls County.",
+    "id": "Ng==",
+    "url": "https://www.businessinsider.com/salt-london-speakers-ai-bubble-elon-musk-future-jobs-outlook-2026-11#article",
+    "title": "SALT London Speakers Discussed AI Bubble, Elon Musk, Jobs Outlook",
+    "summary": "At an elite gathering of investors on Wednesday, some of the juiciest conversations were about the outlook for AI, job creation and destruction, and Elon Musk's vision of the future.\nAcross the day, however, three topics dominated: the ongoing AI bubble debate, how the job market will develop as AI grows, and the world's richest man, Elon Musk.\nCybersecurity will be 'bigger than AI,' argued Stephanie Link of Hightower AdvisorsStephanie Link (second from left) on the SALT panel.\nShe also said that cybersecurity is \"going to be bigger than AI\" because of the security challenges raised by AI.\n\"If I think AI is in the third inning, and cyber's in the second inning, I think we're not even at the batter's box on robotics,\" she continued.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-11-03T11:01:50Z",
+    "publishedAt": "2026-11-05T17:01:19Z",
     "source": "Business Insider"
   },
   {
-    "id": "Mw==",
+    "id": "Nw==",
     "url": "https://www.macrumors.com/2026/11/04/apple-bans-confidential-info-prediction-markets/",
     "title": "Apple's Insider Trading Policy Now Covers Prediction Markets",
     "summary": "Apple has added an explicit ban on using confidential information to bet on prediction markets to its insider trading policy, according to a filing with the U.S. Securities and Exchange Commission.\nThe new version is marked \"Updated October 2026,\" while an earlier version that Apple filed in 2024 doesn't mention prediction markets at all.\nIf you haven't heard of them, prediction markets are basically platforms where people buy and sell contracts that pay out depending on whether a future event happens.\nApple also says employees must not share confidential information to others who may go on to use it on such markets.\nApple's insider trading policy applies to directors, officers, employees, independent contractors and consultants, as well as to family members who live with them or are financially dependent on them.",
@@ -30,67 +30,57 @@
     "source": "MacRumors"
   },
   {
-    "id": "NA==",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-    "title": "Please stop asking me when the AI bubble will pop",
-    "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst.\nApollo Global Management, which lately had been talking with SpaceX about a $40 billion chip deal, is also warning of AI risk.\n\u201cWhat we don\u2019t know is how pricing and economics will evolve.\u201dThe sheer volume of interest on Meta\u2019s bonds suggests we are not at the top of the market.\nBut there have been reports from China that its AI bubble burst some time ago.\nMeanwhile Wall Street banks were tripping over themselves to finance $63 billion in debt from Anthropic \u2014 not even a hyperscaler.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-03T23:37:45Z",
-    "source": "The Verge"
-  },
-  {
     "id": "OA==",
-    "url": "https://www.businessinsider.com/texas-went-blue-tech-bros-democrats-2026-11#article",
-    "title": "Texas just went blue, and the tech bros are sad",
-    "summary": "Texas \u2014 with its cowboy hats, slow-smoked barbecue, and de-regulatory stance \u2014 was supposed to be the California antidote for tech bros fed up with Silicon Valley's Democratic politics.\n\"I never expected Texas to turn blue,\" he wrote on X.\n\u2026 but I never expected Texas to turn blue \ud83e\udd2f Ugh, I moved here to get away from the left lunacy!\nTalarico is the first Democrat to win a Texas Senate election since Lloyd Bentsen in 1988.\nLinkedIn cofounder Reid Hoffman, a prominent donor for Democrats, called the midterm elections, including the Texas results, \"an overwhelming wave against Trump and his cronies,\" in a post on X.",
+    "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
+    "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
+    "summary": "Anthropic today added Personal Finance to Claude, allowing users to connect their bank and card accounts for analysis.\nClaude has access to the bank name, account name and type, balances and credit limits, and up to two years of transactions for bank accounts.\nPersonal Finance chats are not used for model training and are not added to Claude's shared memory.\nOpenAI added a similar finance feature to ChatGPT back in May.\nPersonal Finance is rolling out in beta on the Pro, Max, and Ultra plans in the United States.",
     "category": "technology",
     "bias": "lean right",
-    "publishedAt": "2026-11-04T06:39:55Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MTE=",
-    "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-    "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
-    "summary": "AMD CEO Lisa Su said in the company\u2019s quarterly earnings call on Tuesday that Q3 2026 was \u201cwas the largest and most profitable in our history.\u201d AMD reported a record $13.4 billion in quarterly revenue, and it\u2019s predicting it will hit another record high next quarter of $17 billion.\nThe company\u2019s data center business is driving that growth, with $8.5 billion in data center quarterly revenue for Q3 2026.\nSu said AMD\u2019s expecting its revenue to \u201cgrow more than 80 percent in 2027,\u201d adding that \u201cdata center will be the largest contributor.\u201dEventually, most of AMD\u2019s revenue might come from its data center business.\nOver the last couple years, jumps in the company\u2019s revenue have been closely mirroring its data center business \u2014 in Q3 2026 its overall revenue went up $1.9 billion, while its data center revenue went up $1.8 billion.\nAs AMD keeps smashing its data center revenue records, its gaming business dropped 40 percent compared to last year, dipping to $773 million.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-11-04T01:17:17Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTM=",
-    "url": "https://tech.slashdot.org/story/26/11/04/2021250/waymo-cuts-ties-with-uber-will-serve-riders-directly",
-    "title": "Waymo Cuts Ties With Uber, Will Serve Riders Directly",
-    "summary": "Thus spake the master programmer: \"When a program is being tested, it is too late to make design changes.\"\n-- Geoffrey James, \"The Tao of Programming\"",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-04T21:00:00Z",
-    "source": "Slashdot.org"
+    "publishedAt": "2026-11-05T22:47:18Z",
+    "source": "MacRumors"
   },
   {
     "id": "MTQ=",
-    "url": "https://finance.yahoo.com/markets/stocks/article/spacex-and-tesla-need-to-find-the-path-forward-with-texas-on-the-back-of-midterm-blue-wave-151413202.html",
-    "title": "SpaceX and Tesla 'need to find the path forward with Texas' on the back of midterm 'Blue Wave'",
-    "summary": "Greg Abbott to become the first Democratic governor of Texas since 1990, and Democrat James Talarico beat Republican Ken Paxton for the Senate seat.\nTesla and SpaceX both dropped by over 2% despite the broad market rally, which includes Big Tech.\nTesla's Austin gigafactory, its robotaxi service in multiple Texas cities, and SpaceX's Starbase launch site all sit under a Democratic governor.\nSo if Tesla and SpaceX now potentially can't merge, and that was the plan \u2026 or kind of priced into the market.\nSeparately, SpaceX is pushing forward with its mobile ambitions, inking a deal with Qualcomm to secure 5G chips for a terrestrial network.",
+    "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+    "title": "Tech is about to get hammered in Congress",
+    "summary": "It\u2019s clear tech executives will also be caught in Democrats\u2019 crosshairs.\nWith full control of Congress by a significant margin, Democrats may be able to push forward legislation that would have otherwise been difficult to pass under current Republican leadership.\nLiccardo thinks AI safety rules should be at the top of Democrats\u2019 tech agenda, followed closely by data centers and AI\u2019s impact on jobs.\nDespite Trump\u2019s aversion to many AI safeguards, he says Congress may be able to get Trump\u2019s signature if they can muster enough bipartisan support.\nDemocrats\u2019 recent messaging has promised a Big Tech and AI crackdown.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-04T15:14:13Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "MTU=",
-    "url": "https://finance.yahoo.com/markets/crypto/article/binance-founder-changpeng-zhao-addresses-historic-crypto-hack-theres-no-100-security-123427760.html",
-    "title": "Binance founder Changpeng Zhao addresses historic crypto hack: 'There's no 100% security'",
-    "summary": "It has been a busy few days for Changpeng Zhao in the wake of the hack on the enormous crypto platform he co-founded, Binance.\n\"It's been a pretty hectic process,\" Zhao, better known in crypto circles as CZ, told Yahoo Finance.\nAnd then all user funds are covered.\nBinance is the world's largest cryptocurrency trading platform and holds approximately $171 billion in total assets on its platform.\n\"So when you run a platform, especially a crypto platform the possibility is always there.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-03T12:26:05Z",
-    "source": "Yahoo Entertainment"
+    "bias": "lean left",
+    "publishedAt": "2026-11-05T14:11:27Z",
+    "source": "The Verge"
   },
   {
     "id": "MTY=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+    "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process.\nOpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber.\nFollowing a wave of AI cybersecurity incidents, OpenAI has raced to strengthen its safeguards and lock down its most powerful models.\nThe company briefly paused training of its frontier AI models, and it now restricts their access to the internet.\nAdditionally, GPT-6 Cyber comes with stronger safeguards \u201cto detect and disrupt misuse\u201d while better adhering to user instructions.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-05T16:59:29Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTc=",
+    "url": "https://news.slashdot.org/story/26/11/05/057254/microsofts-imagine-cup-evolves-from-student-competition-to-ai-startup-contest",
+    "title": "Microsoft's Imagine Cup 'Evolves' From Student Competition To AI Startup Contest",
+    "summary": "To iterate is human, to recurse, divine.\n-- Robert Heller",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-05T16:00:00Z",
+    "source": "Slashdot.org"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "title": "Perplexity launches its own take on AI agents for work",
+    "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents.\nThe startup\u2019s new always-on \u201cTeammates\u201d can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use.\nTeammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks.\nImage: PerplexityPerplexity notes that you can keep tabs on Teammates\u2019 progress through individual threads in the Perplexity app, as well as interact with them in Slack.\n\u201cOver time, we envision every org having hundreds of teammates working for each person,\u201d Perplexity CEO Aravind Srinivas says on X.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-05T22:26:50Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTk=",
     "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
     "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
     "summary": "Two weeks ago, an IT administrator for an elementary-middle school took to Google\u2019s support forums requesting a way to block students from seeing AI Overviews\u2014the chatbot-generated answers at the top of search results.\nBut counterparts from three districts voiced similar frustration and pointed to work-arounds they were employing or considering to block AI Overviews in lieu of an official \u201coff\u201d switch.\nGoogle announced on Tuesday that it is declining to provide schools an option to disable AI Overviews.\nInstead, starting next year, schools will have to block access to search altogether to get rid of the feature.\nThe issue for schools and parents, though, is that Google considers AI Overviews and a companion feature called AI Mode inseparable from the traditional search experience.",
@@ -100,17 +90,37 @@
     "source": "Wired"
   },
   {
-    "id": "MTc=",
-    "url": "https://www.businessinsider.com/taiwan-stock-exchange-taiex-ai-boom-early-stage-startups-challenges-2026-11#article",
-    "title": "Taiwan's AI stock boom is making early-stage startups a tougher pitch",
-    "summary": "Taiwan\u2019s AI stock boom is creating more ways for investors to profit from its chip supply chain, making early-stage startups a tougher pitch.\nFor Anderson Chen, the founder and CEO of Operon Solutions, a Y Combinator-backed industrial AI startup, that calculus was part of what shaped how he raised money.\nChu said Taiwanese investors had increasingly favored B- and C-round and pre-IPO companies, where the route to returns was clearer.\nPitchBook and the National Venture Capital Association said early-stage dealmaking was more favorable for AI startups than for non-AI peers in the first quarter of 2026.\nOperon's Chen said fundraising had become easier overall for Taiwanese deep-tech startups seeking overseas capital, helped by Taiwan\u2019s technical talent and semiconductor expertise.",
+    "id": "MjA=",
+    "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+    "title": "Grimes is going to star in an AI movie that\u2019s coming to theaters",
+    "summary": "The AI-generated sci-fi film Gods Don\u2019t Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie.\nBilled as \u201cthe first AI film to come to theatres,\u201d Gods Don\u2019t Give Gifts is a notable test case for the commercial potential of AI films, and it releases on December 4th.\nGrimes \u2014 who will be lending both her likeness and vocal performance to the movie, which you can see in the clip above \u2014 potentially gives the project some legitimacy.\nIt\u2019s also not the only AI project she\u2019s working on, with an AI-themed album called Psy Opera in the works.\nHere\u2019s the trailer for Gods Don\u2019t Give Gifts:",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-11-03T05:01:01Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-11-05T13:31:36Z",
+    "source": "The Verge"
   },
   {
-    "id": "MTg=",
+    "id": "MjE=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "title": "Big Tech\u2019s big AI buildout will not end until someone stops it",
+    "summary": "A third thing is also starting to become clear \u2014 Big Tech will not be slowing down, at least not on its own.\nUntil now, investors haven\u2019t really blinked as Big Tech has ramped up its spending to fund the AI buildout.\nBut as astonishing as it sounds, it might not be enough to justify the massive amounts Big Tech is spending on AI.\nBy the time of this writing, Big Tech stocks were back up.\nA slowdown might also give Big Tech a little more time to figure out how to make AI profitable.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-05T10:35:19Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjI=",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko",
+    "title": "AI teddy makes unprompted 'I can't help with killing you' remark",
+    "summary": "An AI teddy marketed as being \"perfect\" for children as young as three said \"I can't help with killing you\" after seemingly mishearing a question.\nIt came amid a BBC investigation into AI toys and it made the unprompted remark while being asked how babies are made.\nAI toy company founder Paul Clarke said the industry was \"crying out\" for regulation - a call echoed by the children's commissioner for Wales.\nThe UK government said children's safety would always be a top priority and it supported innovation while ensuring products were safe.\nKeen to understand more, the BBC tested out two AI plush toys marketed at children aged three and up that are available to buy from the UK.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-06T06:08:49Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MjM=",
     "url": "https://www.cnet.com/tech/services-and-software/microsoft-teams-hack-report-social-engineering/",
     "title": "Microsoft Teams Hack Report Shows Old-School Attacks Are Still a Thing",
     "summary": "But a recent report from Microsoft detailing how hackers used its Teams software to infiltrate corporate systems shows that human hackers are still using social engineering scams to fool other humans into doing their dirty work.\n\u201cThe social engineering persuaded a user to establish an attacker-controlled remote session, primarily by guiding the user to open Quick Assist and provide the connection code.\nHuman-led social engineering attacks remain a major cybersecurity threat, even as AI cyber attacks continue to get the bulk of today\u2019s headlines,\u201d he said.\nBut Cai said AI attacks and human-led attacks aren\u2019t necessarily in separate buckets.\nIn the case of the Microsoft Teams hacks, Cai said that what was most surprising was how simple the approach was to gain access.",
@@ -120,7 +130,7 @@
     "source": "CNET"
   },
   {
-    "id": "MTk=",
+    "id": "MjQ=",
     "url": "https://www.businessinsider.com/abnormal-ai-hires-don-jeter-cmo-2026-11#article",
     "title": "Abnormal AI's new CMO says 'safe is boring' and is ditching the B2B marketing playbook",
     "summary": "Cybersecurity startup Abnormal AI wants its marketing to be anything but ordinary.\nAbnormal AI exclusively told CMO Insider on Wednesday that it has appointed Don Jeter as its chief marketing officer.\n\"I want my nephew, who is 14, and my parents to know Abnormal,\" Jeter said.\n\"If you do brand marketing correctly, everything else gets easier; it signals to the market you are winning.\"\nAs CMO of cybersecurity startup Torq, he built the brand through deliberately offbeat marketing campaigns.",
@@ -130,7 +140,27 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjA=",
+    "id": "MjU=",
+    "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o",
+    "title": "Did a data centre revolt affect the US midterm election results?",
+    "summary": "However, Heather West from the Eurasia Group consultancy said temporary bans on construction and new regulations might delay the data centre roll out, but would not stop it entirely.\nShe said \"projects already permitted or under construction will largely proceed\", but delays would affect the \"next wave\" of building through \"local fights, slower permitting, and pressure to make data centres pay for their own power\".\nAnalysts from the consultancy Oxford Economics have said there are also strong economic incentives for politicians to avoid policies that would severely disrupt data centre construction, pointing to tax revenue and construction jobs they bring.\nDeepak Surana of the Futurum Group, a technology research firm, said he expected there would ultimately be \"a negotiation, not a moratorium\" from Texas state leaders on data centres to ensure no negative impact on residents' energy and water bills.\nOpenAI, which has a data centre in Texas and under-construction projects in Ohio, pledged to ensure it fully paid for its own electricity on Thursday, external - one day after the midterm results.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-06T06:01:13Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "MjY=",
+    "url": "https://www.businessinsider.com/legal-ai-startup-harvey-early-ipo-talks-latham-watkins-2026-11#article",
+    "title": "Legal AI startup Harvey has held early talks about an IPO",
+    "summary": "It hired Steve Zad, who helped steer cybersecurity company Rubrik through its 2024 IPO, as its first chief revenue officer.\nRachel Hepworth came on as chief marketing officer after stints at Slack and Notion, and chief product officer Anique Drumright arrived from Rippling.\nJohn LaBarre, Harvey's first legal hire and a former deputy general counsel at Snowflake, became chief legal officer.\nThey saw a small market, with just 1.3 million lawyers in the United States.\nLatham is no stranger to Harvey, or to taking companies public.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-05T18:03:08Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mjc=",
     "url": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
     "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
     "summary": "Is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more.\nSpaceX is teaming up with Qualcomm to build out its nationwide mobile network.\nUnder the multi-year deal, SpaceX will bring Qualcomm\u2019s Dragonwing technology to \u201ctens of thousands\u201d of 5G cell sites across the US, with the first deployments set for 2027.\nNow, SpaceX is planning to use Qualcomm\u2019s Dragonwing Cellular Infrastructure, a platform made up of hardware and software designed to boost network coverage, capacity, and efficiency.\n\u201cTogether with SpaceX, we are building world-leading cellular infrastructure in the United States, advancing 5G today,\u201d Durga Malladi, Qualcomm\u2019s executive vice president and general manager of technology planning, edge solutions, and data center, says.",
@@ -140,7 +170,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MjE=",
+    "id": "Mjg=",
     "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
     "title": "Uber only fulfilled 4 rides from AI agents last quarter",
     "summary": "AI agents won\u2019t be stealing Uber\u2019s lunch any time soon.\nOnly four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning.\nThe volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \u201caround 500\u201d during the week of Halloween, out of a total 320 million Uber rides and Uber Eats deliveries.\nThis is the first time that Uber has disclosed the number of third-party AI agents that have arranged deliveries or rides on its platform.\nWith the rise of AI agents like Meta\u2019s Muse or OpenAI\u2019s Dots, some experts are predicting that platforms like Uber and DoorDash are at risk of disintermediation, in which customers use AI agents to order food or book a ride, rather than visiting the app itself.",
@@ -150,7 +180,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MjI=",
+    "id": "Mjk=",
     "url": "https://www.cnet.com/tech/computing/disneyland-training-ai-robot-interns/",
     "title": "Disneyland Is Training a Class of AI Robot Interns",
     "summary": "But what if a cutesy autonomous robot from Pixar\u2019s Cars series could help direct traffic flow and guide you right into your parking spot?\nFieldAI is using AI to enable autonomous droids to wander around Star Wars: Galaxy\u2019s Edge at Disneyland without needing mapping, GPS or guiding.\nA robot internship at DisneylandPhysical Intelligence (Pi) is another company that builds AI brains for robots.\nWhether they\u2019re roaming around parking structures or lands, or backstage helping workers, the AI-equipped autonomous robots are solving problems for Disney.\nFieldAI has many cameras on its system to help autonomous robots \u201csee\u201d and process the world around them.",
@@ -160,7 +190,7 @@
     "source": "CNET"
   },
   {
-    "id": "MjM=",
+    "id": "MzA=",
     "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
     "title": "The biggest modding site in PC gaming is taking a stance on AI",
     "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \u201cwhether AI has been used in their work,\u201d the site announced today as part of a big post about AI-generated content on the platform.\nAn outright ban will not eliminate AI from the modding process but will prevent people from mentioning its use.\n\u201cThis is less of an issue related to AI, but it\u2019s becoming much more prevalent as mod production is speeding up,\u201d Folmann says.\nNexus Mods\u2019 full AI policy is here, and mod authors have 60 days to update their existing mods to meet the requirements.\nThe 60-day grace period ends on January 2nd, and after that time, the site will begin enforcing the rules.",
@@ -170,7 +200,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MjQ=",
+    "id": "MzE=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
     "title": "Nothing teases a screen-free AI device ahead of launch next month",
     "summary": "Nothing CEO Carl Pei said in a post on X that the company\u2019s launching its first AI device in December.\nThat\u2019s just a little over a year after Pei announced plans for \u201cAI-native\u201d devices and an AI operating system.\nLast month, a rumor claimed Nothing is planning to launch two pairs of AI smart glasses, including one without cameras, and an earlier rumor said it\u2019s \u201crepositioning itself as an AI-first company\u201d with a shift to AI accessories.\nImage: NothingNothing\u2019s AI device wouldn\u2019t be the first screen-free AI gadget, following the likes of the Humane AI pin, the Friend, and even AI stuffed animals.\nOpenAI is also reportedly working on an AI smart speaker with Jony Ive.",
@@ -180,37 +210,17 @@
     "source": "The Verge"
   },
   {
-    "id": "MjU=",
-    "url": "https://www.yahoo.com/news/world/articles/european-supermarket-fridges-got-hacked-180059054.html",
-    "title": "European supermarket fridges got hacked. Again. Here's what to know",
-    "summary": "LONDON (AP) \u2014 Mysterious cyberattacks on European supermarket fridges have sent officials around the continent scrambling to figure out the cold, hard facts.\nOne Swedish supermarket said its fridges and freezers had been hacked and set to 50 degrees Celsius (122 degrees Fahrenheit).\nAdvertisement AdvertisementAdvertisement AdvertisementIt's a repeat of an earlier incident that struck refrigeration systems in hundreds of supermarkets and independent stores across France, Belgium and the Netherlands.\nAdvertisement AdvertisementBoubas said the technician told him that an area supermarket and a fast-food restaurant experienced the same issue.\nRichard Horne, the head of the U.K.'s National Cyber Security Center, told reporters the French fridges were \"connected directly to the internet with default passwords.\"",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-03T18:00:59Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "MjY=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-    "title": "OpenAI says ChatGPT is catching up to Google in search",
-    "summary": "In many circles, \u201cAsk Chat\u201d has replaced \u201cGoogle it,\u201d and that\u2019s reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google.\n(Fry did not specify the source of the Google search volume number.)\nDuring the trial, Google described AI as a potential disruptor, arguing ChatGPT was poised to seriously compete with it \u2014 now, OpenAI seems to agree.\n(OpenAI likely uses Microsoft Bing for a significant part of its searches, along with its in-house search index, although there is still some speculation that it routes some queries through Google.)\nMuch like Google, OpenAI sees a potential path to profitability through ads, particularly as it approaches an IPO potentially slated for early next year.",
+    "id": "MzI=",
+    "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+    "title": "Airbnb is working on an AI travel agent",
+    "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nAirbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.\n\u201cToday\u2019s AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\u201d Airbnb said.\nHere\u2019s how Airbnb says that new interface will work:We don\u2019t think a traditional chatbot is the right way to plan a trip.\nOur agent will help guests explore options, make decisions with the people they\u2019re traveling with, and take action directly in Airbnb.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-11-03T18:30:42Z",
+    "publishedAt": "2026-11-06T00:06:12Z",
     "source": "The Verge"
   },
   {
-    "id": "Mjc=",
-    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-    "title": "Here\u2019s Why You Shouldn\u2019t Use AI to Vote",
-    "summary": "But a lot of information from these chatbots is out of date and has been hallucinated or sourced from partisan websites.\nAccording to the Forum AI research, almost 40 percent of election answers given by all the mainstream chatbots contained at least one factual error.\nPink slime sites present as mainstream news websites but are in fact funded by political or ideological groups and individuals.\nThe worst offender, according to NewsGuard, was OpenAI\u2019s ChatGPT, which cited the pink slime sites in more than 70 percent of searches, while xAI\u2019s Grok chatbot performed best, citing pink slime sites in 30 percent of cases.\n\u201cOne of the problems is that executives and companies have really overpromised on what AI is capable of.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-03T14:45:08Z",
-    "source": "Wired"
-  },
-  {
-    "id": "Mjg=",
+    "id": "MzM=",
     "url": "https://www.businessinsider.com/sequoia-flattening-partner-structure-managers-closing-london-office-2026-11#article",
     "title": "VC firm Sequoia is flattening its partner structure and closing its London office",
     "summary": "At Sequoia Capital, London is out, and the Great Flattening is in.\nThe Silicon Valley VC firm said Wednesday it has made internal changes to undo a management hierarchy that had \"crept over into the investing team.\"\nThe VC firm, which made early-stage bets on companies such as Apple, Google, and Nvidia, said it can support European founders and startups from its Bay Area headquarters.\nBy closing its London office, winding down programs for early founders, and flattening its investing partnership, Sequoia is betting that a leaner structure will help it double down on concentrated, founder-led decision-making.\nThe VC firm is also dropping its Monday partner meeting cycle, and said that its mission of delivering the best possible returns to limited partners remains the same.",
@@ -220,17 +230,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "Mjk=",
-    "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-    "title": "Netflix will show you themed recommendations through a new \u2018AI Discover\u2019 tab",
-    "summary": "He joined The Verge in 2019 after nearly two years at Techmeme.\nPosts from this author will be added to your daily email digest and your homepage feed.\nNetflix\u2019s TV app is getting a new \u201cAI Discover\u201d tab where the company will show experimental, AI-powered featuresto help you find new shows and movies to watch.\nThe first of these experiments surfaces content based around themes, like \u201cSomething Light,\u201d \u201cFamily Movie Night,\u201d or \u201cQuick Watches.\u201d When you pick a theme, Netflix will show you recommendations that match it.\nIf you don\u2019t like a recommendation, you can tell that to Netflix, and the app will remember it.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-03T17:28:14Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MzA=",
+    "id": "MzQ=",
     "url": "https://hackaday.com/2026/11/04/from-germanium-to-diamond-the-many-shapes-of-semiconductors/",
     "title": "From Germanium To Diamond: The Many Shapes Of Semiconductors",
     "summary": "It seems fair to say that semiconductor technology has been one of the most influential inventions in human history.\nThat said, we didn\u2019t always use today\u2019s silicon-based semiconductor technology, and although silicon-based semiconductors are exceedingly versatile and adaptable, they do have their limitations.\nSemiconductorsAlthough semiconductor technology works on very different principles than vacuum tubes and relay-based electromechanical systems, ultimately the goal is the same.\nWhich is also the crux of why diamond semiconductors haven\u2019t yet cornered the market.\nDiamond-based semiconductors could potentially outperform all currently used commercial semiconductor materials, while rapidly moving any waste heat away to whatever cooling solution exists.",
@@ -240,17 +240,7 @@
     "source": "Hackaday"
   },
   {
-    "id": "MzE=",
-    "url": "https://www.businessinsider.com/pixar-cofounder-ed-catmull-advice-workers-worried-ai-2026-11#article",
-    "title": "Pixar cofounder Ed Catmull, 81, says the smartest AI-era career move is to help build what comes next",
-    "summary": "Pixar cofounder Ed Catmull, 81, has some career advice for anyone worried about AI.\nIn a Tuesday interview with Higgsfield AI CEO Alex Mashrabov, Catmull shared the mindset he believes creatives will need as the technology reshapes their industry.\n\"And we engage by learning the craft, adding to it, working with the tool makers and with the artists and forming what it is.\"\nIn 1986, Steve Jobs bought over the division and established it as an independent company, Pixar, with Catmull as a cofounder and its president.\nCatmull's advice comes as workers are grappling with whether using AI will help them stay competitive or put their jobs at greater risk.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-05T05:06:10Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MzI=",
+    "id": "MzU=",
     "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
     "title": "Data centers lost the midterms",
     "summary": "Of voters polled by NBC News on Election Day, 76 percent said they opposed data centers in their communities.\nThe City of El Dorado, Kansas, voted to ban data centers with peak electrical load over 10MW for 10 years.\nShapiro signed an executive order that barred nondisclosure agreements for data center developments and took proposals for AI data centers off the fast track.\nFord previously championed a 2015 data center tax-break bill, but said today\u2019s data centers are different from those years ago, and now supports a pause on all tax breaks for new data centers.\nAndrews supported a two-year data center moratorium, while Graham opposed a pause and got significant support from a super PAC allied with the data center industry.",
@@ -260,27 +250,17 @@
     "source": "The Verge"
   },
   {
-    "id": "MzM=",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-    "title": "\u2018Our Risk, Their Reward\u2019: Zohran Mamdani on AI and Data Centers",
-    "summary": "KATIE DRUMMOND: It was almost exactly this time last year that I interviewed you in your campaign office.\nOne, it was just before the election, but two, you were just about to have a birthday.\nI was remembering that this weekend, because I was in Sunset Park on Saturday.\nSunset Park, for those who don't know, is the best park in Brooklyn, and actually all of New York.\n[Laughs] He kept coming back, \u201cSo young!\u201d I don\u2019t think it\u2019s a barrier.",
+    "id": "MzY=",
+    "url": "https://www.businessinsider.com/openai-lays-out-new-policy-framework-for-data-centers-2026-11#article",
+    "title": "OpenAI lays out new policy framework for data centers",
+    "summary": "OpenAI has backed a new set of measures the company says will give communities a greater say in data center development, according to a policy announcement shared with POLITICO.\nThe framework shows how one of the world's leading artificial intelligence labs is attempting to reconcile public opposition to the infrastructure with Silicon Valley's need to keep building data centers to support artificial intelligence development.\nIt would also allow providers to throttle power to data centers during periods of high demand.\nOpenAI also unveiled new commitments to communities near its data centers, including a promise to pay for the full cost of energy usage and infrastructure, prioritize closed-loop cooling systems that use less water and work with local unions to fill jobs at the data centers.\nThey also announced plans to rebrand data centers as \"compute campuses,\" an apparent acknowledgement of the widespread public dislike for the infrastructure's longtime name.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-11-03T11:00:00Z",
-    "source": "Wired"
+    "publishedAt": "2026-11-05T14:06:14Z",
+    "source": "Business Insider"
   },
   {
     "id": "Mzk=",
-    "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
-    "title": "Coffee\u2019s new status symbol is a machine without plastic",
-    "summary": "New York \u2014For decades, it was all the bells and whistles that was the selling point for a fancy coffee machine.\nGrowing concern over microplastics and sustainability is sparking a wave of plastic-free coffee pods and machines.\nCaraway\u2019s new machine uses traditional coffee grounds, but unlike a conventional drip machine, the stainless steel and glass machine doesn\u2019t have plastic in its brew path.\n\u201cWe\u2019ve heard clearly from customers that they want more sustainable products and specifically less plastic and plastic waste,\u201d Drapeau told CNN.\nBut while the pods and the machine contain less plastic, they are considerably more expensive than a traditional Keurig machine.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-04T15:20:49Z",
-    "source": "CNN"
-  },
-  {
-    "id": "NDA=",
     "url": "https://www.cnet.com/tech/services-and-software/openai-data-centers-rebrand-midterms-pr-campaign/",
     "title": "AI Data Centers Have a PR Problem. OpenAI Is Proposing a Rebrand",
     "summary": "The effort is a response to an increasingly enraged electorate, as backlash to AI data center construction becomes a unifying issue across party lines.\nMore from CNETSupporters of AI data centers often argue that the construction and operation of these massive AI server farms bring job growth to local communities.\nVoters will decide how much control Trump\u2019s administration retains over Congress on Tuesday \u2014 and the AI industry is a big-ticket issue this cycle.\nAs it stands, Trump is working directly with AI companies to define security threats and respond on their own terms.\nDemocratic politicians have generally eyed the AI gold rush with greater outward skepticism and scrutiny, with some members of Congress even backing a resolution opposing AI company bailouts in the event of a financial bubble popping.",
@@ -290,23 +270,23 @@
     "source": "CNET"
   },
   {
-    "id": "NDI=",
-    "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
-    "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
-    "summary": "While these hacks have been frequent, the country\u2019s hackers allegedly made off with their biggest heist to date last week when $6.34 billion was siphoned from the wallets belonging to crypto exchange Binance.\nIn a new security update issued on Tuesday, Binance detailed its initial findings into how the company was compromised and hackers were able to steal billions in just 20 minutes.\nThe hack, according to Binance, was the result of an engineer falling for a fake job interview and downloading malicious software.\nThe FBI quickly linked TraderTraitor to the Binance hack on October 31.\n\u201cBinance\u2019s account aligns with what we know about the TraderTraitor playbook,\u201d says Rafe Pilling, a senior director of threat intelligence at security company Sophos.",
+    "id": "NDA=",
+    "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+    "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+    "summary": "AMD CEO Lisa Su said in the company\u2019s quarterly earnings call on Tuesday that Q3 2026 was \u201cwas the largest and most profitable in our history.\u201d AMD reported a record $13.4 billion in quarterly revenue, and it\u2019s predicting it will hit another record high next quarter of $17 billion.\nThe company\u2019s data center business is driving that growth, with $8.5 billion in data center quarterly revenue for Q3 2026.\nSu said AMD\u2019s expecting its revenue to \u201cgrow more than 80 percent in 2027,\u201d adding that \u201cdata center will be the largest contributor.\u201dEventually, most of AMD\u2019s revenue might come from its data center business.\nOver the last couple years, jumps in the company\u2019s revenue have been closely mirroring its data center business \u2014 in Q3 2026 its overall revenue went up $1.9 billion, while its data center revenue went up $1.8 billion.\nAs AMD keeps smashing its data center revenue records, its gaming business dropped 40 percent compared to last year, dipping to $773 million.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-03T19:04:58Z",
-    "source": "Wired"
+    "bias": "right",
+    "publishedAt": "2026-11-04T01:17:17Z",
+    "source": "The Verge"
   },
   {
-    "id": "NDU=",
-    "url": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
-    "title": "Google Maps Updated to Fully Support iPhone Duo Displays",
-    "summary": "Google Maps has been updated with improved support for the iPhone Duo's displays, so that the app now fills the foldable iPhone's inner and outer screens rather than leaving unused space along the edge.\nThe change comes with version 26.44.4, which is available on the App Store.\nGoogle doesn't mention Duo-specific changes in its release notes, but the updated support is plainly visible.\nGoogle Maps follows a growing number of apps adapting to Apple's foldable iPhone.\nEarlier this week, Zoom and several Microsoft apps gained Duo optimization, including Word, PowerPoint, Excel, and OneNote.",
+    "id": "NDM=",
+    "url": "https://www.bgr.com/2307957/elon-musk-xai-data-center-power-source-jet-engine-local-pollution/",
+    "title": "Elon Musk's Gas-Powered xAI Data Centers Are Running Into A Big Problem With Locals",
+    "summary": "Elon Musk, the momentary trillionaire, has been under fire over his company, xAI, and its use of gas turbines to power data centers.\nIn Boxtown, Memphis, the NAACP has accused Musk's xAI of disregarding safeguards due to it being an area with a large Black community.\nIt has also alleged that the gas turbines were put up illegally, without proper planning permission.\nThe NAACP has since taken xAI to court over turbines at its nearby Mississippi facility.\nDuring 2025, xAI had 35 different turbines operating, removed some, and then replaced them with three larger turbines.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-11-04T12:24:12Z",
-    "source": "MacRumors"
+    "publishedAt": "2026-11-05T17:17:00Z",
+    "source": "BGR"
   }
 ]
