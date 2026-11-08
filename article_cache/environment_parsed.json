@@ -1,6 +1,26 @@
 [
   {
     "id": "Mzc=",
+    "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+    "title": "Lame-duck Congress might actually do something: speed up energy projects",
+    "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support.\nAnd while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new data centers.\nData center energy demand has led to a surge of new gas projects in the US, and the bipartisan bill could help streamline reviews for new pipelines delivering fuel for data centers.\nIt could also prevent communities from challenging projects, including data centers, that wind up having unforeseen consequences for the environment and public health.\nStill, without permitting reform, gas and power prices would likely continue to climb as new energy projects keep hitting bottlenecks, according to Wood Mackenzie.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-11-06T18:42:30Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mzg=",
+    "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o",
+    "title": "What is climate change? A really simple guide",
+    "summary": "Climate change is the long-term shift in the Earth's average temperatures and weather conditions.\nThe world has been rapidly warming for around a century, causing weather patterns to change.\n2024 was Earth's hottest year on record, with climate change mainly responsible for the high temperatures.\nTemperatures remained high in 2025, despite a slight cooling from a natural weather pattern called La Ni\u00f1a.\nThe opposite El Ni\u00f1o pattern, combined with climate change, makes it likely that 2026 will also rank among the hottest years ever recorded.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-11-06T16:40:51Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NDA=",
     "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo",
     "title": "Pollution: Delhi's toxic winter air is back - is the Indian capital prepared?",
     "summary": "Every year, as winter and the festive season approach, residents of India's capital begin preparing for something far less celebratory: months of breathing polluted air.\nThe result is noxious air and a familiar question: why does pollution return year after year, and why hasn't more been done to tackle it?\nThis year, however, the Delhi government announced its Winter Action Plan months before the worst of the smog arrived.\nThe plan is in place from 1 November to 28 February, covering the months when pollution usually spikes.\nOutdoors, people wear masks or cover their faces with cloth, trying to protect themselves from the worst of the pollution.",
@@ -10,7 +30,7 @@
     "source": "BBC News"
   },
   {
-    "id": "Mzg=",
+    "id": "NDE=",
     "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o",
     "title": "Comber: Investigation into 'major fish kill' underway after pollution incident",
     "summary": "A investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed.\nThe pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler (also known as Enler) Rivers.\nGlenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\".\nThe Northern Ireland Environment Agency (NIEA) and Daera Inland Fisheries are working to \"identify the source of the pollution and to finalise the numbers of fish killed\".\nThe Department said the incident was reported by a member of the public on Tuesday at 09:30 GMT.",
@@ -21,22 +41,52 @@
   },
   {
     "id": "NDI=",
-    "url": "https://www.scientificamerican.com/article/the-polar-vortex-is-about-to-go-haywire/",
-    "title": "The polar vortex is about to go haywire",
-    "summary": "Something \u201cunprecedented\u201d is happening in the atmosphere: the Arctic polar vortex, a spinning mass of air high above the North Pole, is collapsing.\nWaves in the atmosphere known as \u201cRossby waves\u201d can cause the polar vortex to wobble and weaken.\nDuring a big polar vortex disruption\u2014what scientists call a \u201csudden stratospheric warming\u201d\u2014the vortex can drift, stretch, split into multiple swirls or change direction.\nPolar vortex disruptions normally occur deep into the winter, Cohen says, so a sudden stratospheric warming in November is unusual.\n\u201cWhere everything sets up is still in question.\u201dNot all polar vortex disruptions look the same.",
+    "url": "http://www.rollingstone.com/politics/politics-features/midterms-boost-clean-energy-wisconsin-pennsylvania-arizona-1235653500/",
+    "title": "The Midterms Could Unleash a New Era of Clean Energy in These States",
+    "summary": "The three states have also lagged on support for clean energy.\n\u201cIt is impossible to overstate how monumental these results are,\u201d said David Weiskopf, the senior policy director at Climate Cabinet, a nonprofit that works to elect climate-focused candidates and pass state climate policy.\n\u201cThis is just a massive opportunity to make progress.\u201dHere\u2019s how the election could open up the floodgates for new climate policy in Wisconsin, Pennsylvania, and Arizona.\nThe state\u2019s legislature failed this year to pass a law that would require data centers to source their power from clean sources.\nThe Keystone State\u2019s status as a large producer of both natural gas and coal also made it difficult to secure agreements within the Democratic Party on clean energy proposals.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2026-11-04T17:00:00Z",
-    "source": "Scientific American"
+    "publishedAt": "2026-11-06T15:00:00Z",
+    "source": "Rolling Stone"
   },
   {
-    "id": "NDU=",
-    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-    "title": "What\u2019s next for US energy policy after the midterm elections?",
-    "summary": "Readers might remember huge laws affecting climate and energy that were passed in just the last four years.\nThe 2022 Inflation Reduction Act included massive support for clean energy, including tax credits and government grants and loans.\nThen the 2025 One Big Beautiful Bill Act essentially slashed much of the support and financial incentives in the IRA from two years before.\nSo even if Congress puts together new legislation to boost climate measures and clean energy, Trump will need to sign it\u2014and that dramatically narrows the scope of what might happen legislatively between now and the next election.\nThe White House has supported the bill, and it could pass the Senate if just a handful of Democrats join the Republican majority.",
+    "id": "NDQ=",
+    "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o",
+    "title": "How climate change worsens heatwaves, droughts, fires and floods",
+    "summary": "Scientists use computer models to simulate how individual extreme weather events unfold in two scenarios:today's world with about 1.4C, external of human-caused warminga hypothetical world without human influence on the climateThat way, they can estimate, external how much a particular heatwave, storm or drought was affected by climate change.\nThe UK experienced its hottest summer on record in 2026, which the Met Office said was made 130 times more likely by climate change.\nFive widespread heatwaves affected the country, resulting in 40 days of temperatures above 30C (86F).\nHead of Climate Attribution at the Met Office, Dr Mark McCarthy, described summer 2026 as \"remarkable\" and warned that extreme heat events would only become more common as the world warms.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-11-06T16:43:30Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NDc=",
+    "url": "https://www.nature.com/articles/s41586-026-11351-4.pdf",
+    "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+    "summary": "The Intergovernmental Panel on Climate Change recommended 1.5\u00b0C carbon reduction target, requiring powerful enforcement from major economies.\nChina, the largest CO 2 emitter, is facing severe difficulties for both variable renewable accommodation and decarbonization of hard-to-abate sectors.\nHydrogen, as a critical green energy carrier bridging renewable to end-users, faces significant obstacles in real-world deployment such as costly transportation, storage and fuel-cell adoption.\nHere, we present cost-effective carbon-neutral transition pathways for entire energy economy of China emphasizing the significant role of hydrogen and derivatives as green energy carriers, considering high-resolution renewable deployments, hourly power system operations in 29 provincial regions, over 46,000 rail/road/marine/pipeline transfer routing of hydrogen derivatives, process-level fuel adoption strategies in all end-use sectors.\nHydrogen derivative based transition pathway offers a vital direction for affordable and secure decarbonization for China and beyond under volatile international energy markets.",
     "category": "environment",
     "bias": "lean right",
-    "publishedAt": "2026-11-04T17:08:00Z",
-    "source": "MIT Technology Review"
+    "publishedAt": "2026-11-05T00:00:00Z",
+    "source": "Nature.com"
+  },
+  {
+    "id": "NDg=",
+    "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o",
+    "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+    "summary": "High above the Arctic, powerful winds usually circle the North Pole each winter, helping trap some of the coldest air on Earth.\nBut this circulation, known as the polar vortex, has weakened and shifted position in recent days.\nWhile such disruptions can occur during winter, scientists say an event this early in November is unprecedented in modern observations.\nSimilar disruptions in past years have sometimes been followed by colder weather affecting parts of Europe and North America.\nHowever, as this is happening so early in the season, there are few historical examples to compare with and it could throw current winter forecasts into even more uncertainty.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-11-06T01:22:39Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NTM=",
+    "url": "https://abcnews.com/Politics/extinction-level-event-blue-tsunami-republicans-eyeing-2028/story?id=137882445",
+    "title": "'Extinction-level event,' 'blue tsunami': How Republicans eyeing 2028 are taking midterm losses",
+    "summary": "Sen. Ted Cruz speaks at a campaign event for Republican candidate for Senate Mike Rogers in Grosse Pointe Woods, Mich., on Oct. 28, 2026.\nSen. Ted Cruz speaks at a campaign event for Republican candidate for Senate Mike Rogers in Grosse Pointe Woods, Mich., on Oct. 28, 2026.\nSen. Ted Cruz speaks at a campaign event for Republican candidate for Senate Mike Rogers in Grosse Pointe Woods, Mich., on Oct. 28, 2026.\nSen. Ted Cruz speaks at a campaign event for Republican candidate for Senate Mike Rogers in Grosse Pointe Woods, Mich., on Oct. 28, 2026.\nSen. Ted Cruz: 'It was a Watergate-level repudiation'Sen. Ted Cruz called Republicans' performance in the midterm elections a \"Watergate-level repudiation\" of the Republican Party.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-11-05T20:00:29Z",
+    "source": "Abcnews.com"
   }
 ]
