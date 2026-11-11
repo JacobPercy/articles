@@ -1,6 +1,16 @@
 [
   {
-    "id": "Mw==",
+    "id": "MA==",
+    "url": "https://endtime-instruments.org/ai-bubble-tracker/",
+    "title": "AI Bubble Tracker",
+    "summary": "The revenue gap What AI must earn each year to pay for the buildout (twice hyperscaler capex, per David Cahn), against what the AI labs report.\nThe revenue gap since ChatGPT Revenue needed to earn back all the capex since ChatGPT launched, against the visible part of AI revenue: what the AI labs have earned so far.\nVenture money going to AI, month by month Global startup funding to AI companies, and AI's share of all venture funding.\nY Combinator batches: how many startups are AI Share of each YC batch that describes itself as AI.\nEveryone's a .ai Share of each year's Y Combinator startups with a .ai web address, or \"AI\" in the company name.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-09T23:09:15Z",
+    "source": "Endtime-instruments.org"
+  },
+  {
+    "id": "MQ==",
     "url": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
     "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
     "summary": "Nvidia's (NVDA) board is launching an independent investigation into reports that a woman CEO Jensen Huang was having an affair with was allegedly spying on him for the Chinese government.\nNvidia stock fell 5% before the bell on Monday.\nThe revelations come after reports of ties between Huang and a woman believed to be passing information to the Chinese government.\n\"The key question investors will be asking is: Will Jensen remain CEO of Nvidia?\u2026.\nThe investigation will be key, and we would expect Jensen to continue in his role as CEO with no interruption in the near-term,\" Ives wrote.",
@@ -10,24 +20,54 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "Nw==",
-    "url": "https://www.businessinsider.com/cybertruck-big-ev-trucks-fail-ford-f150-lightning-2026-11#article",
-    "title": "It's not just the Cybertruck. America's big electric-truck bet fell apart.",
-    "summary": "\"All the capability, status, and desirability of a pickup truck minus that oftentimes poor fuel economy?\"\nFull-size electric trucks never caught on as automakers predicted, and they are falling even further behind this year.\nThe Ford F-150 was America's best-selling electric pickup when it was discontinued.\nPlus, \"these full-size EV pickup trucks are and were pretty dang expensive,\" DeGraff added.\nJustin Sullivan/Getty ImagesAutomakers have a new bet: smaller and cheaper electric trucks that aren't competing with the full-size workhorses.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-07T11:01:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "OQ==",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise",
-    "title": "China\u2019s e-bikes boom as fuel prices rise",
-    "summary": "NewsFeed China\u2019s e-bikes boom as fuel prices riseE-bikes are an increasingly popular way to get around in China.\nManufacturers there are now looking to expand to markets abroad as fuel prices stay high and consumers look for electric alternatives, as Al Jazeera\u2019s Katrina Yu explains from Beijing.",
+    "id": "NA==",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+    "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "summary": "Nvidia (NVDA) stock trimmed losses to fall 4% on Monday after the chipmaker's board announced it would investigate the relationship between CEO Jensen Huang and a woman whom the intelligence community believes could be a Chinese Spy.\nIn a Sunday memo to employees, Nvidia CEO Jensen Huang admitted to an extramarital affair, apologizing to his family and staff while pledging full cooperation with an independent board review.\n\"Jensen is the core DNA of Nvidia, and its AI success and ambitions are heavily tied to him staying on as CEO.\nA look across the semiconductor sector showed the risk damage was largely contained to Nvidia.\nMeanwhile, Alphabet (GOOGL) shares rose more than 1% on Monday after the tech giant introduced two new tensor processing units, or TPUs.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-11-07T09:30:07Z",
+    "publishedAt": "2026-11-09T13:03:46Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "Nw==",
+    "url": "https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758",
+    "title": "Memory crunch makes refurbished kit look a lot less secondhand",
+    "summary": "Memory costs have more than quadrupled this year as manufacturers prioritize more lucrative high-bandwidth memory (HBM) for servers powering AI datacenters.\nBen Caddy, senior analyst at Omdia, said suppliers were linking refresh discussions with opportunities to recover value from customers' aging kit.\nRefurbished smartphones are growing in popularity, but persuading customers to trade in their old devices remains a constraint on supply.\nJoosten said equivalent support, including HP Care Pack services, helped make refurbished equipment more attractive to buyers.\n\"The customers have to trust the refurbished equipment and have to trust the process.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-09T09:30:00Z",
+    "source": "Theregister.com"
+  },
+  {
+    "id": "OA==",
+    "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal",
+    "title": "Why is Nvidia\u2019s Jensen Huang at the centre of a US-China spy scandal?",
+    "summary": "Share Why is Nvidia\u2019s Jensen Huang at the centre of a US-China spy scandal?\nJensen Huang and Alice Huang are not related despite sharing a last name.\nHowever, in late October, Jensen Huang had told Bloomberg News that his interactions with Alice Huang were related to her company, Megaspeed, describing them as \u201ccompletely normal and not unusual\u201d.\nHowever, no criminal charges against Jensen Huang or Alice Huang have been reported.\n\u201cNVIDIA\u2019s Jensen Huang and NVIDIA\u2019s board owe Congress answers.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-09T10:49:02Z",
     "source": "Al Jazeera English"
+  },
+  {
+    "id": "MTM=",
+    "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+    "title": "Instagram\u2019s AI age detection is expanding globally",
+    "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven\u2019t correctly disclosed their age.\nParents and guardians can also choose to supervise Teen Accounts to set time limits and monitor how their child is using Instagram.\nMeta says that parents in the US will start receiving a notification on Instagram next month that explains the age estimation process, and how they can ensure their teen\u2019s age is accurately reflected on the platform.\nMeta says it\u2019s in the process of rolling out its age estimation technology across Facebook, and that it will start launching similar tools for Threads later this year.\nThe global expansion announced today will only place teen users under Teen Account settings.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-09T10:39:49Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTQ=",
+    "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+    "title": "Jonathan Kanter is using AI to take on Big Tech",
+    "summary": "When Jonathan Kanter stepped down as head of the Justice Department\u2019s Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies.\nAlongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a new tech startup, FluxCap.\nKanter imagines FluxCap as a \u201cforce multiplier\u201d for antitrust watchdogs taking on powerful opponents in Big Tech and elsewhere.\nGetting \u201cbasic legal tools\u201d (which Kanter calls \u201cBLTs\u201d) to understand that kind of nuance is difficult because \u201clawyering isn\u2019t about right or wrong answers,\u201d he says.\nThe entire Antitrust Division was appropriated $245 million by Congress for fiscal year 2026, with more than 400 attorneys on staff across several issue areas.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-09T14:10:44Z",
+    "source": "The Verge"
   },
   {
     "id": "MTU=",
@@ -43,7 +83,7 @@
     "id": "MTY=",
     "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
     "title": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
-    "summary": "I was even more surprised to see why: In an iOS-only beta, the Times is now using AI to allow subscribers to modify recipes.\nTwo notable companies with a deep bench\u2014The New York Times Cooking and America's Test Kitchen\u2014are cooking content makers.\nNow, in the iOS-only beta, a \"customize this recipe\" field appears just above the ingredient list.\nAll the changes throughout the recipe are noted in a visible red-orange text.\nThe modifications it makes are very visible throughout the recipe.",
+    "summary": "It highlighted this sweet, funny relationship between a media brand\u2019s personalities and its audience, a warm-casual vibe.\nI was even more surprised to see why: In an iOS-only beta, the Times is now using AI to allow subscribers to modify recipes.\nJust about anything that was part of the \"smart kitchen\" tended not to be very smart at all.\nTwo notable companies with a deep bench\u2014The New York Times Cooking and America's Test Kitchen\u2014are cooking content makers.\nSince AI is often a lousy chef, giving it a role in the presentation of NYT's gold mine of content is a big risk.",
     "category": "technology",
     "bias": "left",
     "publishedAt": "2026-11-08T12:00:00Z",
@@ -51,23 +91,13 @@
   },
   {
     "id": "MTc=",
-    "url": "https://it.slashdot.org/story/26/11/07/2051225/is-mandating-ai-use-in-the-workplace-backfiring",
-    "title": "Is Mandating AI Use in the Workplace Backfiring?",
-    "summary": "Pascal is a language for children wanting to be naughty.\n-- Dr. Kasi Ananthanarayanan",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+    "title": "Trump\u2019s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+    "summary": "We called them very strongly and said, \u2018Get ready to go to jail.\nEventually he said China\u2019s Xi is \u201c\u2026all in to SI, as I call it, because it really is super intelligence.\nAnd China has no guardrails, by the way.\n[...] They have the guardrails that whatever President Xi says goes.\nWith me, it\u2019s pretty strong, but it\u2019s not quite that strong.\u201d",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-07T20:53:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MTg=",
-    "url": "https://www.businessinsider.com/peggy-johnson-took-robots-to-wall-street-they-turn-profit-2026-11#article",
-    "title": "Peggy Johnson took humanoid robots to Wall Street. Now she has to make them profitable.",
-    "summary": "Four decades later, Johnson, 65, has taken the first humanoid robotics company public in the US.\nOn Thursday, Johnson took Oregon-based Agility Robotics public through a merger with a special-purpose acquisition company that raised about $465 million.\nNow, she is tasked with her most formidable challenge yet \u2014 turning humanoid robots into a profitable business.\nAgility Robotics CEO Peggy Johnson at the 2026 World Economic Forum in Davos.\nAfter starting her career at industrial giant General Electric, she joined Qualcomm, then a fledgling wireless technology company, in 1989.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-08T10:00:02Z",
-    "source": "Business Insider"
+    "bias": "center",
+    "publishedAt": "2026-11-09T15:50:38Z",
+    "source": "The Verge"
   },
   {
     "id": "MTk=",
@@ -91,146 +121,36 @@
   },
   {
     "id": "MjE=",
-    "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11#article",
-    "title": "Startup Drama Exposes Legal Headache of AI Agent Era",
-    "summary": "There's AI agent drama in startup land, and it poses a big legal question.\nManders asked why Jake Runzer, an employee of Railway, a competing cloud provider, was \"trying to breach\" Primcloud's infrastructure.\nYour employee Jake Runzer, just attempted to tonight.\n\"The problem is that the AI agent, once they find a way to break in, might say: 'Huh, this might work, let me try it,'\" Rasch said.\nBoth Rasch and Kajunju said that the legal precedent was still forming, making it a pressing question for lawyers and AI users alike.",
+    "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+    "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
+    "summary": "Soft, flexible robots could be useful for a wide variety of applications, including artificial muscles and wearable devices\u2014or really any application where a robot must be especially delicate.\nLike your stereotypical robot, soft actuators convert energy\u2014such as electricity, heat, or light\u2014into mechanical motion, but they look nothing like the metal and wire constructs that the word \u201crobot\u201d most often evokes.\nOne variety of these soft robots, known as bioactuators, utilizes the functions of living cells to generate motion.\nOur goal has always been to bring the research of living materials to new levels,\u201d Marie-Eve Aubin-Tam, who led the research, explained in a press release.\n\u201cWe wanted to explore what becomes possible when living cells are integrated into functional materials.\u201d",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-11-07T11:05:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjI=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company\u2019s H200 AI chips.\nWhat little information can be found about New Matrix is concerning.\nAnd according to the Times, this is not a rare lapse in oversight, but a troubling pattern of companies connected to entities with national-security-related trade restrictions being approved to purchase Nvidia chips.\nNvidia had been restricted from selling chips to China during the Biden presidency.\nBut the Trump administration relaxed those limits after Nvidia agreed to give the government a 15-percent cut of all sales.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-07T15:43:45Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MjM=",
-    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-    "title": "Apple capped engineers at a $200 daily AI budget.",
-    "summary": "Stork AI Daily/November 2026/Sunday, November 8, 2026By Wren Calloway\u00b7Reads 40 AI newsletters a day so you only read one.\nApple has reportedly slashed the daily AI spending limit for some of its own engineers, dropping the cap from $300 down to $200.\nThis is not about Apple lacking the liquid cash to fund its internal development.\nThe ones who assume compute will just keep getting cheaper are going to run out of runway long before they run out of ideas.\nIf Apple is sweating the daily API bill, you should be terrified of yours.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-09T05:30:11Z",
-    "source": "Stork.ai"
-  },
-  {
-    "id": "MjQ=",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no",
-    "title": "What happens if the internet goes down? BlackSky - the UK's emergency backup plans",
-    "summary": "In the drive towards efficiency over the last five decades, we've lost backup systems, says Lord Harris.\nAn example of this is the new communication system being adopted by the emergency services, which will replace radio comms with mobile phone network technology, says Lord Harris, \"so if the mobile phone goes down it will also impact on emergency services communications\".\nHowever, the government insists \"moving emergency services onto modern 4G and 5G technologies\" is \"resilient and reliable\".\nThe UK's copper wire landline system - which would work even in a power cut - will be switched off on 31 January 2027.\nMy candles had been pushed to the back of a cupboard and I had no idea where I had put my wind-up radio with its emergency torch.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-07T00:31:54Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "MjU=",
-    "url": "https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os",
-    "title": "AlpineBSD Announced",
-    "summary": "Pascal is a language for children wanting to be naughty.\n-- Dr. Kasi Ananthanarayanan",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-08T00:46:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "MjY=",
-    "url": "https://tech.slashdot.org/story/26/11/08/1936228/parents-sue-google-over-ai-safety-risks-on-school-chromebooks",
-    "title": "Parents Sue Google Over AI Safety Risks On School Chromebooks",
-    "summary": "Pascal is a language for children wanting to be naughty.\n-- Dr. Kasi Ananthanarayanan",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-08T20:34:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "Mjc=",
-    "url": "https://www.businessinsider.com/nvidia-investigation-jensen-huang-affair-smart-people-2026-11#article",
-    "title": "What smart people are saying about Nvidia investigation of Jensen Huang",
-    "summary": "On Sunday, Nvidia said its board of directors opened an independent investigation into whether Jensen Huang had been the \"target of a foreign intelligence effort.\"\nHuang shared a memo with Nvidia employees earlier in the day in which he said he had been \"unfaithful\" to his wife.\nIn October, The New York Times reported that US officials believed that a Chinese intelligence asset, Alice Huang, had developed a relationship with the Nvidia CEO.\nAlice Huang has been an executive for Megaspeed, an Nvidia customer.\nAs Nvidia teeters on the edge of a national security scandal, some business and tech leaders have weighed in.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-09T00:08:25Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjg=",
-    "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11#article",
-    "title": "An unreleased Anthropic model just helped solve a major quantum-computing question",
-    "summary": "Physical Superintelligence Inc., or PSI, said Friday it used an unreleased model from Anthropic to prove the Aaronson-Ambainis conjecture, a long-standing problem in quantum computing.\nThe lab developed a research system that included the Anthropic model.\nDavid Turturean, a member of the technical staff at PSI, developed the research system that used the unreleased Anthropic model to prove the Aaronson-Ambainis conjecture.\nAdd to Preferred SourcesIt's not clear what unreleased model PSI used.\nResearchers who had previously worked on the problem said the proof was a \"huge result\" that resolved a decades-old question.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-07T00:49:10Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjk=",
-    "url": "https://www.bgr.com/2304757/microsoft-copilot-leaving-smart-tvs/",
-    "title": "There's One Less AI Assistant Invading Your TV After Microsoft's Change",
-    "summary": "While tech companies' undying AI obsession has rendered its takeover inevitable, not everyone wants AI on their devices.\nThus, it may please some smart TV owners to know that AI may be leaving their systems.\nIf you own an LG or Samsung smart TV equipped with Microsoft Copilot, your device will no longer support the AI software by the end of 2026, per an October 2026 announcement.\nThe change comes not even two years after Microsoft announced it would bring Copilot AI functionality to users' systems at the 2025 Consumer Electronics Show.\nAs a result, the Copilot-enabled feature on your TV is no longer available and may stop functioning shortly.\"",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-07T18:17:00Z",
-    "source": "BGR"
-  },
-  {
-    "id": "MzA=",
-    "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11#article",
-    "title": "A growing streetwear retailer reveals its AI agent shopping strategy ahead of the holidays",
-    "summary": "For streetwear retailer All Star Elite, which has about 60 US stores and a growing e-commerce operation, that means getting ahead of the bots.\nAbhishek BoraOver the last month, about 1% of the site's traffic came from AI agents, Abhishek Bora, the company's head of growth, told Business Insider.\nAI traffic to US retail sites is expected to double on Black Friday and Cyber Monday compared with last year, according to Adobe, and AI traffic is already converting to sales at higher rates than non-AI visits.\nSign up By clicking \"Sign up\", you agree to receive emails from Business Insider.\nAll Star Elite has around 60 retail stores in the US.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-07T10:47:01Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MzE=",
-    "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-    "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-    "summary": "Last month, Apple refreshed the 14-inch MacBook Pro with the latest M6 chip.\nThat's especially true since the base 14-inch MacBook Pro isn't a true pro laptop in terms of performance.\nIf you're going to buy the 14-inch MacBook Pro M5, though, you should also be considering the 15-inch MacBook Air.\nSo, whether you opt for the thinner 15-inch MacBook Air M5 or the 14-inch MacBook Pro M5 with its better screen, you have great deals to enjoy.\nThe same just can't be said as of now for the M6 MacBook Pro.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-08T10:00:00Z",
+    "bias": "lean left",
+    "publishedAt": "2026-11-09T10:30:00Z",
     "source": "Wired"
   },
   {
-    "id": "MzI=",
-    "url": "https://www.cnet.com/news/nvidia-board-probes-reports-ceo-was-targeted-by-spy/",
-    "title": "Nvidia Board Launches Probe After Reports CEO Was Targeted by Chinese Spy",
-    "summary": "Megaspeed is a Singapore-based data center company that buys chips from Nvidia to run data centers that sell computing power to Chinese AI labs.\nThe cutting-edge computer chips that Nvidia produces are what make AI and AI data centers possible, and that has made Nvidia one of the world\u2019s most valuable companies by market cap.\n\u201cToday\u2019s news will not slow Nvidia,\u201d an Nvidia spokesperson said.\nThe Biden administration banned Chinese sales of a series of advanced Nvidia chips in 2022, but President Donald Trump relaxed those rules in 2025.\nIn his own memo to Nvidia employees, Huang said he was \u201cdeeply sorry\u201d for the affair.",
+    "id": "MjI=",
+    "url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
+    "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+    "summary": "Anthropic today introduced its latest models, Claude Fable 5.2 and Claude Mythos 5.2, which have improvements in coding, reasoning, and vision.\nAnthropic says Fable 5.2 and Mythos 5.2 communicate more clearly than the 5.1 versions, with outputs generated up to 30 percent faster.\nFable 5.2 uses fewer tokens than Fable 5.1 on challenging tasks when set to medium effort.\nBoth use the same underlying model, but the public-facing Fable 5.2 model has cybersecurity and biology safeguards to prevent misuse.\nCompared to Fable 5.1, Fable 5.2 has approximately 55 percent fewer blocks.",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-11-08T21:57:39Z",
-    "source": "CNET"
+    "bias": "center",
+    "publishedAt": "2026-11-09T19:38:47Z",
+    "source": "MacRumors"
   },
   {
     "id": "NDI=",
-    "url": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat",
-    "title": "As AI data centres guzzle energy, can we harness their wasted heat?",
-    "summary": "There are more than 12,500 data centres around the world and more are coming online every day, straining global energy infrastructure and resources.\nThe proliferation of data centres is causing widespread anger.\nAdvertisementBut like supercomputers and AI data centres everywhere, Bitten\u2019s capability matches its power consumption.\nThe United States hosts more data centres than any other country by far, currently about 4,000.\n\u201cWe have a vast untapped source of energy in waste heat,\u201d Strand said.",
+    "url": "https://www.yahoo.com/news/politics/articles/democrats-eye-musk-miller-probes-162946969.html",
+    "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout",
+    "summary": "In television appearances, US Representative Robert Garcia of California and US Senator Elizabeth Warren of \u200cMassachusetts, set to lead the House Oversight and Senate Banking committees, vowed aggressive oversight after their party's sweeping midterm election victory.\nAdvertisement AdvertisementAdvertisement AdvertisementMeanwhile, House Democratic leader Hakeem Jeffries indicated he and his \u200bfellow Democrats would back an impeachment of Defense Secretary Pete Hegseth.\nDEMOCRATS FOCUS ON MILLER, \u2060HEGSETHMiller \u2014 whom Garcia called the architect of a \"horrific, unjust\" immigration policy \u2014 has been promoted to White House chief of staff.\nAttorney General Todd Blanche signaled on Sunday that the Trump administration was prepared to battle the Democrats in Congress, calling threats by some Democrats to target administration officials and allies \"not \u200bsomething we can tolerate in this country.\"\n\"If that's \u200cwhat this new incoming leadership wants to do, we are ready,\" said Blanche, a former personal lawyer for Trump.",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-08T08:17:12Z",
-    "source": "Al Jazeera English"
+    "bias": "left",
+    "publishedAt": "2026-11-08T18:15:45Z",
+    "source": "Yahoo Entertainment"
   },
   {
-    "id": "NTk=",
-    "url": "https://www.businessinsider.com/nvidia-jensen-huang-investigation-chinese-spy-2026-11#article",
-    "title": "Nvidia says it's investigating whether CEO Jensen Huang was the target of a 'foreign intelligence effort'",
-    "summary": "Nvidia's board of directors says it is opening an investigation into whether CEO Jensen Huang was the target of a \"foreign intelligence effort.\"\nThe announcement came after Huang sent a note to Nvidia staff admitting he had been \"unfaithful\" to his wife.\nThat raised national security concerns, given Nvidia's relationship with China \u2014 a major market where US export controls limit its chip sales.\nThe board added that it had no reason to believe national security or company secrets had been compromised.\nBill Ackman, the billionaire founder of Pershing Square Capital Management, said in an X post on Sunday that the Nvidia CEO is an \"incredible human\" and that \"even incredible humans make mistakes.\"",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-08T20:32:21Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NjA=",
+    "id": "NDk=",
     "url": "https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091",
     "title": "Trump says Nvidia CEO told him he 'didn't know' he was involved with alleged Chinese spy",
     "summary": "Trump says Nvidia CEO told him he 'didn't know' he was involved with alleged Chinese spyJensen Huang, chief executive officer of Nvidia Corp., left, and US President Donald Trump during a meeting with tech executives on artificial intelligence in the East Room of the White House in Washington, DC, US, on Tuesday, Sept. 29, 2026.\nPresident Donald Trump said the head of Nvidia told him in a phone call on Monday that he \"didn't know\" he was involved with an alleged Chinese spy.\nTrump said he spoke to Jensen Huang on Monday and asked him about it.\nHowever, Nvidia on Sunday shared with ABC News an internal message Jensen Huang sent to employees, in which he said he was \"unfaithful\" to his wife.\nJensen is committed to continuing to lead NVIDIA as CEO without interruption,\" an NVIDIA spokesperson told ABC News Sunday.",
@@ -240,17 +160,7 @@
     "source": "Abcnews.com"
   },
   {
-    "id": "NjM=",
-    "url": "https://www.businessinsider.com/nvidia-jensen-huang-memo-unfaithful-national-security-investigation-2026-11#article",
-    "title": "Read Nvidia CEO Jensen Huang's note to staff: 'I was unfaithful'",
-    "summary": "Nvidia CEO and founder Jensen Huang apologized for being \"unfaithful\" to his wife in a note to staff on Sunday.\nEarlier in the day, Nvidia said its board of directors opened an independent investigation into whether Huang had been the \"target of a foreign intelligence effort.\"\nThe outlet reported that surveillance of Huang showed that she had developed a relationship with the Nvidia founder.\nRead Huang's note to staffers here:To my colleagues at NVIDIA,I owe my family and all of you an apology.\nI was unfaithful to my wife.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-08T22:04:04Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NjQ=",
+    "id": "NTI=",
     "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
     "summary": "His statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation.\nI am committed to protecting Nvidia and supporting America's national security.\n\"While the Board has no reason to believe that either national security or Nvidia secrets were compromised, the Board's inquiry will examine all available information.\"\n\"I just know he's a fine person, but you never know what's going on,\" Trump told reporters, adding that he had \"done an amazing job for our country\".\nForeign Ministry spokesperson Guo Jiakun told reporters at a daily press briefing: \"We have already responded to this.",
@@ -258,25 +168,5 @@
     "bias": "lean left",
     "publishedAt": "2026-11-08T21:01:33Z",
     "source": "BBC News"
-  },
-  {
-    "id": "Njk=",
-    "url": "https://finance.yahoo.com/technology/ai/articles/trump-backs-nvidia-ceo-admits-000629323.html",
-    "title": "Trump Backs Nvidia CEO After He Admits Affair With Suspected Spy",
-    "summary": "(Bloomberg) -- President Donald Trump called Jensen Huang a \"fine person\" and said he should stay on as the chief executive officer of Nvidia Corp. after the executive admitted having an affair with a suspected Chinese spy.\nMost Read from Bloomberg\"I have not spoken to him about it,\" Trump told reporters on Sunday before returning to Washington.\nAsked whether he should stay on, Trump said, \"I think so.\nNvidia said its board would begin an investigation into whether Huang was a target of a foreign intelligence agency.\nMost Read from Bloomberg Businessweek\u00a92026 Bloomberg L.P.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-09T00:06:29Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "NzA=",
-    "url": "https://www.businessinsider.com/trump-reacts-jensen-huang-nvidia-alice-huang-affair-excuse-2026-11#article",
-    "title": "Trump backs Jensen Huang after Nvidia CEO confirmed his affair",
-    "summary": "President Donald Trump backed Nvidia CEO Jensen Huang on Sunday after Huang said he had been unfaithful to his wife with a woman US intelligence reportedly suspects was a Chinese spy.\nTrump said that in response to a question about whether he wishes he had acted on US intelligence about the affair earlier.\nTrump said he has not spoken to Huang about the matter, but added that Huang has done an \"amazing job\" for the US and should remain Nvidia's CEO.\nIn a memo to Nvidia employees on Sunday, Huang said that he had been unfaithful to his wife and that his actions had hurt his family.\nThe outlet reported that Alice Huang, a Chinese business executive and Nvidia chip buyer who is not related to the Nvidia CEO, had developed a close relationship with him and had passed information to Beijing.",
-    "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-11-09T03:12:32Z",
-    "source": "Business Insider"
   }
 ]
