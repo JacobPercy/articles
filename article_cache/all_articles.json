@@ -2,6 +2,54 @@
   {
     "article": {
       "id": "MA==",
+      "url": "https://www.cnet.com/tech/services-and-software/ai-tech-layoffs-2026-trigger-recession/",
+      "title": "AI-Driven Tech Layoffs Could Trigger a 1.6 Million Job Recession",
+      "summary": "A wave of recent tech layoffs and buyouts reveals a growing volatility in the tech industry, as major companies restructure to cut costs and redirect spending toward AI.\nAccording to the TrueUp tech layoffs tracker, layoffs are accelerating faster than last year, with over 200,000 workers reduced so far in 2026.\nSo far, layoffs don\u2019t appear to be spreading to other industries, and overall job cuts are the lowest since 2022.\nBut the job market has become increasingly precarious, especially for younger workers, according to Lisa Countryman-Quiroz, CEO of JVS Bay Area, a workforce nonprofit.\nAI, tech and the midtermsThe 2026 midterm elections could also indirectly affect tech layoffs, mainly due to changes in the political and regulatory environment around AI and data centers.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-09T23:24:47Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MQ==",
+      "url": "https://finance.yahoo.com/economy/article/not-great-october-inflation-data-comes-in-hotter-than-expected-as-food-costs-and-rent-spike-140159540.html",
+      "title": "'Not great': October CPI inflation rises 0.4% as food and rent costs spike",
+      "summary": "Consumer Price Index data for October showed that inflation remains elevated, as costs rose across a wide range of essential goods and services, including food, rent, and medical care.\n\"Core\" inflation, which strips out volatile food and energy prices, rose 0.3%, coming in ahead of the 0.2% economists were expecting to match September's level.\nOwners' equivalent rent, which measures homeownership costs, rose 0.3%, while rents were up 0.2%.\nEnergy costs rose 0.7% last month, down from 5.2% in September.\nTuesday's inflation data is the Federal Reserve's final look at the CPI before it meets Dec. 8-9, although it will get another look at inflation data via its preferred measure, the Personal Consumption Expenditures index, later this month.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-11-10T13:36:11Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "Mg==",
+      "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html",
+      "title": "'Not great': October CPI inflation rises 0.4% as food and rent costs spike",
+      "summary": "Consumer Price Index data for October showed that inflation remains elevated, as costs rose across a wide range of essential goods and services, including food, rent, and medical care.\n\"Core\" inflation, which strips out volatile food and energy prices, rose 0.3%, coming in ahead of the 0.2% economists were expecting to match September's level.\nOwners' equivalent rent, which measures homeownership costs, rose 0.3%, while rents were up 0.2%.\nEnergy costs rose 0.7% last month, down from 5.2% in September.\nTuesday's inflation data is the Federal Reserve's final look at the CPI before it meets Dec. 8-9, although it will get another look at inflation data via its preferred measure, the Personal Consumption Expenditures index, later this month.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-11-10T14:23:23Z",
+      "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "Mw==",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
+      "summary": "Gas prices dip below $4 but inflation remains stubbornly hightoggle caption i Ronaldo Schemidt/AFP via Getty ImagesInflation-scarred consumers are finding a bit of relief these days at an unlikely place: the gas pump.\nSponsor MessageWhy gas prices are fallingThe drop in gasoline prices in recent weeks is thanks to a combination of falling crude oil prices, refineries' switch to a cheaper blend of winter fuel, and the typical seasonal drop in demand for gas.\nDiesel prices have also fallen, but more slowly than gas prices.\nHeating oil prices are also highRising diesel prices are also driving up the cost of heating oil in the northeast, because heating oil is a close cousin of diesel.\nHigher diesel prices also affect the cost of other goods that have to be moved by truck or train or cargo ship.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-11-10T14:35:50Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NA==",
       "url": "https://endtime-instruments.org/ai-bubble-tracker/",
       "title": "AI Bubble Tracker",
       "summary": "The revenue gap What AI must earn each year to pay for the buildout (twice hyperscaler capex, per David Cahn), against what the AI labs report.\nThe revenue gap since ChatGPT Revenue needed to earn back all the capex since ChatGPT launched, against the visible part of AI revenue: what the AI labs have earned so far.\nVenture money going to AI, month by month Global startup funding to AI companies, and AI's share of all venture funding.\nY Combinator batches: how many startups are AI Share of each YC batch that describes itself as AI.\nEveryone's a .ai Share of each year's Y Combinator startups with a .ai web address, or \"AI\" in the company name.",
@@ -13,43 +61,55 @@
   },
   {
     "article": {
-      "id": "MQ==",
-      "url": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
-      "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
-      "summary": "Nvidia's (NVDA) board is launching an independent investigation into reports that a woman CEO Jensen Huang was having an affair with was allegedly spying on him for the Chinese government.\nNvidia stock fell 5% before the bell on Monday.\nThe revelations come after reports of ties between Huang and a woman believed to be passing information to the Chinese government.\n\"The key question investors will be asking is: Will Jensen remain CEO of Nvidia?\u2026.\nThe investigation will be key, and we would expect Jensen to continue in his role as CEO with no interruption in the near-term,\" Ives wrote.",
-      "category": "technology",
+      "id": "NQ==",
+      "url": "https://abcnews.com/Business/inflation-report-provide-1st-snapshot-prices-midterm-elections/story?id=137970527",
+      "title": "Consumer prices increased 0.4% in October, higher than expected",
+      "summary": "Consumer prices rose more than expected in October, according to a government report released on Tuesday.\nThe monthly increase in October matched the rise in August.\nPrices for shelter increased 0.3% in October, accounting for more than 30% of the overall monthly rise in prices, the BLS said.\nPrices increased 3.7% over the year ending in September, the most recent month for which annual inflation data is available.\nThe annual inflation rate currently stands more than a percentage point above the Federal Reserve's target rate of 2%.",
+      "category": "economics",
       "bias": "lean right",
-      "publishedAt": "2026-11-08T21:02:55Z",
-      "source": "Yahoo Entertainment"
+      "publishedAt": "2026-11-10T10:07:13Z",
+      "source": "Abcnews.com"
     }
   },
   {
     "article": {
-      "id": "Mg==",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
-      "title": "Democrats won big on issues like immigration. But ICE still has the money",
-      "summary": "\"The fact that people were thinking of my dad and thinking of other immigrants \u2014 that just means the world to me,\" said Ronaldo Salgado, Salgado Araujo's son, told NPR.\nSponsor Message\"Unfortunately, Texas has become like the epicenter of ICE enforcement and like gross violence against immigrants,\" Ronaldo Salgado said.\nThe major hurdle is President Trump: following the midterm election results the President said he would welcome the nickname \"Mr.\nShah of the ACLU says she believes ICE enforcement and the current state of the economy are inextricably linked.\nCould we see more oversight on ICE detention facilities?",
-      "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-11-09T10:00:00Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "Mw==",
-      "url": "https://uk.news.yahoo.com/pope-leo-heads-mileis-argentina-100345344.html",
-      "title": "Pope Leo tells Argentina's Trump ally Milei that leaders must know limits of power",
-      "summary": "Leo told Milei, who has said he will seek reelection next year, that leaders must seek to better the lives of all their citizens and know the limits \u200cof their power.\nLeo is the first US-born pope and drew Trump's ire earlier this year after denouncing the Iran war.\nIn his own address welcoming Leo to Argentina, Milei defended his libertarian policies, saying that the rights to life, liberty and property are the backbone of \u200cArgentina's constitution and of Western democracies.\nMilei was known for piling insults on Leo's predecessor, Francis, an Argentine \u200cwho never came home during his 12-year papacy.\nDespite calling Francis \"an imbecile,\" Milei eventually sought to repair relations and visited Francis at the Vatican.",
-      "category": "international",
+      "id": "Ng==",
+      "url": "https://www.nature.com/articles/d41586-026-03409-0",
+      "title": "Can green technologies deliver energy security in an unstable world?",
+      "summary": "Use of global primary energy \u2014 naturally occurring energy sources that have not undergone any processing by humans \u2014 more than doubled between 1980 and 2025.\nAlthough the share of primary energy generated by renewables is growing, oil, coal and gas still account for about 80% of energy production.\nSource: Our World in DataThe IEA defines energy security as reliable, affordable access to all fuels and energy sources.\nThe IEA says that this could drop to $50 by 2035 and that geothermal energy could generate 8% of global electricity supplies by 2050.\nEfforts to develop more efficient solar cells could also help countries to improve their energy security by increasing sustainable domestic electricity supplies.",
+      "category": "environment",
       "bias": "left",
-      "publishedAt": "2026-11-08T20:38:09Z",
-      "source": "Yahoo Entertainment"
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "source": "Nature.com"
     }
   },
   {
     "article": {
-      "id": "NA==",
+      "id": "Nw==",
+      "url": "https://thoughtcatalog.com/january-nelson/2026/11/why-is-sports-betting-so-male-an-economist-points-to-a-2001-study-called-boys-will-be-boys/",
+      "title": "Why Is Sports Betting So Male? An Economist Points to a 2001 Study Called \u201cBoys Will Be Boys\u201d",
+      "summary": "On the Optimist Economy podcast, economist Kathryn Anne Edwards pointed to a landmark finance study to explain why betting apps, crypto, and speculative markets skew so heavily male.\nThe study is \u201cBoys Will Be Boys,\u201d which Brad Barber and Terrance Odean published in the Quarterly Journal of Economics in 2001.\n+6 view gallery A trader works on the floor of the New York Stock Exchange.\n+6 view gallery A Novig sports betting billboard featuring Sydney Sweeney towers over Times Square on September 16, 2026, drawing backlash from female athletes over its imagery.\n+6 view gallery A Novig sports betting billboard featuring Sydney Sweeney towers over Times Square on September 16, 2026, drawing backlash from female athletes over its imagery.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-11-09T02:12:46Z",
+      "source": "Thoughtcatalog.com"
+    }
+  },
+  {
+    "article": {
+      "id": "OA==",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues",
+      "title": "US petrol prices are down, but elevated inflation continues",
+      "summary": "Inflation remained high, despite some easing in fuel prices caused by the US war on Iran.\nConsumer prices in the United States increased in October more than expected, even as petrol prices fell to a four-month low after some easing of concerns about the long-term impact of the closure of the Strait of Hormuz on global markets.\nBut the average price, currently $3.98, is still significantly higher than the $3.07 mark it was at a year ago.\nThe average price of a gallon of petrol was $2.98 ($0.78 per litre) on February 28, when the US and Israel first struck Iran.\nAdvertisementHow voters view Trump himself has also turned largely negative since the war and its impact on the economy.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-11-10T17:40:35Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "OQ==",
       "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
       "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
       "summary": "Nvidia (NVDA) stock trimmed losses to fall 4% on Monday after the chipmaker's board announced it would investigate the relationship between CEO Jensen Huang and a woman whom the intelligence community believes could be a Chinese Spy.\nIn a Sunday memo to employees, Nvidia CEO Jensen Huang admitted to an extramarital affair, apologizing to his family and staff while pledging full cooperation with an independent board review.\n\"Jensen is the core DNA of Nvidia, and its AI success and ambitions are heavily tied to him staying on as CEO.\nA look across the semiconductor sector showed the risk damage was largely contained to Nvidia.\nMeanwhile, Alphabet (GOOGL) shares rose more than 1% on Monday after the tech giant introduced two new tensor processing units, or TPUs.",
@@ -61,7 +121,31 @@
   },
   {
     "article": {
-      "id": "NQ==",
+      "id": "MTA=",
+      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them.\nNow, anyone who lives in one of the 150 neighborhoods where the company currently operates can employ a sidewalk robot for deliveries.\nServe says its delivery robots can be a safer alternative to cars and help reduce traffic congestion since they operate mainly on sidewalks.\nInstead of hiring couriers or sending junior staff across town, businesses could program Serve\u2019s robots to shuttle items between offices.\nAnd don\u2019t expect 50-pound sidewalk robots to morph into full-size vehicles.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-10T22:53:03Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTE=",
+      "url": "https://www.businessinsider.com/goldman-sachs-partner-promotions-david-solomon-promotions-2026-11#article",
+      "title": "6 new Goldman partners share how they celebrated their promotions \u2014 and the biggest challenges getting there",
+      "summary": "The first person I called was my wife, who is also an MD at Goldman Sachs; reaching this milestone would not have been possible without her partnership and sacrifice.\nWe celebrated by going out with my investment team to Le District, a restaurant near Goldman Sachs' headquarters.\nMaking partner is never an individual endeavor \u2014 it is a reflection of shared investment performance through some very demanding market cycles.\nOne of my most influential mentors at the firm is Lou D'Ambrosio, a senior partner who previously served as a chief executive and senior operator across several businesses.\nYou don't analyze problems from the perimeter or wait for direction; you get into the arena and drive outcomes.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-11-10T09:45:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTI=",
       "url": "https://www.macrumors.com/2026/11/09/singapore-saved-apple-2-7-billion-in-tax/",
       "title": "Singapore Saved Apple $2.7 Billion in Taxes This Year",
       "summary": "Apple paid more income tax in Ireland than in Singapore in fiscal 2026, but it saved more in Singapore.\nApple's annual report shows that the company paid $4.96 billion in cash income taxes in Ireland and $3.25 billion in Singapore.\nAgainst the 21% U.S. federal corporate tax rate, Singapore lowered Apple's tax expense by $2.67 billion, about $100 million more than Ireland did.\nSingapore's lower tax rate and incentives would have saved Apple $5.49 billion before other taxes and adjustments.\nThe Financial Times estimated that Apple booked up to $50 billion in pretax profit in Singapore in 2026.",
@@ -73,91 +157,55 @@
   },
   {
     "article": {
-      "id": "Ng==",
-      "url": "https://www.huffpost.com/entry/signs-people-hurting-economy_l_6adf64a9e4b08ba8bb2d8ea4",
-      "title": "People Are Making These Changes To Get By \u2014 And It\u2019s A Troubling Sign Of The Economy",
-      "summary": "\u201cI work with florals all day for my clients, so having my own at home felt like a little non-negotiable.\n\u201cHe asked one evening why the kitchen counter looked bare, because there\u2019d been flowers on it for years.\nThat one stung a little.\u201dPlenty of people are making cuts like Byers, small enough that only those closest to them notice.\nSome changes are just good budgeting, but many others are a sign someone is struggling to cover the basics.\nPrices across the United States rose 3.7% in the 12 months through September, according to the Bureau of Labor Statistics.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-11-08T19:31:02Z",
-      "source": "HuffPost"
-    }
-  },
-  {
-    "article": {
-      "id": "Nw==",
-      "url": "https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758",
-      "title": "Memory crunch makes refurbished kit look a lot less secondhand",
-      "summary": "Memory costs have more than quadrupled this year as manufacturers prioritize more lucrative high-bandwidth memory (HBM) for servers powering AI datacenters.\nBen Caddy, senior analyst at Omdia, said suppliers were linking refresh discussions with opportunities to recover value from customers' aging kit.\nRefurbished smartphones are growing in popularity, but persuading customers to trade in their old devices remains a constraint on supply.\nJoosten said equivalent support, including HP Care Pack services, helped make refurbished equipment more attractive to buyers.\n\"The customers have to trust the refurbished equipment and have to trust the process.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-11-09T09:30:00Z",
-      "source": "Theregister.com"
-    }
-  },
-  {
-    "article": {
-      "id": "OA==",
-      "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal",
-      "title": "Why is Nvidia\u2019s Jensen Huang at the centre of a US-China spy scandal?",
-      "summary": "Share Why is Nvidia\u2019s Jensen Huang at the centre of a US-China spy scandal?\nJensen Huang and Alice Huang are not related despite sharing a last name.\nHowever, in late October, Jensen Huang had told Bloomberg News that his interactions with Alice Huang were related to her company, Megaspeed, describing them as \u201ccompletely normal and not unusual\u201d.\nHowever, no criminal charges against Jensen Huang or Alice Huang have been reported.\n\u201cNVIDIA\u2019s Jensen Huang and NVIDIA\u2019s board owe Congress answers.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-11-09T10:49:02Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "OQ==",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
-      "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-      "summary": "How a bank collapse left millions in limbo and toppled Paraguay's presidenttoggle caption i Jorge Saenz/APASUNCI\u00d3N, Paraguay \u2014 When Ueno Bank's services abruptly stopped working in the early hours of Tuesday morning, the consequences were immediate for the millions of Paraguayans who had come to depend on it for everyday transactions.\nThe Central Bank said the bank had approximately 1.8 million depositors.\nUeno Bank launched as a fintech in 2021 and began operating as a bank in November 2023.\nThe sums involved have raised questions about how such a young bank came to hold so much public money.\nHe also appointed Carlos Carvallo, who had led Ueno Bank, to head Paraguay's Central Bank in 2023.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-09T06:20:44Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "MTA=",
-      "url": "https://www.faz.net/aktuell/wall-street-journal/midterms-can-the-democrats-really-fix-the-economy-201665219.html",
-      "title": "Midterms: Can the Democrats really fix the Economy",
-      "summary": "Quarterly Inspirationen und Denkanst\u00f6\u00dfe f\u00fcr die Welt von Morgen",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-11-09T09:31:56Z",
-      "source": "Faz.net"
-    }
-  },
-  {
-    "article": {
-      "id": "MTE=",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
-      "title": "Supreme Court says border wall construction can continue in west Texas",
-      "summary": "Supreme Court says border wall construction can continue in west Texastoggle caption i Carlos Morales/for NPR.\nThe U.S. Supreme Court on Monday allowed the Trump administration to continue with its plans to construct hundreds of miles of border barrier and security infrastructure in west Texas, while a court hearing over the effort moves forward.\nSponsor MessageThe lawsuit argued that the Department of Homeland Security's plans are unconstitutional and that Big Bend residents would be \"irreparably harmed\" if the construction continues.\nThe Trump administration's plans for the beloved Big Bend region of Texas have provoked an unusual bipartisan backlash.\nHistorically, the Big Bend area's rugged landscape has meant fewer people attempting to cross into the U.S. through this pocket of the border.",
-      "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-11-09T21:47:39Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "MTI=",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "title": "Canada launches the Real-Time Rail, bringing 24/7 payment infrastructure to the national economy",
-      "summary": "OTTAWA, ON, November 9, 2026 \u2013 Payments Canada today announced the launch of Canada\u2019s Real-Time Rail (RTR).\nBuilt in Canada and designed to serve all Canadians, the RTR provides accessible payment infrastructure through existing banking and payment channels.\nSereena Boparai, Chief Revenue OfficerParamount Commerce\"The Real-Time Rail is a significant step forward for the integrity and resilience of Canada's payment infrastructure.\nI want to thank Payments Canada and Finance Canada for turning a sovereign real-time payments network into a reality.\nAs a public-purpose organization, we own and operate: Lynx, our high-value payment system; the Automated Clearing Settlement System (ACSS), our retail batch payment system; and the Real-Time Rail (RTR), our new real-time payment system.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-11-09T16:00:45Z",
-      "source": "Payments.ca"
-    }
-  },
-  {
-    "article": {
       "id": "MTM=",
+      "url": "https://hackaday.com/2026/11/10/simulating-and-visualising-the-central-limit-theorem/",
+      "title": "Simulating And Visualising The Central Limit Theorem",
+      "summary": "Statistics is one of those fields which people tend to love or hate when they\u2019re confronted with it during their school time.\nAlthough incredibly useful and even essential in many fields, including finance and engineering, it\u2019s not always easy to grasp even the basics such as those pertaining to distributions.\nThe Central Limit Theorem (CLT) is an essential element there, which [Greg Foletta] tried to make easier to comprehend using some code samples and visualizations.\nThis is quite the theorem to put out there, with the supporting proof and explanations on e.g.\nWe\u2019d be remiss not to also mention the excellent [3Blue1Brown] video on the topic, which has even snazzier visualizations if you\u2019re more into learning in that fashion.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-10T16:30:21Z",
+      "source": "Hackaday"
+    }
+  },
+  {
+    "article": {
+      "id": "MTQ=",
+      "url": "https://www.cnet.com/tech/oasis-1794320372-spotify-dj-adds-potentially-annoying-voices-or-you-can-now-turn-them-off-completely/",
+      "title": "Spotify DJ Adds Nine New Voices and a Mute Option",
+      "summary": "Music streaming service Spotify has unveiled new abilities for its popular AI-powered DJ feature, including new hosts \u2014 speaking in Spanish and English \u2014 and an on/off announcer toggle.\nAlso read: Best Music Streaming Services of 2026The lineup includes seven new English voices with British, American, Irish, Australian and Indian accents, as well as two new Mexican-accented voices that speak in Spanish.\nThe company says you\u2019ll still hear a \u201cbrief acknowledgment\u201d when you start the DJ or press the DJ button to switch modes.\nIn addition, Spotify is the most popular music streaming service, with over 100 million tracks and a plethora of features including audiobooks, podcasts and the end-of-year Spotify Wrapped.\nHere\u2019s how to access the Spotify DJ",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-10T14:39:38Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MTU=",
+      "url": "https://www.bgr.com/2308210/how-much-would-it-cost-buy-fitbit-2009-vs-2026/",
+      "title": "Here's How Much It Would Cost To Buy A Fitbit In 2009 Vs. 2026",
+      "summary": "The wearable has gone through several evolutions and technological advancements since being released a year later in 2009.\nWhen the Fitbit first released, its price was set at around $99 \u2014 that's comparable to the price of a Google Fitbit Air today.\nHowever, when taking into account the price of inflation between 2009 and 2026, that price of $99 back in 2009 would be more like $155 and some change today.\nThat's less than the price of a brand new Google Fitbit Edge today, which will set you back nearly $179.99.\nIf the Google Fitbit Edge was on sale in 2009, its price would have translated to around $114.60, give or take.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-11-10T16:17:00Z",
+      "source": "BGR"
+    }
+  },
+  {
+    "article": {
+      "id": "MTY=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "title": "Google releases Gemini 4 Carbon with agent \u2018swarm\u2019 feature",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \u201ccybersecurity defenders\u201d two weeks ago.\nGoogle claims Carbon is its \u201cstrongest model\u201d yet, and capable of competing with the very best systems from Anthropic and OpenAI.\nGoogle says Gemini 4 Carbon \u201cpushes the frontier even further\u201d than Argon, referring to the company\u2019s other frontier model that launched only last month.\nIt will also be available to all Google AI Ultra subscribers in the Gemini app, the AI Mode in Search, and on Antigravity.\nAs with the launch of Argon, Google is pricing Carbon very competitively.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-10T15:30:28Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTc=",
       "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
       "title": "Instagram\u2019s AI age detection is expanding globally",
       "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven\u2019t correctly disclosed their age.\nParents and guardians can also choose to supervise Teen Accounts to set time limits and monitor how their child is using Instagram.\nMeta says that parents in the US will start receiving a notification on Instagram next month that explains the age estimation process, and how they can ensure their teen\u2019s age is accurately reflected on the platform.\nMeta says it\u2019s in the process of rolling out its age estimation technology across Facebook, and that it will start launching similar tools for Threads later this year.\nThe global expansion announced today will only place teen users under Teen Account settings.",
@@ -169,7 +217,19 @@
   },
   {
     "article": {
-      "id": "MTQ=",
+      "id": "MTg=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "summary": "Experts tell The Verge the incident threatens to disrupt the entire US AI industry, potentially jeopardize national security, and could undermine America\u2019s efforts to maintain its fragile technological lead over China in AI.\nAt the same time, a thriving black market for restricted Nvidia chips has emerged.\nDisrupting Nvidia \u2014 as this scandal clearly has \u2014 could destabilize America\u2019s entire AI industry.\nMore than most companies, Nvidia is remarkably closely tied to the identity and reputation of its rockstar CEO.\nDespite holding a relatively small stake in the company, in many ways Nvidia is Jensen Huang.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-10T19:04:05Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MTk=",
       "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
       "title": "Jonathan Kanter is using AI to take on Big Tech",
       "summary": "When Jonathan Kanter stepped down as head of the Justice Department\u2019s Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies.\nAlongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a new tech startup, FluxCap.\nKanter imagines FluxCap as a \u201cforce multiplier\u201d for antitrust watchdogs taking on powerful opponents in Big Tech and elsewhere.\nGetting \u201cbasic legal tools\u201d (which Kanter calls \u201cBLTs\u201d) to understand that kind of nuance is difficult because \u201clawyering isn\u2019t about right or wrong answers,\u201d he says.\nThe entire Antitrust Division was appropriated $245 million by Congress for fiscal year 2026, with more than 400 attorneys on staff across several issue areas.",
@@ -181,31 +241,19 @@
   },
   {
     "article": {
-      "id": "MTU=",
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
-      "summary": "Niantic, the creator of Pok\u00e9mon Go, sold the game last year and pivoted hard into one of Silicon Valley\u2019s buzziest AI topics right now: world models.\nUnlike the text-based nature of large language models, world models use visual inputs and can generate digital environments that simulate physics.\nThis software is poised to seep into everyday life, without you necessarily ever interacting directly with world models.\n\u201cWith a world model, you give it a visual state of the world, an image, and it will then predict the next visual state of the world.\u201d These 3D generations can be used as digital training grounds.\nMcClendon sees these world models as helping robots practice without physical movement or being in intended environments.",
+      "id": "MjA=",
+      "url": "https://www.cnet.com/tech/services-and-software/google-expands-gemini-4-carbon-availability/",
+      "title": "Google Expands Gemini 4 Carbon Availability",
+      "summary": "Two weeks after announcing Gemini 4 Carbon for cybersecurity professionals, Google is expanding access to its latest frontier AI model to even more people.\nAs with all new AI models, there are improvements across the board, but Gemini 4 Carbon particularly excels in areas such as knowledge work, agentic coding, science, mathematics and cybersecurity.\nGoogle says Carbon outperforms its Argon AI model and competitor models from OpenAI and Anthropic in benchmark tests across a series of areas.\nPrevious Gemini models were already good for vibe-coding apps and games, and Carbon should be even better.\nGemini 4 Carbon is available for developers via its AI Studio and Android Studio, and everyday users who are subscribed to the AI Ultra plan can access the model from the Gemini App.",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-08T10:00:00Z",
-      "source": "Wired"
+      "bias": "right",
+      "publishedAt": "2026-11-10T22:07:30Z",
+      "source": "CNET"
     }
   },
   {
     "article": {
-      "id": "MTY=",
-      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "title": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
-      "summary": "It highlighted this sweet, funny relationship between a media brand\u2019s personalities and its audience, a warm-casual vibe.\nI was even more surprised to see why: In an iOS-only beta, the Times is now using AI to allow subscribers to modify recipes.\nJust about anything that was part of the \"smart kitchen\" tended not to be very smart at all.\nTwo notable companies with a deep bench\u2014The New York Times Cooking and America's Test Kitchen\u2014are cooking content makers.\nSince AI is often a lousy chef, giving it a role in the presentation of NYT's gold mine of content is a big risk.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-08T12:00:00Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "MTc=",
+      "id": "MjE=",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
       "title": "Trump\u2019s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
       "summary": "We called them very strongly and said, \u2018Get ready to go to jail.\nEventually he said China\u2019s Xi is \u201c\u2026all in to SI, as I call it, because it really is super intelligence.\nAnd China has no guardrails, by the way.\n[...] They have the guardrails that whatever President Xi says goes.\nWith me, it\u2019s pretty strong, but it\u2019s not quite that strong.\u201d",
@@ -217,7 +265,7 @@
   },
   {
     "article": {
-      "id": "MTg=",
+      "id": "MjI=",
       "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
       "title": "Iran denies it was behind cyber fridge attacks targeting France",
       "summary": "A trend of attacks on refrigeration systemsThe attacks on French industrial controllers are part of a larger trend .\nThat video included a taunt in French referencing ongoing education-related protests, and came just before the attacks on French supermarket fridges.\nSponsor MessageAttacks fit Iranian hackers' modus operandiIf Iranian hackers are behind the attacks across Europe, the U.S. and Israel, cybersecurity experts say that would fit with what they know about Iranian hackers' strategy and goals.\nFor those tracking Shahid Kaveh and the other Iranian cyber units that operate alongside it, these attacks fit squarely into their modus operandi.\nFrance is not even involved in this, really,\" referring to the war between the U.S. and Iran, which began in February.",
@@ -229,19 +277,127 @@
   },
   {
     "article": {
-      "id": "MTk=",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "title": "Nvidia is investigating Jensen Huang\u2019s relationship with an alleged Chinese spy",
-      "summary": "A statement posted by the board of directors reads:The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort.\nA committee of independent directors, assisted by outside independent counsel, will oversee the investigation.\nThe Board prioritizes U.S. national and economic security, which is paramount to the interests of NVIDIA and its shareholders.\nWhile the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board\u2019s inquiry will examine all available information.\nThe Board has confidence in Jensen and his leadership team and will provide further updates as appropriate.",
+      "id": "MjM=",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "title": "Adobe is going all in on agentic AI",
+      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf.\nAdobe hasn\u2019t specified when this preview will launch, but says it\u2019ll be coming to Firefly AI Assistant first.\nThe Firefly AI Assistant beta, which is powered by Adobe\u2019s creative agent, is also getting some upgrades.\nFirefly AI Assistant now also lets you customize preferred formats, colors, brand guidelines, characters, and products, and choose to automatically apply those preferences across every project.\nIf it feels like Adobe is slapping agents and chatbots into all of its products then you\u2019d be correct.",
       "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-11-08T20:25:39Z",
+      "bias": "center",
+      "publishedAt": "2026-11-10T11:24:56Z",
       "source": "The Verge"
     }
   },
   {
     "article": {
-      "id": "MjA=",
+      "id": "MjQ=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "summary": "And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools.\nClaude Whiteboards, Sheets, and Meetings are all now available in beta, with the first two available to all paid plans and Meetings available for Teams and Enterprise subscriptions.\nGemini is also well-versed in creating spreadsheets (thanks to Google Sheets), and Google has a lot of different \u201cinteractive connectors\u201d for its suite of office tools.\nAnthropic is following in some of their footsteps, plus trying to gain new ground in the AI agent race.\nThe tools Anthropic debuted on Tuesday are some of the company\u2019s first native products for non-technical knowledge workers.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-10T15:13:38Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjU=",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "summary": "He joined The Verge in 2019 after nearly two years at Techmeme.\nThe jurors say that the statement doesn\u2019t speak for IGF as an organization or for all IGF jury members, noting that some voiced concern about being able to safely sign \u201cwithout professional blowback.\u201dOne contentious title was apparently Big Walk, the co-op adventure game from Untitled Goose Game developer House House.\nHouse House noted it turned to the \u201cLLM chatbot\u201d after researching the problem \u201cextensively\u201d and even speaking to an engineer at Unity.\nThe studio said it disclosed its AI usage as part of its IGF submission, though it has not disclosed AI usage on Big Walk\u2019s Steam page because \u201cthe platform does not request disclosure of code or chatbot usage.\u201d\u201cThis is not an endorsement of, or argument for, the use of AI tools, however minimal,\u201d House House said.\n\u201cWe have some concern that voluntary disclosures like this might contribute to the normalisation of this technology, or its treatment as \u2018inevitable\u2019.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-10T17:32:47Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjY=",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+      "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated.\nUsers can mask and track an object, click Remove, and then Premiere \u201cfills the area with realistic detail\u201d using generative AI, according to Adobe, while the rest of the footage surrounding the erased area remains untouched.\nThe blemish removal tool in Lightroom on mobile is now coming to Adobe Lightroom, allowing you to retouch skin in photographs with a single tap on desktop.\nSome new beta experiences are also launching in Firefly, including the Firefly Design combined edifying space for illustration, image editing, animation, 3D, and print.\nAnd in private beta, Adobe introduced a Firefly Builder tool that\u2019s designed around prototyping websites and apps \u2014 which also shares some similarities with Figma Make.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-10T14:00:07Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjc=",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "summary": "By tapping into your data and context at a machine level, Kora could streamline some of the current speed bumps of using AI tools on a desktop.\nKora is a standalone operating system built on the Linux kernel that runs directly on hardware.\nTo bridge the software gap, built-in compatibility layers will allow users to run standard Windows apps.\nGameOS is primarily built to run on portable handhelds, like a Steam Deck, with PC support as well.\nThat architecture now lives inside Kora as GameFrame, letting users run PC games\u2014provided their hardware can keep up.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-10T14:00:00Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjg=",
+      "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+      "title": "Ring\u2019s Indoor Drone Camera Is Back\u2014and Now Powered by AI",
+      "summary": "Users can't manually control the drone but can also set up custom flight routes and patrol schedules.\nIt can automatically respond to alerts from security sensors you may have set up in the home, like motion, door, or window sensors.\nBut Siminoff says the Drone Cam complies with all US regulations and is assembled in Texas.\nBut what if a bad actor gets access to the Drone Cam?\nIt encrypts video in transit and rotates keys every few minutes, but Ring temporarily holds the key to run cloud-based AI features before deleting its copy.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-10T13:30:00Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjk=",
+      "url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-succession-executives-analysts-2026-11#article",
+      "title": "Nvidia's succession dilemma just got real. Here's who could take over if Jensen Huang steps down.",
+      "summary": "It's hard to imagine Nvidia without Jensen Huang \u2014 and the CEO has repeatedly discussed his intention to work for as long as possible.\nNvidia told Business Insider in a statement on Sunday that \"Jensen is committed to continuing to lead Nvidia as CEO without interruption.\"\nInside Nvidia's succession dilemmaNvidia has not publicly designated a number two, and Huang is known for keeping an unusually flat leadership structure with as many as 60 direct reports.\nAdd to Preferred SourcesMadison Huang, Jensen Huang's daughter and Nvidia's senior director of product marketing for physical AI.\n\"He may be a part of the leadership change if Huang steps down,\" Morgan wrote in a note to investors.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-09T23:29:02Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
+      "url": "https://www.cnet.com/tech/bluetooth-core-7-speeds-quadruple-2027/",
+      "title": "Bluetooth Core 7.0 Speeds Are Set to Quadruple in 2027, Especially for Audio",
+      "summary": "On Thursday, the Bluetooth Special Interest Group, the trade association that oversees Bluetooth, officially unveiled Bluetooth High Data Throughput, a flagship upgrade set to arrive as part of the Bluetooth Core 7.0 standard.\nBluetooth is still the most popular medium-to-short-range wireless standard for connecting devices.\nThe biggest change in this update is a new physical layer for Bluetooth.\nImprovements in the physical layer can have very significant effects on all Bluetooth communications.\nIn this case, new modulation schemes let the physical layer handle data more efficiently and transmit more data at once, which is why the speed increases are so significant.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-09T18:35:48Z",
+      "source": "CNET"
+    }
+  },
+  {
+    "article": {
+      "id": "MzE=",
+      "url": "https://www.businessinsider.com/jensen-huang-china-stance-comments-nvidia-spying-probe-2026-11#article",
+      "title": "What Jensen Huang has said about China in recent years as a spying probe roils Nvidia",
+      "summary": "Jensen Huang's yearslong push to sell chips to China is now colliding with an affair, board investigation, and crisis at Nvidia.\nNvidia's board is investigating whether Jensen Huang was the target of a \"foreign intelligence effort.\"\nOver the years, Jensen Huang has been bullish on the Chinese market and has said that excluding Nvidia would strengthen Chinese rivals.\nThe company's handling of Jensen Huang's future will signal how seriously it takes the risks surrounding America's most important AI chip executive.\nHere's what Jensen Huang has said about China in recent years.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-09T14:27:46Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MzI=",
+      "url": "https://www.businessinsider.com/trump-administration-jail-leader-big-ai-company-2026-11#article",
+      "title": "Trump tells '60 Minutes' his administration once threatened a big AI company leader with jail time",
+      "summary": "President Donald Trump said his administration had once threatened the leader of a major AI company with jail time.\nBut when pressed by host Ross Douthat on whether it was \"a leader of a major AI company,\" Trump said the individual was from \"one of the big ones.\"\nRepresentatives for the Trump White House and the Department of Justice did not immediately respond to a request for comment from Business Insider.\nGive them a kiss good night,'\" Trump added.\nTrump added that the US would be at an \"unbelievable disadvantage\" if it did not continue developing the technology.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-11-09T09:08:18Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MzM=",
       "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
       "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
       "summary": "Nvidia launches investigation into CEO's alleged relationship with Chinese spytoggle caption i Markus Schreiber/APThe massive artificial intelligence chip maker Nvidia says it is launching an internal investigation, after reports that the company's CEO was in a close relationship with a Chinese spy.\nIn the statement announcing the investigation, Nvidia cited recent reporting by The New York Times, which alleges Nvidia CEO Jensen Huang was the target of a Chinese intelligence operation that sought to send advanced Nvidia AI chips to China.\n\"The so-called Chinese spy allegation is groundless,\" Guo Jiakun, a spokesman for China's foreign ministry told reporters in a regular briefing.\nAccording to Nvidia, Huang sent an email to his employees on Sunday, acknowledging the relationship, and apologizing for being unfaithful to his wife.\nAccording to Huang, Nvidia is helping to fund the construction of a new ballroom at the White House.",
@@ -253,7 +409,19 @@
   },
   {
     "article": {
-      "id": "MjE=",
+      "id": "MzQ=",
+      "url": "https://www.macrumors.com/2026/11/10/apple-2027-swift-student-challenge/",
+      "title": "Apple Announces Swift Student Challenge Ahead of WWDC 2027",
+      "summary": "Apple today announced the Swift Student Challenge for 2027, with submissions set to be accepted from February 8 to February 28, 2027.\nThe Swift Student Challenge is an annual contest that gives young developers worldwide a chance to show off their creativity and app development skills by creating an app.\nThere are also Develop in Swift tutorials covering Swift UI, AI and machine learning, and spatial computing.\nRules and eligibility details can be found on the Swift Student Challenge website.\nIn 2027, Apple will announce iOS 28, iPadOS 28, macOS 28, and other '28 software updates.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-10T17:28:19Z",
+      "source": "MacRumors"
+    }
+  },
+  {
+    "article": {
+      "id": "MzU=",
       "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
       "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
       "summary": "Soft, flexible robots could be useful for a wide variety of applications, including artificial muscles and wearable devices\u2014or really any application where a robot must be especially delicate.\nLike your stereotypical robot, soft actuators convert energy\u2014such as electricity, heat, or light\u2014into mechanical motion, but they look nothing like the metal and wire constructs that the word \u201crobot\u201d most often evokes.\nOne variety of these soft robots, known as bioactuators, utilizes the functions of living cells to generate motion.\nOur goal has always been to bring the research of living materials to new levels,\u201d Marie-Eve Aubin-Tam, who led the research, explained in a press release.\n\u201cWe wanted to explore what becomes possible when living cells are integrated into functional materials.\u201d",
@@ -265,19 +433,7 @@
   },
   {
     "article": {
-      "id": "MjI=",
-      "url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
-      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
-      "summary": "Anthropic today introduced its latest models, Claude Fable 5.2 and Claude Mythos 5.2, which have improvements in coding, reasoning, and vision.\nAnthropic says Fable 5.2 and Mythos 5.2 communicate more clearly than the 5.1 versions, with outputs generated up to 30 percent faster.\nFable 5.2 uses fewer tokens than Fable 5.1 on challenging tasks when set to medium effort.\nBoth use the same underlying model, but the public-facing Fable 5.2 model has cybersecurity and biology safeguards to prevent misuse.\nCompared to Fable 5.1, Fable 5.2 has approximately 55 percent fewer blocks.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-09T19:38:47Z",
-      "source": "MacRumors"
-    }
-  },
-  {
-    "article": {
-      "id": "MjM=",
+      "id": "MzY=",
       "url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
       "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
       "summary": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollutiontoggle caption i Manish Swarup/APNEW DELHI \u2014 A thick blanket of smog shrouded India's capital Monday after firecrackers lit up the skies over New Delhi during Diwali celebrations, compounding dangerously high pollution levels and intensifying the seasonal air pollution crisis that grips the city every year.\nSponsor MessageIndia's Supreme Court in October had sought to limit Diwali pollution by restricting conventional firecrackers and allowing only approved \"green firecrackers\" under specified conditions for three-hour windows on Saturday and Sunday.\nIsyad, a New Delhi resident who uses one name, said the worsening smog was taking a toll on his health.\nPollution worsens as Diwali fireworks coincide with cooler weather and smoke from crop-residue fires in neighboring states of Punjab and Haryana.\nThe smoke drifts toward New Delhi, adding to pollution from vehicles, industries, construction dust and other local sources.",
@@ -289,7 +445,7 @@
   },
   {
     "article": {
-      "id": "MjQ=",
+      "id": "Mzc=",
       "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo",
       "title": "Government's EV targets expected to be reduced this week",
       "summary": "The UK government's electric vehicle (EV) targets are expected to be reduced this week in a move likely to be welcomed by carmakers but opposed by environmental groups.\nBut the speed of the transition to electric has been hotly debated, including within the cabinet.\nAsked about reports the targets would be reduced, Burnham dismissed this as \"speculation\", adding: \"No decision has been made at this point.\"\nThe Society of Motor Manufacturers and Traders welcomed the government's review of the EV targets when it was announced in the summer.\nHe said the government's targets could not be achieved \"without putting at risk any future investment\".",
@@ -301,7 +457,19 @@
   },
   {
     "article": {
-      "id": "MjU=",
+      "id": "Mzg=",
+      "url": "https://news.slashdot.org/story/26/11/11/0126232/us-and-rest-of-world-must-follow-chinas-lead-on-green-energy-says-john-kerry",
+      "title": "US and Rest of World Must Follow China's Lead On Green Energy, Says John Kerry",
+      "summary": "Every program is a part of some other program, and rarely fits.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-11T07:00:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzk=",
       "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o",
       "title": "The superpower battle over energy, and the impact on your bills",
       "summary": "Since US and Israeli strikes on Iran in February effectively closed the Strait of Hormuz, oil and gas prices have soared.\nAnd there's a bigger threat looming over all of this: the warming climate.\nBut keeping bills down while cutting emissions is proving hard \u2013 and not just for the UK.\nEnergy and climate policy has become the front line in a contest between the world's two energy superpowers, leaving everyone else squeezed in between.\nAmerica is betting on fossil-fuel molecules: pumping record volumes of oil and gas and pressing its allies to buy them.",
@@ -313,7 +481,19 @@
   },
   {
     "article": {
-      "id": "MjY=",
+      "id": "NDA=",
+      "url": "https://science.slashdot.org/story/26/11/09/0516221/orbiter-detects-signs-of-possible-volcanic-activity-on-mars",
+      "title": "Orbiter Detects Signs of Possible Volcanic Activity on Mars",
+      "summary": "Every program is a part of some other program, and rarely fits.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-09T12:34:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "NDE=",
       "url": "https://www.nature.com/articles/d41586-026-03658-z",
       "title": "Daily briefing: The \u2018overshoot COP\u2019 kicks off",
       "summary": "The COP31 climate conference begins, with \u2018climate overshoot\u2019 a key talking point.\nPlus, the surprising benefits of \u2018pink noise\u2019 and the role of AI chatbots to support men\u2019s mental health.\n(Maximilien Lamy/AFP via Getty)COP climate summit faces overshoot of 1.5 \u00b0C A troubling reality hangs over the United Nations climate conference (COP31) opening in Turkey today: overshoot.\nResearchers analysed 1,000 conversations between strangers and found that participants felt a stronger sense of connection with their partner when their chats had featured more pink noise.\nA separate research team found that pink noise can also help to kickstart the brain\u2019s \u2018wash cycle\u2019 during sleep.",
@@ -325,11 +505,47 @@
   },
   {
     "article": {
-      "id": "Mjc=",
+      "id": "NDI=",
+      "url": "https://www.scientificamerican.com/article/oil-prices-are-so-high-that-co2-emissions-from-fossil-fuels-are-dropping/",
+      "title": "Oil prices are so high that CO2 emissions from fossil fuels are dropping",
+      "summary": "Between 2019 and 2025, carbon dioxide emissions from fossil fuels grew by about 0.8 percent annually, according to a new study published in Nature Climate Change.\nBut 2026 is set to buck that trend: high oil prices, as well as the continued rise of green technology\u2014solar power, wind and electric cars\u2014will cause a \u201cshort-term\u201d 0.4 percent drop, according to the study.\n\u201cHowever, in both cases, emissions rebounded the year after,\u201d Le Qu\u00e9r\u00e9 says.\nIf oil prices return to their prewar levels, Le Qu\u00e9r\u00e9 and her colleagues expect to see emissions rise once more.\n\u201cWe show that to tackle climate change and guarantee that global fossil emissions decrease durably, the expansion of renewable energy and electric vehicles need to accelerate further,\u201d Le Qu\u00e9r\u00e9 says.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-11-10T15:45:00Z",
+      "source": "Scientific American"
+    }
+  },
+  {
+    "article": {
+      "id": "NDM=",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure",
+      "title": "US Senate advances major bill boosting energy infrastructure",
+      "summary": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.\nThe United States Senate has voted to move forward on a bipartisan bill that would speed up the process to build new data centres and energy infrastructure in the country.\n\u201cThis Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE\u201d, Trump posted on social media Monday as he encouraged lawmakers to support it.\nIt would also force owners of energy-hungry data centres to pay for the infrastructure that is needed to power them.\nAdvertisementBut despite the bill\u2019s claims of increasing clean energy projects, environmental organisations are opposed to the legislation.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-11-10T19:09:12Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NDQ=",
+      "url": "https://www.nature.com/articles/d41586-026-03621-y",
+      "title": "Biotech innovations are an opportunity to limit climate change",
+      "summary": "Progress in each case, whether preventing dangerous climate change or stemming biodiversity loss, is too slow.\nNow, the field offers strategies for protecting both climate and biodiversity from the many damaging effects of industrial agriculture.\nLand clearance and land-use change contributes up to five billion tonnes of carbon annually \u2014 and is a major cause of biodiversity loss.\nAdvances in biotechnology that limit land use should be deployed to slow down the rise in global temperatures and biodiversity loss.\nHigh-yielding crops produced using industrial agriculture have helped to feed the world but have also had a devastating effect on biodiversity.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "source": "Nature.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NDU=",
       "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
       "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
       "summary": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.\nShare Turkiye pushes electrification top of climate agenda as COP31 set to open on social mediaThe United Nations climate conference COP31 is set to open on Monday in Antalya, Turkiye, against the backdrop of the US-led war on Iran, which has underscored the world\u2019s attachment to fossil fuels.\nTurkiye has said it would centre electrification on the COP31 agenda, launching the non-binding 35-by-35 Global Electrification Pledge, which aims to make electricity account for at least 35 percent of global energy demand by 2035.\nTurkiye says the \u201c35 by 35\u201d will speed up the shift to renewable sources of energy while strengthening energy security.\nThis has set up a debate on whether electrification alone should count as climate progress.",
-      "category": "environment",
+      "category": "international",
       "bias": "lean left",
       "publishedAt": "2026-11-09T05:02:19Z",
       "source": "Al Jazeera English"
@@ -337,7 +553,7 @@
   },
   {
     "article": {
-      "id": "Mjg=",
+      "id": "NDY=",
       "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo",
       "title": "The Gloucestershire swan sanctuary fighting climate change",
       "summary": "Most people know rainforests are vital in the fight against climate change, but now scientists say wetlands could be even more important.\nSaltmarshes, mangrove swamps and wetlands can absorb carbon \"four times faster than trees\", according to the charity the Wildfowl and Wetlands Trust (WWT).\nCelebrating 80 years since WWT's first wetland bird reserve was founded at Slimbridge, in Gloucestershire, the charity's leaders have called for one million hectares of wetlands to be restored across the world.\nSarah Fowler, CEO of WWT, said: \"They are mood-boosting, flood-buffering, water-purifying, incredible habitats.\nBut we have lost 85% of the world's wetlands.\"",
@@ -349,11 +565,11 @@
   },
   {
     "article": {
-      "id": "Mjk=",
+      "id": "NDc=",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action",
       "title": "COP31 opens amid energy crisis as activists demand climate action",
       "summary": "NewsFeed COP31 opens amid energy crisis as activists demand climate actionCOP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.\nWhile delegates discuss electrification and climate action, activists outside the summit are demanding an end to greenwashing and a shift away from industrial agriculture.",
-      "category": "environment",
+      "category": "international",
       "bias": "lean left",
       "publishedAt": "2026-11-09T21:18:25Z",
       "source": "Al Jazeera English"
@@ -361,7 +577,7 @@
   },
   {
     "article": {
-      "id": "MzA=",
+      "id": "NDg=",
       "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality",
       "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
       "summary": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.\nShare Smog blankets New Delhi as Diwali firecrackers worsen air quality on social mediaHeavy smog has blanketed New Delhi after firecrackers lit up the Indian capital during Diwali celebrations, worsening the seasonal pollution crisis.\nLast month, India\u2019s Supreme Court put in place restrictions to limit Diwali pollution, allowing only approved \u201cgreen firecrackers\u201d under specified conditions for three-hour windows on Saturday and Sunday.\nSeasonal pollutionOn Wednesday, days before Diwali, toxic air pollution in New Delhi surged to more than 30 times the WHO\u2019s recommended daily limit, data from air monitors showed.\nAdvertisementVehicles account for 23 percent of New Delhi\u2019s winter pollution, while biomass burning, including farm stubble fires, contributes 20 percent, according to India\u2019s Ministry of Environment, Forest and Climate Change.",
@@ -373,19 +589,19 @@
   },
   {
     "article": {
-      "id": "MzE=",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo",
-      "title": "North Pennines National Landscape prepares for climate change",
-      "summary": "Climate change readiness and helping people access the countryside are among priorities in a five-year plan for a national landscape.\nThe North Pennines National Landscape Management Plan 2026-31 has been adopted by the Cumberland, Westmorland and Furness, County Durham and Northumberland councils.\nChris Woodley-Stewart, director of the North Pennines National Landscape (NPNL), said: \"In many ways, its the most ambitious plan that we've ever had, but also the most realistic.\"\nNational landscapes were formerly known as areas of outstanding natural beauty, and the North Pennines features heather moors, dales, woods and one of England's highest waterfalls High Force.\nOne of the priorities in its management plan announced last month was adapting to \"warmer, wetter winters and hotter, drier summers\".",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-11-08T07:16:55Z",
-      "source": "BBC News"
+      "id": "NDk=",
+      "url": "https://www.nature.com/articles/d41586-026-03412-5",
+      "title": "AI\u2019s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+      "summary": "AI models need vast amounts of electricity: according to the International Energy Agency, a typical AI data centre can consume as much energy as 100,000 households each year.\nHowever, AI might also hold the key to improving energy efficiency: offsetting some of the demand it creates.\nFor most of the world, AI infrastructure will be disaggregated and decentralized.\nThe Net-Positive AI Energy Framework is our North Star for clean, efficient and equitable AI.\nWe\u2019re now working on an AI Energy Readiness Compass: a methodology to support responsible AI energy developments and identify the causes of upcoming bottlenecks in the power grid that could be problematic for AI energy use.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "source": "Nature.com"
     }
   },
   {
     "article": {
-      "id": "MzI=",
+      "id": "NTA=",
       "url": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
       "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
       "summary": "The report estimates that fossil fuel emissions will total 38.2 billion metric tons of carbon dioxide (CO 2 ) in 2026.\nEven so, researchers caution that the transition is not happening quickly enough to guarantee a lasting reduction in fossil fuel emissions.\nFossil Fuel Emissions Fall, but Total CO 2 Keeps RisingDespite the projected decline in fossil fuel emissions, the overall picture is more troubling.\nCarbon Emissions in China, the US, India, and EuropeThe 2026 Global Carbon Budget reveals significant differences in how emissions are changing across major economies.\nIt provides a transparent assessment of global carbon emissions using established scientific methods and undergoes peer review.",
@@ -397,55 +613,19 @@
   },
   {
     "article": {
-      "id": "MzM=",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
-      "title": "Scientists discover stunning new Amazon fish that may already be endangered",
-      "summary": "The new species, named Laimosemion laranja, belongs to a group of small freshwater fish known as killifish.\nAlthough the fish looked different from known species, its appearance alone was not enough to establish that it was new to science.\nWhy Scientists Named the New Fish LaranjaThe name Laimosemion laranja reflects both the fish's remarkable appearance and the place where it was discovered.\n\"Laimosemion laranja is particularly interesting because it expands our knowledge of the diversity and evolution of this group in the region.\"\nNewly Discovered Amazon Fish May Already Be EndangeredDespite the excitement surrounding the discovery, the future of Laimosemion laranja is uncertain.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-11-08T23:56:14Z",
-      "source": "Science Daily"
-    }
-  },
-  {
-    "article": {
-      "id": "MzQ=",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo",
-      "title": "El Ni\u00f1o pushes world towards record heat as COP31 opens",
-      "summary": "The world is on course for its hottest year on record as the planet is hit with warming from climate change and El Ni\u00f1o, scientists have told BBC News.\nThe warning comes as world leaders and negotiators gather in Turkey on Monday for the opening of COP31, the latest UN climate summit.\n\"We have had a run of record warm years,\" said Dr Robert Rohde, of Berkeley Earth.\nOn Friday, the EU's Copernicus climate service, external confirmed that October was the hottest on record.\nIt said that 2027 will provide no let-up, as an unusually powerful El Ni\u00f1o will continue into next year, pushing temperatures higher.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-11-09T07:30:12Z",
+      "id": "NTE=",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o",
+      "title": "Why does Australia want Brits to swap Sydney for the outback?",
+      "summary": "\"Many Brits don't treat it as a working holiday anymore.\nHe says Brits used to be the largest clientele at its Cairns accommodation but \"now French outnumber British three to one\".\n\"We see the Brits get to Sydney, decide it's the coolest place in the world, and stay there,\" he adds.\nThose plans are still out for consultation, but immigration officials have slowed processing rates for some working holiday visa applications and paused them from several countries.\nYoung Brits temporarily living and working in this region peaked at around 20,000 he says.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-11-10T21:17:00Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "MzU=",
-      "url": "https://www.project-syndicate.org/videos/who-s-winning-and-who-s-losing-the-ocean-marie-may-jeremie",
-      "title": "Who\u2019s Winning (and Who\u2019s Losing) the Ocean? \u2014 Marie-May Jeremie",
-      "summary": "When frontier AI labs go public, ordinary people\u2019s investments and pensions become tied to their valuations and stock prices.\nWhile excessive regulation could undermine a firm\u2019s growth, catastrophic accidents caused by inadequate safety measures could do the same\u2014and wipe out shareholder value.\npoints out that ordinary investors will have direct financial incentives to demand robust safety measures.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-11-09T14:34:49Z",
-      "source": "Project Syndicate"
-    }
-  },
-  {
-    "article": {
-      "id": "MzY=",
-      "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o",
-      "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
-      "summary": "US President Donald Trump has said his immigration crackdown was \"too tough\", marking one of his clearest public retreats from a defining plank of his political agenda, following his party's drubbing in the midterm elections.\nIn an interview with CBS' 60 Minutes programme, Trump said he believed he deserved an \"A plus\" for drastically limiting illegal border crossings, but he had been politically \"hurt\" by sweeping deportations.\nThe president told 60 Minutes that immigration \"both helped and hurt\" his fellow Republicans in Tuesday's midterms.\nTrump also said he'd \"love to do something on immigration\" with congressional Democrats, without offering details.\nIn a previous interview with 60 Minutes a year ago, a defiant Trump insisted his administraiton's immigration raids \"haven't gone far enough\".",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-11-08T20:23:58Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzc=",
+      "id": "NTI=",
       "url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo",
       "title": "Thirteen migrants die after boat sinks off Crete",
       "summary": "At least 13 people have died after a boat carrying migrants sank off the coast of the Greek island of Crete.\nThe coastguard said it had rescued 18 people, all of whom were Sudanese nationals.\nThe migrants' boat was spotted by a Moroccan-flagged container ship about 15 nautical miles (28km) off Crete's coast.\nThe Greek coastguard rescued another 187 people in three separate incidents off the coast of Greece on Monday.\nMore than 37,000 migrants have arrived in Greece so far this year, UN figures show, already surpassing the number who arrived in the entirety of 2025.",
@@ -457,7 +637,7 @@
   },
   {
     "article": {
-      "id": "Mzg=",
+      "id": "NTM=",
       "url": "https://abcnews.com/US/8-year-haitian-boy-federal-custody-after-ice/story?id=137960678",
       "title": "8-year-old Haitian boy placed in federal custody alone after ICE check-in, advocates say",
       "summary": "8-year-old Haitian boy placed in federal custody alone after ICE check-in, advocates sayAn officer with U.S. Immigration and Customs Enforcement in Dallas, Texas.\nAn officer with U.S. Immigration and Customs Enforcement in Dallas, Texas.\nAn 8-year-old Haitian boy who lost Temporary Protected Status earlier this year was taken into federal custody after an immigration check-in, according to local advocates and school officials.\n\u201cThe eight-year-old received a letter to meet with an ICE agent,\u201d the San Diego Unified School District said in a letter to DHS.\nAccording to the school district and an advocacy group, the 8-year-old remains in ORR custody.",
@@ -469,7 +649,31 @@
   },
   {
     "article": {
-      "id": "Mzk=",
+      "id": "NTQ=",
+      "url": "https://www.businessinsider.com/ibm-immigration-sponorship-consulting-roles-2026-11#article",
+      "title": "IBM is ending immigration sponsorship 'for the majority' of roles in its biggest unit",
+      "summary": "IBM said it's ending immigration sponsorships for \"a majority of roles\" in its biggest unit.\n\"IBM Consulting participates in U.S. high-skilled visa programs to address skill shortages,\" an IBM spokesperson said in a statement.\nIBM Consulting is by far the largest unit of the tech giant.\nIn its 2025 annual report, IBM reported having 264,300 employees across IBM and its wholly owned subsidiaries.\nThe records are for IBM as a whole, meaning they alone wouldn't determine how many IBM Consulting employees are being sponsored.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-11-10T18:37:18Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NTU=",
+      "url": "https://abcnews.com/US/democratic-lawmakers-answers-8-year-haitian-boy-ice/story?id=138019026",
+      "title": "Democratic lawmakers want answers on 8-year-old Haitian boy taken into ICE custody",
+      "summary": "The young boy was detained by agents during an immigration check-in last week.\nDemocratic lawmakers want answers on 8-year-old Haitian boy taken into ICE custodyA group of Democratic lawmakers is seeking information from the Trump administration after an 8-year-old Haitian boy was taken into government custody last week.\nAdvocates and school officials previously said the boy had been living with his uncle and cousins after his father was deported to Mexico last year.\nJozef called the detention \"an excuse for [ICE] to remove the child and potentially put him in deportation proceedings.\"\n\"The effects of this action extend far beyond one child and his family,\" the lawmakers said in their letter.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-11-11T00:21:32Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NTY=",
       "url": "https://abcnews.com/US/trump-tough-deportation-policies-hurt-midterms/story?id=137963657",
       "title": "Trump says 'too tough' deportation policies hurt him in the midterms",
       "summary": "Trump says 'too tough' deportation policies hurt him in the midtermsUS President Donald Trump speaks at a midterm campaign rally at the Ocean Center in Daytona Beach, Florida on October 30, 2026.\nUS President Donald Trump speaks at a midterm campaign rally at the Ocean Center in Daytona Beach, Florida on October 30, 2026.\nIn the wake of the midterm elections, President Donald Trump acknowledged that he felt as if his deportation agenda had gone too far and hurt his party with voters.\nOn a potential deal, Trump asserted, \"People have already called me,\" though he did not say who.\nAsked if he could refrain from insulting Democrats for six months in order to strike a deal, Trump said that he could.",
@@ -481,7 +685,19 @@
   },
   {
     "article": {
-      "id": "NDA=",
+      "id": "NTc=",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+      "title": "Supreme Court says border wall construction can continue in west Texas",
+      "summary": "Supreme Court says border wall construction can continue in west Texastoggle caption i Carlos Morales/for NPR.\nThe U.S. Supreme Court on Monday allowed the Trump administration to continue with its plans to construct hundreds of miles of border barrier and security infrastructure in west Texas, while a court hearing over the effort moves forward.\nSponsor MessageThe lawsuit argued that the Department of Homeland Security's plans are unconstitutional and that Big Bend residents would be \"irreparably harmed\" if the construction continues.\nThe Trump administration's plans for the beloved Big Bend region of Texas have provoked an unusual bipartisan backlash.\nHistorically, the Big Bend area's rugged landscape has meant fewer people attempting to cross into the U.S. through this pocket of the border.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-11-09T21:47:39Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NTg=",
       "url": "https://www.yahoo.com/news/us/article/supreme-court-allows-trump-administration-to-build-border-barrier-in-big-bend-national-park-despite-bipartisan-backlash-214819887.html",
       "title": "Supreme Court allows Trump administration to build border barrier in Big Bend National Park despite bipartisan backlash",
       "summary": "CBP is pausing all construction activity in Big Bend National Park while I visit and conduct a personal, on-the-ground evaluation.\nCBP is firmly committed to protecting America, and that includes our national treasures like Big Bend National Park (BBNP).\nWhat is Big Bend National Park?\nBig Bend National Park is located along the U.S.-Mexico border, with the Rio Grande serving as the boundary.\nA bulldozer clears a path in Big Bend National Park on Aug. 6.",
@@ -493,31 +709,19 @@
   },
   {
     "article": {
-      "id": "NDE=",
-      "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx",
-      "title": "Canary Islands\u2019 El Hierro declares emergency amid migrant, refugee influx",
-      "summary": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.\nAuthorities of El Hierro, one of Spain\u2019s Canary Islands, have declared an emergency and asked the government in Madrid for help after a surge in migrants and refugees arriving on boats.\nEl Hierro has about 11,400 residents.\nThe situation is \u201cabsolutely unsustainable\u201d, the Reuters news agency quoted Fernando Clavijo, the regional leader of the Canary Islands, as saying on Friday.\nDeadly routeThe Atlantic route from West Africa to the Canary Islands is one of the world\u2019s deadliest migration crossings.",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-11-08T01:37:55Z",
-      "source": "Al Jazeera English"
+      "id": "NTk=",
+      "url": "https://www.businessinsider.com/amtrak-cascades-seattle-vancouver-coach-review-2026-11#article",
+      "title": "I took Amtrak from Seattle to Vancouver in coach for $22. Here's what it's like to cross the US-Canada border by train.",
+      "summary": "On a trip to the Pacific Northwest in October, I had initially planned to drive from Seattle to Vancouver and fly back to the US from there.\nI could fly, but plane tickets were hundreds of dollars.\nI looked into traveling to Vancouver by train instead, and was surprised by the affordability and abundance of Amtrak tickets.\nWhile I've taken Amtrak numerous times, I'd never crossed an international border by rail before.\nI wasn't entirely sure what to expect, but I found the process to be simple and affordable compared to flying or driving.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-11-09T09:11:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "NDI=",
-      "url": "https://www.yahoo.com/news/politics/articles/democrats-eye-musk-miller-probes-162946969.html",
-      "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout",
-      "summary": "In television appearances, US Representative Robert Garcia of California and US Senator Elizabeth Warren of \u200cMassachusetts, set to lead the House Oversight and Senate Banking committees, vowed aggressive oversight after their party's sweeping midterm election victory.\nAdvertisement AdvertisementAdvertisement AdvertisementMeanwhile, House Democratic leader Hakeem Jeffries indicated he and his \u200bfellow Democrats would back an impeachment of Defense Secretary Pete Hegseth.\nDEMOCRATS FOCUS ON MILLER, \u2060HEGSETHMiller \u2014 whom Garcia called the architect of a \"horrific, unjust\" immigration policy \u2014 has been promoted to White House chief of staff.\nAttorney General Todd Blanche signaled on Sunday that the Trump administration was prepared to battle the Democrats in Congress, calling threats by some Democrats to target administration officials and allies \"not \u200bsomething we can tolerate in this country.\"\n\"If that's \u200cwhat this new incoming leadership wants to do, we are ready,\" said Blanche, a former personal lawyer for Trump.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-08T18:15:45Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NDM=",
+      "id": "NjA=",
       "url": "https://abcnews.com/Politics/supreme-court-lifts-pause-border-construction-big-bend/story?id=137988610",
       "title": "Supreme Court lifts pause on border construction in Big Bend, Texas",
       "summary": "The Supreme Court is paving the way for the Trump administration to resume border construction throughout the Big Bend region in Texas, including inside Big Bend National Park.\nThe Supreme Court ruled 8-1 Monday that the government \u201cis exceedingly likely to prevail\u201d in its argument that a district court lacked jurisdiction to pause construction when it issued a preliminary injunction in October.\nThe Trump administration\u2019s plans to build a combination of physical walls, access roads and vehicle barriers in the Big Bend region have sparked bipartisan backlash.\nThe plans for Big Bend National Park initially included a physical wall, but after public outcry, the plans were changed to include only a combination of vehicle barriers, roads and surveillance technology.\nPlaintiffs challenging the construction in court argued in part that DHS exceeded its authority when it waived several environmental and conservation laws to expedite the construction.",
@@ -529,11 +733,11 @@
   },
   {
     "article": {
-      "id": "NDQ=",
+      "id": "NjE=",
       "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes",
       "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
       "summary": "Moyale, Kenya \u2013 When Hawa Hassan fled her home in Ethiopia\u2019s Moyale area, she left almost everything behind.\nAbout 25,000 were staying with host families and nearly 11,000 in temporary displacement sites.\nThe figure includes people living in temporary settlements as well as those staying with relatives and host families.\nKanja said about 10,000 people were staying in temporary shelters and public institutions, while others had been taken in by host families.\nIt is not directly comparable with the Red Cross estimate of more than 50,000, which includes people staying with host families.",
-      "category": "international",
+      "category": "immigration",
       "bias": "lean left",
       "publishedAt": "2026-11-09T15:55:27Z",
       "source": "Al Jazeera English"
@@ -541,7 +745,7 @@
   },
   {
     "article": {
-      "id": "NDU=",
+      "id": "NjI=",
       "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed",
       "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
       "summary": "A lawsuit had sought to block border wall construction in the Big Bend National Park by targeting the waivers that sidestep environmental protections.\nShare US Supreme Court allows border wall in Big Bend National Park to proceed on social mediaThe United States Supreme Court has allowed President Donald Trump\u2019s administration to build a border wall through a remote section of Big Bend National Park in West Texas.\nThe border wall has long been a signature part of Trump\u2019s platform to restrict immigration into the US.\nBig Bend National Park includes mountain ranges and desert that serve as a home to endangered species like the Mexican long-nosed bat.\nThe lawsuit challenged waivers used by the agency to fast-track border construction and sidestep environmental and conservation laws.",
@@ -553,7 +757,7 @@
   },
   {
     "article": {
-      "id": "NDY=",
+      "id": "NjM=",
       "url": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete",
       "title": "At least 21 migrants and refugees die trying to reach Greece\u2019s Crete",
       "summary": "Greece\u2019s coastguard said more than 100 people rescued in several operations off the southern coast of Crete.\nShare At least 21 migrants and refugees die trying to reach Greece\u2019s Crete on social mediaAt least 21 people have died while trying to reach the Greek island of Crete, a key hub for refugees and migrants trying to reach Europe, authorities said.\nThe Greek coastguard said it recovered 12 bodies and rescued 18 people from one boat that was spotted by a Morocco-flagged container ship south of the island early on Monday.\nIn a separate incident, the Greek coastguard recovered eight bodies and rescued 28 refugees and migrants from a boat off southern Crete on Saturday evening.\nTwo other boats, one carrying about 47 people and another with about 40 people on board, were also found sailing south of Crete.",
@@ -565,19 +769,19 @@
   },
   {
     "article": {
-      "id": "NDc=",
-      "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters",
-      "title": "Trump says his immigration policy \u2018too tough\u2019 for voters",
-      "summary": "Trump concedes some voters were unhappy with his administration\u2019s controversial deportation drive.\nShare Trump says his immigration policy \u2018too tough\u2019 for voters on social mediaUnited States President Donald Trump has said his immigration policy may have been too extreme for voters, conceding that his deportation policy had damaged his Republican Party\u2019s performance in the last week\u2019s midterm elections.\nHe said he may be able to work with the new Democratic-controlled Congress on some kind of immigration agreement.\nDemocrats have said oversight of Immigration and Customs Enforcement (ICE) and the Department of Homeland Security is a priority for the new Congress.\nDuring his interview, Trump said a moderate immigration deal would still deport criminals, but allow \u201cgood people\u201d who had lived and worked in the country \u201cpaying taxes\u201d to stay.",
+      "id": "NjQ=",
+      "url": "https://thoughtcatalog.com/january-nelson/2026/11/stephen-millers-uncle-called-him-an-immigration-hypocrite-and-pointed-to-their-own-familys-escape/",
+      "title": "Stephen Miller\u2019s Uncle Called Him an Immigration Hypocrite, and Pointed to Their Own Family\u2019s Escape",
+      "summary": "David Glosser, the uncle of White House adviser Stephen Miller, has called his nephew an immigration hypocrite, pointing to the family\u2019s own escape to America as the reason any of them are alive.\nMiller\u2019s great-great-grandfather, Wolf-Leib Glosser, came through Ellis Island on January 7, 1903, carrying $8 and speaking no English.\nIn a follow-up interview, Glosser described that path as the classic American story.\nIn a follow-up interview, he pointed to the president\u2019s own family to make the hypocrisy land.\n\u201cMost damning is the administration\u2019s evident intent to make policy that specifically disadvantages people based on their ethnicity, country of origin and religion,\u201d Glosser wrote.",
       "category": "immigration",
       "bias": "left",
-      "publishedAt": "2026-11-09T08:35:05Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-11-09T22:13:36Z",
+      "source": "Thoughtcatalog.com"
     }
   },
   {
     "article": {
-      "id": "NDg=",
+      "id": "NjU=",
       "url": "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
       "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
       "summary": "(Brendan Smialowski/Pool Photo via AP)U.S. Secretary of State Marco Rubio disembarks from his plane after landing at Le Bourget airport on the outskirts of Paris Monday, Nov. 9, 2026.\n(Brendan Smialowski/Pool Photo via AP)U.S. Secretary of State Marco Rubio disembarks from his plane after landing at Le Bourget airport on the outskirts of Paris Monday, Nov. 9, 2026.\n(Brendan Smialowski/Pool Photo via AP)U.S. Secretary of State Marco Rubio disembarks from his plane after landing at Le Bourget airport on the outskirts of Paris Monday, Nov. 9, 2026.\nSecretary of State Marco Rubio is likely to face questions about whether the administration will shift its positions on the Russia-Ukraine war, the Iran conflict, energy security and artificial intelligence.\nRubio said postwar security guarantees for Ukraine and the rest of Europe have been a top concern for allies.",
@@ -589,19 +793,43 @@
   },
   {
     "article": {
-      "id": "NDk=",
-      "url": "https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091",
-      "title": "Trump says Nvidia CEO told him he 'didn't know' he was involved with alleged Chinese spy",
-      "summary": "Trump says Nvidia CEO told him he 'didn't know' he was involved with alleged Chinese spyJensen Huang, chief executive officer of Nvidia Corp., left, and US President Donald Trump during a meeting with tech executives on artificial intelligence in the East Room of the White House in Washington, DC, US, on Tuesday, Sept. 29, 2026.\nPresident Donald Trump said the head of Nvidia told him in a phone call on Monday that he \"didn't know\" he was involved with an alleged Chinese spy.\nTrump said he spoke to Jensen Huang on Monday and asked him about it.\nHowever, Nvidia on Sunday shared with ABC News an internal message Jensen Huang sent to employees, in which he said he was \"unfaithful\" to his wife.\nJensen is committed to continuing to lead NVIDIA as CEO without interruption,\" an NVIDIA spokesperson told ABC News Sunday.",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-11-08T21:03:16Z",
-      "source": "Abcnews.com"
+      "id": "NjY=",
+      "url": "https://www.yahoo.com/news/politics/articles/rubio-says-no-attack-iran-153709721.html",
+      "title": "Rubio says 'no need' to attack Iran as diplomacy gathers pace",
+      "summary": "Top US diplomat Marco Rubio said Tuesday that he saw no need to attack Iran again, as diplomatic efforts to end the war gathered steam and Tehran urged Washington to accept its demands for reopening the Strait of Hormuz.\n\"The economic campaign (against Iran) is so devastating that right now there is no need for major combat operations,\" the secretary of state said after a meeting of G7 foreign ministers in Paris.\nBritain's Foreign Secretary Ed Miliband called for greater efforts to end the conflict, while warning of the economic damage of an ongoing impasse.\n\"We need to move beyond the 'no war, no peace' stalemate, which is causing deep economic pain for our countries,\" he said in Paris.\n\"The war on Iran has already wrecked the US government.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-11-10T18:10:12Z",
+      "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NTA=",
+      "id": "Njc=",
+      "url": "https://www.businessinsider.com/former-cia-officer-says-what-nvidia-case-can-teach-companies-2026-11#article",
+      "title": "Former CIA officer says US companies are underestimating China intelligence risks",
+      "summary": "She now works as a corporate counterintelligence trainer and international-security consultant, including on Chinese intelligence operations in Florida.\nMore recently, the FBI said it had helped facilitate 62 removals of foreign intelligence threats through its China program this year.\nNvidia has not said Huang shared company information or that Alice Huang was involved in a foreign intelligence operation.\nA gap in trainingAssad said companies in strategically important industries generally do not receive enough training on foreign intelligence risks.\n\"We have engineers and people involved in secret developmental efforts that cost billions of dollars for our companies,\" Assad said.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-11-11T01:20:35Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Njg=",
+      "url": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo",
+      "title": "Acquitted 'China spy' Chris Cash: I was fall guy for security services but also naive",
+      "summary": "A British man who was charged with spying for China has told the BBC he was a \"convenient fall guy\" for UK police and security services who wanted to put espionage threats by foreign states \"on the map\".\nThe messages show how Cash's friend in China, Chris Berry - with whom he had been sharing information - dramatically described a \"secret\" meeting between Berry and a high-ranking Chinese official.\nBerry said he had been told that China was concerned about how a British MP it had sanctioned might be promoted to a cabinet role.\nThe messages also reveal how Cash used his friend as a reference during vetting for a parliamentary pass - which was approved.\nLike Cash, Berry was also charged with espionage.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-11-11T06:00:21Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "Njk=",
       "url": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
       "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
       "summary": "What Trump meant when he said the U.S. is cutting aid to Israeltoggle caption i Jalaa Marey/AFP via Getty ImagesJERUSALEM \u2014 On the day of the U.S. midterm elections, when President Trump told Fox News he is cutting $4 billion in U.S. aid to Israel, many Israelis panicked.\nIsrael has been one of the biggest recipients of U.S. military aid for decades.\nMeanwhile, U.S. voters and candidates who oppose U.S. military aid to Israel celebrated Trump's move.\nSponsor MessageBut defense experts and former government officials say U.S. aid to Israel is not going away.\nSwitching U.S. aid to Israel from the State Department to the PentagonFor months, U.S. and Israeli officials have been negotiating a plan to shift U.S. aid to Israel from the State Department to the Pentagon.",
@@ -613,7 +841,19 @@
   },
   {
     "article": {
-      "id": "NTE=",
+      "id": "NzA=",
+      "url": "https://www.businessinsider.com/nvidia-investigation-jensen-huang-affair-smart-people-2026-11#article",
+      "title": "What smart people are saying about Nvidia investigation of Jensen Huang",
+      "summary": "On Sunday, Nvidia said its board of directors opened an independent investigation into whether Jensen Huang had been the \"target of a foreign intelligence effort.\"\nHuang shared a memo with Nvidia employees earlier in the day in which he said he had been \"unfaithful\" to his wife.\nIn October, The New York Times reported that US officials believed that a Chinese intelligence asset, Alice Huang, had developed a relationship with the Nvidia CEO.\nAlice Huang has been an executive for Megaspeed, an Nvidia customer.\nAs Nvidia teeters on the edge of a national security scandal, some business and tech leaders have weighed in.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-09T00:08:25Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NzE=",
       "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
       "title": "First day of Ukraine peace talks constructive, Zelensky says",
       "summary": "The first of two days of trilateral talks between Ukraine, Russia and the US aimed at ending the war in Ukraine has concluded in Abu Dhabi.\nWhile senior officials from Kyiv and Moscow were tight-lipped after the four hour-long discussions, President Volodymyr Zelensky, who was not at the talks, said they had proved \"constructive and quite substantive\".\nKushner had said earlier the talks would be focused on addressing the \"postwar security concerns\" of both Russia and Ukraine.\nAsked later at a news conference in Copenhagen about the approach of US officials to negotiations, Zelensky said: \"I see changes.\nFor Ukraine, a post-war \"security architecture\" may include reassurance that allies will come to its aid if it comes under attack again.",
@@ -625,50 +865,62 @@
   },
   {
     "article": {
-      "id": "NTI=",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "summary": "His statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation.\nI am committed to protecting Nvidia and supporting America's national security.\n\"While the Board has no reason to believe that either national security or Nvidia secrets were compromised, the Board's inquiry will examine all available information.\"\n\"I just know he's a fine person, but you never know what's going on,\" Trump told reporters, adding that he had \"done an amazing job for our country\".\nForeign Ministry spokesperson Guo Jiakun told reporters at a daily press briefing: \"We have already responded to this.",
+      "id": "NzI=",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+      "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+      "summary": "Sponsor MessageNeither Rubio nor Zelenskyy attended the talks in Abu Dhabi, the capital of the United Arab Emirates.\n\"It looks like the talks in Abu Dhabi were very productive,\" Rubio said in Paris at the Group of Seven meeting, although he urged patience.\nThere are no signs the fighting is abating, and the talks come against a backdrop of new long-range strikes by both Russia and Ukraine.\nRussia and Ukraine hold to their demandsThe Russian and Ukrainian governments remain far apart on key elements of any prospective deal.\nMoscow and Kyiv sent experienced negotiatorsThe Russian and Ukrainian delegations include senior officials who have attended previous rounds of talks.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-11-10T10:58:18Z",
+      "source": "NPR"
+    }
+  },
+  {
+    "article": {
+      "id": "NzM=",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-disappears-elevenlabs-summit-conference-lineup-2026-11#article",
+      "title": "Jensen Huang disappears from lineup at Anthropic and ElevenLabs events",
+      "summary": "Huang was set to be interviewed by an Anthropic executive on Monday evening, a person familiar with the event told Business Insider.\nOn Monday, Huang's name and image disappeared from the speaker list for ElevenLabs' conference before later reappearing and vanishing once more.\nThe Nvidia CEO had been scheduled for a fireside chat with ElevenLabs CEO Mati Staniszewski on Wednesday, where the two would have a \"conversation on the future of AI.\"\nHuang disappeared from the speaker lineup on ElevenLabs' conference website on Monday.\nUpdate November 9, 2026 \u2014 Added ElevenLabs' statement confirming Huang is no longer speaking at its conference.",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-11-08T21:01:33Z",
-      "source": "BBC News"
+      "bias": "center",
+      "publishedAt": "2026-11-09T17:20:34Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "NTM=",
-      "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya",
-      "title": "Egypt\u2019s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "summary": "Share Egypt\u2019s reopening of its embassy in Tripoli signals regional shift on Libya on social mediaThe reopening of the Egyptian embassy in Tripoli marks a fundamental political shift, both domestically and regionally, for Libya, analysts say.\nLibyan political analyst Hazem al-Rayes said the reopening of the embassy in Tripoli \u2013 which was the seat of the internationally recognised government that Haftar was fighting \u2013 is a sign of this.\nAdvertisementIn July 2026, Ankara and the LNA reached unprecedented coordination, spearheading agreements to develop military facilities, advanced surveillance systems, and training programmes in Turkiye for eastern Libyan officers.\nPush for settlementAfter years of backing rival sides, a new regional consensus means there is a greater likelihood of rivals in Libya reaching a comprehensive agreement to end the war, al-Rayes told Al Jazeera.\nBut al-Barouni cautioned that there is still a plethora of issues facing Libya, and only a comprehensive solution can end the divisions within Libya.",
+      "id": "NzQ=",
+      "url": "https://www.businessinsider.com/jensen-huang-scandal-characters-people-being-talked-about-family-officials-2026-11#article",
+      "title": "All the characters being talked about in the Jensen Huang scandal",
+      "summary": "One of the most powerful figures in Big Tech is caught up in a messy scandal that involves an affair, an alleged Chinese spy, and a wide array of characters.\nNvidia's board of directors announced the same day it was launching an investigation into whether Huang was the \"target of a foreign intelligence effort.\"\nThe investigation came after The New York Times previously reported US intelligence officials believed a woman who had grown close to Huang \u2014 Alice Huang, a Chinese tech executive \u2014 was recruited to gather information for Beijing.\nThe Times reported, citing five unnamed company sources, that Huang and Powell were \"captured on video being affectionate\" at an Nvidia conference in March.\nHere's all the people you need to know who have been talked about in the saga.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-10T05:06:52Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "NzU=",
+      "url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean",
+      "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
+      "summary": "Share Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?\nTrump \u2014 for the first time \u2014 singled out Israel, which was a direct participant in the war against Iran from the outset.\nHow much has the Iran war cost the US?\nThat is partly because, from Trump\u2019s perspective, \u201cIsrael pushed him into a disastrous war with Iran\u201d, Lukas said.\nGulf states also pay for the maintenance of several large bases that the US uses for military operations in the region.",
       "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-08T13:27:57Z",
+      "bias": "left",
+      "publishedAt": "2026-11-10T11:52:34Z",
       "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NTQ=",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "summary": "Iran has executed three men accused of carrying out armed unrest during January's anti-government protests, according to state media.\nThe executions are the latest in a series linked to the protests, including those of people accused of having ties to Israel and the United States.\nThe number of executions in Iran has increased since US-Israeli strikes on the Islamic Republic began in late February.\nTen others accused of taking part in the unrest under his supervision were later arrested.\nThe latest executions in Iran come after the UN human rights chief Volker T\u00fcrk said he was alarmed by the rise in death penalties.",
-      "category": "international",
-      "bias": "right",
-      "publishedAt": "2026-11-08T13:37:50Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTU=",
-      "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran",
-      "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
-      "summary": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.\nShare Who are the seafarers caught in the US-Israeli war on Iran?\nThe International Maritime Organization (IMO) has recorded the deaths of at least 25 seafarers since the war started on February 28.\nOn Thursday, Iranian forces said five oil tankers and a tugboat caught fire in separate incidents in the strait.\nWhat does international law say about protecting seafarers during the war?",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-09T07:07:26Z",
-      "source": "Al Jazeera English"
+      "id": "NzY=",
+      "url": "https://www.businessinsider.com/trump-jensen-huang-didnt-know-affair-partner-was-spy-2026-11#article",
+      "title": "Trump says Jensen Huang told him he didn\u2019t know the person he had an affair with 'was a spy'",
+      "summary": "President Donald Trump is sticking by Nvidia CEO Jensen Huang.\nAt an impromptu White House press conference on Monday with Dana White, Trump said he had checked in on the exec earlier that day to see how he was doing.\nTrump said that on a phone call Monday, he asked Huang directly about the allegations that the woman was a spy.\n\"He said he had absolutely no idea that the person in question was a spy,\" Trump told reporters at the White House.\nThe scandal has led to speculation about whether Huang will maintain his role as CEO of Nvidia.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-09T23:27:34Z",
+      "source": "Business Insider"
     }
   }
 ]

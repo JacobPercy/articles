@@ -1,6 +1,16 @@
 [
   {
     "id": "MA==",
+    "url": "https://www.cnet.com/tech/services-and-software/ai-tech-layoffs-2026-trigger-recession/",
+    "title": "AI-Driven Tech Layoffs Could Trigger a 1.6 Million Job Recession",
+    "summary": "A wave of recent tech layoffs and buyouts reveals a growing volatility in the tech industry, as major companies restructure to cut costs and redirect spending toward AI.\nAccording to the TrueUp tech layoffs tracker, layoffs are accelerating faster than last year, with over 200,000 workers reduced so far in 2026.\nSo far, layoffs don\u2019t appear to be spreading to other industries, and overall job cuts are the lowest since 2022.\nBut the job market has become increasingly precarious, especially for younger workers, according to Lisa Countryman-Quiroz, CEO of JVS Bay Area, a workforce nonprofit.\nAI, tech and the midtermsThe 2026 midterm elections could also indirectly affect tech layoffs, mainly due to changes in the political and regulatory environment around AI and data centers.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-09T23:24:47Z",
+    "source": "CNET"
+  },
+  {
+    "id": "NA==",
     "url": "https://endtime-instruments.org/ai-bubble-tracker/",
     "title": "AI Bubble Tracker",
     "summary": "The revenue gap What AI must earn each year to pay for the buildout (twice hyperscaler capex, per David Cahn), against what the AI labs report.\nThe revenue gap since ChatGPT Revenue needed to earn back all the capex since ChatGPT launched, against the visible part of AI revenue: what the AI labs have earned so far.\nVenture money going to AI, month by month Global startup funding to AI companies, and AI's share of all venture funding.\nY Combinator batches: how many startups are AI Share of each YC batch that describes itself as AI.\nEveryone's a .ai Share of each year's Y Combinator startups with a .ai web address, or \"AI\" in the company name.",
@@ -10,17 +20,7 @@
     "source": "Endtime-instruments.org"
   },
   {
-    "id": "MQ==",
-    "url": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
-    "title": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
-    "summary": "Nvidia's (NVDA) board is launching an independent investigation into reports that a woman CEO Jensen Huang was having an affair with was allegedly spying on him for the Chinese government.\nNvidia stock fell 5% before the bell on Monday.\nThe revelations come after reports of ties between Huang and a woman believed to be passing information to the Chinese government.\n\"The key question investors will be asking is: Will Jensen remain CEO of Nvidia?\u2026.\nThe investigation will be key, and we would expect Jensen to continue in his role as CEO with no interruption in the near-term,\" Ives wrote.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-08T21:02:55Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "NA==",
+    "id": "OQ==",
     "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
     "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
     "summary": "Nvidia (NVDA) stock trimmed losses to fall 4% on Monday after the chipmaker's board announced it would investigate the relationship between CEO Jensen Huang and a woman whom the intelligence community believes could be a Chinese Spy.\nIn a Sunday memo to employees, Nvidia CEO Jensen Huang admitted to an extramarital affair, apologizing to his family and staff while pledging full cooperation with an independent board review.\n\"Jensen is the core DNA of Nvidia, and its AI success and ambitions are heavily tied to him staying on as CEO.\nA look across the semiconductor sector showed the risk damage was largely contained to Nvidia.\nMeanwhile, Alphabet (GOOGL) shares rose more than 1% on Monday after the tech giant introduced two new tensor processing units, or TPUs.",
@@ -30,27 +30,47 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "Nw==",
-    "url": "https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758",
-    "title": "Memory crunch makes refurbished kit look a lot less secondhand",
-    "summary": "Memory costs have more than quadrupled this year as manufacturers prioritize more lucrative high-bandwidth memory (HBM) for servers powering AI datacenters.\nBen Caddy, senior analyst at Omdia, said suppliers were linking refresh discussions with opportunities to recover value from customers' aging kit.\nRefurbished smartphones are growing in popularity, but persuading customers to trade in their old devices remains a constraint on supply.\nJoosten said equivalent support, including HP Care Pack services, helped make refurbished equipment more attractive to buyers.\n\"The customers have to trust the refurbished equipment and have to trust the process.",
+    "id": "MTA=",
+    "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+    "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+    "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them.\nNow, anyone who lives in one of the 150 neighborhoods where the company currently operates can employ a sidewalk robot for deliveries.\nServe says its delivery robots can be a safer alternative to cars and help reduce traffic congestion since they operate mainly on sidewalks.\nInstead of hiring couriers or sending junior staff across town, businesses could program Serve\u2019s robots to shuttle items between offices.\nAnd don\u2019t expect 50-pound sidewalk robots to morph into full-size vehicles.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-09T09:30:00Z",
-    "source": "Theregister.com"
-  },
-  {
-    "id": "OA==",
-    "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal",
-    "title": "Why is Nvidia\u2019s Jensen Huang at the centre of a US-China spy scandal?",
-    "summary": "Share Why is Nvidia\u2019s Jensen Huang at the centre of a US-China spy scandal?\nJensen Huang and Alice Huang are not related despite sharing a last name.\nHowever, in late October, Jensen Huang had told Bloomberg News that his interactions with Alice Huang were related to her company, Megaspeed, describing them as \u201ccompletely normal and not unusual\u201d.\nHowever, no criminal charges against Jensen Huang or Alice Huang have been reported.\n\u201cNVIDIA\u2019s Jensen Huang and NVIDIA\u2019s board owe Congress answers.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-09T10:49:02Z",
-    "source": "Al Jazeera English"
+    "bias": "left",
+    "publishedAt": "2026-11-10T22:53:03Z",
+    "source": "The Verge"
   },
   {
     "id": "MTM=",
+    "url": "https://hackaday.com/2026/11/10/simulating-and-visualising-the-central-limit-theorem/",
+    "title": "Simulating And Visualising The Central Limit Theorem",
+    "summary": "Statistics is one of those fields which people tend to love or hate when they\u2019re confronted with it during their school time.\nAlthough incredibly useful and even essential in many fields, including finance and engineering, it\u2019s not always easy to grasp even the basics such as those pertaining to distributions.\nThe Central Limit Theorem (CLT) is an essential element there, which [Greg Foletta] tried to make easier to comprehend using some code samples and visualizations.\nThis is quite the theorem to put out there, with the supporting proof and explanations on e.g.\nWe\u2019d be remiss not to also mention the excellent [3Blue1Brown] video on the topic, which has even snazzier visualizations if you\u2019re more into learning in that fashion.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-10T16:30:21Z",
+    "source": "Hackaday"
+  },
+  {
+    "id": "MTQ=",
+    "url": "https://www.cnet.com/tech/oasis-1794320372-spotify-dj-adds-potentially-annoying-voices-or-you-can-now-turn-them-off-completely/",
+    "title": "Spotify DJ Adds Nine New Voices and a Mute Option",
+    "summary": "Music streaming service Spotify has unveiled new abilities for its popular AI-powered DJ feature, including new hosts \u2014 speaking in Spanish and English \u2014 and an on/off announcer toggle.\nAlso read: Best Music Streaming Services of 2026The lineup includes seven new English voices with British, American, Irish, Australian and Indian accents, as well as two new Mexican-accented voices that speak in Spanish.\nThe company says you\u2019ll still hear a \u201cbrief acknowledgment\u201d when you start the DJ or press the DJ button to switch modes.\nIn addition, Spotify is the most popular music streaming service, with over 100 million tracks and a plethora of features including audiobooks, podcasts and the end-of-year Spotify Wrapped.\nHere\u2019s how to access the Spotify DJ",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-10T14:39:38Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MTY=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "title": "Google releases Gemini 4 Carbon with agent \u2018swarm\u2019 feature",
+    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \u201ccybersecurity defenders\u201d two weeks ago.\nGoogle claims Carbon is its \u201cstrongest model\u201d yet, and capable of competing with the very best systems from Anthropic and OpenAI.\nGoogle says Gemini 4 Carbon \u201cpushes the frontier even further\u201d than Argon, referring to the company\u2019s other frontier model that launched only last month.\nIt will also be available to all Google AI Ultra subscribers in the Gemini app, the AI Mode in Search, and on Antigravity.\nAs with the launch of Argon, Google is pricing Carbon very competitively.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-10T15:30:28Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTc=",
     "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
     "title": "Instagram\u2019s AI age detection is expanding globally",
     "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven\u2019t correctly disclosed their age.\nParents and guardians can also choose to supervise Teen Accounts to set time limits and monitor how their child is using Instagram.\nMeta says that parents in the US will start receiving a notification on Instagram next month that explains the age estimation process, and how they can ensure their teen\u2019s age is accurately reflected on the platform.\nMeta says it\u2019s in the process of rolling out its age estimation technology across Facebook, and that it will start launching similar tools for Threads later this year.\nThe global expansion announced today will only place teen users under Teen Account settings.",
@@ -60,7 +80,17 @@
     "source": "The Verge"
   },
   {
-    "id": "MTQ=",
+    "id": "MTg=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "summary": "Experts tell The Verge the incident threatens to disrupt the entire US AI industry, potentially jeopardize national security, and could undermine America\u2019s efforts to maintain its fragile technological lead over China in AI.\nAt the same time, a thriving black market for restricted Nvidia chips has emerged.\nDisrupting Nvidia \u2014 as this scandal clearly has \u2014 could destabilize America\u2019s entire AI industry.\nMore than most companies, Nvidia is remarkably closely tied to the identity and reputation of its rockstar CEO.\nDespite holding a relatively small stake in the company, in many ways Nvidia is Jensen Huang.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-10T19:04:05Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MTk=",
     "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
     "title": "Jonathan Kanter is using AI to take on Big Tech",
     "summary": "When Jonathan Kanter stepped down as head of the Justice Department\u2019s Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies.\nAlongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a new tech startup, FluxCap.\nKanter imagines FluxCap as a \u201cforce multiplier\u201d for antitrust watchdogs taking on powerful opponents in Big Tech and elsewhere.\nGetting \u201cbasic legal tools\u201d (which Kanter calls \u201cBLTs\u201d) to understand that kind of nuance is difficult because \u201clawyering isn\u2019t about right or wrong answers,\u201d he says.\nThe entire Antitrust Division was appropriated $245 million by Congress for fiscal year 2026, with more than 400 attorneys on staff across several issue areas.",
@@ -70,27 +100,17 @@
     "source": "The Verge"
   },
   {
-    "id": "MTU=",
-    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-    "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
-    "summary": "Niantic, the creator of Pok\u00e9mon Go, sold the game last year and pivoted hard into one of Silicon Valley\u2019s buzziest AI topics right now: world models.\nUnlike the text-based nature of large language models, world models use visual inputs and can generate digital environments that simulate physics.\nThis software is poised to seep into everyday life, without you necessarily ever interacting directly with world models.\n\u201cWith a world model, you give it a visual state of the world, an image, and it will then predict the next visual state of the world.\u201d These 3D generations can be used as digital training grounds.\nMcClendon sees these world models as helping robots practice without physical movement or being in intended environments.",
+    "id": "MjA=",
+    "url": "https://www.cnet.com/tech/services-and-software/google-expands-gemini-4-carbon-availability/",
+    "title": "Google Expands Gemini 4 Carbon Availability",
+    "summary": "Two weeks after announcing Gemini 4 Carbon for cybersecurity professionals, Google is expanding access to its latest frontier AI model to even more people.\nAs with all new AI models, there are improvements across the board, but Gemini 4 Carbon particularly excels in areas such as knowledge work, agentic coding, science, mathematics and cybersecurity.\nGoogle says Carbon outperforms its Argon AI model and competitor models from OpenAI and Anthropic in benchmark tests across a series of areas.\nPrevious Gemini models were already good for vibe-coding apps and games, and Carbon should be even better.\nGemini 4 Carbon is available for developers via its AI Studio and Android Studio, and everyday users who are subscribed to the AI Ultra plan can access the model from the Gemini App.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-08T10:00:00Z",
-    "source": "Wired"
+    "bias": "right",
+    "publishedAt": "2026-11-10T22:07:30Z",
+    "source": "CNET"
   },
   {
-    "id": "MTY=",
-    "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-    "title": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
-    "summary": "It highlighted this sweet, funny relationship between a media brand\u2019s personalities and its audience, a warm-casual vibe.\nI was even more surprised to see why: In an iOS-only beta, the Times is now using AI to allow subscribers to modify recipes.\nJust about anything that was part of the \"smart kitchen\" tended not to be very smart at all.\nTwo notable companies with a deep bench\u2014The New York Times Cooking and America's Test Kitchen\u2014are cooking content makers.\nSince AI is often a lousy chef, giving it a role in the presentation of NYT's gold mine of content is a big risk.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-08T12:00:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "MTc=",
+    "id": "MjE=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
     "title": "Trump\u2019s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
     "summary": "We called them very strongly and said, \u2018Get ready to go to jail.\nEventually he said China\u2019s Xi is \u201c\u2026all in to SI, as I call it, because it really is super intelligence.\nAnd China has no guardrails, by the way.\n[...] They have the guardrails that whatever President Xi says goes.\nWith me, it\u2019s pretty strong, but it\u2019s not quite that strong.\u201d",
@@ -100,17 +120,97 @@
     "source": "The Verge"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "title": "Nvidia is investigating Jensen Huang\u2019s relationship with an alleged Chinese spy",
-    "summary": "A statement posted by the board of directors reads:The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort.\nA committee of independent directors, assisted by outside independent counsel, will oversee the investigation.\nThe Board prioritizes U.S. national and economic security, which is paramount to the interests of NVIDIA and its shareholders.\nWhile the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board\u2019s inquiry will examine all available information.\nThe Board has confidence in Jensen and his leadership team and will provide further updates as appropriate.",
+    "id": "MjM=",
+    "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+    "title": "Adobe is going all in on agentic AI",
+    "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf.\nAdobe hasn\u2019t specified when this preview will launch, but says it\u2019ll be coming to Firefly AI Assistant first.\nThe Firefly AI Assistant beta, which is powered by Adobe\u2019s creative agent, is also getting some upgrades.\nFirefly AI Assistant now also lets you customize preferred formats, colors, brand guidelines, characters, and products, and choose to automatically apply those preferences across every project.\nIf it feels like Adobe is slapping agents and chatbots into all of its products then you\u2019d be correct.",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-11-08T20:25:39Z",
+    "bias": "center",
+    "publishedAt": "2026-11-10T11:24:56Z",
     "source": "The Verge"
   },
   {
-    "id": "MjA=",
+    "id": "MjQ=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "title": "Anthropic has its own AI-powered office suite now",
+    "summary": "And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools.\nClaude Whiteboards, Sheets, and Meetings are all now available in beta, with the first two available to all paid plans and Meetings available for Teams and Enterprise subscriptions.\nGemini is also well-versed in creating spreadsheets (thanks to Google Sheets), and Google has a lot of different \u201cinteractive connectors\u201d for its suite of office tools.\nAnthropic is following in some of their footsteps, plus trying to gain new ground in the AI agent race.\nThe tools Anthropic debuted on Tuesday are some of the company\u2019s first native products for non-technical knowledge workers.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-10T15:13:38Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "summary": "He joined The Verge in 2019 after nearly two years at Techmeme.\nThe jurors say that the statement doesn\u2019t speak for IGF as an organization or for all IGF jury members, noting that some voiced concern about being able to safely sign \u201cwithout professional blowback.\u201dOne contentious title was apparently Big Walk, the co-op adventure game from Untitled Goose Game developer House House.\nHouse House noted it turned to the \u201cLLM chatbot\u201d after researching the problem \u201cextensively\u201d and even speaking to an engineer at Unity.\nThe studio said it disclosed its AI usage as part of its IGF submission, though it has not disclosed AI usage on Big Walk\u2019s Steam page because \u201cthe platform does not request disclosure of code or chatbot usage.\u201d\u201cThis is not an endorsement of, or argument for, the use of AI tools, however minimal,\u201d House House said.\n\u201cWe have some concern that voluntary disclosures like this might contribute to the normalisation of this technology, or its treatment as \u2018inevitable\u2019.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-11-10T17:32:47Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjY=",
+    "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+    "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated.\nUsers can mask and track an object, click Remove, and then Premiere \u201cfills the area with realistic detail\u201d using generative AI, according to Adobe, while the rest of the footage surrounding the erased area remains untouched.\nThe blemish removal tool in Lightroom on mobile is now coming to Adobe Lightroom, allowing you to retouch skin in photographs with a single tap on desktop.\nSome new beta experiences are also launching in Firefly, including the Firefly Design combined edifying space for illustration, image editing, animation, 3D, and print.\nAnd in private beta, Adobe introduced a Firefly Builder tool that\u2019s designed around prototyping websites and apps \u2014 which also shares some similarities with Figma Make.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-10T14:00:07Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "Mjc=",
+    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "summary": "By tapping into your data and context at a machine level, Kora could streamline some of the current speed bumps of using AI tools on a desktop.\nKora is a standalone operating system built on the Linux kernel that runs directly on hardware.\nTo bridge the software gap, built-in compatibility layers will allow users to run standard Windows apps.\nGameOS is primarily built to run on portable handhelds, like a Steam Deck, with PC support as well.\nThat architecture now lives inside Kora as GameFrame, letting users run PC games\u2014provided their hardware can keep up.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-10T14:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "Mjg=",
+    "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+    "title": "Ring\u2019s Indoor Drone Camera Is Back\u2014and Now Powered by AI",
+    "summary": "Users can't manually control the drone but can also set up custom flight routes and patrol schedules.\nIt can automatically respond to alerts from security sensors you may have set up in the home, like motion, door, or window sensors.\nBut Siminoff says the Drone Cam complies with all US regulations and is assembled in Texas.\nBut what if a bad actor gets access to the Drone Cam?\nIt encrypts video in transit and rotates keys every few minutes, but Ring temporarily holds the key to run cloud-based AI features before deleting its copy.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-10T13:30:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-succession-executives-analysts-2026-11#article",
+    "title": "Nvidia's succession dilemma just got real. Here's who could take over if Jensen Huang steps down.",
+    "summary": "It's hard to imagine Nvidia without Jensen Huang \u2014 and the CEO has repeatedly discussed his intention to work for as long as possible.\nNvidia told Business Insider in a statement on Sunday that \"Jensen is committed to continuing to lead Nvidia as CEO without interruption.\"\nInside Nvidia's succession dilemmaNvidia has not publicly designated a number two, and Huang is known for keeping an unusually flat leadership structure with as many as 60 direct reports.\nAdd to Preferred SourcesMadison Huang, Jensen Huang's daughter and Nvidia's senior director of product marketing for physical AI.\n\"He may be a part of the leadership change if Huang steps down,\" Morgan wrote in a note to investors.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-09T23:29:02Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://www.cnet.com/tech/bluetooth-core-7-speeds-quadruple-2027/",
+    "title": "Bluetooth Core 7.0 Speeds Are Set to Quadruple in 2027, Especially for Audio",
+    "summary": "On Thursday, the Bluetooth Special Interest Group, the trade association that oversees Bluetooth, officially unveiled Bluetooth High Data Throughput, a flagship upgrade set to arrive as part of the Bluetooth Core 7.0 standard.\nBluetooth is still the most popular medium-to-short-range wireless standard for connecting devices.\nThe biggest change in this update is a new physical layer for Bluetooth.\nImprovements in the physical layer can have very significant effects on all Bluetooth communications.\nIn this case, new modulation schemes let the physical layer handle data more efficiently and transmit more data at once, which is why the speed increases are so significant.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-09T18:35:48Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MzE=",
+    "url": "https://www.businessinsider.com/jensen-huang-china-stance-comments-nvidia-spying-probe-2026-11#article",
+    "title": "What Jensen Huang has said about China in recent years as a spying probe roils Nvidia",
+    "summary": "Jensen Huang's yearslong push to sell chips to China is now colliding with an affair, board investigation, and crisis at Nvidia.\nNvidia's board is investigating whether Jensen Huang was the target of a \"foreign intelligence effort.\"\nOver the years, Jensen Huang has been bullish on the Chinese market and has said that excluding Nvidia would strengthen Chinese rivals.\nThe company's handling of Jensen Huang's future will signal how seriously it takes the risks surrounding America's most important AI chip executive.\nHere's what Jensen Huang has said about China in recent years.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-09T14:27:46Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzM=",
     "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
     "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
     "summary": "Nvidia launches investigation into CEO's alleged relationship with Chinese spytoggle caption i Markus Schreiber/APThe massive artificial intelligence chip maker Nvidia says it is launching an internal investigation, after reports that the company's CEO was in a close relationship with a Chinese spy.\nIn the statement announcing the investigation, Nvidia cited recent reporting by The New York Times, which alleges Nvidia CEO Jensen Huang was the target of a Chinese intelligence operation that sought to send advanced Nvidia AI chips to China.\n\"The so-called Chinese spy allegation is groundless,\" Guo Jiakun, a spokesman for China's foreign ministry told reporters in a regular briefing.\nAccording to Nvidia, Huang sent an email to his employees on Sunday, acknowledging the relationship, and apologizing for being unfaithful to his wife.\nAccording to Huang, Nvidia is helping to fund the construction of a new ballroom at the White House.",
@@ -120,7 +220,17 @@
     "source": "NPR"
   },
   {
-    "id": "MjE=",
+    "id": "MzQ=",
+    "url": "https://www.macrumors.com/2026/11/10/apple-2027-swift-student-challenge/",
+    "title": "Apple Announces Swift Student Challenge Ahead of WWDC 2027",
+    "summary": "Apple today announced the Swift Student Challenge for 2027, with submissions set to be accepted from February 8 to February 28, 2027.\nThe Swift Student Challenge is an annual contest that gives young developers worldwide a chance to show off their creativity and app development skills by creating an app.\nThere are also Develop in Swift tutorials covering Swift UI, AI and machine learning, and spatial computing.\nRules and eligibility details can be found on the Swift Student Challenge website.\nIn 2027, Apple will announce iOS 28, iPadOS 28, macOS 28, and other '28 software updates.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-11-10T17:28:19Z",
+    "source": "MacRumors"
+  },
+  {
+    "id": "MzU=",
     "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
     "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
     "summary": "Soft, flexible robots could be useful for a wide variety of applications, including artificial muscles and wearable devices\u2014or really any application where a robot must be especially delicate.\nLike your stereotypical robot, soft actuators convert energy\u2014such as electricity, heat, or light\u2014into mechanical motion, but they look nothing like the metal and wire constructs that the word \u201crobot\u201d most often evokes.\nOne variety of these soft robots, known as bioactuators, utilizes the functions of living cells to generate motion.\nOur goal has always been to bring the research of living materials to new levels,\u201d Marie-Eve Aubin-Tam, who led the research, explained in a press release.\n\u201cWe wanted to explore what becomes possible when living cells are integrated into functional materials.\u201d",
@@ -130,43 +240,53 @@
     "source": "Wired"
   },
   {
-    "id": "MjI=",
-    "url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
-    "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
-    "summary": "Anthropic today introduced its latest models, Claude Fable 5.2 and Claude Mythos 5.2, which have improvements in coding, reasoning, and vision.\nAnthropic says Fable 5.2 and Mythos 5.2 communicate more clearly than the 5.1 versions, with outputs generated up to 30 percent faster.\nFable 5.2 uses fewer tokens than Fable 5.1 on challenging tasks when set to medium effort.\nBoth use the same underlying model, but the public-facing Fable 5.2 model has cybersecurity and biology safeguards to prevent misuse.\nCompared to Fable 5.1, Fable 5.2 has approximately 55 percent fewer blocks.",
+    "id": "NDk=",
+    "url": "https://www.nature.com/articles/d41586-026-03412-5",
+    "title": "AI\u2019s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+    "summary": "AI models need vast amounts of electricity: according to the International Energy Agency, a typical AI data centre can consume as much energy as 100,000 households each year.\nHowever, AI might also hold the key to improving energy efficiency: offsetting some of the demand it creates.\nFor most of the world, AI infrastructure will be disaggregated and decentralized.\nThe Net-Positive AI Energy Framework is our North Star for clean, efficient and equitable AI.\nWe\u2019re now working on an AI Energy Readiness Compass: a methodology to support responsible AI energy developments and identify the causes of upcoming bottlenecks in the power grid that could be problematic for AI energy use.",
     "category": "technology",
     "bias": "center",
-    "publishedAt": "2026-11-09T19:38:47Z",
-    "source": "MacRumors"
+    "publishedAt": "2026-11-11T00:00:00Z",
+    "source": "Nature.com"
   },
   {
-    "id": "NDI=",
-    "url": "https://www.yahoo.com/news/politics/articles/democrats-eye-musk-miller-probes-162946969.html",
-    "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout",
-    "summary": "In television appearances, US Representative Robert Garcia of California and US Senator Elizabeth Warren of \u200cMassachusetts, set to lead the House Oversight and Senate Banking committees, vowed aggressive oversight after their party's sweeping midterm election victory.\nAdvertisement AdvertisementAdvertisement AdvertisementMeanwhile, House Democratic leader Hakeem Jeffries indicated he and his \u200bfellow Democrats would back an impeachment of Defense Secretary Pete Hegseth.\nDEMOCRATS FOCUS ON MILLER, \u2060HEGSETHMiller \u2014 whom Garcia called the architect of a \"horrific, unjust\" immigration policy \u2014 has been promoted to White House chief of staff.\nAttorney General Todd Blanche signaled on Sunday that the Trump administration was prepared to battle the Democrats in Congress, calling threats by some Democrats to target administration officials and allies \"not \u200bsomething we can tolerate in this country.\"\n\"If that's \u200cwhat this new incoming leadership wants to do, we are ready,\" said Blanche, a former personal lawyer for Trump.",
+    "id": "NzA=",
+    "url": "https://www.businessinsider.com/nvidia-investigation-jensen-huang-affair-smart-people-2026-11#article",
+    "title": "What smart people are saying about Nvidia investigation of Jensen Huang",
+    "summary": "On Sunday, Nvidia said its board of directors opened an independent investigation into whether Jensen Huang had been the \"target of a foreign intelligence effort.\"\nHuang shared a memo with Nvidia employees earlier in the day in which he said he had been \"unfaithful\" to his wife.\nIn October, The New York Times reported that US officials believed that a Chinese intelligence asset, Alice Huang, had developed a relationship with the Nvidia CEO.\nAlice Huang has been an executive for Megaspeed, an Nvidia customer.\nAs Nvidia teeters on the edge of a national security scandal, some business and tech leaders have weighed in.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-08T18:15:45Z",
-    "source": "Yahoo Entertainment"
+    "bias": "lean right",
+    "publishedAt": "2026-11-09T00:08:25Z",
+    "source": "Business Insider"
   },
   {
-    "id": "NDk=",
-    "url": "https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091",
-    "title": "Trump says Nvidia CEO told him he 'didn't know' he was involved with alleged Chinese spy",
-    "summary": "Trump says Nvidia CEO told him he 'didn't know' he was involved with alleged Chinese spyJensen Huang, chief executive officer of Nvidia Corp., left, and US President Donald Trump during a meeting with tech executives on artificial intelligence in the East Room of the White House in Washington, DC, US, on Tuesday, Sept. 29, 2026.\nPresident Donald Trump said the head of Nvidia told him in a phone call on Monday that he \"didn't know\" he was involved with an alleged Chinese spy.\nTrump said he spoke to Jensen Huang on Monday and asked him about it.\nHowever, Nvidia on Sunday shared with ABC News an internal message Jensen Huang sent to employees, in which he said he was \"unfaithful\" to his wife.\nJensen is committed to continuing to lead NVIDIA as CEO without interruption,\" an NVIDIA spokesperson told ABC News Sunday.",
+    "id": "NzM=",
+    "url": "https://www.businessinsider.com/nvidia-jensen-huang-disappears-elevenlabs-summit-conference-lineup-2026-11#article",
+    "title": "Jensen Huang disappears from lineup at Anthropic and ElevenLabs events",
+    "summary": "Huang was set to be interviewed by an Anthropic executive on Monday evening, a person familiar with the event told Business Insider.\nOn Monday, Huang's name and image disappeared from the speaker list for ElevenLabs' conference before later reappearing and vanishing once more.\nThe Nvidia CEO had been scheduled for a fireside chat with ElevenLabs CEO Mati Staniszewski on Wednesday, where the two would have a \"conversation on the future of AI.\"\nHuang disappeared from the speaker lineup on ElevenLabs' conference website on Monday.\nUpdate November 9, 2026 \u2014 Added ElevenLabs' statement confirming Huang is no longer speaking at its conference.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-08T21:03:16Z",
-    "source": "Abcnews.com"
+    "bias": "center",
+    "publishedAt": "2026-11-09T17:20:34Z",
+    "source": "Business Insider"
   },
   {
-    "id": "NTI=",
-    "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
-    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-    "summary": "His statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation.\nI am committed to protecting Nvidia and supporting America's national security.\n\"While the Board has no reason to believe that either national security or Nvidia secrets were compromised, the Board's inquiry will examine all available information.\"\n\"I just know he's a fine person, but you never know what's going on,\" Trump told reporters, adding that he had \"done an amazing job for our country\".\nForeign Ministry spokesperson Guo Jiakun told reporters at a daily press briefing: \"We have already responded to this.",
+    "id": "NzQ=",
+    "url": "https://www.businessinsider.com/jensen-huang-scandal-characters-people-being-talked-about-family-officials-2026-11#article",
+    "title": "All the characters being talked about in the Jensen Huang scandal",
+    "summary": "One of the most powerful figures in Big Tech is caught up in a messy scandal that involves an affair, an alleged Chinese spy, and a wide array of characters.\nNvidia's board of directors announced the same day it was launching an investigation into whether Huang was the \"target of a foreign intelligence effort.\"\nThe investigation came after The New York Times previously reported US intelligence officials believed a woman who had grown close to Huang \u2014 Alice Huang, a Chinese tech executive \u2014 was recruited to gather information for Beijing.\nThe Times reported, citing five unnamed company sources, that Huang and Powell were \"captured on video being affectionate\" at an Nvidia conference in March.\nHere's all the people you need to know who have been talked about in the saga.",
     "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-08T21:01:33Z",
-    "source": "BBC News"
+    "bias": "lean right",
+    "publishedAt": "2026-11-10T05:06:52Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "NzY=",
+    "url": "https://www.businessinsider.com/trump-jensen-huang-didnt-know-affair-partner-was-spy-2026-11#article",
+    "title": "Trump says Jensen Huang told him he didn\u2019t know the person he had an affair with 'was a spy'",
+    "summary": "President Donald Trump is sticking by Nvidia CEO Jensen Huang.\nAt an impromptu White House press conference on Monday with Dana White, Trump said he had checked in on the exec earlier that day to see how he was doing.\nTrump said that on a phone call Monday, he asked Huang directly about the allegations that the woman was a spy.\n\"He said he had absolutely no idea that the person in question was a spy,\" Trump told reporters at the White House.\nThe scandal has led to speculation about whether Huang will maintain his role as CEO of Nvidia.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-11-09T23:27:34Z",
+    "source": "Business Insider"
   }
 ]
