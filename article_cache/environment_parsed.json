@@ -1,6 +1,26 @@
 [
   {
-    "id": "Mjk=",
+    "id": "MjE=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "title": "US data centers now burn more electricity than a midsized country",
+    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows.\nAltogether, the 403 hyperscale facilities likely consumed around 82 terawatt-hours of electricity that year, about 1.8 percent of all US electricity consumption.\nOnce you allow these data centers to emit the CO2, you can never undo that.\u201dSterman says policymakers should require data center operators to bring new clean energy online.\nAnd while hyperscale data centers encompass more than just AI-related computing, they also make up just a fraction of the thousands of data centers in the US \u2014 with more cropping up each year.\nA bipartisan bill making its way through Congress could also mandate greater disclosures nationally on data centers\u2019 electricity use.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-11-16T20:27:58Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MzE=",
+    "url": "https://www.cnet.com/tech/services-and-software/a-new-study-finds-hyperscale-data-centers-emit-as-much-carbon-as-denmark/",
+    "title": "A New Study Finds Hyperscale Data Centers Emit as Much Carbon as Denmark",
+    "summary": "During the midterm elections, Americans made one thing very clear: Data centers must be reined in.\nThe findings published today in Nature Sustainability show that the carbon emissions and energy use of hyperscale data centers amount to as much as those of entire states and more than those of the country of Denmark.\nBuilding the studyHyperscale data centers are the largest and most powerful data center facilities, featuring thousands of servers to power cloud computing, model training and the global use of AI.\n\u201cAnd we\u2019re lagging behind because of the way the system is made.\u201dAs data centers scale and expand, the research will need to as well, the researchers said.\nThe team is already working to expand its dataset to investigate the broader public health consequences of hyperscale data centers, including water consumption and noise pollution.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-11-16T22:15:17Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MzI=",
     "url": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
     "title": "It\u2019s Getting Too Dry for Even Cactuses to Survive",
     "summary": "Yet cacti are in serious trouble, due to habitat loss and the poaching of species for private collections.\n\u201cIn reality, cacti are absolutely amazing\u2014and they\u2019re my favorite plant group, clearly\u2014but they\u2019re not that different from other plants.\u201dThat means cacti need water.\nBecause this is still a desert, cacti have evolved a range of adaptations to survive, like a waxy skin that helps them retain that bounty of rainwater.\nCacti are dealing with the same stresses, as global temperatures rise and dry spells intensify.\n\u201cWhen we consider drought conditions, then it turns out that they\u2019re much, much sicker than we previously thought,\u201d Pillet said.",
@@ -10,17 +30,37 @@
     "source": "Wired"
   },
   {
-    "id": "MzA=",
-    "url": "https://news.slashdot.org/story/26/11/15/0957227/bill-gates-has-earned-billions-investing-in-climate-polluting-landfills-reports-propublica",
-    "title": "Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills, Reports ProPublica",
-    "summary": "I was playing poker the other night... with Tarot cards.\nI got a full house and 4 people died.\n-- Steven Wright",
+    "id": "MzM=",
+    "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+    "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+    "summary": "Just 400 hyperscale data centers connected in the US used as much electricity as the state of Michigan in a single year, new Harvard research has found.\nFederal and state governments do not track data center use separate from the rest of the power sector, despite mounting projections that data centers are putting serious strain on the American power grid.\nIndividual data centers\u2019 power use is often considered proprietary business information, and data center operators and utilities do not have to disclose specific numbers to the public.\nDevelopers are building campuses that are hundreds or even thousands of megawatts, and there are proposals for still larger data centers.\nWhile the federal government hasn\u2019t tracked data center energy use to date, that could change soon, and it could be a boon to researchers and the public.",
     "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-11-15T16:34:00Z",
+    "bias": "lean left",
+    "publishedAt": "2026-11-16T16:00:00Z",
+    "source": "Wired"
+  },
+  {
+    "id": "MzQ=",
+    "url": "https://news.slashdot.org/story/26/11/16/2137223/just-400-us-data-centers-use-more-electricity-than-michigan",
+    "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+    "summary": "An anonymous reader quotes a report from Wired:The report notes that these findings may already be outdated.\n\"Some of the massive campuses being proposed today are substantially larger than the typical facility in our dataset,\" says Gianluca Guidi, a postdoctoral research fellow at Harvard's T. H. Chan School of Public Health and the lead author of the study.The study also excludes onsite power generation, a rapidly growing trend that BloombergNEF estimates could increase overall U.S. emissions by 10% if all proposed projects are built.",
+    "category": "environment",
+    "bias": "right",
+    "publishedAt": "2026-11-17T03:30:00Z",
     "source": "Slashdot.org"
   },
   {
-    "id": "MzE=",
+    "id": "MzY=",
+    "url": "https://www.nature.com/articles/d41586-026-03769-7",
+    "title": "Daily briefing: A worrier\u2019s guide to climate hope",
+    "summary": "Nature Podcast seeks an antidote for climate anxiety.\nHello Nature readers, would you like to get this Briefing in your inbox free every day?\n\u201cFor scientists, it offers an opportunity for reflection.\u201dNature | 7 min readIs agriculture the key to the development of the state?\nIn the first episode, he talks to experts around the world about what the data really show and finds some surprising beacons of hope.\nNature Podcast | 36 min listenSubscribe to the Nature Podcast on Apple Podcasts, Spotify or YouTube Music, or use the RSS feed.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-11-16T00:00:00Z",
+    "source": "Nature.com"
+  },
+  {
+    "id": "Mzc=",
     "url": "https://www.nature.com/articles/d41586-026-03760-2",
     "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
     "summary": "More needs to be done to combat climate change, but what?\nEpisode 2Projections of future climate change show a relatively cooler world thanks to the growth of renewable energy.\nI talk to experts around the world about their big ideas of what we can do to tackle climate change.\n04:27 The synergistic solutions to climate change and other big challenges12:03 Can we end humanity\u2019s addiction to meat?\nSubscribe to the Nature Podcast on Apple Podcasts, Spotify, YouTube Music or your favourite podcast app.",
@@ -30,27 +70,17 @@
     "source": "Nature.com"
   },
   {
-    "id": "MzM=",
-    "url": "https://www.designboom.com/architecture/sp-architects-cop31-antalya-expo-grounds-architecture/",
-    "title": "sp architects adapts antalya expo grounds for COP31",
-    "summary": "SP ARCHITECTS REWORKS EXPO 2016 FOR COP31 IN ANTALYAAntalya\u2019s former EXPO 2016 site has taken on a second assignment.\nAs COP31 runs in the Turkish city from November 9 to 20, SP Architects has transformed the 875,117-square-meter horticultural exhibition grounds in Aksu into a conference campus for diplomats, scientists, civil society and visitors.\nthe former Expo grounds have been transformedMODULAR STRUCTURES GIVE COP31 A LIFE BEYOND THE SUMMITThroughout the complex, SP Architects has sought to balance the demanding requirements of an international diplomatic event with a more adaptable architectural framework.\nNew permanent and temporary structures are integrated into the existing grounds, with modular and reusable components intended to limit unnecessary construction.\nFor SP Architects, the redevelopment represents an investment in the city\u2019s future rather than a temporary backdrop for international diplomacy.",
+    "id": "NDI=",
+    "url": "http://www.rollingstone.com/culture/culture-features/shell-typhoon-survivors-litigation-documents-1235645120/",
+    "title": "Big Oil, Climate Change, and a \u2018Smoking Gun\u2019",
+    "summary": "Related ContentShell has dismissed the lawsuit as \u201c baseless ,\u201d asserting the company had no \u201cunique knowledge about climate change\u201d in an official statement .\nSpaght represented Shell Oil on the board of the American Petroleum Institute (API), the U.S. oil industry\u2019s primary lobby group.\nIn August, Republican presidential candidate George H. W. Bush had given a campaign speech promising to tackle the greenhouse effect with \u201cthe White House effect.\u201d And, in November, the United Nations had formed the Intergovernmental Panel on Climate Change to help governments develop policies aimed at preventing climate change by reducing greenhouse gas emissions.\nDavid Cheskin/PA Images/Getty ImagesShell quit the GCC in 1998 as public calls for action to address climate change intensified.\nNot only is climate change causing more destructive storms, recent studies show it is also likely making storms harder to predict.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-11-16T06:32:32Z",
-    "source": "Designboom"
+    "bias": "left",
+    "publishedAt": "2026-11-16T11:00:00Z",
+    "source": "Rolling Stone"
   },
   {
-    "id": "MzQ=",
-    "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo",
-    "title": "Bluetongue virus confirmed on County Down farm",
-    "summary": "The first case of Bluetongue in Northern Ireland this season has been confirmed on a farm in Kilkeel, County Down.\nOfficials from the Department of Agriculture, Environment and Rural Affairs (Daera) said the virus had been detected in three sheep.\nThere will be no additional movement restrictions or disease control zones, because the virus has been present in Northern Ireland since November 2025.\nThe minister, Andrew Muir, said the discovery of the virus was \"disappointing but not unexpected\", given the spread of the disease in Great Britain and Ireland.\nThe Chief Veterinary Officer, Brian Dooher, urged local farmers to be alert to any symptoms in their livestock.",
-    "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-11-14T00:17:45Z",
-    "source": "BBC News"
-  },
-  {
-    "id": "Mzc=",
+    "id": "NDQ=",
     "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
     "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
     "summary": "New Orleans port sues owners of tanker involved in Mississippi crashtoggle caption i Gerald Herbert/APNew Orleans port officials filed a lawsuit against the owner and operator of the tanker that crashed into a docked cruise ship in the Mississippi River on Friday.\nThe Board of Commissioners of the Port of New Orleans is seeking at least $1 million in damages from people connected to the tanker, which is called Atlantic Asphalt.\nThe lawsuit also states that the port expects to incur additional costs, including clean-up, surveys, repair, replacement and salvage costs.\nOn Friday, port officials requested the tanker be seized and sold to cover costs of the damage.\nThe exact cause of the crash is unknown, though Burnham said the tanker appeared to have an issue with steering.",
@@ -60,47 +90,7 @@
     "source": "NPR"
   },
   {
-    "id": "Mzg=",
-    "url": "https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/",
-    "title": "Mexico\u2019s Parque del Jaguar protects jaguars with 18-kilometre limestone wall",
-    "summary": "Mexican studio Colectivo C733 has created an 18-kilometre-long limestone wall that allows wildlife to pass through while protecting more than 1,000 hectares of forest at Parque del Jaguar in Tulum, Mexico.\nThe park occupies a coastal territory containing tropical forest, mangroves, underground rivers and karstic geology, as well as the ancient Mayan archaeological site of Tulum.\nAt its perimeter, the studio added an 18-kilometre dry-stacked limestone wall, known locally as a tecorral, informed by traditional Mayan stone boundaries.\n\u201cBy designing how the territory is revealed, inhabited, and understood over time, Parque del Jaguar shifts architecture from a static intervention to an evolving framework that connects environment, culture, and collective awareness,\u201d Colectivo C733 said.\nFounded in 2019, Colectivo C733 brings together the practices of Gabriela Carrillo, Carlos Facio, Jos\u00e9 Amozurrutia, Eric Valdez and Israel Esp\u00edn to work on public architecture and urban infrastructure across Mexico.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-11-14T10:00:00Z",
-    "source": "Dezeen"
-  },
-  {
-    "id": "NDA=",
-    "url": "https://grist.org/accountability/as-texas-embraces-carbon-storage-a-black-community-questions-the-risks/",
-    "title": "As Texas embraces carbon storage, a Black community questions the risks",
-    "summary": "Companies have canceled or paused nearly a third of 19 proposed carbon storage projects in Texas so far.\nJon Shapley for The Texas TribuneThe Cheek Texas Community Association signed on in July 2025 with attorneys at the nonprofit Earthjustice, which charges no cost.\nState gains powerTexas\u2019 work to win the authority to permit carbon storage wells dates back more than a decade.\nChristian has argued carbon dioxide is good for plants, rather than acknowledging the robust science that shows burning fossil fuels has caused carbon dioxide concentrations in the atmosphere to rise, driving up global temperatures.\n(Cheek community leaders have a list of wants, too, including improved roads, a community center, and an emergency warning system.)",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-11-15T14:00:00Z",
-    "source": "Grist"
-  },
-  {
-    "id": "NDY=",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon",
-    "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-    "summary": "NewsFeed Flames engulf Syrian refugee camp in eastern LebanonA fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.\nAnadolu Agency, citing eyewitnesses, reported that all 59 tents were destroyed, leaving nearly 500 people homeless.\nCivil defence teams extinguished the blaze, but the cause remains unknown.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-11-15T14:55:40Z",
-    "source": "Al Jazeera English"
-  },
-  {
-    "id": "NTM=",
-    "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
-    "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
-    "summary": "She lives in a shelter in Al Maghazi with mud walls, cracks, and plastic sheeting covering the roof, which WIRED Middle East visited.\nIn Al Maghazi, Jawad describes five displacement sites across the camp\u2019s western and northern areas.\nIsraeli bombardment has damaged sewage manhole covers in Al Maghazi, Jawad says.\nThe resulting openings allow rainwater to pour into sewage networks unable to accommodate the extra volume, causing wastewater to overflow.\n\u201cI consider spending money on maintaining wells or maintaining generators to operate water wells a higher priority than allocating some of that money to maintaining sewage manhole covers,\u201d Jawad says.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-11-14T10:30:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "NjA=",
+    "id": "NzE=",
     "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze",
     "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
     "summary": "\u2060Indonesian President \u2060Prabowo Subianto has apologised to Singapore and Malaysia \u2060for the transboundary haze due to months-long wildfires.\nThe haze travelled to Malaysia and to Singapore.\nPreviously, an Indonesian official faced criticism after claiming the country\u2019s forests supply oxygen to Malaysia and Singapore despite recurring haze from wildfires.\nPrabowo\u2019s remarks came as the problem of transboundary haze has begun to disappear.\nOn Thursday, the ASEAN Specialised Meteorological Centre (ASMC) issued a \u201cno transboundary smoke haze\u201d notice for southern parts of Southeast Asia, the Jakarta Post reported.",
