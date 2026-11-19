@@ -1,6 +1,6 @@
 [
   {
-    "id": "MjE=",
+    "id": "Mjc=",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
     "title": "US data centers now burn more electricity than a midsized country",
     "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows.\nAltogether, the 403 hyperscale facilities likely consumed around 82 terawatt-hours of electricity that year, about 1.8 percent of all US electricity consumption.\nOnce you allow these data centers to emit the CO2, you can never undo that.\u201dSterman says policymakers should require data center operators to bring new clean energy online.\nAnd while hyperscale data centers encompass more than just AI-related computing, they also make up just a fraction of the thousands of data centers in the US \u2014 with more cropping up each year.\nA bipartisan bill making its way through Congress could also mandate greater disclosures nationally on data centers\u2019 electricity use.",
@@ -10,7 +10,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MzE=",
+    "id": "MzI=",
     "url": "https://www.cnet.com/tech/services-and-software/a-new-study-finds-hyperscale-data-centers-emit-as-much-carbon-as-denmark/",
     "title": "A New Study Finds Hyperscale Data Centers Emit as Much Carbon as Denmark",
     "summary": "During the midterm elections, Americans made one thing very clear: Data centers must be reined in.\nThe findings published today in Nature Sustainability show that the carbon emissions and energy use of hyperscale data centers amount to as much as those of entire states and more than those of the country of Denmark.\nBuilding the studyHyperscale data centers are the largest and most powerful data center facilities, featuring thousands of servers to power cloud computing, model training and the global use of AI.\n\u201cAnd we\u2019re lagging behind because of the way the system is made.\u201dAs data centers scale and expand, the research will need to as well, the researchers said.\nThe team is already working to expand its dataset to investigate the broader public health consequences of hyperscale data centers, including water consumption and noise pollution.",
@@ -18,16 +18,6 @@
     "bias": "lean right",
     "publishedAt": "2026-11-16T22:15:17Z",
     "source": "CNET"
-  },
-  {
-    "id": "MzI=",
-    "url": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
-    "title": "It\u2019s Getting Too Dry for Even Cactuses to Survive",
-    "summary": "Yet cacti are in serious trouble, due to habitat loss and the poaching of species for private collections.\n\u201cIn reality, cacti are absolutely amazing\u2014and they\u2019re my favorite plant group, clearly\u2014but they\u2019re not that different from other plants.\u201dThat means cacti need water.\nBecause this is still a desert, cacti have evolved a range of adaptations to survive, like a waxy skin that helps them retain that bounty of rainwater.\nCacti are dealing with the same stresses, as global temperatures rise and dry spells intensify.\n\u201cWhen we consider drought conditions, then it turns out that they\u2019re much, much sicker than we previously thought,\u201d Pillet said.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-11-15T10:30:00Z",
-    "source": "Wired"
   },
   {
     "id": "MzM=",
@@ -50,7 +40,37 @@
     "source": "Slashdot.org"
   },
   {
+    "id": "MzU=",
+    "url": "https://www.nature.com/articles/s41586-026-11100-7",
+    "title": "Rethinking corporate climate targets for real-world transitions",
+    "summary": "Corporate Climate Responsibility Monitor 2024: Assessing the Transparency and Integrity of Companies\u2019 Emission Reduction and Net-Zero Targets https://newclimate.org/resources/publications/corporate-climate-responsibility-monitor-2024 (NewClimate Institute, 2024).\nCorporate Climate Responsibility Monitor 2025: Assessing the Transparency, Integrity and Progress of Corporate Climate Strategies https://newclimate.org/resources/publications/corporate-climate-responsibility-monitor-2025 (NewClimate Institute, 2025).\nThis report provides comprehensive evidence of the methodological shortcomings and structural disconnects in corporate GHG targets across multiple sectors.\nThis paper argues for moving away from a narrow rule-set for corporate net-zero targets to better anchor these targets with latest science and equity principles.\nBeyond net zero climate targets: a research agenda for absolute environmental sustainability assessment to support decisions at different scales.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-11-18T00:00:00Z",
+    "source": "Nature.com"
+  },
+  {
     "id": "MzY=",
+    "url": "https://www.nature.com/articles/d41586-026-03763-z",
+    "title": "Can AI actually help the climate? Nations want to harness the technology to cut emissions",
+    "summary": "Some climate advocates welcomed the pledge as a necessary, if vague, step to address the growing emissions and environmental impacts caused by running AI data centres.\nAnd researchers say there are ways that the technology could be used to cut emissions, for instance by helping to integrate renewables onto power grids or by improving logistics.\nIntelligent emissionsThe rapid building of AI data centres \u2014 which are used to train and operate AI systems \u2014 has drawn increasing ire from environmental quarters because of its insatiable demand for electricity.\nIt calls on countries to take action to power AI infrastructure with \u201czero- and low-emission energy\u201d and to improve the efficiency with which data centres use power and water for cooling.\nThe host country sponsored the launch of the pledge and said that it would aim to power its data centres with 60% low-carbon sources.",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-11-16T00:00:00Z",
+    "source": "Nature.com"
+  },
+  {
+    "id": "Mzc=",
+    "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o",
+    "title": "Cutting EV target risks UK missing climate targets, warns adviser",
+    "summary": "The UK is likely to miss legally binding climate targets if the government reduces electric vehicle (EV) targets, independent adviser the Climate Change Committee (CCC) has warned.\nThe CCC says that switching to an electric vehicle can save a typical household around \u00a3800 a year, with fewer people benefiting if the targets were watered down.\nThe warning comes after weeks of speculation that the government plans to announce changes to the EV targets.\nUnder the current rules, a \"zero emission vehicle\" (ZEV) mandate requires 80% of new cars sold in the UK to be zero emission by 2030 and all new cars to meet that standard by 2035.\nCompanies that fail to meet their ZEV mandate face a potential fine of \u00a312,000 per car, although there are exemptions.",
+    "category": "environment",
+    "bias": "lean right",
+    "publishedAt": "2026-11-18T00:44:48Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "Mzg=",
     "url": "https://www.nature.com/articles/d41586-026-03769-7",
     "title": "Daily briefing: A worrier\u2019s guide to climate hope",
     "summary": "Nature Podcast seeks an antidote for climate anxiety.\nHello Nature readers, would you like to get this Briefing in your inbox free every day?\n\u201cFor scientists, it offers an opportunity for reflection.\u201dNature | 7 min readIs agriculture the key to the development of the state?\nIn the first episode, he talks to experts around the world about what the data really show and finds some surprising beacons of hope.\nNature Podcast | 36 min listenSubscribe to the Nature Podcast on Apple Podcasts, Spotify or YouTube Music, or use the RSS feed.",
@@ -60,43 +80,43 @@
     "source": "Nature.com"
   },
   {
-    "id": "Mzc=",
-    "url": "https://www.nature.com/articles/d41586-026-03760-2",
-    "title": "The climate is in crisis \u2014 here\u2019s four things we can do",
-    "summary": "More needs to be done to combat climate change, but what?\nEpisode 2Projections of future climate change show a relatively cooler world thanks to the growth of renewable energy.\nI talk to experts around the world about their big ideas of what we can do to tackle climate change.\n04:27 The synergistic solutions to climate change and other big challenges12:03 Can we end humanity\u2019s addiction to meat?\nSubscribe to the Nature Podcast on Apple Podcasts, Spotify, YouTube Music or your favourite podcast app.",
+    "id": "Mzk=",
+    "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+    "title": "Sheep grazing in solar fields offers farmers economic, ecological gains",
+    "summary": "Two new research papers shed light on the growing practice of grazing sheep in fields with solar arrays.\nThe other research describes a decision-making support tool to help farmers profitably grow their solar grazing herds.\n\u201cWith solar grazing, people, energy, agricultural animals, plants and insects are all part of this ecosystem.\n\u201cThere is a new wave of sheep farmers who are capitalizing on this access to good land.\nWith solar grazing, you get paid to graze as opposed to having to pay to graze.",
     "category": "environment",
     "bias": "left",
-    "publishedAt": "2026-11-16T00:00:00Z",
-    "source": "Nature.com"
+    "publishedAt": "2026-11-16T17:27:46Z",
+    "source": "Cornell.edu"
+  },
+  {
+    "id": "NDA=",
+    "url": "https://www.designboom.com/architecture/sp-architects-cop31-antalya-expo-grounds-architecture/",
+    "title": "sp architects adapts antalya expo grounds for COP31",
+    "summary": "SP ARCHITECTS REWORKS EXPO 2016 FOR COP31 IN ANTALYAAntalya\u2019s former EXPO 2016 site has taken on a second assignment.\nAs COP31 runs in the Turkish city from November 9 to 20, SP Architects has transformed the 875,117-square-meter horticultural exhibition grounds in Aksu into a conference campus for diplomats, scientists, civil society and visitors.\nthe former Expo grounds have been transformedMODULAR STRUCTURES GIVE COP31 A LIFE BEYOND THE SUMMITThroughout the complex, SP Architects has sought to balance the demanding requirements of an international diplomatic event with a more adaptable architectural framework.\nNew permanent and temporary structures are integrated into the existing grounds, with modular and reusable components intended to limit unnecessary construction.\nFor SP Architects, the redevelopment represents an investment in the city\u2019s future rather than a temporary backdrop for international diplomacy.",
+    "category": "environment",
+    "bias": "center",
+    "publishedAt": "2026-11-16T06:32:32Z",
+    "source": "Designboom"
+  },
+  {
+    "id": "NDE=",
+    "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation",
+    "title": "Powering towns on pig manure: How Denmark has transformed energy generation",
+    "summary": "As the world seeks to cut carbon emissions to slow global warming, livestock manure is driving Denmark\u2019s energy transition.\nHowever, Denmark has been engineering a biogas boom, developing facilities to convert livestock waste into renewable natural gas to power the national grid and transport, fuel homes and make fertiliser.\nToday, Denmark has Europe\u2019s highest share of biogas in its gas grid, at about 40 percent.\nBut it is evident in Sonderborg that the energy transition is not confined to wind turbines and solar panels.\nHere, the road to net zero is running straight through the farmyard, as slurry is turned into energy and carbon could become a marketable crop.",
+    "category": "environment",
+    "bias": "lean left",
+    "publishedAt": "2026-11-17T09:51:02Z",
+    "source": "Al Jazeera English"
   },
   {
     "id": "NDI=",
-    "url": "http://www.rollingstone.com/culture/culture-features/shell-typhoon-survivors-litigation-documents-1235645120/",
-    "title": "Big Oil, Climate Change, and a \u2018Smoking Gun\u2019",
-    "summary": "Related ContentShell has dismissed the lawsuit as \u201c baseless ,\u201d asserting the company had no \u201cunique knowledge about climate change\u201d in an official statement .\nSpaght represented Shell Oil on the board of the American Petroleum Institute (API), the U.S. oil industry\u2019s primary lobby group.\nIn August, Republican presidential candidate George H. W. Bush had given a campaign speech promising to tackle the greenhouse effect with \u201cthe White House effect.\u201d And, in November, the United Nations had formed the Intergovernmental Panel on Climate Change to help governments develop policies aimed at preventing climate change by reducing greenhouse gas emissions.\nDavid Cheskin/PA Images/Getty ImagesShell quit the GCC in 1998 as public calls for action to address climate change intensified.\nNot only is climate change causing more destructive storms, recent studies show it is also likely making storms harder to predict.",
+    "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo",
+    "title": "Mobuoy: Dump clean-up could cost \u00a3161m over 30 years, says environment minister",
+    "summary": "More than \u00a3160m is needed to clean up and maintain one of Europe's largest illegal landfill sites, government officials have said.\nThe contaminated Mobuoy dump at Campsie in County Londonderry, discovered and shut down in 2013, was used to bury thousands of tonnes of rubbish at a site spanning more than 100 acres.\nNorthern Ireland's Environment Minister Andrew Muir said his department had now received an updated cost estimate of \u00a3161m for the clean-up over a 30-year period.\nMuir described what happened at Mobuoy as \"an absolute scandal\" and said \"the community rightly expects and deserves remediation of the site\".\nHe is now seeking a meeting with the Finance Minister John O'Dowd to discuss how the work will be paid for - with funding from Westminster a possibility.",
     "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-11-16T11:00:00Z",
-    "source": "Rolling Stone"
-  },
-  {
-    "id": "NDQ=",
-    "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
-    "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
-    "summary": "New Orleans port sues owners of tanker involved in Mississippi crashtoggle caption i Gerald Herbert/APNew Orleans port officials filed a lawsuit against the owner and operator of the tanker that crashed into a docked cruise ship in the Mississippi River on Friday.\nThe Board of Commissioners of the Port of New Orleans is seeking at least $1 million in damages from people connected to the tanker, which is called Atlantic Asphalt.\nThe lawsuit also states that the port expects to incur additional costs, including clean-up, surveys, repair, replacement and salvage costs.\nOn Friday, port officials requested the tanker be seized and sold to cover costs of the damage.\nThe exact cause of the crash is unknown, though Burnham said the tanker appeared to have an issue with steering.",
-    "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-11-15T17:45:27Z",
-    "source": "NPR"
-  },
-  {
-    "id": "NzE=",
-    "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze",
-    "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
-    "summary": "\u2060Indonesian President \u2060Prabowo Subianto has apologised to Singapore and Malaysia \u2060for the transboundary haze due to months-long wildfires.\nThe haze travelled to Malaysia and to Singapore.\nPreviously, an Indonesian official faced criticism after claiming the country\u2019s forests supply oxygen to Malaysia and Singapore despite recurring haze from wildfires.\nPrabowo\u2019s remarks came as the problem of transboundary haze has begun to disappear.\nOn Thursday, the ASEAN Specialised Meteorological Centre (ASMC) issued a \u201cno transboundary smoke haze\u201d notice for southern parts of Southeast Asia, the Jakarta Post reported.",
-    "category": "environment",
-    "bias": "left",
-    "publishedAt": "2026-11-16T04:11:53Z",
-    "source": "Al Jazeera English"
+    "bias": "lean right",
+    "publishedAt": "2026-11-17T09:46:31Z",
+    "source": "BBC News"
   }
 ]
