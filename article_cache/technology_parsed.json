@@ -10,27 +10,27 @@
     "source": "The Verge"
   },
   {
-    "id": "MQ==",
-    "url": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
-    "title": "Kalshi moves into a new kind of gambling: the stock market",
-    "summary": "Everything is gambling now: the latest news on prediction markets like Polymarket and KalshiKalshi is getting ready to offer stock trading on its platform, according to reports from The Wall Street Journal and CNBC.\nThe company reportedly plans to use its acquisition of broker FB Securities to launch equities and exchange-traded funds \u201cwithin the next two months,\u201d pitting the prediction market against rivals like Robinhood.\nThe rumored expansion into stock trading comes as Kalshi faces a growing number of legal battles over its prediction market platform across the US.\nAt the same time, the Commodity Futures Trading Commission is pushing back on state efforts to regulate prediction markets like Kalshi and Polymarket, arguing that it has the \u201cexclusive\u201d authority over them.\nNine Democratic senators wrote a letter to the CFTC this week, urging it to stop interfering with state bans on prediction markets.",
+    "id": "NQ==",
+    "url": "https://slashdot.org/story/26/11/18/026229/satya-nadella-says-hes-agi-pilled-now",
+    "title": "Satya Nadella Says He's AGI-Pilled Now",
+    "summary": "The economy depends about as much on economists as the weather does on weather forecasters.\n-- Jean-Paul Kauffmann",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-11-17T15:35:32Z",
-    "source": "The Verge"
+    "publishedAt": "2026-11-18T16:00:00Z",
+    "source": "Slashdot.org"
   },
   {
-    "id": "NA==",
-    "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o",
-    "title": "China is hosting the world's leaders in Shenzhen's AI wonderland. Here's what they won't see",
-    "summary": "At 50, Ms Lu couldn't find another job until the delivery drivers came to her with a plan.\nSo Ms Lu became a new layer in the ever-evolving gig economy.\n\"The delivery drivers bring food here to the building entrance.\nThe drivers pay us 2 yuan per order,\" she explains, always on the move.\nDelivery drivers earn between four to eight yuan per order, so Ms Lu gets a decent cut of their earnings.",
+    "id": "Nw==",
+    "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+    "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+    "summary": "It was during November 2020 that somewhere in San Francisco, a woman called Daniela Amodei phoned a friend, asking for advice.\nDaniela oversaw safety and policy at OpenAI, one of the most talked-about AI companies in the world.\nBut Daniela and her brother Dario - who worked there too - had misgivings over safety levels at OpenAI and thought it could be time to walk away.\nSo she did what many do when we can't make a decision about something, she phoned a friend.\nThe friend's reply was direct and to the point: \"You don't need to be on the phone with me.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-16T23:07:20Z",
+    "bias": "center",
+    "publishedAt": "2026-11-18T21:28:08Z",
     "source": "BBC News"
   },
   {
-    "id": "NQ==",
+    "id": "OA==",
     "url": "https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/",
     "title": "Nvidia\u2019s Earnings Calmed Markets, but AI\u2019s Harsh Reckoning Marches On",
     "summary": "Sprawling AI data centers, like the one pictured above, consume plenty of land, energy and semiconductor resources.\nBut this massive executive shakeup could trigger aftershocks that hit other tech companies.\nA handful of big tech companies \u2014 colloquially known as the Magnificent Seven \u2014 make up a big share of major funds and indices.\nThe Magnificent Seven are heavily affected by AI stock swings.\nOther tech companies heavily focused on AI infrastructure, such as Intel and CoreWeave, likewise saw their share prices decline.",
@@ -40,17 +40,27 @@
     "source": "CNET"
   },
   {
-    "id": "OA==",
-    "url": "https://shows.acast.com/knowledge-at-wharton/episodes/how-ai-is-reshaping-the-stock-market",
-    "title": "How AI Is Reshaping the Stock Market | Knowledge at Wharton",
-    "summary": "How will AI, inflation, and Federal Reserve policy shape the markets in the months ahead?\nJeremy Siegel, Wharton Emeritus Professor of Finance and Senior Economist at WisdomTree, shares his outlook on the economy and financial markets.\nSiegel discusses the outlook for interest rates, the uncertainty surrounding AI investment and corporate profitability, and whether today's market valuations are justified.\nHe also explains why diversification across technology, value stocks, and bonds could be especially important as investors navigate an uncertain economic future.",
+    "id": "MTA=",
+    "url": "https://tech.slashdot.org/story/26/11/18/1743211/waymo-robotaxis-pulled-from-freeways-indefinitely",
+    "title": "Waymo Robotaxis Pulled From Freeways Indefinitely",
+    "summary": "The economy depends about as much on economists as the weather does on weather forecasters.\n-- Jean-Paul Kauffmann",
     "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-16T10:30:00Z",
-    "source": "Acast.com"
+    "bias": "left",
+    "publishedAt": "2026-11-18T18:00:00Z",
+    "source": "Slashdot.org"
   },
   {
-    "id": "OQ==",
+    "id": "MTI=",
+    "url": "https://www.cnet.com/tech/services-and-software/critical-java-flaw-leaves-systems-open-to-hackers/",
+    "title": "Critical Java Flaw Leaves Systems Open to Hackers",
+    "summary": "A newly identified vulnerability in Oracle Java could give hackers unauthorized access to major applications and allow them to run code without logging in.\n\u201cRoughly 90% of Fortune 500 companies run on Java,\u201d Thai Duong, CEO of cybersecurity firm Calif, said.\nThe flaw, tracked as CVE-2026-114938 (and dubbed Java4Shell), corrupts memory when Java decodes Base64, a standard format used to transmit login credentials and file uploads.\nMore from CNETDuong told CNET that his company identified the critical software vulnerability in October and notified Oracle, which has since patched the vulnerability.\nCISA recommends identifying affected Java installations, reviewing software inventory for JDKs and Java runtimes, and applying vendor patches as soon as they\u2019re available.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-19T00:22:54Z",
+    "source": "CNET"
+  },
+  {
+    "id": "MTM=",
     "url": "https://www.entrepreneur.com/business-news/malicious-cyberattack-on-178-major-websites-tried-to-steal-credit-cards-and-crypto-heres-what-you-should-do-immediately",
     "title": "\u2018Malicious\u2019 Cyberattack on 178 Major Websites Tried to Steal Credit Cards and Crypto \u2014 Here\u2019s What You Should Do Immediately",
     "summary": "Hackers planted rogue code on 178 websites, including Zoom, CNN, IKEA, HSBC and Salesforce, according to Reuters.\nIt tried to swap crypto wallet addresses for the attacker\u2019s, skim card numbers typed into checkout forms and push hacking tools onto iPhones.\nIf you visited one of the affected websites on Monday, Helme recommends three steps:Update your iPhone or iPad.\niOS 18.7.3 or later and iOS 26.3 or later are protected.\niOS 18.7.3 or later and iOS 26.3 or later are protected.",
@@ -60,7 +70,7 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MTA=",
+    "id": "MTQ=",
     "url": "https://9to5mac.com/2026/11/17/jensen-huang-says-hes-ready-to-rejoin-nvidia-as-ceo-if-asked/",
     "title": "Jensen Huang says he\u2019s ready to rejoin Nvidia as CEO (if asked)",
     "summary": "Jensen Huang\u2019s resignation as Nvidia CEO shook up the AI market and US economy last week, but now via The Wall Street Journal Huang has spoken out publicly for the first time since stepping down, and he signals he\u2019s ready to return as CEO if asked.\nJensen Huang responds to calls for him to return as CEO, says he would \u2018be honored to answer these calls\u2019Today Robbie Whelan at The Wall Street Journal published Jensen Huang\u2019s first public statement since departing Nvidia last week.\nHere\u2019s what Huang said:\u201cSince my departure, I\u2019ve seen an outpouring of calls from Nvidia\u2019s employees, investors, business partners, and customers for me to return as CEO,\u201d Huang said in a short statement.\nThus, today\u2019s statement is the former CEO formally putting it out into the world that he\u2019s ready to return if asked.\nSince Huang stepped down, President Trump publicly called on Apple\u2019s Tim Cook to step in as Nvidia CEO.",
@@ -70,37 +80,27 @@
     "source": "9to5Mac"
   },
   {
-    "id": "MTI=",
-    "url": "https://finance.yahoo.com/markets/article/jpmorgan-blames-software-bug-for-transaction-delays-after-bank-outage-reports-spike-215626406.html",
-    "title": "Bank outage reports spike: JPMorgan says issues are resolved, blames internal software bug for transaction delays",
-    "summary": "Digital payment network Zelle, which is owned by Early Warning Services, also saw reports of customers experiencing issues.\nJPMorgan Chase said a software bug affecting its internal hardware systems caused transaction delays Monday.\n\"U.S. Bank systems are not directly impacted.\nHowever, clients attempting to send or receive Zelle payments with another financial institution may experience transaction delays,\" a US Bank spokesperson said.\n\"An issue at the financial institutions may be impacting broader services, including Zelle payments, for some of their customers,\" they added.",
+    "id": "MTc=",
+    "url": "https://www.macrumors.com/2026/11/17/apple-moves-ahead-with-better-dual-sim-support/",
+    "title": "Apple Moves Ahead With Better Dual SIM Support for Apps",
+    "summary": "The proposed changes would make that information available to eligible apps.\nThe third-party app could also display the user's familiar \"Work\" and \"Personal\" labels, making it easier to tell the two numbers apart.\nThis could let an alternative calling app show whether an incoming call came through the user's work or personal number.\nApple operates the process to help meet its obligations under the EU's Digital Markets Act (DMA).\nIt is not yet known exactly how or when Apple will address the request or whether all three features will be delivered.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-17T16:59:28Z",
+    "source": "MacRumors"
+  },
+  {
+    "id": "MTg=",
+    "url": "https://finance.yahoo.com/technology/article/former-nvidia-ceo-jensen-huang-says-hed-be-honored-to-return-to-the-company-163107005.html",
+    "title": "Former Nvidia CEO Jensen Huang says he'd be 'honored' to return to the company",
+    "summary": "Former Nvidia (NVDA) CEO Jensen Huang says he would be \"honored\" to return as chief executive of the company he co-founded.\n\"Since my departure, I've seen an outpouring of calls from NVIDIA's employees, investors, business partners, and customers for me to return as CEO,\" he wrote.\nIf the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\"\nTwo other affairs were allegedly with Nvidia employees.\nFILE PHOTO: Founder and CEO at Nvidia Jensen Huang attends the Milken Institute Global Conference 2025 in Beverly Hills, California, US, May 6, 2025.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-11-16T21:39:45Z",
+    "publishedAt": "2026-11-17T16:31:07Z",
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MTM=",
-    "url": "https://finance.yahoo.com/markets/article/bank-outage-reports-spike-jpmorgan-blames-software-bug-for-transaction-delays-223536950.html",
-    "title": "Bank outage reports spike: JPMorgan says issues are resolved, blames internal software bug for transaction delays",
-    "summary": "Digital payment network Zelle, which is owned by Early Warning Services, also saw reports of customers experiencing issues.\nJPMorgan Chase said a software bug affecting its internal hardware systems caused transaction delays Monday.\n\"U.S. Bank systems are not directly impacted.\nHowever, clients attempting to send or receive Zelle payments with another financial institution may experience transaction delays,\" a US Bank spokesperson said.\n\"An issue at the financial institutions may be impacting broader services, including Zelle payments, for some of their customers,\" they added.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-16T21:39:45Z",
-    "source": "Yahoo Entertainment"
-  },
-  {
-    "id": "MTQ=",
-    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-    "title": "Apple\u2019s new study looks to improve the effectiveness of AI health tools",
-    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are.\nThe company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine.\nParticipants in the study will be given the opportunity to rate responses to health questions from the app.\nThe aim is to improve the design and functionality of AI-powered health tools so they can deliver relevant health information that\u2019s easier for users to understand and act on.\nHealth is deeply personal, and conducting a dedicated research study is the most thoughtful way to understand how people engage with, comprehend, and evaluate health AI in everyday life.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-16T01:26:56Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTU=",
+    "id": "MTk=",
     "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
     "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
     "summary": "When Silicon Valley entrepreneur Chad Steelberg decided he wanted to get involved in the war in Ukraine, he had no idea where to start.\nToday, he has proprietary munition and missile designs, several government partnerships, and a defense-as-a-service business valued at more than $1 billion.\n\u201cI believe I could really change the outcome of this and every war,\u201d Steelberg tells WIRED.\nThe AI model they created quickly ruled out building better defensive technology because that would just harden the stalemate.\nThe resulting system, called Sceptre, can be fired from a 155-millimeter howitzer\u2014the most common artillery weapon donated to Ukraine.",
@@ -110,17 +110,7 @@
     "source": "Wired"
   },
   {
-    "id": "MTY=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-    "title": "California sues OpenAI over rogue AI hacking incidents",
-    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face.\n\u201cThe company knowingly tested a dangerous product without proper oversight or safety procedures and misled the public about it \u2014 this disregard for public safety violated California law.\u201dOpenAI released its new cybersecurity AI model earlier this month, saying that it\u2019s less likely to go rogue and attack other platforms.\nIt\u2019s also giving safety evaluators at Apollo Research access to its AI systems as part of a pilot program that monitors models for misalignment.\n\u201cSince the Hugging Face incident, we\u2019ve undertaken an extensive and transparent effort to understand and address misaligned model activity,\u201d OpenAI spokesperson Drew Pusateri says in an emailed statement to The Verge.\n\u201cThis lawsuit appears to single out OpenAI over a challenge that\u2019s been identified by every major AI lab.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-16T20:46:01Z",
-    "source": "The Verge"
-  },
-  {
-    "id": "MTc=",
+    "id": "MjA=",
     "url": "https://www.businessinsider.com/nvidia-reassures-robotics-startups-it-backs-after-jensen-huangs-exit-2026-11",
     "title": "Nvidia tells robotics startups they have its support as questions swirl about its investment strategy",
     "summary": "Nvidia is reaching out to robotics startups with a message after Jensen Huang's sudden departure: The chipmaker still has their backs.\nSince Huang's resignation, the company and its venture capital arm, NVentures, have contacted at least three robotics startups they back to reassure them of its support, Business Insider has learned.\nUnder Huang, Nvidia became a major backer of robotics and \"physical AI,\" the term he popularized for AI that can act in the real world.\nThe robotics investments are part of a broader push that made Nvidia a financial backer of much of the AI ecosystem.\nAdd to Preferred SourcesThe company's robotics strategy has two parts: developing the simulation tools, software, and chips that power robots, and investing in startups building them.",
@@ -130,27 +120,47 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTg=",
-    "url": "https://www.businessinsider.com/california-sues-openai-hugging-face-hack-ai-agents-2026-11#article",
-    "title": "California sues OpenAI over rogue AI hack of Hugging Face",
-    "summary": "California Attorney General Rob Bonta is suing OpenAI over the cyberattack a group of its rogue models launched against the AI platform Hugging Face in July.\nThe suit asserts that the incident was foreseeable and preventable, and that OpenAI misled the public about the safety of its experiments.\n\"OpenAI's actions escalated real-word cybersecurity risks, threatening the safety, health, and well-being of society,\" Bonta said in a statement.\nHe added, \"In California, we value innovation, but we demand innovation that follows the law \u2014 no matter the product or the company.\"\nThe hack, Bonta said, \"was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.\"",
+    "id": "MjE=",
+    "url": "https://www.businessinsider.com/tech-outages-ai-explanation-cybersecurity-2026-11",
+    "title": "AI was probably involved in recent tech outages \u2014 just not in the way you expect",
+    "summary": "A spate of high-profile tech outages has people wondering if AI is to blame.\nIn the last five days, tech outages at Microsoft, JPMorgan Chase and Charles Schwab have caused major disruption for businesses and consumers.\nWhile tech outages have long occurred periodically, the proximity of recent incidents has led many to speculate whether they were a coordinated cyberattack, rogue AI, or a combination of the two.\nThat will, in turn, probably lead to more tech outages, he added.\nAdd to Preferred SourcesMore tech outages?",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-11-16T20:32:17Z",
+    "publishedAt": "2026-11-18T17:53:51Z",
     "source": "Business Insider"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-    "title": "Nvidia\u2019s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-    "summary": "Is a senior reporter covering technology, gaming, and more.\nPosts from this author will be added to your daily email digest and your homepage feed.\nInterim Nvidia CEO Colette Kress announced the company\u2019s Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return.\n\u201cVera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.\u201dIn the fourth quarter, Nvidia expects revenues of $130 billion.\nUpdate, November 17th: Added comments from Nvidia\u2019s earnings call.",
+    "id": "MjI=",
+    "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+    "title": "Will Wright\u2019s next game uses AI to map your memories",
+    "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game \u2014 and it\u2019s built around AI.\nLike Wright\u2019s other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own.\nIdeally, as you play, the planet starts to become a \u201cmap of your psyche,\u201d kind of like Inside Out, Wright says.\nStill, as heady of a concept as it might be \u2014 turning your memories into a game world \u2014 Wright and team still want it to be fun.\nMany players are rejecting AI outright, and I wondered if the Gallium Studios team was worried about opposition toward MyMems\u2019 use of AI.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-11-17T21:52:53Z",
+    "publishedAt": "2026-11-18T14:03:07Z",
     "source": "The Verge"
   },
   {
-    "id": "MjA=",
+    "id": "MjQ=",
+    "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "title": "Nvidia isn\u2019t selling any more AI chips to China",
+    "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year.\n\u201cOur guidance \u2060does not have any licensed Hopper data center products included, and we are no longer shipping \u200blicenced Hopper data center products to China,\u201d Kress said.\nShe did not explain why Nvidia was ceasing its H200 processor shipments or clarify whether Nvidia would pursue other business with China in the future.\nNvidia already faced difficulties around offloading the AI chips prior to this scandal, however.\nConcerns were raised about failings to properly vet Chinese companies that were approved to handle the H200 AI chips.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-11-18T13:01:05Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+    "title": "Nike\u2019s new air sole technology can mix soft and firm cushioning",
+    "summary": "The company is now doing something similar with its iconic air-filled soles using its new Tuned Air technology.\nWhile previously the level of cushioning in Nike Air shoes was uniform across the entire sole, a new manufacturing process can produce multiple air pockets with varying levels of cushioning and stability.\nNike has been putting air pockets into its shoes for nearly 50 years as a way to increase comfort and cushioning while making them lighter.\nA Tuned Air sole is manufactured using a \u201cproprietary digital print and selective lamination process\u201d where an ink is applied in specific patterns that define where the layers bond to each other.\nImage: NikeThe Tuned Air technology will not only allow Nike to highly customize the fit and feel of air sole shoes for different sports, it will also help keep the benefits of the custom tuning consistent across different sizes.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-17T21:38:08Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MjY=",
     "url": "https://www.businessinsider.com/the-question-silicon-valley-should-jensen-huang-be-brought-back-2026-11",
     "title": "Two camps emerge in Silicon Valley: For Jensen Huang, or against",
     "summary": "That question is roiling Silicon Valley as it reckons with the tech titan's fall from grace.\nNvidia's board of directors is not considering reinstating Jensen Huang as CEO, a person familiar with the matter confirmed to Business Insider on Monday.\nHuang has long rankled some corners of tech because of his constant lobbying to sell powerful AI chips to China.\nOne woman VC said Huang's infidelity and potential national security implications have barely surfaced in her Silicon Valley women's group chats.\nIf the next Nvidia CEO takes a less aggressive investment approach, it could be the beginning of an AI industry correction, some investors cautioned.",
@@ -160,7 +170,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjE=",
+    "id": "Mjc=",
     "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
     "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
     "summary": "Cl\u00e9ment Delangue, CEO of the open-source AI company Hugging Face, may go down in history as one of the first people ever attacked by a rogue AI agent.\nAs the agents worked at superhuman speed to probe and exploit systems, Hugging Face confronted a bewildering deluge of data.\nDelangue moved to the US more than a decade ago, \u201cbarely speaking English,\u201d and built Hugging Face into a platform that supports tens of millions of AI developers.\nDespite championing the democratization of AI, however, Hugging Face was acquired by one of the industry\u2019s biggest players, Nvidia, for $12.93 billion in September.\nWhen did you first realize Hugging Face was being hacked by a group of AI agents?",
@@ -170,7 +180,37 @@
     "source": "Wired"
   },
   {
-    "id": "MjI=",
+    "id": "Mjg=",
+    "url": "https://www.businessinsider.com/anthropic-ipo-claude-code-startups-splurge-on-ai-2026-11",
+    "title": "Anthropic IPO Rides on Claude Code As Startups Splurge on AI",
+    "summary": "Business Insider spoke with several big Anthropic spenders: engineering leaders at companies that have embraced AI for coding and largely favored Claude over its competitors.\nTom Wilkie, Chief Technology Officer at Grafana LabsGrafana Labs, an observability startup last valued at $9 billion, has no problem with pouring cash into AI coding tools.\n\"We're not worried about the spend,\" Wilkie said.\nKiran Gangadharappa, Senior Director of Software Engineering at HarnessHarness, a software development startup worth $5.5 billion, has more than 500 engineers.\nKiran Gangadharappa, senior director of software engineering at Harness.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-18T17:33:30Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "Mjk=",
+    "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+    "title": "Disney\u2019s new Star Wars animatronics interact with guests using AI",
+    "summary": "The three animatronics, named Vilo Vele, Kado Bre\u2019a, and Jibu Bre\u2019a, are based on the Star Wars alien characters called the Anzellans that were featured in The Mandalorian and Grogu film released earlier this year.\nDisney\u2019s new Star Wars animatronics don\u2019t need a puppeteer to interact with guests in real-time.\nImage: DisneyUnlike Disney\u2019s Olaf robot that recently debuted, there\u2019s no one secretly using a Steam Deck gaming handheld to bring the Anzellans to life.\nThe animatronics instead each have hidden cameras and microphones they use to capture guest movements and verbal interactions which are processed by multiple AI models running on AWS cloud servers.\nHowever, the Anzellans movements and verbal responses aren\u2019t generated on the fly by AI.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-18T17:53:48Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MzA=",
+    "url": "https://www.macrumors.com/2026/11/18/macpaw-moonlock-cybersecurity-app-iphone/",
+    "title": "MacPaw's Moonlock Cybersecurity App Launches for iPhone",
+    "summary": "MacPaw today launched its Moonlock cybersecurity app for the iPhone, bringing the company's consumer-focused security features to mobile for the first time.\nMoonlock is designed to help iPhone users recognize and avoid phishing scams and other online threats, according to the company.\nMoonlock includes a number of other security features specific to the iPhone.\nMoonlock is available to download from the App Store or via Setapp, MacPaw's third-party app marketplace.\nWith a Setapp subscription, Moonlock is included for both Mac and iPhone, so no separate iPhone purchase or additional account is required.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-18T13:00:05Z",
+    "source": "MacRumors"
+  },
+  {
+    "id": "MzE=",
     "url": "https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11",
     "title": "Jensen Huang was building Anthropic's worst nightmare. Then he was ousted.",
     "summary": "Under Huang, Nvidia was investing heavily in cheaper, more open AI models that compete with Anthropic's offerings.\nNvidia's open AI pushAmjad Masad, chief executive officer of Replit David Paul Morris/Bloomberg via Getty ImagesThe strategy centered on \"open-weight\" AI models.\nReplit CEO Amjad Masad called Jensen Huang's ouster \"an attack on open models\" at a Silicon Valley conference on Monday.\n\"Jensen is the premier champion of open models,\" Masad said.\nFireworksFireworks AI CEO Lin Qiao (left) interviewing Jensen Huang at the startup's conference in San Francisco on Nov. 3, 2026.",
@@ -180,7 +220,27 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjM=",
+    "id": "MzI=",
+    "url": "https://www.businessinsider.com/nvidia-engineer-exodus-risk-jensen-huang-ouster-2026-11",
+    "title": "Nvidia Faces Engineer Exodus Risk After Jensen Huang's Ouster",
+    "summary": "\"A concentrated product brings concentrated risk,\" Christopher Brown, an investment professional at Synovus, told Business Insider.\n\"I would absolutely expect competitors, including AMD, Broadcom, hyperscalers and AI startups, to aggressively recruit Nvidia engineers,\" Gastwirth said.\nHe cited support from a wide range of constituents, and at the top of his list were Nvidia employees.\nThousands of Nvidia employees have signed an open letter calling for Huang's reinstatement, while some have publicly criticized the decision to oust him.\nOne employee who attended Wednesday's all-hands meeting told Business Insider that better compensation is an attractive short-term incentive.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-19T01:25:29Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzM=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+    "title": "Canva adds an AI \u2018off\u2019 button",
+    "summary": "Canva will now allow you to turn off its generative AI features.\nCanva says these tools will stay on because they \u201cmake everyday tasks faster without generating anything new.\u201dImage: CanvaThe toggle still turns off many of Canva\u2019s other AI features, including Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes, and more.\nYou can also now switch a toggle to see less AI content in Canva\u2019s content library.\nTo turn off Canva\u2019s AI features, head to Profile > Settings > Permission, and then toggle off Enable generative AI features.\nYou can choose to see less AI-generated content by going to Profile > Your account > AI personalization, and then turning on the option to show less AI content.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-18T23:08:58Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "MzQ=",
     "url": "https://www.entrepreneur.com/business-news/the-ear-is-the-new-wrist-the-wearable-tech-bet-this-ceo-made-that-blew-past-1-billion-in-sales",
     "title": "\u2018The Ear Is the New Wrist\u2019: The Wearable Tech Bet This CEO Made That Blew Past $1 Billion in Sales",
     "summary": "It comes from taking Starkey from a manufacturing company to a technology company.\nMore and more people need hearing technology around the world as the population ages.\nThe more hearing loss you have, the more secluded you get, the more isolated.\nAs your hearing loss gets worse, you don\u2019t want to say \u201cHuh?\u201d or ask people to repeat themselves, so you start withdrawing.\nWe looked at our three core technology pillars: better hearing, health monitoring and personal assistance.",
@@ -190,7 +250,7 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MjQ=",
+    "id": "MzU=",
     "url": "https://www.businessinsider.com/tech-outages-list-microsoft-faa-apple-united-banking-2026-11",
     "title": "A string of tech outages disrupted flights, banking, and major apps. Here's what officials have said about the causes.",
     "summary": "If you feel like the digital world is ending, you're not alone.\nThere has been no indication from government officials or the companies affected that cyberattacks or AI were responsible.\nAnd despite the uncanny timing, there are no signs the incidents were connected.\n\"It feels like every day brings another reminder that AI is moving faster than our ability to manage its consequences.\"\nHere are the major outages reported and what we know about each one.",
@@ -200,17 +260,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjU=",
-    "url": "https://abcnews.com/US/united-airlines-briefly-systemwide-disruption-departing-flights/story?id=138191145",
-    "title": "United Airlines briefly has 'systemwide' disruption to departing flights",
-    "summary": "A United Airlines Boeing 777-300ER plane prepares for landing at the Capital International airport in Beijing, Oct. 22, 2024.\nA United Airlines Boeing 777-300ER plane prepares for landing at the Capital International airport in Beijing, Oct. 22, 2024.\nA United Airlines Boeing 777-300ER plane prepares for landing at the Capital International airport in Beijing, Oct. 22, 2024.\nA United Airlines Boeing 777-300ER plane prepares for landing at the Capital International airport in Beijing, Oct. 22, 2024.\n\"While some flights were delayed, there was no impact on flights in progress, or on United Express flights,\" United said.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-16T23:26:02Z",
-    "source": "Abcnews.com"
-  },
-  {
-    "id": "MjY=",
+    "id": "MzY=",
     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
     "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
     "summary": "Google is rebranding its Spark AI agent as \u201cTasks\u201d and making it free to use.\nUS users can also assign Gemini tasks by emailing gemini@google.com or texting it.\nGoogle first introduced its Spark AI agent in May, but it was only available to Google AI Pro and Ultra subscribers.\nThe launch of tasks in Gemini brings Spark\u2019s capabilities to all users in the US, Canada, Japan, Korea, Australia, and India.\nWhen performing more sensitive tasks, like purchasing an item, it will stop working and ask for your permission before following through.",
@@ -220,47 +270,77 @@
     "source": "The Verge"
   },
   {
-    "id": "Mjg=",
-    "url": "https://www.businessinsider.com/mckinsey-cognition-target-roi-challenge-ai-coding-2026-11#article",
-    "title": "McKinsey and Cognition are trying to prove AI coding pays off",
-    "summary": "McKinsey & Company and the AI lab Cognition want to show that AI coding is worth the cost.\nCognition will provide its AI coding agent, Devin, which the company says can understand, plan, write, and test code.\nUntil the final months of 2025, he said, many AI coding tools were most useful for narrow tasks, such as looking up technical guidance or syntax details.\nSince then, he said, more capable AI models have made it possible to hand off longer, more autonomous coding work.\nArt Levy, VP of global partnerships at Cognition, said Devin can draw on multiple AI models.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-16T17:24:26Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Mjk=",
-    "url": "https://www.businessinsider.com/ai-outages-uncertainity-markwayne-mullin-security-2026-11",
-    "title": "Why the Federal Government Can't Tell Us Why the Outages Are Happening",
-    "summary": "But I'm not running a federal agency with more than 200,000 workers and an annual budget of more than $100 billion.\nI would very much like to live in a world where a top federal official doesn't muddle through national news interviews about outages.\nBecause sometimes we really want the federal government \u2014 not \"one guy\" \u2014 to be able to tell us what's actually happening inside these complicated systems, and what should be done about it.\nWhich is why people who have talked to more than \"one guy\" often tell us to buckle up for more instability.\nIt is reasonable to cover all of these outages, ask why they're happening, and not accept the hand-wavy answers you often get right after an event.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-17T21:00:26Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MzA=",
-    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-    "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nApple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.\nBasic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits.\nInstead of having to wait until midnight each day for your usage to reset, most of Apple\u2019s existing iCloud Plus plans (excluding the 50GB option) will include higher daily limits at their same price.\nFamily members sharing an iCloud Plus subscription will have a shared usage pool that\u2019s used on a first come, first served basis.",
+    "id": "Mzc=",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "title": "Remember the frontier AI pause? Chip companies don\u2019t either",
+    "summary": "\u201cPumping the brakes on frontier training won\u2019t shrink the AI chip market but it will simply reallocate the spend.\u201dDespite the hubbub it created, whatever slowdown there was appears to have been short-lived.\nMeta plans to expand Vera Rubin deployments to train and run AI models and agents.\nBroadcom, which helps many of the biggest AI companies design their own custom chips, has yet to report earnings.\n\u201cPumping the brakes on frontier training won\u2019t shrink the AI chip market but it will simply reallocate the spend,\u201d Shah said.\nFor companies like Nvidia, the bigger threat may not be that AI companies slow down, but that they find cheaper chips on which to keep going.",
     "category": "technology",
     "bias": "left",
-    "publishedAt": "2026-11-16T19:25:42Z",
+    "publishedAt": "2026-11-18T15:45:02Z",
     "source": "The Verge"
   },
   {
-    "id": "MzE=",
-    "url": "https://abcnews.com/US/national-intelligence-director-signs-cyberattack-amid-tech-outage/story?id=138229967",
-    "title": "Trump administration continues to insist tech outages not cyberattacks",
-    "summary": "\u201cWe have a great deal of confidence in our assessment that these incidents are the results of upgrades of the systems, systems being patched, hardware being applied,\u201d the official added.\nBrendan Smialowski/AFP via Getty ImagesClayton echoed those comments Wednesday morning in testimony before the House Homeland Security Committee's Worldwide Threats hearing.\nBut based on what we know today, after a great deal of diligence, these are separate service outages associated with maintenance and technical changes.\nThe NSA said the network issues occurred during \"scheduled routine maintenance\" and that \"mission-critical capabilities remain fully operational and our ability to defend national security continues.\"\nDirector of National Intelligence Jay Clayton listens during opening remarks during a hearing on \"Worldwide Threats to the Homeland: 25 Years after 9/11\" on Capitol Hill in Washington, November 18, 2026.",
+    "id": "Mzk=",
+    "url": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+    "title": "Amflow\u2019s new urban e-bike series is deliciously overpowered for flat city streets",
+    "summary": "Today, it\u2019s bringing that same overengineered energy to pavement with the UE Series, its first urban commuter line.\nThe series consists of two models: the UE Carbon and UE Carbon Pro.\nWith 125Nm of max torque and 1,100W of peak power, the Avinox M2 in the UE Series is slightly more dialed back from Amflow\u2019s 150Nm flagship eMTBs.\nThat said, 125Nm is still massive overkill for flat city streets \u2014 but it won\u2019t hurt to have it when encountering any grades over 30 percent.\nIt\u2019s worth noting that the 1,100W peak power and 8x assist ratios will likely be software-capped depending on where you live and what regulations allow.",
     "category": "technology",
-    "bias": "right",
-    "publishedAt": "2026-11-18T02:50:36Z",
-    "source": "Abcnews.com"
+    "bias": "lean left",
+    "publishedAt": "2026-11-17T18:30:03Z",
+    "source": "The Verge"
   },
   {
-    "id": "NTM=",
+    "id": "NDI=",
+    "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "title": "Trump\u2019s latest land grab is an AI hub in the Philippines",
+    "summary": "\u201cPax\u201d comes from the Latin word for \u201cpeace, stability, and long-term prosperity,\u201d the Pax Silica website proudly says.\nWith Pax Silica, the US aims to insulate itself from China\u2019s dominance in manufacturing semiconductors and processing critical minerals needed to make those chips.\nPhilippine and US officials are expected to sign a framework agreement by the end of the year for the jointly developed Pax Silica Economic Security Zone.\nHe has also described chip manufacturing as a \u201cclean\u201d industry, echoing corporate spin that\u2019s been around since the start of Silicon Valley.\nAround the same time, chip manufacturing started to move out of the US to Asia, where similar health problems stemming from the same chemicals cropped up even decades later.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-18T19:40:36Z",
+    "source": "The Verge"
+  },
+  {
+    "id": "NDc=",
+    "url": "https://www.scientificamerican.com/article/how-bad-would-spacexs-million-ai-satellites-be-for-earths-atmosphere/",
+    "title": "How bad would SpaceX\u2019s million AI satellites be for Earth\u2019s atmosphere?",
+    "summary": "The firm\u2019s proposal to put a million data centers into orbit has sparked breathless media coverage and boosted SpaceX\u2019s stock price.\nPrevious studies have already warned that megaconstellations could introduce substantial amounts of pollutants into the upper atmosphere, potentially warming parts of the atmosphere and eroding Earth\u2019s protective ozone layer.\nThe amount of material deposited in the atmosphere by dying satellites is another major unknown.\nDespite the uncertainties, the scale of pollution would mark an unprecedented shift in humanity\u2019s impact on the upper atmosphere, Marais says.\nThe exact planetary-scale consequences of multiple, intermingling pollutants in the upper atmosphere will be hard to disentangle.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-11-18T13:00:00Z",
+    "source": "Scientific American"
+  },
+  {
+    "id": "NDk=",
+    "url": "https://energy-based-reasoners.github.io/",
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "summary": "Test-Time ScalingRunning more descent steps refines each answer further, and running more trajectories gives the energy more candidates to choose the lowest-energy one from.\nEBRs reach EqR's best accuracy with 7\u00d7 fewer iterations (left) and 43\u00d7 fewer samples (right).\nGRAM and TRM from GRAM's paper; EqR from its released checkpoint.\nMean \u00b1 SD over three seeds.",
+    "category": "technology",
+    "bias": "center",
+    "publishedAt": "2026-11-18T09:29:32Z",
+    "source": "Github.io"
+  },
+  {
+    "id": "NTk=",
+    "url": "https://www.yahoo.com/news/us/articles/mullin-heads-congress-questions-swirl-120158124.html",
+    "title": "Takeaways from Mullin's House testimony on cyber outages, the Texas-LSU flight and immigration",
+    "summary": "But thousands of flights were canceled because of the ground stop, and Mullin flew as people nationwide were forced to scramble for alternative travel options.\nMullin defends ground stop responseMullin was front and center in the Republican administration's response to the grounding of all aircraft last week.\nImmigration enforcement under new scrutinyLawmakers focused part of their scrutiny of Mullin on immigration enforcement actions that have led to fatal encounters with federal officers.\nAdvertisement AdvertisementU.S. Immigration and Customs Enforcement has had an unprecedented hiring surge, bringing on 12,000 new officers and special agents.\nMullin took over DHS after Kristi Noem was ousted in March when the deaths of the Minnesota protesters at the hands of immigration enforcement officers forced the administration to adjust its mass deportation strategy.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-18T12:01:58Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NjM=",
+    "url": "https://www.yahoo.com/news/articles/mullin-heads-congress-questions-swirl-120158124.html",
+    "title": "Takeaways from Mullin's House testimony on cyber outages, the Texas-LSU flight and immigration",
+    "summary": "But thousands of flights were canceled because of the ground stop, and Mullin flew as people nationwide were forced to scramble for alternative travel options.\nMullin defends ground stop responseMullin was front and center in the Republican administration's response to the grounding of all aircraft last week.\nImmigration enforcement under new scrutinyLawmakers focused part of their scrutiny of Mullin on immigration enforcement actions that have led to fatal encounters with federal officers.\nAdvertisement AdvertisementU.S. Immigration and Customs Enforcement has had an unprecedented hiring surge, bringing on 12,000 new officers and special agents.\nMullin took over DHS after Kristi Noem was ousted in March when the deaths of the Minnesota protesters at the hands of immigration enforcement officers forced the administration to adjust its mass deportation strategy.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-18T12:01:58Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NzI=",
     "url": "https://www.yahoo.com/news/politics/articles/mullin-took-government-plane-lsu-131914652.html",
     "title": "Mullin took government plane to LSU-Texas football game with Americans stranded in wake of FAA outage: report",
     "summary": "Homeland Security Secretary Markwayne Mullin speaks as U.S. Secretary of Transportation Sean Duffy listens at the White House on November 13, 2026, in Washington, D.C.\nSen. Markwayne Mullin, R-Okla., has his eyes well up, talking about how President Donald Trump helped heal his son from a traumatic brain injury.\nThe LSU game was the second football game of the day for Mullin, who had also attended the Coast Guard Academy vs. the U.S.\nThe ground stop ultimately lasted roughly five hours and impacted more than 1.5 million travelers on Friday alone.\nOriginal article source: Mullin took government plane to LSU-Texas football game with Americans stranded in wake of FAA outage: report",
@@ -270,17 +350,37 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "NTQ=",
-    "url": "https://www.macrumors.com/2026/11/17/iphone-20-pro-screen-protectors-rumored-design/",
-    "title": "iPhone 20 Pro Screen Protectors Show Rumored Curved Design",
-    "summary": "Screen protector samples circulating online offer an early look at how Apple's rumored iPhone 20 Pro redesign could look, with rounded edges that could help create the appearance of a nearly borderless display.\nSharing a video of the purported screen protector on X yesterday, the leaker known as \"Ice Universe\" described next year's anticipated iPhone redesign as a \"milestone.\"\nIn a follow-up post on Weibo today, Ice Universe added, in translation, that \"the era of easy screen protector application is coming to an end.\nThe footage arrives amid an increasingly detailed picture of the 20th anniversary iPhone.\nApple's 20th-anniversary iPhone models are expected in the fall of 2027, although the \"iPhone 20 Pro\" name remains speculative.",
+    "id": "Nzg=",
+    "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal",
+    "title": "US lawmakers launch probe into Lutnick\u2019s actions amid Nvidia scandal",
+    "summary": "Letter alleges possible conflict of interest in Lutnick not adding Megaspeed to US trade blacklist.\nDemocratic lawmakers have opened a probe into whether United States Commerce Secretary Howard Lutnick used his position to help Cantor Fitzgerald, an investment firm controlled by his two sons, avoid financial losses amid the scandal involving Jensen Huang at artificial intelligence chip giant Nvidia.\nIt asks if the company\u2019s financial exposure influenced Lutnick\u2019s decision to keep Megaspeed off the US Entity List, a trade blacklist.\nMegaspeed is attached to Alice Huang, the alleged Chinese spy who reportedly had an affair with now-former Nvidia CEO Jensen Huang, who resigned last week.\nAdvertisementCantor Fitzgerald denied the claims in the letter, saying it holds no material proprietary position in Nvidia.",
     "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-17T14:08:09Z",
-    "source": "MacRumors"
+    "bias": "left",
+    "publishedAt": "2026-11-18T20:14:04Z",
+    "source": "Al Jazeera English"
   },
   {
-    "id": "NjM=",
+    "id": "Nzk=",
+    "url": "https://www.businessinsider.com/jeff-bezos-advice-for-nvidias-board-on-replacing-jensen-huang-2026-11",
+    "title": "Jeff Bezos has tips for the Nvidia board in choosing a successor for Jensen Huang",
+    "summary": "Jeff Bezos has some advice for Nvidia's board as it searches for a permanent successor to Jensen Huang:The Amazon founder told Semafor's Liz Hoffman during the Silicon Valley & The World conference that Nvidia would be wise to look inside the company.\n\"If you don't bring Jensen back, I would not hire an outsider,\" Bezos said.\n\"I think outside CEOs in complex companies have a vanishingly small chance of succeeding,\" Bezos added.\nNvidia Executive Vice President and CFO Colette Kress is serving as interim CEO while the company searches for a permanent replacement.\n\"Jensen is a remarkable guy who founded and built a remarkable company with a lot of hard work and foresight,\" Bezos said, \"And he deserves admiration and respect no matter what, and that will never go away.\"",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-18T00:35:51Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "ODI=",
+    "url": "https://www.yahoo.com/news/politics/articles/exclusive-trump-administration-weighs-forcing-110405816.html",
+    "title": "Exclusive-Trump administration weighs forcing US firms to disclose Chinese AI use",
+    "summary": "The company uses Qwen, an AI model made by China's Alibaba, to power its AI customer \u200cservice agent.\nBut its consideration, first reported by Reuters, underscores an emerging push within the administration toward combating the spread of powerful Chinese open weight models, a source of deep concern within the government.\nOpen weight models make their core components publicly available for anyone to download and adapt.\nThe proposal also shows officials are looking at ways to discourage use of Chinese AI through a \"name and shame\" campaign while sticking to a broader anti-regulation stance on AI.\nThe Chinese Embassy in Washington said Beijing opposes politicizing trade and tech issues, which will \"only stifle global AI advances and serve no one's interests.",
+    "category": "technology",
+    "bias": "left",
+    "publishedAt": "2026-11-18T14:46:44Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "ODM=",
     "url": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
     "title": "Apple announces App Store price changes in multiple countries, new California tax rules",
     "summary": "Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates.\nSome changes are already in effectIn a new post published on its developer portal, Apple today announced a series of changes to App Store pricing, as well as updates to tax rules affecting developers and customers in several countries, including the US.\nDevelopers can review and update their tax category selections in App Store Connect.\nThe announcement does not go into detail about how much prices will change in each country, or whether they will increase or decrease.\nFinally, starting January 1, 2027, apps and In-App Purchases in the SaaS, App Store Software, Software Training Material, Dating, and Boosting categories will become subject to sales and use taxes in California.",
@@ -290,23 +390,13 @@
     "source": "9to5Mac"
   },
   {
-    "id": "NjQ=",
+    "id": "ODQ=",
     "url": "https://www.businessinsider.com/jensen-huang-removes-ceo-x-bio-blue-check-nvidia-2026-11",
     "title": "Jensen Huang's Nvidia exit is now X official",
     "summary": "Jensen Huang's Nvidia exit just got a little more real on X.\nThe former CEO's X account now identifies him only as the \"Founder of NVIDIA.\"\nHuang's once-green Nvidia banner has been replaced with a plain gray one.\nThe X profile changes come as a growing number of Huang's supporters call for him to be reinstated.\nWhether the changes to Huang's X profile are a message or merely housekeeping, Nvidia has begun planning for a future without him at the helm.",
     "category": "technology",
     "bias": "lean left",
     "publishedAt": "2026-11-17T13:56:21Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "Njc=",
-    "url": "https://www.businessinsider.com/jensen-huang-comeback-push-sam-altman-ouster-comparisons-2026-11#article",
-    "title": "The push for Jensen Huang's comeback isn't a Sam Altman-style rerun",
-    "summary": "Don't call it a Sam Altman comeback.\nCrucially, the reasons given for each leader's departure are also different \u2014 and could make a Huang comeback more complicated than Altman's.\nHuang's Nvidia exit is mired in his admission of being unfaithful to his wife and questions over whether he was the target of a \"foreign intelligence effort.\"\n'Silicon Valley loves a good comeback story'On Monday, the Jensen defenders had a blow to their comeback hopes.\n\"The circumstances are different, and you can't simply replay the Altman comeback, no matter how much Silicon Valley loves a good comeback story,\" Kaplan said.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-16T19:46:23Z",
     "source": "Business Insider"
   }
 ]
