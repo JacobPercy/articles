@@ -1,16 +1,6 @@
 [
   {
-    "id": "Mzk=",
-    "url": "https://www.cnet.com/tech/services-and-software/meta-sustainability-report-2026-carbon-emissions-ai/",
-    "title": "Meta\u2019s Carbon Emissions Went Up 45% Last Year. AI Is Making It Worse",
-    "summary": "But like every Big Tech company, Meta is sacrificing its climate goals for artificial intelligence and the data centers needed to run it.\nMicrosoft, Amazon and Google have also all backtracked on their climate goals in their rush to build hyperscale data centers, the turbocharged server farms needed to keep AI online.\nTake one of Meta\u2019s Louisiana data centers, Hyperion, for example.\nWhen it comes online in 2030, it\u2019s expected to create two gigawatts of capacity for AI, with the ability to scale in the future.\nBut, again, AI has made an indelible mark on those efforts.",
-    "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-11-20T19:42:29Z",
-    "source": "CNET"
-  },
-  {
-    "id": "NDA=",
+    "id": "MzI=",
     "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
     "title": "Senate passes bipartisan energy bill amid environmental concerns",
     "summary": "Senate passes bipartisan energy bill amid environmental concernstoggle caption i Jon Cherry/Getty ImagesAs Americans struggle with rising energy costs and increased demand driven by artificial intelligence, the Senate on Thursday passed a bipartisan bill that will speed up the approval process for data centers and power plants.\nWhitehouse also said the bill would make data centers pay for the power they use.\nThere has been considerable pushback by the public against data centers in the U.S., cutting across party lines.\nBut major environmental groups, including the Sierra Club and National Wildlife Federation , have opposed the bill, arguing it will weaken environmental accountability.\n\"I support cutting red tape and getting more energy projects built, but not at the expense of tribal sovereignty and California's environment,\" he said .",
@@ -20,7 +10,7 @@
     "source": "NPR"
   },
   {
-    "id": "NDI=",
+    "id": "MzQ=",
     "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up",
     "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
     "summary": "\u201cWhen we set our net zero emissions goal, we anticipated steady growth, falling clean energy costs, and changes in the broader system that would enable progress at the pace we envisioned.\nNet zero means eliminating emissions as far as possible and buying credits from carbon removal projects to offset those that cannot be eliminated.\nAbout 1,200 such \u201chyperscale\u201d data centres are online, and hundreds more are planned.\nGlobally, data centres used about 415 terawatt hours of electricity in 2024, about 1.5 percent of supply, and that could nearly double by 2030, according to the International Energy Agency.\nGoogle, which pledged in 2020 to run on carbon-free energy by 2030, said this year that its emissions were still rising.",
@@ -30,7 +20,7 @@
     "source": "Al Jazeera English"
   },
   {
-    "id": "NDM=",
+    "id": "MzU=",
     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
     "summary": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock and have been suspended for the night, after running more than a day over time, as countries have been unable to agree on a new global climate deal.\nThe EU and Pacific island nations are amongst a group pushing back against the latest draft agreement which included no reference to reducing the world's demand for fossil fuels.\nIf countries cannot reach consensus - which is required by the UN's climate talks process - the negotiations could be suspended.\nIn that case the summit would end with no deal and be reconvened next year.\nThis has only happened once before since countries started holding COP climate meetings in 1995.",
@@ -40,17 +30,27 @@
     "source": "BBC News"
   },
   {
-    "id": "NDU=",
-    "url": "https://www.bgr.com/2321520/us-data-centers-use-more-power-than-entire-countries/",
-    "title": "This New Study Shows That US Data Centers Use More Power Than These Entire Countries",
-    "summary": "As of 2025, the total energy consumption of U.S. data centers exceeded that of some mid-sized countries.\nIt's staggering to see data center operations equate to entire countries, but it's not altogether surprising when you consider what a data center actually does.\nSpecifically, the hyperscale data centers mentioned in the Harvard study are used for intensive processes \u2014 such as high-density AI training, cloud computing, and storage \u2014 and they each house at least 5,000 servers on the low end.\nThe recent Harvard study shows that the analyzed HDCs also produced up to 31 million tons of carbon dioxide.\nWith that level of pollution, it's clear that AI data centers may be doing more harm than just driving up utility bills.",
+    "id": "Mzc=",
+    "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+    "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+    "summary": "Senate permitting bill speeds up renewables, divides greens over oil and gasA permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.\nTranscriptSCOTT SIMON, HOST:This week, the Senate passed a bipartisan bill that's meant to speed up construction of new energy infrastructure projects.\nBut this bill divides Democrats and some of their key allies.\nHere's one of the bill's authors, West Virginia Republican Shelley Moore Capito, talking up the bill on the Senate floor ahead of its final passage.\nWhile most clean-energy industry groups, labor unions and oil-gas companies are backing the bill, many environmental advocacy groups have opposed it.",
     "category": "environment",
-    "bias": "lean right",
-    "publishedAt": "2026-11-19T22:17:00Z",
-    "source": "BGR"
+    "bias": "center",
+    "publishedAt": "2026-11-21T12:40:17Z",
+    "source": "NPR"
   },
   {
-    "id": "NDY=",
+    "id": "Mzg=",
+    "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo",
+    "title": "Will COP31 end with a new global climate deal?",
+    "summary": "Rohingya genocide: What was said in court and what happens now?\nVideo, 00:01:15Rohingya genocide: What was said in court and what happens now?",
+    "category": "environment",
+    "bias": "left",
+    "publishedAt": "2026-11-21T22:44:52Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "Mzk=",
     "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
     "title": "COP31: More climate money for Africa? Europe says use what's already pledged",
     "summary": "A severe drought that began in April has destroyed crops, while food brought in from elsewhere has become increasingly unaffordable.\n\"Seven months without rain has brought us to this point where we now live in hunger,\" the 44-year-old farmer, who lives with his grandmother, wife and five children, told the BBC.\nLocal officials say more than 90% of crops have failed in the region, where agriculture is largely rain-fed.\nNkhambala fled to higher ground with his wife and four children as floodwaters swept through his village.\nAfter relocating and trying to rebuild his life, Nkhambala is now facing another climate challenge - this time a lack of rain.",
@@ -60,7 +60,7 @@
     "source": "BBC News"
   },
   {
-    "id": "NDg=",
+    "id": "NDE=",
     "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime",
     "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
     "summary": "EU warns COP31 risks turning into a \u2018fossil summit\u2019 as critical climate commitments are omitted from the draft deal.\nThe COP31 climate summit has gone into overtime as nearly 200 countries remain deadlocked over a draft deal that no longer mentions fossil fuels.\nThe fossil fuel fightAn opening draft from cohost and lead negotiator Australia on Monday called for a faster phase-out of fossil fuels.\nThe European Union said the draft \u201crisks turning this climate COP into a fossil summit\u201d.\n\u201cWe want to see the references to false solutions removed,\u201d said Vanuatu\u2019s climate minister, Ralph Regenvanu.",
@@ -70,33 +70,33 @@
     "source": "Al Jazeera English"
   },
   {
-    "id": "NDk=",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom",
-    "title": "Is this ancient Swahili town at risk from Kenya\u2019s energy boom",
-    "summary": "Is this ancient Swahili town at risk from Kenya\u2019s energy boomNewsFeed Is this ancient Swahili town at risk from Kenya\u2019s energy boomEast Africa is betting billions on oil infrastructure to strengthen energy security and reduce dependence on imported fuel.\nBut as the region races to build its own refining capacity, concerns are growing over how industrial pollution and habitat destruction could ruin the unique appeal of Lamu Old Town.",
+    "id": "NDI=",
+    "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+    "title": "COP31: New draft deal aims to avert collapse of talks at climate summit",
+    "summary": "Efforts to avert the collapse of talks at the UN COP31 summit have faced further delays on the second day of overtime, as countries struggle to reach a new global climate deal.\nCountries were expected to reconvene to decide whether to approve a new deal, but that meeting was delayed on Sunday morning.\nThe president of the talks, Turkey's Environment Minister Murat Kurum, told the BBC he was \"hopeful\" of a breakthrough as he entered the summit on Sunday.\nThe EU and Pacific states had been arguing against the removal of fossil fuels from the draft text.\nIf countries cannot reach consensus - as required by the UN's climate talks process - the negotiations could be suspended until next year.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-11-19T04:44:24Z",
-    "source": "Al Jazeera English"
+    "bias": "left",
+    "publishedAt": "2026-11-22T03:58:31Z",
+    "source": "BBC News"
   },
   {
-    "id": "NTE=",
-    "url": "https://www.businessinsider.com/national-geographic-best-pictures-of-the-year-wildlife-photos-2026-11",
-    "title": "National Geographic revealed its Pictures of the Year. Here are 8 of the most captivating wildlife photos.",
-    "summary": "Out of over 1 million photos taken by National Geographic photographers in 2026, 25 images were named Pictures of the Year.\nFor its annual year-end issue, National Geographic magazine highlighted the defining photos of the past 12 months, showcasing rare wildlife sightings, split-second nature shots, and how the changing climate is affecting humans and animals alike.\nNathan Lump, editor-in-chief of National Geographic, called the Pictures of the Year collection \"a testament to the boundless curiosity and relentless persistence of our photographers in their quest to help us better understand our world.\"\nHere are seven of National Geographic's Pictures of the Year, plus the history-making cover photo.\nThe entire collection can be viewed on National Geographic's website .",
+    "id": "NDM=",
+    "url": "https://hackaday.com/2026/11/21/capturing-and-mineralizing-atmospheric-carbon-dioxide/",
+    "title": "Capturing And Mineralizing Atmospheric Carbon Dioxide",
+    "summary": "That said, even at a mere 400 ppm it\u2019s already a problem, so capturing it seems like a good idea.\nBy mineralizing the carbon dioxide it should end up in a stable form that will last the ages.\nUltimately this experiment removed 4.3 grams of carbon dioxide from the atmosphere, corresponding to about 2 liters.\nDirect air capture of carbon dioxide makes little sense at this point, as the calculations in the video also show by scaling up this experiment.\nEven when you talk about carbon capture and storage/sequestration (CCS) directly at the source of the air pollution the economics are iffy, albeit it significantly more realistic.",
     "category": "environment",
-    "bias": "lean left",
-    "publishedAt": "2026-11-20T12:06:01Z",
-    "source": "Business Insider"
+    "bias": "lean right",
+    "publishedAt": "2026-11-22T03:00:36Z",
+    "source": "Hackaday"
   },
   {
-    "id": "NTI=",
-    "url": "https://www.designboom.com/art/united-artists-climate-art-culture-stronger-role-climate-action-cop31-artofchange21/",
-    "title": "united artists for climate calls for art and culture to take stronger role in climate action at COP31",
-    "summary": "Artists call for culture in climate policy at COP31For its second edition, United Artists for Climate organizes a collective international campaign inviting artists to share their work, creative practices, and environmental initiatives through Instagram.\nA second central demand is to recognize culture as an essential part of climate action and integrate the Culture Global Stocktake into climate decision-making.\nThe first Culture Global Stocktake was launched at COP31 on November 10th.\nThe first edition of United Artists for Climate mobilized 290 contemporary artists from 58 countries during COP30 in Bel\u00e9m, Brazil.\nBy bringing artists into the conversation at COP31, United Artists for Climate argues that culture should not remain on the sidelines of climate negotiations.",
+    "id": "Njc=",
+    "url": "https://www.project-syndicate.org/commentary/global-climate-processes-emphasizing-implementation-not-a-moment-too-soon-by-andre-correa-do-lago-and-tulio-andrade-2026-11",
+    "title": "Making Earth Cool Again",
+    "summary": "Jayant Sinha A global AI ecosystem controlled by the US and China would make other countries dangerously dependent on foreign technologies.\nTogether, COP30\u2019s global mobilization, negotiations, and Action Agenda revealed that the global climate regime is shifting from a negotiation track to a living system.\nThis implementation movement has allowed climate action to gain global scale, irrespective of backtracking by any specific country.\nAs the net-zero transition connects economies, societies, and governments at all levels through sustainable development, implementation coalitions increasingly cut across ideological and geopolitical lines, including entrenched North-South negotiating divides.\nLooking ahead, our collective ambition must be to elevate climate solutions from niche applications to the mainstream.",
     "category": "environment",
-    "bias": "center",
-    "publishedAt": "2026-11-19T11:50:54Z",
-    "source": "Designboom"
+    "bias": "lean left",
+    "publishedAt": "2026-11-20T14:46:57Z",
+    "source": "Project Syndicate"
   }
 ]
