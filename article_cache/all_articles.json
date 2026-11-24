@@ -2,18 +2,6 @@
   {
     "article": {
       "id": "MA==",
-      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator.\nHarbinger CEO John Harris got his start at Faraday Future before moving on to Xos Trucks and then Palmer Luckey\u2019s Anduril.\nImage: Harbinger\u201cIn auto, you have Class 1 companies and you have Class 8 companies,\u201d Harris says.\nHarris himself spent a year at tumultuous Chinese EV company Faraday Future before moving on to Xos Trucks and then Palmer Luckey\u2019s Anduril.\nHarbinger isn\u2019t just building delivery trucks \u2014 it\u2019s also branching into energy storage and military technology.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T19:34:11Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MQ==",
       "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
       "title": "The AI boom had a really bad week \u2014 and it's raising loud alarms",
       "summary": "The AI boom had a really bad week \u2014 and it's raising loud alarmstoggle caption i Spencer Platt/Getty ImagesA yearslong AI boom showed signs of unraveling this week in spectacular fashion.\nHere's what to know about the week in AI and why alarm bells are ringingWhat happened with stock markets this week?\nIt's the culmination of weeks of fears that have been building up about the sustainability of the AI trade.\nThe future prospects for AI, Smith said, are \"not based on a pie in the sky.\"\nNvidia, for example, not only owns shares in other big AI companies like Anthropic but is also lending a lot of money to them.",
@@ -25,55 +13,31 @@
   },
   {
     "article": {
-      "id": "Mg==",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
-      "title": "Stock market today: Dow and S&P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
-      "summary": "The Dow Jones Industrial Average (^DJI) dropped 1.9% after the blue-chip index fell below 50,000 and neared a correction.\nBoth the Dow and S&P 500 closed in correction territory, or more than 10% off their peaks.\nInvestors went risk-off on Friday as semiconductor stocks led an AI trade sell-off.\nA day after its record-breaking debut, Anthropic shares fell 8%, though they remain narrowly above their IPO price of $83.\nGold futures (GC=F) dropped nearly 4%, while the price of so-called digital gold \u2014 bitcoin (BTC-USD) \u2014 dropped below $59,000 to trade at its lowest price since July.",
+      "id": "MQ==",
+      "url": "https://finance.yahoo.com/markets/article/jensen-huangs-next-move-wall-street-floats-intel-and-spacex-but-bettors-are-banking-on-a-surprise-second-act-123015670.html",
+      "title": "Jensen Huang's next move: Wall Street floats Intel and SpaceX, but bettors are banking on a surprise second act",
+      "summary": "Jensen Huang has been out as Nvidia's (NVDA) CEO for barely a week, and everyone already has a script for him.\nThe S&P 500 (^GSPC) closed in a correction Friday, and the Nasdaq Composite (^IXIC) lost 10% for the week.\nA return to Nvidia gets 20%, SpaceX 8%, and Intel 3%, in a small market with about $64,000 traded.\nPolymarket, Yahoo FinanceHistory has a part for every scriptSteve Jobs lost his operating role at Apple (AAPL) in May 1985 and started NeXT about four months later.\nMusk was pushed out as PayPal's CEO in 2000 and founded SpaceX (SPCX) about 18 months later, so the company floated for Huang is itself a second act.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-20T15:20:24Z",
+      "bias": "center",
+      "publishedAt": "2026-11-21T12:30:15Z",
       "source": "Yahoo Entertainment"
+    }
+  },
+  {
+    "article": {
+      "id": "Mg==",
+      "url": "https://www.cnet.com/roadshow/automobiles/genesis-g80-gv80-hybrids-laas-debut-arriving-in-2027/",
+      "title": "Genesis Launches Hybrids at the LA Auto Show, EREV Coming in 2027",
+      "summary": "Korean luxury automaker Genesis launched its first hybrid models this week, debuting new powertrains for the G80 sedan and GV80 SUV at the 2026 LA Auto Show.\nMore efficient, more powerfulThe G80 Hybrid and GV80 Hybrid share a 2.5-liter turbocharged hybrid powertrain.\nFamiliar designAside from the powertrain, the G80 and GV80 Hybrids are largely identical to their combustion counterparts.\nThe Hybrid models feature a unique grille design.\nLike the standard models, the G80 and GV80 Hybrids feature a large 27-inch OLED display.",
+      "category": "technology",
+      "bias": "right",
+      "publishedAt": "2026-11-22T11:00:06Z",
+      "source": "CNET"
     }
   },
   {
     "article": {
       "id": "Mw==",
-      "url": "https://www.businessinsider.com/small-business-owners-juggle-rising-costs-weak-economy-ai-2026-11",
-      "title": "Why small businesses are staying optimistic, even as costs rise and AI takes hold",
-      "summary": "More than half of owners (52%) raised prices in the past year, according to Gusto's latest State of Small Business report.\nNich Tremper, Gusto's principal economist, shared three takeaways about the state of small business today.\nAI is moving beyond the experiment phaseMost small businesses (67%) now use AI for at least some tasks.\n\"Small businesses are not immune to the cost pressures that everybody has felt the last couple years,\" Tremper said.\nEven in an uncertain economy, \"small business owners know that they are important in their community,\" Tremper said.",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T10:50:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NA==",
-      "url": "https://www.entrepreneur.com/building-a-business/i-didnt-have-a-tv-at-home-so-i-built-a-computer-at-age-13-to-compensate-aivc",
-      "title": "My Startup AIVC Will Unlock $1 Billion in Enterprise Value in 2026",
-      "summary": "He eventually founded the \u201cAI Value Creation\u201d firm AIVC in October 2025.\nThis year, AIVC will have created more than $1 billion in enterprise value for clients, with 80% of that potential coming from increased revenue or capacity rather than cost-cutting.\nWillenbrock, founder of AIVC, an AI firm that rebuilds operational and service-focused businesses with AI.\nWillenbrock began building AIVC, short for AI Value Creation, in October 2025 and is still working at the startup as a builder.\nWe align our incentives with the client \u2014 because ultimately our goal is to create value (it\u2019s in our name: AI Value Creation).",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-20T16:56:03Z",
-      "source": "Entrepreneur"
-    }
-  },
-  {
-    "article": {
-      "id": "NQ==",
-      "url": "https://finance.yahoo.com/real-estate/article/ai-wealth-is-already-changing-san-franciscos-housing-market-100000144.html",
-      "title": "AI wealth is already changing San Francisco's housing market",
-      "summary": "Thursday's blockbuster Anthropic (ANT) initial public offering created thousands of new millionaires, and that wealth is already transforming housing markets in San Francisco and the Bay Area.\nIn three counties where AI companies are particularly concentrated \u2014 San Francisco, San Mateo, and Santa Clara \u2014 the median homebuyer now makes a 25% down payment, up from a median of 20%-21% from 2020 to 2022.\n\"Even as rates eased, buyers in some major markets continued to put more money down, which is consistent with AI and tech wealth changing who is buying homes,\" Realtor.com senior economist Jiayi Xu said in a statement.\nSan Francisco, home to Anthropic and OpenAI (OPAI.PVT), saw median asking rent jump 6.3% in October compared to a year earlier.\nHistoric Coit Tower on Telegraph Hill amid residential buildings in San Francisco, Calif. Down payments are rising areas with the most AI and tech employers, according to Realtor.com.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-20T10:00:00Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Ng==",
       "url": "https://slate.com/podcasts/slate-money/2026/11/anthropic-artificial-intelligence-public-company-claude-art-economy-silicon-valley-stock-market-outages-tech",
       "title": "Anthropic is now a public company",
       "summary": "Giant Anthropic is officially a public company, for better or worse.\nIn the Slate Plus episode: Which watch will our new Bond wear?\nWant to hear that discussion and hear more Slate Money?\nPlus, you\u2019ll access ad-free listening across all your favorite Slate podcasts.\nYou can subscribe directly from the Slate Money show page on Apple Podcasts and Spotify.",
@@ -85,7 +49,7 @@
   },
   {
     "article": {
-      "id": "Nw==",
+      "id": "NA==",
       "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
       "title": "Ed Miliband: EU deal not dependent on tuition fees agreement",
       "summary": "Speaking on Friday, Burnham argued that polling suggests the UK public \"want closer ties\" with the EU and the deal \"delivers that\".\nReform UK leader Nigel Farage said Friday marked a \"betrayal of the British people\" and a good day for the EU to \"try and humiliate\" the UK.\nLiberal Democrat leader Sir Ed Davey said there needed to be more than \"tweaks\" to the UK's relationship to the EU.\nHe warned that EU students being allowed to pay domestic university fees would \"take \u00a3500m, we estimate, out of the higher education sector at a time where there's a lot of pressure on the sector\".\nHe added: \"If EU students come and are paying domestic fees, it's not clear we'd be able to increase the number of places for EU students anyway.\"",
@@ -97,67 +61,67 @@
   },
   {
     "article": {
+      "id": "NQ==",
+      "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179",
+      "title": "UN climate conference ends without its signature agreement as countries clash over fossil fuels and finance",
+      "summary": "The EU said a climate deal with no mention of fossil fuels is \"unconscionable.\"\nMany cited the omission of fossil fuels and the lack of concrete climate finance commitments, with some delegates arguing that those responsible for climate change should pay for it.\nThey listed several objections to the draft agreement, including that \"The major cause of the climate crisis \u2013 coal, oil and gas \u2013 fails to rate a mention.\"\nPeople walk past a protest installation at the COP31 UNFCCC Climate Conference on November 17, 2026, in Antalya, Turkey.\nSupport for the proposal and electrificationNot every country was opposed to the draft agreement.",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-11-22T16:08:08Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Ng==",
+      "url": "https://www.businessinsider.com/how-much-taylor-swift-owe-mamdani-pied-a-terre-tax-2026-11",
+      "title": "How Much Taylor Swift Will Owe Under Mamdani Pied-\u00e0-Terre Tax",
+      "summary": "Your tax bill's waiting for you \u2014 and music superstar Taylor Swift no longer has a blank space on what she owes the city.\nNewly updated Department of Finance documents show how much wealthy second-home owners in the city are being asked to pay come January 1.\nBased on those documents, Swift's new pied-\u00e0-terre tax bill for her part-time homes in New York will add up to just over $133,000.\nNew York City's pied-\u00e0-terre tax, which is estimated to raise more than $500 million, got a green light from state lawmakers in May after years of proposals.\nThe amount raised by the tax could fund some of New York City Mayor Zohran Mamdani's priorities.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-11-21T11:00:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Nw==",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
+      "title": "Andy Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell Parliament on Monday the \"landmark\" deal struck with the EU means there is a \"very real prospect\" the next decade can be \"much better\" than the last one.\nThe deal, which covers British food exports, emissions trading and a youth experience scheme, is a \"choice between a broken status quo or change\", Andy Burnham will tell MPs.\nThe agreements announced on Friday included scrapping most of the checks on British food exports, in return for the UK following some EU regulations, from 2028.\nHe believes polling suggests the UK public \"want closer ties\" with the EU and the deal \"delivers that\".\nConservative leader Kemi Badenoch will use a speech at the Confederation of British Industry (CBI) annual conference on Monday to criticise Burnham's EU deal.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-11-22T22:49:10Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
       "id": "OA==",
-      "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html",
-      "title": "Chips suffer worst week since 2001 as the Nasdaq nears a bear market",
-      "summary": "The S&P 500 (^GSPC) fell every day this week, with four drops of 1% or more.\nThe S&P 500 fell nearly 4% and the Nasdaq Composite (^IXIC) more than 5%, wiping out the Nasdaq's gain for 2026.\nMeanwhile, chip stocks had their worst week since the one after the 9/11 attacks.\nThe S&P 500 is headed for its worst November since 1973, and the Nasdaq for its worst since 2000.\nIn October and November 2008, the typical S&P 500 stock lost about 28%.",
+      "url": "https://www.businessinsider.com/gen-z-blackout-prep-supplies-hand-crank-radio-2026-11",
+      "title": "I'm a Gen Zer who's not interested in doomsday prepping. This is the one under-$100 item I'll buy, just in case.",
+      "summary": "I'm not trying to make light of the disastrous effects of a potential blackout.\nAdding some variation of doomsday prepping into my budget feels like a sacrifice I'm not willing to make.\nGen Z doesn't seem that invested in doomsday prepping \u2014 but not for lack of concernIt's been funny to be on social media this week.\nMy TikTok feed has been littered with fellow Gen Zers joking about the potential blackout and advice they've seen.\nRegardless, mother, if you've read this whole story, you'll be happy to know I'm purchasing my crank radio tonight.",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-20T21:23:54Z",
-      "source": "Yahoo Entertainment"
+      "bias": "center",
+      "publishedAt": "2026-11-21T10:00:02Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "OQ==",
-      "url": "https://www.businessinsider.com/intuit-executive-departures-stock-slides-ai-2026-11",
-      "title": "Intuit Sees Executive Departures Amid Stock Slides on AI Fears",
-      "summary": "Three senior leaders are leaving Intuit, including QuickBooks' general manager, according to an internal memo from last week that was obtained by Business Insider.\nIntuit's chief architect Chris Kasten, a top engineering leader who oversees more than 1,700 employees, per his LinkedIn, is also leaving, Business Insider is the first to report.\nThe memo, from Intuit executive vice president Ashley Still, said that QuickBooks GM Arundhati Singh is leaving to pursue an \"outside opportunity.\"\nWant more Business Insider in your news feed?\nAdd to Preferred SourcesThose include Lance Williams, TurboTax's chief product officer; Julie Zimmerman, Intuit's customer experience director; and Karla Uribe, who led Intuit's AI accounting product.",
-      "category": "economics",
+      "url": "https://games.slashdot.org/story/26/11/22/0457218/how-does-gta-6-depict-electric-cars",
+      "title": "How Does GTA 6 Depict Electric Cars?",
+      "summary": "You will be successful in your work.",
+      "category": "technology",
       "bias": "center",
-      "publishedAt": "2026-11-20T10:00:04Z",
-      "source": "Business Insider"
+      "publishedAt": "2026-11-22T17:34:00Z",
+      "source": "Slashdot.org"
     }
   },
   {
     "article": {
       "id": "MTA=",
-      "url": "https://m.economictimes.com/markets/stocks/news/manappuram-muthoot-iifl-finance-shares-tumble-up-to-5-as-gold-hits-14-month-lows-why-is-the-yellow-metal-losing-its-shine/articleshow/136013906.cms",
-      "title": "Manappuram, Muthoot, IIFL Finance shares tumble up to 5% as gold hits 14-month lows. Why is the yellow metal losing its shine?",
-      "summary": "SynopsisShares of Muthoot Finance, Manappuram Finance and IIFL Finance fell on Friday as gold prices plunged to a 14-month low amid rising expectations of US Fed rate hikes and a stronger dollar.\nWhat is driving the sharp correction in bullion, how could it affect gold loan demand, and what lies ahead?",
-      "category": "economics",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T04:58:13Z",
-      "source": "Economictimes.com"
-    }
-  },
-  {
-    "article": {
-      "id": "MTE=",
-      "url": "https://www.businessinsider.com/gta-6-creator-economys-next-big-growth-engine-2026-11",
-      "title": "'GTA 6' Will Be the Creator Economy's Next Big Bonanza",
-      "summary": "\"Grand Theft Auto VI\" is poised to have a huge impact on the creator economy \u2014 long after Thursday's release date.\nBeyond those paid to promote the release, creators and livestreamers across the board are set to capitalize.\nAmazon's livestreaming platform Twitch is seeing double to triple the advertising demand for \"GTA\" content compared with a year ago, meaning some streamers could see their revenue triple.\n\"'GTA 6' content will be suffocating every other content for a long, long time.\n\"GTA 6's\" use of non-gaming creators shows how brands can use creators to reach new consumer groups, Rawitz said.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-20T12:35:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MTI=",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-      "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
-      "summary": "Nvidia's worst week on record just got worse.\nNvidia (NVDA) stock fell 14% Friday, its worst day since the DeepSeek rout in January 2025 and its seventh straight loss, before bouncing nearly 4% in after-hours trading.\nThe drop came as Reuters reported that the Securities and Exchange Commission's probe of the chipmaker is examining potential accounting issues.\nNvidia shed about $490 billion in market value Friday and nearly $900 billion this week, as its stock had its worst week since October 2008.\nSince its Oct. 6 record, Nvidia has lost about $2.7 trillion in market value, more than the $2.5 trillion that The Kobeissi Letter called the biggest 45-day loss for any stock in history.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-20T20:22:41Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "MTM=",
       "url": "https://www.cnet.com/roadshow/automobiles/2028-hyundai-elantra-hybrid-sedan-ai-assistant-la-auto-show/",
       "title": "New Hyundai Elantra Hybrid Debuts With 53 Mpg, AI in the Dash",
       "summary": "Hyundai pulled back the cover on the new 2027 Elantra sedan and 2028 Elantra Hybrid this week at the LA Auto Show, and, wow, it looks like nothing else in its class.\nThe humble Hyundai Elantra hasn\u2019t historically been a sexy car, but it remains an important one for the brand.\nThe new dashboard design pushes the instrument cluster away from the driver and toward the windshield.\nThe redesigned Elantra and Elantra Hybrid should arrive in the US next year.\nHowever, based on the stated model years, which are usually slightly offset from calendar years, I expect the 2027 Elantra sedan to arrive in early 2027, with the 2028 Elantra Hybrid following in late 2027.",
@@ -169,7 +133,19 @@
   },
   {
     "article": {
-      "id": "MTQ=",
+      "id": "MTE=",
+      "url": "https://abcnews.com/US/kalshi-prediction-market-crippled-judge-grants-restraining-order/story?id=138329957",
+      "title": "Administration tries to intervene after Kalshi is threatened with restraining order",
+      "summary": "Administration tries to intervene after Kalshi is threatened with restraining orderKalshi logo is seen in this illustration taken, August 3, 2026.\nKalshi logo is seen in this illustration taken, August 3, 2026.\nKalshi logo is seen in this illustration taken, August 3, 2026.\nKalshi logo is seen in this illustration taken, August 3, 2026.\nKalshi logo is seen in this illustration taken, August 3, 2026.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-11-21T00:49:33Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTI=",
       "url": "https://www.wired.com/story/best-laptops-for-travel/",
       "title": "Best Laptops for Travel (2026): Which to Take on the Road",
       "summary": "In some cases, my favorite overall laptop doesn\u2019t translate into the one I want to travel with.\nFortunately, there are many great travel laptops, and you\u2019ll still appreciate them when you aren\u2019t on the road.\nOf the hundreds of laptops I\u2019ve tested in my life, here are the ones I always choose to travel with.\nThe Smallest Laptop to Travel WithIf there\u2019s an obvious pick for the best travel laptop, it\u2019s the Dell XPS 13.\nThe key dimension to pay attention to on the XPS 13 is the depth, which is crucial for air travel.",
@@ -181,31 +157,103 @@
   },
   {
     "article": {
+      "id": "MTM=",
+      "url": "https://m.economictimes.com/markets/commodities/news/mcx-gold-prices-rise-rs-2800/10g-after-5-day-fall-silver-jumps-rs-3600/kg-despite-increasing-rate-hike-bets-heres-why/articleshow/136089223.cms",
+      "title": "MCX gold prices rise Rs 2,800/10g after 5-day fall, silver jumps Rs 3,600/kg despite increasing rate hike bets. Here\u2019s why",
+      "summary": "It seems like you're already an ETPrime member withLogin using your ET Prime credentials to enjoy all member benefitsLog out of your current logged-in account and log in again using your ET Prime credentials to enjoy all member benefits.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-11-23T04:36:20Z",
+      "source": "Economictimes.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTQ=",
+      "url": "https://www.businessinsider.com/downsized-built-tiny-home-living-in-backyard-lessons-2026-11",
+      "title": "I\u2019m house-hacking by living in a shed in my backyard. Here are 4 things I learned from building a tiny home and downsizing.",
+      "summary": "She didn't expect she'd be laid off a year later, or that she'd eventually struggle to afford her $4,000 monthly mortgage.\n\"That's when I came up with the idea to build a little structure in my backyard to live in.\"\nIn 2025, Patton bought a 100-square-foot shed kit for about $8,500 and built it herself.\nShe lives in the backyard tiny home and rents out her main house on Airbnb.\nHere are four things Patton has learned about building and living in a tiny home.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-11-21T13:16:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
       "id": "MTU=",
+      "url": "https://cheezburger.com/47457029/employee-raises-millions-of-dollars-for-workplace-is-fired-days-later-for-performance-issues-my",
+      "title": "Employee raises millions of dollars for workplace, is fired days later for 'performance' issues: 'My manager won't even give me a text back'",
+      "summary": "Chronic Thanksgiving host refuses to have guests over after they criticized her cooking last year: \u2018If someone is going to critique a free meal I spent two days cooking, I shouldn\u2019t be obligated to do it again\u2019",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-11-22T17:30:00Z",
+      "source": "Cheezburger.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTY=",
+      "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
+      "title": "Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts'",
+      "summary": "Elon Musk said AI companies may soon run into serious cash shortages as they wait for revenue-generating data centers to come online.\n\"The cash shortage is also going to be nuts next year,\" Musk said, adding that delays in data center activations would require \"hundreds of billions\" in more capital for AI companies.\nAdd to Preferred SourcesCompute is largely provided by data centers, which have faced their own series of setbacks recently, from backlash from the communities where they are being built to the blue midterm wave and construction delays.\nAnd without a reliable network of data centers, AI companies are hobbled in their ability to scale to meet investor demand.\nData center operators, meanwhile, are left at the altar with their multibillion-dollar investments failing to generate revenue.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-22T17:49:56Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTc=",
+      "url": "https://goodmenproject.com/featured-content/are-american-voters-actually-gloomy-about-the-economy-or-is-something-else-going-on/",
+      "title": "Are American Voters Actually Gloomy About the Economy, or Is Something Else Going On?",
+      "summary": "This debate matters politically because voters are placing an overwhelming priority on the economy as an issue in the midterms.\nMeanwhile, the overall drop in voters\u2019 economic outlook has largely been driven by growing pessimism among Republicans.\nInflation-adjusted wages actually increased between 2022 and the first half of 2026, all while consumer sentiment remained weak.\nIn short, Americans\u2019 economic malaise might be driven by concerns over income and wealth that conventional measures don\u2019t fully capture.\nIf consumer sentiment follows a similar path, that could explain the divergence between generally strong economic trends and weak consumer sentiment.",
+      "category": "economics",
+      "bias": "left",
+      "publishedAt": "2026-11-23T06:00:00Z",
+      "source": "The Good Men Project"
+    }
+  },
+  {
+    "article": {
+      "id": "MTg=",
+      "url": "https://cheezburger.com/47443461/whats-a-cheap-people-habit-you-tried-once-and-realized-was-actually-genius-people-share-their-money",
+      "title": "'What's a \"cheap people\" habit you tried once and realized was actually genius?': People share their money-saving hacks to spend responsibly",
+      "summary": "Hotel employee gets lazy manager fired over last-minute schedule changes, gets blamed by coworkers when his replacement actually makes them work: \u2018They constantly say how I made everything worse'",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-11-21T13:00:00Z",
+      "source": "Cheezburger.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTk=",
       "url": "https://news.slashdot.org/story/26/11/21/0651203/will-ai-fueled-cyberattacks-lead-to-better-funding-for-critical-open-source-projects",
       "title": "Will AI-Fueled Cyberattacks Lead to Better Funding for Critical Open Source Projects?",
-      "summary": "Heisenberg may have slept here...",
+      "summary": "You will be successful in your work.",
       "category": "technology",
-      "bias": "left",
+      "bias": "center",
       "publishedAt": "2026-11-21T19:00:00Z",
       "source": "Slashdot.org"
     }
   },
   {
     "article": {
-      "id": "MTY=",
-      "url": "https://www.cnet.com/tech/services-and-software/outages-and-cyberattacks-everything-is-breaking-is-it-ai/",
-      "title": "Everything Is Falling Apart, and AI\u2019s Fingerprints Are All Over It",
-      "summary": "Something must be behind all of this, you might think\u2014a massive cyberattack campaign, maybe or AI agents running amok across the internet?\nHe says he\u2019d been getting a bit bored with the work after decades of the same techniques until the cyber capabilities of AI models started to explode at the end of 2025.\nNew AI models were great at finding weaknesses in code, and AI agents could do the boring, time-consuming part.\nAnd attackers have better tools to refine the often blunt instruments of AI models \u2014 harnesses.\nThat means the problem isn\u2019t just the vulnerabilities in existing software, but the vulnerabilities being written into new software or patches to existing software by AI.",
+      "id": "MjA=",
+      "url": "https://www.bbc.co.uk/news/articles/c6d912e1420eo",
+      "title": "Inside the heated debate over Scotland's data centres",
+      "summary": "There is strict security in place as we enter what looks like a nondescript office building on the outskirts of Airdrie.\nWe are stepping into a facility at the centre of a heated debate about the growth in data centres in Scotland.\nOpponents argue that centres like this one are of no benefit to the local community and damage the environment.\nDataVita claims its operations in North Lanarkshire are providing jobs and securing \"data sovereignty\" in Scotland.\nThey can process sensitive or valuable data; the companies who run them like to stay in the background.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-20T13:30:23Z",
-      "source": "CNET"
+      "bias": "center",
+      "publishedAt": "2026-11-23T06:01:16Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "MTc=",
+      "id": "MjE=",
       "url": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
       "title": "Anthropic says it will put humanity first. Will its IPO change that?",
       "summary": "But now that Anthropic is a public company, that commitment faces a new test.\nAmodei has repeatedly warned about the potential threats advanced AI models pose to humanity, particularly if they escape the control of their developers.\nThat arrangement could create a potential route for founders and shareholders to override the trust's influence over company decisions, legal experts interviewed for this article said.\nOpenAI also plans to go public, and filed preliminary IPO paperwork with the Securities and Exchange Commission in June, shortly after Anthropic.\nA November 2026 assessment by AI research nonprofit METR concluded that Anthropic's AI capabilities were improving at about twice the previous rate.",
@@ -217,127 +265,43 @@
   },
   {
     "article": {
-      "id": "MTg=",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users\u2019 messages and other data.\n\u201cWe want to be very clear: it is a serious problem that Signal \u2013 and application developers beyond \u2013 lack robust tools to prevent AI agents from undermining application-level privacy,\u201d Whittaker said.\n\u201cEven where we are able to detect and block AI data access, Google, Apple, Microsoft, and others do not provide ways for developers to easily restrict such AI data access without making drastic compromises to the core user experience.\nSignal also says more tools are needed to prevent third-party agents, like Meta\u2019s Muse, from using deep accessibility settings in apps like a \u201cskeleton key\u201d to access application data.\n\u201cSignal is the canary in the coal mine, but this affects the entire ecosystem and should galvanize anyone who cares about these fundamental rights.\u201d",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T12:30:47Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MTk=",
-      "url": "https://www.businessinsider.com/anthropic-stock-price-ipo-kospi-index-ai-trade-volatility-selloff-2026-11",
-      "title": "Nasdaq Is Down for the Year After Anthropic IPO Doesn't Soothe AI Jitters",
-      "summary": "US tech shares fell sharply on Friday, with the Nasdaq Composite dropping nearly 3% to turn slightly negative for 2026.\n\"Hopes that the Anthropic IPO would boost risk sentiment and trigger a recovery proved short lived,\" Kathleen Brooks, research director at trading platform XTB, said in a morning note.\nInvestors are increasingly looking for evidence that enormous spending on AI can generate sustainable profits, rather than simply fuel growth.\n\"It\u2019s difficult to envisage sustained upside in Anthropic without a broader recovery in risk appetite.\nFor now, selling rallies appears the more compelling tactical approach, with the risk of further downside across both Anthropic and the wider AI complex,\" Weston wrote.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-20T04:32:53Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MjA=",
-      "url": "https://www.businessinsider.com/gta-6-take-two-interactive-ceo-ai-helpful-office-admin-2026-11",
-      "title": "'GTA 6' was made by humans, but its publisher is all for using AI on admin",
-      "summary": "\"Grand Theft Auto 6\" may have been painstakingly crafted by humans, but the publisher behind it has been embracing AI in its back office.\n\"People are using this technology to make their work less mundane, more interesting, more value-added, and to be more productive,\" he said.\nZelnick said that using AI has made it more efficient to complete some banal tasks.\nZelnick has previously emphasized that no generative AI was used to create \"GTA 6.\"\nOutside the creative aspects, though, Zelnick believes AI can make parts of the work easier.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-20T14:06:33Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MjE=",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
-      "summary": "And you ought to take advantage of the data centers.\nBut if it\u2019s not this country, there\u2019s somebody else outside.\nWe\u2019re not going to allow our companies to build data centers outside of our country.\nAnd we\u2019re not going to allow companies to build data centers in other countries.\nIf they do that, they can, but we\u2019re going to put a tremendous tax on them.",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-11-20T18:50:19Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
       "id": "MjI=",
-      "url": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014",
-      "title": "USDA hit with cyberattack: Sources",
-      "summary": "The U.S. Department of Agriculture was hit with a cyberattack, according to multiple sources familiar with the situation.\nUSDA Under Secretary Richard Fordyce has confirmed that this is a cybersecurity incident, and the disruption appears to be in its fifth day.\n\"USDA needs to explain what happened, what information may have been accessed, and when farmers can make and receive payments again,\" he said in the statement.\nThe U.S. Government Accountability Office is warning that the nation's food sector is increasingly susceptible to cybersecurity threats.\nThe GAO has issued recommendations for changes to the Department of Health and Human Services and the USDA.",
+      "url": "https://www.businessinsider.com/accounting-firms-ai-tech-innovators-wolters-kluwer-report-2026-11",
+      "title": "Accounting firms are racing to use AI. Most still lack the infrastructure to make it work, according to a new report.",
+      "summary": "Wolters Kluwer Tax & Accounting sells software and tools to tax, accounting, and audit firms.\nOn that measure, accounting firms are moving quickly: 88% of US professionals said they use generative AI for daily work, and 68% said the same for agentic AI.\nWhat US accounting firms aren't achieving is a sophisticated tech infrastructure to back up their appetite for the new technology, according to the study.\nSenior executives tend to say that the shift makes accounting work more exciting and people-focused.\nEnsuring big operational change, rather than simply adding AI tools to existing processes, is the next challenge, the report said.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-20T16:51:52Z",
-      "source": "Abcnews.com"
+      "bias": "center",
+      "publishedAt": "2026-11-22T09:45:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MjM=",
-      "url": "https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514",
-      "title": "White House replaces national cyber director amid widespread tech outages",
-      "summary": "National Cyber Director Sean Cairncross speaks at Semafor's Silicon Valley and the World conference in Menlo Park, Calif., Nov. 16, 2026.\nNational Cyber Director Sean Cairncross speaks at Semafor's Silicon Valley and the World conference in Menlo Park, Calif., Nov. 16, 2026.\nNational Cyber Director Sean Cairncross speaks at Semafor's Silicon Valley and the World conference in Menlo Park, Calif., Nov. 16, 2026.\nNational Cyber Director Sean Cairncross speaks at Semafor's Silicon Valley and the World conference in Menlo Park, Calif., Nov. 16, 2026.\nThe White House has replaced National Cyber Director Sean Cairncross, the administration's top cybersecurity adviser, amid a wave of technology outages that hit major companies and government agencies.",
+      "url": "https://tech.slashdot.org/story/26/11/22/0514226/aptera-completes-its-first-solar-electric-vehicle-for-customer-delivery",
+      "title": "Aptera Completes Its First Solar Electric Vehicle for Customer Delivery",
+      "summary": "The relative importance of files depends on their cost in terms of the human effort needed to regenerate them.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-20T14:49:01Z",
-      "source": "Abcnews.com"
+      "bias": "left",
+      "publishedAt": "2026-11-22T12:34:00Z",
+      "source": "Slashdot.org"
     }
   },
   {
     "article": {
       "id": "MjQ=",
-      "url": "https://www.cnet.com/tech/services-and-software/google-gemini-clears-firefighter-radio-static/",
-      "title": "Google Gemini Partners With Watch Duty to Clear Static From Firefighter Radio",
-      "summary": "On Friday, Google\u2019s Gemini team announced the results of a new partnership with the wildfire-tracking app Watch Duty, after Gemini engineers spent six months embedded with Watch Duty\u2019s first responders.\nThe alert stemmed from a nearly unintelligible, static-filled 911 call that the Gemini tool transcribed in under 30 seconds.\nThe project was completed at no cost thanks to a Google.org fellowship, and the resulting Watch Duty app features are free to use.\nWatch Duty/CNETFrom the data collected, Gemini engineers and Watch Duty identified several measures of success.\nAnother sign of success was a jump in Watch Duty volunteers\u2019 satisfaction with their radio transcription tools, from around 35% to 92%.",
+      "url": "https://science.slashdot.org/story/26/11/22/2031237/the-new-riemann-hypothesis-proof-has-been-confirmed-in-mathliblean-communities",
+      "title": "The New 'Riemann Hypothesis' Proof Has Been Confirmed in Mathlib/Lean Communities",
+      "summary": "The relative importance of files depends on their cost in terms of the human effort needed to regenerate them.",
       "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-20T17:00:16Z",
-      "source": "CNET"
+      "bias": "left",
+      "publishedAt": "2026-11-22T20:51:00Z",
+      "source": "Slashdot.org"
     }
   },
   {
     "article": {
       "id": "MjU=",
-      "url": "https://www.businessinsider.com/artificial-movie-poster-mimics-ai-slop-hand-drawn-sam-altman-2026-11",
-      "title": "A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible",
-      "summary": "A new poster for \"Artificial\" \u2014 Luca Guadagnino's movie about OpenAI \u2014 is full of the kind of mistakes you might expect from an AI image generator.\nAt first glance, it looks like a pretty normal poster: Andrew Garfield, who plays OpenAI CEO Sam Altman, stands on a wooded path overlooking San Francisco Bay.\nGarfield's Altman describes an uncertain future and says, \"We get to be the ones to shepherd people into this new world.\"\nThe day before the poster was released, Altman was asked about the film at a New York Times DealBook summit.\nAltman said a movie about him would have seemed strange 20 years ago.",
-      "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-11-20T13:10:50Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MjY=",
-      "url": "https://www.yahoo.com/news/articles/white-house-national-cyber-director-222714781.html",
-      "title": "Trump ousts cyber director after tech outages spark criticism",
-      "summary": "By Courtney RozenWASHINGTON, Nov 19 (Reuters) - White House national cyber director Sean Cairncross was fired from his job, a person close to the White House said on Thursday, days \u200cafter technology outages disrupted US air travel, banking and national security systems.\nPresident Donald Trump \u200cconfirmed the firing at a news conference at the White House on Friday, saying he \"didn't think that person was good \u200benough.\"\n\"The president fully supported firing Sean Cairncross from his \u200bposition,\" said the person, who spoke on \u200ccondition of anonymity.\nThe recent technology disruptions are likely linked to corporate efforts to rapidly patch newly discovered software vulnerabilities in the AI age, cybersecurity experts told Reuters.\nAdvertisement AdvertisementCairncross was an \u200bexecutive at the Republican National Committee before assuming the cyber director role.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-20T01:08:55Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjc=",
-      "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
-      "title": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
-      "summary": "Rather than being a giant floating slab of thinky meat that can do telepathy, Motherbrain is a studio dedicated to doing development stuff with generative AI.\nAs you might expect, it consists of the folks who worked on Ubisoft's \"first playable generative AI experience\".\nMotherbrain's reveal as \"a dedicated subsidiary focused on AI for gameplay innovation\" came via Ubisoft's latest earnings report, where the company trumpeted that their \"new operating model\" is \"now fully in place\".\nChanges to remote working policies have also contributed to strikes at Ubisoft studios in France and Italy.\nAh well, at least there's seemingly money there to support the developing of those proprietary technologies infused with genAI brainiacery.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-20T12:09:30Z",
-      "source": "Rock Paper Shotgun"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjg=",
       "url": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo",
       "title": "AI is being used to clone real people's videos",
       "summary": "Is this real or AI?\nIt is a question increasingly asked underneath social media videos, and often difficult to tell.\nAcross social media, AI-generated characters are appearing in videos that look remarkably similar to those posted by real people.\nExperts call the practice \"reskinning\" and say it is made possible by cheap, easy-to-use AI tools.\nOthers appear to be experimenting with AI to make people laugh or simply for the attention that comes with going viral.",
@@ -349,79 +313,127 @@
   },
   {
     "article": {
-      "id": "Mjk=",
-      "url": "https://www.businessinsider.com/trump-warning-building-overseas-data-centers-2026-11",
-      "title": "Trump threatens a 'tremendous tax' on tech companies building data centers outside the US",
-      "summary": "Donald Trump gave a stark warning to companies looking to build data centers overseas.\nTrump said at Friday's White House press briefing that his administration would impose a \"tremendous tax\" on companies that build data centers outside the US, adding that \"China will take all of them.\"\n\"We're not going to allow our companies to build data centers outside of our country,\" Trump said.\nCompanies often build abroad to serve regional users, meet local data requirements, improve reliability, or secure available power and land while avoiding battles at home.\n\"You have to take advantage of the data centers,\" Trump said, addressing local representatives.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T22:29:03Z",
+      "id": "MjY=",
+      "url": "https://news.slashdot.org/story/26/11/22/2339252/americas-shipping-ports-now-face-thousands-of-cyberattacks-each-day",
+      "title": "America's Shipping Ports Now Face Thousands of Cyberattacks Each Day",
+      "summary": "The relative importance of files depends on their cost in terms of the human effort needed to regenerate them.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-23T02:34:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjc=",
+      "url": "https://www.businessinsider.com/ex-googler-forward-deployed-engineer-job-2026-11",
+      "title": "An Ex-Googler Became a Forward Deployed Engineer, Why He Loves the Job",
+      "summary": "This as-told-to essay is based on a conversation with Paden Gayle, a forward deployed engineer at Notion, and the author of \"The Forward Deployed Engineer.\"\nI went on to work at Accenture as a technology analyst, and then at Bloomberg and Google as a software engineer.\nIn the years following the release of ChatGPT in 2022, I grew fearful of how AI would affect software engineering jobs.\nA mix of software engineering and consultingWhen I learned more about the role, I felt it was a mixture of my role in software engineering and consulting.\nIn my experience, the FDE role involves more out-of-the-box thinking than a traditional software engineer.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-21T10:17:01Z",
       "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MzA=",
-      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-      "summary": "NASA\u2019s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed funding.\nNASA\u2019s SBIR/STTR program provides support for entrepreneurs, startups, and small businesses to advance and commercialize technologies that can advance the agency\u2019s missions.\nA portion of the projects selected are STTR awards, provided to small businesses partnered with research institutions.\nThe technology could help automate many lunar surface tasks, such as cleaning solar panels, positioning habitat structures, and collecting scientific samples from hard-to-reach locations.\nThis battery technology could help keep rovers, habitats, and other infrastructure running through the frigid, 14-day lunar night and potentially on Mars.",
+      "id": "Mjg=",
+      "url": "https://www.businessinsider.com/bayesline-founders-ai-startup-culture-disagree-and-commit-2026-11",
+      "title": "Bayesline Founders Say AI Is Causing Them to Lead Differently",
+      "summary": "Years before they started a company together, Sebastian Janisch and Misha van Beek became accidental roommates under tough circumstances.\nVan Beek had expected to crash at Janisch's New York apartment for a couple of weeks.\nLiving in close quarters exposed their differences: Janisch, the orderly future CEO, and van Beek, who jokingly describes himself as \"complete chaos.\"\nJanisch and van Beek had to learn to manage their differences during the six months they were roommates.\nJanisch would turn the shirts van Beek had hung up to dry so they faced the same direction.",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T20:46:14Z",
-      "source": "NASA"
+      "bias": "left",
+      "publishedAt": "2026-11-22T10:41:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MzE=",
-      "url": "https://www.cnet.com/tech/services-and-software/meta-sustainability-report-2026-carbon-emissions-ai/",
-      "title": "Meta\u2019s Carbon Emissions Went Up 45% Last Year. AI Is Making It Worse",
-      "summary": "But like every Big Tech company, Meta is sacrificing its climate goals for artificial intelligence and the data centers needed to run it.\nMicrosoft, Amazon and Google have also all backtracked on their climate goals in their rush to build hyperscale data centers, the turbocharged server farms needed to keep AI online.\nTake one of Meta\u2019s Louisiana data centers, Hyperion, for example.\nWhen it comes online in 2030, it\u2019s expected to create two gigawatts of capacity for AI, with the ability to scale in the future.\nBut, again, AI has made an indelible mark on those efforts.",
+      "id": "Mjk=",
+      "url": "https://www.cnet.com/tech/services-and-software/google-home-page-new-ai-features/",
+      "title": "Even the Iconic Google Home Page Can\u2019t Survive the Push for More AI",
+      "summary": "The Google Search button is gone, but the I\u2019m Feeling Lucky button remains.\nMore from CNETThree new AI-related buttons replace the iconic Google Search button.\nGoogle/Screenshot by CNETWhen signed out, I was only able to see the typical home page, with the only AI button being AI Mode, which has been there since May 2025.\nIt\u2019s the same image-generation tool you can use on other Google platforms such as the Gemini app, Google AI Studio and AI Mode in Search.\nSo schools declining AI will not be able to search using Google at all.",
       "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T19:42:29Z",
+      "bias": "right",
+      "publishedAt": "2026-11-21T00:01:44Z",
       "source": "CNET"
     }
   },
   {
     "article": {
+      "id": "MzA=",
+      "url": "https://www.nature.com/articles/d41586-026-03795-5",
+      "title": "How AI shocks are rattling the next generation of mathematicians \u2014 in charts",
+      "summary": "The proposed proof, which is still being scrutinized, is the latest in a series of spectacular AI advances in mathematics that are upending the field.\nMathematicians astounded by AI and human-written proofs of iconic Riemann hypothesisBut the technology\u2019s rapid progress is making early-career mathematicians anxious about the impact that it will have on their futures, according to two studies released in October.\nIt surveyed people at all career stages, but the respondents were limited to UK mathematicians.\nCareer uncertaintyMany mathematicians interviewed by Nature say that the survey results match what they have been hearing from their peers.\nOf those respondents who do use AI tools, more than half said that they dislike doing so, and only around 30% said that they enjoy using them.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "source": "Nature.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MzE=",
+      "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
+      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+      "summary": "Apple's recent Siri layoffs affected employees working on the assistant's older infrastructure rather than its newer AI systems, according to Bloomberg's Mark Gurman.\nDepending on the release, the roadmap and features for a major operating system update are largely determined by late summer or early fall of the preceding year.\nGurman argued that this structure leaves Apple with limited flexibility to respond to competitors' breakthroughs during the subsequent development cycle.\nApple is reportedly developing a more advanced AI agent, but Gurman does not expect it to arrive before late 2027.\n\u200cSiri\u200c's multistep control of Apple apps is expected to launch in December, with third-party app support following in 2027.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-22T20:29:51Z",
+      "source": "MacRumors"
+    }
+  },
+  {
+    "article": {
       "id": "MzI=",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-      "title": "Senate passes bipartisan energy bill amid environmental concerns",
-      "summary": "Senate passes bipartisan energy bill amid environmental concernstoggle caption i Jon Cherry/Getty ImagesAs Americans struggle with rising energy costs and increased demand driven by artificial intelligence, the Senate on Thursday passed a bipartisan bill that will speed up the approval process for data centers and power plants.\nWhitehouse also said the bill would make data centers pay for the power they use.\nThere has been considerable pushback by the public against data centers in the U.S., cutting across party lines.\nBut major environmental groups, including the Sierra Club and National Wildlife Federation , have opposed the bill, arguing it will weaken environmental accountability.\n\"I support cutting red tape and getting more energy projects built, but not at the expense of tribal sovereignty and California's environment,\" he said .",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-11-20T11:00:28Z",
-      "source": "NPR"
+      "url": "https://www.businessinsider.com/nvidia-neocloud-empire-fresh-threat-china-crackdown-2026-11",
+      "title": "Nvidia's neocloud empire lost its biggest champion. Washington may have dealt a bigger blow.",
+      "summary": "It's been a rough two weeks for neoclouds, which buy Nvidia's chips and rent compute out to businesses.\nFinally, interim CEO Colette Kress clarified on Nvidia's earnings call on Tuesday that the company's financial backing for neoclouds has limits.\nNow, those providers will need government licenses to serve Chinese customers, effectively barring them from doing so.\nThis signals to neoclouds that Nvidia's support is conditional.\nGil Luria, an analyst at DA Davidson, said lenders are already pulling back from neoclouds and predicted Nvidia's financial support would diminish.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-21T10:00:04Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "MzM=",
-      "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o",
-      "title": "What the Brussels summit could mean for the UK-EU Brexit deal",
-      "summary": "Andy Burnham is in Brussels attending a UK-EU summit alongside other European leaders, as the prime minister looks to reshape Britain's relationship with the bloc.\nThe BBC's political editor Chris Mason looks at the key topics and which agreements could be made around food, energy and youth mobility with the EU.\nFor the latest on this story.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-20T08:07:06Z",
-      "source": "BBC News"
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+      "title": "Climate change talks fall apart in final hours over fossil fuels",
+      "summary": "Climate change talks fall apart in final hours over fossil fuelstoggle caption i Khalil Hamra/APANTALYA, Turkey \u2013 International climate talks in Antalya, Turkey, broke down in overtime hours with a disagreement over how to address fossil fuels, the main cause of global warming.\nDisagreements on fossil fuelsThe disagreements over mentioning fossil fuels in climate conferences have a long, fractured history.\nSome fossil fuel producers like Norway and Mexico have recently wanted to include transitioning away from fossil fuels in the text.\nHowever, that pledge did not ultimately pass, says Alden Meyer, a senior associate at the climate change think tank E3G.\n\"We're not a nation that has the luxury of debating whether climate change is real for us,\" says Matthew Samuda, Jamaica's minister of water, environment and climate change.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-11-22T16:33:22Z",
+      "source": "NPR"
     }
   },
   {
     "article": {
       "id": "MzQ=",
-      "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up",
-      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-      "summary": "\u201cWhen we set our net zero emissions goal, we anticipated steady growth, falling clean energy costs, and changes in the broader system that would enable progress at the pace we envisioned.\nNet zero means eliminating emissions as far as possible and buying credits from carbon removal projects to offset those that cannot be eliminated.\nAbout 1,200 such \u201chyperscale\u201d data centres are online, and hundreds more are planned.\nGlobally, data centres used about 415 terawatt hours of electricity in 2024, about 1.5 percent of supply, and that could nearly double by 2030, according to the International Energy Agency.\nGoogle, which pledged in 2020 to run on carbon-free energy by 2030, said this year that its emissions were still rising.",
+      "url": "https://www.bbc.co.uk/news/articles/cmedq21jgq8xo",
+      "title": "Newspaper headlines: 'Complete COP-out' and Fury's 'torment'",
+      "summary": "Warning: This paper review contains references to suicideThe front page photo in the Guardian, external captures the anger at the UN climate talks.\nThe Times, external quotes a negotiator from the Marshall Islands, one of the most vulnerable states to rising sea levels: \"We will not compromise our future to benefit fossil fuel interests,\" they say.\nAhead of the release of a government report into disability benefits tomorrow, the Daily Telegraph, external suggests the prime minister risks \"a major rebellion from Labour MPs\".\nSeparately, the i Paper, external understands that plans are being drawn up to reform Universal Credit for people of all ages, which could open the door to new conditions for claimants.\nAccording to the Telegraph, external, Sir Idris said his life could have looked \"entirely different\" if he'd not received help from the Trust when he was young to train at the National Youth Music Theatre.",
       "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-11-20T01:29:28Z",
-      "source": "Al Jazeera English"
+      "bias": "right",
+      "publishedAt": "2026-11-23T02:24:41Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "MzU=",
+      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "title": "AI is becoming a disaster for the climate",
+      "summary": "Furthermore, as Emily Atkin writes at her great climate newsletter HEATED, the study, for a number of key reasons, \u201cgets nowhere near the actual amount of climate pollution\u201d data centers actually emit.\nThe findings of the Harvard study comport rather disconcertingly with those of another recent report, State of AI Climate Impact 2026, by the Australian climate researcher Ketan Joshi.\nImage by Janusz Walczak via UnsplashThe single biggest threat to AI data centers right now, however, is probably that everyone hates them.\nBAAJA supercharges AI data center expansion in exchange for token ratepayer protections.\nIn other words, the AI industry is quickly becoming not just a concern, but something more akin to a disaster for the climate.",
+      "category": "environment",
+      "bias": "right",
+      "publishedAt": "2026-11-22T12:19:46Z",
+      "source": "Bloodinthemachine.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MzY=",
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "summary": "Negotiations at the COP31 UN climate summit in Turkey are in deadlock and have been suspended for the night, after running more than a day over time, as countries have been unable to agree on a new global climate deal.\nThe EU and Pacific island nations are amongst a group pushing back against the latest draft agreement which included no reference to reducing the world's demand for fossil fuels.\nIf countries cannot reach consensus - which is required by the UN's climate talks process - the negotiations could be suspended.\nIn that case the summit would end with no deal and be reconvened next year.\nThis has only happened once before since countries started holding COP climate meetings in 1995.",
@@ -433,19 +445,43 @@
   },
   {
     "article": {
-      "id": "MzY=",
-      "url": "https://www.yahoo.com/news/politics/articles/trump-says-plans-penalize-us-174503646.html",
-      "title": "Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash",
-      "summary": "But he warned it could fall behind if a growing political backlash puts the brakes on development of the data centers that are driving the AI boom.\n\"We're not going to allow companies to build data centers in other countries,\" the president said.\nHe suggested that data center concerns could be addressed through community negotiations with the tech companies seeking to build them.\nThe development of artificial intelligence is an important growth factor for data centers, but cloud computing services remain the dominant use of data centers in the U.S., industry officials say.\nTrump's threat to penalize companies that build data centers overseas reflects his view that the buildout is a boon for the U.S. economy.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T17:45:03Z",
-      "source": "Yahoo Entertainment"
+      "id": "Mzc=",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+      "title": "COP31 climate talks fail to reach deal amid fossil fuel and money rows",
+      "summary": "Countries have failed to reach a major new deal to tackle climate change after deep divisions over fossil fuels and money emerged at the UN COP31 talks in Turkey.\nBut the final deal proved unacceptable to the EU, Pacific island nations and others because it failed to directly mention fossil fuels, the main cause of global warming.\nMeanwhile, many poorer countries objected to the absence of any clear financial commitments from richer nations to help them adapt to the impacts of rising temperatures.\nBut the words \"fossil fuels\" did not appear anywhere in the text.\n\"It is unconscionable that we would have a climate pact that makes no mention of fossil fuels,\" he said.",
+      "category": "environment",
+      "bias": "right",
+      "publishedAt": "2026-11-22T18:17:59Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "Mzc=",
+      "id": "Mzg=",
+      "url": "https://hardware.slashdot.org/story/26/11/22/078255/quantum-computings-first-real-world-payoff-may-come-in-energy-solutions",
+      "title": "Quantum Computing's First Real-world Payoff May Come In Energy Solutions",
+      "summary": "Per buck you get more computing action with the small computer.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-22T08:34:00Z",
+      "source": "Slashdot.org"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzk=",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "summary": "The COP31 summit in Turkey came as evidence of climate change could not have been clearer - 2026 brought glacier collapses, record European heat, and wildfires across Asia - but also when geopolitical divisions could not have been deeper.\nThe result was the longest-running climate talks in UN history failed to deliver on its central political agreement \u2013 the Antalya Pacts - to further climate action.\nDespite two countries, Australia and Turkey, leading the charge in their joint hosting of the negotiations, they could not bring the nations together.\nAfter a dramatic and fractious final day where countries walked out over the absence of mention of fossil fuels in the text and money issues, questions are being asked more loudly than ever before about whether the COP process can still deliver.\nHere are five, key takeaways from the talks which the hosts hoped would become known as the \"implementation COP\".",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-11-23T06:33:50Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDA=",
       "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
       "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
       "summary": "Senate permitting bill speeds up renewables, divides greens over oil and gasA permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.\nTranscriptSCOTT SIMON, HOST:This week, the Senate passed a bipartisan bill that's meant to speed up construction of new energy infrastructure projects.\nBut this bill divides Democrats and some of their key allies.\nHere's one of the bill's authors, West Virginia Republican Shelley Moore Capito, talking up the bill on the Senate floor ahead of its final passage.\nWhile most clean-energy industry groups, labor unions and oil-gas companies are backing the bill, many environmental advocacy groups have opposed it.",
@@ -457,10 +493,10 @@
   },
   {
     "article": {
-      "id": "Mzg=",
+      "id": "NDE=",
       "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo",
       "title": "Will COP31 end with a new global climate deal?",
-      "summary": "Rohingya genocide: What was said in court and what happens now?\nVideo, 00:01:15Rohingya genocide: What was said in court and what happens now?",
+      "summary": "What the new UK-EU deal could mean for future post-Brexit relations.\nVideo, 00:01:42What the new UK-EU deal could mean for future post-Brexit relations",
       "category": "environment",
       "bias": "left",
       "publishedAt": "2026-11-21T22:44:52Z",
@@ -469,19 +505,43 @@
   },
   {
     "article": {
-      "id": "Mzk=",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
-      "title": "COP31: More climate money for Africa? Europe says use what's already pledged",
-      "summary": "A severe drought that began in April has destroyed crops, while food brought in from elsewhere has become increasingly unaffordable.\n\"Seven months without rain has brought us to this point where we now live in hunger,\" the 44-year-old farmer, who lives with his grandmother, wife and five children, told the BBC.\nLocal officials say more than 90% of crops have failed in the region, where agriculture is largely rain-fed.\nNkhambala fled to higher ground with his wife and four children as floodwaters swept through his village.\nAfter relocating and trying to rebuild his life, Nkhambala is now facing another climate challenge - this time a lack of rain.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-11-20T00:54:50Z",
-      "source": "BBC News"
+      "id": "NDI=",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "title": "How AI is powered: a breakdown of BYOP and grid power",
+      "summary": "But BYOP projects aren\u2019t the only new fossil sources that are coming online to meet the skyrocketing energy demands of AI data centers.\nMap of Anthropic\u2019s data centers and associated power plants.\nBy considering on-site gas and the grid power plants which are likely to meet Anthropic\u2019s added load (i.e.\nThis demand will be met with a mix of new on-site gas, new grid gas, and existing grid gas, coal, and nuclear.\nCalifornia power sector emissions are for all power plants operating within the state (source: EIA).",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-22T08:57:34Z",
+      "source": "Betterdatacenterproject.com"
     }
   },
   {
     "article": {
-      "id": "NDA=",
+      "id": "NDM=",
+      "url": "https://abcnews.com/International/russian-attacks-ukraines-energy-grid-intensify-ahead-winter/story?id=138313849",
+      "title": "Russian attacks on Ukraine's energy grid intensify ahead of winter",
+      "summary": "LONDON -- As Russian attacks on Ukraine's energy grid intensify ahead of winter, Hanna Grishkevich fears for her elderly mother, whose Kyiv apartment building depends entirely on electricity.\n\"Due to ongoing Russian attacks, the electricity supply situation can change rapidly.\"\nThis comes after Russia struck 12 Ukrainian regions overnight Wednesday, targeting power substations in the Zhytomyr, Chernihiv and Mykolaiv regions, Ukrainian Prime Minister Serhiy Koretsky said on social media.\nIn the first week of November alone, there were 278 Russian attacks on civilian infrastructure, according to Armed Conflict Location & Event Data Project (ACLED), a global conflict monitor.\nOn Nov. 3, Russian strikes stopped electricity generation at three of its five thermal power plants, causing blackouts, the company said.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-11-21T11:09:26Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NDQ=",
+      "url": "https://www.nature.com/articles/d41586-026-03827-0",
+      "title": "COP31 went down in flames over fossil fuels \u2014 it sends an important message",
+      "summary": "Anyone hoping for more action on climate change has lots of reasons to be disappointed by the COP31 summit that concluded in a dramatic overtime session on 22 November.\nNearly one hundred countries walked out without signing a \u2018cover decision\u2019 \u2014 a non-binding statement meant to push for ambitious action \u2014 because the document did not call on the world to transition away from fossil fuels.\nThe last time climate talks at a COP broke down this badly was in 2009 in Copenhagen.\nThe COP31 outcome wasn\u2019t inevitable.\nBut when language targeting fossil fuels disappeared from the draft cover decision following lobbying by oil-rich nations, a coalition of around 90 countries, led by the European Union and small island states, rejected an agreement.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "source": "Nature.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NDU=",
       "url": "https://hackaday.com/2026/11/21/thermite-powered-instant-phone-charger/",
       "title": "Thermite Powered Instant Phone Charger",
       "summary": "Thermite is an amazing material, using mostly easily obtainable ingredients like aluminium and iron(III) oxide in a redox reaction to create a rather spectacular amount of thermal energy in very little time.\nwelding railroad tracks, thermite has also seen use by the folk over at [The Thought Emporium] for less conventional uses like heating up hotdogs and more recently charging a cellphone.\nThe core of this thermite generator uses a similar thermoelectric cooling (TEC) plate, also known as a Peltier element.\nAfter spending most of the video discussing why RTGs are far superior, 300 grams of thermite is loaded into the chamber of this thermite generator.\nAlthough they managed to have a slow enough thermite reaction to give the TECs some time to churn out some power, ultimately its probably the most flashy and least productive way to charge up your phone.",
@@ -493,19 +553,55 @@
   },
   {
     "article": {
-      "id": "NDE=",
-      "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime",
-      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-      "summary": "EU warns COP31 risks turning into a \u2018fossil summit\u2019 as critical climate commitments are omitted from the draft deal.\nThe COP31 climate summit has gone into overtime as nearly 200 countries remain deadlocked over a draft deal that no longer mentions fossil fuels.\nThe fossil fuel fightAn opening draft from cohost and lead negotiator Australia on Monday called for a faster phase-out of fossil fuels.\nThe European Union said the draft \u201crisks turning this climate COP into a fossil summit\u201d.\n\u201cWe want to see the references to false solutions removed,\u201d said Vanuatu\u2019s climate minister, Ralph Regenvanu.",
+      "id": "NDY=",
+      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go",
+      "title": "What's next after no deal at COP31 climate summit?",
+      "summary": "What the new UK-EU deal could mean for future post-Brexit relations.\nVideo, 00:01:42What the new UK-EU deal could mean for future post-Brexit relations",
       "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-11-20T23:06:41Z",
+      "bias": "left",
+      "publishedAt": "2026-11-22T18:28:48Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDc=",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo",
+      "title": "Las Vegas Grand Prix: Harry Benjamin's driver ratings as Max Verstappen seals victory from pole position",
+      "summary": "Max Verstappen sealed his fourth win of the season with a stunning victory at a chaotic Las Vegas Grand Prix.\nHere are my ratings for how the drivers performed across the whole weekend in Vegas.\nHad genuine pace throughout and fought all the way back to second, finishing less than a second behind Verstappen.\nKimi Antonelli - 9.5/10Fastest of everyone in qualifying and a genuine contender for victory despite starting sixth because of his engine penalty.\nFastest in both second and final practice, qualified third and spent most of the race going toe-to-toe with Verstappen for the lead.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-22T09:35:05Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDg=",
+      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse",
+      "title": "\u2018Disappointing\u2019: Delegates react after COP31 climate talks end without deal",
+      "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term \u2018fossil fuels\u2019.\nUnited Nations climate talks have failed to secure a deal on how to deal with climate change, prompting UN Secretary-General Antonio Guterres to express \u201ca very profound frustration\u201d.\nThe last time the annual UN climate talks failed to end in an agreement was in Copenhagen in 2009.\nCOP31 presidentMurat Kurum, Turkiye\u2019s minister of environment, urbanisation and climate change, said: \u201cWe did everything we could.\nWe will implement existing decisions.\u201dCOP31 president of negotiationsChris Bowen, Australia\u2019s minister of climate change and energy, called the collapse of the talks \u201cvery disappointing\u201d.",
+      "category": "environment",
+      "bias": "left",
+      "publishedAt": "2026-11-22T16:33:26Z",
       "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NDI=",
+      "id": "NDk=",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
+      "title": "Job ghosting: What applicants can do if employers do not respond",
+      "summary": "Have you ever applied for a job or attended an interview, only to hear absolutely nothing back from the employer?\nSo-called \"job ghosting\" has become a big problem for jobseekers in the UK, leaving them \"demoralised\", denting their confidence and undermining their hopes of finding work.\nAmong his recommendations - aimed at reducing the proportion of Neets from 13% to about 5% by 2036 - Milburn proposed that large employers should give all unsuccessful job applicants under 25 \"meaningful feedback\".\nBut is feedback for all applicants realistic, given the vast number of applications these firms receive?\nYugraj Samrai, 23, from Coventry is currently unemployed and says he has submitted hundreds of job applications since he graduated from his marketing degree in July.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-11-22T00:04:07Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NTA=",
       "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
       "title": "COP31: New draft deal aims to avert collapse of talks at climate summit",
       "summary": "Efforts to avert the collapse of talks at the UN COP31 summit have faced further delays on the second day of overtime, as countries struggle to reach a new global climate deal.\nCountries were expected to reconvene to decide whether to approve a new deal, but that meeting was delayed on Sunday morning.\nThe president of the talks, Turkey's Environment Minister Murat Kurum, told the BBC he was \"hopeful\" of a breakthrough as he entered the summit on Sunday.\nThe EU and Pacific states had been arguing against the removal of fossil fuels from the draft text.\nIf countries cannot reach consensus - as required by the UN's climate talks process - the negotiations could be suspended until next year.",
@@ -517,43 +613,7 @@
   },
   {
     "article": {
-      "id": "NDM=",
-      "url": "https://hackaday.com/2026/11/21/capturing-and-mineralizing-atmospheric-carbon-dioxide/",
-      "title": "Capturing And Mineralizing Atmospheric Carbon Dioxide",
-      "summary": "That said, even at a mere 400 ppm it\u2019s already a problem, so capturing it seems like a good idea.\nBy mineralizing the carbon dioxide it should end up in a stable form that will last the ages.\nUltimately this experiment removed 4.3 grams of carbon dioxide from the atmosphere, corresponding to about 2 liters.\nDirect air capture of carbon dioxide makes little sense at this point, as the calculations in the video also show by scaling up this experiment.\nEven when you talk about carbon capture and storage/sequestration (CCS) directly at the source of the air pollution the economics are iffy, albeit it significantly more realistic.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-11-22T03:00:36Z",
-      "source": "Hackaday"
-    }
-  },
-  {
-    "article": {
-      "id": "NDQ=",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "summary": "Donald Trump has said he will ban US companies from building AI data centres overseas, threatening a \"tremendous tax\" for tech firms who do so.\nData centres were a central issue in the midterm elections earlier in November, with many Democratic candidates promising tougher regulation on their construction.\nTech giants including Meta and Google have entered agreements to build data centres overseas.\nBut whether that idea will become policy remains unclear.\nThe move will impact South East Asian countries that have invested heavily in data centres, as Chinese companies seek to rent computing power from overseas.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-20T19:51:52Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDU=",
-      "url": "https://hackaday.com/2026/11/21/lidar-glasses-for-the-visually-impaired/",
-      "title": "LiDAR Glasses For The Visually Impaired",
-      "summary": "The human brain has a fairly remarkable ability to take any sensory input and convert it into another type.\nMost notably, those with vision impairments can use systems that produce sound from what they see in the environment, with the brain learning to process this information visually after some time.\nTouch is another sense that can be remapped to vision, and [DebackTech] has come up with this system which uses a series of vibration motors to assist the visually impaired.\nThis system specifically uses a pair of glasses that have LiDAR built in.\nThe computer processes this and outputs its findings immediately to a shirt with an array of vibration motors sewn into it.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-21T15:00:59Z",
-      "source": "Hackaday"
-    }
-  },
-  {
-    "article": {
-      "id": "NDY=",
+      "id": "NTE=",
       "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
       "title": "They were fined $811m for conning migrants - the scams didn't stop",
       "summary": "Her friends had paid her bail, and she wanted to look presentable when she was finally released.\nHer friends had wired $2,600 (\u00a31,970) to a bond company, Libre Immigration Services (LIS), that had been recommended by her lawyer.\nLIS said it would begin \"the process of paying her immigration bond\".\nWhat she didn't know was that LIS was owned by a convicted fraudster, who had acquired the assets of another bail company co-founded by two men who also had fraud convictions.\nTheir firm, Libre By Nexus, which was at one point the largest immigration bail company in America, had appeared to shut down after federal regulators caught up with them.",
@@ -565,19 +625,19 @@
   },
   {
     "article": {
-      "id": "NDc=",
-      "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo",
-      "title": "Anti-migrant activist Daniel Thomas jailed for slashing migrant dinghy",
-      "summary": "Anti-migrant activist Daniel Thomas has been jailed for 15 months for slashing a dinghy with a knife in the English Channel.\nThe 37-year-old, known to his supporters as Danny Tommo, live-streamed himself cutting the boat while a French rescue worker was on board in September.\nThomas founded the anti-migrant group Patriot Platform, which was behind protests in Portsmouth and Dover involving masked men in September.\nHe said \"let's get rid of that boat\" before slashing it about eight times, the court heard.\nAfter slashing the boat, he shouted at the rescue worker: \"Get off the boat, you've got time to get off the boat,\" the court heard.",
+      "id": "NTI=",
+      "url": "https://www.yahoo.com/news/us/articles/lawyer-father-daughter-detained-ice-233153265.html",
+      "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism",
+      "summary": "A father and daughter detained by masked immigration officers on an airport jet bridge in Seattle, causing chaos in front of other passengers, were heading to a family baptism ceremony in California, their lawyer said Sunday.\n\"They've done everything correctly, and these are educated people,\" Catala said of the father and daughter.\nDuring the confrontation, another passenger \"hurled hot coffee on the officers,\" the ICE statement said.\nMejia's husband was accompanying Mejia and her father when they were detained Saturday, Catala added.\nAlaska Airlines said ICE officers gave no advance notice of the enforcement action, which occurred during a busy travel weekend ahead of the Thanksgiving holiday.",
       "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T15:57:38Z",
-      "source": "BBC News"
+      "bias": "left",
+      "publishedAt": "2026-11-22T23:31:53Z",
+      "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NDg=",
+      "id": "NTM=",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border",
       "title": "Migrants caravan in Mexico walks towards US border",
       "summary": "Migrants caravan in Mexico walks towards US borderNewsFeed Migrants caravan in Mexico walks towards US borderAround 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.\nTheir journey comes amid pressure from President Donald Trump on Mexico to curb migration.",
@@ -589,19 +649,19 @@
   },
   {
     "article": {
-      "id": "NDk=",
-      "url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat",
-      "title": "UK far-right activist \u2018Danny Tommo\u2019 jailed for slashing migrant boat",
-      "summary": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.\nA British far-right anti-immigration activist has been jailed for 15 months for criminal damage for slashing a small boat which had brought migrants from France to the United Kingdom.\nThomas livestreamed himself on September 22 as he followed a small boat \u2060\u2060carrying migrants across the Channel, who were transferred \u2060\u2060onto another vessel and taken ashore.\nThe 37-year-old later approached the dinghy and slashed it with a knife, soon after a French rescue worker had stepped on board.\nAdvertisementJudge Newton-Price accepted that \u201cthere was no immediate danger to the rescue worker\u201d, but said Thomas\u2019s actions were a deliberate \u200c\u200cattempt \u200c\u200cto disrupt rescue efforts.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-11-20T17:05:32Z",
-      "source": "Al Jazeera English"
+      "id": "NTQ=",
+      "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
+      "title": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience",
+      "summary": "The original Darkest Dungeon may have gotten some new DLC earlier this year, but that doesn't mean that Red Hook Studios are abandoning their sequel.\nNo, in fact the next bit of DLC for Darkest Dungeon 2 was teased only a couple of weeks ago, with a new trailer shared today actually showing off what it's all about.\nIt's called The Butcher's Asylum, as pleasant a name as any other, and it's a \"stand alone gladiatorial arena game mode,\" that's due for release sometime in 2027.\nThe Butcher's Asylum also introduces a new playable character, The Ringmaster.\nYou pick her up by winning bouts in the arena, and then you can recruit her in any game mode.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-21T16:53:00Z",
+      "source": "Rock Paper Shotgun"
     }
   },
   {
     "article": {
-      "id": "NTA=",
+      "id": "NTU=",
       "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974",
       "title": "Washington state officials condemn ICE after 2 arrested boarding flight at Seattle airport",
       "summary": "This still image from a video shows an ICE arrest on a jet bridge at Seattle-Tacoma International Airport on Nov. 21, 2026.\nThis still image from a video shows an ICE arrest on a jet bridge at Seattle-Tacoma International Airport on Nov. 21, 2026.\nThis still image from a video shows an ICE arrest on a jet bridge at Seattle-Tacoma International Airport on Nov. 21, 2026.\nThis still image from a video shows an ICE arrest on a jet bridge at Seattle-Tacoma International Airport on Nov. 21, 2026.\nWashington state officials condemned Immigration and Customs Enforcement on Saturday after plainclothes officers in masks detained two people who were boarding a flight at Seattle-Tacoma International Airport.",
@@ -613,43 +673,19 @@
   },
   {
     "article": {
-      "id": "NTE=",
-      "url": "https://gothamist.com/news/mamdani-shuts-bronx-migrant-shelter-at-center-of-ice-fight-over-residents-data",
-      "title": "Mamdani shuts Bronx migrant shelter at center of ICE fight over residents\u2019 data",
-      "summary": "The Mamdani administration closed the last remaining migrant shelter, a Mott Haven facility that was the target of an ICE subpoena seeking the names and birthdays of men residing there.\n\u201cThere will be no more residents living inside of Bruckner, and the site is officially closed,\u201d Mamdani said in a statement.\nThe order directed city agencies to phase out its remaining emergency migrant shelter and bring other facilities into compliance with city rules, such as capping the number of residents at 200.\nA federal judge earlier this month ordered the Mamdani administration to hand over the personal information of certain residents staying in the shelter.\nUnder the Trump administration, ICE had tried at least four times to obtain information about shelter residents.",
+      "id": "NTY=",
+      "url": "https://www.yahoo.com/news/us/articles/ice-completely-totally-control-gov-080100144.html",
+      "title": "\u2018ICE is completely and totally out of control\u2019: Gov. Ferguson speaks out against Sea-Tac ICE arrest",
+      "summary": "On the eve of one of the busiest holiday travel weeks of the year, ICE agents arrested two people at SeaTac Airport Saturday.\n\"Look, ICE is completely and totally out of control.\nIn a statement, Alaska Airlines indicated it was not told about the ICE enforcement action ahead of time.\n\"The reality is that federal agents do have access throughout the airport, using their federal badges,\" Mohamed added.\nShe told KIRO 7 that the Port is not warned ahead of time about ICE enforcement at the airport, though Mohamed says she has requested that.",
       "category": "immigration",
-      "bias": "center",
-      "publishedAt": "2026-11-20T03:41:33Z",
-      "source": "Gothamist"
+      "bias": "left",
+      "publishedAt": "2026-11-22T08:01:00Z",
+      "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NTI=",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-      "summary": "Dems aim to block Iran war funding.\nAnd, Army delays lead azide detonation in IowaGood morning.\nVirginia Sen. Tim Kaine aims to include a provision to end war funding in the stopgap bill.\nThe U.S. Army has rescheduled the detonation of around 9,500 pounds of unstable lead azide at the Iowa Army Ammunition Plant in Middletown to Monday, Nov. 23.\nThe plant, which manufactures various types of ammunition, has stored lead azide in a water-ethanol solution in underground tanks for 20 years.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-20T12:04:57Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "NTM=",
-      "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge",
-      "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
-      "summary": "Four bodies have been recovered after a migrant boat capsized off Senegal\u2019s coast, as authorities continue searching for survivors amid fears that the death toll could rise significantly.\nCanary IslandsThe incident comes amid an intensifying wave of attempted Atlantic crossings from West Africa to Spain\u2019s Canary Islands, with migrant boats being intercepted or rescued almost daily.\nNew figures from Spain\u2019s Interior Ministry show that 24,364 migrants reached the Canary Islands between January 1 and November 15, compared with 14,690 during the same period last year, an increase of nearly two-thirds.\nJust days before the boat capsized, authorities announced the dismantling of a suspected migrant-smuggling network in Yenne itself, arresting 14 people and seizing two boats, three engines and 12.5 million CFA francs ($22,000), according to APS.\nNearly 600 deadThe United Nations refugee agency said nearly 600 people had died trying to reach the Canary Islands from West Africa so far this year, highlighting the dangers of the increasingly busy migration route.",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T00:10:04Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTQ=",
+      "id": "NTc=",
       "url": "https://www.bbc.co.uk/news/articles/cvze71y6g85yo",
       "title": "Suffolk village votes to 'leave UK' over RAF Barnham migrant plan",
       "summary": "Villagers vowed \"this is only the beginning\" after voting overwhelmingly to \"leave the UK\" in protest at plans to house migrants at a former airbase.\nResidents in Barnham, Suffolk, held a symbolic poll on Saturday to decide whether or not to declare independence.\nTwo-hundred-and-fifty-seven people - 94% of those who took part \u2013 voted in favour of leaving, 16 voted against and one vote was spoiled.\nBarnham is the second village to hold a symbolic poll over migrant housing plans, after residents of Piddington in Oxfordshire voted to leave the UK in September.\nJohn Bauer, chair of the parish council, has said the Suffolk village will now declare itself the Bailiwick of Barnham.",
@@ -661,31 +697,67 @@
   },
   {
     "article": {
-      "id": "NTU=",
-      "url": "https://www.breitbart.com/immigration/2026/11/20/bush-center-urges-congress-to-welcome-the-next-flood-of-migrants/",
-      "title": "Bush Center Urges Democrats to Welcome the Next Flood of Migrants",
-      "summary": "Democrats should legalize many illegal migrants and also fund a border welcome for the next flood of illegal migrants, says the immigration director at the George W. Bush Presidential Center in Texas.\nUnder President Joe Biden, Democrats provided more than $20 billion to welcome, feed, transport, and house roughly 8 million economic migrants.\nFrom 2001 to 2009, President George W. Bush welcomed many millions of wage-cutting illegal migrants into his two terms.\nBush\u2019s support for immigration was enabled by his father, George H. W. Bush, who worked with Democrats \u2014 including then Rep. Chuck Schumer (D-NY) \u2014 in 1990 to double legalized immigration inflows.\nWhile relaxing in Texas, Bush repeatedly showed his narcissistic view and condescending praise for migrants who served him as disposable workers.",
+      "id": "NTg=",
+      "url": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493",
+      "title": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
+      "summary": "Raymond Gukiina says WhatsApp is a key tool for refugees and other newcomers to Canada.\nWATCH | Meta would 'consider' pulling services over Bill C-22: Meta would consider pulling apps from Canada over 'lawful access' bill | Duration 1:58 Bill C-22 would force tech companies to adapt their systems so they all have the ability to hand over information to investigators with a warrant.\nRachel Curran, Meta's head of public policy for Canada, said the company \"would need to consider\" withdrawing affected services \u2014 effectively, WhatsApp \u2014 if the legislation passes.\n\"The proposals on encryption in C-22 are similar to those in Australia, where WhatsApp continues to operate.\nGroup chats keyNevertheless, the legislation has fuelled fears that WhatsApp service could be affected.",
       "category": "immigration",
       "bias": "lean left",
-      "publishedAt": "2026-11-20T08:09:32Z",
-      "source": "Breitbart News"
+      "publishedAt": "2026-11-22T09:00:00Z",
+      "source": "CBC News"
     }
   },
   {
     "article": {
-      "id": "NTY=",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "title": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
-      "summary": "Jensen Huang was ousted from Nvidia amid allegations of extramarital affairs, including a relationship with an alleged Chinese intelligence asset.\nYet it was \u201cmultiple issues\u201d related to Huang\u2019s \u201clack of candor\u201d and \u201clying\u201d that ultimately moved the board of directors, according to two people familiar with private discussions among the chair and other members.\nWhile Huang admitted to having an affair with Alice Huang on November 8, the board couldn\u2019t determine in the moment whether she was an intelligence operative for China, these sources say.\nJensen Huang at the time denied any inappropriate relationship with Alice Huang to the board, sources tell WIRED.\nIn recent days, board members, including chair Harvey Jones, have tried to quell the discourse about Huang\u2019s possible return to Nvidia by emphasizing that Huang's behavior flew in the face of Nvidia\u2019s policies and corporate governance rules, sources tell WIRED.",
-      "category": "technology",
+      "id": "NTk=",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg270pw9ydo",
+      "title": "Barnham vote 'sent powerful message', say politicians",
+      "summary": "No-one was surprised by the outcome of the poll which saw 257 people vote for the village ''to become an independent self-governing Crown dependency'' and just 16 vote against the idea.\nThe result has no legal basis, but there were warnings from local politicians for ministers not to ignore the result.\n\"It sends a powerful message that it is a completely unsuitable site.\n\"I hope just for once that the government will actually listen to local people,\" said Tim Passmore the Conservative Police and Crime Commissioner for Suffolk.\nWhen a similar referendum was held in the Oxfordshire village of Piddington 89% of locals took part.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-11-22T06:35:00Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NjA=",
+      "url": "https://www.insidehighered.com/news/global/international-students-us/2026/11/23/number-students-crisis-stricken-countries-rising",
+      "title": "Number of Students From Crisis-Stricken Countries Rising",
+      "summary": "Despite significant declines in overall international student applications and enrollment since the start of the second Trump administration, the number of students in the United States from crisis-stricken countries has increased since 2024, according to a new analysis of international student data.\nThe growth is likely driven by refugee and displaced students from Nepal, Colombia and Iran, all countries that have recently been devastated by natural disasters or political upheaval.\nThe report doesn\u2019t include students with temporary protected status; those designated as refugees, asylum seekers or humanitarian parolees; or other displaced students already living in the U.S.\nDespite the jump in students from Columbia and Nepal, the countries from which the Trump administration has restricted travel sent far fewer students in 2026.\nLaura Wagner, director of refugee student initiatives at the Presidents\u2019 Alliance, said the data reveals how policies such as travel bans affect refugee students.",
+      "category": "immigration",
       "bias": "left",
-      "publishedAt": "2026-11-20T19:52:21Z",
-      "source": "Wired"
+      "publishedAt": "2026-11-23T08:00:00Z",
+      "source": "Inside Higher Ed"
     }
   },
   {
     "article": {
-      "id": "NTc=",
+      "id": "NjE=",
+      "url": "https://truthout.org/articles/trump-administration-is-hiking-immigration-bond-costs-to-keep-migrants-locked-up/",
+      "title": "Trump Administration Is Hiking Immigration Bond Costs to Keep Migrants Locked Up",
+      "summary": "Bond prices in many jurisdictions have doubled under the Trump administration, and bond funds are struggling to keep up.\nThe number of people jailed in Immigration and Customs Enforcement (ICE) detention nationwide is up roughly 80 percent since President Joe Biden left office.\nFor the shrinking share of the jailed population that does access an immigration bond hearing, the average bond denial rate has jumped.\n\u201cIt\u2019s a lot harder to fight your immigration case when you\u2019re in a jail cell,\u201d Tan told Truthout.\nOkare told Truthout that stories like these are common in the work of Envision Freedom Fund and other immigration bond funds operating nationwide.",
+      "category": "immigration",
+      "bias": "lean right",
+      "publishedAt": "2026-11-22T13:46:53Z",
+      "source": "Truthout"
+    }
+  },
+  {
+    "article": {
+      "id": "NjI=",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile",
+      "title": "Cox\u2019s Bazar: Rohingya Life in Exile",
+      "summary": "Inside the world\u2019s largest refugee camp, Rohingya families fight hunger and loss as aid dries up, clinging to faith, each other and the hope of returning home.\nFor more than a million Rohingya refugees, Cox\u2019s Bazar was meant to be a place of safety.\nTogether, they face shrinking food aid, restricted opportunities, separation from loved ones and no clear route home.\nThe Islamic holy month of Ramadan forms the backdrop, bringing moments of faith, family and communal ritual into sharper relief amid mounting hardship.\nMade with a Rohingya producer and director of photography living in the settlement, the film offers an intimate view from within: people working, studying, creating and caring for their families while fighting to preserve their dignity.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-11-22T18:02:06Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjM=",
       "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
       "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
       "summary": "Iran\u2019s Foreign Minister Abbas Araghchi says reopening the strait is \u2018not difficult\u2019 if the US accepts reasonable conditions.\nShare Iran says held talks with Qatari mediators, urges US to accept conditions on social mediaIran says Qatari mediators have travelled to Tehran as the country\u2019s foreign minister urges the United States to accept Iranian conditions for reopening the Strait of Hormuz.\nA Qatari delegation visited Tehran on Friday night and held two hours of talks with Iranian officials, Deputy Foreign Minister Kazem Gharibabadi said, according to Iran\u2019s semi-official Tasnim news agency.\nReopening Hormuz \u2018not difficult\u2019The ongoing talks in the region \u201cmust be given a chance, and the blockade must be lifted rationally,\u201d Iran\u2019s Foreign Minister Abbas Araghchi said on Saturday, according to state television.\nIran has restricted shipping through the strait, which normally carried about a fifth of the world\u2019s oil, since the war began.",
@@ -697,7 +769,19 @@
   },
   {
     "article": {
-      "id": "NTg=",
+      "id": "NjQ=",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "summary": "A Russian warship was sunk by Ukrainian drones at a port in Libya on Sunday, President Volodymyr Zelensky has said.\nZelensky added that Ukraine's attack hit a second Russian vessel, a cargo ship which he claimed was being used to transport weapons.\nThe Tripoli foreign ministry said the country would not accept being drawn into the conflict.\nThe attack came the day after a Russian cargo vessel was hit by a drone attack in the eastern Gulf of Finland.\nPeskov declined to comment on the strikes on Russian ships in Libya and said that that information would be provided by Russia's Defence Ministry.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-22T16:05:25Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NjU=",
       "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
       "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
       "summary": "Iran\u2019s FM Araghchi says there is \u2018major strategic debate\u2019 about the future of Iran\u2019s nuclear doctrine.\nSo, is Iran\u2019s nuclear policy changing, and what could that mean for the conflict?\nIran has consistently maintained that its nuclear programme is for peaceful purposes only, such as for electricity generation, medical research and agriculture.\nOfficials in Israel, which is widely believed to have its own undeclared nuclear weapons, have also long accused Iran of pursuing nuclear weapons.\nFathollah-Nejad said a shift in Iran\u2019s nuclear doctrine would directly counter the US\u2019s \u201csingle most important goal\u201d in the conflict: to secure nuclear concessions from Tehran.",
@@ -709,122 +793,38 @@
   },
   {
     "article": {
-      "id": "NTk=",
-      "url": "https://www.bbc.co.uk/news/articles/cr930nv52350o",
-      "title": "Pair charged over RAF Fairford plot to face trial next November",
-      "summary": "Two British nationals connected to an alleged Iran-linked plot at RAF Fairford in September will go on trial at Woolwich Crown Court next year.\nA major incident was declared after three suspicious vans were seen near the Gloucestershire airbase on 27 September.\nHe is accused of filming the perimeter of RAF Fairford at Ali's request.\nIran has previously denied any involvement in the incident at RAF Fairford.\nAfter the incident in September the US pulled its bombers out of the base and returned them to America.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T13:23:45Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NjA=",
-      "url": "https://yro.slashdot.org/story/26/11/20/1755250/california-issues-subpoena-to-nvidia-over-chip-sales-to-china",
-      "title": "California Issues Subpoena to Nvidia Over Chip Sales to China",
-      "summary": "Heisenberg may have slept here...",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-20T19:00:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "NjE=",
-      "url": "https://www.businessinsider.com/taiwan-drone-industry-booming-inside-its-much-shakier-2026-11",
-      "title": "Taiwan's Drone Industry Looks to Be Booming. Inside, It's Much Shakier.",
-      "summary": "Taiwan's drone industry appears to be booming as the world looks for alternatives to Chinese technology, but behind the soaring export numbers is a dizzyingly messy situation that could threaten its ambitions.\nTaiwanese President Lai Ching-te and his predecessor, Tsai Ing-wen, have pushed for a local drone industry since the war in Ukraine began.\n\"The Taiwan drone industry exists or is able to be competitive because of the split from non-Chinese drone components,\" said Dennis Huang, the managing director for International Strategy and Operations at drone maker Taiwan UAV.\n\"If that didn't exist or no one cared about it, I don't think the Taiwan drone industry will be competitive at all.\"\nIndustry confusionThe influx of new manufacturers has exposed problems with how Taiwan's drone industry operates.",
-      "category": "technology",
-      "bias": "right",
-      "publishedAt": "2026-11-20T10:00:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NjI=",
-      "url": "https://rt-english.com/news/649169-rt-top-stories-putin-trump-xi-china/",
-      "title": "Trilateral diplomacy, Russian retribution in Ukraine, AI\u2019s source wars: The stories that shaped the week",
-      "summary": "In a joint declaration, they reaffirmed their position that nuclear war \u201ccannot be won and must never be fought,\u201d and agreed to keep talking about how to reduce nuclear risks and work to increase supplies of refined fuel.\nPutin extended a diplomatic hand and announced that he had invited EU+ representatives to visit Moscow to personally explain what they would bring to the Ukraine negotiating table.\nSome European officials are theoretically pro-negotiation, but cling to the notion that the Russia-Ukraine conflict can somehow be settled without Russian participation.\nAs always, there\u2019s a Russian fable for that, as Russian Foreign Minister Sergey Lavrov pointed out on Tuesday.\nWhat we\u2019re watchingNext week, we\u2019ll have our eyes on Europe, as the EU\u2019s leaders digest Putin\u2019s peace talks offer.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T20:04:47Z",
-      "source": "Rt-english.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NjM=",
-      "url": "https://www.thenation.com/article/politics/bernie-sanders-a-world-for-all-excerpt/",
-      "title": "Bernie Sanders: A Foreign Policy for the Many",
-      "summary": "Politics / Bernie Sanders: A Foreign Policy for the Many From military spending to climate change, the senator makes the case for a foreign policy rooted in democracy and our common humanity.\nFor too long, US foreign policy has been shaped by a narrow consensus that serves the powerful few rather than the democratic many.\nBoth outcomes\u2014apathy and authoritarianism\u2014erode the foundations of democracy and threaten the universal human rights that should anchor any just foreign policy.\nA progressive foreign policy must therefore begin with moral clarity.\nWe must also articulate an affirmative vision: a foreign policy that confronts global oligarchy, strengthens democratic institutions, and builds genuine partnerships.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-20T15:02:25Z",
-      "source": "Thenation.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NjQ=",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war",
-      "title": "Pakistan minister visits India for first time since 2025 war",
-      "summary": "Share Pakistan minister visits India for first time since 2025 war on social mediaIslamabad, Pakistan \u2014 Pakistan\u2019s climate change minister, Musadik Malik, arrived in New Delhi on Friday, becoming the first Pakistani federal minister to visit India since the neighbours fought a four-day war in May 2025.\nIt is the first such visit since then-Foreign Minister Bilawal Bhutto-Zardari travelled to Goa in May 2023.\nThe choice of ministerIndian media, quoting diplomatic sources, reported that India\u2019s invitation was for Pakistan\u2019s minister for national heritage and culture, Aurangzeb Khan Khichi.\nPakistan\u2019s Foreign Office said on November 6 only that it had received an invitation and would decide after consultations.\nIn September this year, Alok Dimri, India\u2019s SCO coordinator, spent three days in Islamabad and shook hands with Pakistan\u2019s Foreign Minister Ishaq Dar.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-20T09:11:57Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjU=",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown",
-      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-      "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.\nUnited States lawmakers say more regulations are needed to protect advanced AI chips once they leave the country, even as they support the recently imposed chip export controls.\nAdvertisementThe framework also bans AI companies from building empires, releasing risky models, stealing through surveillance, exploiting workers, or causing harm.\nUS tech giants, including Amazon, Microsoft and Google, operate nearly 90 major AI computing hubs globally, according to an Oxford University study.\nThe same research found that US companies were building 63 AI computing hubs outside the country as of 2025.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-20T22:15:07Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
       "id": "NjY=",
-      "url": "https://www.newyorker.com/news/the-lede/donald-trumps-crackdown-on-international-students-is-working",
-      "title": "Donald Trump\u2019s Crackdown on International Students Is Working",
-      "summary": "\u201cThat\u2019s Illini football, broadcast in Mandarin Chinese\u2014in the middle of America.\u201d International students, he declares, \u201care displacing American kids, plain and simple.\u201dThe LedeReporting and commentary on what you need to know today.\nThe Trump Administration has been hostile toward international students since the beginning of the President\u2019s second term.\nIn mid-2025, the U.S. Department of Homeland Security revoked the legal status of thousands of foreign students, citing criminal-records checks, and tried to suspend entry for international students seeking to attend Harvard.\n(In 2025, the combined campuses had close to eighteen thousand international students.)\nThe looming visa restrictions had worried her, but her concerns fell away after orientation week, as she became immersed in campus life.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
+      "title": "What\u2019s behind Iran\u2019s escalation of attacks in the Gulf?",
+      "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country economically.\nShare What\u2019s behind Iran\u2019s escalation of attacks in the Gulf?\nThe escalating attacks come as Iran\u2019s President Masoud Pezeshkian said his country is facing what he called a \u201csilent economic war\u201d amid US sanctions and a naval blockade.\nOil passing through the Strait of Hormuz has seen a considerable dip as Iran has escalated attacks on a near-daily basis.\nHowever, if the US attacks the vessels, it could face \u201cIranian responses that will be difficult for [Trump] to avoid\u201d.",
       "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-21T16:57:28Z",
-      "source": "The New Yorker"
+      "bias": "lean left",
+      "publishedAt": "2026-11-22T11:46:42Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
       "id": "Njc=",
-      "url": "https://www.project-syndicate.org/commentary/global-climate-processes-emphasizing-implementation-not-a-moment-too-soon-by-andre-correa-do-lago-and-tulio-andrade-2026-11",
-      "title": "Making Earth Cool Again",
-      "summary": "Jayant Sinha A global AI ecosystem controlled by the US and China would make other countries dangerously dependent on foreign technologies.\nTogether, COP30\u2019s global mobilization, negotiations, and Action Agenda revealed that the global climate regime is shifting from a negotiation track to a living system.\nThis implementation movement has allowed climate action to gain global scale, irrespective of backtracking by any specific country.\nAs the net-zero transition connects economies, societies, and governments at all levels through sustainable development, implementation coalitions increasingly cut across ideological and geopolitical lines, including entrenched North-South negotiating divides.\nLooking ahead, our collective ambition must be to elevate climate solutions from niche applications to the mainstream.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-11-20T14:46:57Z",
-      "source": "Project Syndicate"
+      "url": "https://www.businessinsider.com/shopify-ceo-says-jensen-huangs-ouster-looked-choreographed-2026-11",
+      "title": "Shopify CEO Says Jensen Huang's Ouster Looked 'Choreographed'",
+      "summary": "Shopify CEO Tobi L\u00fctke had some strong words about Nvidia's board over its handling of Jensen Huang's resignation.\n\"Let's be honest, this was surgical: affair, Chinese spy, another affair, another affair,\" L\u00fctke said.\nHuang stepped down as Nvidia CEO this month after an affair scandal and an investigation into concerns that he may have been targeted by a foreign intelligence operation.\nNvidia has said Huang voluntarily resigned after disclosures of conduct inconsistent with the company's code of conduct, standards, and cultural norms.\nL\u00fctke, like several tech leaders, has consistently supported Huang since the scandal broke.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-23T05:11:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
       "id": "Njg=",
-      "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-calls-india-a-side-player-in-geopolitics-bjp-hits-back-with-pak-fanboy-jibe/articleshow/136014416.cms",
-      "title": "Rahul Gandhi calls India a \u2018side player\u2019 in geopolitics; BJP hits back with \u2018Pak fanboy\u2019 jibe",
-      "summary": "Watch\u2018India\u2019s Foreign Policy Must Serve Its Own Interests\u2019: Rahul Gandhi In US; BJP Hits Back",
-      "category": "international",
-      "bias": "lean right",
-      "publishedAt": "2026-11-20T05:47:32Z",
-      "source": "The Times of India"
+      "url": "https://www.newyorker.com/news/the-lede/donald-trumps-crackdown-on-international-students-is-working",
+      "title": "Donald Trump\u2019s Crackdown on International Students Is Working",
+      "summary": "\u201cThat\u2019s Illini football, broadcast in Mandarin Chinese\u2014in the middle of America.\u201d International students, he declares, \u201care displacing American kids, plain and simple.\u201dThe LedeReporting and commentary on what you need to know today.\nThe Trump Administration has been hostile toward international students since the beginning of the President\u2019s second term.\nIn mid-2025, the U.S. Department of Homeland Security revoked the legal status of thousands of foreign students, citing criminal-records checks, and tried to suspend entry for international students seeking to attend Harvard.\n(In 2025, the combined campuses had close to eighteen thousand international students.)\nThe looming visa restrictions had worried her, but her concerns fell away after orientation week, as she became immersed in campus life.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-11-21T16:57:28Z",
+      "source": "The New Yorker"
     }
   },
   {
@@ -842,22 +842,10 @@
   {
     "article": {
       "id": "NzA=",
-      "url": "https://www.pbs.org/newshour/show/josh-shapiro-on-foreign-policy-democratic-wins-and-his-2028-ambitions",
-      "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
-      "summary": "Josh Shapiro is fresh off a reelection campaign that gave him another four years in office and Democrats majorities in the state House.\nAmna Nawaz:Pennsylvania Governor Josh Shapiro is fresh off a reelection campaign that gave him another four years in office, and Democrats majorities in the Statehouse and in Washington.\nJosh Shapiro (D-PA):Great to be with you.\nHow much of your win do you believe was because of you, because of Josh Shapiro, and how much was part of this blue wave?\nAmna Nawaz:That's the Democratic governor of Pennsylvania, Josh Shapiro, joining us today.",
-      "category": "international",
-      "bias": "right",
-      "publishedAt": "2026-11-20T23:40:50Z",
-      "source": "PBS"
-    }
-  },
-  {
-    "article": {
-      "id": "NzE=",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
       "title": "Trump wants to ban US companies from building overseas data centers as bans slow development \u2014 also considers putting a \u2018tremendous tax\u2019 in lieu of prohibition",
       "summary": "He added that Americans should negotiate with AI hyperscalers that want to establish data centers in communities, as they could help reduce costs and taxes.\nThis technicality has allowed them to export data to overseas data centers that use AI chips banned for export to China, like Nvidia\u2019s Blackwell and upcoming Vera Rubin chips.\nStay On the Cutting Edge: Get the Tom's Hardware Newsletter Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nU.S. companies would build data centers in foreign countries because some governments demand that their data remain within their territory.\nAlso follow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.",
-      "category": "international",
+      "category": "technology",
       "bias": "center",
       "publishedAt": "2026-11-21T16:29:39Z",
       "source": "Tom's Hardware UK"
@@ -865,7 +853,7 @@
   },
   {
     "article": {
-      "id": "NzI=",
+      "id": "NzE=",
       "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae",
       "title": "Why Somalia\u2019s president turned against his former ally, the UAE",
       "summary": "Behind Somalia\u2019s break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.\nShare Why Somalia\u2019s president turned against his former ally, the UAE on social mediaThree years ago, at a town hall meeting in Mogadishu, Somali President Hassan Sheikh Mohamud defended one of his country\u2019s most controversial foreign partnerships.\nThe United Arab Emirates, he declared, was \u201cone of the greatest pillars\u201d of Somalia\u2019s war against the al-Qaeda-linked armed group al-Shabab.\nThe decision came 10 months after Somalia annulled several commercial, defence and security agreements with the UAE, accusing its former ally of undermining its sovereignty.\nAbu Dhabi maintains similar commercial and security ties with Jubbaland, which borders Kenya, although the extent of its involvement there is less publicly documented.",
@@ -873,6 +861,42 @@
       "bias": "left",
       "publishedAt": "2026-11-22T06:59:59Z",
       "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NzI=",
+      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/nri-talk-nris-are-moving-beyond-deposits-to-mutual-funds-and-global-investing-belong-manages-20-million-in-aum-ankur-choudhary/articleshow/136048307.cms",
+      "title": "NRI Talk | NRIs are moving beyond deposits to mutual funds and global investing; Belong manages $20 million in AUM: Ankur Choudhary",
+      "summary": "It seems like you're already an ETPrime member withLogin using your ET Prime credentials to enjoy all member benefitsLog out of your current logged-in account and log in again using your ET Prime credentials to enjoy all member benefits.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-11-21T07:53:31Z",
+      "source": "Economictimes.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NzM=",
+      "url": "https://www.infoq.com/news/2026/11/postgresql-19-released/",
+      "title": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
+      "summary": "The PostgreSQL Global Development Group released PostgreSQL 19, introducing changes to database maintenance, query planning, replication, and application development.\nPostgreSQL 19 also introduces pg_plan_advice and pg_stash_advice , extensions that let administrators influence query plan selection and apply stored advice to queries by identifier, without changing application code.\nLogical replication now supports sequence values, and PostgreSQL automatically raises the effective WAL level to logical when the first logical replication slot is created.\nPostgreSQL 19 also warns after successful MD5 password authentication.\nPostgreSQL 19 is available now.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-22T12:54:00Z",
+      "source": "InfoQ.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NzQ=",
+      "url": "https://abcnews.com/US/woman-center-nvidia-scandal-touch-chinas-top-spy/story?id=138369034",
+      "title": "Woman at center of Nvidia scandal was in touch with China's top spy agency: Sources",
+      "summary": "Woman at center of Nvidia scandal was in touch with China's top spy agency: SourcesThe woman who was allegedly having an affair with Jensen Huang was also in touch with an official of China's top spy agency, a contact that occurred while she was in a relationship with the former Nvidia chief, sources familiar with U.S. intelligence gathered on the matter told ABC News.\nThe time period overlapped with her relationship with Jensen Huang, sources said.\nNVIDIA CEO Jensen Huang with Alice Huang in Taipei, Taiwan, June 7, 2024.\nObtained By ReutersThe New York Times was first to detail the extent of Alice Huang\u2019s alleged contact with China\u2019s spy agency.\nNvidia CEO Jensen Huang speaks after attending the AI Ecosystem Reception in Tokyo, Japan, July 16, 2026.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-23T06:13:32Z",
+      "source": "Abcnews.com"
     }
   }
 ]
