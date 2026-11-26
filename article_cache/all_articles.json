@@ -2,10 +2,22 @@
   {
     "article": {
       "id": "MA==",
+      "url": "https://www.wired.com/story/this-hollywood-star-took-on-crypto-now-hes-got-a-new-target/",
+      "title": "This Hollywood Star Took on Crypto. Now He\u2019s Got a New Target",
+      "summary": "The prediction markets reject the comparison (although 80 percent of Kalshi\u2019s trades came from sports in September, according to Bloomberg).\nSo there's a real, real problem here.\u201dJohn Reed Stark, who spent 18 years in the Securities and Exchange Commission\u2019s enforcement division, will serve as an adviser to the Project.\nThe group is coming together at a time when regulators and law enforcement officials at every level are looking to rein in prediction markets.\nFederal regulators have launched new probes into both major prediction markets.\nThe Senate just passed a bill prohibiting prediction markets for military operations and assassinations.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-24T12:00:00Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "MQ==",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html",
       "title": "Stock market today: Dow, S&P 500, Nasdaq post best day since April 2025 as Nvidia stock soars 31% on Jensen Huang's return",
       "summary": "Stocks soared on Monday in their best day since April 2025 as investors cheered Nvidia's (NVDA) board reinstating Jensen Huang as CEO.\nNvidia stock soared 31% after the AI chipmaker announced it has reinstated Jensen Huang as president, CEO and board director, effective immediately.\n\"The Board believes Jensen is the right person to lead NVIDIA, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers,\" Nvidia's board chair Harvey Jones said.\nFollow live updates and reactions to Jensen Huang's return as Nvidia CEO >The move came after President Trump renewed his call to reinstate the chipmaker's founder, Jensen Huang, as CEO amid a series of controversies.\nSentiment was exuberant after a volatile week last week that saw the AI trade unravel and the S&P 500 and Dow enter correction territory.",
-      "category": "economics",
+      "category": "technology",
       "bias": "center",
       "publishedAt": "2026-11-23T11:00:34Z",
       "source": "Yahoo Entertainment"
@@ -13,11 +25,23 @@
   },
   {
     "article": {
-      "id": "MQ==",
+      "id": "Mg==",
+      "url": "https://www.businessinsider.com/nvidia-anthropic-retail-buy-the-dip-jensen-huang-nvda-ant-2026-11",
+      "title": "From Anthropic\u2019s IPO to Huang\u2019s return, here\u2019s how retail has traded a chaotic stretch for markets",
+      "summary": "Retail traders have had a lot to deal with in the last few weeks.\nBut, according to data from Vanda Research, many retail traders were in prime position to benefit from the \"Jensen 2.0\" rally.\nWhile retail traders were ready for the Anthropic IPO, the Claude maker's historic offering couldn't unseat SpaceX as retail investors' most-bought IPO stock.\nTheir buying implies that for retail investors, the mindset around the chip-stock selloff since the October highs has been aggressive rather than defensive.\n\"These leveraged ETFs have been popular vehicles for retail investors when it comes to navigating the Nov sell-off.\"",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-24T16:06:02Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "Mw==",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
       "title": "Stock market today: Dow, S&P 500, Nasdaq post best day since April 2025 as Nvidia stock soars 31% on Jensen Huang's return",
       "summary": "Stocks soared on Monday in their best day since April 2025 as investors cheered Nvidia's (NVDA) board reinstating Jensen Huang as CEO.\nNvidia stock soared 31% after the AI chipmaker announced it has reinstated Jensen Huang as president, CEO and board director, effective immediately.\n\"The Board believes Jensen is the right person to lead NVIDIA, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers,\" Nvidia's board chair Harvey Jones said.\nFollow live updates and reactions to Jensen Huang's return as Nvidia CEO >The move came after President Trump renewed his call to reinstate the chipmaker's founder, Jensen Huang, as CEO amid a series of controversies.\nSentiment was exuberant after a volatile week last week that saw the AI trade unravel and the S&P 500 and Dow enter correction territory.",
-      "category": "economics",
+      "category": "technology",
       "bias": "center",
       "publishedAt": "2026-11-23T14:15:11Z",
       "source": "Yahoo Entertainment"
@@ -25,23 +49,11 @@
   },
   {
     "article": {
-      "id": "Mg==",
-      "url": "https://www.cnet.com/roadshow/automobiles/genesis-g80-gv80-hybrids-laas-debut-arriving-in-2027/",
-      "title": "Genesis Launches Hybrids at the LA Auto Show, EREV Coming in 2027",
-      "summary": "Korean luxury automaker Genesis launched its first hybrid models this week, debuting new powertrains for the G80 sedan and GV80 SUV at the 2026 LA Auto Show.\nMore efficient, more powerfulThe G80 Hybrid and GV80 Hybrid share a 2.5-liter turbocharged hybrid powertrain.\nGenesis hasn\u2019t announced official fuel economy estimates, but says the G80 Hybrid is 30% more efficient than the standard model, while the GV80 Hybrid is 24% more efficient.\nFamiliar designAside from the powertrain, the G80 and GV80 Hybrids are largely identical to their combustion counterparts.\nLike the standard models, the G80 and GV80 Hybrids feature a large 27-inch OLED display.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-22T11:00:06Z",
-      "source": "CNET"
-    }
-  },
-  {
-    "article": {
-      "id": "Mw==",
+      "id": "NA==",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html",
       "title": "Stock market today: Dow, S&P 500, Nasdaq post best day since April 2025 as Nvidia stock soars 31% on Jensen Huang's return",
       "summary": "Stocks soared on Monday in their best day since April 2025 as investors cheered Nvidia's (NVDA) board reinstating Jensen Huang as CEO.\nNvidia stock soared 31% after the AI chipmaker announced it has reinstated Jensen Huang as president, CEO and board director, effective immediately.\n\"The Board believes Jensen is the right person to lead NVIDIA, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers,\" Nvidia's board chair Harvey Jones said.\nFollow live updates and reactions to Jensen Huang's return as Nvidia CEO >The move came after President Trump renewed his call to reinstate the chipmaker's founder, Jensen Huang, as CEO amid a series of controversies.\nSentiment was exuberant after a volatile week last week that saw the AI trade unravel and the S&P 500 and Dow enter correction territory.",
-      "category": "economics",
+      "category": "technology",
       "bias": "center",
       "publishedAt": "2026-11-23T18:20:39Z",
       "source": "Yahoo Entertainment"
@@ -49,11 +61,11 @@
   },
   {
     "article": {
-      "id": "NA==",
+      "id": "NQ==",
       "url": "https://www.businessinsider.com/ai-tech-stocks-rout-walmart-berkshire-buffett-defensive-investing-consumer-2026-11",
       "title": "Why these 6 stocks are winning from the AI rout",
       "summary": "Investors have traded excitement for security over the past month as AI stocks have become too hot to handle.\nThose headwinds have spurred some investors to sell fast-growing but aggressively valued and volatile AI stocks, and buy cheaper, stable, and more predictable stocks instead.\nClorox has surged 21% in the past month, as the seller of consumer staples is seen as a strong defensive pick.\nShares of Tyson Foods, the nation's largest meat supplier, have climbed 15% in the past month too.\nTech stocks rallied strongly in Monday's premarket, with Nvidia and Alphabet rebounding about 8% and 5%, respectively.",
-      "category": "economics",
+      "category": "technology",
       "bias": "center",
       "publishedAt": "2026-11-23T12:32:34Z",
       "source": "Business Insider"
@@ -61,26 +73,14 @@
   },
   {
     "article": {
-      "id": "NQ==",
-      "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179",
-      "title": "UN climate conference ends without its signature agreement as countries clash over fossil fuels and finance",
-      "summary": "The EU said a climate deal with no mention of fossil fuels is \"unconscionable.\"\nMany cited the omission of fossil fuels and the lack of concrete climate finance commitments, with some delegates arguing that those responsible for climate change should pay for it.\nThey listed several objections to the draft agreement, including that \"The major cause of the climate crisis \u2013 coal, oil and gas \u2013 fails to rate a mention.\"\nPeople walk past a protest installation at the COP31 UNFCCC Climate Conference on November 17, 2026, in Antalya, Turkey.\nSupport for the proposal and electrificationNot every country was opposed to the draft agreement.",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-11-22T16:08:08Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
       "id": "Ng==",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
-      "title": "Andy Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "summary": "The prime minister will tell Parliament on Monday the \"landmark\" deal struck with the EU means there is a \"very real prospect\" the next decade can be \"much better\" than the last one.\nThe deal, which covers British food exports, emissions trading and a youth experience scheme, is a \"choice between a broken status quo or change\", Andy Burnham will tell MPs.\nThe agreements announced on Friday included scrapping most of the checks on British food exports, in return for the UK following some EU regulations, from 2028.\nHe believes polling suggests the UK public \"want closer ties\" with the EU and the deal \"delivers that\".\nConservative leader Kemi Badenoch will use a speech at the Confederation of British Industry (CBI) annual conference on Monday to criticise Burnham's EU deal.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-22T22:49:10Z",
-      "source": "BBC News"
+      "url": "https://www.businessinsider.com/nvidia-stock-price-jensen-huang-trump-ai-tulips-nfts-gordon-2026-11",
+      "title": "Nvidia Stock Has Shades of Dutch Tulips, Bored Ape NFTs, Tech Guru Says",
+      "summary": "Nvidia stock?\nThe AI chipmaker's market value has the \"same connection to economic reality that Dutch tulip bulbs and Bored Ape NFTs had,\" Erik Gordon says, referring to the tulip mania of the 1600s and the craze around digital collectibles during the COVID-19 pandemic.\nNvidia's shares rocketed 31% on Monday, adding nearly $1 trillion to its market capitalization, after cofounder Jensen Huang was reinstated as CEO.\nHe's repeatedly bet against Nvidia this year, saying the central supplier and financier of the boom is \"simply the purest play.\"\nNvidia stock fell nearly 9% in morning trading on Tuesday.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-24T17:16:59Z",
+      "source": "Business Insider"
     }
   },
   {
@@ -101,7 +101,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
       "title": "What Jensen Huang's return to Nvidia teaches China's Xi about Trump",
       "summary": "Jensen Huang's reinstatement as Nvidia CEO has riveted the world - including China, where it has become the top trending post on Weibo, the country's biggest social media platform.\nBut to many, Huang's return, which is being dubbed one of the greatest U-turns of all time, seems like a vindication for China.\nBeijing has dismissed claims that one of the women who had an affair with Jensen Huang had been recruited by China's Ministry of State Security, its version of the CIA, as a spy.\nChinese state media has also framed the spy saga as a smear campaign orchestrated by China hawks in Washington.\nNow the White House, and President Donald Trump himself, have said Huang poses no national security threat, although investigations into the spy allegations are still ongoing.",
-      "category": "international",
+      "category": "technology",
       "bias": "center",
       "publishedAt": "2026-11-24T07:26:27Z",
       "source": "BBC News"
@@ -134,42 +134,30 @@
   {
     "article": {
       "id": "MTE=",
-      "url": "https://games.slashdot.org/story/26/11/22/0457218/how-does-gta-6-depict-electric-cars",
-      "title": "How Does GTA 6 Depict Electric Cars?",
-      "summary": "I use technology in order to hate it more properly.\n-- Nam June Paik",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "title": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
+      "summary": "It\u2019s unclear if the FinCEN breach is related.\nAmericans have been on high alert about security incidents after a series of seemingly unrelated outages earlier this month.\nAmericans have been on high alert about security incidentsFinCEN\u2019s role is to protect the financial system from illegal activity, including by combatting money laundering and terrorism financing.\nThe bureau maintains financial transaction data and distributes it for law enforcement purposes.\nFinCEN also houses reports of suspicious activity that financial institutions file as part of the Bank Secrecy Act.",
       "category": "technology",
       "bias": "left",
-      "publishedAt": "2026-11-22T17:34:00Z",
-      "source": "Slashdot.org"
+      "publishedAt": "2026-11-25T00:43:13Z",
+      "source": "The Verge"
     }
   },
   {
     "article": {
       "id": "MTI=",
-      "url": "https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11",
-      "title": "The CFO at the center of Amazon\u2019s AI spending blitz",
-      "summary": "At a September staff meeting, Amazon Web Services CFO John Felton offered a blunt assessment of the forecasts behind Amazon's unprecedented AI spending push.\n\"AI is moving faster than any technology we have seen, and it is still early,\" Felton told Business Insider.\n\"Land, power and permitting take years, so we commit to those early,\" Felton told Business Insider.\n\"The biggest opportunity is that AI and the rest of AWS grow together,\" he told Business Insider.\n\"We built fast during the pandemic because customers needed us,\" Felton told Business Insider.",
+      "url": "https://www.bbc.co.uk/news/videos/crz6qgj35yjpo",
+      "title": "Muse: Would you let Meta's AI agent run parts of your life?",
+      "summary": "Mark Zuckerberg's tech company Meta, which runs Facebook and Instagram, is making a big bet on artificial intelligence.\nOn Wednesday it released Muse, an AI agent which doesn't just respond to questions, but can carry out tasks for you.\nWith Muse, Meta gives the examples of \"searching for a cheaper energy deal\" or \"sorting the school calendar\".\nThe BBC's technology and AI editor Zoe Kleinman set up her own Muse - called Linda - and set it to work running her life for a week ahead of its UK launch.\nRead more about Zoe's week with Muse.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-23T10:00:01Z",
-      "source": "Business Insider"
+      "bias": "left",
+      "publishedAt": "2026-11-24T18:08:10Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
       "id": "MTM=",
-      "url": "https://www.newyorker.com/magazine/2026/11/30/is-norways-oil-fund-a-blessing-or-a-curse",
-      "title": "Is Norway\u2019s Oil Fund a Blessing or a Curse?",
-      "summary": "When we visited, there were just three people, staring at Bloomberg terminals in silence.\nNinety-eight per cent of trades at the oljefond are now automatic, Tangen explained, and, thanks to machine-learning algorithms and A.I., all trades are overseen by just fifteen people.\nHe is pushing the Ministry of Finance to let the fund enter sexier areas, such as private equity.\nG\u00f8ran Skaalmo, an investigative journalist at Dagens N\u00e6ringsliv, told me he didn\u2019t think that the idea would ever be approved.\n\u201cWe have some really interesting algorithms,\u201d Tangen told me.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-11-23T11:00:00Z",
-      "source": "The New Yorker"
-    }
-  },
-  {
-    "article": {
-      "id": "MTQ=",
       "url": "https://www.businessinsider.com/fluxcap-legal-ai-startup-y-combinator-investment-2026-11",
       "title": "Why Y Combinator wrote these lawyers a bigger check than its standard deal",
       "summary": "Y Combinator accepts just one in 100 applicants.\nY Combinator agreed to lead the $6.4 million seed round for their new legal AI startup, FluxCap, writing a bigger check at a higher valuation than its standard deal, Kanter said.\nThe special treatment comes as Y Combinator has been pouring money into startups promising to reinvent legal work with artificial intelligence.\nY Combinator runs its program in San Francisco four times a year, and each batch usually includes a handful of remote founders.\nThe BLT is overratedLarge language models made it easier than ever to build legal technology.",
@@ -181,7 +169,7 @@
   },
   {
     "article": {
-      "id": "MTU=",
+      "id": "MTQ=",
       "url": "https://www.bbc.co.uk/news/articles/c6d912e1420eo",
       "title": "Inside the heated debate over Scotland's data centres",
       "summary": "There is strict security in place as we enter what looks like a nondescript office building on the outskirts of Airdrie.\nWe are stepping into a facility at the centre of a heated debate about the growth in data centres in Scotland.\nOpponents argue that centres like this one are of no benefit to the local community and damage the environment.\nDataVita claims its operations in North Lanarkshire are providing jobs and securing \"data sovereignty\" in Scotland.\nThey can process sensitive or valuable data; the companies who run them like to stay in the background.",
@@ -193,7 +181,7 @@
   },
   {
     "article": {
-      "id": "MTY=",
+      "id": "MTU=",
       "url": "https://finance.yahoo.com/technology/article/crowdstrike-is-spending-439-billion-to-buy-zscaler-in-a-huge-cybersecurity-deal-as-tech-outages-spread-110645119.html",
       "title": "CrowdStrike is spending $43.9 billion to buy Zscaler in a huge cybersecurity deal as tech outages spread",
       "summary": "With tech outages ripping across the world, CrowdStrike (CRWD) is shelling out big-time money to acquire fellow cybersecurity player and longtime partner Zscaler (ZS).\nThe two will also combine businesses led by two veteran tech founders: George Kurtz at CrowdStrike and Jay Chaudhry at Zscaler.\nCrowdStrike will spend $43.9 billion to buy Zscaler, it said on Monday.\nCrowdStrike said it expects revenue synergies to build progressively over the first 30 months following an expected close in mid 2027, reaching about $1 billion in annualized run-rate revenue synergies by the end of that period.\n\"We view this as the clearest signal yet that cybersecurity is consolidating into a handful of platforms, with the AI era forcing the hand of vendors who had been content to partner,\" Yorkville Ives partner Dan Ives said.",
@@ -205,19 +193,43 @@
   },
   {
     "article": {
-      "id": "MTc=",
-      "url": "https://www.businessinsider.com/accounting-firms-ai-tech-innovators-wolters-kluwer-report-2026-11",
-      "title": "Accounting firms are racing to use AI. Most still lack the infrastructure to make it work, according to a new report.",
-      "summary": "Wolters Kluwer Tax & Accounting sells software and tools to tax, accounting, and audit firms.\nOn that measure, accounting firms are moving quickly: 88% of US professionals said they use generative AI for daily work, and 68% said the same for agentic AI.\nWhat US accounting firms aren't achieving is a sophisticated tech infrastructure to back up their appetite for the new technology, according to the study.\nSenior executives tend to say that the shift makes accounting work more exciting and people-focused.\nEnsuring big operational change, rather than simply adding AI tools to existing processes, is the next challenge, the report said.",
+      "id": "MTY=",
+      "url": "https://www.androidcentral.com/phones/android-central-ces-2027-awards-how-to-enter-your-product",
+      "title": "Android Central CES 2027 Awards: How to enter your product",
+      "summary": "Submit it to the Android Central CES 2027 Awards!\nAndroid Central CES 2027 Awards categoriesWe will be picking our favorites in the following categories.\nHow to enter a product for consideration for an Android Central CES AwardSubmissions must be received by noon EST / 9 a.m. PST on Dec. 10, 2026.\nTo submit a product for consideration, please fill out the Android Central CES Awards submission form.\nTo be eligible, products must be new (or have been materially updated since CES 2026) and have a presence at CES 2027.",
       "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-22T09:45:01Z",
-      "source": "Business Insider"
+      "bias": "lean right",
+      "publishedAt": "2026-11-24T14:29:52Z",
+      "source": "Android Central"
+    }
+  },
+  {
+    "article": {
+      "id": "MTc=",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "title": "Tidal will start banning AI-generated music next month",
+      "summary": "Tidal is officially banning AI-generated music on December 9th.\nAs a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen.\nThe move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated.\n\u201cWe believe this will resonate with both artists and listeners alike, as 96% of all AI-generated songs receive zero plays at all,\u201d Andersen adds.\nThe platform is also going to ban music distributors from submitting AI songs, using the AI detection tool Ircam Amplify and metadata checks to reject submissions generated solely with AI.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-24T17:17:09Z",
+      "source": "The Verge"
     }
   },
   {
     "article": {
       "id": "MTg=",
+      "url": "https://www.businessinsider.com/anthropic-ai-workplace-report-worker-resistance-surveillance-hiring-2026-11",
+      "title": "Anthropic Report Shows How Pushing AI at Work Can Backfire",
+      "summary": "When bosses push AI, they can fuel surveillance fears and cause resistance from workers, an Anthropic report found.\nAt one law firm, Anthropic said, the chief operating officer asked a staffer to create an AI tool to check for conflicts of interest.\nthe leader told Anthropic.\nCompanies reported hiring lessPeople at two-thirds of the companies told Anthropic they were hiring less because of AI.\n\"That's my secret sauce,\" he told Anthropic.",
+      "category": "technology",
+      "bias": "center",
+      "publishedAt": "2026-11-24T18:00:52Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MTk=",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
       "title": "Meta Muse can do your Black Friday shopping at Walmart",
       "summary": "Tell Muse what you need.\nFor example, ask it to find a great TV deal or show you which Walmart Black Friday deals are available for delivery.\nMuse will take you to Walmart to sign in, then bring you back to Muse.\nThe first time you add an item to your cart, you\u2019ll set up your Agent Profile on Walmart within your Walmart account, including a spending limit you\u2019re comfortable with.\nComplete your purchase within the conversation using a card saved in your Walmart account, with the same Walmart prices you\u2019d find on Walmart.com.",
@@ -229,7 +241,19 @@
   },
   {
     "article": {
-      "id": "MTk=",
+      "id": "MjA=",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "The November update cited by the NYT\u2019s email adds several new AI features, including Adobe\u2019s new \u201cAI Assisted Editor\u201d view, which lets users access all of Photoshop\u2019s AI features from a single toolbar.\nThis can lead to photos ending up with metadata indicating they were edited with AI, which is a blunt way of describing what happened in post-production.\nFor a newsroom like the Times, where photo editing is kept to a minimum, the metadata risks losing readers\u2019 trust.\n\u201cAt this time, we are requiring that all contributing photographers avoid using Adobe Photoshop 2027 (release 28.0.0 and subsequent updates) when working on assignment for The Times,\u201d the email reads.\nIt\u2019s still not clear which specific Photoshop features the NYT is referring to.",
+      "category": "technology",
+      "bias": "left",
+      "publishedAt": "2026-11-24T16:09:23Z",
+      "source": "The Verge"
+    }
+  },
+  {
+    "article": {
+      "id": "MjE=",
       "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
       "title": "Jensen Huang Is Back as Nvidia CEO",
       "summary": "Jensen Huang is stepping back into his role as chief executive of Nvidia effective immediately.\nThe stunning reversal comes 11 days after Huang resigned as CEO from the company he cofounded 33 years ago and after multiple declarations from the board of directors that it had no intention of reinstating him.\nOn Monday morning, President Donald Trump posted that the Nvidia board \u201chas made the correct and proper decision to return Jensen Huang to the position of CEO.\u201d\u201cI am honored to return to Nvidia and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution,\u201d said Huang in a statement.\nThe day Huang resigned, many Nvidia employees spoke up in his support.\nAt the time of writing, it has amassed more than 200,000 online signatures, the majority of whom self-identified as Nvidia shareholders.",
@@ -241,19 +265,31 @@
   },
   {
     "article": {
-      "id": "MjA=",
-      "url": "https://tech.slashdot.org/story/26/11/22/0514226/aptera-completes-its-first-solar-electric-vehicle-for-customer-delivery",
-      "title": "Aptera Completes Its First Solar Electric Vehicle for Customer Delivery",
-      "summary": "I use technology in order to hate it more properly.\n-- Nam June Paik",
+      "id": "MjI=",
+      "url": "https://www.businessinsider.com/chipotle-ai-restaurant-managers-arlie-sisson-2026-11",
+      "title": "How Chipotle Uses AI to Speed up Hiring, Cut Waste, and Help Managers",
+      "summary": "I met her recently at a dinner hosted by Snowflake CEO Sridhar Ramaswamy, whose company supplies some of the technology Chipotle uses.\nA third could change how restaurant managers organize their days.\nEvery morning, Chipotle managers face a deceptively difficult question: How much food should we prepare?\nYes, apparently avocado sizes are another thing restaurant managers have to worry about.\nSisson describes restaurant managers as coaches and quarterbacks.",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-22T12:34:00Z",
-      "source": "Slashdot.org"
+      "bias": "center",
+      "publishedAt": "2026-11-25T07:00:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MjE=",
+      "id": "MjM=",
+      "url": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
+      "title": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systems",
+      "summary": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systemsThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe Treasury Department\u2019s Financial Crimes Enforcement Network (FinCEN) is \"investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems,\" and has taken some systems offline as a precaution, according to an alert posted on its site.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-25T07:41:17Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MjQ=",
       "url": "https://www.cnet.com/tech/mobile/nothing-ear-note-ai-earbuds/",
       "title": "Nothing\u2019s AI Earbuds Will Serve as an All-in-One Conversation Recorder",
       "summary": "The company confirmed via an X post that its Ear Note wireless earbuds will be available starting Dec. 8.\nThe Ear Note earbuds are designed primarily to maximize the recording functionality.\nWhile other AI earbuds have already hit the market, the Ear Note is the first to record both phone calls and in-person conversations.\nThe blocky Ear Note charging case continues this trend while taking the company\u2019s tech in a new direction.\nMultiple companies have created their own versions of smart glasses, earbuds and watches with augmented reality capabilities.",
@@ -265,19 +301,7 @@
   },
   {
     "article": {
-      "id": "MjI=",
-      "url": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo",
-      "title": "AI is being used to clone real people's videos",
-      "summary": "Is this real or AI?\nIt is a question increasingly asked underneath social media videos, and often difficult to tell.\nAcross social media, AI-generated characters are appearing in videos that look remarkably similar to those posted by real people.\nExperts call the practice \"reskinning\" and say it is made possible by cheap, easy-to-use AI tools.\nOthers appear to be experimenting with AI to make people laugh or simply for the attention that comes with going viral.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-22T05:00:38Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "MjM=",
+      "id": "MjU=",
       "url": "https://www.macrumors.com/2026/11/23/apple-light-move-data-server-chips/",
       "title": "Apple Explores Using Light to Move Data Between Server Chips",
       "summary": "Apple is hiring an engineering program manager to work on light-based data connections for its server chips, in what could be a sign of the company's broader ambitions in data-center infrastructure.\nThe Silicon Photonics EPM listing was highlighted by Korea's Maeil Business, and seeks experience with optical I/O, silicon photonics and co-packaged optics, with responsibilities spanning concept through mass production.\nThe optical interconnects are considered to be an emerging core technology for AI data centers, and use light to move data between chips rather than to perform computations.\nThe listing follows a September report that Apple was exploring a return to the server market using its own M-series chips amid cost and speed challenges.\nApple discontinued Xserve in 2011.",
@@ -289,19 +313,31 @@
   },
   {
     "article": {
-      "id": "MjQ=",
-      "url": "https://news.slashdot.org/story/26/11/22/2339252/americas-shipping-ports-now-face-thousands-of-cyberattacks-each-day",
-      "title": "America's Shipping Ports Now Face Thousands of Cyberattacks Each Day",
-      "summary": "I use technology in order to hate it more properly.\n-- Nam June Paik",
+      "id": "MjY=",
+      "url": "https://www.businessinsider.com/aws-cfo-john-felton-amazon-ai-spending-data-centers-2026-11",
+      "title": "The CFO at the center of Amazon\u2019s AI spending blitz",
+      "summary": "At a September staff meeting, Amazon Web Services CFO John Felton offered a blunt assessment of the forecasts behind Amazon's unprecedented AI spending push.\n\"AI is moving faster than any technology we have seen, and it is still early,\" Felton told Business Insider.\n\"Land, power and permitting take years, so we commit to those early,\" Felton told Business Insider.\n\"The biggest opportunity is that AI and the rest of AWS grow together,\" he told Business Insider.\n\"We built fast during the pandemic because customers needed us,\" Felton told Business Insider.",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-23T02:34:00Z",
-      "source": "Slashdot.org"
+      "bias": "center",
+      "publishedAt": "2026-11-23T10:00:01Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MjU=",
+      "id": "Mjc=",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Faws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html&referer=https%3A%2F%2Ft.co%2F4b6f05e1cb",
+      "title": "Golem",
+      "summary": "For troubleshooting information, see here .\n( Reference link to the page )To consent to the use of Golem.de with cookies, Javascript must be enabled in your browser.\nTo consent to the use of Golem.de with cookies, cookies must be enabled in your browser.\nThe consent dialog could not be loaded correctly, consent is only provisional.\nFor troubleshooting information, see here.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-23T18:00:01Z",
+      "source": "Golem.de"
+    }
+  },
+  {
+    "article": {
+      "id": "Mjg=",
       "url": "https://9to5mac.com/2026/11/23/five-recent-tech-outages-were-not-due-to-ai-the-next-round-will-be/",
       "title": "Five recent tech outages were not due to AI; the next round will be",
       "summary": "Five major tech outages in quick succession earlier this month led to speculation that they were connected, with some inevitably believing them to be AI-related.\nThat wasn\u2019t the case, but the US Director of National Intelligence is one of a number of experts warning that we should expect AI-powered outages in the near future \u2026Five unrelated tech outagesEarlier this month saw five tech outages, one after the other.\nThe next day saw a nationwide ground stop of US air traffic due to a communication issue affecting all air traffic control centers.\nBut we need to prepare for the next roundHowever, Director of National Intelligence Jay Clayton has warned that we should expect future tech outages as a result of attacks facilitated by AI-discovered vulnerabilities.\nWe already saw an example of this last month when a vulnerability discovered in PHP saw a significant number of websites being taken offline.",
@@ -313,67 +349,7 @@
   },
   {
     "article": {
-      "id": "MjY=",
-      "url": "https://www.businessinsider.com/bayesline-founders-ai-startup-culture-disagree-and-commit-2026-11",
-      "title": "Bayesline Founders Say AI Is Causing Them to Lead Differently",
-      "summary": "Years before they started a company together, Sebastian Janisch and Misha van Beek became accidental roommates under tough circumstances.\nVan Beek had expected to crash at Janisch's New York apartment for a couple of weeks.\nLiving in close quarters exposed their differences: Janisch, the orderly future CEO, and van Beek, who jokingly describes himself as \"complete chaos.\"\nJanisch and van Beek had to learn to manage their differences during the six months they were roommates.\nJanisch would turn the shirts van Beek had hung up to dry so they faced the same direction.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-22T10:41:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjc=",
-      "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-      "title": "Jensen Huang is back as Nvidia\u2019s CEO",
-      "summary": "Nvidia has reinstated Jensen Huang as its CEO.\n\u201cI am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution,\u201d Huang said in a statement.\nI want to thank the NVIDIA Board for its confidence and deliberation through this process.\u201d This move comes after Jones said during an earnings call last week that the Nvidia board \u201cdoes not intend\u201d to return Huang as CEO.\nHuang resigned as CEO earlier this month following reports of extramarital affairs with an alleged Chinese spy and two Nvidia employees, including an executive who reported to him.\nIn the wake of his departure, more than 200,000 people, including Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney, Y Combinator CEO Garry Tan, and Uber co-founder Travis Kalanick, signed a letter to Nvidia\u2019s board, calling for his reinstatement.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-23T14:04:24Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjg=",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "title": "Google alternative Kagi launches an email service",
-      "summary": "Posts from this author will be added to your daily email digest and your homepage feed.\nKagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail.\nToday, Kagi announced a public beta of Kagi Mail, a new email service that has \u201cno surveillance, no ads, open standards, and no lock-in.\u201dWith Kagi Mail, you get an @kagimail.com address, but the service also supports unlimited aliases and domains.\n\u201cDoes the world need another email service?\nThe service is available as part of a $25 per month Kagi Ultimate subscription.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-24T00:02:52Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
       "id": "Mjk=",
-      "url": "https://www.nature.com/articles/d41586-026-03847-w",
-      "title": "William D. Nordhaus obituary: economist whose tools transformed climate policy",
-      "summary": "Credit: Monica Jorge/New York Times/Redux/eyevineWilliam (Bill) Nordhaus was an economist known for introducing climate change into economic analysis, earning him the 2018 Nobel Prize in Economic Sciences.\nHis research shaped our understanding of what drives economic growth and innovation.\nHe realized that omitting the environment from economic measurement would send the wrong signals about the directions of economic growth and, therefore, pioneered more-inclusive ways to measure growth.\nWhy we need an International Panel on InequalityNext, he questioned the nature of economic growth.\nGNP also understates some of the benefits of economic growth, such as increased household well-being, from inventions such as electricity and home appliances.",
-      "category": "economics",
-      "bias": "left",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "source": "Nature.com"
-    }
-  },
-  {
-    "article": {
-      "id": "MzA=",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "summary": "Climate change talks fall apart in final hours over fossil fuelstoggle caption i Khalil Hamra/APANTALYA, Turkey \u2013 International climate talks in Antalya, Turkey, broke down in overtime hours with a disagreement over how to address fossil fuels, the main cause of global warming.\nDisagreements on fossil fuelsThe disagreements over mentioning fossil fuels in climate conferences have a long, fractured history.\nSome fossil fuel producers like Norway and Mexico have recently wanted to include transitioning away from fossil fuels in the text.\nHowever, that pledge did not ultimately pass, says Alden Meyer, a senior associate at the climate change think tank E3G.\n\"We're not a nation that has the luxury of debating whether climate change is real for us,\" says Matthew Samuda, Jamaica's minister of water, environment and climate change.",
-      "category": "environment",
-      "bias": "center",
-      "publishedAt": "2026-11-22T16:33:22Z",
-      "source": "NPR"
-    }
-  },
-  {
-    "article": {
-      "id": "MzE=",
       "url": "https://www.bbc.co.uk/news/articles/cmedq21jgq8xo",
       "title": "Newspaper headlines: 'Complete COP-out' and Fury's 'torment'",
       "summary": "Warning: This paper review contains references to suicideThe front page photo in the Guardian, external captures the anger at the UN climate talks.\nThe Times, external quotes a negotiator from the Marshall Islands, one of the most vulnerable states to rising sea levels: \"We will not compromise our future to benefit fossil fuel interests,\" they say.\nAhead of the release of a government report into disability benefits tomorrow, the Daily Telegraph, external suggests the prime minister risks \"a major rebellion from Labour MPs\".\nSeparately, the i Paper, external understands that plans are being drawn up to reform Universal Credit for people of all ages, which could open the door to new conditions for claimants.\nAccording to the Telegraph, external, Sir Idris said his life could have looked \"entirely different\" if he'd not received help from the Trust when he was young to train at the National Youth Music Theatre.",
@@ -385,67 +361,7 @@
   },
   {
     "article": {
-      "id": "MzI=",
-      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-      "title": "AI is becoming a disaster for the climate",
-      "summary": "Furthermore, as Emily Atkin writes at her great climate newsletter HEATED, the study, for a number of key reasons, \u201cgets nowhere near the actual amount of climate pollution\u201d data centers actually emit.\nThe findings of the Harvard study comport rather disconcertingly with those of another recent report, State of AI Climate Impact 2026, by the Australian climate researcher Ketan Joshi.\nImage by Janusz Walczak via UnsplashThe single biggest threat to AI data centers right now, however, is probably that everyone hates them.\nBAAJA supercharges AI data center expansion in exchange for token ratepayer protections.\nIn other words, the AI industry is quickly becoming not just a concern, but something more akin to a disaster for the climate.",
-      "category": "environment",
-      "bias": "right",
-      "publishedAt": "2026-11-22T12:19:46Z",
-      "source": "Bloodinthemachine.com"
-    }
-  },
-  {
-    "article": {
-      "id": "MzM=",
-      "url": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
-      "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
-      "summary": "Williams, a provider of gas power to several Meta data centers, met with Environmental Protection Agency leaders in the period leading up to the agency\u2019s recommendation to waive acid rain regulations for data-center power plants, documents obtained by WIRED show.\nThat month, the EPA said that it recommends that \u201cislanded\u201d power plants\u2014which are increasingly being adopted by data centers across the country\u2014be exempt from the program.\nBecause the program was designed for facilities that sell electricity to the grid, the EPA said, power plants that exclusively power data centers wouldn\u2019t need to comply.\nHowever, data center developers are also increasingly turning to private power because it\u2019s often quicker to build their own infrastructure than wait for a grid connection.\nThese private power plants often create more emissions than many of their on-grid counterparts.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-11-23T10:15:00Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "MzQ=",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-      "title": "COP31 climate talks fail to reach deal amid fossil fuel and money rows",
-      "summary": "Countries have failed to reach a major new deal to tackle climate change after deep divisions over fossil fuels and money emerged at the UN COP31 talks in Turkey.\nBut the final deal proved unacceptable to the EU, Pacific island nations and others because it failed to directly mention fossil fuels, the main cause of global warming.\nMeanwhile, many poorer countries objected to the absence of any clear financial commitments from richer nations to help them adapt to the impacts of rising temperatures.\nBut the words \"fossil fuels\" did not appear anywhere in the text.\n\"It is unconscionable that we would have a climate pact that makes no mention of fossil fuels,\" he said.",
-      "category": "environment",
-      "bias": "right",
-      "publishedAt": "2026-11-22T18:17:59Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "MzU=",
-      "url": "https://9to5mac.com/2026/11/23/will-siri-ai-threaten-apples-environmental-target-given-google-and-meta-admissions/",
-      "title": "Will Siri AI threaten Apple\u2019s environmental target, given Google and Meta admissions?",
-      "summary": "It has led the way with its use of renewable energy, made significant strides with carbon-neutral production, and removed plastic from all its packaging.\nThis includes all Apple facilities, from Apple Park through data centers to its worldwide retail store network.\nBut AI data centers are a huge challengePotentially, however, the vast energy demands of the data centers powering AI services could put its 2030 goal at risk.\nOther tech giants have already admitted that it may lead them to fail to hit their own renewable energy promises.\nAt our three newest data centers, we use high-efficiency air-cooled chillers instead of water-cooled systems, resulting in zero water use for cooling.",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-11-23T14:44:21Z",
-      "source": "9to5Mac"
-    }
-  },
-  {
-    "article": {
-      "id": "MzY=",
-      "url": "https://hardware.slashdot.org/story/26/11/22/078255/quantum-computings-first-real-world-payoff-may-come-in-energy-solutions",
-      "title": "Quantum Computing's First Real-world Payoff May Come In Energy Solutions",
-      "summary": "I use technology in order to hate it more properly.\n-- Nam June Paik",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-22T08:34:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzc=",
+      "id": "MzA=",
       "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo",
       "title": "Five takeaways from the failed climate talks COP31",
       "summary": "The COP31 summit in Turkey came as evidence of climate change could not have been clearer - 2026 brought glacier collapses, record European heat, and wildfires across Asia - but also when geopolitical divisions could not have been deeper.\nThe result was the longest-running climate talks in UN history failed to deliver on its central political agreement \u2013 the Antalya Pacts - to further climate action.\nDespite two countries, Australia and Turkey, leading the charge in their joint hosting of the negotiations, they could not bring the nations together.\nAfter a dramatic and fractious final day where countries walked out over the absence of mention of fossil fuels in the text and money issues, questions are being asked more loudly than ever before about whether the COP process can still deliver.\nHere are five, key takeaways from the talks which the hosts hoped would become known as the \"implementation COP\".",
@@ -457,19 +373,7 @@
   },
   {
     "article": {
-      "id": "Mzg=",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "title": "How AI is powered: a breakdown of BYOP and grid power",
-      "summary": "But BYOP projects aren\u2019t the only new fossil sources that are coming online to meet the skyrocketing energy demands of AI data centers.\nMap of Anthropic\u2019s data centers and associated power plants.\nBy considering on-site gas and the grid power plants which are likely to meet Anthropic\u2019s added load (i.e.\nThis demand will be met with a mix of new on-site gas, new grid gas, and existing grid gas, coal, and nuclear.\nCalifornia power sector emissions are for all power plants operating within the state (source: EIA).",
-      "category": "technology",
-      "bias": "lean left",
-      "publishedAt": "2026-11-22T08:57:34Z",
-      "source": "Betterdatacenterproject.com"
-    }
-  },
-  {
-    "article": {
-      "id": "Mzk=",
+      "id": "MzE=",
       "url": "https://www.nature.com/articles/d41586-026-03827-0",
       "title": "COP31 went up in flames over fossil fuels \u2014 it sends an important message",
       "summary": "Anyone hoping for bold action on climate change has many reasons to be disappointed by the latest United Nations climate summit, COP31, which concluded in a dramatic overtime session on 22 November.\nAfter gathering for nearly two weeks in the beach resort city of Antalya, Turkey, in what will probably be the hottest year on record, representatives from nearly all the world\u2019s countries failed to agree on a plan to tackle climate change.\nAlmost 100 nations walked out without signing a \u2018cover decision\u2019 \u2014 a non-binding statement meant to push for ambitious action \u2014 because the document did not call on the world to transition away from fossil fuels.\nThe last COP climate talk to break down this badly was the Copenhagen summit in 2009.\nBut when language targeting fossil fuels disappeared from the draft cover decision after lobbying by oil-rich nations, a coalition of around 90 countries, led by the European Union and small island states, rejected the agreement.",
@@ -481,43 +385,91 @@
   },
   {
     "article": {
-      "id": "NDA=",
-      "url": "https://hackaday.com/2026/11/21/thermite-powered-instant-phone-charger/",
-      "title": "Thermite Powered Instant Phone Charger",
-      "summary": "Thermite is an amazing material, using mostly easily obtainable ingredients like aluminium and iron(III) oxide in a redox reaction to create a rather spectacular amount of thermal energy in very little time.\nwelding railroad tracks, thermite has also seen use by the folk over at [The Thought Emporium] for less conventional uses like heating up hotdogs and more recently charging a cellphone.\nThe core of this thermite generator uses a similar thermoelectric cooling (TEC) plate, also known as a Peltier element.\nAfter spending most of the video discussing why RTGs are far superior, 300 grams of thermite is loaded into the chamber of this thermite generator.\nAlthough they managed to have a slow enough thermite reaction to give the TECs some time to churn out some power, ultimately its probably the most flashy and least productive way to charge up your phone.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-22T00:00:29Z",
-      "source": "Hackaday"
+      "id": "MzI=",
+      "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse",
+      "title": "COP31: What next after UN climate talks collapse",
+      "summary": "UN member states fail to agree on how to fast-track action to reverse global warming in blow to climate agenda.\nUnited Nations climate talks have ended in collapse after countries deadlocked over the phasing out of planet-warming fossil fuels, aiding energy transition for developing countries and the response to natural disasters.\nOn the contrary, the text made no mention of fossil fuels while promoting carbon capture.\nThe collapse of the climate talks in Turkiye has renewed questions about reform of its consensus-based process, centred around the principle that all countries must agree to the reforms.\nHowever, calls for reform are multiplying and a second tier of COPs \u2013 the Global Climate Action Agenda \u2013 is rising in prominence.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-23T11:19:08Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NDE=",
-      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go",
-      "title": "What's next after no deal at COP31 climate summit?",
-      "summary": "What the new UK-EU deal could mean for future post-Brexit relations.\nVideo, 00:01:42What the new UK-EU deal could mean for future post-Brexit relations",
+      "id": "MzM=",
+      "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza",
+      "title": "\u2018Environmental crimes\u2019: Israel blamed for toxic pollution in 99% of Gaza",
+      "summary": "A new report by UK-based charity Oxfam shows how Israel\u2019s destruction of Gaza has created a \u2018toxic wasteland\u2019.\nA study cited in the report estimated direct conflict emissions at more than 1.3 million tonnes of carbon dioxide equivalent (CO2e) by January 2025.\nThe amount of rubble that needs to be cleared is about eight times the 7.65 million tonnes estimated in Iraq\u2019s Mosul during the 2017 conflict.\nOxfam identified North Gaza, Gaza City and Deir el-Balah as the areas most at risk from contaminated drinking water.\nLegal, political and financial risksOxfam says the destruction of Gaza\u2019s water, food and sanitation systems may be relevant to alleged crimes under the Rome Statute and to assessing whether Israel violated the Genocide Convention.",
       "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-11-23T09:30:16Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "MzQ=",
+      "url": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
+      "title": "Thanksgiving Travel Will Be a Stormy Mess",
+      "summary": "Expect travel headaches from coast to coast this week.\nSeveral rounds of disruptive weather sweep are likely to cause delays at airports and make for challenging driving conditions just in time for the Thanksgiving long weekend.\nPotent systems rolling into the West Coast will bring disruptions from Seattle to San Francisco, where high tides could swamp airport runways.\nThe stormy setup arrives at the peak travel time of the year in the US.\nAnd with the extreme weather this week is set to sweep across some of the country\u2019s biggest travel hubs, it could upend the best-laid travel plans.",
+      "category": "international",
       "bias": "left",
-      "publishedAt": "2026-11-22T18:28:48Z",
+      "publishedAt": "2026-11-24T15:12:31Z",
+      "source": "Wired"
+    }
+  },
+  {
+    "article": {
+      "id": "MzU=",
+      "url": "https://www.nature.com/articles/s41586-026-11354-1",
+      "title": "Disturbances and climate drive tree elevational shifts",
+      "summary": "Elevational shifts were quantified within individual species\u2013ecosection combinations, rather than across the entire western US, to avoid conflating elevational shifts with latitudinal shifts.\nFor each species\u2013ecosection, elevational shifts were quantified as the difference in the stem abundance-weighted or basal area-weighted elevational centres of all trees (DBH \u2265 2.54 cm) between the two inventory periods.\nBecause ecosection boundaries can intersect species\u2019 elevational ranges, particularly at lower elevations, they may influence the observed elevational shifts by truncating portions of species distributions.\nElevational shifts were recalculated under each buffering scenario and compared with the original estimates based on unbuffered ecosections.\nThe overall distribution of elevational shifts remained highly consistent among the 0 km, 50 km and 100 km buffering scenarios (Supplementary Fig.",
+      "category": "environment",
+      "bias": "center",
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "source": "Nature.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MzY=",
+      "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o",
+      "title": "Urgent action needed to protect Buttermere, new reports warns",
+      "summary": "Tourism, infrastructure challenges and \"outdated, undersized and poorly maintained\" wastewater systems are contributing to the ecological decline of a popular lake, an environmental group has warned.\nButtermere, in the Lake District, has seen rising nutrient levels in recent years which can lead to excess phosphorus and blankets of algae.\nWest Cumbria Rivers Trust (WCRT), a charity which tracked down the sources of phosphorus for the study, argues \"urgent regulatory action and maintenance guidance are needed\".\nThe Buttermere Nutrient Investigations Project was commissioned and funded by the Environment Agency (EA) after the lake was last year found to be failing to meet total phosphorus targets.\nWCRT said the investigation showed Buttermere - a designated Site of Special Scientific Interest and Special Area of Conservation - was a \"fragile ecosystem under pressure\".",
+      "category": "environment",
+      "bias": "lean left",
+      "publishedAt": "2026-11-24T09:10:43Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NDI=",
-      "url": "https://hackaday.com/2026/11/21/capturing-and-mineralizing-atmospheric-carbon-dioxide/",
-      "title": "Capturing And Mineralizing Atmospheric Carbon Dioxide",
-      "summary": "That said, even at a mere 400 ppm it\u2019s already a problem, so capturing it seems like a good idea.\nBy mineralizing the carbon dioxide it should end up in a stable form that will last the ages.\nUltimately this experiment removed 4.3 grams of carbon dioxide from the atmosphere, corresponding to about 2 liters.\nDirect air capture of carbon dioxide makes little sense at this point, as the calculations in the video also show by scaling up this experiment.\nEven when you talk about carbon capture and storage/sequestration (CCS) directly at the source of the air pollution the economics are iffy, albeit it significantly more realistic.",
+      "id": "Mzc=",
+      "url": "https://www.itsnicethat.com/articles/teemill-christmas-call-creative-industry-sponsored-content-231126",
+      "title": "Launch your sustainable merch store in time for Christmas with Teemill",
+      "summary": "The brand operates within a circular economy, creating made-to-order products with renewable energy and organic cotton, and with plastic-free packaging.\nMoreover, if you\u2019re finished with a product produced by Teemill, you can return it via its Remill programme, which will see it recycled and remade.\nSustainability is at the centre of decision-making within the brand, and this strong perspective, along with the quality of its offering, is why big brands trust Teemill.\nTeemill are fast workers, so there is still time to launch a store on Teemill for free in time for Christmas.\nFor It\u2019s Nice That\u2019s readers who sign up for a free store, they\u2019re also offering an extra ten per cent off your first sample order, on top of wholesale prices, using the code NICE10.",
       "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-11-22T03:00:36Z",
-      "source": "Hackaday"
+      "bias": "center",
+      "publishedAt": "2026-11-23T11:00:00Z",
+      "source": "Itsnicethat.com"
     }
   },
   {
     "article": {
-      "id": "NDM=",
+      "id": "Mzg=",
+      "url": "https://www.techradar.com/pro/the-path-forward-is-complex-meta-set-to-rethink-its-2030-goal-to-go-net-zero-as-ai-data-center-demands-continue-to-rise",
+      "title": "Meta's AI boom just blew up its 2030 net-zero climate pledge after carbon emissions jumped 45% \u2014 and now it's backing 10 new gas power plants",
+      "summary": "The development comes as major technology companies encounter growing difficulties reconciling their expanding computing infrastructure with previously announced environmental commitments.\nMeanwhile, electricity consumption increased 35% to 24.8 terawatt-hours, although the company said renewable and low-carbon contracts covered its entire electricity requirements.\nThe company is considering purchasing certificates associated with lower methane emissions to address some pollution associated with its anticipated natural gas consumption.\nHowever, its growing dependence on electricity has consequences extending beyond carbon emissions, particularly regarding water consumption across its operations.\nAlthough direct consumption declined 4%, usage in water-stressed locations increased 24%, while electricity-related water consumption climbed 37%.",
+      "category": "environment",
+      "bias": "right",
+      "publishedAt": "2026-11-23T21:25:00Z",
+      "source": "TechRadar"
+    }
+  },
+  {
+    "article": {
+      "id": "Mzk=",
       "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
       "title": "Saurav Das CJP: Indian government has 'lost the plot' says 'cockroach' party leader after being barred from UK flight",
       "summary": "One of the leaders of India's \"cockroach\" movement has said the Delhi government has \"completely lost the plot\" after he was stopped from leaving the country for the UK.\nIn an interview with the BBC, Das said there were no discrepancies in his documents, accusing the Indian government of using cheap tactics to stop activists from travelling and speaking on issues that matter to young people.\nSaurav told the BBC World Service's Newshour programme the incident showed the government was \"scared\".\n\"They are scared of the cockroach movement.\n\"It's a way to harass, to target activists, young voices in India by the Modi government.\"",
@@ -529,7 +481,7 @@
   },
   {
     "article": {
-      "id": "NDQ=",
+      "id": "NDA=",
       "url": "https://www.yahoo.com/news/us/articles/trump-administration-deported-us-citizen-110056569.html",
       "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
       "summary": "The Trump administration recently admitted in federal court that it deported a US citizen to Mexico after American authorities incorrectly concluded he was an undocumented immigrant.\nAdvertisement AdvertisementMorales Garc\u00eda was deported on 7 April, with the Trump administration later accusing him in a media statement of being in the country illegally.\nBut those efforts were unduly rebuffed, Morales Garc\u00eda's lawsuit said.\nThe Trump administration denied Morales Garc\u00eda's assertions, saying on Friday that he went to Mexico voluntarily and therefore lacked any basis to sue the federal government for damages.\nAdvertisement AdvertisementThe judge presiding over Morales Garc\u00eda's lawsuit, Robert Lee Pitman, did not immediately rule on the Trump administration's request on Friday to dismiss the case.",
@@ -541,7 +493,19 @@
   },
   {
     "article": {
-      "id": "NDU=",
+      "id": "NDE=",
+      "url": "https://abcnews.com/US/kilmar-abrego-garcia-leaves-us-deporting-spain/story?id=138414044",
+      "title": "Kilmar Abrego Garcia arrives in Spain after self-deporting from US",
+      "summary": "Kilmar Abrego Garcia arrives in Spain after self-deporting from USSalvadoran national Kilmar Abrego Garcia and his wife Jennifer Vasquez Sura arrives at the airport in Madrid, November 25, 2026.\nSalvadoran national Kilmar Abrego Garcia and his wife Jennifer Vasquez Sura arrives at the airport in Madrid, November 25, 2026.\nKilmar Abrego Garcia, who was returned to the U.S. after being mistakenly deported to a Salvadoran mega-prison, has arrived in Spain after self-deporting from the U.S., according to his attorney.\n\u201cWe are delighted to announce that Kilmar Abrego Garcia has self-deported from the United States to Spain,\u201d Mullin said.\nIn this Dec. 22, 2025, file photo, Kilmar Abrego Garcia arrives at U.S. District Court for the District of Maryland, in Greenbelt, Maryland.",
+      "category": "immigration",
+      "bias": "center",
+      "publishedAt": "2026-11-24T23:19:50Z",
+      "source": "Abcnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NDI=",
       "url": "https://www.jezebel.com/ice-agents-detain-father-daughter-no-criminal-record-on-airplane",
       "title": "ICE Agents Detain Father and Daughter with No Criminal Record on Their Way to Family Baptism",
       "summary": "Though immigration enforcement has long been chaotic and uneven, Donald Trump has taken its brutality and terror tactics to unprecedented levels.\nVideos from the scene show masked ICE agents in plain clothes grabbing Ricardo Larrondo Mendoza and his daughter, Sofia Hernandez Mejia as they attempted to board a flight destined for Los Angeles.\nMendoza and Mejia applied for asylum and his paperwork is stuck in a logjam, something that they have no power over.\nTheir statuses enable them to legally work in the country, which is why their work permits have been continuously renewed.\nI\u2019m outraged by disturbing video of ICE agents forcing a woman to the ground on a jet bridge at SeaTac.",
@@ -553,19 +517,31 @@
   },
   {
     "article": {
-      "id": "NDY=",
-      "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974",
-      "title": "Washington state officials condemn ICE after 2 arrested boarding flight at Seattle airport",
-      "summary": "This still image from a video shows an ICE arrest on a jet bridge at Seattle-Tacoma International Airport on Nov. 21, 2026.\nThis still image from a video shows an ICE arrest on a jet bridge at Seattle-Tacoma International Airport on Nov. 21, 2026.\nThis still image from a video shows an ICE arrest on a jet bridge at Seattle-Tacoma International Airport on Nov. 21, 2026.\nThis still image from a video shows an ICE arrest on a jet bridge at Seattle-Tacoma International Airport on Nov. 21, 2026.\nWashington state officials condemned Immigration and Customs Enforcement on Saturday after plainclothes officers in masks detained two people who were boarding a flight at Seattle-Tacoma International Airport.",
+      "id": "NDM=",
+      "url": "https://www.jezebel.com/a-9-year-old-boy-tells-ms-rachel-what-he-wants-for-christmas-most-is-an-immigration-lawyer",
+      "title": "A 9-Year-Old Boy Tells Ms. Rachel What He Wants for Christmas Most is an Immigration Lawyer",
+      "summary": "And, per numbers obtained by Vera Institute in October, more than half of them have never had legal representation.\n\u201cIt\u2019s heartbreaking,\u201d Ms. Rachel (known privately as Rachel Griffin Accurso) said on Monday, after meeting with unaccompanied migrant kids in an immigration court in New York.\nPer ABC7, the court has asked Angel\u2019s mom to find legal representation for Angel by Dec. 15.\nto close the Dilley Processing Immigration Center, which is run by private prison company CoreCivic and where several children and families have been detained.\nPlus, you\u2019ll be supporting independent journalism\u2014which, can you even imagine not supporting independent journalism in times like these?",
       "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-11-22T03:03:57Z",
-      "source": "Abcnews.com"
+      "bias": "left",
+      "publishedAt": "2026-11-24T14:25:14Z",
+      "source": "Jezebel"
     }
   },
   {
     "article": {
-      "id": "NDc=",
+      "id": "NDQ=",
+      "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2",
+      "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
+      "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.\nMalaysia will send more than 6,500 Rohingya refugees back to Myanmar in a new round of repatriations, said Prime Minister Anwar Ibrahim.\nThe UN\u2019s highest court ruled last week that Myanmar authorities must \u201callow and facilitate the safe, voluntary and dignified return\u201d of refugees displaced either within Myanmar or abroad.\nLate last month, Malaysia said it would seek clarification from Myanmar about reports that hundreds of migrants recently returned to the country were being held in military detention.\nThe mainly Muslim Rohingya \u2013 described as the \u2018world\u2019s most persecuted minority\u2019 \u2013 make up two-thirds of the 190,000 Myanmar refugees and asylum seekers in Malaysia, according to the United Nations.",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-11-24T08:21:41Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NDU=",
       "url": "https://www.dailymail.com/news/article-16314727/Migrants-using-knives-slash-roofs-lorries-cross-Britain-undetected-brazenly-posting-TikTok.html",
       "title": "Migrants using knives to slash roofs of lorries as they cross into Britain undetected - before brazenly posting about it on TikTok",
       "summary": "Migrants are using knives to slash their way through lorries and trucks in the latest tactic to illegally sneak into Britain.\nSocial media footage shows male migrants brazenly showing off their blades in the back of UK-bound lorries.\nOther migrants have filmed videos showing where they have slashed through roofs to sneak into lorries.\nIt comes after footage earlier this year showed migrants jumping from the roof of an HGV after arriving from France.\nOn June 26, a Malian migrant showed off a knife he used to cut a hole in a roof.",
@@ -577,19 +553,7 @@
   },
   {
     "article": {
-      "id": "NDg=",
-      "url": "https://www.yahoo.com/news/us/articles/ice-completely-totally-control-gov-080100144.html",
-      "title": "\u2018ICE is completely and totally out of control\u2019: Gov. Ferguson speaks out against Sea-Tac ICE arrest",
-      "summary": "On the eve of one of the busiest holiday travel weeks of the year, ICE agents arrested two people at SeaTac Airport Saturday.\n\"Look, ICE is completely and totally out of control.\nIn a statement, Alaska Airlines indicated it was not told about the ICE enforcement action ahead of time.\n\"The reality is that federal agents do have access throughout the airport, using their federal badges,\" Mohamed added.\nShe told KIRO 7 that the Port is not warned ahead of time about ICE enforcement at the airport, though Mohamed says she has requested that.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-11-22T08:01:00Z",
-      "source": "Yahoo Entertainment"
-    }
-  },
-  {
-    "article": {
-      "id": "NDk=",
+      "id": "NDY=",
       "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy",
       "title": "Danish top court\u2019s \u2018ghetto law\u2019 ruling supports hardline immigration policy",
       "summary": "The country\u2019s top court said eviction of \u2018non-Western\u2019 families did not constitute discrimination.\nDenmark\u2019s top court has ruled that the eviction of \u201cnon-Western\u201d tenants from a social housing estate under the country\u2019s \u201cghetto law\u201d was not discriminatory.\nThe country\u2019s \u201cghetto law\u201d housing legislation, adopted in 2018, allows for the \u2060relocation of residents from areas in which more than half of residents are \u201cnon-Western\u201d.\nIt requires social housing estates to change the social mix by renting at least 60 percent of homes at market rates by 2030.\nThe 2018 \u201cghetto law\u201d is aimed at combatting segregation and \u201cparallel societies\u201d in disadvantaged neighbourhoods, according to the government.",
@@ -601,7 +565,7 @@
   },
   {
     "article": {
-      "id": "NTA=",
+      "id": "NDc=",
       "url": "https://www.rollingstone.com/culture/culture-news/ms-rachel-support-children-facing-deportation-immigration-1235663297/",
       "title": "Ms. Rachel Shows Support for Families at NYC Immigration Court",
       "summary": "Ms. Rachel met with children appearing without an attorney at federal youth immigration court in Manhattan on Monday.\n\u201cKids representing themselves in immigration court is so wrong.\nHe\u2019s 9 years old!\u201d Ms. Rachel wrote in the caption.\nStop the cruelty!\u201dWhen Ms. Rachel asked Angel to write a list of things he wanted for Christmas, he asked for an immigration lawyer.\nMs. Rachel stopped by the court alongside Congressman-elect Brad Lander, according to ABC 7.",
@@ -613,7 +577,7 @@
   },
   {
     "article": {
-      "id": "NTE=",
+      "id": "NDg=",
       "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko",
       "title": "Nepal PM Balendra Shah visit: India to give $1.62bn economic package",
       "summary": "A Hindu-majority nation wedged between India and China, Nepal has long had to navigate competing interests from its two giant neighbours.\nAs a landlocked country heavily dependent on India for trade, Nepal secured access to two additional Indian ports, Kandla and Paradip.\nNepal has long sought greater access to Indian airspace in order to attract international traffic to its airports at Bhairahawa and Pokhara.\nShah must now manage relations with China as he seeks to balance the interests of Nepal's two much larger neighbours.\nFor now he returns home with substantial financial commitments from India as Nepal continues the long task of rebuilding.",
@@ -625,206 +589,26 @@
   },
   {
     "article": {
-      "id": "NTI=",
-      "url": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493",
-      "title": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
-      "summary": "Raymond Gukiina says WhatsApp is a key tool for refugees and other newcomers to Canada.\nWATCH | Meta would 'consider' pulling services over Bill C-22: Meta would consider pulling apps from Canada over 'lawful access' bill | Duration 1:58 Bill C-22 would force tech companies to adapt their systems so they all have the ability to hand over information to investigators with a warrant.\nRachel Curran, Meta's head of public policy for Canada, said the company \"would need to consider\" withdrawing affected services \u2014 effectively, WhatsApp \u2014 if the legislation passes.\n\"The proposals on encryption in C-22 are similar to those in Australia, where WhatsApp continues to operate.\nGroup chats keyNevertheless, the legislation has fuelled fears that WhatsApp service could be affected.",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-11-22T09:00:00Z",
-      "source": "CBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTM=",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike",
-      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
-      "summary": "NewsFeed Gaza mourns UNRWA worker killed in Israeli strikePalestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while supplying water to residents of Jabalia refugee camp in northern Gaza.\nHis brother says al-Helou dedicated 35 years to the agency.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-23T16:35:28Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTQ=",
-      "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
-      "title": "Russia threatens \u2018hostile\u2019 Estonia with \u2018open war\u2019",
-      "summary": "Russia has accused Estonia of carrying out numerous \u201chostile actions\u201d and threatened \u201copen war\u201d against the neighbouring Baltic state.\nRussia\u2019s Ministry of Foreign Affairs on Monday accused Tallinn of a \u2060\u2060range of hostile actions, asserting that the NATO and European Union member state is \u201con \u2060\u2060the verge of triggering open war\u201d.\nAmong a list of additional accusations, the ministry said Estonia had \u201ctacitly allow[ed] its airspace to be used by Ukrainian drones for attacks on northwestern Russia\u201d.\nThis marked a sharp escalation in tensions between Estonia and Russia, which Tallinn \u2013 Kyiv\u2019s ally \u2013 sees as part of a broader campaign of hostile activity linked to Moscow\u2019s war in Ukraine.\nRussia has long accused Estonia and other NATO states in the Baltic region of allowing Ukrainian drones to use their airspace.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-23T19:20:30Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NTU=",
-      "url": "https://www.insidehighered.com/news/global/international-students-us/2026/11/23/number-students-crisis-stricken-countries-rising",
-      "title": "Number of Students From Crisis-Stricken Countries Rising",
-      "summary": "Despite significant declines in overall international student applications and enrollment since the start of the second Trump administration, the number of students in the United States from crisis-stricken countries has increased since 2024, according to a new analysis of international student data.\nThe growth is likely driven by refugee and displaced students from Nepal, Colombia and Iran, all countries that have recently been devastated by natural disasters or political upheaval.\nThe report doesn\u2019t include students with temporary protected status; those designated as refugees, asylum seekers or humanitarian parolees; or other displaced students already living in the U.S.\nDespite the jump in students from Columbia and Nepal, the countries from which the Trump administration has restricted travel sent far fewer students in 2026.\nLaura Wagner, director of refugee student initiatives at the Presidents\u2019 Alliance, said the data reveals how policies such as travel bans affect refugee students.",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-11-23T08:00:00Z",
-      "source": "Inside Higher Ed"
-    }
-  },
-  {
-    "article": {
-      "id": "NTY=",
-      "url": "https://www.newyorker.com/magazine/2026/11/30/the-realist-david-m-sacks-book-review",
-      "title": "How Realistic Are Foreign-Policy Realists?",
-      "summary": "Foreign-policy realists are the killjoys of international politics.\nThey have no choice but to pursue their interests\u2014though realists disagree among themselves about what those are.\n\u201cDefensive\u201d realists think states desire security above all.\n\u201cOffensive\u201d realists think states are driven to maximize power.\nBut all realists agree that the laws of power cannot be avoided any more than the law of gravity.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-23T11:00:00Z",
-      "source": "The New Yorker"
-    }
-  },
-  {
-    "article": {
-      "id": "NTc=",
-      "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
-      "title": "US escalates sanctions on Iran, targets \u2018shadow banking\u2019 networks",
-      "summary": "US Treasury sanctions more than two dozen Iranian entities, citing efforts to disrupt Tehran\u2019s global financial activities, amid ongoing diplomatic effort to end the US-Israel war on Iran.\nThe Department of the Treasury announced on Monday that it had targeted more than two dozen Iranian exchange houses, front companies, and key personnel with sanctions \u201cin a sweeping effort to disrupt Iran\u2019s global shadow banking networks\u201d.\n\u201cIran\u2019s shadow banking system is the last financial lifeline of a bankrupt regime,\u201d said US Secretary of the Treasury Scott Bessent.\nThe US Treasury claimed these entities help Iran \u201cmove billions of dollars through the international financial system to provide the regime access to foreign currency despite comprehensive sanctions\u201d.\nIn addition, \u201cMina Fashki and Partners Exchange Company (Fashki Exchange) and Mellat Exchange Company\u201d and a number of their owners and employees were designated.",
-      "category": "international",
+      "id": "NDk=",
+      "url": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it",
+      "title": "Countries that thrive on global cooperation must help sustain it",
+      "summary": "\u201cFor thriving states, international peace and stability are not a luxury.\nThe prime minister\u2019s concept of thriving states offers a way to think about their response.\nThe Global North and the Global South tell us little about which countries can work together on a particular problem.\nTheir diplomatic access and financial resources are increasingly necessary to sustain functions that international institutions struggle to perform consistently.\nThe next step is to organise sustained cooperation among willing thriving states.",
+      "category": "economics",
       "bias": "center",
-      "publishedAt": "2026-11-23T21:30:40Z",
+      "publishedAt": "2026-11-25T08:23:01Z",
       "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NTg=",
-      "url": "https://www.nature.com/articles/d41586-026-03829-y",
-      "title": "Pakistani astronaut to become first foreign visitor to China\u2019s space station",
-      "summary": "Three astronauts will launch aboard China\u2019s Shenzhou-24 spacecraft.Credit: Xinhua/ShutterstockFor the first time, China will send a foreign astronaut to its Tiangong space station.\nMuhammad Zeeshan Ali, a Pakistani military pilot, is expected to travel to Tiangong on 25 November aboard China\u2019s Shenzhou-24 spacecraft, alongside two Chinese astronauts, known as \u2018taikonauts\u2019.\nSending an astronaut to space is \u201ca huge step\u201d for Pakistan\u2019s space aspirations, says Wajiha Iqbal, a lunar scientist at the University of M\u00fcnster in Germany.\nThe mission is also a milestone for China\u2019s space programme.\nZhu Yangzhu, an astronaut who entered Tiangong in May, will remain aboard the space station for another six months to allow for this experiment to take place, Zhang said.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "source": "Nature.com"
-    }
-  },
-  {
-    "article": {
-      "id": "NTk=",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "summary": "A Russian warship was sunk by Ukrainian drones at a port in Libya on Sunday, President Volodymyr Zelensky has said.\nZelensky added that Ukraine's attack hit a second Russian vessel, a cargo ship which he claimed was being used to transport weapons.\nThe Tripoli foreign ministry said the country would not accept being drawn into the conflict.\nThe attack came the day after a Russian cargo vessel was hit by a drone attack in the eastern Gulf of Finland.\nPeskov declined to comment on the strikes on Russian ships in Libya and said that that information would be provided by Russia's Defence Ministry.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-22T16:05:25Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NjA=",
-      "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
-      "title": "Iran says it will use \u2018all available means\u2019 to counter US blockade",
-      "summary": "Share Iran says it will use \u2018all available means\u2019 to counter US blockade on social mediaIran says it will use all means at its disposal to counter a United States naval blockade imposed during the nine-month US-Israel war on Iran.\n\u201cYou should bear in mind that what the Americans have described as economic sanctions, an economic blockade and a naval blockade undoubtedly constitute an act of military aggression against Iran,\u201d Baghaei said.\nAl Jazeera\u2019s Resul Serdar Atas, reporting from Tehran, said the US blockade is hurting Iran economically.\n\u201cIranians are now looking increasingly for options to put an end to the US naval blockade,\u201d our correspondent said, adding that military action against US military assets around Iran is being discussed.\nIran has said Hormuz could be open within two days if Washington meets its conditions, including halting hostilities, lifting the blockade and waiving sanctions.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-23T13:04:11Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjE=",
-      "url": "https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11",
-      "title": "Jensen Huang returns to Nvidia HQ to cheers: 'I'm going to be a better CEO the second time around'",
-      "summary": "Jensen Huang returned to Nvidia's Santa Clara headquarters Monday to cheers from employees, less than two weeks after his stunning ouster.\nNvidia employees gathered at headquarters to mark the moment, chanting \"Jensen!\nas he arrived back at the office, according to a person familiar with the scene.\n\"I'm gonna be a better CEO the second time around,\" he said, according to another person in attendance.\nA \"Stand with Jensen\" petition calling for his reinstatement had previously garnered more than 200,000 signatures, including thousands who identified as current employees.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-23T18:57:46Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NjI=",
+      "id": "NTA=",
       "url": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth",
       "title": "How the US, China and Russia are competing for Africa\u2019s mineral wealth",
       "summary": "The US, China and Russia are vying for Africa\u2019s mineral wealth, raising questions about who stands to benefitShare How the US, China and Russia are competing for Africa\u2019s mineral wealth on social mediaFrom cobalt mines in the Democratic Republic of the Congo (DRC) to lithium deposits in Mali and uranium reserves in Niger, Africa\u2019s mineral wealth is becoming an increasingly important arena of competition between the United States, China and Russia.\nChina dominates several critical mineral supply chains, while Russia has expanded its influence through security partnerships, particularly in the Sahel.\nBut as foreign powers compete for access, what do African countries stand to gain?\nChina has spent years investing in African mining, processing and infrastructure.\nAs Washington, Beijing and Moscow compete for Africa\u2019s mineral wealth, the real test for African countries may be not which global power wins the race, but how much of the wealth they can retain.",
-      "category": "international",
+      "category": "economics",
       "bias": "center",
       "publishedAt": "2026-11-23T12:34:54Z",
       "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjM=",
-      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
-      "title": "What\u2019s behind Iran\u2019s escalation of attacks in the Gulf?",
-      "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country economically.\nShare What\u2019s behind Iran\u2019s escalation of attacks in the Gulf?\nThe escalating attacks come as Iran\u2019s President Masoud Pezeshkian said his country is facing what he called a \u201csilent economic war\u201d amid US sanctions and a naval blockade.\nOil passing through the Strait of Hormuz has seen a considerable dip as Iran has escalated attacks on a near-daily basis.\nHowever, if the US attacks the vessels, it could face \u201cIranian responses that will be difficult for [Trump] to avoid\u201d.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-22T11:46:42Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjQ=",
-      "url": "https://www.businessinsider.com/shopify-ceo-says-jensen-huangs-ouster-looked-choreographed-2026-11",
-      "title": "Shopify CEO Says Jensen Huang's Ouster Looked 'Choreographed'",
-      "summary": "Shopify CEO Tobi L\u00fctke had some strong words about Nvidia's board over its handling of Jensen Huang's resignation.\n\"Let's be honest, this was surgical: affair, Chinese spy, another affair, another affair,\" L\u00fctke said.\nHuang stepped down as Nvidia CEO this month after an affair scandal and an investigation into concerns that he may have been targeted by a foreign intelligence operation.\nNvidia has said Huang voluntarily resigned after disclosures of conduct inconsistent with the company's code of conduct, standards, and cultural norms.\nL\u00fctke, like several tech leaders, has consistently supported Huang since the scandal broke.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-23T05:11:01Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NjU=",
-      "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know",
-      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-      "summary": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war\u2019s spread.\nShare Ukraine claims drone strikes on Russian ships off Libya: What do we know?\nThe Russian Navy\u2019s Merkury was struck at the Benghazi naval base in eastern Libya on Sunday, triggering an explosion and fire.\nHow many Russian vessels have been attacked in recent weeks?\nAt least four Russian vessels have reportedly been targeted in November, including the Merkury, MV Angara and Sparta II.",
-      "category": "international",
-      "bias": "lean left",
-      "publishedAt": "2026-11-23T11:10:12Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "NjY=",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
-      "title": "Iran live updates: Trump says war 'funded' through January",
-      "summary": "President Donald Trump said the ongoing war with Iran is \"funded\" through January, when Democrats take control of Congress and could reign in his authority to authorize the conflict.\nWe can put that war to bed anytime we want,\" Trump said, according to the Post.\n\"Well, I want compensation for the people that they've killed, which is far more because they've killed, first of all, they killed 75,000 protesters in the last seven months.\nBut they've killed our people for years,\" Trump replied, according to the Post.\n\"The USS Cole, they've killed many, many hundreds of Americans.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-23T11:53:09Z",
-      "source": "Abcnews.com"
-    }
-  },
-  {
-    "article": {
-      "id": "Njc=",
-      "url": "https://www.businessinsider.com/russia-ballistic-missile-production-ramping-up-ukraine-2026-11",
-      "title": "Russia makes a new ballistic missile every 5 hours and is picking up the pace, Ukraine warns",
-      "summary": "Russia produces one ballistic missile every five hours and is working to accelerate this pace, Ukrainian Defense Minister Yevhenii Khmara said on Monday.\nOver the weekend, Russia launched a massive bombardment against Ukraine using roughly 110 missiles, including over two dozen ballistic missiles, and more than 400 drones.\n\"Every five hours,\" the defense minister said, \"the enemy produces one ballistic missile and continues to accelerate this pace.\nEarlier this month, Ukraine's military intelligence agency released a new assessment detailing Russian missile stockpiles and production capacity.\nIt said that as of October, Moscow's reserves included up to 700 ballistic missiles and thousands of cruise missiles.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-23T15:14:33Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Njg=",
-      "url": "https://www.businessinsider.com/nvidia-900-billion-rally-shows-jensen-huang-value-as-ceo-2026-11",
-      "title": "Jensen Huang is worth $1 trillion to Nvidia. Its board couldn't ignore that.",
-      "summary": "On Friday, I wrote about how Nvidia had lost more than $1 trillion in market value since he was ousted.\nThat lifted the AI chip giant's market value from about $3 trillion on Friday to more than $4 trillion, adding roughly $1 trillion.\nReinstating Huang doesn't make the allegations disappear.\nNvidia without Jensen Huang was worth dramatically less.\nNvidia with him back is worth $1 trillion more.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-23T17:35:13Z",
-      "source": "Business Insider"
     }
   }
 ]
