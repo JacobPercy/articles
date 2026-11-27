@@ -1,42 +1,132 @@
 [
   {
-    "id": "MTA=",
-    "url": "https://www.businessinsider.com/federal-reserve-rate-hikes-december-fomc-meeting-warsh-ai-stocks-2026-11",
-    "title": "Get ready for 3 consecutive rate hikes starting next month, bank warns",
-    "summary": "A hat trick of Federal Reserve rate hikes is on the way, BNP Paribas says.\nThat would put the fed funds rate at 4.5%-4.75%, up from its 3.75%-4% range.\n\"We believe the FOMC, in its three upcoming meetings, will remove three more doses of accommodation,\" Egelhof wrote.\nBNP said the economy has not cooled sufficiently following the Fed's September rate hike and that further tightening is needed.\nHowever, while the labor market could prove durable enough to withstand a few hikes, AI stocks could suffer from such an outcome, BNP said.",
+    "id": "MQ==",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+    "title": "Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
+    "summary": "The Dow Jones Industrial Average (^DJI) gained 0.3%, while the S&P 500 (^GSPC) dropped 0.2%.\nThe tech-heavy Nasdaq Composite (^IXIC) fell about 0.6% as Wall Street's anxiety over inflation and the AI trade weighed on equities.\nSemiconductor stocks fell, with Nvidia (NVDA) shares losing nearly 4%, trimming earlier losses.\nThe Trump administration, meanwhile, unveiled new 20% tariffs targeting China, the European Union, and 12 other major US trading partners.\nThe stock and bond markets will be closed tomorrow in observance of Thanksgiving and will reopen Friday for a half-day of trading.",
     "category": "economics",
     "bias": "lean right",
-    "publishedAt": "2026-11-23T10:30:01Z",
+    "publishedAt": "2026-11-25T14:32:57Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "Mg==",
+    "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
+    "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
+    "summary": "Month over month, core prices held steady at 0.3%, in line with projections.\nMonth over month, PCE moderated, rising 0.3% as expected and down from 0.5% previously.\n\"The continued strength in core PCE inflation \u2026 make[s] a December rate hike certain,\" said Bradley Saunders, economist for Capital Economics.\nServices price growth was also strong, up 0.28% month over month, led by recreational services and food and accommodation services.\nMost Fed officials have already coalesced around a rate hike next month, though some have called for more aggressive action than others.",
+    "category": "economics",
+    "bias": "left",
+    "publishedAt": "2026-11-25T13:55:10Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "Mw==",
+    "url": "https://finance.yahoo.com/economy/policy/article/pce-inflation-heats-up-solidifying-a-fed-rate-hike-in-december-with-more-likely-next-year-143016844.html",
+    "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
+    "summary": "Month over month, core prices held steady at 0.3%, in line with projections.\nMonth over month, PCE moderated, rising 0.3% as expected and down from 0.5% previously.\n\"The continued strength in core PCE inflation \u2026 make[s] a December rate hike certain,\" said Bradley Saunders, economist for Capital Economics.\nServices price growth was also strong, up 0.28% month over month, led by recreational services and food and accommodation services.\nMost Fed officials have already coalesced around a rate hike next month, though some have called for more aggressive action than others.",
+    "category": "economics",
+    "bias": "left",
+    "publishedAt": "2026-11-25T13:55:10Z",
+    "source": "Yahoo Entertainment"
+  },
+  {
+    "id": "NQ==",
+    "url": "https://www.businessinsider.com/nvidia-anthropic-retail-buy-the-dip-jensen-huang-nvda-ant-2026-11",
+    "title": "From Anthropic\u2019s IPO to Huang\u2019s return, here\u2019s how retail has traded a chaotic stretch for markets",
+    "summary": "Retail traders have had a lot to deal with in the last few weeks.\nBut, according to data from Vanda Research, many retail traders were in prime position to benefit from the \"Jensen 2.0\" rally.\nWhile retail traders were ready for the Anthropic IPO, the Claude maker's historic offering couldn't unseat SpaceX as retail investors' most-bought IPO stock.\nTheir buying implies that for retail investors, the mindset around the chip-stock selloff since the October highs has been aggressive rather than defensive.\n\"These leveraged ETFs have been popular vehicles for retail investors when it comes to navigating the Nov sell-off.\"",
+    "category": "economics",
+    "bias": "center",
+    "publishedAt": "2026-11-24T16:06:02Z",
     "source": "Business Insider"
   },
   {
-    "id": "NDg=",
-    "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko",
-    "title": "Nepal PM Balendra Shah visit: India to give $1.62bn economic package",
-    "summary": "A Hindu-majority nation wedged between India and China, Nepal has long had to navigate competing interests from its two giant neighbours.\nAs a landlocked country heavily dependent on India for trade, Nepal secured access to two additional Indian ports, Kandla and Paradip.\nNepal has long sought greater access to Indian airspace in order to attract international traffic to its airports at Bhairahawa and Pokhara.\nShah must now manage relations with China as he seeks to balance the interests of Nepal's two much larger neighbours.\nFor now he returns home with substantial financial commitments from India as Nepal continues the long task of rebuilding.",
+    "id": "Ng==",
+    "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o",
+    "title": "Inflation: How rising food prices are squeezing Indian households",
+    "summary": "Rice prices were up about 10% year-on-year, pulses 8%, edible oil 13% and LPG 10%, according to Pushan Sharma, director of intelligence at Crisil.\nAnd food inflation is not just about what farmers produce.\nWeaknesses at each stage can turn seasonal shortages into sharp price spikes - and gluts into waste.\nTomatoes, meanwhile, tend to see price spikes during the summer months, when arrivals decline in some markets or heat stress affects production.\nTomatoes, for example, can become so abundant during a glut that farmers struggle to sell them at remunerative prices, only for consumers to face sharply higher prices months later.",
     "category": "economics",
-    "bias": "lean left",
-    "publishedAt": "2026-11-23T13:39:30Z",
+    "bias": "left",
+    "publishedAt": "2026-11-25T01:02:13Z",
     "source": "BBC News"
   },
   {
-    "id": "NDk=",
-    "url": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it",
-    "title": "Countries that thrive on global cooperation must help sustain it",
-    "summary": "\u201cFor thriving states, international peace and stability are not a luxury.\nThe prime minister\u2019s concept of thriving states offers a way to think about their response.\nThe Global North and the Global South tell us little about which countries can work together on a particular problem.\nTheir diplomatic access and financial resources are increasingly necessary to sustain functions that international institutions struggle to perform consistently.\nThe next step is to organise sustained cooperation among willing thriving states.",
+    "id": "Nw==",
+    "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+    "title": "Energy bills to rise by 26% from January after gas prices surge",
+    "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.\nA typical bill will increase by about \u00a337 a month in the first three months of the new year, although the price will depend on how much energy a household uses, so it could be closer to \u00a360 extra a month in winter.\nA household using a typical amount of energy in England, Scotland and Wales and paying by direct debit, would see their annual bill rise from \u00a31,723 to \u00a32,166 if the increase was sustained for a year, said regulator Ofgem.\nThe government will pay millions of households \u00a3100 from 4 January to help cover winter costs on top of an existing VAT cut on electricity.",
     "category": "economics",
-    "bias": "center",
-    "publishedAt": "2026-11-25T08:23:01Z",
+    "bias": "right",
+    "publishedAt": "2026-11-25T00:03:37Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "OQ==",
+    "url": "https://www.newyorker.com/culture/gift-guides/gifts-to-suit-every-budget-for-this-weird-economy",
+    "title": "Gifts to Suit Every Budget, for This Weird Economy",
+    "summary": "I can\u2019t speak to their flavored varieties\u2014I\u2019m a traditionalist\u2014but the Country Style and the Roasted Redskins are first-rate.\nMister Rogers changes from his suit jacket into his signature cardigan when you add hot water.\nA Birds of the World subscription is an avian Library of Alexandria, with deeply researched entries on each species assembled by scientific experts, and audio and video recordings selected from across space and time.\nTending mushrooms is a project, but not a big one, because mushrooms do not really need you.\nThe pins come in a variety of styles and colors, including, for a little bit more, characters from fairy tales.",
+    "category": "economics",
+    "bias": "left",
+    "publishedAt": "2026-11-25T11:00:00Z",
+    "source": "The New Yorker"
+  },
+  {
+    "id": "MTQ=",
+    "url": "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id=138410424",
+    "title": "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
+    "summary": "The Federal Reserve's preferred gauge of inflation climbed in October, according to a government report issued on Wednesday.\nThe measure is sure to draw attention from central bankers as they weigh a possible rate increase early next month.\nThe Personal Consumption Expenditures price index (PCE) showed annual inflation climbed from 3.6% in September to 3.8% in October.\nThe report arrived weeks after a separate inflation measure, the Consumer Price Index (CPI), showed a larger jump in prices in October than economists had expected.\nWall Street will also take notice of the PCE report after a volatile stretch of trading.",
+    "category": "economics",
+    "bias": "lean right",
+    "publishedAt": "2026-11-25T13:34:08Z",
+    "source": "Abcnews.com"
+  },
+  {
+    "id": "MTU=",
+    "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast",
+    "title": "South Korea\u2019s central bank hikes interest rates amid AI chip boom",
+    "summary": "Bank of Korea raises key rate by 0.25 percent amid booming exports of semiconductors.\nSouth Korea\u2019s central bank has hiked interest rates as red-hot chip demand drives one of the Asian economy\u2019s fastest expansions in more than a decade.\nThe Bank of Korea (BOK) on Thursday raised its key rate by 0.25 percent to 3.25 percent, citing strong domestic growth and above-target inflation.\nSouth Korea\u2019s exports rose 94 percent year-on-year in October to reach $115.3bn, following an all-time monthly record of $120.9bn in September.\nAfter a tech-led sell-off the previous day, South Korea\u2019s stock market rose on Thursday alongside a rebound in equities across the region.",
+    "category": "economics",
+    "bias": "lean right",
+    "publishedAt": "2026-11-26T05:49:40Z",
     "source": "Al Jazeera English"
   },
   {
-    "id": "NTA=",
-    "url": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth",
-    "title": "How the US, China and Russia are competing for Africa\u2019s mineral wealth",
-    "summary": "The US, China and Russia are vying for Africa\u2019s mineral wealth, raising questions about who stands to benefitShare How the US, China and Russia are competing for Africa\u2019s mineral wealth on social mediaFrom cobalt mines in the Democratic Republic of the Congo (DRC) to lithium deposits in Mali and uranium reserves in Niger, Africa\u2019s mineral wealth is becoming an increasingly important arena of competition between the United States, China and Russia.\nChina dominates several critical mineral supply chains, while Russia has expanded its influence through security partnerships, particularly in the Sahel.\nBut as foreign powers compete for access, what do African countries stand to gain?\nChina has spent years investing in African mining, processing and infrastructure.\nAs Washington, Beijing and Moscow compete for Africa\u2019s mineral wealth, the real test for African countries may be not which global power wins the race, but how much of the wealth they can retain.",
+    "id": "MTc=",
+    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "summary": "That was 0.1 percentage point above the forecast.\nThe personal consumption expenditures price index , the Fed's preferred inflation gauge, showed a seasonally adjusted 3.8% annual inflation rate, in line with the Dow Jones consensus estimate and nearly twice the central bank's goal.\nThe reading was 0.1 percentage point higher than September.\nEven with the higher-than-expected core inflation figure, expectations eased a bit for Fed rate hikes in 2027.\nThe report comes with the market fully pricing in a quarter percentage point interest rate hike when the Fed meets Dec. 8-9.",
     "category": "economics",
-    "bias": "center",
-    "publishedAt": "2026-11-23T12:34:54Z",
-    "source": "Al Jazeera English"
+    "bias": "lean right",
+    "publishedAt": "2026-11-25T13:34:36Z",
+    "source": "CNBC"
+  },
+  {
+    "id": "MjU=",
+    "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo",
+    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+    "summary": "Nvidia's share price dived following news of his resignation.\nBut on Monday Nvidia's board announced the 63-year-old was being reinstated as CEO.\nThis makes it the second most valuable company on the index after Apple, whose shares Trump's accounts also frequently trade.\nNvidia also ranks highly in many global indices, meaning that investment accounts held around the world, including pensions, are likely to include its shares.\nOur analysis of Trump's Nvidia trades does not include other investment products held by him which may include its shares.",
+    "category": "economics",
+    "bias": "left",
+    "publishedAt": "2026-11-25T16:42:11Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "Mzg=",
+    "url": "https://www.bbc.co.uk/news/articles/cv1j6wk020p8o",
+    "title": "Energy price cap: The Iran war is being blamed for raising bills - here's why",
+    "summary": "Ofgem estimates that around \u00a3404 of the \u00a3443 increase in the annual energy price cap from January is due to higher wholesale natural gas prices.\nNatural gas is used for heating by around 85% of homes, according to trade body Energy UK, and by power companies to generate electricity.\nThis means that when the wholesale price of gas rises, its feeds directly into the costs British households pay when they use either gas or electricity.\nWhile the price of gas puts pressure on energy bills, other costs including upgrading the electricity grid to cope with more sources of renewable generation, feed into what households pay.\nHowever, Ofgem says that these additional costs made no contribution to the rise in bills in the latest period.",
+    "category": "economics",
+    "bias": "lean right",
+    "publishedAt": "2026-11-25T14:58:51Z",
+    "source": "BBC News"
+  },
+  {
+    "id": "NDI=",
+    "url": "https://anihil.com/why-arent-we-working-2-days-a-week",
+    "title": "Why aren't we working 2-days a week?",
+    "summary": "So why is everyone in white collar jobs still working 40+ hour days as the norm?\nWhy aren't these productivity gains being passed on to the employees who can in turn use it for leisure or whatever it is that they fancy?\nRather with the advent of AI, the focus seems to be working more.\nLet the rich get rich and the poor have fun, let laziness roost and 21st century be one of rest and relaxation.\n#AI #leisure #workweek",
+    "category": "economics",
+    "bias": "lean right",
+    "publishedAt": "2026-11-25T17:37:17Z",
+    "source": "Anihil.com"
   }
 ]
