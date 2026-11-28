@@ -1,16 +1,6 @@
 [
   {
-    "id": "MA==",
-    "url": "https://www.wired.com/story/this-hollywood-star-took-on-crypto-now-hes-got-a-new-target/",
-    "title": "This Hollywood Star Took on Crypto. Now He\u2019s Got a New Target",
-    "summary": "The prediction markets reject the comparison (although 80 percent of Kalshi\u2019s trades came from sports in September, according to Bloomberg).\nSo there's a real, real problem here.\u201dJohn Reed Stark, who spent 18 years in the Securities and Exchange Commission\u2019s enforcement division, will serve as an adviser to the Project.\nThe group is coming together at a time when regulators and law enforcement officials at every level are looking to rein in prediction markets.\nFederal regulators have launched new probes into both major prediction markets.\nThe Senate just passed a bill prohibiting prediction markets for military operations and assassinations.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-24T12:00:00Z",
-    "source": "Wired"
-  },
-  {
-    "id": "NA==",
+    "id": "Mw==",
     "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
     "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
     "summary": "Jensen Huang returned to Nvidia, and Wall Street's AI doubts are back with a vengeance.\nOn Wednesday, the index briefly dropped below last Friday's low, as Nvidia and Micron fell as much as 9% and 13%, before buyers stepped in and cut its loss to less than 1%.\nThe pain spread Wednesday morning, when the S&P 500 (^GSPC) fell more than 3% and the Nasdaq 100 (^NDX) nearly 5%.\nNvidia's board brought Jensen Huang back as CEO on Monday at the White House's urging.\nEvery one of those fades went on to break the prior Friday's low within three months, most of them within a week.",
@@ -20,17 +10,17 @@
     "source": "Yahoo Entertainment"
   },
   {
-    "id": "MTA=",
-    "url": "https://www.businessinsider.com/nvidia-stock-price-jensen-huang-trump-ai-tulips-nfts-gordon-2026-11",
-    "title": "Nvidia Stock Has Shades of Dutch Tulips, Bored Ape NFTs, Tech Guru Says",
-    "summary": "Nvidia stock?\nThe AI chipmaker's market value has the \"same connection to economic reality that Dutch tulip bulbs and Bored Ape NFTs had,\" Erik Gordon says, referring to the tulip mania of the 1600s and the craze around digital collectibles during the COVID-19 pandemic.\nNvidia's shares rocketed 31% on Monday, adding nearly $1 trillion to its market capitalization, after cofounder Jensen Huang was reinstated as CEO.\nHe's repeatedly bet against Nvidia this year, saying the central supplier and financier of the boom is \"simply the purest play.\"\nNvidia stock fell nearly 9% in morning trading on Tuesday.",
+    "id": "MTE=",
+    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "summary": "Meta declined a suggestion from the UK\u2019s financial regulator last week that they joint-test Muse using their sandbox, according to the watchdog\u2019s head of innovation Colin Payne.\nIt comes as regulators across the UK, including the competition and data watchdogs, warned Meta it needs to ensure its AI products comply with UK consumer protection laws.\n\u201cWe\u2019ve engaged constructively with the appropriate regulatory authorities and will continue to do so,\u201d Meta Spokesperson Matthew Pollard tells WIRED.\n\u201cIf it\u2019s going to be equally popular in the UK, we need to be able to see what it\u2019s going to do,\u201d Payne says.\n\u201cIf we have concerns, we will not hesitate to act to protect UK consumers,\u201d the CMA said in a statement.",
     "category": "technology",
     "bias": "lean left",
-    "publishedAt": "2026-11-24T17:16:59Z",
-    "source": "Business Insider"
+    "publishedAt": "2026-11-26T10:51:27Z",
+    "source": "Wired"
   },
   {
-    "id": "MTE=",
+    "id": "MTI=",
     "url": "https://www.businessinsider.com/yahoo-jim-lanzone-ai-search-scout-podcast-kafka-2026-11",
     "title": "Yahoo CEO Jim Lanzone on Using AI to Keep Users Engaged",
     "summary": "That's because other properties have done it clumsily \u2014 shoving AI answers on top of 10 blue links, randomly pushing everything else down the page.\nIf you do it right, AI search can be really helpful.\nGoogle launched Google Finance, and Yahoo Finance is still doing really well.\nSo this isn't just altruism: If AI companies don't send traffic to websites, the websites go away and there's no new content.\nAI search leads to more questions.",
@@ -40,7 +30,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTI=",
+    "id": "MTQ=",
     "url": "https://www.businessinsider.com/aws-cfo-john-felton-amazon-record-220-billion-ai-push-2026-11",
     "title": "AWS CFO John Felton explains the thinking behind Amazon\u2019s $220 billion AI spending strategy",
     "summary": "Amazon expects record capital expenditure of roughly $220 billion this year, much of it for AWS and AI infrastructure.\nHe also explained why AWS believes the risk of moving too slowly in AI outweighs the risk of spending aggressively.\nAt Amazon, finance leaders are meant to help run the business, and that means asking how we run it better and how we add value.\nIn AI, customers commit for years, and we buy servers only a few months before they go live.\nWe knew AI was going to transform every part of our business, and I wanted to be part of that.",
@@ -50,7 +40,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MTg=",
+    "id": "MTk=",
     "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
     "title": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
     "summary": "It\u2019s unclear if the FinCEN breach is related.\nAmericans have been on high alert about security incidents after a series of seemingly unrelated outages earlier this month.\nAmericans have been on high alert about security incidentsFinCEN\u2019s role is to protect the financial system from illegal activity, including by combatting money laundering and terrorism financing.\nThe bureau maintains financial transaction data and distributes it for law enforcement purposes.\nFinCEN also houses reports of suspicious activity that financial institutions file as part of the Bank Secrecy Act.",
@@ -60,17 +50,17 @@
     "source": "The Verge"
   },
   {
-    "id": "MTk=",
-    "url": "https://www.bbc.co.uk/news/videos/crz6qgj35yjpo",
-    "title": "Muse: Would you let Meta's AI agent run parts of your life?",
-    "summary": "Mark Zuckerberg's tech company Meta, which runs Facebook and Instagram, is making a big bet on artificial intelligence.\nOn Wednesday it released Muse, an AI agent which doesn't just respond to questions, but can carry out tasks for you.\nWith Muse, Meta gives the examples of \"searching for a cheaper energy deal\" or \"sorting the school calendar\".\nThe BBC's technology and AI editor Zoe Kleinman set up her own Muse - called Linda - and set it to work running her life for a week ahead of its UK launch.\nRead more about Zoe's week with Muse.",
+    "id": "MjA=",
+    "url": "https://www.businessinsider.com/firefox-head-cybersecurity-ai-models-vulnerabilities-ai-2026-11",
+    "title": "Mozilla Firefox head says the company is \u2018ramping up' the time it devotes to cybersecurity issues",
+    "summary": "Mozilla's Firefox chief says the pace of AI advancements is still giving his team \"enough time\" to make sure it addresses any cybersecurity vulnerabilities.\nVarma said both OpenAI and Anthropic are giving Mozilla, which is a nonprofit, \"a lot of tokens for free.\"\nOnce Mozilla's team got in touch, they realized that the Anthropic employee had found a lot more vulnerabilities.\nBeyond cybersecurity, Varma said, is finding other ways to deploy AI tools to make \"Firefox even faster\" and prevent issues like memory leaks.\nHe said he encourages his team to view AI as a tool and to \"triage\" what truly needs human attention.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-24T18:08:10Z",
-    "source": "BBC News"
+    "bias": "lean right",
+    "publishedAt": "2026-11-26T10:01:02Z",
+    "source": "Business Insider"
   },
   {
-    "id": "MjA=",
+    "id": "MjE=",
     "url": "https://www.entrepreneur.com/business-news/stop-using-ai-as-an-excuse-for-layoffs-heres-how-to-use-ai-to-retain-talent-instead",
     "title": "Stop Using AI as an Excuse for Layoffs. Here\u2019s How to Use AI to Retain Talent Instead",
     "summary": "Listen to this postKey Takeaways Before using AI to cut jobs, decide where your team\u2019s recovered time should go.\nEmployees embrace AI when they see it remove frustrating work, not when they fear it will replace them.\nTake one team and map how AI could change its work, then answer these four questions together before deployment.\nAI will change jobs, and some roles will change significantly as companies redesign how work gets done.\nBut leaders still control a critical decision about what they do with the capacity AI creates.",
@@ -80,7 +70,7 @@
     "source": "Entrepreneur"
   },
   {
-    "id": "MjE=",
+    "id": "MjI=",
     "url": "https://www.businessinsider.com/google-ai-agent-access-limits-fees-gmail-drive-microsoft-copilot-2026-11",
     "title": "Google Sets New AI Agent Access Limits and Fees for Gmail, Drive",
     "summary": "The search giant announced new limits on how often AI agents can access Gmail, Google Drive, Calendar, and other popular workplace software.\nMicrosoft, for example, could impose similar charges on independent AI agents accessing Outlook, Word, Excel, and other workplace applications.\nBusiness Insider asked Google whether its own AI agents will face the new limits and charges or be exempt.\nAI agents like these promise to transform how people work by operating software on their behalf.\nThe companies building the future of AI agents are about to discover that someone else owns the digital toll roads.",
@@ -90,37 +80,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MjI=",
-    "url": "https://www.androidcentral.com/phones/android-central-ces-2027-awards-how-to-enter-your-product",
-    "title": "Android Central CES 2027 Awards: How to enter your product",
-    "summary": "Submit it to the Android Central CES 2027 Awards!\nAndroid Central CES 2027 Awards categoriesWe will be picking our favorites in the following categories.\nHow to enter a product for consideration for an Android Central CES AwardSubmissions must be received by noon EST / 9 a.m. PST on Dec. 10, 2026.\nTo submit a product for consideration, please fill out the Android Central CES Awards submission form.\nTo be eligible, products must be new (or have been materially updated since CES 2026) and have a presence at CES 2027.",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-24T14:29:52Z",
-    "source": "Android Central"
-  },
-  {
-    "id": "MjM=",
-    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "title": "Tidal will start banning AI-generated music next month",
-    "summary": "Tidal is officially banning AI-generated music on December 9th.\nAs a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen.\nThe move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated.\n\u201cWe believe this will resonate with both artists and listeners alike, as 96% of all AI-generated songs receive zero plays at all,\u201d Andersen adds.\nThe platform is also going to ban music distributors from submitting AI songs, using the AI detection tool Ircam Amplify and metadata checks to reject submissions generated solely with AI.",
-    "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-24T17:17:09Z",
-    "source": "The Verge"
-  },
-  {
     "id": "MjQ=",
-    "url": "https://www.businessinsider.com/anthropic-ai-workplace-report-worker-resistance-surveillance-hiring-2026-11",
-    "title": "Anthropic Report Shows How Pushing AI at Work Can Backfire",
-    "summary": "When bosses push AI, they can fuel surveillance fears and cause resistance from workers, an Anthropic report found.\nAt one law firm, Anthropic said, the chief operating officer asked a staffer to create an AI tool to check for conflicts of interest.\nthe leader told Anthropic.\nCompanies reported hiring lessPeople at two-thirds of the companies told Anthropic they were hiring less because of AI.\n\"That's my secret sauce,\" he told Anthropic.",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-24T18:00:52Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "MjY=",
     "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
     "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
     "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company\u2019s \u201cStarmind\u201d initiative.\nWith several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full \u201cconstellation\u201d of AI satellites.\nSpaceX has described its Starmind project as a way to \u201ccapture solar energy in space to power\u201d AI capabilities on Earth.\nGoogle has already taken its first steps toward putting compute into space, with the launch of a \u201cProject Suncatcher\u201d AI server satellite last month.\nJeff Bezos\u2019 Blue Origin will carry out the first dedicated heavy-lift launch for Project Suncatcher in 2029.",
@@ -130,27 +90,17 @@
     "source": "The Verge"
   },
   {
-    "id": "Mjc=",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "summary": "The November update cited by the NYT\u2019s email adds several new AI features, including Adobe\u2019s new \u201cAI Assisted Editor\u201d view, which lets users access all of Photoshop\u2019s AI features from a single toolbar.\nThis can lead to photos ending up with metadata indicating they were edited with AI, which is a blunt way of describing what happened in post-production.\nFor a newsroom like the Times, where photo editing is kept to a minimum, the metadata risks losing readers\u2019 trust.\n\u201cAt this time, we are requiring that all contributing photographers avoid using Adobe Photoshop 2027 (release 28.0.0 and subsequent updates) when working on assignment for The Times,\u201d the email reads.\nIt\u2019s still not clear which specific Photoshop features the NYT is referring to.",
+    "id": "MjU=",
+    "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+    "title": "Here\u2019s Everything You Can Do With With the New Gemini AI on Android Auto",
+    "summary": "Google Assistant is being replaced by Google\u2019s more advanced Gemini AI across all platforms, and that includes Android Auto.\nIf you've used Gemini before on your phone, on the web, or somewhere else, then you're going to know the extras that it brings over Google Assistant.\nHere's what the upgraded app can do specifically when you're traveling on the road.\nIf you tell Gemini to \u201cread my last message,\u201d it'll speak it out for you and give you the opportunity to reply.\nYou can also specify the app, otherwise Google Messages will be used by default\u2014Google Chat and WhatsApp are among the others that are supported.",
     "category": "technology",
-    "bias": "left",
-    "publishedAt": "2026-11-24T16:09:23Z",
-    "source": "The Verge"
+    "bias": "lean left",
+    "publishedAt": "2026-11-26T12:00:00Z",
+    "source": "Wired"
   },
   {
-    "id": "Mjg=",
-    "url": "https://slashdot.org/story/26/11/24/0252253/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal",
-    "title": "US To Blacklist Asian AI Firm Megaspeed After Nvidia Scandal",
-    "summary": "Ya'll hear about the geometer who went to the beach to catch some rays and became a tangent ?",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-24T11:00:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "Mjk=",
+    "id": "MjY=",
     "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
     "title": "Nothing offers a full look at its AI earbuds and charging case",
     "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release.\nThe Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.\nLike the Ear 3, the Ear Note\u2019s microphone-equipped case comes with a \u201cTalk\u201d button that you can use to record your own voice.\nThere\u2019s also a new \u201cRecord\u201d button that can record and transcribe your conversations.\nApple also brought AI capabilities to its Watch Series 12, allowing Siri to listen to your conversations and generate recaps.",
@@ -160,7 +110,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MzA=",
+    "id": "Mjc=",
     "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
     "title": "Now Google\u2019s Familiar Faces AI feature works on Walmart\u2019s $35 smart home camera too",
     "summary": "Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\nPosts from this author will be added to your daily email digest and your homepage feed.\nA couple of Walmart\u2019s budget-friendly smart home cameras will be able to recognize people around your house now using Google\u2019s familiar face detection feature.\nA new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired.\nHowever, a Google Home Premium subscription is still required to access the feature.",
@@ -170,7 +120,7 @@
     "source": "The Verge"
   },
   {
-    "id": "MzE=",
+    "id": "Mjg=",
     "url": "https://www.newyorker.com/culture/q-and-a/are-we-really-witnessing-a-cyber-apocalypse",
     "title": "Are We Really Witnessing a Cyber Apocalypse?",
     "summary": "But, also, I don\u2019t want to give us too much credit\u2014we don\u2019t really know exactly why there haven\u2019t been all these devastating attacks.\nWhat happened in cybersecurity as fear of Cyber Pearl Harbor receded?\nThey\u2019re not as secure as what we would normally require of a cyber system.\nAnd, every time you patch something, it usually goes right, but there\u2019s some risk that it screws up your system.\nThat also puts a higher pressure on these defenders to move their patches more quickly when they\u2019re already being overwhelmed.",
@@ -180,7 +130,17 @@
     "source": "The New Yorker"
   },
   {
-    "id": "MzI=",
+    "id": "Mjk=",
+    "url": "https://www.businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11",
+    "title": "Thomson Reuters Blends US, China AI to Cut Model Costs",
+    "summary": "As China and the US race to compete on AI, Thomson Reuters, the Canadian data and legal giant, is having it both ways.\nIt's a shift for Thomson Reuters, which didn't use American AI for its previous in-house model, Thomson 1.0.\nHirundo, a startup in Israel, sent Business Insider an analysis showing that one version of the current Thomson model parrots Chinese government talking points.\nThe company's coming AI model further reduces bias, the spokesperson added.\n\"Thomson is what AI sovereignty actually looks like in practice,\" Andrew Bean, Thomson Reuters' lead AI scientist, said.",
+    "category": "technology",
+    "bias": "lean left",
+    "publishedAt": "2026-11-26T10:00:01Z",
+    "source": "Business Insider"
+  },
+  {
+    "id": "MzA=",
     "url": "https://www.businessinsider.com/chipotle-ai-restaurant-managers-arlie-sisson-2026-11",
     "title": "How Chipotle Uses AI to Speed up Hiring, Cut Waste, and Help Managers",
     "summary": "I met her recently at a dinner hosted by Snowflake CEO Sridhar Ramaswamy, whose company supplies some of the technology Chipotle uses.\nA third could change how restaurant managers organize their days.\nEvery morning, Chipotle managers face a deceptively difficult question: How much food should we prepare?\nYes, apparently avocado sizes are another thing restaurant managers have to worry about.\nSisson describes restaurant managers as coaches and quarterbacks.",
@@ -190,7 +150,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MzM=",
+    "id": "MzE=",
     "url": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
     "title": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systems",
     "summary": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systemsThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe Treasury Department\u2019s Financial Crimes Enforcement Network (FinCEN) is \"investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems,\" and has taken some systems offline as a precaution, according to an alert posted on its site.",
@@ -200,7 +160,7 @@
     "source": "Abcnews.com"
   },
   {
-    "id": "MzQ=",
+    "id": "MzI=",
     "url": "https://www.businessinsider.com/historian-openai-mystery-sketchbook-yale-2026-11",
     "title": "Historian Says AI Solved 200-Year Mystery in 22 Minutes",
     "summary": "Better yet, he said it took the AI tool almost no time: 22 minutes.\nDeep in a historian's Ph.D. dissertation, it found a reference to a diary Chabot kept, which he could order as microfilm copies.\nHow historians are feeling about AIMathematicians have had an emotional response to the rise of AI in their field.\nFor his part, Humphries doesn't think AI is equipped to do everything in history.\nAs math goes through what some call a \"crisis,\" Humphries said, historians should be clear about just what AI is good at.",
@@ -210,7 +170,7 @@
     "source": "Business Insider"
   },
   {
-    "id": "MzU=",
+    "id": "MzM=",
     "url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
     "title": "$799 Smart Glasses Promise Vision Pro-Style Controls in a 45g Frame",
     "summary": "Hong Kong startup Savage Technology has announced its first product, \"Orrorin Glasses,\" promising Vision Pro-style pinch controls and full-color displays for both eyes in a frame weighing just 45 grams.\nThe company describes the glasses as offering \"Vision Pro\u2013level interaction\" and being around 25 times lighter than Apple's headset, including its external battery.\nSavage highlights the bulky hardware currently required for Apple's spatial computing experience, although Orrorin offers substantially fewer capabilities.\nOrrorin lacks positional tracking and spatial mapping, so it cannot anchor virtual windows in a room like Vision Pro.\nOrrorin is the first product from Savage Technology, co-founded by Bill Pei and Elena Shi, and remains in engineering validation for now.",
@@ -220,7 +180,17 @@
     "source": "MacRumors"
   },
   {
-    "id": "NDk=",
+    "id": "MzU=",
+    "url": "https://hackaday.com/2026/11/26/location-accurate-weather-for-your-gecko/",
+    "title": "Location-Accurate Weather For Your Gecko",
+    "summary": "When building a terrarium, most people do their best to make it an acceptable environment for its inhabitant.\n[Fraxinas] has taken this a step further though, by making a terrarium that simulates the weather conditions of a gecko\u2019s native New Caledonia.\nThese are used to simulate the New Caledonian climate, based on real climate data from the island.\nOn a sad note, the gecko for whom it was built is no longer with us, and after several months of emptiness the terrarium gained a new inhabitant.\nThis may be the first gecko we\u2019ve seen whose climate follows their real habitat, but it\u2019s not the first automated terrarium we\u2019ve seen.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-11-26T18:00:31Z",
+    "source": "Hackaday"
+  },
+  {
+    "id": "NDY=",
     "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
     "title": "US approves SpaceX plan to send a million data satellites to space",
     "summary": "US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.\nThe company, which is owned by Elon Musk, wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.\nThe Federal Communications Commission (FCC) said on Wednesday that the project, known as Starmind, would \"support America's booming super intelligence economy\".\nThere is increasing opposition to data centres on earth, including in the US where experts say they were a factor in the Republicans big losses in the midterm elections.\nSpaceX believes the \"orbital data centres\" are the most cost and energy-efficient way to meet the growing demand for artificial intelligence (AI) computing power that is beyond \"terrestrial capabilities\".",
@@ -230,7 +200,17 @@
     "source": "BBC News"
   },
   {
-    "id": "NjY=",
+    "id": "NTc=",
+    "url": "https://github.com/samueleverett01/bss-permanent-separations",
+    "title": "GitHub - samueleverett01/bss-permanent-separations: NP_R \u2260 PAR_R, \u03a32^R \u2260 PAR_R, BIP_R \u2260 PAR_R via the permanent (BSS model). Mostly AI-written; Lean formalized",
+    "summary": "NP_R \u2260 PAR_R: the permanent has no short real certificatesImportant The results in this repository grew out of a conversation between Samuel Everett and Claude Fable 5.2.\nClaude Fable 5.2 found the proofs through the conversation with Sam, and then wrote the paper under his guidance.\nAll results are formalized in Lean 4 (see Lean formalization below), with the results cited from the literature as explicit hypotheses.\nThe separations use the superpolynomial lower bound for the border complexity of the permanent (Theorem 2.3 in the paper, cited from the Anthropic manuscript \"VP \u2260 VNP over every field\" and its Lean formalization).\nThe results are formalized in Lean, conditional on the cited results listed above.",
+    "category": "technology",
+    "bias": "lean right",
+    "publishedAt": "2026-11-26T16:50:55Z",
+    "source": "Github.com"
+  },
+  {
+    "id": "NjU=",
     "url": "https://time.com/article/2026/11/25/australia-digital-duty-of-care-big-tech-fines-social-media-platforms-risks-harms-safety/",
     "title": "What Australia\u2019s \u2018Digital Duty of Care\u2019 Law Means for Big Tech",
     "summary": "Under the Digital Duty of Care law, platforms must provide risk assessments to regulators at least once a year, and they must notify regulators before they introduce significant changes to their platforms that could allow for new risks of harm, such as \u201caddictive\u201d design features.\nThe amendments also make it easier for Australian citizens to hold tech companies to account.\nPreviously, one needed to rely on complex legal avenues concerning company negligence and consumer protection.\nThe new law grants Australians the \u201cprivate right of action,\u201d which means they can directly sue digital platforms for breaching their duty of care.",
@@ -241,42 +221,12 @@
   },
   {
     "id": "NzA=",
-    "url": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms",
-    "title": "Suspected Chinese Agents Are Trying to Dupe Americans with Fake Listings on Job Platforms",
-    "summary": "Ya'll hear about the geometer who went to the beach to catch some rays and became a tangent ?",
-    "category": "technology",
-    "bias": "lean right",
-    "publishedAt": "2026-11-25T23:00:00Z",
-    "source": "Slashdot.org"
-  },
-  {
-    "id": "NzM=",
-    "url": "https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889",
-    "title": "FCC proposes 'tit-for-tat' restrictions on foreign satellite operators",
-    "summary": "The telecoms regulator says the move is to \"ensure reciprocity and fair dealing\" in the rules governing satellite operators.\n\"It is time for this regulatory asymmetry to end,\" Carr said, adding that the FCC now proposes to mirror any regulations that foreign nations apply to American satellite providers.\n\"If there are limits or restrictions on American providers operating abroad, then the notice proposes to apply those or similar regulatory restraints to satellite providers from those countries that are operating here.\"\nBritish satellite operators could therefore face restrictions on access to the US market if the FCC adopts reciprocal measures.\nThe UK's space industry generated \u00a318.6 billion in income in 2022/23, according to the UK Space Agency.",
-    "category": "technology",
-    "bias": "lean left",
-    "publishedAt": "2026-11-24T13:45:00Z",
-    "source": "Theregister.com"
-  },
-  {
-    "id": "NzQ=",
     "url": "https://www.businessinsider.com/jensen-huangs-succession-message-nvidia-we-dont-need-plan-b-2026-11",
     "title": "Jensen Huang's Message to Nvidia",
     "summary": "At Nvidia, Jensen Huang appears to have little interest in planning for the inevitable.\nAssuming Huang is as mortal as the rest of us, Nvidia will eventually need a new leader.\nWhile he may not believe in succession planning, experts in corporate governance say it's the board's responsibility to prepare for a future without him.\n\"Weak executive oversight and lack of succession planning have brought questions around the 'key man' risk to the forefront,\" S&P said.\nAdd to Preferred SourcesAt Nvidia, Huang has around 60 direct reports, an unusual structure he has credited with keeping information flowing and empowering employees.",
     "category": "technology",
     "bias": "lean right",
     "publishedAt": "2026-11-25T22:57:05Z",
-    "source": "Business Insider"
-  },
-  {
-    "id": "NzU=",
-    "url": "https://www.businessinsider.com/jensen-huang-faces-nvidia-employees-first-all-hands-since-comeback-2026-11",
-    "title": "Jensen Huang tells Nvidia employees he's in therapy in first all-hands since his comeback",
-    "summary": "Jensen Huang addressed Nvidia's workforce in his first companywide meeting since being reinstated as CEO.\nHuang told Nvidia employees Tuesday at an all-hands that he was in therapy, and said he violated the company's code of conduct, according to a person familiar with the matter.\nNvidia's board reinstated Huang on Monday, 11 days after his dramatic ouster.\nIn his absence, employees rushed to support him and demand his return in posts on social media, internal message portals, and a petition that garnered more than 200,000 signatures.\nUse a personal email address, a non-work WiFi network, and a non-work device; here's our guide to sharing information securely .",
-    "category": "technology",
-    "bias": "center",
-    "publishedAt": "2026-11-24T19:46:43Z",
     "source": "Business Insider"
   }
 ]

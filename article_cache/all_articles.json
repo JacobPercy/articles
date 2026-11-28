@@ -2,18 +2,6 @@
   {
     "article": {
       "id": "MA==",
-      "url": "https://www.wired.com/story/this-hollywood-star-took-on-crypto-now-hes-got-a-new-target/",
-      "title": "This Hollywood Star Took on Crypto. Now He\u2019s Got a New Target",
-      "summary": "The prediction markets reject the comparison (although 80 percent of Kalshi\u2019s trades came from sports in September, according to Bloomberg).\nSo there's a real, real problem here.\u201dJohn Reed Stark, who spent 18 years in the Securities and Exchange Commission\u2019s enforcement division, will serve as an adviser to the Project.\nThe group is coming together at a time when regulators and law enforcement officials at every level are looking to rein in prediction markets.\nFederal regulators have launched new probes into both major prediction markets.\nThe Senate just passed a bill prohibiting prediction markets for military operations and assassinations.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-24T12:00:00Z",
-      "source": "Wired"
-    }
-  },
-  {
-    "article": {
-      "id": "MQ==",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
       "title": "Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off",
       "summary": "The Dow Jones Industrial Average (^DJI) gained 0.3%, while the S&P 500 (^GSPC) dropped 0.2%.\nThe tech-heavy Nasdaq Composite (^IXIC) fell about 0.6% as Wall Street's anxiety over inflation and the AI trade weighed on equities.\nSemiconductor stocks fell, with Nvidia (NVDA) shares losing nearly 4%, trimming earlier losses.\nThe Trump administration, meanwhile, unveiled new 20% tariffs targeting China, the European Union, and 12 other major US trading partners.\nThe stock and bond markets will be closed tomorrow in observance of Thanksgiving and will reopen Friday for a half-day of trading.",
@@ -25,7 +13,7 @@
   },
   {
     "article": {
-      "id": "Mg==",
+      "id": "MQ==",
       "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
       "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
       "summary": "Month over month, core prices held steady at 0.3%, in line with projections.\nMonth over month, PCE moderated, rising 0.3% as expected and down from 0.5% previously.\n\"The continued strength in core PCE inflation \u2026 make[s] a December rate hike certain,\" said Bradley Saunders, economist for Capital Economics.\nServices price growth was also strong, up 0.28% month over month, led by recreational services and food and accommodation services.\nMost Fed officials have already coalesced around a rate hike next month, though some have called for more aggressive action than others.",
@@ -37,7 +25,7 @@
   },
   {
     "article": {
-      "id": "Mw==",
+      "id": "Mg==",
       "url": "https://finance.yahoo.com/economy/policy/article/pce-inflation-heats-up-solidifying-a-fed-rate-hike-in-december-with-more-likely-next-year-143016844.html",
       "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
       "summary": "Month over month, core prices held steady at 0.3%, in line with projections.\nMonth over month, PCE moderated, rising 0.3% as expected and down from 0.5% previously.\n\"The continued strength in core PCE inflation \u2026 make[s] a December rate hike certain,\" said Bradley Saunders, economist for Capital Economics.\nServices price growth was also strong, up 0.28% month over month, led by recreational services and food and accommodation services.\nMost Fed officials have already coalesced around a rate hike next month, though some have called for more aggressive action than others.",
@@ -49,7 +37,7 @@
   },
   {
     "article": {
-      "id": "NA==",
+      "id": "Mw==",
       "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
       "title": "The $2 trillion chip rally is unraveling \u2014 here's what history says comes next",
       "summary": "Jensen Huang returned to Nvidia, and Wall Street's AI doubts are back with a vengeance.\nOn Wednesday, the index briefly dropped below last Friday's low, as Nvidia and Micron fell as much as 9% and 13%, before buyers stepped in and cut its loss to less than 1%.\nThe pain spread Wednesday morning, when the S&P 500 (^GSPC) fell more than 3% and the Nasdaq 100 (^NDX) nearly 5%.\nNvidia's board brought Jensen Huang back as CEO on Monday at the White House's urging.\nEvery one of those fades went on to break the prior Friday's low within three months, most of them within a week.",
@@ -61,19 +49,7 @@
   },
   {
     "article": {
-      "id": "NQ==",
-      "url": "https://www.businessinsider.com/nvidia-anthropic-retail-buy-the-dip-jensen-huang-nvda-ant-2026-11",
-      "title": "From Anthropic\u2019s IPO to Huang\u2019s return, here\u2019s how retail has traded a chaotic stretch for markets",
-      "summary": "Retail traders have had a lot to deal with in the last few weeks.\nBut, according to data from Vanda Research, many retail traders were in prime position to benefit from the \"Jensen 2.0\" rally.\nWhile retail traders were ready for the Anthropic IPO, the Claude maker's historic offering couldn't unseat SpaceX as retail investors' most-bought IPO stock.\nTheir buying implies that for retail investors, the mindset around the chip-stock selloff since the October highs has been aggressive rather than defensive.\n\"These leveraged ETFs have been popular vehicles for retail investors when it comes to navigating the Nov sell-off.\"",
-      "category": "economics",
-      "bias": "center",
-      "publishedAt": "2026-11-24T16:06:02Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "Ng==",
+      "id": "NA==",
       "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o",
       "title": "Inflation: How rising food prices are squeezing Indian households",
       "summary": "Rice prices were up about 10% year-on-year, pulses 8%, edible oil 13% and LPG 10%, according to Pushan Sharma, director of intelligence at Crisil.\nAnd food inflation is not just about what farmers produce.\nWeaknesses at each stage can turn seasonal shortages into sharp price spikes - and gluts into waste.\nTomatoes, meanwhile, tend to see price spikes during the summer months, when arrivals decline in some markets or heat stress affects production.\nTomatoes, for example, can become so abundant during a glut that farmers struggle to sell them at remunerative prices, only for consumers to face sharply higher prices months later.",
@@ -85,11 +61,47 @@
   },
   {
     "article": {
+      "id": "NQ==",
+      "url": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income",
+      "title": "With the rise of AI, are we close to having universal basic income",
+      "summary": "AI\u2019s rapid advance has led to calls for a solution to prevent poverty and wealth inequality.\nBut is the solution giving people universal basic income just for existing?\nAl Jazeera\u2019s Yasmeen ElTahan explains.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-11-26T12:12:45Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "Ng==",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy",
+      "title": "Is UBI the solution to mass unemployment in an AI economy?",
+      "summary": "Share Is UBI the solution to mass unemployment in an AI economy?\non social mediaAs rapid advances in artificial intelligence (AI) raise fears of mass job losses, calls for the rollout of universal basic income (UBI) are gaining traction.\nIn his view, a basic income could make job losses easier to accept as people are more likely to tolerate AI replacing their work if they are being paid.\nIn a scenario where AI leads to mass layoffs, people will have less money to spend.\nFrom this perspective, UBI would function less as a form of charity than as a way to keep consumer spending going.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-11-26T13:04:51Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
       "id": "Nw==",
+      "url": "https://www.businessinsider.com/elon-musk-spacex-stock-valuation-multiplanetary-sun-energy-trump-accounts-2026-11",
+      "title": "Elon Musk Says SpaceX Could Be Worth $128 Quintillion One Day",
+      "summary": "Elon Musk is going galactic with his latest claim of what SpaceX might be worth one day: $128 quintillion.\nThat's 128 billion billions, or 128 trillion millions, or 128 followed by 18 zeros: 128,000,000,000,000,000,000.\nThe IMF puts the value of the world economy at around $128 trillion.\nMusk's post suggests SpaceX could be worth a million times that much, or $128 quintillion.\n\u2014 Elon Musk (@elonmusk) November 26, 2026Musk's post implies that a single SpaceX share, worth around $127 at Wednesday's close, could one day be worth $9.5 billion or so, assuming no dilution.",
+      "category": "economics",
+      "bias": "center",
+      "publishedAt": "2026-11-26T14:38:42Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "OA==",
       "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
       "title": "Energy bills to rise by 26% from January after gas prices surge",
       "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.\nA typical bill will increase by about \u00a337 a month in the first three months of the new year, although the price will depend on how much energy a household uses, so it could be closer to \u00a360 extra a month in winter.\nA household using a typical amount of energy in England, Scotland and Wales and paying by direct debit, would see their annual bill rise from \u00a31,723 to \u00a32,166 if the increase was sustained for a year, said regulator Ofgem.\nThe government will pay millions of households \u00a3100 from 4 January to help cover winter costs on top of an existing VAT cut on electricity.",
-      "category": "economics",
+      "category": "environment",
       "bias": "right",
       "publishedAt": "2026-11-25T00:03:37Z",
       "source": "BBC News"
@@ -97,7 +109,7 @@
   },
   {
     "article": {
-      "id": "OA==",
+      "id": "OQ==",
       "url": "https://finance.yahoo.com/economy/article/trumps-new-tariffs-would-put-rates-right-back-where-they-were-before-the-supreme-court-stepped-in-213855620.html",
       "title": "Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in",
       "summary": "A new wave of tariffs from the White House would move overall rates almost exactly back to where they stood in early 2026, according to one initial analysis of the new duties.\nThe Yale Budget Lab says the newly unveiled plans, if enacted, would return the US to rates seen just before the Supreme Court struck down President Trump's blanket tariffs in February.\nThe rate in February, just before the high court struck down Trump's tariffs enacted under the International Emergency Economic Powers Act of 1977 (IEEPA), was 13.8%.\nThat remains well below the overall rates seen in 2025.\nThe group estimates that 2025 rates exceeded 15%, peaking at nearly 23% in the weeks after \"Liberation Day\" in April 2025.",
@@ -109,7 +121,7 @@
   },
   {
     "article": {
-      "id": "OQ==",
+      "id": "MTA=",
       "url": "https://www.newyorker.com/culture/gift-guides/gifts-to-suit-every-budget-for-this-weird-economy",
       "title": "Gifts to Suit Every Budget, for This Weird Economy",
       "summary": "I can\u2019t speak to their flavored varieties\u2014I\u2019m a traditionalist\u2014but the Country Style and the Roasted Redskins are first-rate.\nMister Rogers changes from his suit jacket into his signature cardigan when you add hot water.\nA Birds of the World subscription is an avian Library of Alexandria, with deeply researched entries on each species assembled by scientific experts, and audio and video recordings selected from across space and time.\nTending mushrooms is a project, but not a big one, because mushrooms do not really need you.\nThe pins come in a variety of styles and colors, including, for a little bit more, characters from fairy tales.",
@@ -121,19 +133,19 @@
   },
   {
     "article": {
-      "id": "MTA=",
-      "url": "https://www.businessinsider.com/nvidia-stock-price-jensen-huang-trump-ai-tulips-nfts-gordon-2026-11",
-      "title": "Nvidia Stock Has Shades of Dutch Tulips, Bored Ape NFTs, Tech Guru Says",
-      "summary": "Nvidia stock?\nThe AI chipmaker's market value has the \"same connection to economic reality that Dutch tulip bulbs and Bored Ape NFTs had,\" Erik Gordon says, referring to the tulip mania of the 1600s and the craze around digital collectibles during the COVID-19 pandemic.\nNvidia's shares rocketed 31% on Monday, adding nearly $1 trillion to its market capitalization, after cofounder Jensen Huang was reinstated as CEO.\nHe's repeatedly bet against Nvidia this year, saying the central supplier and financier of the boom is \"simply the purest play.\"\nNvidia stock fell nearly 9% in morning trading on Tuesday.",
+      "id": "MTE=",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "summary": "Meta declined a suggestion from the UK\u2019s financial regulator last week that they joint-test Muse using their sandbox, according to the watchdog\u2019s head of innovation Colin Payne.\nIt comes as regulators across the UK, including the competition and data watchdogs, warned Meta it needs to ensure its AI products comply with UK consumer protection laws.\n\u201cWe\u2019ve engaged constructively with the appropriate regulatory authorities and will continue to do so,\u201d Meta Spokesperson Matthew Pollard tells WIRED.\n\u201cIf it\u2019s going to be equally popular in the UK, we need to be able to see what it\u2019s going to do,\u201d Payne says.\n\u201cIf we have concerns, we will not hesitate to act to protect UK consumers,\u201d the CMA said in a statement.",
       "category": "technology",
       "bias": "lean left",
-      "publishedAt": "2026-11-24T17:16:59Z",
-      "source": "Business Insider"
+      "publishedAt": "2026-11-26T10:51:27Z",
+      "source": "Wired"
     }
   },
   {
     "article": {
-      "id": "MTE=",
+      "id": "MTI=",
       "url": "https://www.businessinsider.com/yahoo-jim-lanzone-ai-search-scout-podcast-kafka-2026-11",
       "title": "Yahoo CEO Jim Lanzone on Using AI to Keep Users Engaged",
       "summary": "That's because other properties have done it clumsily \u2014 shoving AI answers on top of 10 blue links, randomly pushing everything else down the page.\nIf you do it right, AI search can be really helpful.\nGoogle launched Google Finance, and Yahoo Finance is still doing really well.\nSo this isn't just altruism: If AI companies don't send traffic to websites, the websites go away and there's no new content.\nAI search leads to more questions.",
@@ -145,7 +157,19 @@
   },
   {
     "article": {
-      "id": "MTI=",
+      "id": "MTM=",
+      "url": "https://www.snopes.com/collections/retail-shopping-collection/",
+      "title": "15 shopping-related rumors just in time for Black Friday",
+      "summary": "Holiday music has started to ring throughout the aisles of retail stores, not to mention shops adorned with festive decorations and growing crowds of eager holiday shoppers.\nIt's November, which means Black Friday sales are on the horizon, retail workers are prepared to have their patience tested and shoppers are doing their best to budget as purse strings get tightened due to rising expenses.\nIt's more important than ever to have the full scope of knowledge in order to make the best shopping decisions possible.\nIn preparation for the busy retail season, we've dug into the Snopes archives to uncover some past investigations related to shopping-related rumors.",
+      "category": "economics",
+      "bias": "lean right",
+      "publishedAt": "2026-11-26T14:00:00Z",
+      "source": "Snopes.com"
+    }
+  },
+  {
+    "article": {
+      "id": "MTQ=",
       "url": "https://www.businessinsider.com/aws-cfo-john-felton-amazon-record-220-billion-ai-push-2026-11",
       "title": "AWS CFO John Felton explains the thinking behind Amazon\u2019s $220 billion AI spending strategy",
       "summary": "Amazon expects record capital expenditure of roughly $220 billion this year, much of it for AWS and AI infrastructure.\nHe also explained why AWS believes the risk of moving too slowly in AI outweighs the risk of spending aggressively.\nAt Amazon, finance leaders are meant to help run the business, and that means asking how we run it better and how we add value.\nIn AI, customers commit for years, and we buy servers only a few months before they go live.\nWe knew AI was going to transform every part of our business, and I wanted to be part of that.",
@@ -157,7 +181,7 @@
   },
   {
     "article": {
-      "id": "MTM=",
+      "id": "MTU=",
       "url": "https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html",
       "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
       "summary": "The Trump administration on Wednesday proposed new tariffs of up to 20% on China, the European Union, and 12 other major US trading partners to take effect next year, following an eight-month investigation into excess manufacturing capacity.\nThe proposed 20% tariff on many Chinese goods was described by the Trump administration as a \"deal rate\" that could go higher depending on how ongoing talks progress.\nRead more: What Trump's tariffs mean for the economy and your walletPresident Trump speaks at the White House on Tuesday.\n(AP Photo/Allison Robbert) \u00b7 AP Photo/Allison RobbertSeveral other Asian nations are also in line for higher duties, with a new 20% tariff proposed for Vietnam.\nThat meant trading partners, including the EU, South Korea, and Japan, would all see a 15% tariff rate, which is in line with what they negotiated in recent months.",
@@ -169,7 +193,7 @@
   },
   {
     "article": {
-      "id": "MTQ=",
+      "id": "MTY=",
       "url": "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id=138410424",
       "title": "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
       "summary": "The Federal Reserve's preferred gauge of inflation climbed in October, according to a government report issued on Wednesday.\nThe measure is sure to draw attention from central bankers as they weigh a possible rate increase early next month.\nThe Personal Consumption Expenditures price index (PCE) showed annual inflation climbed from 3.6% in September to 3.8% in October.\nThe report arrived weeks after a separate inflation measure, the Consumer Price Index (CPI), showed a larger jump in prices in October than economists had expected.\nWall Street will also take notice of the PCE report after a volatile stretch of trading.",
@@ -181,7 +205,7 @@
   },
   {
     "article": {
-      "id": "MTU=",
+      "id": "MTc=",
       "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast",
       "title": "South Korea\u2019s central bank hikes interest rates amid AI chip boom",
       "summary": "Bank of Korea raises key rate by 0.25 percent amid booming exports of semiconductors.\nSouth Korea\u2019s central bank has hiked interest rates as red-hot chip demand drives one of the Asian economy\u2019s fastest expansions in more than a decade.\nThe Bank of Korea (BOK) on Thursday raised its key rate by 0.25 percent to 3.25 percent, citing strong domestic growth and above-target inflation.\nSouth Korea\u2019s exports rose 94 percent year-on-year in October to reach $115.3bn, following an all-time monthly record of $120.9bn in September.\nAfter a tech-led sell-off the previous day, South Korea\u2019s stock market rose on Thursday alongside a rebound in equities across the region.",
@@ -193,31 +217,19 @@
   },
   {
     "article": {
-      "id": "MTY=",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o",
-      "title": "What Jensen Huang's return to Nvidia teaches China's Xi about Trump",
-      "summary": "Jensen Huang's reinstatement as Nvidia CEO has riveted the world - including China, where it has become the top trending post on Weibo, the country's biggest social media platform.\nBut to many, Huang's return, which is being dubbed one of the greatest U-turns of all time, seems like a vindication for China.\nBeijing has dismissed claims that one of the women who had an affair with Jensen Huang had been recruited by China's Ministry of State Security, its version of the CIA, as a spy.\nChinese state media has also framed the spy saga as a smear campaign orchestrated by China hawks in Washington.\nNow the White House, and President Donald Trump himself, have said Huang poses no national security threat, although investigations into the spy allegations are still ongoing.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-24T07:26:27Z",
+      "id": "MTg=",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o",
+      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+      "summary": "The 77,000 figure is also the first time the UK has seen net migration in the tens of thousands since former PM David Cameron's controversial pledge 16 years ago to reach such a level.\nThe effect of those policies, plus emigration from the UK, has meant that while net migration had already begun to fall, it more than halved in the last 12 months alone.\nMahmood said the figures showed the government had \"restored control\".\n\"We have brought net migration to 77,000, down 92% from its peak under the Conservatives,\" she said.\nThat could push the net migration figures down even further next year, but the downwards blip is unlikely to last forever.\"",
+      "category": "immigration",
+      "bias": "left",
+      "publishedAt": "2026-11-26T13:03:29Z",
       "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "MTc=",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "summary": "That was 0.1 percentage point above the forecast.\nThe personal consumption expenditures price index , the Fed's preferred inflation gauge, showed a seasonally adjusted 3.8% annual inflation rate, in line with the Dow Jones consensus estimate and nearly twice the central bank's goal.\nThe reading was 0.1 percentage point higher than September.\nEven with the higher-than-expected core inflation figure, expectations eased a bit for Fed rate hikes in 2027.\nThe report comes with the market fully pricing in a quarter percentage point interest rate hike when the Fed meets Dec. 8-9.",
-      "category": "economics",
-      "bias": "lean right",
-      "publishedAt": "2026-11-25T13:34:36Z",
-      "source": "CNBC"
-    }
-  },
-  {
-    "article": {
-      "id": "MTg=",
+      "id": "MTk=",
       "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
       "title": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
       "summary": "It\u2019s unclear if the FinCEN breach is related.\nAmericans have been on high alert about security incidents after a series of seemingly unrelated outages earlier this month.\nAmericans have been on high alert about security incidentsFinCEN\u2019s role is to protect the financial system from illegal activity, including by combatting money laundering and terrorism financing.\nThe bureau maintains financial transaction data and distributes it for law enforcement purposes.\nFinCEN also houses reports of suspicious activity that financial institutions file as part of the Bank Secrecy Act.",
@@ -229,19 +241,19 @@
   },
   {
     "article": {
-      "id": "MTk=",
-      "url": "https://www.bbc.co.uk/news/videos/crz6qgj35yjpo",
-      "title": "Muse: Would you let Meta's AI agent run parts of your life?",
-      "summary": "Mark Zuckerberg's tech company Meta, which runs Facebook and Instagram, is making a big bet on artificial intelligence.\nOn Wednesday it released Muse, an AI agent which doesn't just respond to questions, but can carry out tasks for you.\nWith Muse, Meta gives the examples of \"searching for a cheaper energy deal\" or \"sorting the school calendar\".\nThe BBC's technology and AI editor Zoe Kleinman set up her own Muse - called Linda - and set it to work running her life for a week ahead of its UK launch.\nRead more about Zoe's week with Muse.",
+      "id": "MjA=",
+      "url": "https://www.businessinsider.com/firefox-head-cybersecurity-ai-models-vulnerabilities-ai-2026-11",
+      "title": "Mozilla Firefox head says the company is \u2018ramping up' the time it devotes to cybersecurity issues",
+      "summary": "Mozilla's Firefox chief says the pace of AI advancements is still giving his team \"enough time\" to make sure it addresses any cybersecurity vulnerabilities.\nVarma said both OpenAI and Anthropic are giving Mozilla, which is a nonprofit, \"a lot of tokens for free.\"\nOnce Mozilla's team got in touch, they realized that the Anthropic employee had found a lot more vulnerabilities.\nBeyond cybersecurity, Varma said, is finding other ways to deploy AI tools to make \"Firefox even faster\" and prevent issues like memory leaks.\nHe said he encourages his team to view AI as a tool and to \"triage\" what truly needs human attention.",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-24T18:08:10Z",
-      "source": "BBC News"
+      "bias": "lean right",
+      "publishedAt": "2026-11-26T10:01:02Z",
+      "source": "Business Insider"
     }
   },
   {
     "article": {
-      "id": "MjA=",
+      "id": "MjE=",
       "url": "https://www.entrepreneur.com/business-news/stop-using-ai-as-an-excuse-for-layoffs-heres-how-to-use-ai-to-retain-talent-instead",
       "title": "Stop Using AI as an Excuse for Layoffs. Here\u2019s How to Use AI to Retain Talent Instead",
       "summary": "Listen to this postKey Takeaways Before using AI to cut jobs, decide where your team\u2019s recovered time should go.\nEmployees embrace AI when they see it remove frustrating work, not when they fear it will replace them.\nTake one team and map how AI could change its work, then answer these four questions together before deployment.\nAI will change jobs, and some roles will change significantly as companies redesign how work gets done.\nBut leaders still control a critical decision about what they do with the capacity AI creates.",
@@ -253,7 +265,7 @@
   },
   {
     "article": {
-      "id": "MjE=",
+      "id": "MjI=",
       "url": "https://www.businessinsider.com/google-ai-agent-access-limits-fees-gmail-drive-microsoft-copilot-2026-11",
       "title": "Google Sets New AI Agent Access Limits and Fees for Gmail, Drive",
       "summary": "The search giant announced new limits on how often AI agents can access Gmail, Google Drive, Calendar, and other popular workplace software.\nMicrosoft, for example, could impose similar charges on independent AI agents accessing Outlook, Word, Excel, and other workplace applications.\nBusiness Insider asked Google whether its own AI agents will face the new limits and charges or be exempt.\nAI agents like these promise to transform how people work by operating software on their behalf.\nThe companies building the future of AI agents are about to discover that someone else owns the digital toll roads.",
@@ -265,43 +277,7 @@
   },
   {
     "article": {
-      "id": "MjI=",
-      "url": "https://www.androidcentral.com/phones/android-central-ces-2027-awards-how-to-enter-your-product",
-      "title": "Android Central CES 2027 Awards: How to enter your product",
-      "summary": "Submit it to the Android Central CES 2027 Awards!\nAndroid Central CES 2027 Awards categoriesWe will be picking our favorites in the following categories.\nHow to enter a product for consideration for an Android Central CES AwardSubmissions must be received by noon EST / 9 a.m. PST on Dec. 10, 2026.\nTo submit a product for consideration, please fill out the Android Central CES Awards submission form.\nTo be eligible, products must be new (or have been materially updated since CES 2026) and have a presence at CES 2027.",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-24T14:29:52Z",
-      "source": "Android Central"
-    }
-  },
-  {
-    "article": {
       "id": "MjM=",
-      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "title": "Tidal will start banning AI-generated music next month",
-      "summary": "Tidal is officially banning AI-generated music on December 9th.\nAs a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen.\nThe move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated.\n\u201cWe believe this will resonate with both artists and listeners alike, as 96% of all AI-generated songs receive zero plays at all,\u201d Andersen adds.\nThe platform is also going to ban music distributors from submitting AI songs, using the AI detection tool Ircam Amplify and metadata checks to reject submissions generated solely with AI.",
-      "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-24T17:17:09Z",
-      "source": "The Verge"
-    }
-  },
-  {
-    "article": {
-      "id": "MjQ=",
-      "url": "https://www.businessinsider.com/anthropic-ai-workplace-report-worker-resistance-surveillance-hiring-2026-11",
-      "title": "Anthropic Report Shows How Pushing AI at Work Can Backfire",
-      "summary": "When bosses push AI, they can fuel surveillance fears and cause resistance from workers, an Anthropic report found.\nAt one law firm, Anthropic said, the chief operating officer asked a staffer to create an AI tool to check for conflicts of interest.\nthe leader told Anthropic.\nCompanies reported hiring lessPeople at two-thirds of the companies told Anthropic they were hiring less because of AI.\n\"That's my secret sauce,\" he told Anthropic.",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-24T18:00:52Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "MjU=",
       "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo",
       "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
       "summary": "Nvidia's share price dived following news of his resignation.\nBut on Monday Nvidia's board announced the 63-year-old was being reinstated as CEO.\nThis makes it the second most valuable company on the index after Apple, whose shares Trump's accounts also frequently trade.\nNvidia also ranks highly in many global indices, meaning that investment accounts held around the world, including pensions, are likely to include its shares.\nOur analysis of Trump's Nvidia trades does not include other investment products held by him which may include its shares.",
@@ -313,7 +289,7 @@
   },
   {
     "article": {
-      "id": "MjY=",
+      "id": "MjQ=",
       "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
       "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company\u2019s \u201cStarmind\u201d initiative.\nWith several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full \u201cconstellation\u201d of AI satellites.\nSpaceX has described its Starmind project as a way to \u201ccapture solar energy in space to power\u201d AI capabilities on Earth.\nGoogle has already taken its first steps toward putting compute into space, with the launch of a \u201cProject Suncatcher\u201d AI server satellite last month.\nJeff Bezos\u2019 Blue Origin will carry out the first dedicated heavy-lift launch for Project Suncatcher in 2029.",
@@ -325,31 +301,19 @@
   },
   {
     "article": {
-      "id": "Mjc=",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "The November update cited by the NYT\u2019s email adds several new AI features, including Adobe\u2019s new \u201cAI Assisted Editor\u201d view, which lets users access all of Photoshop\u2019s AI features from a single toolbar.\nThis can lead to photos ending up with metadata indicating they were edited with AI, which is a blunt way of describing what happened in post-production.\nFor a newsroom like the Times, where photo editing is kept to a minimum, the metadata risks losing readers\u2019 trust.\n\u201cAt this time, we are requiring that all contributing photographers avoid using Adobe Photoshop 2027 (release 28.0.0 and subsequent updates) when working on assignment for The Times,\u201d the email reads.\nIt\u2019s still not clear which specific Photoshop features the NYT is referring to.",
+      "id": "MjU=",
+      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "title": "Here\u2019s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "summary": "Google Assistant is being replaced by Google\u2019s more advanced Gemini AI across all platforms, and that includes Android Auto.\nIf you've used Gemini before on your phone, on the web, or somewhere else, then you're going to know the extras that it brings over Google Assistant.\nHere's what the upgraded app can do specifically when you're traveling on the road.\nIf you tell Gemini to \u201cread my last message,\u201d it'll speak it out for you and give you the opportunity to reply.\nYou can also specify the app, otherwise Google Messages will be used by default\u2014Google Chat and WhatsApp are among the others that are supported.",
       "category": "technology",
-      "bias": "left",
-      "publishedAt": "2026-11-24T16:09:23Z",
-      "source": "The Verge"
+      "bias": "lean left",
+      "publishedAt": "2026-11-26T12:00:00Z",
+      "source": "Wired"
     }
   },
   {
     "article": {
-      "id": "Mjg=",
-      "url": "https://slashdot.org/story/26/11/24/0252253/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal",
-      "title": "US To Blacklist Asian AI Firm Megaspeed After Nvidia Scandal",
-      "summary": "Ya'll hear about the geometer who went to the beach to catch some rays and became a tangent ?",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-24T11:00:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "Mjk=",
+      "id": "MjY=",
       "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
       "title": "Nothing offers a full look at its AI earbuds and charging case",
       "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release.\nThe Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.\nLike the Ear 3, the Ear Note\u2019s microphone-equipped case comes with a \u201cTalk\u201d button that you can use to record your own voice.\nThere\u2019s also a new \u201cRecord\u201d button that can record and transcribe your conversations.\nApple also brought AI capabilities to its Watch Series 12, allowing Siri to listen to your conversations and generate recaps.",
@@ -361,7 +325,7 @@
   },
   {
     "article": {
-      "id": "MzA=",
+      "id": "Mjc=",
       "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
       "title": "Now Google\u2019s Familiar Faces AI feature works on Walmart\u2019s $35 smart home camera too",
       "summary": "Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\nPosts from this author will be added to your daily email digest and your homepage feed.\nA couple of Walmart\u2019s budget-friendly smart home cameras will be able to recognize people around your house now using Google\u2019s familiar face detection feature.\nA new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired.\nHowever, a Google Home Premium subscription is still required to access the feature.",
@@ -373,7 +337,7 @@
   },
   {
     "article": {
-      "id": "MzE=",
+      "id": "Mjg=",
       "url": "https://www.newyorker.com/culture/q-and-a/are-we-really-witnessing-a-cyber-apocalypse",
       "title": "Are We Really Witnessing a Cyber Apocalypse?",
       "summary": "But, also, I don\u2019t want to give us too much credit\u2014we don\u2019t really know exactly why there haven\u2019t been all these devastating attacks.\nWhat happened in cybersecurity as fear of Cyber Pearl Harbor receded?\nThey\u2019re not as secure as what we would normally require of a cyber system.\nAnd, every time you patch something, it usually goes right, but there\u2019s some risk that it screws up your system.\nThat also puts a higher pressure on these defenders to move their patches more quickly when they\u2019re already being overwhelmed.",
@@ -385,7 +349,19 @@
   },
   {
     "article": {
-      "id": "MzI=",
+      "id": "Mjk=",
+      "url": "https://www.businessinsider.com/thomson-reuters-us-china-ai-cut-model-costs-2026-11",
+      "title": "Thomson Reuters Blends US, China AI to Cut Model Costs",
+      "summary": "As China and the US race to compete on AI, Thomson Reuters, the Canadian data and legal giant, is having it both ways.\nIt's a shift for Thomson Reuters, which didn't use American AI for its previous in-house model, Thomson 1.0.\nHirundo, a startup in Israel, sent Business Insider an analysis showing that one version of the current Thomson model parrots Chinese government talking points.\nThe company's coming AI model further reduces bias, the spokesperson added.\n\"Thomson is what AI sovereignty actually looks like in practice,\" Andrew Bean, Thomson Reuters' lead AI scientist, said.",
+      "category": "technology",
+      "bias": "lean left",
+      "publishedAt": "2026-11-26T10:00:01Z",
+      "source": "Business Insider"
+    }
+  },
+  {
+    "article": {
+      "id": "MzA=",
       "url": "https://www.businessinsider.com/chipotle-ai-restaurant-managers-arlie-sisson-2026-11",
       "title": "How Chipotle Uses AI to Speed up Hiring, Cut Waste, and Help Managers",
       "summary": "I met her recently at a dinner hosted by Snowflake CEO Sridhar Ramaswamy, whose company supplies some of the technology Chipotle uses.\nA third could change how restaurant managers organize their days.\nEvery morning, Chipotle managers face a deceptively difficult question: How much food should we prepare?\nYes, apparently avocado sizes are another thing restaurant managers have to worry about.\nSisson describes restaurant managers as coaches and quarterbacks.",
@@ -397,7 +373,7 @@
   },
   {
     "article": {
-      "id": "MzM=",
+      "id": "MzE=",
       "url": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
       "title": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systems",
       "summary": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systemsThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe seal of the Treasury Department is seen before a news conference, Aug. 24, 2026, at the Treasury Department in Washington.\nThe Treasury Department\u2019s Financial Crimes Enforcement Network (FinCEN) is \"investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems,\" and has taken some systems offline as a precaution, according to an alert posted on its site.",
@@ -409,7 +385,7 @@
   },
   {
     "article": {
-      "id": "MzQ=",
+      "id": "MzI=",
       "url": "https://www.businessinsider.com/historian-openai-mystery-sketchbook-yale-2026-11",
       "title": "Historian Says AI Solved 200-Year Mystery in 22 Minutes",
       "summary": "Better yet, he said it took the AI tool almost no time: 22 minutes.\nDeep in a historian's Ph.D. dissertation, it found a reference to a diary Chabot kept, which he could order as microfilm copies.\nHow historians are feeling about AIMathematicians have had an emotional response to the rise of AI in their field.\nFor his part, Humphries doesn't think AI is equipped to do everything in history.\nAs math goes through what some call a \"crisis,\" Humphries said, historians should be clear about just what AI is good at.",
@@ -421,7 +397,7 @@
   },
   {
     "article": {
-      "id": "MzU=",
+      "id": "MzM=",
       "url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
       "title": "$799 Smart Glasses Promise Vision Pro-Style Controls in a 45g Frame",
       "summary": "Hong Kong startup Savage Technology has announced its first product, \"Orrorin Glasses,\" promising Vision Pro-style pinch controls and full-color displays for both eyes in a frame weighing just 45 grams.\nThe company describes the glasses as offering \"Vision Pro\u2013level interaction\" and being around 25 times lighter than Apple's headset, including its external battery.\nSavage highlights the bulky hardware currently required for Apple's spatial computing experience, although Orrorin offers substantially fewer capabilities.\nOrrorin lacks positional tracking and spatial mapping, so it cannot anchor virtual windows in a room like Vision Pro.\nOrrorin is the first product from Savage Technology, co-founded by Bill Pei and Elena Shi, and remains in engineering validation for now.",
@@ -433,7 +409,7 @@
   },
   {
     "article": {
-      "id": "MzY=",
+      "id": "MzQ=",
       "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
       "title": "The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It",
       "summary": "On Wednesday morning, the US Army detonated nearly five tons of degraded lead azide outside of Middletown, Iowa.\nAir, soil, and water samples they\u2019ve collected will determine the extent of lead exposure, if any, in Middletown and the surrounding area.\nPoor communication between the Army and towns in the path of the fallout led to a public uproar.\nSeveral departments at the University of Iowa kicked into gear to begin to set up air and soil monitoring stations late last week.\nScientists at Purdue University, nearly 300 miles away, also put out a call for soil samples from Middletown.",
@@ -445,23 +421,23 @@
   },
   {
     "article": {
-      "id": "Mzc=",
-      "url": "https://www.nature.com/articles/d41586-026-03847-w",
-      "title": "William D. Nordhaus obituary: economist whose tools transformed climate policy",
-      "summary": "Credit: Monica Jorge/New York Times/Redux/eyevineWilliam (Bill) Nordhaus was an economist known for introducing climate change into economic analysis, earning him the 2018 Nobel Prize in Economic Sciences.\nHis research shaped our understanding of what drives economic growth and innovation.\nHe realized that omitting the environment from economic measurement would send the wrong signals about the directions of economic growth and, therefore, pioneered more-inclusive ways to measure growth.\nWhy we need an International Panel on InequalityNext, he questioned the nature of economic growth.\nGNP also understates some of the benefits of economic growth, such as increased household well-being, from inventions such as electricity and home appliances.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "source": "Nature.com"
+      "id": "MzU=",
+      "url": "https://hackaday.com/2026/11/26/location-accurate-weather-for-your-gecko/",
+      "title": "Location-Accurate Weather For Your Gecko",
+      "summary": "When building a terrarium, most people do their best to make it an acceptable environment for its inhabitant.\n[Fraxinas] has taken this a step further though, by making a terrarium that simulates the weather conditions of a gecko\u2019s native New Caledonia.\nThese are used to simulate the New Caledonian climate, based on real climate data from the island.\nOn a sad note, the gecko for whom it was built is no longer with us, and after several months of emptiness the terrarium gained a new inhabitant.\nThis may be the first gecko we\u2019ve seen whose climate follows their real habitat, but it\u2019s not the first automated terrarium we\u2019ve seen.",
+      "category": "technology",
+      "bias": "lean right",
+      "publishedAt": "2026-11-26T18:00:31Z",
+      "source": "Hackaday"
     }
   },
   {
     "article": {
-      "id": "Mzg=",
+      "id": "MzY=",
       "url": "https://www.bbc.co.uk/news/articles/cv1j6wk020p8o",
       "title": "Energy price cap: The Iran war is being blamed for raising bills - here's why",
       "summary": "Ofgem estimates that around \u00a3404 of the \u00a3443 increase in the annual energy price cap from January is due to higher wholesale natural gas prices.\nNatural gas is used for heating by around 85% of homes, according to trade body Energy UK, and by power companies to generate electricity.\nThis means that when the wholesale price of gas rises, its feeds directly into the costs British households pay when they use either gas or electricity.\nWhile the price of gas puts pressure on energy bills, other costs including upgrading the electricity grid to cope with more sources of renewable generation, feed into what households pay.\nHowever, Ofgem says that these additional costs made no contribution to the rise in bills in the latest period.",
-      "category": "economics",
+      "category": "environment",
       "bias": "lean right",
       "publishedAt": "2026-11-25T14:58:51Z",
       "source": "BBC News"
@@ -469,11 +445,11 @@
   },
   {
     "article": {
-      "id": "Mzk=",
+      "id": "Mzc=",
       "url": "https://www.cnet.com/tech/shein-fast-fashion-lawsuit/",
       "title": "Fast Fashion Fiasco: Shein to Pay $100 Million in FTC Complaint",
       "summary": "The FTC complaint alleges that Shein failed to follow through on its swift shipping policies, made it difficult for customers to resolve purchase issues and stifled negative customer reviews from seeing the light of day.\nIn 2026, the company is estimated to ship roughly 1 million packages to US customers daily, according to the FTC.\nThat number becomes even more astounding when you consider that Shein, the FTC alleges, employed just five customer service agents to answer calls from American customers.\nAccording to Yale Climate Connections, the company emitted 16.7 million total metric tons of carbon dioxide into the atmosphere in 2023.\nShein has since pledged to improve its treatment of workers and reduce carbon emissions, but scrutiny persists.",
-      "category": "environment",
+      "category": "economics",
       "bias": "right",
       "publishedAt": "2026-11-26T01:23:55Z",
       "source": "CNET"
@@ -481,19 +457,7 @@
   },
   {
     "article": {
-      "id": "NDA=",
-      "url": "https://news.slashdot.org/story/26/11/25/2227252/world-has-six-consecutive-days-2c-above-preindustrial-levels-for-first-time",
-      "title": "World Has Six Consecutive Days 2C Above Preindustrial Levels For First Time",
-      "summary": "Ya'll hear about the geometer who went to the beach to catch some rays and became a tangent ?",
-      "category": "environment",
-      "bias": "lean right",
-      "publishedAt": "2026-11-26T03:30:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "NDE=",
+      "id": "Mzg=",
       "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
       "summary": "Ukraine has said it damaged five Russian military aircraft in an attack on Russia's Savasleyka airfield, 300km (185 miles) east of Moscow.\nIt did not elaborate on what weapons it had used to hit the airfield.\nThe airfield at Savasleyka, in Russia's Nizhny Novgorod region, has been a target for Ukraine for several years.\n\"Without fuel, military vehicles cannot move; without ammunition, artillery falls silent,\" the defence ministry said, adding that every successful hit meant Moscow could carry out fewer strikes.\nTen people were killed across several regions between 24 and 25 November, while thousands are without power after Russian strikes on energy infrastructure.",
@@ -505,7 +469,19 @@
   },
   {
     "article": {
-      "id": "NDI=",
+      "id": "Mzk=",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo",
+      "title": "Floating nature islands installed in Glasgow parks as Games legacy",
+      "summary": "Floating islands are being installed on ponds in five of Glasgow's parks as part of the 2026 Commonwealth Games legacy.\nThe islands, which are being planted by community groups, are designed to encourage wildlife and help clean the water.\nThe project will create almost 250 square metres of new wildlife habitat which is expected to last about 20 years.\nGlasgow 2026 organisers say they are funding the projects as part of their commitment to greener games.",
+      "category": "environment",
+      "bias": "lean right",
+      "publishedAt": "2026-11-26T22:54:18Z",
+      "source": "BBC News"
+    }
+  },
+  {
+    "article": {
+      "id": "NDA=",
       "url": "https://anihil.com/why-arent-we-working-2-days-a-week",
       "title": "Why aren't we working 2-days a week?",
       "summary": "So why is everyone in white collar jobs still working 40+ hour days as the norm?\nWhy aren't these productivity gains being passed on to the employees who can in turn use it for leisure or whatever it is that they fancy?\nRather with the advent of AI, the focus seems to be working more.\nLet the rich get rich and the poor have fun, let laziness roost and 21st century be one of rest and relaxation.\n#AI #leisure #workweek",
@@ -517,19 +493,19 @@
   },
   {
     "article": {
-      "id": "NDM=",
-      "url": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
-      "title": "Thanksgiving Travel Will Be a Stormy Mess",
-      "summary": "Expect travel headaches from coast to coast this week.\nSeveral rounds of disruptive weather sweep are likely to cause delays at airports and make for challenging driving conditions just in time for the Thanksgiving long weekend.\nPotent systems rolling into the West Coast will bring disruptions from Seattle to San Francisco, where high tides could swamp airport runways.\nThe stormy setup arrives at the peak travel time of the year in the US.\nAnd with the extreme weather this week is set to sweep across some of the country\u2019s biggest travel hubs, it could upend the best-laid travel plans.",
+      "id": "NDE=",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
+      "title": "Med Emre: Diesel tanker carrying tonnes capsizes near Ibiza, killing one",
+      "summary": "An oil tanker carrying up to 7,000 tonnes of diesel has capsized off the coast of Ibiza, leaving one crew member dead, authorities have said.\nThe Med Emre, a Malta-flagged vessel, was carrying 17 crew members who were all rescued.\nEarlier, regional emergencies director Pablo G\u00e1rriz said the tanker had not completely sunk, as had originally been reported.\nThe Med Emre capsized 25 nautical miles (46 km; 29 miles) from Ibiza's coastline and 57 nautical miles from Valencia.\nThe chemical tanker was en route from Algeciras, in southern Spain, to Barcelona in the north-east.",
       "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-11-24T15:12:31Z",
-      "source": "Wired"
+      "bias": "lean left",
+      "publishedAt": "2026-11-26T11:27:42Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NDQ=",
+      "id": "NDI=",
       "url": "https://grist.org/economics/as-food-prices-rise-do-shoppers-still-care-about-sustainability/",
       "title": "As food prices rise, do shoppers still care about sustainability?",
       "summary": "One economist told Bloomberg that Americans should expect food prices to keep creeping up into next year.\nWith food prices creeping up, it\u2019s worth asking whatever happened to the idea of consumers as climate or environmental activists.\nBut do today\u2019s shoppers still care about where their food comes from and how it\u2019s grown when they\u2019re worried about their supermarket bill (and all the other ones)?\n\u201cPeople want a sustainable option.\nReal change may come when policy changes and public investment in sustainable food systems matches consumer desires, said Jody Kirchner, director of market insights at Good Food Institute, a think tank focused on the alternative protein economy.",
@@ -541,7 +517,7 @@
   },
   {
     "article": {
-      "id": "NDU=",
+      "id": "NDM=",
       "url": "https://www.nature.com/articles/s41586-026-11354-1",
       "title": "Disturbances and climate drive tree elevational shifts",
       "summary": "Elevational shifts were quantified within individual species\u2013ecosection combinations, rather than across the entire western US, to avoid conflating elevational shifts with latitudinal shifts.\nFor each species\u2013ecosection, elevational shifts were quantified as the difference in the stem abundance-weighted or basal area-weighted elevational centres of all trees (DBH \u2265 2.54 cm) between the two inventory periods.\nBecause ecosection boundaries can intersect species\u2019 elevational ranges, particularly at lower elevations, they may influence the observed elevational shifts by truncating portions of species distributions.\nElevational shifts were recalculated under each buffering scenario and compared with the original estimates based on unbuffered ecosections.\nThe overall distribution of elevational shifts remained highly consistent among the 0 km, 50 km and 100 km buffering scenarios (Supplementary Fig.",
@@ -553,19 +529,7 @@
   },
   {
     "article": {
-      "id": "NDY=",
-      "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o",
-      "title": "Urgent action needed to protect Buttermere, new reports warns",
-      "summary": "Tourism, infrastructure challenges and \"outdated, undersized and poorly maintained\" wastewater systems are contributing to the ecological decline of a popular lake, an environmental group has warned.\nButtermere, in the Lake District, has seen rising nutrient levels in recent years which can lead to excess phosphorus and blankets of algae.\nWest Cumbria Rivers Trust (WCRT), a charity which tracked down the sources of phosphorus for the study, argues \"urgent regulatory action and maintenance guidance are needed\".\nThe Buttermere Nutrient Investigations Project was commissioned and funded by the Environment Agency (EA) after the lake was last year found to be failing to meet total phosphorus targets.\nWCRT said the investigation showed Buttermere - a designated Site of Special Scientific Interest and Special Area of Conservation - was a \"fragile ecosystem under pressure\".",
-      "category": "environment",
-      "bias": "lean left",
-      "publishedAt": "2026-11-24T09:10:43Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NDc=",
+      "id": "NDQ=",
       "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro",
       "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
       "summary": "Right now in the space between Le Pen and M\u00e9lenchon we have none of that: there is a total vacuum.\nM\u00e9lenchon especially, but Le Pen too, are running extremely effective social media campaigns.\n\"In recent weeks we have seen Marine Le Pen issue her manifesto proposals for reforming pensions.\nWe have seen Jean-Luc M\u00e9lenchon publish his programme in a best-selling book,\" he says.\nWhen Le Pen makes her proposals about pensions, there is no-one saying, 'Hang on, that doesn't add up!'.",
@@ -577,11 +541,11 @@
   },
   {
     "article": {
-      "id": "NDg=",
+      "id": "NDU=",
       "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-supply-glut-015829699.html",
       "title": "Oil prices rise after Houthis claim attack on Saudi refinery",
       "summary": "By Nicole Jao and Anna HirtensteinNEW YORK, Nov 25 (Reuters) - Crude oil prices rallied on Wednesday after Yemen's Houthis said they had attacked Saudi Arabia's largest oil refinery, raising concerns about unexpected Middle \u200cEast supply disruptions that could cut against expectations for a coming global surplus.\nBrent crude futures settled $3.21, or 3.5%, \u200chigher at $94.61 a barrel, while US West Texas Intermediate crude futures climbed $1.63, or 2%, to $83.68.\nYemen's Iran-aligned Houthis \u200bsaid on Wednesday that they had attacked Saudi Arabia's Ras Tanura oil refinery and Riyadh's financial district.\nThe refinery, Saudi Arabia's largest, is part of a complex that also serves as a major export terminal for Saudi crude.\nThe Houthi statement triggered Wednesday's price rally, said PVM oil analyst Tamas Varga, citing a rising geopolitical risk premium.",
-      "category": "international",
+      "category": "economics",
       "bias": "left",
       "publishedAt": "2026-11-25T13:02:57Z",
       "source": "Yahoo Entertainment"
@@ -589,7 +553,7 @@
   },
   {
     "article": {
-      "id": "NDk=",
+      "id": "NDY=",
       "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
       "title": "US approves SpaceX plan to send a million data satellites to space",
       "summary": "US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.\nThe company, which is owned by Elon Musk, wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.\nThe Federal Communications Commission (FCC) said on Wednesday that the project, known as Starmind, would \"support America's booming super intelligence economy\".\nThere is increasing opposition to data centres on earth, including in the US where experts say they were a factor in the Republicans big losses in the midterm elections.\nSpaceX believes the \"orbital data centres\" are the most cost and energy-efficient way to meet the growing demand for artificial intelligence (AI) computing power that is beyond \"terrestrial capabilities\".",
@@ -601,7 +565,7 @@
   },
   {
     "article": {
-      "id": "NTA=",
+      "id": "NDc=",
       "url": "https://www.geekwire.com/2026/positive-charge-season-finale-what-we-learned-across-eight-episodes-chasing-climate-solutions/",
       "title": "\u2018Positive Charge\u2019 season finale: What we learned chasing climate solutions across eight episodes",
       "summary": "On this episode, GeekWire co-founder Todd Bishop sits down with producer Laura Scott and me, the hosts of Positive Charge, to look back on the season.\nIn each episode of Positive Charge, we toured a Pacific Northwest startup, plus we interviewed related companies outside the area and sector experts.\n\u201cDefinitely more hopeful,\u201d Laura said.\nAs I mentioned on the show, I don\u2019t know if I feel hopeful, \u201cbut I can\u2019t feel indifferent.\nI have to show up and do this.\u201dListen to the full seasonPositive Charge is a GeekWire podcast sponsored by Amazon Sustainability.",
@@ -613,31 +577,7 @@
   },
   {
     "article": {
-      "id": "NTE=",
-      "url": "https://e360.yale.edu/digest/data-center-pollution-deaths",
-      "title": "Pollution Driven by U.S. Data Centers Causing Hundreds of Early Deaths",
-      "summary": "U.S. data centers are driving greater power demand, and with it, more pollution from coal and gas power plants.\nThe new modeling study finds that, in 2023, the added power demand from data centers led to an estimated 650 early deaths across the U.S.\nGiven the rapid buildout of data centers, their impact would likely be even greater today, authors say.\nThe study further suggests that pollution is often intensifying far from where data centers are located.\nIn Oregon and Virginia, two data center hotspots, they are consuming more than 15 percent of the electricity sold in each state.",
-      "category": "environment",
-      "bias": "left",
-      "publishedAt": "2026-11-25T15:25:00Z",
-      "source": "Yale.edu"
-    }
-  },
-  {
-    "article": {
-      "id": "NTI=",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
-      "title": "Saurav Das CJP: Indian government has 'lost the plot' says 'cockroach' party leader after being barred from UK flight",
-      "summary": "One of the leaders of India's \"cockroach\" movement has said the Delhi government has \"completely lost the plot\" after he was stopped from leaving the country for the UK.\nIn an interview with the BBC, Das said there were no discrepancies in his documents, accusing the Indian government of using cheap tactics to stop activists from travelling and speaking on issues that matter to young people.\nSaurav told the BBC World Service's Newshour programme the incident showed the government was \"scared\".\n\"They are scared of the cockroach movement.\n\"It's a way to harass, to target activists, young voices in India by the Modi government.\"",
-      "category": "immigration",
-      "bias": "left",
-      "publishedAt": "2026-11-24T05:33:07Z",
-      "source": "BBC News"
-    }
-  },
-  {
-    "article": {
-      "id": "NTM=",
+      "id": "NDg=",
       "url": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
       "title": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
       "summary": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spaintoggle caption i Alex Wong/Getty ImagesKilmar Abrego Garcia, the Salvadoran immigrant who became a symbol of the pitfalls of President Trump's mass deportation campaign, has voluntarily left the U.S. after a legal battle that spanned nearly two years.\nSponsor MessageOn Tuesday night, DHS wrote on X that Abrego Garcia \"will NEVER be allowed back inside the United States.\"\nBefore Tuesday's move, Abrego Garcia and the Trump administration had been at an impasse about where he should go.\nThe allegations were based on bodycam footage from 2022, which showed Tennessee police pulling over Abrego Garcia with several other men inside his SUV.\nProsecutors claimed that Abrego Garcia was a human trafficker, helping immigrants move from Houston to Maryland.",
@@ -649,7 +589,7 @@
   },
   {
     "article": {
-      "id": "NTQ=",
+      "id": "NDk=",
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
       "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
       "summary": "At least 490,334 Russian soldiers have died since the start of the war in Ukraine in 2022, according to Russian government statistics analysed by the BBC.\nThe leaked Rosstat data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia, and show the high cost paid in human life in a war that Vladimir Putin had assumed would last only days but is now almost five years old.\nRussia's statistics agency admitted to a cyber-attack, but denied any protected information had been leaked.\nKremlin spokesman Dmitry Peskov said on Wednesday that only Russia's defence ministry could officially report data on losses: \"I suggest no other data be taken into account.\"\nThe defence ministry has not released any official casualty figures for several years.",
@@ -661,7 +601,7 @@
   },
   {
     "article": {
-      "id": "NTU=",
+      "id": "NTA=",
       "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo",
       "title": "Clashing political visions reflect a divided Spain ahead of election",
       "summary": "Speaking in a wrestling ring on the island of Tenerife as he campaigned ahead of Sunday's general election, Spain's Socialist Prime Minister Pedro S\u00e1nchez cautioned those listening about the spread of right-wing governments.\n\"What good has President [Donald] Trump done the United States and, by extension, the world - was he a change or a step backwards?\"\nhe asked supporters, before invoking the administrations of Brazil's former leader, Jair Bolsonaro, and Argentinian President Javier Milei.\nThe election comes amid a deeply polarised political atmosphere in which both left and right have warned about their opponents' ability to undermine democracy.\nIn a Europe dominated by right-leaning governments, S\u00e1nchez has gained a reputation as the continent's most outspoken and uncompromising left-wing prime minister.",
@@ -673,43 +613,43 @@
   },
   {
     "article": {
-      "id": "NTY=",
-      "url": "https://abcnews.com/US/kilmar-abrego-garcia-leaves-us-deporting-spain/story?id=138414044",
-      "title": "Kilmar Abrego Garcia arrives in Spain after self-deporting from US",
-      "summary": "Kilmar Abrego Garcia arrives in Spain after self-deporting from USSalvadoran national Kilmar Abrego Garcia and his wife Jennifer Vasquez Sura arrives at the airport in Madrid, November 25, 2026.\nSalvadoran national Kilmar Abrego Garcia and his wife Jennifer Vasquez Sura arrives at the airport in Madrid, November 25, 2026.\nKilmar Abrego Garcia, who was returned to the U.S. after being mistakenly deported to a Salvadoran mega-prison, has arrived in Spain after self-deporting from the U.S., according to his attorney.\n\u201cWe are delighted to announce that Kilmar Abrego Garcia has self-deported from the United States to Spain,\u201d Mullin said.\nIn this Dec. 22, 2025, file photo, Kilmar Abrego Garcia arrives at U.S. District Court for the District of Maryland, in Greenbelt, Maryland.",
+      "id": "NTE=",
+      "url": "https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162",
+      "title": "UK Home Office waved through border system without a working fix for bad data",
+      "summary": "The regulator said the failings risked people being wrongly detained for additional checks at the UK border, potentially causing distress and other harm.\nREG ADBoth Helios and Warnings Index are watch-listing systems, designed to allow law enforcement officials \u2013 mainly but not exclusively Border Force \u2013 to check people's data against official records at the UK border.\nThis was not the case with Warnings Index, which had a dedicated team responsible for correcting data entries in real time.\nUnder Helios, staff were supposed to report inaccuracies to the organization responsible for the relevant source data, which would make the correction.\nREG ADBut the Home Office also said that including personal data in those helpdesk tickets would itself constitute a data breach.",
       "category": "immigration",
       "bias": "center",
-      "publishedAt": "2026-11-24T23:19:50Z",
-      "source": "Abcnews.com"
+      "publishedAt": "2026-11-26T09:30:00Z",
+      "source": "Theregister.com"
     }
   },
   {
     "article": {
-      "id": "NTc=",
-      "url": "https://www.jezebel.com/a-9-year-old-boy-tells-ms-rachel-what-he-wants-for-christmas-most-is-an-immigration-lawyer",
-      "title": "A 9-Year-Old Boy Tells Ms. Rachel What He Wants for Christmas Most is an Immigration Lawyer",
-      "summary": "And, per numbers obtained by Vera Institute in October, more than half of them have never had legal representation.\n\u201cIt\u2019s heartbreaking,\u201d Ms. Rachel (known privately as Rachel Griffin Accurso) said on Monday, after meeting with unaccompanied migrant kids in an immigration court in New York.\nPer ABC7, the court has asked Angel\u2019s mom to find legal representation for Angel by Dec. 15.\nto close the Dilley Processing Immigration Center, which is run by private prison company CoreCivic and where several children and families have been detained.\nPlus, you\u2019ll be supporting independent journalism\u2014which, can you even imagine not supporting independent journalism in times like these?",
+      "id": "NTI=",
+      "url": "https://www.cbc.ca/news/canada/canada-safe-third-country-agreement-constitutional-challenge-9.7434846",
+      "title": "ICE almost deported this Eritrean woman to a third country after Canada turned her away",
+      "summary": "Earlier that summer, the Eritrean woman had tried to claim asylum at the Canadian border where she was turned away, and she was about to be deported to a third country.\nCanadian border agents skepticalWhen she arrived at the Canadian border on June 27, 2025, Negassi says border agents immediately expressed skepticism that she was really born in Eritrea.\nI know you guys pretend to be Eritrean and you come to Canada and you ask asylum,'\" Negassi said.\nEven the DNA tests, approved by a company endorsed by the Canada Border Services Agency, weren't enough.\nNegassi says it took her months to recover from her time at an ICE detention centre in Texas last year.",
       "category": "immigration",
       "bias": "left",
-      "publishedAt": "2026-11-24T14:25:14Z",
-      "source": "Jezebel"
+      "publishedAt": "2026-11-26T09:00:00Z",
+      "source": "CBC News"
     }
   },
   {
     "article": {
-      "id": "NTg=",
-      "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2",
-      "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-      "summary": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.\nMalaysia will send more than 6,500 Rohingya refugees back to Myanmar in a new round of repatriations, said Prime Minister Anwar Ibrahim.\nThe UN\u2019s highest court ruled last week that Myanmar authorities must \u201callow and facilitate the safe, voluntary and dignified return\u201d of refugees displaced either within Myanmar or abroad.\nLate last month, Malaysia said it would seek clarification from Myanmar about reports that hundreds of migrants recently returned to the country were being held in military detention.\nThe mainly Muslim Rohingya \u2013 described as the \u2018world\u2019s most persecuted minority\u2019 \u2013 make up two-thirds of the 190,000 Myanmar refugees and asylum seekers in Malaysia, according to the United Nations.",
-      "category": "immigration",
+      "id": "NTM=",
+      "url": "https://www.yahoo.com/news/us/articles/mexico-seeking-talks-us-spacex-161154396.html",
+      "title": "Mexico seeking talks with US on SpaceX airspace use",
+      "summary": "MEXICO CITY, Nov 26 (Reuters) - Mexico is seeking a meeting with US aviation authorities to discuss permits for SpaceX to use \u200cMexican airspace and potentially relocate its launch activities, President Claudia \u200cSheinbaum said on Thursday, amid growing tensions between Mexico City and Elon Musk's trillion-dollar \u200bcompany.\nSpaceX operations near the US-Mexico border have become an increasing political issue in Mexico.\nMexico has accused SpaceX of generating contamination and other environmental impacts when debris from the company's rockets launched in Texas falls in Mexican \u200cterritory.\nSpaceX did not immediately respond to a request for comment on Sheinbaum's statements.\nEarlier this month, \u200bMexican authorities said the company's debris washed \u200bup on a beach in \u200bthe border state of Tamaulipas.",
+      "category": "international",
       "bias": "left",
-      "publishedAt": "2026-11-24T08:21:41Z",
-      "source": "Al Jazeera English"
+      "publishedAt": "2026-11-26T16:11:54Z",
+      "source": "Yahoo Entertainment"
     }
   },
   {
     "article": {
-      "id": "NTk=",
+      "id": "NTQ=",
       "url": "https://www.vox.com/today-explained-newsletter/512193/kilmar-abrego-garcia-self-deportation-spain-trump",
       "title": "Kilmar Abrego Garcia\u2019s deportation saga ends on his terms",
       "summary": "It\u2019s the conclusion \u2014 for now \u2014 of a saga that began in March 2025, when Abrego Garcia was arrested by ICE and sent to an infamous megaprison in El Salvador.\n(Abrego Garcia is Salvadoran and does not have US citizenship, though he\u2019s married to a US citizen.)\n\u201cI am leaving with my freedom, and I am not leaving the way they removed me before, in a practically inhumane manner,\u201d Abrego Garcia said on Wednesday after he arrived, according to CNN.\nThe Trump administration hasn\u2019t abandoned its policy of punitive deportations, often to countries with serious human rights concerns.\nEswatini (formerly Swaziland), where the administration attempted to send Abrego Garcia, is one of those countries.",
@@ -721,7 +661,7 @@
   },
   {
     "article": {
-      "id": "NjA=",
+      "id": "NTU=",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza",
       "title": "Israeli strike kills four people in Gaza",
       "summary": "NewsFeed Israeli strike kills four people in GazaAn Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people and wounded several others.",
@@ -733,7 +673,7 @@
   },
   {
     "article": {
-      "id": "NjE=",
+      "id": "NTY=",
       "url": "https://rt-english.com/news/649319-poland-compensation-afghan-migrants/",
       "title": "Europe \u2018descending into madness\u2019 \u2013 Polish opposition leader \u2014 RT World News",
       "summary": "The Strasbourg court ruled that Poland had violated the prohibition on inhuman or degrading treatment by sending one of the men back to Belarus despite an interim order barring his return.\nIt also found that the Polish authorities had denied both men access to their lawyers, awarding them \u20ac20,000 ($22,000) and \u20ac5,000 in damages, respectively.\nRecalling the fatal stabbing of a Polish soldier by a migrant in 2024, he asked whether the attacker would also receive compensation.\nBelarusian President Aleksandr Lukashenko denied in 2021 that Minsk had orchestrated the crisis, saying the migrants were headed for the EU.\nIn October 2025, Lukashenko reiterated that Minsk would not stop EU-bound migrants, citing Western sanctions and the breakdown in migration cooperation.",
@@ -745,19 +685,55 @@
   },
   {
     "article": {
-      "id": "NjI=",
-      "url": "https://thoughtcatalog.com/jeremy-london/2026/11/pearl-jam-says-ices-arrest-of-a-father-and-daughter-at-seattles-airport-reflects-a-system-of-cold-cruelty/",
-      "title": "Pearl Jam Says ICE\u2019s Arrest of a Father and Daughter at Seattle\u2019s Airport Reflects a System of \u2018Cold Cruelty\u2019",
-      "summary": "Pearl Jam condemned ICE\u2019s arrest of a father and daughter as they boarded a flight at Seattle-Tacoma International Airport, calling the treatment \u201cunconscionable\u201d in a November 23 statement.\nAgents arrested them on the jet bridge for Alaska Airlines Flight 1306.\nAn airline employee\u2019s internal account described officers pushing past her after she asked for credentials.\nSeattle-Tacoma International Airport, where ICE agents arrested a father and daughter on a jet bridge in November 2024.\nDHS described Mendoza as its intended target and said both had overstayed their visas.",
-      "category": "immigration",
+      "id": "NTc=",
+      "url": "https://github.com/samueleverett01/bss-permanent-separations",
+      "title": "GitHub - samueleverett01/bss-permanent-separations: NP_R \u2260 PAR_R, \u03a32^R \u2260 PAR_R, BIP_R \u2260 PAR_R via the permanent (BSS model). Mostly AI-written; Lean formalized",
+      "summary": "NP_R \u2260 PAR_R: the permanent has no short real certificatesImportant The results in this repository grew out of a conversation between Samuel Everett and Claude Fable 5.2.\nClaude Fable 5.2 found the proofs through the conversation with Sam, and then wrote the paper under his guidance.\nAll results are formalized in Lean 4 (see Lean formalization below), with the results cited from the literature as explicit hypotheses.\nThe separations use the superpolynomial lower bound for the border complexity of the permanent (Theorem 2.3 in the paper, cited from the Anthropic manuscript \"VP \u2260 VNP over every field\" and its Lean formalization).\nThe results are formalized in Lean, conditional on the cited results listed above.",
+      "category": "technology",
       "bias": "lean right",
-      "publishedAt": "2026-11-25T19:00:04Z",
-      "source": "Thoughtcatalog.com"
+      "publishedAt": "2026-11-26T16:50:55Z",
+      "source": "Github.com"
     }
   },
   {
     "article": {
-      "id": "NjM=",
+      "id": "NTg=",
+      "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts",
+      "title": "Spain\u2019s 2026 election explained in maps and charts",
+      "summary": "About 38.7 million people aged 18 and above are eligible to vote, according to Spain\u2019s National Statistics Institute (INE).\nAfter consulting party leaders, the king proposes a candidate for prime minister, who must then win an investiture vote in Congress.\n\u2013 Incumbent Pedro Sanchez is running again after more than eight years in office, which makes him Spain\u2019s second-longest-serving prime minister since 1978, after Felipe Gonzalez.\nPeople\u2019s Party (PP), centre-right \u2013 Alberto Nunez Feijoo, who has led the PP since 2022, is the party\u2019s candidate.\n\u2013 Led by Santiago Abascal, who co-founded the party in 2014 after leaving the PP, Vox has become Spain\u2019s third-largest party.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-27T05:57:37Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NTk=",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies",
+      "title": "Estonia closing land borders with Russia to keep out spies",
+      "summary": "Estonia closing land borders with Russia to keep out spiesNewsFeed Estonia closing land borders with Russia to keep out spiesEstonia is set to close its land border crossings to Russia by December 1.\nFamilies living on either side of the border are preparing for a long separation.\nEstonia\u2019s government says that the closures are necessary to prevent Russian intelligence agents from carrying out attacks.",
+      "category": "immigration",
+      "bias": "lean left",
+      "publishedAt": "2026-11-27T04:46:15Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjA=",
+      "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris",
+      "title": "Mexico seeks US talks about suspected SpaceX debris",
+      "summary": "The Mexican government is seeking talks with aviation authorities in the United States about falling rocket debris following SpaceX launches in Texas.\nThe debris was taken by the Mexican navy to be stored and PROFEPA said it would ask SpaceX to take possession of it.\nSpaceX said it was working with Mexican authorities and disputed the claim that what was found was from its failed Starship launch.\nPreviously, the company was allowed 25 launches and 50 landings a year, but now it is seeking permission for 456 launches and 912 landings annually.\nEarlier this week, the US Federal Communications Commission granted SpaceX permission to send up to one million satellites into space as part of Musk\u2019s plans to develop data centres in orbit.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-11-26T20:31:50Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjE=",
       "url": "https://www.nakedcapitalism.com/2026/11/immigration-and-native-welfare-the-effect-through-wages-and-taxes.html",
       "title": "Immigration and Native Welfare: The Effect Through Wages and Taxes",
       "summary": "The sources of gains differ: non-college-educated natives gain mainly through higher earnings, college-educated natives mainly through lower labour taxes.\nWe compare native welfare in the steady state before the inflow with welfare in the new steady state after the inflow.\nNative welfare rises in 14 of 17 countries, by an average of 0.17% (Figure 1).\nNative welfare rises, on average, by 0.25% for those without a college degree, compared with 0.06% for college-educated natives.\nWhy the Channels Differ Across CountriesIn our simulations the UK shows the largest gain in average native welfare (+0.47%).",
@@ -765,6 +741,30 @@
       "bias": "lean left",
       "publishedAt": "2026-11-25T09:04:44Z",
       "source": "Nakedcapitalism.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NjI=",
+      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack",
+      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+      "summary": "Share At least 13 Niger soldiers killed in Sanam armed attack on social mediaAt least 13 members of Niger\u2019s National Guard have been killed and 20 wounded in an attack on their compound in Sanam, in the west of the country, the Defence Ministry has said.\nThe ministry gave a provisional toll and said soldiers killed several attackers and destroyed their logistical infrastructure.\nSanam is in the Tillaberi region, near the Mali border, where armed groups regularly attack security forces.\nThe attack comes two days after the ministry said 11 soldiers were killed in an attack attributed to Boko Haram in the Diffa region, in the southeast.\nViolence across the borderIn neighbouring Nigeria, suspected members of an armed group killed at least 30 people in villages in the central state of Niger on Tuesday.",
+      "category": "international",
+      "bias": "center",
+      "publishedAt": "2026-11-27T04:06:52Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "NjM=",
+      "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region",
+      "title": "How an oil feud is deepening rift between Baghdad and Iraq\u2019s Kurdish region",
+      "summary": "Share How an oil feud is deepening rift between Baghdad and Iraq\u2019s Kurdish region on social mediaIraq\u2019s federal government and the semi-autonomous Kurdish region are locked in their sharpest confrontation in years over who controls the country\u2019s oil, its border crossings and the revenues that flow from them.\nHe also ordered the federal Oil Ministry to take over the management of fields in Kirkuk, Nineveh, Salahuddin and Diyala provinces.\nFederal forces retook it in October 2017, after the Kurdish region held an independence referendum which Iraq\u2019s Federal Supreme Court later declared unconstitutional and void.\nThe court said federal authorities could supervise border crossings, including those in the Kurdish region.\nIt accounts for the overwhelming majority of state revenue and pays the salaries of millions of public employees, including those in the semi-autonomous Kurdish region.",
+      "category": "international",
+      "bias": "left",
+      "publishedAt": "2026-11-26T14:10:00Z",
+      "source": "Al Jazeera English"
     }
   },
   {
@@ -782,18 +782,6 @@
   {
     "article": {
       "id": "NjU=",
-      "url": "https://www.repubblica.it/en/europe/news/2026/11/26/news/migrants_smuggling_costs_routes_italy_un_report-425749733/",
-      "title": "Why migrants pay so much more to reach Italy",
-      "summary": "Why migrants pay so much more to reach Italy Alessandra ZinitiA new report by the United Nations Office on Drugs and Crime provides an updated picture of migration flows by following the money: smugglers charge considerably more for the shorter and less dangerous route to Italian shores",
-      "category": "immigration",
-      "bias": "lean left",
-      "publishedAt": "2026-11-26T00:00:00Z",
-      "source": "La Repubblica"
-    }
-  },
-  {
-    "article": {
-      "id": "NjY=",
       "url": "https://time.com/article/2026/11/25/australia-digital-duty-of-care-big-tech-fines-social-media-platforms-risks-harms-safety/",
       "title": "What Australia\u2019s \u2018Digital Duty of Care\u2019 Law Means for Big Tech",
       "summary": "Under the Digital Duty of Care law, platforms must provide risk assessments to regulators at least once a year, and they must notify regulators before they introduce significant changes to their platforms that could allow for new risks of harm, such as \u201caddictive\u201d design features.\nThe amendments also make it easier for Australian citizens to hold tech companies to account.\nPreviously, one needed to rely on complex legal avenues concerning company negligence and consumer protection.\nThe new law grants Australians the \u201cprivate right of action,\u201d which means they can directly sue digital platforms for breaching their duty of care.",
@@ -805,55 +793,19 @@
   },
   {
     "article": {
-      "id": "Njc=",
-      "url": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it",
-      "title": "Countries that thrive on global cooperation must help sustain it",
-      "summary": "\u201cFor thriving states, international peace and stability are not a luxury.\nThe prime minister\u2019s concept of thriving states offers a way to think about their response.\nThe Global North and the Global South tell us little about which countries can work together on a particular problem.\nTheir diplomatic access and financial resources are increasingly necessary to sustain functions that international institutions struggle to perform consistently.\nThe next step is to organise sustained cooperation among willing thriving states.",
-      "category": "international",
-      "bias": "center",
-      "publishedAt": "2026-11-25T08:23:01Z",
-      "source": "Al Jazeera English"
-    }
-  },
-  {
-    "article": {
-      "id": "Njg=",
-      "url": "https://www.nature.com/articles/d41586-026-03829-y",
-      "title": "Pakistani astronaut to become first foreign visitor to China\u2019s space station",
-      "summary": "Three astronauts will launch aboard China\u2019s Shenzhou-24 spacecraft.Credit: Xinhua/ShutterstockFor the first time, China will send a foreign astronaut to its Tiangong space station.\nMuhammad Zeeshan Ali, a Pakistani military pilot, is expected to travel to Tiangong on 25 November aboard China\u2019s Shenzhou-24 spacecraft, alongside two Chinese astronauts, known as \u2018taikonauts\u2019.\nSending an astronaut to space is \u201ca huge step\u201d for Pakistan\u2019s space aspirations, says Wajiha Iqbal, a lunar scientist at the University of M\u00fcnster in Germany.\nThe mission is also a milestone for China\u2019s space programme.\nZhu Yangzhu, an astronaut who entered Tiangong in May, will remain aboard the space station for another six months to allow for this experiment to take place, Zhang said.",
-      "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "source": "Nature.com"
-    }
-  },
-  {
-    "article": {
-      "id": "Njk=",
-      "url": "https://www.archdaily.com/1189147/global-south-forum-on-athis",
-      "title": "Global South Forum on ATHIS",
-      "summary": "The Global South Forum on ATHIS will bring together representatives from governments, international bodies, universities, social movements, civil society organizations, and community leaders from countries across Latin America and Africa at the Instituto Baccarelli to discuss ways to strengthen social interest housing policies.\nThe Global South Forum on ATHIS is an opportunity to bring experiences closer together, share knowledge, and strengthen joint paths to advance this agenda and turn the right to adequate housing into reality,\" explains Rayne Ferretti Moraes, head of UN-Habitat in Brazil.\nThe agenda also includes representatives from the Government of the State of S\u00e3o Paulo and the City of S\u00e3o Paulo.\nGlobal South Charter and ATHIS in Network PlatformThe closing of the Forum on December 8 will feature the reading of the Global South Charter, a document containing recommendations and commitments developed throughout the debates.\nSERVICEGlobal South Forum on Technical Assistance for Social Interest Housing (ATHIS)When: December 6, 7, and 8, 2026Where: Instituto Baccarelli \u2014 Estrada das L\u00e1grimas, No.",
+      "id": "NjY=",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "summary": "Two Italian nationals have died following a strike on a facility in Kuwait which both countries have blamed on Iran.\nIran has denied responsibility for the attack, with Foreign Minister Abbas Araghchi saying the incident looked \"suspicious\" and that Tehran would work with Kuwait and Italy to \"determine the cause\".\nEarlier, the country's armed forces spokesperson Abolfazl Shekarchi said \"no military or offensive operations have been conducted\" by Iran.\nItalian media outlets have named the two individuals.\nThe men had been performing maintenance on systems used by the Kuwait Armed Forces, according to Italian press agency Ansa citing Italy's foreign ministry.",
       "category": "international",
       "bias": "lean left",
-      "publishedAt": "2026-11-24T09:15:00Z",
-      "source": "ArchDaily"
+      "publishedAt": "2026-11-26T15:36:08Z",
+      "source": "BBC News"
     }
   },
   {
     "article": {
-      "id": "NzA=",
-      "url": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms",
-      "title": "Suspected Chinese Agents Are Trying to Dupe Americans with Fake Listings on Job Platforms",
-      "summary": "Ya'll hear about the geometer who went to the beach to catch some rays and became a tangent ?",
-      "category": "technology",
-      "bias": "lean right",
-      "publishedAt": "2026-11-25T23:00:00Z",
-      "source": "Slashdot.org"
-    }
-  },
-  {
-    "article": {
-      "id": "NzE=",
+      "id": "Njc=",
       "url": "https://abcnews.com/Politics/trump-admin-proposes-new-tariffs-china-eu-12/story?id=138442698",
       "title": "Trump admin proposes new tariffs on China, EU and 12 other trading partners",
       "summary": "The Trump administration is proposing new tariffs on 14 trading partners including China and some European Union countries, marking the latest escalation in global trade tensions.\nThese proposed tariffs will replace Trump's other levies that the Supreme Court invalidated in their ruling.\nCarlos Barria/Pool via APForeign Ministry Spokesperson Guo Jiakun reacted to the news of the proposed tariffs in a press conference on Wednesday.\nChina is among the several countries that have objected to tariffs under the Trump administration.\nSenate Finance Committee Ranking Member Ron Wyden said in a statement that the proposed tariffs are \"not the solution.\"",
@@ -865,7 +817,7 @@
   },
   {
     "article": {
-      "id": "NzI=",
+      "id": "Njg=",
       "url": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno",
       "title": "Why has China sent the first Pakistani astronaut to space?",
       "summary": "China has sent a Pakistani astronaut along with two Chinese astronauts onto its Shenzhou-24 mission, marking the first time a foreign national has set foot aboard the Tiangong space station.\nThe landmark moment for 40-year-old air force pilot Muhammad Zeeshan Ali highlights China's desire for its space station to become an international research facility.\nThe mission is expected to last for several days before returning to Earth.\nRead more here.",
@@ -877,19 +829,19 @@
   },
   {
     "article": {
-      "id": "NzM=",
-      "url": "https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889",
-      "title": "FCC proposes 'tit-for-tat' restrictions on foreign satellite operators",
-      "summary": "The telecoms regulator says the move is to \"ensure reciprocity and fair dealing\" in the rules governing satellite operators.\n\"It is time for this regulatory asymmetry to end,\" Carr said, adding that the FCC now proposes to mirror any regulations that foreign nations apply to American satellite providers.\n\"If there are limits or restrictions on American providers operating abroad, then the notice proposes to apply those or similar regulatory restraints to satellite providers from those countries that are operating here.\"\nBritish satellite operators could therefore face restrictions on access to the US market if the FCC adopts reciprocal measures.\nThe UK's space industry generated \u00a318.6 billion in income in 2022/23, according to the UK Space Agency.",
-      "category": "technology",
+      "id": "Njk=",
+      "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals",
+      "title": "Are Trump\u2019s tariffs aimed at securing US-friendly trade deals?",
+      "summary": "United States President Donald Trump\u2019s administration has proposed a new slate of trade tariffs against 14 of the US\u2019s key trading partners, including China, India and the European Union.\nWhy is the US imposing trade tariffs?\nThis time, Trump\u2019s administration claimed the targeted countries had failed to adequately restrict imported goods made with forced labour.\nIndia would face a 17 percent tariff rate if a trade agreement is reached with Washington, but a 25 percent rate if not.\nSome of the targeted countries or blocs have criticised the US\u2019s new tariffs, while others have pledged to step up efforts to pursue trade deals with the US.",
+      "category": "international",
       "bias": "lean left",
-      "publishedAt": "2026-11-24T13:45:00Z",
-      "source": "Theregister.com"
+      "publishedAt": "2026-11-26T11:07:30Z",
+      "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "NzQ=",
+      "id": "NzA=",
       "url": "https://www.businessinsider.com/jensen-huangs-succession-message-nvidia-we-dont-need-plan-b-2026-11",
       "title": "Jensen Huang's Message to Nvidia",
       "summary": "At Nvidia, Jensen Huang appears to have little interest in planning for the inevitable.\nAssuming Huang is as mortal as the rest of us, Nvidia will eventually need a new leader.\nWhile he may not believe in succession planning, experts in corporate governance say it's the board's responsibility to prepare for a future without him.\n\"Weak executive oversight and lack of succession planning have brought questions around the 'key man' risk to the forefront,\" S&P said.\nAdd to Preferred SourcesAt Nvidia, Huang has around 60 direct reports, an unusual structure he has credited with keeping information flowing and empowering employees.",
@@ -901,19 +853,7 @@
   },
   {
     "article": {
-      "id": "NzU=",
-      "url": "https://www.businessinsider.com/jensen-huang-faces-nvidia-employees-first-all-hands-since-comeback-2026-11",
-      "title": "Jensen Huang tells Nvidia employees he's in therapy in first all-hands since his comeback",
-      "summary": "Jensen Huang addressed Nvidia's workforce in his first companywide meeting since being reinstated as CEO.\nHuang told Nvidia employees Tuesday at an all-hands that he was in therapy, and said he violated the company's code of conduct, according to a person familiar with the matter.\nNvidia's board reinstated Huang on Monday, 11 days after his dramatic ouster.\nIn his absence, employees rushed to support him and demand his return in posts on social media, internal message portals, and a petition that garnered more than 200,000 signatures.\nUse a personal email address, a non-work WiFi network, and a non-work device; here's our guide to sharing information securely .",
-      "category": "technology",
-      "bias": "center",
-      "publishedAt": "2026-11-24T19:46:43Z",
-      "source": "Business Insider"
-    }
-  },
-  {
-    "article": {
-      "id": "NzY=",
+      "id": "NzE=",
       "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo",
       "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
       "summary": "China launched its Shenzhou-24 space mission on Wednesday to bring three astronauts to its Tiangong space station.\nIt was a landmark moment as astronaut Muhammad Zeeshan Ali became the first foreign national to board the Tiangong space station.\nThe mission is expected to last for several days before he returns to Earth.\nRead more on this story here.",
@@ -925,7 +865,7 @@
   },
   {
     "article": {
-      "id": "Nzc=",
+      "id": "NzI=",
       "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
       "title": "North Korea expels Swiss diplomat in sanctions row",
       "summary": "North Korea has ordered Switzerland's diplomatic representative to leave the country within 48 hours and called for the office to close, in a row over sanctions.\nConfirming the expulsion, KCNA said: \"The Foreign Ministry of the Democratic People's Republic of Korea (North Korea) declared the head of the Swiss Diplomatic Office in the DPRK persona non grata and urged him to leave the country within 48 hours.\"\nThe diplomatic rebuke comes weeks after Swiss foreign minister Ignazio Cassis made a rare visit to North Korea, where he officially reopened the office and discussed normalising relations.\nSwiss authorities said relations between the two countries would be maintained through the North Korean embassy in Bern, and the Swiss embassy in Beijing.\nDiplomatic links with North Korea were first established in 1974 and Switzerland opened a co-operation office in Pyongyang in 1997.",
@@ -937,7 +877,7 @@
   },
   {
     "article": {
-      "id": "Nzg=",
+      "id": "NzM=",
       "url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud",
       "title": "Switzerland forced to close office in North Korea over sanctions feud",
       "summary": "The closure came after North Korea condemned Switzerland for adding a children\u2019s camp to its sanctions list.\nShare Switzerland forced to close office in North Korea over sanctions feud on social mediaThe Swiss government has said it regretted North Korea\u2019s decision to close Switzerland\u2019s diplomatic office in Pyongyang in a spat over sanctions just weeks after Bern reopened its office in the North Korean capital.\nSwitzerland\u2019s Federal Department of Foreign Affairs said it was officially informed earlier on Wednesday of the North Korean authorities\u2019 decision to close the Swiss diplomatic office.\nNorth Korea ordered the envoy to leave within 48 hours, its Foreign Ministry said.\nThe expulsion comes less than a month after Swiss Foreign Minister Ignazio Cassis formally reopened the diplomatic office in Pyongyang.",
@@ -949,25 +889,73 @@
   },
   {
     "article": {
-      "id": "Nzk=",
-      "url": "https://www.aljazeera.com/news/2026/11/24/china-walks-thin-line-in-push-to-prevent-another-horn-of-africa-war",
-      "title": "China walks \u2018thin line\u2019 in push to prevent another Horn of Africa war",
-      "summary": "Beijing has escalated diplomatic efforts to ease tensions involving Egypt, Ethiopia, Eritrea and Djibouti.\nShare China walks \u2018thin line\u2019 in push to stop another Horn of Africa war on social mediaBeijing, China \u2013 China has stepped up diplomatic efforts in the Horn of Africa, sending senior envoys to four countries to ease mounting tensions that threaten to plunge the region into another devastating conflict.\nThe visits followed a sharp deterioration in relations between Ethiopia and Eritrea, raising fears of another war between the neighbours.\nYet the disputes involving Ethiopia, Eritrea and Egypt concern deeply sensitive questions of territory, sovereignty and water security.\n\u201cChina is thus walking a thin line,\u201d Ziso says, adding that all four countries \u2013 Egypt, Ethiopia, Eritrea and Djibouti \u2013 are critical to Beijing\u2019s economic and strategic interests.",
+      "id": "NzQ=",
+      "url": "https://m.economictimes.com/markets/stocks/news/kotak-flags-volatility-risk-as-indian-stocks-rally-amid-global-sell-off/articleshow/136144592.cms",
+      "title": "Indian markets face fresh volatility test after sharp rebound: Kotak Institutional Equities",
+      "summary": "SynopsisIndian equities are likely to see increased volatility as domestic rallies occur alongside global market sell-offs.\nConcerns about the impact of global weakness on Indian markets remain present due to negative investor sentiment.\nBoth foreign portfolio and mutual fund inflows have been positive, although insurance company flows have declined.\nCorporate earnings and crude oil prices are anticipated to influence the market movements in the near term.",
+      "category": "economics",
+      "bias": "lean left",
+      "publishedAt": "2026-11-25T00:28:28Z",
+      "source": "Economictimes.com"
+    }
+  },
+  {
+    "article": {
+      "id": "NzU=",
+      "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+      "title": "Two Italians killed by \u2018drone strike debris\u2019 in Kuwait",
+      "summary": "Two Italians have died from their injuries in Kuwait, after being hit by falling debris as authorities said they tried to intercept incoming Iranian drones.\n\u201cDuring the call, Araghchi firmly rejected allegations regarding an Iranian drone attack on Kuwait, stating that the Islamic Republic of Iran had no involvement whatsoever,\u201d it said.\nIt had earlier said the injured were taken to a hospital for treatment while the incident caused unspecified \u201cmaterial damage\u201d.\nBut it was in line with Tehran\u2019s \u201cpolicy change\u201d, said Al Jazeera\u2019s Resul Serdar, reporting from the Iranian capital.\nThursday\u2019s deadly attack comes days after Kuwait activated its air defences to counter drone strikes launched by Iran \u2013 the first since early September.",
       "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-24T12:18:44Z",
+      "bias": "lean left",
+      "publishedAt": "2026-11-26T16:32:31Z",
       "source": "Al Jazeera English"
     }
   },
   {
     "article": {
-      "id": "ODA=",
-      "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia",
-      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-      "summary": "Share South Africa convicts Zimbabwean who tried to fight Ukraine for Russia on social mediaA South African court has convicted and sentenced a Zimbabwean man for trying to travel to Russia to fight in Ukraine after he was arrested earlier this month alongside eight others.\nForeign Military Assistance ActSithole said a person he identified as \u201cAlbina\u201d contacted him after he submitted the application, arranged accommodation in South Africa and provided a flight ticket to Russia.\nAdvertisementHe said he entered South Africa legally on November 4 and stayed in an accommodation in Kempton Park, east of Johannesburg, in preparation for his travel to Russia.\nLarger issue at playZimbabwe is among several African countries where Russia has been recruiting fighters for its war against Ukraine.\nOthers include South Africa, Kenya, Botswana and Ghana.",
+      "id": "NzY=",
+      "url": "https://rt-english.com/russia/649361-lavrov-eu-ukraine-negotiations/",
+      "title": "Lavrov warns of Europeans \u2018with feet on the table\u2019 \u2014 RT Russia & Former Soviet Union",
+      "summary": "\u201dIf only NATO and the European Union are to determine Europe\u2019s [security] architecture and Russia\u2019s interests must not be accommodated, then what\u2019s the point of holding such negotiations?\u201d Lavrov asked.\nThe Russian foreign minister accused Brussels of engaging in \u201cmegaphone diplomacy\u201d rather than submitting concrete proposals through diplomatic channels.\n\u201dWith manners and intentions like that, they will sit at the negotiating table and put their feet upon it right away.\nRussia's Foreign Minister Lavrov: We asked representatives of European countries to come to us or explain their position in some other way.\nBut with such manners and such intentions, they will sit down at the negotiating table and immediately put their feet on it.",
       "category": "international",
-      "bias": "left",
-      "publishedAt": "2026-11-24T23:29:40Z",
+      "bias": "lean left",
+      "publishedAt": "2026-11-25T20:41:27Z",
+      "source": "Rt-english.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Nzc=",
+      "url": "https://www.naturalnews.com/2026-11-25-kushner-israel-advancing-toward-global-pariah-status.html",
+      "title": "Kushner Warns That Israel Is Advancing Toward \u201cGlobal Pariah Status\u201d \u2013 NaturalNews.com",
+      "summary": "Nickolay Mladenov, the U.S.-appointed overseer of Trump's Gaza ceasefire plan, publicly criticized Israel for continuing airstrikes despite Hamas agreeing to disarm.\nNetanyahu has blocked the Board of Peace from advancing its plan to rebuild Gaza, according to a report [1].\nNeither Russia nor China is among the 28 countries whose leaders are members of Trump's Board of Peace.\nDemocrats call it corruption ... https://nymag.com/intelligencer/article/jared-kushner-profile-diplomacy-trump.html Trump's Gaza 'Board of Peace;' Is Just as Bad as You'd Imagine.\nhttps://www.middleeasteye.net/news/what-is-trump-board-of-peace-and-who-will-govern-gaza UN peace envoy warns: Stalled Gaza ceasefire risks a \"point of no return\" - NaturalNews.com, August 28, 2026.",
+      "category": "international",
+      "bias": "lean right",
+      "publishedAt": "2026-11-25T06:00:00Z",
+      "source": "Naturalnews.com"
+    }
+  },
+  {
+    "article": {
+      "id": "Nzg=",
+      "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit",
+      "title": "Pakistan rejoices as country\u2019s first astronaut enters orbit",
+      "summary": "Zeeshan Ali makes history as the first foreign national to board China\u2019s space stationThe first person from Pakistan to go into orbit has made history as the first foreign astronaut to board China\u2019s Tiangong space station.\nAli, 40, will stay in space for five to 10 days, shorter than the usual six-month stints Chinese astronauts serve.\n\u201cThis is not just one astronaut\u2019s journey, but the journey of 240 million Pakistanis.\n\u201cThis is living proof of the ironclad friendship between Pakistan and China.\nChina has been ramping up its space industry and aims to put a Chinese astronaut on the moon by 2030.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-25T07:05:59Z",
+      "source": "Al Jazeera English"
+    }
+  },
+  {
+    "article": {
+      "id": "Nzk=",
+      "url": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides",
+      "title": "Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?",
+      "summary": "Analysts say a unified Libya best protects Turkiye\u2019s economic and maritime interests, but instability and divisions remain major hurdles.\nShare Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?\nSo what are Ankara\u2019s interests in forging closer ties with Haftar, and what are the challenges ahead as Ankara seeks to reunify Libya?\nIn August, Fidan travelled to Tripoli and Benghazi for separate meetings with Prime Minister Abdul Hamid Dbeibah and Khalifa Haftar respectively.\nIt is unclear whether Erdogan\u2019s December visit will bring Dbeibah and Khalifa Haftar together for direct negotiations.",
+      "category": "international",
+      "bias": "lean left",
+      "publishedAt": "2026-11-26T13:34:21Z",
       "source": "Al Jazeera English"
     }
   }
